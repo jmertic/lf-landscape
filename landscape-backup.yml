@@ -1,0 +1,3322 @@
+landscape:
+  - category:
+    name: Vertical Specific
+    subcategories:
+      - subcategory:
+        name: Academy Software Foundation
+        items:
+          - item:
+            name: OpenVDB
+            homepage_url: 'https://www.openvdb.org/'
+            repo_url: 'https://github.com/AcademySoftwareFoundation/openvdb'
+            logo: openvdb.svg
+            crunchbase: 'https://www.crunchbase.com/organization/academy-software-foundation'
+          - item:
+            name: OpenColorIO
+            homepage_url: 'https://opencolorio.org/'
+            repo_url: 'https://github.com/AcademySoftwareFoundation/OpenColorIO'
+            logo: opencolorio.svg
+            crunchbase: 'https://www.crunchbase.com/organization/academy-software-foundation'
+          - item:
+            name: OpenEXR
+            homepage_url: 'https://www.openexr.com/'
+            repo_url: 'https://github.com/AcademySoftwareFoundation/openexr'
+            logo: openexr.svg
+            crunchbase: 'https://www.crunchbase.com/organization/academy-software-foundation'
+          - item:
+            name: OpenTimelineIO
+            homepage_url: 'https://github.com/PixarAnimationStudios/OpenTimelineIO'
+            repo_url: 'https://github.com/PixarAnimationStudios/OpenTimelineIO'
+            logo: opentimelineio.svg
+            crunchbase: 'https://www.crunchbase.com/organization/academy-software-foundation'
+          - item:
+            name: OpenCue
+            homepage_url: 'https://www.opencue.io/'
+            repo_url: 'https://github.com/AcademySoftwareFoundation/OpenCue'
+            logo: opencue.svg
+            crunchbase: 'https://www.crunchbase.com/organization/academy-software-foundation'
+      - subcategory:
+        name: LF Energy
+        items:
+          - item:
+            name: OperatorFabric
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/01/logo_lfe_opfab.png'
+            homepage_url: 'https://www.lfenergy.org/projects/#opfab'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-energy'
+            repo_url: 'https://github.com/opfab/operatorfabric-core'
+          - item:
+            name: PowSyBl
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/01/logo_lfe_powsybl.png'
+            homepage_url: 'https://www.lfenergy.org/projects/#powsybl'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-energy'
+            repo_url: 'https://github.com/powsybl/powsybl-core'
+          - item:
+            name: RIAPS
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/01/logo_lfe_riaps.png'
+            homepage_url: 'https://www.lfenergy.org/projects/'
+          - item:
+            name: OpenEEmeter
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/06/openeemeter-color.png'
+            homepage_url: 'https://www.lfenergy.org/projects/#openeemeter'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-energy'
+          - item:
+            name: Energy Market Methods Consortium (EM2)
+            logo: em2.svg
+            homepage_url: 'https://www.lfenergy.org/projects/#em2'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-energy'
+          - item:
+            name: OEDI
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/06/oedi-color.svg'
+            homepage_url: 'https://www.lfenergy.org/projects/#oedi'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-energy'
+      - subcategory:
+        name: Automotive Grade Linux
+        items:
+          - item:
+            name: Automotive Grade Linux
+            homepage_url: 'https://www.automotivelinux.org'
+            repo_url: 'https://github.com/automotive-grade-linux/docs-sources'
+            logo: automotivegradelinux.svg
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+      - subcategory:
+        name: Civil Infrastructure Platform
+        items:
+          - item:
+            name: Civil Infrastructure Platform
+            logo: civilinfrastructureplatform.svg
+            homepage_url: "https://www.cip-project.org"
+            repo_url: "https://github.com/cip-project/cip-kernel-sec"
+            crunchbase: "https://www.crunchbase.com/organization/civil-infrastructure-platform"
+  - category:
+    name: Cloud Computing
+    subcategories:
+      - subcategory:
+        name: Cloud Native Computing Foundation
+        items:
+          - item:
+            name: KubeEdge
+            homepage_url: 'https://kubeedge.io/en/'
+            project: sandbox
+            repo_url: 'https://github.com/kubeedge/kubeedge'
+            logo: kube-edge.svg
+            twitter: 'https://twitter.com/KubeEdge'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Dragonfly
+            homepage_url: 'https://d7y.io/en-us/'
+            project: sandbox
+            repo_url: 'https://github.com/dragonflyoss/Dragonfly'
+            logo: dragonfly.svg
+            twitter: 'https://twitter.com/dragonfly_oss'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Harbor
+            homepage_url: 'https://goharbor.io/'
+            project: incubating
+            repo_url: 'https://github.com/goharbor/harbor'
+            logo: harbor.svg
+            twitter: 'https://twitter.com/project_harbor'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Falco
+            homepage_url: 'https://falco.org/'
+            project: sandbox
+            repo_url: 'https://github.com/falcosecurity/falco'
+            logo: falco.svg
+            twitter: 'https://twitter.com/falco_org'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: in-toto
+            homepage_url: 'https://in-toto.io'
+            project: sandbox
+            repo_url: 'https://github.com/in-toto/in-toto'
+            logo: 'https://raw.githubusercontent.com/cncf/artwork/master/projects/in-toto/stacked/color/in-toto-stacked-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Notary
+            homepage_url: 'https://github.com/theupdateframework/notary'
+            project: incubating
+            repo_url: 'https://github.com/theupdateframework/notary'
+            logo: notary.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Open Policy Agent (OPA)
+            homepage_url: 'https://www.openpolicyagent.org/'
+            project: incubating
+            repo_url: 'https://github.com/open-policy-agent/opa'
+            logo: opa.svg
+            twitter: 'https://twitter.com/openpolicyagent'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: The Update Framework (TUF)
+            homepage_url: 'https://theupdateframework.github.io/'
+            project: incubating
+            repo_url: 'https://github.com/theupdateframework/tuf'
+            logo: the-update-framework-tuf.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: SPIFFE
+            homepage_url: 'https://spiffe.io/'
+            project: sandbox
+            repo_url: 'https://github.com/spiffe/spiffe'
+            logo: spiffe.svg
+            twitter: 'https://twitter.com/spiffeio'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: SPIRE
+            homepage_url: 'https://spiffe.io/spire/'
+            project: sandbox
+            repo_url: 'https://github.com/spiffe/spire'
+            logo: spire.svg
+            twitter: 'https://twitter.com/spiffeio'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Longhorn
+            homepage_url: 'https://github.com/longhorn/longhorn'
+            project: sandbox
+            repo_url: 'https://github.com/longhorn/longhorn'
+            logo: 'https://raw.githubusercontent.com/cncf/artwork/master/projects/longhorn/stacked/color/longhorn-stacked-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: OpenEBS
+            homepage_url: 'https://www.openebs.io/'
+            project: sandbox
+            repo_url: 'https://github.com/openebs/openebs'
+            logo: openebs.svg
+            twitter: 'https://twitter.com/openebs'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Rook
+            homepage_url: 'https://rook.io/'
+            project: incubating
+            repo_url: 'https://github.com/rook/rook'
+            logo: rook.svg
+            twitter: 'https://twitter.com/rook_io'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: containerd
+            homepage_url: 'https://containerd.io/'
+            project: graduated
+            repo_url: 'https://github.com/containerd/containerd'
+            logo: containerd.svg
+            twitter: 'https://twitter.com/containerd'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: CRI-O
+            homepage_url: 'https://cri-o.io/'
+            project: incubating
+            repo_url: 'https://github.com/cri-o/cri-o'
+            logo: cri-o.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Container Network Interface (CNI)
+            homepage_url: 'https://github.com/containernetworking'
+            project: incubating
+            repo_url: 'https://github.com/containernetworking/cni'
+            logo: container-network-interface-cni.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Network Service Mesh
+            homepage_url: 'https://networkservicemesh.io/'
+            project: sandbox
+            repo_url: 'https://github.com/networkservicemesh/networkservicemesh'
+            logo: network-service-mesh.svg
+            twitter: 'https://twitter.com/nservicemesh'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Kubernetes
+            description: 'Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications'
+            homepage_url: 'https://kubernetes.io/'
+            project: graduated
+            repo_url: 'https://github.com/kubernetes/kubernetes'
+            logo: kubernetes.svg
+            twitter: 'https://twitter.com/kubernetesio'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: CoreDNS
+            homepage_url: 'https://coredns.io/'
+            project: graduated
+            repo_url: 'https://github.com/coredns/coredns'
+            logo: core-dns.svg
+            twitter: 'https://twitter.com/corednsio'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: etcd
+            homepage_url: 'https://github.com/etcd-io'
+            project: incubating
+            repo_url: 'https://github.com/etcd-io/etcd'
+            logo: etcd.svg
+            twitter: 'https://twitter.com/etcdio'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: gRPC
+            homepage_url: 'https://grpc.io/'
+            project: incubating
+            repo_url: 'https://github.com/grpc/grpc'
+            logo: grpc.svg
+            twitter: 'https://twitter.com/grpcio'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Envoy
+            homepage_url: 'https://www.envoyproxy.io'
+            project: graduated
+            repo_url: 'https://github.com/envoyproxy/envoy'
+            logo: envoy.svg
+            twitter: 'https://twitter.com/envoyproxy'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Linkerd
+            homepage_url: 'https://linkerd.io/'
+            project: incubating
+            repo_url: 'https://github.com/linkerd/linkerd2'
+            logo: linkerd.svg
+            twitter: 'https://twitter.com/linkerd'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: TiKV
+            homepage_url: 'https://github.com/tikv/tikv'
+            project: incubating
+            repo_url: 'https://github.com/tikv/tikv'
+            logo: tikv.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Vitess
+            homepage_url: 'https://vitess.io/'
+            project: graduated
+            repo_url: 'https://github.com/vitessio/vitess'
+            logo: vitess.svg
+            twitter: 'https://twitter.com/vitessio'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: CloudEvents
+            homepage_url: 'https://cloudevents.io/'
+            project: incubating
+            repo_url: 'https://github.com/cloudevents/spec'
+            logo: cloud-events.svg
+            twitter: 'https://twitter.com/cloudeventsio'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: NATS
+            homepage_url: 'https://nats.io/'
+            project: incubating
+            repo_url: 'https://github.com/nats-io/nats-server'
+            url_for_bestpractices: 'https://github.com/nats-io'
+            logo: nats.svg
+            twitter: 'https://twitter.com/nats_io'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Strimzi
+            homepage_url: 'https://strimzi.io/'
+            project: sandbox
+            repo_url: 'https://github.com/strimzi/strimzi-kafka-operator'
+            logo: strimzi.svg
+            twitter: 'https://twitter.com/strimziio'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Buildpacks
+            homepage_url: 'https://buildpacks.io/'
+            project: sandbox
+            repo_url: 'https://github.com/buildpack/pack'
+            logo: buildpacks.svg
+            twitter: 'https://twitter.com/buildpacks_io'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Helm
+            homepage_url: 'https://helm.sh/'
+            project: incubating
+            repo_url: 'https://github.com/helm/helm'
+            logo: helm.svg
+            twitter: 'https://twitter.com/helmpack'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: KubeVirt
+            homepage_url: 'https://kubevirt.io/'
+            project: sandbox
+            repo_url: 'https://github.com/kubevirt/kubevirt'
+            logo: 'https://raw.githubusercontent.com/cncf/artwork/master/projects/kubevirt/stacked/color/kubevirt-stacked-color.svg'
+            twitter: 'https://twitter.com/kubevirt'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Telepresence
+            homepage_url: 'https://www.telepresence.io/'
+            project: sandbox
+            repo_url: 'https://github.com/telepresenceio/telepresence'
+            logo: telepresence.svg
+            twitter: 'https://twitter.com/telepresenceio'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Brigade
+            homepage_url: 'https://brigade.sh/'
+            project: sandbox
+            repo_url: 'https://github.com/brigadecore/brigade'
+            logo: brigade.svg
+            twitter: 'https://twitter.com/brigadecore'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Flux
+            homepage_url: 'https://docs.fluxcd.io/en/latest/'
+            project: sandbox
+            repo_url: 'https://github.com/fluxcd/flux'
+            logo: 'https://raw.githubusercontent.com/cncf/artwork/master/projects/flux/horizontal/color/flux-horizontal-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: kind
+            description: kind creates local multi-node Kubernetes clusters using Docker container nodes.
+            homepage_url: 'https://github.com/kubernetes-sigs/kind'
+            repo_url: 'https://github.com/kubernetes-sigs/kind'
+            logo: kind.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: kops
+            description: 'kops is open source, community-maintained tooling for production-grade kubernetes cluster installation, management and upgrades.'
+            homepage_url: 'https://github.com/kubernetes/kops'
+            repo_url: 'https://github.com/kubernetes/kops'
+            logo: kops.svg
+            twitter: 'https://twitter.com/k8sops'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Kubeadm
+            description: >-
+              Kubeadm is a tool built to provide best-practice "fast paths" for creating Kubernetes clusters. It performs the actions necessary to get a minimum
+              viable, secure cluster up and running in a user friendly way.
+            homepage_url: 'https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/'
+            repo_url: 'https://github.com/kubernetes/kubeadm'
+            logo: kubeadm.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Kubespray
+            description: Deploy a Production Ready Kubernetes Cluster
+            homepage_url: 'https://kubespray.io/'
+            repo_url: 'https://github.com/kubernetes-sigs/kubespray'
+            logo: kubespray.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: minikube
+            description: 'minikube runs a local Kubernetes cluster on macOS, Linux, and Windows.'
+            homepage_url: 'https://minikube.sigs.k8s.io'
+            repo_url: 'https://github.com/kubernetes/minikube'
+            logo: minikube.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Cloud Native Landscape
+            homepage_url: 'https://landscape.cncf.io/'
+            repo_url: 'https://github.com/cncf/landscapeapp'
+            logo: 'https://raw.githubusercontent.com/cncf/artwork/master/other/cncf-landscape/stacked/color/cncf-landscape-stacked-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Virtual Kubelet
+            homepage_url: 'https://github.com/virtual-kubelet'
+            project: sandbox
+            repo_url: 'https://github.com/virtual-kubelet/virtual-kubelet'
+            logo: virtual-kubelet.svg
+            twitter: 'https://twitter.com/virtualkubelet'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Cortex
+            homepage_url: 'https://github.com/cortexproject'
+            project: sandbox
+            repo_url: 'https://github.com/cortexproject/cortex'
+            logo: cortex.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: OpenMetrics
+            homepage_url: 'https://openmetrics.io/'
+            project: sandbox
+            repo_url: 'https://github.com/OpenObservability/OpenMetrics'
+            logo: openmetrics.svg
+            twitter: 'https://twitter.com/OpenMetricsIO'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Prometheus
+            homepage_url: 'https://prometheus.io/'
+            project: graduated
+            repo_url: 'https://github.com/prometheus/prometheus'
+            logo: prometheus.svg
+            twitter: 'https://twitter.com/PrometheusIO'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Thanos
+            homepage_url: 'https://thanos.io/'
+            project: sandbox
+            repo_url: 'https://github.com/thanos-io/thanos'
+            logo: thanos.svg
+            twitter: 'https://twitter.com/ThanosMetrics'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Fluentd
+            homepage_url: 'https://www.fluentd.org/'
+            project: graduated
+            repo_url: 'https://github.com/fluent/fluentd'
+            logo: fluentd.svg
+            twitter: 'https://twitter.com/fluentd'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Jaeger
+            homepage_url: 'https://www.jaegertracing.io/'
+            project: graduated
+            repo_url: 'https://github.com/jaegertracing/jaeger'
+            logo: jaeger.svg
+            twitter: 'https://twitter.com/JaegerTracing'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: OpenTelemetry
+            homepage_url: 'https://opentelemetry.io/'
+            project: sandbox
+            repo_url: 'https://github.com/open-telemetry/opentelemetry-specification'
+            logo: open-telemetry.svg
+            twitter: 'https://twitter.com/opentelemetry'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: OpenTracing
+            homepage_url: 'https://opentracing.io/'
+            project: incubating
+            repo_url: 'https://github.com/opentracing/opentracing-go'
+            logo: open-tracing.svg
+            twitter: 'https://twitter.com/opentracing'
+            crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+      - subcategory:
+        name: Standards
+        items:
+          - item:
+            name: OACA
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2018/05/oaca_logo.png"
+            homepage_url: "https://oaca-project.github.io/"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: Open Container Initiative
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2017/05/OCI_logo.png"
+            homepage_url: "https://www.opencontainers.org"
+            repo_url: "https://github.com/opencontainers/runc"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: rkt
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2017/05/rkt-01.svg"
+            homepage_url: "https://github.com/rkt/rkt"
+            repo_url: "https://github.com/rkt/rkt"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+  - category:
+    name: Development and Tooling
+    subcategories:
+      - subcategory:
+        name: OpenJS Foundation
+        items:
+          - item:
+            name: Appium
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/01/logo_appium.png'
+            homepage_url: 'http://appium.io/'
+            repo_url: 'https://github.com/appium/appium'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: impact
+          - item:
+            name: Dojo
+            logo: 'https://dojo.io/logo.2eZA5N70.svg'
+            homepage_url: 'https://dojo.io/'
+            repo_url: 'https://github.com/dojo/framework'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: impact
+          - item:
+            name: jQuery
+            logo: 'https://upload.wikimedia.org/wikipedia/en/9/9e/JQuery_logo.svg'
+            homepage_url: 'http://jquery.com/'
+            repo_url: 'https://github.com/jquery/jquery'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: impact
+          - item:
+            name: Node.js
+            logo: nodejs.svg
+            homepage_url: 'https://nodejs.org/'
+            repo_url: 'https://github.com/nodejs/node'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: impact
+          - item:
+            name: Webpack
+            logo: 'https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-white-bg.svg'
+            homepage_url: 'https://webpack.js.org/'
+            repo_url: 'https://github.com/webpack/webpack'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: impact
+          - item:
+            name: Architect
+            homepage_url: 'https://arc.codes/'
+            logo: 'https://github.com/architect/arc.codes/blob/master/src/http/get-index/assets/architect-logo-white.svg'
+            repo_url: 'https://github.com/architect/architect'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: growth
+          - item:
+            name: Intern
+            logo: 'https://raw.githubusercontent.com/theintern/theintern.github.io/master/images/intern-logo-docs.svg'
+            homepage_url: 'https://theintern.github.io/'
+            repo_url: 'https://github.com/theintern/intern'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: growth
+          - item:
+            name: Mocha
+            logo: mochajs.svg
+            homepage_url: 'http://mochajs.org/'
+            repo_url: 'https://github.com/mochajs/mocha'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: growth
+          - item:
+            name: Node-RED
+            logo: 'https://github.com/node-red/node-red.github.io/raw/master/about/resources/media/node-red-icon-2.svg'
+            homepage_url: 'http://nodered.org/'
+            repo_url: 'https://github.com/node-red/node-red'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: growth
+          - item:
+            name: Webdriver IO
+            logo: webdriverio.svg
+            homepage_url: 'http://webdriver.io/'
+            repo_url: 'https://github.com/webdriverio/webdriverio'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: growth
+          - item:
+            name: WebHint
+            logo: 'https://raw.githubusercontent.com/webhintio/webhint.io/master/src/webhint-theme/source/images/webhint-logo.svg'
+            homepage_url: 'https://webhint.io/'
+            repo_url: 'https://github.com/webhintio/hint'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: growth
+          - item:
+            name: ESLint
+            logo: 'https://eslint.org/assets/img/logo.svg'
+            homepage_url: 'http://eslint.org/'
+            repo_url: 'https://github.com/eslint/eslint'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: atlarge
+          - item:
+            name: Esprima
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/01/logo_esprima.png'
+            homepage_url: 'http://esprima.org/'
+            repo_url: 'https://github.com/jquery/esprima'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: atlarge
+          - item:
+            name: Express
+            logo: express.svg
+            homepage_url: 'https://expressjs.com/'
+            repo_url: 'https://github.com/expressjs/express'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: atlarge
+          - item:
+            name: Globalize
+            homepage_url: 'https://globalizejs.com/'
+            logo: globalize.svg
+            repo_url: 'https://github.com/globalizejs/globalize'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: atlarge
+          - item:
+            name: Grunt
+            logo: 'https://gruntjs.com/img/grunt-logo.svg'
+            homepage_url: 'http://gruntjs.com/'
+            repo_url: 'https://github.com/gruntjs/grunt'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: atlarge
+          - item:
+            name: HospitalRun
+            logo: 'https://github.com/HospitalRun/design/raw/master/logo/logo-dark.svg'
+            homepage_url: 'http://hospitalrun.io/'
+            repo_url: 'https://github.com/HospitalRun/hospitalrun'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: atlarge
+          - item:
+            name: Interledger.js
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/01/logo_interledger.png'
+            homepage_url: 'http://interledgerjs.org/'
+            repo_url: 'https://github.com/interledgerjs/interledgerjs'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: atlarge
+          - item:
+            name: JerryScript
+            logo: 'https://raw.githubusercontent.com/jerryscript-project/jerryscript/master/LOGO.svg'
+            homepage_url: 'http://jerryscript.net/'
+            repo_url: 'https://github.com/jerryscript-project/jerryscript'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: atlarge
+          - item:
+            name: libuv
+            homepage_url: 'https://libuv.org/'
+            logo: 'https://raw.githubusercontent.com/libuv/libuv/v1.x/img/logos.svg'
+            repo_url: 'https://github.com/libuv/libuv'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: atlarge
+          - item:
+            name: Lodash
+            logo: 'https://lodash.com/assets/img/lodash.svg'
+            homepage_url: 'https://lodash.com/'
+            repo_url: 'https://github.com/lodash/lodash'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: atlarge
+          - item:
+            name: Marko
+            logo: 'https://raw.githubusercontent.com/marko-js/branding/master/marko.svg'
+            homepage_url: 'http://markojs.com/'
+            repo_url: 'https://github.com/marko-js/marko'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: atlarge
+          - item:
+            name: messageformat
+            logo: 'https://raw.githubusercontent.com/messageformat/messageformat/master/docs/logo/messageformat-with-text.svg'
+            homepage_url: 'https://messageformat.github.io/messageformat/'
+            repo_url: 'https://github.com/messageformat/messageformat'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: atlarge
+          - item:
+            name: Moment
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/01/logo_moment.png'
+            homepage_url: 'http://momentjs.com/'
+            repo_url: 'https://github.com/moment/moment/'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: atlarge
+          - item:
+            name: PointerEvents Polyfill (PEP)
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2019/01/logo_pep.png"
+            homepage_url: "https://github.com/jquery/pep"
+            repo_url: "https://github.com/jquery/pep"
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: atlarge
+          - item:
+            name: QUnit
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2019/01/logo_qunit.png"
+            homepage_url: "http://qunitjs.com/"
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: atlarge
+            repo_url: "https://github.com/qunitjs/qunit"
+          - item:
+            name: AMP
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: incubating
+            repo_url: "https://github.com/ampproject/amphtml"
+            homepage_url: "https://amp.dev/"
+            logo: "https://www.tnado.com/includes/medias/2017/10/tnado-seo-cms-amp.svg"
+          - item:
+            name: Fastify
+            repo_url: "https://github.com/fastify/fastify"
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            project: incubating
+            homepage_url: "https://www.fastify.io/"
+            logo: "https://raw.githubusercontent.com/fastify/graphics/master/fastify-landscape.svg"
+          - item:
+            name: Electron
+            repo_url: "https://github.com/electron/electron"
+            homepage_url: "https://electronjs.org/"
+            project: incubating
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            logo: "https://electronjs.org/images/electron-logo.svg"
+          - item:
+            name: nvm
+            repo_url: "https://github.com/nvm-sh/nvm"
+            homepage_url: "http://nvm.sh/"
+            project: incubating
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            logo: "https://electronjs.org/images/electron-logo.svg"
+      - subcategory:
+        name: CD Foundation
+        items:
+          - item:
+            name: CD Foundation
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2019/03/cdf-color-400.svg"
+            homepage_url: "https://cd.foundation/"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: Jenkins
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2019/04/jenkins-color-stacked.svg"
+            homepage_url: "https://jenkins.io/"
+            repo_url: "https://github.com/jenkinsci/jenkins"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: Jenkins X
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2019/04/jenkinsx-color-stacked.svg"
+            homepage_url: "https://jenkins-x.io/"
+            repo_url: "https://github.com/jenkins-x/jx"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: Spinnaker
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2019/04/spinnaker-color.svg"
+            homepage_url: "https://www.spinnaker.io/"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+            repo_url: "https://github.com/spinnaker/spinnaker"
+          - item:
+            name: Screwdriver.cd
+            logo: "https://screwdriver.cd/brand/LOGOS/SVG/Screwdriver_Logo_FullWhite.svg"
+            homepage_url: "https://screwdriver.cd/"
+            repo_url: "https://github.com/screwdriver-cd/screwdriver"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: Tekton
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2019/04/tekton-color.svg"
+            repo_url: "https://github.com/tektoncd/pipeline"
+            homepage_url: "https://tekton.dev/"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+      - subcategory:
+        name: Other
+        items:
+          - item:
+            name: Cloud Foundry
+            logo: cloudfoundry.svg
+            homepage_url: "https://www.cloudfoundry.org"
+            repo_url: "https://github.com/cloudfoundry/cf-deployment"
+            crunchbase: "https://www.crunchbase.com/organization/cloud-foundry"
+          - item:
+            name: Mapzen
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2019/01/logo_mapzen.png"
+            homepage_url: "https://www.mapzen.com/"
+            repo_url: "https://github.com/mapzen/write-the-docs-tutorial"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: OpenAPI Initiative
+            logo: openapiinitiative.svg
+            homepage_url: "https://www.openapis.org"
+            repo_url: "https://github.com/OAI/OpenAPI-Specification"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: osquery
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2019/06/osquery-color.svg"
+            homepage_url: "https://osquery.io/"
+            repo_url: "https://github.com/osquery/osquery"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: TARS
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2019/01/tars-01.svg"
+            homepage_url: "https://github.com/tarscloud"
+            repo_url: "https://github.com/TarsCloud/Tars"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+  - category:
+    name: Data, Anayltics, and AI
+    subcategories:
+      - subcategory:
+        name: HyperLedger
+        items:
+          - item:
+            name: Hyperledger Aries
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/09/Hyperledger_ARies_Logo_Color.svg'
+            homepage_url: 'https://www.hyperledger.org/projects/aries'
+            repo_url: 'https://github.com/hyperledger/aries'
+            crunchbase: 'https://www.crunchbase.com/organization/hyperledger-2'
+          - item:
+            name: Hyperledger Avalon
+            crunchbase: 'https://www.crunchbase.com/organization/hyperledger-2'
+          - item:
+            name: Hyperledger Besu
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/09/Hyperledger_Besu_Logo_Color.svg'
+            homepage_url: 'https://www.hyperledger.org/projects/besu'
+            repo_url: 'https://github.com/hyperledger/besu'
+            crunchbase: 'https://www.crunchbase.com/organization/hyperledger-2'
+          - item:
+            name: Hyperledger Burrow
+            crunchbase: 'https://www.crunchbase.com/organization/hyperledger-2'
+            homepage_url: 'https://www.hyperledger.org/projects/hyperledger-burrow'
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/01/Logo_hl-burrow-1.svg'
+            repo_url: 'https://github.com/hyperledger/burrow'
+          - item:
+            name: Hyperledger Caliper
+            crunchbase: 'https://www.crunchbase.com/organization/hyperledger-2'
+            repo_url: 'https://github.com/hyperledger/caliper'
+            homepage_url: 'https://www.hyperledger.org/projects/caliper'
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/01/Logo_hl-caliper-1.svg'
+          - item:
+            name: Hyperledger Cello
+            crunchbase: 'https://www.crunchbase.com/organization/hyperledger-2'
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/01/Logo_hl-cello-1.svg'
+            homepage_url: 'https://www.hyperledger.org/projects/cello'
+            repo_url: 'https://github.com/hyperledger/cello'
+          - item:
+            name: Hyperledger Explorer
+            crunchbase: 'https://www.crunchbase.com/organization/hyperledger-2'
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/01/Logo_hl-explorer-1.svg'
+            homepage_url: 'https://www.hyperledger.org/projects/explorer'
+            repo_url: 'https://github.com/hyperledger/explorer'
+          - item:
+            name: Hyperledger Fabric
+            crunchbase: 'https://www.crunchbase.com/organization/hyperledger-2'
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/01/Logo_hl-fabric-1.svg'
+            homepage_url: 'https://www.hyperledger.org/projects/fabric'
+            repo_url: 'https://github.com/hyperledger/fabric'
+          - item:
+            name: Hyperledger Grid
+            crunchbase: 'https://www.crunchbase.com/organization/hyperledger-2'
+            logo: 'https://www.hyperledger.org/projects/grid'
+            homepage_url: 'https://www.linuxfoundation.org/wp-content/uploads/2019/01/Hyperledger_Grid_Logo_Color_Color.svg'
+            repo_url: 'https://github.com/hyperledger/grid'
+          - item:
+            name: Hyperledger Indy
+            crunchbase: 'https://www.crunchbase.com/organization/hyperledger-2'
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/01/Logo_hl-indy-1.svg'
+            homepage_url: 'https://www.hyperledger.org/projects/hyperledger-indy'
+            repo_url: 'https://github.com/hyperledger/indy'
+          - item:
+            name: Hyperledger Iroha
+            crunchbase: 'https://www.crunchbase.com/organization/hyperledger-2'
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/01/Logo_hl-iroha-1.svg'
+            homepage_url: 'https://www.hyperledger.org/projects/iroha'
+            repo_url: 'https://github.com/hyperledger/iroha'
+          - item:
+            name: Hyperledger Quilt
+            crunchbase: 'https://www.crunchbase.com/organization/hyperledger-2'
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/01/Logo_hl-quilt-1.svg'
+            homepage_url: 'https://www.hyperledger.org/projects/quilt'
+            repo_url: 'https://github.com/hyperledger/quilt'
+          - item:
+            name: Hyperledger Sawtooth
+            crunchbase: 'https://www.crunchbase.com/organization/hyperledger-2'
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/01/Logo_hl-sawtooth-1.svg'
+            homepage_url: 'https://www.hyperledger.org/projects/sawtooth'
+            repo_url: 'https://github.com/hyperledger/sawtooth'
+          - item:
+            name: Hyperledger Transact
+            crunchbase: 'https://www.crunchbase.com/organization/hyperledger-2'
+            homepage_url: 'https://www.hyperledger.org/projects/transact'
+            repo_url: 'https://github.com/hyperledger/transact'
+          - item:
+            name: Hyperledger Ursa
+            crunchbase: 'https://www.crunchbase.com/organization/hyperledger-2'
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/01/Hyperledger_Ursa_Logo_Color.svg'
+            homepage_url: 'https://www.hyperledger.org/projects/ursa'
+            repo_url: 'https://github.com/hyperledger/ursa'
+      - subcategory:
+        name: ODPi
+        items:
+          - item:
+            name: ODPi Egeria
+            homepage_url: 'https://egeria.odpi.org/'
+            repo_url: 'https://github.com/odpi/egeria'
+            logo: odpi_egeria.svg
+            crunchbase: 'https://www.crunchbase.com/organization/odpi'
+          - item:
+            name: ODPi BI & AI
+            homepage_url: 'https://www.odpi.org/projects/bi-ai'
+            repo_url: 'https://github.com/odpi/bi-ai'
+            logo: odpi-bi-ai.svg
+            crunchbase: 'https://www.crunchbase.com/organization/odpi'
+          - item:
+            name: ODPi OpenDS4All
+            homepage_url: 'https://github.com/odpi/OpenDS4All'
+            repo_url: 'https://github.com/odpi/OpenDS4All'
+            logo: odpi-opends4all.svg
+            crunchbase: 'https://www.crunchbase.com/organization/odpi'
+      - subcategory:
+        name: LF AI
+        items:
+          - item:
+            name: Acumos AI
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/01/acumos-01.svg'
+            homepage_url: 'http://www.acumos.org/'
+            repo_url: 'https://github.com/acumos/portal-marketplace'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+          - item:
+            name: Adlik
+            logo: 'https://lfai.foundation/wp-content/uploads/sites/68/2019/10/adlik-color-400.svg'
+            repo_url: 'https://github.com/Adlik/Adlik/'
+            homepage_url: 'https://adlik.ai/'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+          - item:
+            name: Angel-ML
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/01/angel-01.svg'
+            homepage_url: 'https://github.com/Angel-ML/angel'
+            repo_url: 'https://github.com/Angel-ML/angel'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+          - item:
+            name: Elastic Deep Learning
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/01/EDL-01.svg'
+            homepage_url: 'http://www.paddlepaddle.org/'
+            repo_url: 'https://github.com/PaddlePaddle/edl'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+          - item:
+            name: Horovod
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/01/horovod-01.svg'
+            homepage_url: 'https://eng.uber.com/horovod/'
+            repo_url: 'https://github.com/horovod/horovod'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+          - item:
+            name: ONNX
+            logo: 'https://github.com/lfai/artwork/raw/master/onnx/stacked/color/onnx-stacked-color.svg'
+            homepage_url: 'https://onnx.ai/'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+            repo_url: 'https://github.com/onnx/onnx'
+          - item:
+            name: Pyro
+            repo_url: 'https://github.com/uber/pyro'
+            homepage_url: 'https://pyro.ai/'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+            logo: 'https://github.com/lfai/artwork/raw/master/pyro/stacked/color/pyro-stacked-color.svg'
+      - subcategory:
+        name: Other
+        items:
+          - item:
+            name: JanusGraph
+            logo: 'https://raw.githubusercontent.com/JanusGraph/logos/master/RGB%20-%20SVG/JanusGraph%20logo%20color%20RGB.svg'
+            homepage_url: 'http://janusgraph.org'
+            repo_url: 'https://github.com/JanusGraph/janusgraph'
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: OpenSDS
+            homepage_url: 'https://www.opensds.io/'
+            repo_url: 'https://github.com/opensds/opensds'
+            logo: opensds.svg
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: Community Data License Agreement (CDLA)
+            homepage_url: 'https://cdla.io/'
+            repo_url: 'https://github.com/lfai/CDLA'
+            logo: cdla.svg
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: DataPractices.org
+            homepage_url: 'https://datapractices.org/'
+            repo_url: 'https://github.com/datadotworld/data-practices-site'
+            logo: datapractices-org.svg
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: R Consortium
+            logo: rconsortium.svg
+            homepage_url: 'https://www.r-consortium.org'
+            repo_url: 'https://github.com/RConsortium/isc'
+            crunchbase: 'https://www.crunchbase.com/organization/the-r-consortium'
+          - item:
+            name: RethinkDB
+            logo: rethinkdb.png
+            homepage_url: 'https://www.rethinkdb.com'
+            repo_url: 'https://github.com/rethinkdb/rethinkdb'
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: OpenSDS
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2017/05/opensds_logo.png'
+            homepage_url: 'https://www.opensds.io'
+            repo_url: 'https://github.com/opensds/opensds'
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: Federated AI Ecosystem
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2019/06/fate-color.png"
+            homepage_url: "https://www.fedai.org/"
+            repo_url: "https://github.com/FederatedAI/FATE"
+          - item:
+            name: Presto
+            homepage_url: 'https://prestodb.io/'
+            repo_url: 'https://github.com/prestodb/presto'
+            logo: presto.svg
+            crunchbase: 'https://www.crunchbase.com/organization/presto-software-foundation'
+  - category:
+    name: Other
+    subcategories:
+      - subcategory:
+        name: Other
+        items:
+          - item:
+            name: Chips Alliance
+            logo: chips-alliance.svg
+            homepage_url: "https://chipsalliance.org/"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: Code Aurora
+            logo: codeaurora.svg
+            homepage_url: "https://www.codeaurora.org"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: Let’s Encrypt
+            logo: "https://letsencrypt.org/images/letsencrypt-logo-horizontal.svg"
+            homepage_url: "https://letsencrypt.org"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+            repo_url: "https://github.com/letsencrypt/boulder"
+          - item:
+            name: OpenBMC
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2018/03/openBMC.png"
+            homepage_url: "https://www.openbmc.org"
+            repo_url: "https://github.com/openbmc/openbmc"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: Sound Open Firmware
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2018/03/SOF_logo.png"
+            homepage_url: "https://www.sofproject.org/"
+            repo_url: "https://github.com/thesofproject/sof"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+      - subcategory:
+        name: Accord Project
+        items:
+          - item:
+            name: Accord Project
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/06/accord_project-black.svg'
+            homepage_url: 'https://www.accordproject.org/'
+            repo_url: 'https://github.com/accordproject/techdocs'
+            crunchbase: 'https://www.crunchbase.com/organization/accord-project'
+          - item:
+            name: Cicero
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/06/accord_project-black.svg'
+            homepage_url: 'https://www.accordproject.org/projects/cicero'
+            repo_url: 'https://github.com/accordproject/cicero'
+            crunchbase: 'https://www.crunchbase.com/organization/accord-project'
+          - item:
+            name: Ergo
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/06/accord_project-black.svg'
+            homepage_url: 'https://www.accordproject.org/projects/ergo'
+            repo_url: 'https://github.com/accordproject/ergo'
+            crunchbase: 'https://www.crunchbase.com/organization/accord-project'
+          - item:
+            name: Concerto
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/06/accord_project-black.svg'
+            homepage_url: 'https://www.accordproject.org/projects/concerto'
+            repo_url: 'https://github.com/accordproject/concerto/'
+            crunchbase: 'https://www.crunchbase.com/organization/accord-project'
+  - category:
+    name: Infrastructure
+    subcategories:
+      - subcategory:
+        name: LF Edge
+        items:
+          - item:
+            name: LF Edge
+            homepage_url: "https://www.lfedge.org"
+            logo: "https://www.lfedge.org/wp-content/uploads/2019/01/lfedge-logo.svg"
+            crunchbase: "https://www.crunchbase.com/organization/lf-edge"
+          - item:
+            name: Akraino Edge Stack
+            logo: akrainoedgestack.svg
+            homepage_url: "https://www.akraino.org"
+            repo_url: "https://github.com/akraino-edge-stack/icn-daaas"
+            crunchbase: "https://www.crunchbase.com/organization/lf-edge"
+          - item:
+            name: Baetyl
+            logo: "https://www.lfedge.org/wp-content/uploads/2019/09/baetyl_horizontal-color.svg"
+            homepage_url: "https://baetyl.io/en/"
+            repo_url: "https://github.com/baetyl/baetyl"
+            crunchbase: "https://www.crunchbase.com/organization/lf-edge"
+          - item:
+            name: EdgeX Foundry
+            logo: "https://www.lfedge.org/wp-content/uploads/2019/01/logo_edgex_foundry.svg"
+            homepage_url: "https://www.edgexfoundry.org"
+            repo_url: "https://github.com/edgexfoundry/edgex-go"
+            crunchbase: "https://www.crunchbase.com/organization/lf-edge"
+          - item:
+            name: Edge Virtualization Engine (EVE)
+            logo: "https://www.lfedge.org/wp-content/uploads/2019/02/eve-400.svg"
+            homepage_url: "https://www.lfedge.org/projects/eve/"
+            repo_url: "https://github.com/lf-edge/eve"
+            crunchbase: "https://www.crunchbase.com/organization/lf-edge"
+          - item:
+            name: Fledge
+            logo: "https://www.lfedge.org/wp-content/uploads/2019/09/fledge-horizontal-color.svg"
+            homepage_url: "https://www.lfedge.org/projects/fledge/"
+            repo_url: "https://github.com/fledge-iot/fledge"
+            crunchbase: "https://www.crunchbase.com/organization/lf-edge"
+          - item:
+            name: Home Edge
+            logo: "https://www.lfedge.org/wp-content/uploads/2019/02/home-edge-1000-whitetext.svg"
+            homepage_url: "https://www.lfedge.org/projects/homeedge/"
+            crunchbase: "https://www.crunchbase.com/organization/lf-edge"
+            repo_url: "https://github.com/lf-edge/edge-home-orchestration-go"
+          - item:
+            name: Open Glossary of Edge Computing
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2019/01/box_glossary.png"
+            homepage_url: "https://www.lfedge.org/projects/openglossary/"
+            repo_url: "https://github.com/lf-edge/glossary"
+            crunchbase: "https://www.crunchbase.com/organization/lf-edge"
+      - subcategory:
+        name: LF Networking
+        items:
+          - item:
+            name: LF Networking
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2019/01/logo_lfn.png"
+            homepage_url: "https://www.lfnetworking.org/"
+            crunchbase: "https://www.crunchbase.com/organization/lf-networking"
+          - item:
+            name: FD.io
+            logo: fdio.svg
+            homepage_url: "https://fd.io"
+            crunchbase: "https://www.crunchbase.com/organization/lf-networking"
+            repo_url: "https://github.com/FDio/vpp"
+          - item:
+            name: Open Network Automation Platform
+            logo: onap.svg
+            homepage_url: "https://www.onap.org"
+            crunchbase: "https://www.crunchbase.com/organization/lf-networking"
+            repo_url: "https://github.com/onap/integration"
+          - item:
+            name: OPNFV
+            logo: opnfv.svg
+            homepage_url: "https://www.opnfv.org"
+            crunchbase: "https://www.crunchbase.com/organization/lf-networking"
+            repo_url: "https://github.com/opnfv/releng"
+          - item:
+            name: OpenDaylight
+            logo: opendaylight.svg
+            homepage_url: "https://www.opendaylight.org"
+            crunchbase: "https://www.crunchbase.com/organization/lf-networking"
+            repo_url: "https://github.com/opnfv/releng"
+          - item:
+            name: OpenSwitch
+            logo: openswitch.svg
+            homepage_url: "http://www.openswitch.net"
+            crunchbase: "https://www.crunchbase.com/organization/lf-networking"
+            repo_url: "https://github.com/open-switch/opx-tools"
+          - item:
+            name: PNDA
+            logo: pnda.svg
+            homepage_url: "http://pnda.io"
+            crunchbase: "https://www.crunchbase.com/organization/lf-networking"
+            repo_url: "https://github.com/pndaproject/pnda"
+          - item:
+            name: SNAS.io
+            logo: "https://www.snas.io/img/SNAS_logo/SNAS_large_svg/SNAS_logo_OrangeBlue-01.svg"
+            homepage_url: "http://www.snas.io"
+            crunchbase: "https://www.crunchbase.com/organization/lf-networking"
+            repo_url: "https://github.com/SNAS/openbmp"
+          - item:
+            name: Tungsten Fabric
+            logo: tungstenfabric.svg
+            homepage_url: "https://tungsten.io/"
+            repo_url: "https://github.com/tungstenfabric/tf-devstack"
+      - subcategory:
+        name: Other Networking
+        items:
+          - item:
+            name: Danos
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2018/04/logo_danos.png"
+            homepage_url: "https://www.danosproject.org/"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+            repo_url: "https://github.com/danos/base-files"
+          - item:
+            name: DPDK
+            logo: dpdk.svg
+            homepage_url: "http://dpdk.org"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+            repo_url: "https://github.com/DPDK/dpdk"
+          - item:
+            name: FRRouting
+            logo: frr.svg
+            homepage_url: "https://frrouting.org"
+            repo_url: "https://github.com/FRRouting/frr"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: IO Visor Project
+            logo: iovisor.svg
+            homepage_url: "https://www.iovisor.org"
+            repo_url: "https://github.com/iovisor/bpftrace"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: Open Security Controller
+            logo: opensecuritycontroller.svg
+            homepage_url: "https://www.opensecuritycontroller.org/"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+            repo_url: "https://github.com/opensecuritycontroller/osc-core"
+          - item:
+            name: Open vSwitch
+            logo: openvswitch.svg
+            homepage_url: "http://openvswitch.org"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+            repo_url: "https://github.com/openvswitch/ovs"
+      - subcategory:
+        name: Embedded and IOT
+        items:
+          - item:
+            name: ACRN
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2018/03/acrn_logo.png"
+            homepage_url: "https://projectacrn.org"
+            repo_url: "https://github.com/projectacrn/acrn-hypervisor"
+            crunchbase: 'https://www.crunchbase.com/organization/project-acrn'
+          - item:
+            name: Dronecode
+            logo: dronecode.svg
+            homepage_url: "https://www.dronecode.org"
+            repo_url: "https://github.com/Dronecode/Technical-Steering-Committee"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: IoTivity
+            logo: iotivity.svg
+            homepage_url: "https://www.iotivity.org"
+            repo_url: "https://github.com/iotivity/iotivity"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: RISC-V
+            logo: "riscv.svg"
+            homepage_url: "https://riscv.org/risc-v-foundation/"
+            crunchbase: "https://www.crunchbase.com/organization/risc-v"
+            repo_url: "https://github.com/riscv/riscv-software-list"
+          - item:
+            name: Tizen
+            logo: tizen.svg"
+            homepage_url: "https://www.tizen.org"
+            repo_url: "https://github.com/TizenTeam/tizen-distro"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: Zephyr Project
+            logo: zephyrproject.svg
+            homepage_url: "https://www.zephyrproject.org"
+            repo_url: "https://github.com/zephyrproject-rtos/zephyr"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+      - subcategory:
+        name: Open Mainframe Project
+        items:
+          - item:
+            name: Open Mainframe Project
+            logo: openmainframeproject.svg
+            homepage_url: "https://www.openmainframeproject.org"
+            repo_url: "https://github.com/openmainframeproject/tac"
+            crunchbase: 'https://www.crunchbase.com/organization/open-mainframe-project'
+          - item:
+            name: Feilong
+            homepage_url: 'https://www.openmainframeproject.org/projects/feilong'
+            project: incubating
+            repo_url: 'https://github.com/openmainframeproject/python-zvm-sdk'
+            logo: 'https://raw.githubusercontent.com/openmainframeproject/artwork/master/projects/feilong/feilong-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-mainframe-project'
+          - item:
+            name: Zorow
+            homepage_url: 'https://www.openmainframeproject.org/projects/zorow'
+            project: incubating
+            repo_url: 'https://github.com/openmainframeproject/zorow'
+            logo: 'https://raw.githubusercontent.com/openmainframeproject/artwork/master/projects/zorow/zorow-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-mainframe-project'
+          - item:
+            name: Zowe
+            description: Zowe is an open source framework for leveraging data and applications in z/OS from modern applications and tools.
+            homepage_url: 'https://www.zowe.org'
+            project: graduated
+            repo_url: 'https://github.com/zowe/api-layer'
+            url_for_bestpractices: 'https://github.com/zowe/zlc'
+            logo: 'https://raw.githubusercontent.com/openmainframeproject/artwork/master/projects/zowe/zowe-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-mainframe-project'
+          - item:
+            name: ADE
+            homepage_url: 'http://openmainframeproject.github.io/ade/'
+            project: graduated
+            repo_url: 'https://github.com/openmainframeproject/ade'
+            logo: 'https://raw.githubusercontent.com/openmainframeproject/artwork/master/projects/ade/ade-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-mainframe-project'
+          - item:
+            name: Ambitus
+            homepage_url: 'https://github.com/ambitus'
+            project: incubating
+            repo_url: 'https://github.com/ambitus/ambitus'
+            logo: 'https://raw.githubusercontent.com/openmainframeproject/artwork/master/projects/ambitus/ambitus-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-mainframe-project'
+          - item:
+            name: Atom language syntax highlighting for z/VM
+            homepage_url: 'https://atom.io/users/openmainframeproject'
+            project: incubating
+            repo_url: 'https://github.com/openmainframeproject/atompkg-language-zvm-asm'
+            logo: 'https://raw.githubusercontent.com/openmainframeproject/artwork/master/projects/atom/atom-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-mainframe-project'
+          - item:
+            name: Mentorship
+            homepage_url: 'https://www.openmainframeproject.org/projects/mentorship-program'
+            project: graduated
+            repo_url: 'https://github.com/openmainframeproject-internship/resources'
+            logo: 'https://raw.githubusercontent.com/openmainframeproject/artwork/master/projects/mentorship/mentorship-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-mainframe-project'
+          - item:
+            name: Polycephaly
+            homepage_url: 'https://github.com/edge05/zJenkins'
+            project: incubating
+            repo_url: 'https://github.com/edge05/zJenkins'
+            logo: 'https://raw.githubusercontent.com/openmainframeproject/artwork/master/projects/polycephaly/polycephaly-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-mainframe-project'
+          - item:
+            name: TerseDecompress
+            homepage_url: 'https://www.openmainframeproject.org/projects/tersedecompress'
+            project: incubating
+            repo_url: 'https://github.com/openmainframeproject/tersedecompress'
+            logo: 'https://raw.githubusercontent.com/openmainframeproject/artwork/master/projects/tersedecompress/tersedecompress-color.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/open-mainframe-project'
+      - subcategory:
+        name: Linux
+        items:
+          - item:
+            name: Carrier Grade Linux
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2017/05/logo_cgl.png"
+            homepage_url: "https://wiki.linuxfoundation.org/cgl/start"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: Core Embedded Linux Project
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2017/05/logo_celp.png"
+            homepage_url: "https://wiki.linuxfoundation.org/celp/start"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: cregit
+            logo: cregit.svg
+            homepage_url: "https://cregit.linuxsources.org"
+            repo_url: "https://github.com/cregit/cregit"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: ELISA
+            logo: elisa.svg
+            homepage_url: "http://www.elisa.tech"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: Linux
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2017/05/linux_logo.png"
+            homepage_url: "https://www.linuxfoundation.org/projects/linux/"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+            repo_url: "https://github.com/torvalds/linux"
+          - item:
+            name: Linux Standard Base (LSB)
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2017/05/lsb_logo.png"
+            homepage_url: "https://wiki.linuxfoundation.org/lsb/start"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: LinuxBoot
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2018/01/logo_linuxboot.png"
+            homepage_url: "https://www.linuxboot.org/"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: LTSI
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2017/12/logo_ltsi.png"
+            homepage_url: "https://ltsi.linuxfoundation.org/"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: Open Printing
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2017/05/openprinting_logo.png"
+            homepage_url: "http://www.openprinting.org/"
+            repo_url: "https://github.com/OpenPrinting/cups-filters"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: Real-Time Linux
+            logo: realtimelinux.svg
+            homepage_url: "https://wiki.linuxfoundation.org/realtime/start"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: Yocto Project
+            logo: yocto.svg
+            homepage_url: "https://www.yoctoproject.org"
+            repo_url: "https://github.com/jku/poky"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+      - subcategory:
+        name: Storage
+        items:
+          - item:
+            name: Ceph Foundation
+            logo: ceph.svg
+            homepage_url: "https://ceph.com/foundation/"
+            repo_url: "https://github.com/ceph/ceph"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: Xen Project
+            logo: xenproject.svg
+            homepage_url: "https://www.xenproject.org"
+            repo_url: "https://github.com/xen-project/xen"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+      - subcategory:
+        name: HPC
+        items:
+          - item:
+            name: OpenHPC
+            logo: openhpc.svg
+            homepage_url: "http://openhpc.community"
+            repo_url: "https://github.com/openhpc/ohpc"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+      - subcategory:
+        name: Messaging
+        items:
+          - item:
+            name: OpenMAMA
+            logo: openmama.svg
+            homepage_url: "http://www.openmama.org"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+            repo_url: "https://github.com/OpenMAMA/OpenMAMA"
+          - item:
+            name: OpenMessaging
+            logo: "https://landscape.cncf.io/logos/open-messaging.svg"
+            homepage_url: "http://openmessaging.cloud/"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+            repo_url: "https://github.com/openmessaging/specification"
+  - category:
+    name: Community and Compliance
+    subcategories:
+      - subcategory:
+        name: Metrics
+        items:
+          - item:
+            name: CHAOSS
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2017/09/logo_chaoss.png"
+            homepage_url: "https://chaoss.community"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+            repo_url: "https://github.com/chaoss/metrics"
+          - item:
+            name: Core Infrastructure Initiative
+            logo: coreinfrastructureinitiative.svg
+            homepage_url: "https://www.coreinfrastructure.org"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+            repo_url: "https://github.com/coreinfrastructure/best-practices-badge"
+          - item:
+            name: DiaMon Workgroup
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2017/05/diamon_logo.png"
+            homepage_url: "http://diamon.org"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+      - subcategory:
+        name: Automated Compliance Tooling
+        items:
+          - item:
+            name: FOSSology
+            logo: fossology.svg
+            homepage_url: "https://www.fossology.org"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+            repo_url: "https://github.com/fossology/fossology"
+          - item:
+            name: QMSTR
+            logo: qmstr.svg
+            repo_url: "https://github.com/QMSTR/qmstr"
+            homepage_url: "http://qmstr.org/"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: Software Package Data Exchange
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2017/05/spdx_logo.png"
+            repo_url: "https://github.com/spdx/spdx-spec"
+            homepage_url: "https://spdx.org"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: TERN
+            repo_url: "https://github.com/vmware/tern"
+            homepage_url: "https://github.com/vmware/tern"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+            logo: "https://github.com/vmware/tern/raw/master/docs/img/tern_logo.png"
+      - subcategory:
+        name: Programs
+        items:
+          - item:
+            name: TODO Group
+            logo: "https://todogroup.org/img/logo.svg"
+            homepage_url: "http://todogroup.org"
+            repo_url: "https://github.com/todogroup/todogroup.github.io"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: Open Accessibility (A11y) Group
+            homepage_url: "https://wiki.linuxfoundation.org/accessibility/start"
+            logo: "a11y.svg"
+            repo_url: "https://github.com/a11yproject/a11yproject.com"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: OpenChain Project
+            logo: openchain.svg
+            homepage_url: "https://www.openchainproject.org"
+            repo_url: "https://github.com/openchain/openchain"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+  - category:
+    name: Standards
+    subcategories:
+      - subcategory:
+        name: Joint Development Foundation
+        items:
+          - item:
+            name: Joint Development Foundation
+            logo: jointdevelopmentfoundation.svg
+            homepage_url: "http://www.jointdevelopment.org/"
+            repo_url: "https://github.com/mozilla/aom"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: Alliance For Open Media
+            logo: aomedia.svg
+            homepage_url: "http://aomedia.org/"
+            repo_url: "https://github.com/mozilla/aom"
+            crunchbase: "https://www.crunchbase.com/organization/alliance-for-open-media"
+          - item:
+            name: 3MF
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2019/01/logo_3mf.png'
+            homepage_url: 'http://3mf.io/'
+            repo_url: 'https://github.com/3MFConsortium/lib3mf'
+            crunchbase: 'https://www.crunchbase.com/organization/3mf-consortium'
+          - item:
+            name: DIF
+            logo: "https://www.linuxfoundation.org/wp-content/uploads/2019/01/logo_dif.png"
+            homepage_url: "https://identity.foundation/"
+            repo_url: "https://github.com/decentralized-identity/sidetree"
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: GraphQL
+            logo: 'https://www.linuxfoundation.org/wp-content/uploads/2018/11/logo_graphql.png'
+            homepage_url: 'https://foundation.graphql.org/'
+            repo_url: 'https://github.com/graphql/graphql-spec'
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+  - category:
+    name: LF Member Company
+    subcategories:
+      - subcategory:
+        name: Platinum
+        items:
+          - item:
+            name: AT&T
+            homepage_url: 'https://www.att.com/'
+            logo: att.svg
+            crunchbase: 'https://www.crunchbase.com/organization/at-t'
+          - item:
+            name: Cisco
+            homepage_url: 'https://www.cisco.com/'
+            logo: cisco-container-platform.svg
+            crunchbase: 'https://www.crunchbase.com/organization/cisco'
+          - item:
+            name: IBM
+            homepage_url: 'https://www.ibm.com/us-en/?ar=1'
+            logo: ibm.svg
+            twitter: 'https://twitter.com/ibm'
+            crunchbase: 'https://www.crunchbase.com/organization/ibm'
+          - item:
+            name: Hitachi, Ltd.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/hitachi-ltd.svg'
+          - item:
+            name: Ericsson
+            homepage_url: 'https://www.ericsson.com/en'
+            logo: 'https://www.cncf.io/wp-content/uploads/2019/01/ericsson-1.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/ericsson'
+          - item:
+            name: Fujitsu
+            homepage_url: 'https://www.fujitsu.com/global/'
+            stock_ticker: FJTSF
+            logo: fujitsu-k5.svg
+            crunchbase: 'https://www.crunchbase.com/organization/fujitsu'
+          - item:
+            name: Tencent Technology (Shenzhen) Company Limited
+            homepage_url: 'https://cloud.tencent.com/'
+            stock_ticker: TCEHY
+            logo: tencent-cloud.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/tencent'
+          - item:
+            name: Microsoft Corporation
+            homepage_url: 'https://www.microsoft.com/'
+            crunchbase: 'https://www.crunchbase.com/organization/microsoft'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/microsoft-corporation.svg'
+          - item:
+            name: Google
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/google-llc.svg'
+            homepage_url: 'https://www.google.com/'
+            crunchbase: 'https://www.crunchbase.com/organization/google'
+          - item:
+            name: NEC Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/nec-corporation.svg'
+            homepage_url: 'https://www.nec.com'
+            stock_ticker: null
+            crunchbase: 'https://www.crunchbase.com/organization/nec'
+          - item:
+            name: Samsung Electronics Co. Ltd.
+            homepage_url: 'http://www.samsungsds.com/us/en/'
+            crunchbase: 'https://www.crunchbase.com/organization/samsung-sds'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/samsung-electronics-co-ltd.svg'
+          - item:
+            name: Intel Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/intel-corporation.svg'
+            homepage_url: 'https://www.intel.com/content/www/us/en/homepage.html'
+            crunchbase: 'https://www.crunchbase.com/organization/intel'
+          - item:
+            name: Oracle America Inc.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/oracle-america-inc.svg'
+            homepage_url: 'https://www.oracle.com/index.html'
+            twitter: 'https://twitter.com/oraclecloud'
+            crunchbase: 'https://www.crunchbase.com/organization/oracle'
+          - item:
+            name: Qualcomm
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/qualcomm-inc.svg'
+            crunchbase: "https://www.crunchbase.com/organization/qualcomm"
+            homepage_url: "http://www.qualcomm.com/"
+          - item:
+            name: VMware
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/vmware-inc.svg'
+            homepage_url: 'https://www.vmware.com/'
+            crunchbase: 'https://www.crunchbase.com/organization/vmware'
+      - subcategory:
+        name: Gold
+        items:
+          - item:
+            name: Uber Advanced Technologies Group
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/uber-technologies-inc.svg'
+            crunchbase: "https://www.crunchbase.com/organization/uber-advanced-technologies-group"
+            homepage_url: 'https://www.uber.com/info/atg/'
+          - item:
+            name: Alibaba Cloud (Singapore) PTE LTD
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/alibaba-cloud-singapore-pte-ltd.svg'
+          - item:
+            name: Renesas Electronics Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/renesas-electronics-corporation.svg'
+          - item:
+            name: Toyota Motor Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/toyota-motor-corporation.svg'
+          - item:
+            name: Panasonic Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/panasonic-corporation.svg'
+          - item:
+            name: 'Juniper Networks, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/juniper-networks-inc.svg'
+          - item:
+            name: Accenture Global Solutions Limited
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/accenture-global-solutions-limited.svg'
+          - item:
+            name: Toshiba Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/toshiba-corporation.svg'
+          - item:
+            name: Citrix Systems Inc.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/citrix-systems-inc.svg'
+          - item:
+            name: Oath Inc.
+          - item:
+            name: BlackRock Financial Management
+          - item:
+            name: 'Baidu Online Network Technology (Beijing) Co., Ltd'
+          - item:
+            name: Dell EMC
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/dell-emc.svg'
+      - subcategory:
+        name: Silver
+        items:
+          - item:
+            name: Microchip Technology Germany GmbH
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/microchip-technology-germany-gmbh.svg'
+          - item:
+            name: Nebulaworks
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/nebulaworks.svg'
+          - item:
+            name: BearingPoint GmbH
+          - item:
+            name: 'Spireon, Inc.'
+          - item:
+            name: Redis Labs
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/redis-labs.svg'
+          - item:
+            name: FOSSID AB
+          - item:
+            name: ENEA Software AB
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/enea-software-ab.svg'
+          - item:
+            name: Mocana Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/mocana-corporation.svg'
+          - item:
+            name: CoSoSys S.R.L.
+          - item:
+            name: Bose Corporation
+          - item:
+            name: Airbiquity
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/airbiquity.svg'
+          - item:
+            name: ReGov Technologies Sdn Bhd
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/regov-technologies-sdn-bhd.svg'
+          - item:
+            name: DENX Software Engineering
+          - item:
+            name: nexB Inc.
+          - item:
+            name: AGSX Pte. Ltd. (Amihan Global Strategies)
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/agsx-pte-ltd-amihan-global-strategies.svg'
+          - item:
+            name: China Systems Holdings Limited
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/china-systems-holdings-limited.svg'
+          - item:
+            name: Desay SV Automotive
+          - item:
+            name: 'Cybertrust Japan Co., Ltd.'
+          - item:
+            name: Shenzhen Forms Syntron Information Co. Ltd
+          - item:
+            name: BitDefender
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/bitdefender.svg'
+          - item:
+            name: 'DaoCloud (Shanghai DaoCloud Network Technology Co, LTD)'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/daocloud-shanghai-daocloud-network-technology-co-ltd.svg'
+          - item:
+            name: Hasura Technologies
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/hasura-technologies.svg'
+          - item:
+            name: FogHorn Systems
+          - item:
+            name: 'KMC Controls, Inc.'
+          - item:
+            name: KUKA Deutschland GmbH
+          - item:
+            name: 'Suzhou Beyondcent & Software Co., Ltd.'
+          - item:
+            name: Polyverse Corporation
+          - item:
+            name: Hyperloop One
+          - item:
+            name: Intain Fintech Pte Ltd
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/intain-fintech-pte-ltd.svg'
+          - item:
+            name: 'Beijing BOCO Inter-Telecom Technology Co., Ltd'
+          - item:
+            name: 'Jump Operations, LLC'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/jump-operations-llc-dba-jump-trading.svg'
+          - item:
+            name: Mazda Motor Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/mazda-motor-corporation.svg'
+          - item:
+            name: Instana
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/instana.svg'
+          - item:
+            name: Synadia Communications
+          - item:
+            name: Robert Bosch GmbH
+          - item:
+            name: Target Corporation
+          - item:
+            name: 'Lineo Solutions, Inc.'
+          - item:
+            name: Sumo Logic
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/sumo-logic.svg'
+          - item:
+            name: Suzuki Motor Corporation
+          - item:
+            name: Univa Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/univa-corporation.svg'
+          - item:
+            name: Hangzhou Fuzamei Technology Co. Ltd.
+          - item:
+            name: American Express Technology
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/american-express-technology.svg'
+          - item:
+            name: Kublr
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/kublr.svg'
+          - item:
+            name: Raisecom Technology Co. Ltd
+          - item:
+            name: Anne Inc.
+          - item:
+            name: RTE (Reseau de Transport d'Electricite)
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/rte-reseau-de-transport-delectricite.svg'
+          - item:
+            name: NTT DATA MSE  CORPORATION
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/ntt-data-mse-corporation.svg'
+          - item:
+            name: Palo Alto Networks
+          - item:
+            name: Adfolks LLC
+          - item:
+            name: Tech Mahindra Ltd.
+          - item:
+            name: SAP
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/sap.svg'
+          - item:
+            name: Netflix
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/netflix.svg'
+          - item:
+            name: PlanetScale Data
+          - item:
+            name: Double Negative
+          - item:
+            name: NCSOFT Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/ncsoft-corporation.svg'
+          - item:
+            name: Hangzhou HarmonyCloud Technology LTD.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/hangzhou-harmonycloud-technology-ltd.svg'
+          - item:
+            name: 'Kontena, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/kontena-inc.svg'
+          - item:
+            name: We.Trade Innovation DAC
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/wetrade-innovation-dac.svg'
+          - item:
+            name: 'RackN, Inc.'
+          - item:
+            name: Sinolending LTD (Dianrong)
+          - item:
+            name: 'Murphy & McGonigle, P.C.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/murphy-mcgonigle-pc.svg'
+          - item:
+            name: ABN AMRO
+          - item:
+            name: Moscow Exchange (MICEX-RTS)
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/moscow-exchange-micex-rts.svg'
+          - item:
+            name: Upbound
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/upbound.svg'
+          - item:
+            name: Giant Swarm
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/giant-swarm.svg'
+          - item:
+            name: StackRox
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/stackrox.svg'
+          - item:
+            name: Origoss Solutions
+          - item:
+            name: 'GitHub, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/github-inc.svg'
+          - item:
+            name: HSA Foundation
+          - item:
+            name: Fidelity Investments
+          - item:
+            name: Krypc Corporation
+          - item:
+            name: Mavenir
+          - item:
+            name: Smart Block Laboratory
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/smart-block-laboratory.svg'
+          - item:
+            name: Broadcom Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/broadcom-corporation.svg'
+          - item:
+            name: Dynatrace LLC
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/dynatrace-llc.svg'
+          - item:
+            name: Ampere Computing
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/ampere-computing.svg'
+          - item:
+            name: Arctiq Inc.
+          - item:
+            name: Monax Industries Limited
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/monax-industries-limited.svg'
+          - item:
+            name: BoxBoat Technologies
+          - item:
+            name: CloudPlugs Inc.
+          - item:
+            name: 'NetScout Systems, Inc.'
+          - item:
+            name: Omnibond Systems LLC
+          - item:
+            name: DriveNets
+          - item:
+            name: Bell Canada
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/bell-canada.svg'
+          - item:
+            name: Visma Connect BV
+          - item:
+            name: MayaData
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/mayadata.svg'
+          - item:
+            name: Storj Labs
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/storj-labs.svg'
+          - item:
+            name: 'Evernym, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/evernym-inc.svg'
+          - item:
+            name: Garden Technologies Inc.
+          - item:
+            name: Korea Securities Depository
+          - item:
+            name: Caicloud
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/caicloud.svg'
+          - item:
+            name: WSO2 Inc.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/wso2-inc.svg'
+          - item:
+            name: eBaoTech International Pte Ltd
+          - item:
+            name: LMAX Exchange Ltd
+          - item:
+            name: DENSO TEN Limited
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/denso-ten-limited.svg'
+          - item:
+            name: Mirantis Inc.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/mirantis-inc.svg'
+          - item:
+            name: Chef Software Inc.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/chef-software-inc.svg'
+          - item:
+            name: Lenovo (United States) Inc.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/lenovo-united-states-inc.svg'
+          - item:
+            name: MYCOM OSI
+          - item:
+            name: dog hunter LLC
+          - item:
+            name: Humio
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/humio.svg'
+          - item:
+            name: 'Xilinx, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/xilinx-inc.svg'
+          - item:
+            name: Xi'an Zhigui Internet Technology Ltd.
+          - item:
+            name: 'Datto, Inc.'
+          - item:
+            name: 99Cloud Inc.
+          - item:
+            name: Datawire
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/datawire.svg'
+          - item:
+            name: 'DigiCert, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/digicert-inc.svg'
+          - item:
+            name: iguazio
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/iguazio.svg'
+          - item:
+            name: Nordic Semiconductor ASA
+          - item:
+            name: Linode
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/linode.svg'
+          - item:
+            name: Opsani
+          - item:
+            name: Aporeto
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/aporeto.svg'
+          - item:
+            name: EPAM Systems
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/epam-systems.svg'
+          - item:
+            name: 'Beijing Truth Technology Co., Ltd.'
+          - item:
+            name: NETSIA Inc.
+          - item:
+            name: Nippon Seiki Co. Ltd.
+          - item:
+            name: Toyota Tsusho Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/toyota-tsusho-corporation.svg'
+          - item:
+            name: CLS Bank International
+          - item:
+            name: OpenSynergy GmbH
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/opensynergy-gmbh.svg'
+          - item:
+            name: Orange S.A.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/orange-sa.svg'
+          - item:
+            name: 'Pivotal Software, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/pivotal-software-inc.svg'
+          - item:
+            name: National Instruments Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/national-instruments-corporation.svg'
+          - item:
+            name: Poste Italiane SPA
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/poste-italiane-spa.svg'
+          - item:
+            name: Morgan Stanley
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/morgan-stanley.svg'
+          - item:
+            name: Autodesk
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/autodesk.svg'
+          - item:
+            name: 'PDX Technologies, Inc.'
+          - item:
+            name: 'ENC Data Service Co., Ltd.'
+          - item:
+            name: Virtual Open Systems
+          - item:
+            name: Sprint Corporation
+          - item:
+            name: NIPA
+          - item:
+            name: 'Intrinsyc Software, Inc.'
+          - item:
+            name: 'Beijing Proinsight Technology Co., Ltd.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/beijing-proinsight-technology-co-ltd.svg'
+          - item:
+            name: Depository Trust and Clearing Corporation (DTCC)
+          - item:
+            name: Infracloud Technologies INC
+          - item:
+            name: Matrix I.T CloudZone LTD
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/matrix-it-cloudzone-ltd.svg'
+          - item:
+            name: Kentik
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/kentik.svg'
+          - item:
+            name: NTT Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/ntt-corporation.svg'
+          - item:
+            name: Chainyard
+          - item:
+            name: EDMI Limited
+          - item:
+            name: SoftIron Inc
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/softiron-inc.svg'
+          - item:
+            name: Dealer Market Exchange (dmx.io)
+          - item:
+            name: crave
+          - item:
+            name: 'Mellanox Technologies, Ltd'
+          - item:
+            name: Praqma
+          - item:
+            name: Collabora Ltd.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/collabora-ltd.svg'
+          - item:
+            name: croit GmbH
+          - item:
+            name: 'Amazon Web Services, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/amazon-web-services-inc.svg'
+          - item:
+            name: Adtran
+          - item:
+            name: Equinox International FZE
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/equinox-international-fze.svg'
+          - item:
+            name: Axis Communications
+          - item:
+            name: DB Systel GmbH
+          - item:
+            name: Altair
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/altair.svg'
+          - item:
+            name: basysKom GmbH
+          - item:
+            name: VA Linux Systems Japan K.K.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/va-linux-systems-japan-kk.svg'
+          - item:
+            name: 'Coinplug, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/coinplug-inc.svg'
+          - item:
+            name: Canonical Group Limited
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/canonical-group-limited.svg'
+          - item:
+            name: Banzai Cloud
+          - item:
+            name: LogDNA
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/logdna.svg'
+          - item:
+            name: Vela
+          - item:
+            name: BayLibre Inc.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/baylibre-inc.svg'
+          - item:
+            name: Circulor Ltd.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/circulor-ltd.svg'
+          - item:
+            name: Revelry Labs
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/revelry-labs.svg'
+          - item:
+            name: ANZ Banking Group Ltd.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/anz-banking-group-ltd.svg'
+          - item:
+            name: 'Buoyant, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/buoyant-inc.svg'
+          - item:
+            name: Hammerspace
+          - item:
+            name: Alleantia s.r.l.
+          - item:
+            name: Elektrobit France SAS
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/elektrobit-france-sas.svg'
+          - item:
+            name: CircleCI
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/circleci.svg'
+          - item:
+            name: 'Eureka, Inc (OTSL)'
+          - item:
+            name: 'Northern.tech, AS'
+          - item:
+            name: 'Veniam, Inc.'
+          - item:
+            name: Lacework
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/lacework.svg'
+          - item:
+            name: Acornsoft
+          - item:
+            name: Ciena Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/ciena-corporation.svg'
+          - item:
+            name: 'Clause, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/clause-inc.svg'
+          - item:
+            name: Embleema
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/embleema.svg'
+          - item:
+            name: Brison Inc.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/brison-inc.svg'
+          - item:
+            name: Acumatica Inc.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/acumatica-inc.svg'
+          - item:
+            name: Linutronix GmbH
+          - item:
+            name: Mobilise Cloud Services
+          - item:
+            name: SANCLOUD LTD
+          - item:
+            name: Alcide
+          - item:
+            name: NVIDIA Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/nvidia-corporation.svg'
+          - item:
+            name: 'Rackspace US, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/rackspace-us-inc.svg'
+          - item:
+            name: Cryptomove
+          - item:
+            name: SignalFx
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/signalfx.png'
+          - item:
+            name: Witz Corporation
+          - item:
+            name: Arkamys
+          - item:
+            name: Amdocs (Development Limited)
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/amdocs-development-limited.svg'
+          - item:
+            name: LINBIT HA-Solutions GmbH
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/linbit-ha-solutions-gmbh.svg'
+          - item:
+            name: Beijing Yan Rong Technology Co Ltd
+          - item:
+            name: LinkedIn Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/linkedin-corporation.svg'
+          - item:
+            name: Agile Stacks
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/agile-stacks.svg'
+          - item:
+            name: Two Bulls
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/two-bulls.svg'
+          - item:
+            name: 'Datadog, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/datadog-inc.svg'
+          - item:
+            name: Tetrate.io
+          - item:
+            name: 'Gravitational, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/gravitational-inc.svg'
+          - item:
+            name: DocBloxs
+          - item:
+            name: Pravici LLC
+          - item:
+            name: SK Telecom
+          - item:
+            name: VNC Automotive Limited
+          - item:
+            name: 'Irdeto USA, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/irdeto-usa-inc.svg'
+          - item:
+            name: IPChain Association
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/ipchain-association.svg'
+          - item:
+            name: Astra Linux
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/astra-linux.svg'
+          - item:
+            name: Contino
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/contino.svg'
+          - item:
+            name: 'F5 Networks, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/f5-networks-inc.svg'
+          - item:
+            name: 'HANGZHOU EMQ TECHNOLOGIES CO., LTD.'
+          - item:
+            name: HCL Technologies Ltd.
+          - item:
+            name: 'GT Software, Inc.'
+          - item:
+            name: Telecom Italia Mobile (TIM) S.p.A.
+          - item:
+            name: MUFG Union Bank
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/mufg-union-bank.svg'
+          - item:
+            name: 'Elasticsearch, Inc.'
+          - item:
+            name: 'Docker, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/docker-inc.svg'
+          - item:
+            name: 'Packet Host, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/packet-host-inc.svg'
+          - item:
+            name: croit GmbH
+          - item:
+            name: 'Creationline, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/creationline-inc.svg'
+          - item:
+            name: Spirent Communications Inc
+          - item:
+            name: 'Wuhan Deepin Technology Co.,Ltd'
+          - item:
+            name: Component Soft
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/component-soft.svg'
+          - item:
+            name: 'Sitech Electric Automobile Industrial Co., Ltd.'
+          - item:
+            name: Paragon Software GmbH
+          - item:
+            name: 'Abalta Technologies, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/abalta-technologies-inc.svg'
+          - item:
+            name: IOtech Systems Ltd
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/iotech-systems-ltd.svg'
+          - item:
+            name: CertusNet Inc.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/certusnet-inc.svg'
+          - item:
+            name: Sauce Labs
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/sauce-labs.svg'
+          - item:
+            name: Cirrus Logic
+          - item:
+            name: China Minsheng Bank
+          - item:
+            name: IoTium Inc.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/iotium-inc.svg'
+          - item:
+            name: HI Corporation
+          - item:
+            name: 'Dellfer, Inc.'
+          - item:
+            name: Foundries.io LTD
+          - item:
+            name: Swisscom
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/swisscom.svg'
+          - item:
+            name: Rancher Labs Inc
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/rancher-labs-inc.svg'
+          - item:
+            name: 'SWIFT, INC.'
+          - item:
+            name: 'Sensu, Inc'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/sensu-inc.svg'
+          - item:
+            name: 'NetApp, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/netapp-inc.svg'
+          - item:
+            name: XSKY (Beijing) Data Technology Corporation Limited
+          - item:
+            name: Meinberg Funkuhren GmbH & Co KG
+          - item:
+            name: Robin.io
+          - item:
+            name: Openet
+          - item:
+            name: Salesforce.com
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/salesforcecom.svg'
+          - item:
+            name: Armory Inc
+          - item:
+            name: NeuVector Inc.
+          - item:
+            name: Shanghai Landasoft Data Technology Inc
+          - item:
+            name: 'Automatic Data Processing, Inc.'
+          - item:
+            name: FORFIRM Consulting Limited LTD
+          - item:
+            name: Sirius XM Radio Inc.
+          - item:
+            name: Deutsche Bank AG
+          - item:
+            name: Teuto.net Netzdienste GmbH
+          - item:
+            name: VitalHub Corp.
+          - item:
+            name: Blink.ing
+          - item:
+            name: BedRock Systems Inc.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/bedrock-systems-inc.svg'
+          - item:
+            name: 'Red Hat, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/red-hat-inc.svg'
+          - item:
+            name: B9lab Ltd.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/b9lab-ltd.svg'
+          - item:
+            name: CloudYuga
+          - item:
+            name: Tata Communications  Limited
+          - item:
+            name: 'RX-M, LLC'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/rx-m-llc.svg'
+          - item:
+            name: Xooa Inc
+          - item:
+            name: 'Integrated Computer Solutions, Inc.'
+          - item:
+            name: Luxoft Global Operations GmbH
+          - item:
+            name: Intelligent Systems Services
+          - item:
+            name: Schréder S.A.
+          - item:
+            name: 'Crunchy Data Solutions, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/crunchy-data-solutions-inc.svg'
+          - item:
+            name: Mitsubishi Motors Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/mitsubishi-motors-corporation.svg'
+          - item:
+            name: BTS Digital LLP
+          - item:
+            name: 'Intuit, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/intuit-inc.svg'
+          - item:
+            name: Catalyst Cloud
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/catalyst-cloud.svg'
+          - item:
+            name: Walmart
+          - item:
+            name: Lares Blockchain
+          - item:
+            name: Cognomotiv
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/cognomotiv.svg'
+          - item:
+            name: Opto 22
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/opto-22.svg'
+          - item:
+            name: Nexiot AG
+          - item:
+            name: Broadridge Financial Solutions
+          - item:
+            name: Monostream AG
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/monostream-ag.svg'
+          - item:
+            name: SmartBear Software
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/smartbear-software.svg'
+          - item:
+            name: Savoir-faire Linux
+          - item:
+            name: Portworx Inc.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/portworx-inc.svg'
+          - item:
+            name: 'Hortonworks, Inc. ( acquired by Cloudera)'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/hortonworks-inc-acquired-by-cloudera.svg'
+          - item:
+            name: 'Netronome Systems, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/netronome-systems-inc.svg'
+          - item:
+            name: 'Platform9 Systems, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/platform9-systems-inc.svg'
+          - item:
+            name: SquareSpace
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/squarespace.svg'
+          - item:
+            name: 'Rocket Software, Inc.'
+          - item:
+            name: Turbonomic (fka VMTurbo)
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/turbonomic-fka-vmturbo.svg'
+          - item:
+            name: PayPal
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/paypal.svg'
+          - item:
+            name: 'Vicom Infinity, Inc.'
+          - item:
+            name: TDT AG
+          - item:
+            name: Texas Instruments Incorporated
+          - item:
+            name: MBDA Italia S.p.A
+          - item:
+            name: Valve Corporation
+          - item:
+            name: Siemens AG
+          - item:
+            name: 'Cavium Networks, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/cavium-networks-inc.svg'
+          - item:
+            name: BTS - Business Telecommunications Services
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/bts-business-telecommunications-services.svg'
+          - item:
+            name: SBERBANK
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/sberbank.svg'
+          - item:
+            name: 'Codefresh, Inc.'
+          - item:
+            name: VSHN AG
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/vshn-ag.svg'
+          - item:
+            name: Noris Network AG
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/noris-network-ag.svg'
+          - item:
+            name: Lear Corporation
+          - item:
+            name: Wanxiang Group
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/wanxiang-group.svg'
+          - item:
+            name: Indeed
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/indeed.svg'
+          - item:
+            name: Codethink
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/codethink.svg'
+          - item:
+            name: Comcast
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/comcast.svg'
+          - item:
+            name: LPI.org
+          - item:
+            name: Infoblox Inc.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/infoblox-inc.svg'
+          - item:
+            name: Cinemo GmbH
+          - item:
+            name: Arista Networks
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/arista-networks.svg'
+          - item:
+            name: LF AI Foundation
+          - item:
+            name: 'China Standard Software (Beijing) CO., LTD'
+          - item:
+            name: Loodse GmbH
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/loodse-gmbh.svg'
+          - item:
+            name: Cloud 66
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/cloud-66.svg'
+          - item:
+            name: KDDI Corporation
+          - item:
+            name: 'New Relic, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/new-relic-inc.svg'
+          - item:
+            name: China Mobile Communication Company Ltd
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/china-mobile-communication-company-ltd.svg'
+          - item:
+            name: 'Telenav, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/telenav-inc.svg'
+          - item:
+            name: Kong Inc.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/kong-inc.svg'
+          - item:
+            name: Intellect Design Arena
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/intellect-design-arena.svg'
+          - item:
+            name: Blockchain Technology Partners
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/blockchain-technology-partners.svg'
+          - item:
+            name: Nokia Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/nokia-corporation.svg'
+          - item:
+            name: China Merchants Bank
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/china-merchants-bank.svg'
+          - item:
+            name: Loyyal Corporation (formerly Ribbet.me! USA)
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/loyyal-corporation-formerly-ribbetme-usa.svg'
+          - item:
+            name: Fluendo S.A.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/fluendo-sa.svg'
+          - item:
+            name: Container Solutions BV
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/container-solutions-bv.svg'
+          - item:
+            name: Octarine
+          - item:
+            name: Tradeshift
+          - item:
+            name: 'Beijing Xiaomi Mobile Software Co., Ltd'
+          - item:
+            name: 'Cryptape Technology Co., Ltd.'
+          - item:
+            name: Grafana Labs
+          - item:
+            name: 'Aqua Security Software, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/aqua-security-software-inc.svg'
+          - item:
+            name: Puzzle ITC GmbH
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/puzzle-itc-gmbh.svg'
+          - item:
+            name: 6WIND S.A.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/6wind-sa.svg'
+          - item:
+            name: Reliance Jio Infocomm Limited
+          - item:
+            name: CableLabs
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/cablelabs.svg'
+          - item:
+            name: CA Incorporated
+          - item:
+            name: 'iownit capital and markets, Inc'
+          - item:
+            name: Santer Reply SPA
+          - item:
+            name: Airbus SAS
+          - item:
+            name: Weaveworks
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/weaveworks.svg'
+          - item:
+            name: NexCloud
+          - item:
+            name: Deloitte Consulting LLP
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/deloitte-consulting-llp.svg'
+          - item:
+            name: Scality
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/scality.svg'
+          - item:
+            name: Wipro Limited
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/wipro-limited.svg'
+          - item:
+            name: Elementrem
+          - item:
+            name: DrimAES
+          - item:
+            name: Yahoo Japan Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/yahoo-japan-corporation.svg'
+          - item:
+            name: FinFabrik Limited
+          - item:
+            name: Diamanti
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/diamanti.svg'
+          - item:
+            name: Exoscale
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/exoscale.svg'
+          - item:
+            name: replex GmbH
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/replex-gmbh.svg'
+          - item:
+            name: Appvia Ltd.
+          - item:
+            name: Edgewise Networks
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/edgewise-networks.svg'
+          - item:
+            name: DataCore
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/datacore.svg'
+          - item:
+            name: HERE Global B.V.
+          - item:
+            name: Concurrent Real-Time Inc.
+          - item:
+            name: 'Transwarp Technology (Shanghai) Co., Ltd'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/transwarp-technology-shanghai-co-ltd.svg'
+          - item:
+            name: Freescale Semiconductor Inc
+          - item:
+            name: The Foundry Visionmongers Limited
+          - item:
+            name: 'Digital Asset Holdings, LLC'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/digital-asset-holdings-llc.svg'
+          - item:
+            name: MedicalChain
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/medicalchain.svg'
+          - item:
+            name: Seagate Technology LLC
+          - item:
+            name: Micware Co. Ltd.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/micware-co-ltd.svg'
+          - item:
+            name: StorageOS Ltd
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/storageos-ltd.svg'
+          - item:
+            name: Calastone Limited
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/calastone-limited.svg'
+          - item:
+            name: ELASTX
+          - item:
+            name: Pulumi
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/pulumi.svg'
+          - item:
+            name: 'MathWorks, Inc.'
+          - item:
+            name: Arrikto
+          - item:
+            name: Arm Limited
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/arm-limited.svg'
+          - item:
+            name: Igalia S.L.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/igalia-sl.svg'
+          - item:
+            name: Koscom Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/koscom-corporation.svg'
+          - item:
+            name: R3 LLC
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/r3-llc.svg'
+          - item:
+            name: Daimler TSS GmbH
+          - item:
+            name: KoreConX
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/koreconx.svg'
+          - item:
+            name: China Unicom
+          - item:
+            name: JPMorgan
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/jpmorgan.svg'
+          - item:
+            name: ALPS ALPINE
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/alps-alpine.svg'
+          - item:
+            name: Pinterest
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/pinterest.svg'
+          - item:
+            name: DoiT International
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/doit-international.svg'
+          - item:
+            name: 'Nutanix, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/nutanix-inc.svg'
+          - item:
+            name: Proteon Communication Builders BV
+          - item:
+            name: Infosys Limited
+          - item:
+            name: Thales e-Security
+          - item:
+            name: Green Hills Software LLC
+          - item:
+            name: 'Plat''Home Co., Ltd'
+          - item:
+            name: Solarflare
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/solarflare.svg'
+          - item:
+            name: Qbox (Supergiant)
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/qbox-supergiant.svg'
+          - item:
+            name: PRODYNA
+          - item:
+            name: JFrog Inc.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/jfrog-inc.svg'
+          - item:
+            name: 'Minio, Inc'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/minio-inc.svg'
+          - item:
+            name: Tigera
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/tigera.svg'
+          - item:
+            name: QAware GmbH
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/qaware-gmbh.svg'
+          - item:
+            name: KNS Group (YADRO Company)
+          - item:
+            name: 'Advanced Micro Devices, Inc.'
+          - item:
+            name: 'Balena, Inc.'
+          - item:
+            name: Moxa Inc.
+          - item:
+            name: DeployHub
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/deployhub.svg'
+          - item:
+            name: 'BlueData, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/bluedata-inc.svg'
+          - item:
+            name: Adva Optical Networking SE
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/adva-optical-networking-se.svg'
+          - item:
+            name: Easy Visible Supply Chain Management Company Limited
+          - item:
+            name: 'Extreme Networks, Inc.'
+          - item:
+            name: 'Hyperchain Technologies Co., Ltd.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/hyperchain-technologies-co-ltd.svg'
+          - item:
+            name: STMicroelectronics International N.V.
+          - item:
+            name: Infinera Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/infinera-corporation.svg'
+          - item:
+            name: B.Yond
+          - item:
+            name: 'Puppet, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/puppet-inc.svg'
+          - item:
+            name: kerlink
+          - item:
+            name: Oticon A/S
+          - item:
+            name: Verizon Communications
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/verizon-communications.svg'
+          - item:
+            name: Distributed Ledger Technologies (DLT) Pte Ltd.
+          - item:
+            name: SysEleven Gmbh
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/syseleven-gmbh.svg'
+          - item:
+            name: Monetago Inc
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/monetago-inc.svg'
+          - item:
+            name: American Superconductor
+          - item:
+            name: Change Healthcare
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/change-healthcare.svg'
+          - item:
+            name: Atomist Inc.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/atomist-inc.svg'
+          - item:
+            name: 'InfoSiftr, LLC'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/infosiftr-llc.svg'
+          - item:
+            name: Dotscience
+          - item:
+            name: Zenlayer Inc
+          - item:
+            name: Elemential Labs Private Limited
+          - item:
+            name: Kaloom Inc.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/kaloom-inc.svg'
+          - item:
+            name: Konsulko Group
+          - item:
+            name: 'Zhongchao CreditCard Industry Development Co., Ltd. Hangzhou Blockchain Technology Research Institute'
+          - item:
+            name: SDN Essentials
+          - item:
+            name: Travelping GmbH
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/travelping-gmbh.svg'
+          - item:
+            name: EasyStack Inc.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/easystack-inc.svg'
+          - item:
+            name: 2 Twelve Solutions
+          - item:
+            name: Wrapious Marketing Co Ltd
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/wrapious-marketing-co-ltd.svg'
+          - item:
+            name: Advanced Driver Information Technology
+          - item:
+            name: Nirmata
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/nirmata.svg'
+          - item:
+            name: 'Kasten, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/kasten-inc.svg'
+          - item:
+            name: 'LightStep, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/lightstep-inc.svg'
+          - item:
+            name: The Qt Company
+          - item:
+            name: CloudOps Inc.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/cloudops-inc.svg'
+          - item:
+            name: SES Networks
+          - item:
+            name: Radisys Corporation
+          - item:
+            name: SiFive
+          - item:
+            name: Peer Ledger Inc.
+          - item:
+            name: 'Ricoh Company, Ltd.'
+          - item:
+            name: Xevo (formerly UIEvolution)
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/xevo-formerly-uievolution.svg'
+          - item:
+            name: SYSGO GmbH
+          - item:
+            name: SUBARU CORPORATION
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/subaru-corporation.svg'
+          - item:
+            name: Ubiquitous AI Corporation
+          - item:
+            name: 'Nginx Software, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/nginx-software-inc.svg'
+          - item:
+            name: Vodafone Group Services Limited
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/vodafone-group-services-limited.svg'
+          - item:
+            name: Blockchain Training Alliance
+          - item:
+            name: Volterra Inc
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/volterra-inc.svg'
+          - item:
+            name: Hewlett Packard Enterprise
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/hewlett-packard-enterprise.svg'
+          - item:
+            name: Linaro Limited
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/linaro-limited.svg'
+          - item:
+            name: IVIS Automotive Solutions
+          - item:
+            name: NetFoundry
+          - item:
+            name: Altoros
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/altoros.svg'
+          - item:
+            name: Oteemo
+          - item:
+            name: Serverless
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/serverless.svg'
+          - item:
+            name: Audiokinetic Inc.
+          - item:
+            name: Bloomberg L.P.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/bloomberg-lp.svg'
+          - item:
+            name: YLD! Limited
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/yld-limited.svg'
+          - item:
+            name: Sivantos GmbH
+          - item:
+            name: GitLab BV
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/gitlab-bv.svg'
+          - item:
+            name: Soramitsu Company Ltd
+          - item:
+            name: Filament
+          - item:
+            name: JVC KENWOOD Corporation
+          - item:
+            name: Paramount Software Solutions Inc.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/paramount-software-solutions-inc.svg'
+          - item:
+            name: Sakura Internet Inc.
+          - item:
+            name: 'ZEDEDA, Inc.'
+          - item:
+            name: Kinvolk GmbH
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/kinvolk-gmbh.svg'
+          - item:
+            name: MobiledgeX
+          - item:
+            name: Data Essential
+          - item:
+            name: Solo.io
+          - item:
+            name: 'Cumulus Networks, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/cumulus-networks-inc.svg'
+          - item:
+            name: Synopsys
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/synopsys.svg'
+          - item:
+            name: Affirmed Networks Inc.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/affirmed-networks-inc.svg'
+          - item:
+            name: 'Trillium Secure, Inc.'
+          - item:
+            name: Atlassian Inc.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/atlassian-inc.svg'
+          - item:
+            name: ScanTrust SA
+          - item:
+            name: Bank of America Corporation
+          - item:
+            name: Cray Inc.
+          - item:
+            name: Cockroach Labs
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/cockroach-labs.svg'
+          - item:
+            name: 'Beechwoods Software, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/beechwoods-software-inc.svg'
+          - item:
+            name: 'Allwinner Technology, Co. Ltd.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/allwinner-technology-co-ltd.svg'
+          - item:
+            name: Micron Technology
+          - item:
+            name: 'Aisin AW Co., Ltd.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/aisin-aw-co-ltd.svg'
+          - item:
+            name: Pricewaterhouse Coopers LLP
+          - item:
+            name: JMA Wireless
+          - item:
+            name: Nextiva
+          - item:
+            name: GlobalLogic Inc.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/globallogic-inc.svg'
+          - item:
+            name: 'Ribbon Communications Operating Company, Inc.'
+          - item:
+            name: OSADL eG
+          - item:
+            name: SUSE LLC
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/suse-llc.svg'
+          - item:
+            name: ETRI (Elec Tele Research Inst)
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/etri-elec-tele-research-inst.svg'
+          - item:
+            name: Syncsort Inc.
+            logo: syncsort.svg
+          - item:
+            name: Tuxera Inc.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/tuxera-inc.svg'
+          - item:
+            name: OpsRamp
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/opsramp.svg'
+          - item:
+            name: 'Guangzhishu (Beijing) Technology Co., Ltd.'
+          - item:
+            name: 'Hangzhou Eastcom Software Technology Co., Ltd'
+          - item:
+            name: 'SecureKey Technologies, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/securekey-technologies-inc.svg'
+          - item:
+            name: 'HealthVerity, Inc.'
+          - item:
+            name: Witekio Holding
+          - item:
+            name: Daynix Computing LTD
+          - item:
+            name: Kernkonzept GmbH
+          - item:
+            name: 'Fairwinds Ops, Inc'
+          - item:
+            name: Hangzhou Langhe Technology Co. Ltd.
+          - item:
+            name: Western Digital Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/western-digital-corporation.svg'
+          - item:
+            name: Sine Nomine Associates
+            logo: sinenomine.svg
+          - item:
+            name: LG Electronics
+          - item:
+            name: credativ International GmbH
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/credativ-international-gmbh.svg'
+          - item:
+            name: HAProxy Technologies
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/haproxy-technologies.svg'
+          - item:
+            name: D2iQ
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/mesosphere-inc.svg'
+          - item:
+            name: Lumina Networks
+          - item:
+            name: Deutsche Borse AG
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/deutsche-borse-ag.svg'
+          - item:
+            name: 'Shenzhen Wise2C Technology Co.,Ltd'
+          - item:
+            name: 'CloudBees, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/cloudbees-inc.svg'
+          - item:
+            name: MediConCen Limited
+          - item:
+            name: Scalyr
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/scalyr.svg'
+          - item:
+            name: Jetstack
+          - item:
+            name: 'ForgeRock US, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/forgerock-us-inc.svg'
+          - item:
+            name: Sony Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/sony-corporation.svg'
+          - item:
+            name: Elastisys AB
+          - item:
+            name: Aspen Mesh
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/aspen-mesh.svg'
+          - item:
+            name: ZTE Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/zte-corporation.svg'
+          - item:
+            name: DigitalOcean
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/digitalocean.svg'
+          - item:
+            name: CME Group Inc.
+          - item:
+            name: Cognition Foundry
+          - item:
+            name: 'Ping An Technology (Shenzhen) Co., Ltd'
+          - item:
+            name: Honda R & D Co. Ltd.
+          - item:
+            name: MediaTek USA Inc.
+          - item:
+            name: Arcontech Group PLC
+          - item:
+            name: Thunder Software Technology Co. Ltd.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/thunder-software-technology-co-ltd.svg'
+          - item:
+            name: Global Peersafe Technology Corp
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/global-peersafe-technology-corp.svg'
+          - item:
+            name: TenxCloud
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/tenxcloud.svg'
+          - item:
+            name: 'Replicated, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/replicated-inc.svg'
+          - item:
+            name: 'RIFT, Inc.'
+          - item:
+            name: Mobingi
+          - item:
+            name: Shanghai Qimai Information Technology Inc.
+          - item:
+            name: New Context
+          - item:
+            name: 'Adobe Systems, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/adobe-systems-inc.svg'
+          - item:
+            name: LedgerDomain LLC
+          - item:
+            name: Splunk Inc.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/splunk-inc.svg'
+          - item:
+            name: 'Wind River Systems, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/wind-river-systems-inc.svg'
+          - item:
+            name: Xiaoju Science Technology (Hong Kong) Limited
+          - item:
+            name: Section
+          - item:
+            name: Kontron
+          - item:
+            name: 'New H3C Technologies Co., Ltd.'
+          - item:
+            name: 'Blockdao (Hangzhou) Information Technology Co., Ltd'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/blockdao-hangzhou-information-technology-co-ltd.svg'
+          - item:
+            name: China Telecommunications Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/china-telecommunications-corporation.svg'
+          - item:
+            name: Inspur
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/inspur.svg'
+          - item:
+            name: Capsule8
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/capsule8.svg'
+          - item:
+            name: Alauda
+          - item:
+            name: iconectiv
+          - item:
+            name: 'TFcloud (Beijing) Technology  Co., Ltd.'
+          - item:
+            name: 'Ripple, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/ripple-inc.svg'
+          - item:
+            name: Kumina B.V
+          - item:
+            name: InwinSTACK
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/inwinstack.svg'
+          - item:
+            name: Spotify Sweden AB
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/spotify-sweden-ab.svg'
+          - item:
+            name: CloudBolt Software
+          - item:
+            name: 'Experian Information Solutions, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/experian-information-solutions-inc.svg'
+          - item:
+            name: 'Sinorail Hongyuan (Beijing) Software Technology Co., Ltd.'
+          - item:
+            name: EpiSensor
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/episensor.svg'
+          - item:
+            name: CULedger
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/culedger.svg'
+          - item:
+            name: 'Couchbase, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/couchbase-inc.svg'
+          - item:
+            name: 'eBay, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/ebay-inc.svg'
+          - item:
+            name: Fiberdyne Systems Pty Ltd
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/fiberdyne-systems-pty-ltd.svg'
+          - item:
+            name: IoT.bzh
+          - item:
+            name: Federal Express
+          - item:
+            name: Netgate
+          - item:
+            name: Wallarm
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/wallarm.svg'
+          - item:
+            name: Styra
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/styra.svg'
+          - item:
+            name: IntellectEU
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/intellecteu.svg'
+          - item:
+            name: Ori Industries
+          - item:
+            name: Korea Exchange
+          - item:
+            name: KubeMQ Ltd.
+          - item:
+            name: Cardstack Syndicate Inc
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/cardstack-syndicate-inc.svg'
+          - item:
+            name: Pioneer Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/pioneer-corporation.svg'
+          - item:
+            name: Equinix
+          - item:
+            name: Booz Allen Hamilton
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/booz-allen-hamilton.svg'
+          - item:
+            name: 'Tierion, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/tierion-inc.svg'
+          - item:
+            name: Mitsubishi Electric Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/mitsubishi-electric-corporation.svg'
+          - item:
+            name: Majid Al Futtaim Holding LLC
+          - item:
+            name: Lawrence Livermore National Labs
+          - item:
+            name: CloudBase Solutions
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/cloudbase-solutions.svg'
+          - item:
+            name: InfluxData Inc
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/influxdata-inc.svg'
+          - item:
+            name: Estateably Inc.
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/estateably-inc.svg'
+          - item:
+            name: Star Lab Corporation
+          - item:
+            name: MSys Technologies
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/msys-technologies.svg'
+          - item:
+            name: SafeRide Cyber Security
+          - item:
+            name: Software AG
+          - item:
+            name: Cloudify Platform Ltd.
+          - item:
+            name: Capital One
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/capital-one.svg'
+          - item:
+            name: KompiTech
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/kompitech.svg'
+          - item:
+            name: Omnitude
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/omnitude.svg'
+          - item:
+            name: Optherium Labs
+          - item:
+            name: 'VEXXHOST, Inc.'
+          - item:
+            name: iNNOVO Cloud Gmbh
+          - item:
+            name: Blockstream
+          - item:
+            name: 'Gremlin, Inc.'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/gremlin-inc.svg'
+          - item:
+            name: Agenda d.o.o.
+          - item:
+            name: Continental Automotive Systems
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/continental-automotive-systems.svg'
+          - item:
+            name: Animal Logic Pty Ltd
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/animal-logic-pty-ltd.ai'
+          - item:
+            name: Weta Digital Limited
+          - item:
+            name: The Walt Disney Studios
+          - item:
+            name: 'Epic Games, Inc.'
+          - item:
+            name: Side Effects Software Inc (SideFX)
+          - item:
+            name: 'Blue Sky Studios, Inc.'
+      - subcategory:
+        name: Associate
+        items:
+          - item:
+            name: CENGN
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/cengn.svg'
+          - item:
+            name: National Insurance Producer Registry (NIPR)
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/national-insurance-producer-registry-nipr.svg'
+          - item:
+            name: 'Open Sourcing Mental Illness, LTD'
+          - item:
+            name: Vilnius Gediminas Technical University
+          - item:
+            name: Kerala Blockchain Academy
+          - item:
+            name: MIT Connection Science
+          - item:
+            name: Arizona State University
+          - item:
+            name: Compute Canada
+          - item:
+            name: Visual Effects Society
+            logo: ves.svg
+          - item:
+            name: OpenAirInterface Software Alliance (OSA)
+          - item:
+            name: 'USC Center for CPS & IoT (CCI), Viterbi School of Engineering'
+          - item:
+            name: Okinawa Open Laboratory
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/okinawa-open-laboratory.svg'
+          - item:
+            name: Software Engineering Lab of Zhejiang University
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/software-engineering-lab-of-zhejiang-university.svg'
+          - item:
+            name: Science & Technology Facilities Council (STFC)
+          - item:
+            name: Vanderbilt University
+          - item:
+            name: FIWARE Foundation e. V.
+          - item:
+            name: ISSAT Mateur
+          - item:
+            name: Cambridge Centre for Alternative Finance
+          - item:
+            name: Ministry of Citizens Services
+          - item:
+            name: Wikimedia Foundation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/wikimedia-foundation.svg'
+          - item:
+            name: Mobility Open Blockchain Initiative (MOBI)
+          - item:
+            name: China Academy of Information and Communications Technology (CAICT)
+          - item:
+            name: Sun Yat-sen University
+          - item:
+            name: New Mexico Consortium
+          - item:
+            name: SDNLAB
+          - item:
+            name: MEF Forum
+          - item:
+            name: CERTH (Centre for Research and Technology Hellas)
+          - item:
+            name: Open Networking Foundation
+          - item:
+            name: Internet2
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/internet2.svg'
+          - item:
+            name: Blender Foundation
+            logo: blender.svg
+          - item:
+            name: University of New Mexico
+          - item:
+            name: University of Wolverhampton
+          - item:
+            name: INSTITUTE FOR INFORMATION INDUSTRY
+          - item:
+            name: Tecnalia Corporation
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/tecnalia-corporation.svg'
+          - item:
+            name: (NUST) National University of Science & Technology
+          - item:
+            name: Peking University
+          - item:
+            name: Budapest University of Technology and Economics
+          - item:
+            name: Blockchain at Berkeley
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/blockchain-at-berkeley.svg'
+          - item:
+            name: University of Kassel
+          - item:
+            name: SDN/NFV Industry Alliance
+          - item:
+            name: Beijing University of Posts and Telecommunications (BUPT)
+          - item:
+            name: AAIS (American Association of Insurance Services)
+          - item:
+            name: Penn Blockchain Club
+          - item:
+            name: Rutgers University
+          - item:
+            name: NYU Tandon School of Engineering
+          - item:
+            name: Washington State University
+          - item:
+            name: University of New Hampshire
+          - item:
+            name: CPqD
+          - item:
+            name: Association of Blockchain Developers of Saint-Petersburg
+          - item:
+            name: National Association of Insurance Commissioners
+          - item:
+            name: Produce Marketing Association
+          - item:
+            name: Government of Bermuda
+          - item:
+            name: SARAO (South African Radio Astronomy Observatory)
+          - item:
+            name: Zhejiang Block Chain Technology Application Association
+          - item:
+            name: National Renewable Energy Laboratory (NREL)
+          - item:
+            name: Wall Street Blockchain Alliance
+          - item:
+            name: Enterprise Ethereum Alliance
+          - item:
+            name: Wingu - Tecnologia Sin Fines de Lucro
+          - item:
+            name: Instituto de Fisica Teorica UAM-CSIC
+          - item:
+            name: Federal University of Campina Grande
+          - item:
+            name: Business School of Hunan University
+          - item:
+            name: Yale University
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/yale-university.svg'
+          - item:
+            name: Kiva
+          - item:
+            name: North Carolina State University
+          - item:
+            name: CERN - European Centre for Nuclear Research
+          - item:
+            name: Monash University
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/monash-university.svg'
+          - item:
+            name: Ministry of Finance of the Republic of Lithuania
+          - item:
+            name: Sollers College
+          - item:
+            name: National Institute of Telecommunications (Ministry of Digital Affairs Poland)
+          - item:
+            name: University of Rome Tor Vergata
+          - item:
+            name: AYO Social Enterprise
+          - item:
+            name: Golden Gate University
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/golden-gate-university.svg'
+          - item:
+            name: 'SMT. KUMUDBEN DARBAR COLLEGE OF COMMERCE,SCIENCE & MANAGEMENT STUDIES'
+          - item:
+            name: University of Michigan - Advanced Research Computing (ARC)
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/university-of-michigan-advanced-research-computing-arc.svg'
+          - item:
+            name: Project Haystack
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/project-haystack.svg'
