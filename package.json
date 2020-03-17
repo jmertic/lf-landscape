@@ -1,7 +1,7 @@
 {
-  "name": "aswf-interactive-landscape",
+  "name": "lf-interactive-landscape",
   "version": "1.0.0",
-  "description": "Interactive visualization of Academy Software Foundation",
+  "description": "Interactive visualization of Linux Foundation",
   "engines": {
     "npm": ">=3",
     "node": ">= 10.5"
@@ -10,16 +10,16 @@
     "build": "npm run latest; npm config set scripts-prepend-node-path true; export PROJECT_PATH=\"$PWD\"; npm explore interactive-landscape -- npm run build",
     "latest": "npm install interactive-landscape@latest"
   },
-  "author": "ASWF",
+  "author": "LF",
   "license": "Apache-2.0",
   "dependencies": {
     "eslint": "6.1.0",
-    "interactive-landscape": "1.0.334",
+    "interactive-landscape": "1.0.363",
     "node-fetch": "2.6.0"
   },
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/AcademySoftwareFoundation/aswf-landscape"
+    "url": "https://github.com/jmertic/lf-landscape"
   }
 }
