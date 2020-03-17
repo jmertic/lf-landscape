@@ -1,11 +1,11 @@
 global:
   name: LF Interactive Landscape
-  short_name: ASWF
+  short_name: LF
   repo: linuxfoundation/lf-landscape
-  website: 'https://landscape.aswf.io'
+  website: 'https://landscape.linuxfoundation.org'
   short_domain: l.linuxfoundation.org
-  company_url: 'https://aswf.io'
-  email: info@aswf.io
+  company_url: 'https://linuxfoundation.org'
+  email: info@linuxfoundation.org
   self: 'https://www.crunchbase.com/organization/linux-foundation'
   slack_channel: T08PSQ7BQ/BM3K5125V/VfQL9ybcXrwpnLAdKdU8WQrr
   meta:
@@ -15,33 +15,35 @@ global:
     twitter: '@linuxfoundation'
     google_site_verification: crYr16dyu7npMmK-fw42gMkXKTWg_A-7c2PosXgtPZo
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
-  flags: null
+  membership: LF Member Company
+  flags:
+    companies: LF Member Company
 twitter:
   search: landscape.linuxfoundation.org
   url: 'https://landscape.linuxfoundation.org'
   text: LF Landscape from @linuxfoundation
 relation:
   label: LF Relation
-  url: aswf
+  url: lf
   values:
     - id: hosted
       label: LF Projects
       children:
         - id: graduated
-          label: Graduated ASWF Projects
-          prefix: ASWF
+          label: Graduated LF Projects
+          prefix: LF
           tag: Graduated
           color: '#3570af'
           big_picture_order: 1
-          big_picture_label: ASWF Graduated
+          big_picture_label: LF Graduated
           big_picture_color: 'rgb(24,54,114)'
         - id: incubating
-          label: Incubating ASWF Projects
-          prefix: ASWF
+          label: Incubating LF Projects
+          prefix: LF
           tag: Incubating
           color: '#00cbff'
           big_picture_order: 2
-          big_picture_label: ASWF Incubating
+          big_picture_label: LF Incubating
           big_picture_color: 'rgb(83, 113, 189)'
     - id: company
       label: LF Members
@@ -64,14 +66,6 @@ membership:
     label: Gold Member
     funding: Gold
     is_large: true
-  Silver:
-    name: LF
-    label: Silver Member
-    funding: Silver
-  Associate:
-    name: LF
-    label: Associate Member
-    funding: Associate
   linux_foundation:
     name: LF
     label: Project
@@ -112,47 +106,97 @@ big_picture:
     fullscreen_header: See the interactive landscape at l.linuxfoundation.org
     size:
       width: 1165
+      height: 800
+    fullscreen_size:
+      width: 1165
+      height: 800
+    elements:
+      - type: VerticalCategory
+        category: Vertical Specific
+        cols: 6
+        width: 240
+        height: 300
+        top: 10
+        left: 900
+        color: 'rgb(78,171,207)'
+        fit_height: false
+      - type: HorizontalCategory
+        category: Cloud Computing
+        rows: 4
+        width: 880
+        height: 170
+        top: 10
+        left: 0
+        color: 'rgb(104,145,145)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: Development and Tooling
+        rows: 4
+        width: 600
+        height: 190
+        top: 200
+        left: 0
+        color: 'rgb(108,135,75)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: 'Data, Anayltics, and AI'
+        rows: 3
+        width: 880
+        height: 140
+        top: 420
+        left: 0
+        color: 'rgb(130,207,231)'
+        fit_width: true
+      - type: VerticalCategory
+        category: Other
+        cols: 6
+        width: 240
+        height: 140
+        top: 430
+        left: 900
+        color: 'rgb(130,207,231)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: Infrastructure
+        rows: 4
+        width: 1140
+        height: 180
+        top: 600
+        left: 0
+        color: 'rgb(130,207,231)'
+        fit_width: false
+      - type: VerticalCategory
+        category: Standards
+        cols: 6
+        width: 240
+        height: 100
+        top: 320
+        left: 900
+        color: 'rgb(130,207,231)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: Community and Compliance
+        rows: 4
+        width: 270
+        height: 190
+        top: 200
+        left: 610
+        color: 'rgb(130,207,231)'
+        fit_width: false
+  third:
+    tab_index: 2
+    url: members
+    name: Members
+    title: LF Members
+    fullscreen_header: Become a LF member at cncf.io/join or view the interactive member landscape at m.cncf.io
+    fullscreen_hide_grey_logos: true
+    size:
+      width: 1165
       height: 700
     fullscreen_size:
       width: 1165
       height: 700
     elements:
-      - type: HorizontalCategory
-        category: Imaging and Color
-        rows: 3
-        width: 750
-        height: 170
-        top: 10
-        left: 0
-        color: 'rgb(78,171,207)'
-        fit_width: true
-      - type: HorizontalCategory
-        category: Assets and Workflow
-        rows: 3
-        width: 750
-        height: 170
-        top: 220
-        left: 0
-        color: 'rgb(104,145,145)'
-        fit_width: true
-      - type: HorizontalCategory
-        category: Rendering and Queueing
-        rows: 4
-        width: 365
-        height: 190
-        top: 420
-        left: 0
-        color: 'rgb(108,135,75)'
-        fit_width: true
-      - type: HorizontalCategory
-        category: Math and Simulation
-        rows: 4
-        width: 365
-        height: 190
-        top: 420
-        left: 385
-        color: 'rgb(130,207,231)'
-        fit_width: true
       - type: VerticalCategory
         category: LF Member Company
         cols: 8
@@ -199,5 +243,5 @@ big_picture:
             top: 80
 test:
   header: LF Interactive Landscape
-  section: Graduated ASWF Projects
-  logo: prometheus.svg
+  section: Automotive Grade Linux
+  logo: automotivegradelinux.svg
