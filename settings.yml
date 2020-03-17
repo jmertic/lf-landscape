@@ -18,6 +18,8 @@ global:
   membership: LF Member Company
   flags:
     companies: LF Member Company
+    hide_license_for_categories:
+      - LF Members
 twitter:
   search: landscape.linuxfoundation.org
   url: 'https://landscape.linuxfoundation.org'
@@ -184,7 +186,7 @@ big_picture:
         color: 'rgb(130,207,231)'
         fit_width: false
   third:
-    tab_index: 2
+    tab_index: 1
     url: members
     name: Members
     title: LF Members
@@ -192,25 +194,34 @@ big_picture:
     fullscreen_hide_grey_logos: true
     size:
       width: 1165
-      height: 700
+      height: 800
     fullscreen_size:
       width: 1165
-      height: 700
+      height: 800
     elements:
       - type: VerticalCategory
-        category: LF Member Company
-        cols: 8
-        width: 355
-        height: 420
-        top: 190
-        left: 770
+        category: Platinum
+        cols: 18
+        width: 750
+        height: 160
+        top: 0
+        left: 0
         color: 'rgb(124, 200, 182)'
-        fit_width: true
+        fit_height: true
+      - type: VerticalCategory
+        category: Gold
+        cols: 18
+        width: 750
+        height: 160
+        top: 180
+        left: 0
+        color: 'rgb(124, 200, 182)'
+        fit_height: false
       - type: LandscapeInfo
         width: 365
         height: 160
-        top: 10
-        left: 770
+        top: 0
+        left: 790
         children:
           - type: text
             text: >
@@ -227,7 +238,7 @@ big_picture:
             width: 90
             height: 90
           - type: title
-            title: l.aswf.io
+            title: l.linuxfoundation.org
             top: 104
             left: 30
             font_size: 12
@@ -241,6 +252,7 @@ big_picture:
             width: 109
             right: 5
             top: 80
+    category: LF Member Company
 test:
   header: LF Interactive Landscape
   section: Automotive Grade Linux
