@@ -68,6 +68,14 @@ membership:
     label: Gold Member
     funding: Gold
     is_large: true
+  Silver:
+    name: LF
+    label: Silver Member
+    funding: Silver
+  Associate:
+    name: LF
+    label: Associate Member
+    funding: Associate
   linux_foundation:
     name: LF
     label: Project
@@ -214,6 +222,24 @@ big_picture:
         width: 1150
         height: 100
         top: 180
+        left: 0
+        color: 'rgb(124, 200, 182)'
+        fit_height: true
+      - type: VerticalCategory
+        category: Silver
+        cols: 30
+        width: 1150
+        height: 400
+        top: 300
+        left: 0
+        color: 'rgb(124, 200, 182)'
+        fit_height: true
+      - type: VerticalCategory
+        category: Associate
+        cols: 30
+        width: 1150
+        height: 150
+        top: 720
         left: 0
         color: 'rgb(124, 200, 182)'
         fit_height: true
