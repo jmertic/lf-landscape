@@ -201,17 +201,17 @@ big_picture:
     fullscreen_header: Become a LF member at cncf.io/join or view the interactive member landscape at m.cncf.io
     fullscreen_hide_grey_logos: true
     size:
-      width: 1165
-      height: 900
+      width: 1200
+      height: 1400
     fullscreen_size:
-      width: 1165
-      height: 900
+      width: 1200
+      height: 1600
     elements:
       - type: VerticalCategory
         category: Platinum
         cols: 18
         width: 750
-        height: 160
+        height: 150
         top: 0
         left: 0
         color: 'rgb(124, 200, 182)'
@@ -219,34 +219,34 @@ big_picture:
       - type: VerticalCategory
         category: Gold
         cols: 30
-        width: 1150
-        height: 100
-        top: 180
+        width: 1180
+        height: 90
+        top: 160
         left: 0
         color: 'rgb(124, 200, 182)'
         fit_height: true
       - type: VerticalCategory
         category: Silver
         cols: 30
-        width: 1150
-        height: 400
-        top: 300
+        width: 1180
+        height: 800
+        top: 260
         left: 0
         color: 'rgb(124, 200, 182)'
-        fit_height: true
+        fit_width: true
       - type: VerticalCategory
         category: Associate
         cols: 30
-        width: 1150
+        width: 1180
         height: 150
-        top: 720
+        top: 1070
         left: 0
         color: 'rgb(124, 200, 182)'
         fit_height: true
       - type: LandscapeInfo
         width: 365
         height: 160
-        top: 0
+        top: -15
         left: 790
         children:
           - type: text
