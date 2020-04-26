@@ -6647,6 +6647,51 @@ landscape:
         name: HyperLedger
         items:
           - item:
+            name: Hyperledger
+            description: >-
+              Hyperledger is an open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain
+              deployments.
+            logo: hyperledger-color.svg
+            homepage_url: 'https://www.hyperledger.org'
+            repo_url: 'https://github.com/hyperledger/tsc'
+            crunchbase: 'https://www.crunchbase.com/organization/hyperledger-2'
+            crunchbase_data:
+              name: Hyperledger
+              description: Hyperledger is an open source collaborative effort created to advance cross-industry blockchain technologies.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'http://www.hyperledger.org/'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/Hyperledger'
+              linkedin: 'https://www.linkedin.com/company/hyperledger-project/'
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              languages: []
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+              firstWeek: 2019-05-05Z
+              stars: 0
+              license: Apache License 2.0
+              description: TSC documents
+              latest_commit_date: '2020-03-16T16:44:00Z'
+              latest_commit_link: /hyperledger/tsc/commit/af8e4ec481c05017924e53a176a51734ab29fa0b
+              contributors_count: 1
+              contributors_link: 'https://github.com/hyperledger/tsc/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /hyperledger/tsc/commit/af8e4ec481c05017924e53a176a51734ab29fa0b
+              start_date: '2020-03-16T16:39:23Z'
+            image_data:
+              fileName: hyperledger.svg
+              hash: aALJRo1p90bQoz3lTrcIGaRexqk3Ww5uzPHnCUASzf4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-03-16T17:39:00.000Z
+          - item:
             name: Hyperledger Aries
             logo: hyperledger-aries.svg
             homepage_url: 'https://www.hyperledger.org/projects/aries'
