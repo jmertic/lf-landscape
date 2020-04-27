@@ -136,13 +136,27 @@ class Member:
 #
 class Members:
 
+    def __init__(self, loadData = False):
+        if loadData:
+            self.loadData()
+
     def loadData(self):
         pass
 
-    def find(self, org):
-        pass
+    def find(self, org, website):
+        normalizedorg = self.normalizeCompany(org)
+        normalizedwebsite = self.normalizeURL(website)
+
+        for member in self.members:
+            if ( self.normalizeCompany(member.orgname) == normalizedorg or member.website == website):
+                return member
+
+        return False
 
     def normalizeCompany(self, company):
+
+        if company is None:
+            return ''
 
         company = company.replace(', Inc.','')
         company = company.replace(', Ltd','')
@@ -152,6 +166,7 @@ class Members:
         company = company.replace(' Corp.','')
         company = company.replace(' AB','')
         company = company.replace(' AG','')
+        company = company.replace(' BV','')
         company = company.replace(' Pty Ltd','')
         company = company.replace(' Pte Ltd','')
         company = company.replace(' Ltd','')
@@ -189,8 +204,7 @@ class SFDCMembers(Members):
             self.sf_username = sf_username
             self.sf_password = sf_password
             self.sf_token = sf_token
-            if loadData:
-                self.loadData()
+            super().__init__(loadData)
 
     def loadData(self):
         print("--Loading SFDC Members data--")
@@ -198,22 +212,30 @@ class SFDCMembers(Members):
         result = sf.query("select Account.Name, Account.Website, Account.Logo_URL__c, Product2.Name from Asset where Asset.Status in ('Active','Purchased') and Asset.Project__c = 'The Linux Foundation'")
 
         for record in result['records']:
+            member = Member()
             try:
-                member = Member()
                 member.orgname = record['Account']['Name']
-                member.website = record['Account']['Website']
-                member.membership = record['Product2']['Name']
-                member.logo = record['Account']['Logo_URL__c']
-                member.crunchbase = ''
             except ValueError as e:
-                print(e)
+                pass
+            try:
+                member.website = record['Account']['Website']
+            except ValueError as e:
+                pass
+            try:
+                member.membership = record['Product2']['Name']
+            except ValueError as e:
+                pass
+            try:
+                member.logo = record['Account']['Logo_URL__c']
+            except ValueError as e:
+                pass
 
             self.members.append(member)
 
     def find(self, org, website, membership):
         normalizedorg = self.normalizeCompany(org)
         normalizedwebsite = self.normalizeURL(website)
-
+        
         for member in self.members:
             if ( self.normalizeCompany(member.org) == normalizedorg or member.website == website) and member.membership == membership:
                 return member
@@ -231,8 +253,7 @@ class LandscapeMembers(Members):
     def __init__(self, landscapeListYAML = None, loadData = False):
         if landscapeListYAML:
             self.landscapeListYAML = landscapeListYAML
-        if loadData:
-            self.loadData()
+        super().__init__(loadData)
 
     def loadData(self):
         print("--Loading other landscape members data--")
@@ -257,29 +278,34 @@ class LandscapeMembers(Members):
                         for item in subcategory['items']:
                             if not item.get('crunchbase'):
                                 item['crunchbase'] = ''
-                            try:
-                                member = Member()
-                                member.membership = ''
-                                member.orgname = item['name']
-                                member.website = item['homepage_url']
-                                member.logo = self.normalizeLogo(item['logo'],landscape['repo'])
-                                member.crunchbase = item['crunchbase']
-                                for key, value in item.items():
+                            member = Member()
+                            for key, value in item.items():
+                                try:
                                     setattr(member, key, value)
+                                except ValueError as e:
+                                    pass
+                            try:
+                                member.membership = ''
                             except ValueError as e:
-                                print(e)
+                                pass
+                            try:
+                                member.orgname = item['name']
+                            except ValueError as e:
+                                pass
+                            try:
+                                member.website = item['homepage_url']
+                            except ValueError as e:
+                                pass
+                            try:
+                                member.logo = self.normalizeLogo(item['logo'],landscape['repo'])
+                            except ValueError as e:
+                                pass
+                            try:
+                                member.crunchbase = item['crunchbase']
+                            except ValueError as e:
+                                pass
 
                             self.members.append(member)
-
-    def find(self, org, website):
-        normalizedorg = self.normalizeCompany(org)
-        normalizedwebsite = self.normalizeURL(website)
-
-        for member in self.members:
-            if ( self.normalizeCompany(member.orgname) == normalizedorg or member.website == website):
-                return member
-
-        return False
 
     def normalizeLogo(self, logo, landscapeRepo):
         if logo is None:
@@ -294,23 +320,55 @@ class CrunchbaseMembers(Members):
 
     members = []
     crunchbaseKey = ''
+    bulkdata = True
+    bulkdatafile = 'organizations.csv'
 
-    def __init__(self, crunchbaseKey = None, loadData = False):
-        if crunchbaseKey:
-            self.crunchbaseKey = crunchbaseKey
-        elif 'CRUNCHBASE_KEY' in os.environ:
-            self.crunchbaseKey = os.getenv('CRUNCHBASE_KEY')
+    def __init__(self, crunchbaseKey = None, bulkdata = True, bulkdatafile = None, loadData = False):
+        if bulkdata:
+            self.bulkdata = bulkdata
+        if bulkdatafile:
+            self.bulkdatafile = bulkdatafile
+        if self.bulkdata:
+            super().__init__(loadData)
+        else:
+            if crunchbaseKey:
+                self.crunchbaseKey = crunchbaseKey
+            elif 'CRUNCHBASE_KEY' in os.environ:
+                self.crunchbaseKey = os.getenv('CRUNCHBASE_KEY')
 
     def loadData(self):
         # load from bulk export file contents
+        if not self.bulkdata:
+            return False
 
+        print("--Loading Crunchbase bulk export data--")
+        with open(self.bulkdatafile, newline='') as csvfile:
+            memberreader = csv.reader(csvfile, delimiter=',', quotechar='"')
+            fields = next(memberreader)
+            for row in memberreader:
+                member = Member()
+                try:
+                    member.membership = ''
+                except ValueError as e:
+                    pass # avoids all the Exceptions for logo
+                try:
+                    member.orgname = row[1]
+                except ValueError as e:
+                    pass # avoids all the Exceptions for logo
+                try:
+                    member.website = row[11]
+                except ValueError as e:
+                    pass # avoids all the Exceptions for logo
+                try:
+                    member.crunchbase = row[4]
+                except ValueError as e:
+                    pass # avoids all the Exceptions for logo
 
-        # we lazy load in data since it's kinda wierd to load all of Crunchbase ;-)
-        return
+                self.members.append(member)
 
     def find(self, org, website):
-
-        return False
+        if self.bulkdata:
+            return super().find(org, website)
 
         normalizedorg = self.normalizeCompany(org)
         normalizedwebsite = self.normalizeURL(website)
@@ -320,15 +378,19 @@ class CrunchbaseMembers(Members):
         for result in cb.organizations(org):
             company = cb.organization(result.permalink)
             if self.normalizeCompany(company.name) == normalizedorg:
+                member = Member()
                 try:
-                    member = Member()
-                    member.membership = ''
                     member.orgname = company.name
+                except ValueError as e:
+                    pass
+                try:
                     member.website = self.normalizeURL(company.homepage_url)
-                    member.logo = '' # crunchbase doesn't support SVGs, so they are useless to us
+                except ValueError as e:
+                    pass
+                try:
                     member.crunchbase = "https://www.crunchbase.com/organization/{org}".format(org=result.permalink)
                 except ValueError as e:
-                    print(e)
+                    pass
 
                 return member
 
@@ -339,10 +401,6 @@ class LFWebsiteMembers(Members):
     members = []
     lfwebsiteurl = 'https://www.linuxfoundation.org/membership/members/'
 
-    def __init__(self, loadData = False):
-        if loadData:
-            self.loadData()
-
     def loadData(self):
         print("--Loading members listed on LF Website--")
 
@@ -350,29 +408,64 @@ class LFWebsiteMembers(Members):
         soup = BeautifulSoup(response.content, "html.parser")
         companies = soup.find_all("div", class_="single-member-icon")
         for entry in companies:
+            member = Member()
             try:
-                member = Member()
                 member.membership = ''
-                member.orgname = entry.contents[1].contents[0].attrs['alt']
-                member.website = self.normalizeURL(entry.contents[1].attrs['href'])
-                member.logo = entry.contents[1].contents[0].attrs['src']
-                member.crunchbase = ''
             except ValueError as e:
-                print(e)
+                pass
+            try:
+                member.orgname = entry.contents[1].contents[0].attrs['alt']
+            except ValueError as e:
+                pass
+            try:
+                member.website = self.normalizeURL(entry.contents[1].attrs['href'])
+            except ValueError as e:
+                pass
+            try:
+                member.logo = entry.contents[1].contents[0].attrs['src']
+            except ValueError as e:
+                pass
 
             self.members.append(member)
 
-    def find(self, org, website):
-        normalizedorg = self.normalizeCompany(org)
-        normalizedwebsite = self.normalizeURL(website)
+class CsvMembers(Members):
 
-        for member in self.members:
-            if (self.normalizeCompany(member.orgname) == normalizedorg) or (member.website == normalizedwebsite):
-                return member
+    members = []
+    csvfile = 'missing.csv'
 
-        return False
+    def __init__(self, csvfile = None, loadData = False):
+        if csvfile:
+            self.csvfile = csvfile
+        super().__init__(loadData)
 
-class LFLandscape:
+    def loadData(self):
+        print("--Loading members from csv input file {filename}--".format(filename=self.csvfile))
+
+        with open(self.csvfile, newline='') as csvfile:
+            memberreader = csv.reader(csvfile, delimiter=',', quotechar='"')
+            fields = next(memberreader)
+            for row in memberreader:
+                member = Member()
+                try:
+                    member.orgname = row[0]
+                except ValueError as e:
+                    pass
+                try:
+                    member.website = row[2]
+                except ValueError as e:
+                    pass
+                try:
+                    member.logo = row[1]
+                except ValueError as e:
+                    pass
+                try:
+                    member.crunchbase = row[3]
+                except ValueError as e:
+                    pass
+
+                self.members.append(member)
+
+class LandscapeOutput:
 
     landscapefile = '../landscape.yml'
     landscape = None
@@ -380,13 +473,21 @@ class LFLandscape:
     missingcsvfile = 'missing.csv'
     _missingcsvfilewriter = None
 
+    landscapeMemberCategory = 'LF Member Company'
+    landscapeMemberClasses = {
+        "Associate Membership": 'Associate',
+        "Gold Membership": 'Gold',
+        "Platinum Membership": 'Platinum',
+        "Silver Membership": 'Silver',
+        "Silver Membership - MPSF": 'Silver'
+    }
     membersAdded = 0
     membersUpdated = 0
 
     def __init__(self):
         self.landscape = yaml.load(open(self.landscapefile, 'r', encoding="utf8", errors='ignore'), Loader=ruamel.yaml.RoundTripLoader)
         for x in self.landscape['landscape']:
-            if x['name'] == 'LF Member Company':
+            if x['name'] == self.landscapeMemberCategory:
                 self.landscapeMembers = x['subcategories']
 
     def writeMissing(self, name, logo, homepage_url, crunchbase):
@@ -400,6 +501,7 @@ class LFLandscape:
         if 'https://' not in logo and 'http://' not in logo:
             return logo
 
+        print("...Hosting logo for "+orgname)
         filename = str(orgname).strip().replace(' ', '_')
         filename = re.sub(r'(?u)[^-\w.]', '', filename)
         i = 1
@@ -415,7 +517,7 @@ class LFLandscape:
     def updateLandscape(self):
         # now write it back
         for x in self.landscape['landscape']:
-            if x['name'] == 'LF Member Company':
+            if x['name'] == self.landscapeMemberCategory:
                 x['subcategories'] = self.landscapeMembers
 
         with open(self.landscapefile, 'w', encoding = "utf-8") as landscapefileoutput:
@@ -436,84 +538,93 @@ def main():
     lfwmembers  = LFWebsiteMembers(loadData = True)
     cbmembers   = CrunchbaseMembers(loadData = True)
     lsmembers   = LandscapeMembers(loadData = True)
-    lflandscape = LFLandscape()
+    #csvmembers  = CsvMembers(loadData = True)
+    lflandscape = LandscapeOutput()
 
     # Iterate through the SFDCMembers and update the landscapeMembers
     for member in sfdcmembers.members:
         found = 0
         print("Processing "+member.orgname)
         # overlay crunchbase data to match
+        # csvmember = csvmembers.find(member.orgname, member.website)
+        # if csvmember:
+        #     try:
+        #         print("...Get crunchbase from csvfile")
+        #         member.crunchbase = csvmember.crunchbase
+        #     except ValueError as e:
+        #         print(e)
+        # else:
         lsmember = lsmembers.find(member.orgname, member.website)
-        if lookupmember:
+        if lsmember:
             try:
-                print("...Updating crunchbase from landscape")
+                print("...Get crunchbase from landscape")
                 member.crunchbase = lsmember.crunchbase
             except ValueError as e:
                 print(e)
-        else
+        else:
             cbmember = cbmembers.find(member.orgname,member.website)
             if cbmember:
                 try:
-                    print("...Updating crunchbase from Crunchbase")
+                    print("...Get crunchbase from Crunchbase")
                     member.crunchbase = cbmember.crunchbase
                 except ValueError as e:
                     print(e)
         for memberClass in lflandscape.landscapeMembers:
             for landscapeMember in memberClass['items']:
-                if sfdcmembers.crunchbase == landscapeMember['crunchbase'] or sfdcmembers.normalizeCompany(landscapeMember['name']) == sfdcmembers.normalizeCompany(member.orgname):
+                if member.crunchbase == landscapeMember['crunchbase'] or sfdcmembers.normalizeCompany(landscapeMember['name']) == sfdcmembers.normalizeCompany(member.orgname):
                     print("...Already in landscape")
                     found = 1
-                    # Don't touch the entry!!!
-                    #
                     # added = 0
-                    #
-                    # # lookup in other landscapes
-                    # lookupmember = lsmembers.find(landscapeMember['name'], landscapeMember['homepage_url'])
-                    # if lookupmember:
-                    #     for key, value in lookupmember.toLandscapeItemAttributes().items():
-                    #         # update from other landscape if
-                    #         if ( key not in landscapeMember.keys() or landscapeMember[key] == '' ) and key != 'membership':
-                    #             print("...Updating {key} from other landscape".format(key=key))
-                    #             landscapeMember[key] = value
-                    #     added += 1
-                    # # not in other landscape, will need to parse through data
-                    # else:
-                    #     # lookup on LF lfwebsite
-                    #     lookupwebsite = lfwmembers.find(landscapeMember['name'], landscapeMember['homepage_url'])
-                    #     if lookupwebsite:
-                    #         if ( 'logo' not in landscapeMember or landscapeMember['logo'] == '' ) and '.svg' in lookupwebsite['logo']:
-                    #             print("...Updating logo from LF website")
-                    #             landscapeMember['logo'] = lookupwebsite.logo
-                    #             added += 1
-                    #         if 'homepage_url' not in landscapeMember:
-                    #             print("...Updating homepage_url from LF website")
-                    #             landscapeMember['homepage_url'] = lookupwebsite.website
-                    #             added += 1
-                    #     # else lookup in LF SFDC data
-                    #     if 'logo' not in landscapeMember or landscapeMember['logo'] == '':
-                    #         print("...Updating logo from SFDC")
-                    #         landscapeMember['logo'] = member.logo
+                    # # Don't touch the entry!!!
+                    # #
+                    # #
+                    # # # lookup in other landscapes
+                    # # lookupmember = lsmembers.find(landscapeMember['name'], landscapeMember['homepage_url'])
+                    # # if lookupmember:
+                    # #     for key, value in lookupmember.toLandscapeItemAttributes().items():
+                    # #         # update from other landscape if
+                    # #         if ( key not in landscapeMember.keys() or landscapeMember[key] == '' ) and key != 'membership':
+                    # #             print("...Updating {key} from other landscape".format(key=key))
+                    # #             landscapeMember[key] = value
+                    # #     added += 1
+                    # # # not in other landscape, will need to parse through data
+                    # # else:
+                    # #     # lookup on LF lfwebsite
+                    # #     lookupwebsite = lfwmembers.find(landscapeMember['name'], landscapeMember['homepage_url'])
+                    # #     if lookupwebsite:
+                    # #         if ( 'logo' not in landscapeMember or landscapeMember['logo'] == '' ) and '.svg' in lookupwebsite['logo']:
+                    # #             print("...Updating logo from LF website")
+                    # #             landscapeMember['logo'] = lookupwebsite.logo
+                    # #             added += 1
+                    # #         if 'homepage_url' not in landscapeMember:
+                    # #             print("...Updating homepage_url from LF website")
+                    # #             landscapeMember['homepage_url'] = lookupwebsite.website
+                    # #             added += 1
+                    # #     # else lookup in LF SFDC data
+                    # #     if 'logo' not in landscapeMember or landscapeMember['logo'] == '':
+                    # #         print("...Updating logo from SFDC")
+                    # #         landscapeMember['logo'] = member.logo
+                    # #         added += 1
+                    # #     if 'homepage_url' not in landscapeMember or landscapeMember['homepage_url'] == '':
+                    # #         print("...Updating homepage_url from SFDC")
+                    # #         landscapeMember['homepage_url'] = member.website
+                    # #         added += 1
+                    # # well, let's update the crunchbase if we can ;-)
+                    # if 'crunchbase' not in landscapeMember or landscapeMember['crunchbase'] == '':
+                    #     cbmember = cbmembers.find(landscapeMember['name'], landscapeMember['homepage_url'])
+                    #     if crunchbase:
+                    #         print("...Updating crunchbase from Crunchbase")
+                    #         landscapeMember['crunchbase'] = cbmember.crunchbase
                     #         added += 1
-                    #     if 'homepage_url' not in landscapeMember or landscapeMember['homepage_url'] == '':
-                    #         print("...Updating homepage_url from SFDC")
-                    #         landscapeMember['homepage_url'] = member.website
-                    #         added += 1
-                    #     if 'crunchbase' not in landscapeMember or landscapeMember['crunchbase'] == '':
-                    #         cbmember = cbmembers.find(landscapeMember['name'], landscapeMember['homepage_url'])
-                    #         if crunchbase:
-                    #             print("...Updating crunchbase from Crunchbase")
-                    #             landscapeMember['crunchbase'] = cbmember.crunchbase
-                    #             added += 1
-                    #     # Write out to missing.csv if it's missing key parameters
-                    #     if ( ( not landscapeMember['crunchbase'] or 'https://www.crunchbase.com' not in landscapeMember['crunchbase'] )
-                    #         or ( not landscapeMember['logo'] or not landscapeMember['logo'].endswith('.svg') )
-                    #         or ( not landscapeMember['homepage_url'] or not validators.url(landscapeMember['homepage_url']) ) ) :
-                    #
-                    #         lflandscape.writeMissing(
-                    #             landscapeMember['name'],
-                    #             landscapeMember['logo'],
-                    #             landscapeMember['homepage_url'],
-                    #             landscapeMember['crunchbase'])
+                    # # Write out to missing.csv if it's missing key parameters
+                    # if ( ( not landscapeMember['crunchbase'] or 'https://www.crunchbase.com' not in landscapeMember['crunchbase'] )
+                    #     or ( not landscapeMember['logo'] or not landscapeMember['logo'].endswith('.svg') )
+                    #     or ( not landscapeMember['homepage_url'] or not validators.url(landscapeMember['homepage_url']) ) ) :
+                    #     lflandscape.writeMissing(
+                    #         landscapeMember['name'],
+                    #         landscapeMember['logo'],
+                    #         landscapeMember['homepage_url'],
+                    #         landscapeMember['crunchbase'])
                     #
                     # if added > 0:
                     #     lflandscape.membersUpdated += 1
@@ -521,14 +632,14 @@ def main():
         if found == 0:
             # if not found, add it
             print("...Not in landscape")
-            lflandscape.membersAdded += 1
             for memberClass in lflandscape.landscapeMembers:
-                if (( member.membership == "Associate Membership" and memberClass['name'] == 'Associate' )
-                    or (member.membership == "Gold Membership" and memberClass['name'] == 'Gold')
-                    or (member.membership == "Platinum Membership" and memberClass['name'] == 'Platinum')
-                    or (member.membership == "Silver Membership" and memberClass['name'] == 'Silver')
-                    or (member.membership == "Silver Membership - MPSF" and memberClass['name'] == 'Silver')
-                ):
+                if lflandscape.landscapeMemberClasses[member.membership] == memberClass['name']:
+                # if (( member.membership == "Associate Membership" and memberClass['name'] == 'Associate' )
+                #     or (member.membership == "Gold Membership" and memberClass['name'] == 'Gold')
+                #     or (member.membership == "Platinum Membership" and memberClass['name'] == 'Platinum')
+                #     or (member.membership == "Silver Membership" and memberClass['name'] == 'Silver')
+                #     or (member.membership == "Silver Membership - MPSF" and memberClass['name'] == 'Silver')
+                # ):
                     # lookup in other landscapes
                     lookupmember = lsmembers.find(member.orgname, member.website)
                     if lookupmember:
@@ -549,6 +660,11 @@ def main():
                             if lfwmember.website is not None and lfwmember.website != '':
                                 print("...Updating website from LF website")
                                 member.website = lfwmember.website
+                        # overlay crunchbase data
+                        cbmember = cbmembers.find(member.orgname,member.website)
+                        if cbmember:
+                            print("...Updating crunchbase from Crunchbase")
+                            member.crunchbase = cbmember.crunchbase
 
                     # Write out to missing.csv if it's missing key parameters
                     if not member.isValidLandscapeItem():
@@ -562,6 +678,7 @@ def main():
                     # otherwise we can add it
                     else:
                         print("...Added to Landscape")
+                        lflandscape.membersAdded += 1
                         # host the logo
                         member.logo = lflandscape.hostLogo(logo=member.logo,orgname=member.orgname)
                         memberClass['items'].append(member.toLandscapeItemAttributes())
