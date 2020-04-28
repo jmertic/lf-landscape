@@ -13265,60 +13265,6 @@ landscape:
         name: Platinum
         items:
           - item:
-            name: AT&T
-            homepage_url: 'https://www.att.com/'
-            logo: AT&T_logo_2016.svg
-            crunchbase: 'https://www.crunchbase.com/organization/at-t'
-            crunchbase_data:
-              name: AT&T
-              description: 'AT&T is a telecommunications company that provides wireless communications, local exchange, and long-distance services.'
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'https://www.att.com/'
-              city: Dallas
-              region: Texas
-              country: United States
-              twitter: 'http://twitter.com/ATT'
-              linkedin: 'https://www.linkedin.com/company/at&t'
-              acquisitions:
-                - date: '2018-07-10'
-                  acquiree: AT&T CyberSecurity
-                - date: '2018-06-25'
-                  acquiree: AppNexus
-                - date: '2017-06-02'
-                  acquiree: Vyatta
-                - date: '2017-02-01'
-                  acquiree: FiberTower
-                - date: '2016-11-21'
-                  acquiree: INVIDI Technologies
-                - price: 85400000000
-                  date: '2016-10-22'
-                  acquiree: Time Warner
-                - date: '2016-05-16'
-                  acquiree: QuickPlay Media
-                - date: '2015-12-30'
-                  acquiree: Carrier IQ
-                - price: 48500000000
-                  date: '2015-07-24'
-                  acquiree: DIRECTV
-                - price: 1900000000
-                  date: '2015-01-27'
-                  acquiree: Nextel Mexico
-              parents: []
-              ticker: T
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 228494737408
-              effective_ticker: T
-            image_data:
-              fileName: at-t.svg
-              hash: gSuUFi8CWloBmcfXYw9jno1DajUfYOYZ7IoczKfDpVM=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-03-17T01:00:45.000Z
-          - item:
             name: 'Hitachi, Ltd.'
             logo: hitachi-ltd.svg
             homepage_url: 'http://www.hitachi.com/'
@@ -14190,6 +14136,60 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-03-18T19:47:04.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/at-t'
+            homepage_url: 'https://att.com/'
+            logo: ATT_Services_Inc._1.svg
+            name: 'AT&T Services, Inc.'
+            crunchbase_data:
+              name: AT&T
+              description: 'AT&T is a telecommunications company that provides wireless communications, local exchange, and long-distance services.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'https://www.att.com/'
+              city: Dallas
+              region: Texas
+              country: United States
+              twitter: 'http://twitter.com/ATT'
+              linkedin: 'https://www.linkedin.com/company/at&t'
+              acquisitions:
+                - date: '2018-07-10'
+                  acquiree: AT&T CyberSecurity
+                - date: '2018-06-25'
+                  acquiree: AppNexus
+                - date: '2017-06-02'
+                  acquiree: Vyatta
+                - date: '2017-02-01'
+                  acquiree: FiberTower
+                - date: '2016-11-21'
+                  acquiree: INVIDI Technologies
+                - price: 85400000000
+                  date: '2016-10-22'
+                  acquiree: Time Warner
+                - date: '2016-05-16'
+                  acquiree: QuickPlay Media
+                - date: '2015-12-30'
+                  acquiree: Carrier IQ
+                - price: 48500000000
+                  date: '2015-07-24'
+                  acquiree: DIRECTV
+                - price: 1900000000
+                  date: '2015-01-27'
+                  acquiree: Nextel Mexico
+              parents: []
+              ticker: T
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 228494737408
+              effective_ticker: T
+            image_data:
+              fileName: at-t-services-inc.svg
+              hash: N8/5Z5xBy7ZIRTbbpX486Vg9dS9dg60LxwvyJglaN6I=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-03-17T01:00:45.000Z
       - subcategory:
         name: Gold
         items:
@@ -14829,6 +14829,38 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-03-18T22:27:53.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/dell-emc'
+            homepage_url: 'https://dell.com/'
+            logo: Dell_Inc..svg
+            name: Dell Inc.
+            crunchbase_data:
+              name: Dell EMC
+              description: Dell EMC enables digital transformation with trusted solutions for the modern data center.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://dellemc.com'
+              city: Hopkinton
+              region: Massachusetts
+              country: United States
+              twitter: 'https://twitter.com/dellemc'
+              linkedin: 'https://www.linkedin.com/company-beta/1128'
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/dell'
+              ticker: DELL
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 23856175104
+              effective_ticker: DELL
+            image_data:
+              fileName: dell-inc.svg
+              hash: 040HAkcqqzSY22pZvhnlikP6SVvoBXA5Q243IaqRgFQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-04-27T15:38:45.000Z
       - subcategory:
         name: Silver
         items:
@@ -17514,32 +17546,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-03-18T20:42:07.000Z
-          - item:
-            name: Fairwinds
-            homepage_url: 'https://www.fairwinds.com/'
-            logo: fairwinds.svg
-            crunchbase: 'https://www.crunchbase.com/organization/reactiveops'
-            crunchbase_data:
-              name: Fairwinds
-              description: The Kuberenetes Enablement Company
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'https://www.fairwinds.com/'
-              city: Boston
-              region: Massachusetts
-              country: United States
-              twitter: 'https://twitter.com/fairwindsops'
-              linkedin: 'https://www.linkedin.com/company/fairwinds/'
-              acquisitions: []
-              parents: []
-            image_data:
-              fileName: fairwinds.svg
-              hash: htkxZd/V7wGxibLleKMjKgM68TTp4t8Wn4vq7ayI5mk=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-03-18T15:12:32.000Z
           - item:
             name: 'SecureKey Technologies, Inc.'
             logo: secure-key-technologies-inc.svg
@@ -21698,156 +21704,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Nokia
-            homepage_url: 'https://www.nokia.com'
-            stock_ticker: NOK
-            logo: nokia.svg
-            crunchbase: 'https://www.crunchbase.com/organization/nokia'
-            crunchbase_data:
-              name: Nokia
-              description: 'Nokia is a Finnish multinational communications corporation engaged in the manufacturing of mobile devices, and network infrastructure.'
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.nokia.com'
-              city: Helsinki
-              region: Southern Finland
-              country: Finland
-              twitter: 'http://twitter.com/nokia'
-              linkedin: 'https://www.linkedin.com/company/nokia'
-              acquisitions:
-                - date: '2020-02-19'
-                  acquiree: 'Elenion Technologies, LLC'
-                - date: '2018-05-07'
-                  acquiree: SpaceTime Insight
-                - date: '2018-02-25'
-                  acquiree: Unium
-                - date: '2017-02-09'
-                  acquiree: Comptel
-                  price: 369819726
-                - date: '2016-12-15'
-                  acquiree: DeepField
-                - date: '2016-10-05'
-                  acquiree: Etadevices
-                - date: '2016-06-09'
-                  acquiree: Gainspeed
-                - date: '2016-04-26'
-                  acquiree: Withings
-                  price: 192066957
-                - date: '2016-02-21'
-                  acquiree: Nakina Systems
-                - date: '2015-04-15'
-                  acquiree: Alcatel-Lucent
-                  price: 16600000000
-                - date: '2014-08-25'
-                  acquiree: SAC Wireless
-                - date: '2014-06-06'
-                  acquiree: Mesaplexx
-                - date: '2014-05-30'
-                  acquiree: Desti
-                - date: '2012-11-13'
-                  acquiree: earthmine
-                - date: '2012-07-24'
-                  acquiree: Scalado
-                - date: '2012-01-07'
-                  acquiree: Smarterphone
-                - date: '2011-01-05'
-                  acquiree: IRIS Telecom
-                - date: '2010-08-20'
-                  acquiree: Motally
-                - date: '2010-07-19'
-                  acquiree: Motorola Wireless
-                  price: 1200000000
-                - date: '2010-04-09'
-                  acquiree: MetaCarta
-                - date: '2010-03-26'
-                  acquiree: Novarra
-                - date: '2009-09-23'
-                  acquiree: Dopplr
-                - date: '2009-07-24'
-                  acquiree: Cellity
-                - date: '2009-02-09'
-                  acquiree: Bit-side
-                - date: '2008-09-30'
-                  acquiree: OZ Communications
-                - date: '2008-07-10'
-                  acquiree: Navteq
-                - date: '2008-06-24'
-                  acquiree: Symbian Software Ltd.
-                - date: '2008-06-23'
-                  acquiree: Plazes
-                - date: '2008-06-05'
-                  acquiree: Trolltech
-                  price: 153000000
-                - date: '2008-01-28'
-                  acquiree: Qt Software
-                  price: 153000000
-                - date: '2007-12-04'
-                  acquiree: Avvenu
-                - date: '2007-10-23'
-                  acquiree: Vivento Technical Services
-                - date: '2007-10-08'
-                  acquiree: Enpocket
-                  price: 100000000
-                - date: '2007-07-24'
-                  acquiree: Twango
-                  price: 96800000
-                - date: '2007-04-01'
-                  acquiree: Pixto
-                - date: '2006-08-08'
-                  acquiree: Loudeye
-                  price: 60000000
-                - date: '2006-02-10'
-                  acquiree: Intellisync
-                  price: 430000000
-                - date: '2003-04-22'
-                  acquiree: Eizel Technologies
-                  price: 21000000
-                - date: '2001-07-25'
-                  acquiree: Amber Networks
-                  price: 421000000
-                - date: '2000-12-07'
-                  acquiree: Ramp Networks
-                - date: '2000-08-08'
-                  acquiree: DiscoveryCom
-                - date: '2000-02-01'
-                  acquiree: Network Alchemy
-                  price: 335000000
-                - date: '1999-12-13'
-                  acquiree: TeamWARE - security software business
-                - date: '1999-10-22'
-                  acquiree: Telekol Corporation
-                - date: '1999-09-02'
-                  acquiree: 'Rooftop Communications, LLC'
-                - date: '1999-02-18'
-                  acquiree: InTalk Corp.
-                - date: '1999-02-16'
-                  acquiree: Diamond Lane Communications
-                  price: 125000000
-                - date: '1998-12-18'
-                  acquiree: Vienna Systems Corporation
-                  price: 90000000
-                - date: '1998-09-17'
-                  acquiree: NE-Products
-                - date: '1998-08-20'
-                  acquiree: User Interface Design
-                - date: '1997-12-09'
-                  acquiree: Ipsilon Networks
-                  price: 120000000
-              parents: []
-              ticker: NOKIA
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 13994783744
-              effective_ticker: NOK
-            image_data:
-              fileName: nokia.svg
-              hash: V7ORemu5XOxA2WhJow0q8qA96Z1ETouNOoFt+Th+4x4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-03-18T17:06:00.000Z
-          - item:
             name: Blockchain Technology Partners
             homepage_url: 'https://blockchaintp.com/'
             logo: blockchain-technology-partners.svg
@@ -22679,34 +22535,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-03-18T23:54:48.000Z
           - item:
-            name: Tyk
-            homepage_url: 'https://tyk.io/'
-            logo: tyk.svg
-            crunchbase: 'https://www.crunchbase.com/organization/tyk-io'
-            crunchbase_data:
-              name: Tyk
-              description: 'Tyk is an open source API gateway and management platform that provides on-premises, cloud/multi-cloud, and enterprise.'
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'https://tyk.io/'
-              city: London
-              region: England
-              country: United Kingdom
-              twitter: 'https://twitter.com/tyk_io'
-              linkedin: 'https://www.linkedin.com/company/tyk/'
-              acquisitions: []
-              parents: []
-              kind: funding
-              funding: 5028790
-            image_data:
-              fileName: tyk.svg
-              hash: cCV3WgPdi/EVs8dbF7pfjsyopu7iXekIRkqu2JorTxA=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-03-18T13:20:06.000Z
-          - item:
             name: WhiteSource
             homepage_url: 'https://www.whitesourcesoftware.com/'
             logo: white-source.svg
@@ -23160,34 +22988,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-08-13T16:39:15.000Z
-          - item:
-            name: Drivescale
-            homepage_url: 'https://drivescale.com/'
-            logo: drivescale.svg
-            crunchbase: 'https://www.crunchbase.com/organization/drivescale'
-            crunchbase_data:
-              name: DriveScale
-              description: 'DriveScale creates composable infrastructure on the fly from pools of heterogeneous compute, storage and network resources for data centers.'
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'http://www.drivescale.com'
-              city: Sunnyvale
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/DriveScale_Inc'
-              linkedin: 'https://www.linkedin.com/company/drivescale-inc-'
-              acquisitions: []
-              parents: []
-              kind: funding
-              funding: 26000000
-            image_data:
-              fileName: drivescale.svg
-              hash: BC0tje2OCWvk9BTa8oB5CKvTm/ddPdKcEREAp6DxpWE=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-03-18T21:45:05.000Z
           - item:
             name: McKinsey & Company
             homepage_url: 'https://www.mckinsey.com/'
@@ -24666,34 +24466,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-12-06T19:33:14.000Z
           - item:
-            name: Harness
-            homepage_url: 'https://harness.io'
-            logo: harness.svg
-            crunchbase: 'https://www.crunchbase.com/organization/harness-512d'
-            crunchbase_data:
-              name: Harness
-              description: Harness is a Continuous Delivery as-a-Service platform for engineering and DevOps teams to release applications into production.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: 'http://harness.io/'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/harnessio'
-              linkedin: 'https://www.linkedin.com/company/18249313'
-              acquisitions: []
-              parents: []
-              kind: funding
-              funding: 80000000
-            image_data:
-              fileName: harness.svg
-              hash: 3hajiGhe3OXJdEOoTvl3pGRyI3I4IoPZ2L71uMXItBI=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-03-18T20:51:18.000Z
-          - item:
             name: Isotoma
             homepage_url: 'https://isotoma.com'
             logo: isotoma.svg
@@ -24956,36 +24728,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-03-18T17:19:48.000Z
-          - item:
-            name: Unicorn Systems
-            homepage_url: 'https://unicorn.com'
-            logo: unicorn-systems.svg
-            crunchbase: 'https://www.crunchbase.com/organization/unicorn-systems'
-            crunchbase_data:
-              name: Unicorn Systems
-              description: Unicorn Systems is a renowned European company providing the largest information systems.
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: 'http://unicorn.eu/'
-              city: Prague
-              region: Hlavni mesto Praha
-              country: Czech Republic
-              twitter: 'https://twitter.com/Unicorn_Systems'
-              linkedin: 'https://www.linkedin.com/company/unicorn'
-              acquisitions:
-                - date: '2020-02-19'
-                  acquiree: Edookit
-                - date: '2014-02-04'
-                  acquiree: Cygni Software A.s.
-              parents: []
-            image_data:
-              fileName: unicorn-systems.svg
-              hash: MPVVjBdWSrGsXT630tAH328h2zoxkZLoHkpRbWjIbDw=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-03-18T16:30:52.000Z
           - item:
             name: Cycloid
             homepage_url: 'https://www.cycloid.io/'
@@ -30321,44 +30063,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-12-17T15:24:53.000Z
-          - item:
-            name: NTT Group
-            homepage_url: 'https://www.ntt.co.jp/activity/en/global/'
-            stock_ticker: NTTYY
-            logo: ntt-group.svg
-            twitter: 'https://twitter.com/NTTPR'
-            crunchbase: 'https://www.crunchbase.com/organization/ntt-group-a877'
-            crunchbase_data:
-              name: Nippon Telegraph and Telephone Corporation
-              description: 'As one of the world’s largest ICT companies, the NTT Group comprises a select group of global technology companies.'
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'http://www.ntt.co.jp/index_e.html'
-              city: Tokyo
-              region: Tokyo
-              country: Japan
-              twitter: 'https://twitter.com/NTTPR/'
-              linkedin: 'https://www.linkedin.com/company/ntt-nippon-telegraph-and-telephone-corporation'
-              acquisitions:
-                - date: '2013-06-18'
-                  acquiree: Solutionary
-                - date: '2000-08-31'
-                  acquiree: Verio
-                  price: 5500000000
-              parents: []
-              ticker: '9432'
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 75844050944
-              effective_ticker: NTTYY
-            image_data:
-              fileName: ntt-group.svg
-              hash: X9ZmyRO/4Oxjf/spmqoVE0xgQtbTIMBF/Bgb3fn/KNA=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-03-09T08:30:56.000Z
           - item:
             name: Kentik
             homepage_url: 'https://www.kentik.com'
@@ -37602,6 +37306,1038 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-04-26T17:48:46.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/china-telecom-corporation'
+            logo: China_Telecommunications_Corporation_1.svg
+            name: China Telecommunications Corporation
+            homepage_url: 'https://chinatelecom.cn/'
+            crunchbase_data:
+              name: China Telecom Corporation
+              description: China Telecom Corporation Limited is full services integrated information service operator in the People’s Republic of China.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'https://www.chinatelecom-h.com/en/global/home.php'
+              city: Beijing
+              region: Beijing
+              country: China
+              twitter: 'https://twitter.com/chinateleglobal'
+              linkedin: 'https://www.linkedin.com/company/china-telecom-global'
+              acquisitions: []
+              parents: []
+              ticker: CHA
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 27933648896
+              effective_ticker: CHA
+            image_data:
+              fileName: china-telecommunications-corporation.svg
+              hash: SRMffABRgMOJ8fUjOVNfwOoKaUkGEAs7NnD+DMA0rPw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-04-27T10:59:49.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/vivo-2'
+            logo: vivoMobile_Communication_Co._Ltd_1.svg
+            name: "vivo\_Mobile Communication Co., Ltd"
+            homepage_url: 'https://vivo.com/'
+            crunchbase_data:
+              name: Vivo
+              description: 'Vivo, an online platform, enables users to ask and answer questions on products and services from the fixed and mobile telephony sector.'
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: 'http://vivo.com.br'
+              city: São Paulo
+              region: Sao Paulo
+              country: Brazil
+              twitter: 'http://twitter.com/Vivoemrede'
+              linkedin: null
+              acquisitions:
+                - date: '2010-06-01'
+                  acquiree: Telemig Celular Participações
+              parents: []
+            image_data:
+              fileName: vivo-mobile-communication-co-ltd.svg
+              hash: Q9srZ0RClIWqHZLumJd+fhuxNImgWndCKSg1L7apKJ8=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2018-04-10T14:19:59.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/denso'
+            logo: DENSO_TEN_Limited_1.svg
+            name: DENSO TEN Limited
+            homepage_url: 'https://globaldenso.com/'
+            stock_ticker: DNZOF
+            crunchbase_data:
+              name: Denso
+              description: Supplier of advanced automotive technology
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'https://www.denso.com'
+              city: Kariya
+              region: Aichi
+              country: Japan
+              twitter: null
+              linkedin: 'https://www.linkedin.com/company/denso'
+              acquisitions:
+                - date: '2017-12-14'
+                  acquiree: InfiniteKey
+                - date: '2014-06-04'
+                  acquiree: EASE Simulation
+                - date: '2010-06-01'
+                  acquiree: CTR s.r.l
+              parents: []
+              ticker: DNO
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 26433132544
+              effective_ticker: DNZOF
+            image_data:
+              fileName: denso-ten-limited.svg
+              hash: lNVaDV6f1r0rTtDU/AQ7AGxNp9VK3tLvNpUnmNqVBmU=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/nokia'
+            homepage_url: 'https://nokia.com/'
+            logo: Nokia_Corporation_1.svg
+            name: Nokia Corporation
+            stock_ticker: NOK
+            crunchbase_data:
+              name: Nokia
+              description: 'Nokia is a Finnish multinational communications corporation engaged in the manufacturing of mobile devices, and network infrastructure.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.nokia.com'
+              city: Helsinki
+              region: Southern Finland
+              country: Finland
+              twitter: 'http://twitter.com/nokia'
+              linkedin: 'https://www.linkedin.com/company/nokia'
+              acquisitions:
+                - date: '2020-02-19'
+                  acquiree: 'Elenion Technologies, LLC'
+                - date: '2018-05-07'
+                  acquiree: SpaceTime Insight
+                - date: '2018-02-25'
+                  acquiree: Unium
+                - date: '2017-02-09'
+                  acquiree: Comptel
+                  price: 369819726
+                - date: '2016-12-15'
+                  acquiree: DeepField
+                - date: '2016-10-05'
+                  acquiree: Etadevices
+                - date: '2016-06-09'
+                  acquiree: Gainspeed
+                - date: '2016-04-26'
+                  acquiree: Withings
+                  price: 192066957
+                - date: '2016-02-21'
+                  acquiree: Nakina Systems
+                - date: '2015-04-15'
+                  acquiree: Alcatel-Lucent
+                  price: 16600000000
+                - date: '2014-08-25'
+                  acquiree: SAC Wireless
+                - date: '2014-06-06'
+                  acquiree: Mesaplexx
+                - date: '2014-05-30'
+                  acquiree: Desti
+                - date: '2012-11-13'
+                  acquiree: earthmine
+                - date: '2012-07-24'
+                  acquiree: Scalado
+                - date: '2012-01-07'
+                  acquiree: Smarterphone
+                - date: '2011-01-05'
+                  acquiree: IRIS Telecom
+                - date: '2010-08-20'
+                  acquiree: Motally
+                - date: '2010-07-19'
+                  acquiree: Motorola Wireless
+                  price: 1200000000
+                - date: '2010-04-09'
+                  acquiree: MetaCarta
+                - date: '2010-03-26'
+                  acquiree: Novarra
+                - date: '2009-09-23'
+                  acquiree: Dopplr
+                - date: '2009-07-24'
+                  acquiree: Cellity
+                - date: '2009-02-09'
+                  acquiree: Bit-side
+                - date: '2008-09-30'
+                  acquiree: OZ Communications
+                - date: '2008-07-10'
+                  acquiree: Navteq
+                - date: '2008-06-24'
+                  acquiree: Symbian Software Ltd.
+                - date: '2008-06-23'
+                  acquiree: Plazes
+                - date: '2008-06-05'
+                  acquiree: Trolltech
+                  price: 153000000
+                - date: '2008-01-28'
+                  acquiree: Qt Software
+                  price: 153000000
+                - date: '2007-12-04'
+                  acquiree: Avvenu
+                - date: '2007-10-23'
+                  acquiree: Vivento Technical Services
+                - date: '2007-10-08'
+                  acquiree: Enpocket
+                  price: 100000000
+                - date: '2007-07-24'
+                  acquiree: Twango
+                  price: 96800000
+                - date: '2007-04-01'
+                  acquiree: Pixto
+                - date: '2006-08-08'
+                  acquiree: Loudeye
+                  price: 60000000
+                - date: '2006-02-10'
+                  acquiree: Intellisync
+                  price: 430000000
+                - date: '2003-04-22'
+                  acquiree: Eizel Technologies
+                  price: 21000000
+                - date: '2001-07-25'
+                  acquiree: Amber Networks
+                  price: 421000000
+                - date: '2000-12-07'
+                  acquiree: Ramp Networks
+                - date: '2000-08-08'
+                  acquiree: DiscoveryCom
+                - date: '2000-02-01'
+                  acquiree: Network Alchemy
+                  price: 335000000
+                - date: '1999-12-13'
+                  acquiree: TeamWARE - security software business
+                - date: '1999-10-22'
+                  acquiree: Telekol Corporation
+                - date: '1999-09-02'
+                  acquiree: 'Rooftop Communications, LLC'
+                - date: '1999-02-18'
+                  acquiree: InTalk Corp.
+                - date: '1999-02-16'
+                  acquiree: Diamond Lane Communications
+                  price: 125000000
+                - date: '1998-12-18'
+                  acquiree: Vienna Systems Corporation
+                  price: 90000000
+                - date: '1998-09-17'
+                  acquiree: NE-Products
+                - date: '1998-08-20'
+                  acquiree: User Interface Design
+                - date: '1997-12-09'
+                  acquiree: Ipsilon Networks
+                  price: 120000000
+              parents: []
+              ticker: NOKIA
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 13994783744
+              effective_ticker: NOK
+            image_data:
+              fileName: nokia-corporation.svg
+              hash: PaV9lnRyIUhFbhNE5DJYsqcLM8DxY59aH4zfbzA++Xw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-03-18T17:06:00.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/storm-reply'
+            homepage_url: 'https://reply.com/'
+            logo: Santer_Reply_SPA_1.svg
+            name: Santer Reply SPA
+            crunchbase_data:
+              name: Storm Reply
+              description: 'We design, integrate and operate your cloud infrastructure and we develop tailored cloud software'
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'https://www.reply.com/storm-reply/en/'
+              city: Munich
+              region: Bayern
+              country: Germany
+              twitter: 'http://twitter.com/StormReply'
+              linkedin: 'https://www.linkedin.com/company/storm-reply/'
+              acquisitions: []
+              parents: []
+            image_data:
+              fileName: santer-reply-spa.svg
+              hash: 5he1Y3lkmSvUhS4tvf+ZJzeln4CbmgNUf/IWT+KMkNY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-03-16T23:17:02.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/trilio-data'
+            logo: Trilio_Data_1.svg
+            name: Trilio Data
+            homepage_url: 'https://triliodata.com/'
+            crunchbase_data:
+              name: Trilio
+              description: Cloud-Native Data Protection for Open Infrastructure
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://www.trilio.io'
+              city: Framingham
+              region: Massachusetts
+              country: United States
+              twitter: 'https://twitter.com/triliodata'
+              linkedin: 'https://www.linkedin.com/company/5322601/'
+              acquisitions:
+                - date: '2017-01-01'
+                  acquiree: Jisto
+              parents: []
+              kind: funding
+              funding: 5000000
+            image_data:
+              fileName: trilio-data.svg
+              hash: HApWUkbPUsUpr4DG5j+52TfkuYEn8Qe0JdjRyUUxQ/I=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-04-28T14:29:16.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/ca'
+            homepage_url: 'https://broadcom.com/'
+            logo: Broadcom_Corporation_1.svg
+            name: Broadcom Corporation
+            stock_ticker: null
+            crunchbase_data:
+              name: CA Technologies
+              description: CA Technologies creates software that fuels transformation for companies.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.ca.com'
+              city: New York
+              region: New York
+              country: United States
+              twitter: 'http://twitter.com/CAinc'
+              linkedin: 'https://www.linkedin.com/company/ca-technologies'
+              acquisitions:
+                - date: '2018-04-09'
+                  acquiree: SourceClear
+                - date: '2017-09-28'
+                  acquiree: Runscope
+                - date: '2017-06-15'
+                  acquiree: zIT Consulting
+                - date: '2017-03-06'
+                  acquiree: Veracode
+                  price: 614000000
+                - date: '2016-12-01'
+                  acquiree: Automic
+                  price: 639829379
+                - date: '2016-11-15'
+                  acquiree: Mobile System 7
+                - date: '2016-09-20'
+                  acquiree: BlazeMeter
+                - date: '2015-08-04'
+                  acquiree: Xceedium
+                - date: '2015-06-09'
+                  acquiree: IdMlogic
+                  price: 20000000
+                - date: '2015-06-04'
+                  acquiree: Grid-Tools
+                - date: '2015-05-27'
+                  acquiree: Rally Software
+                  price: 480000000
+                - date: '2013-04-22'
+                  acquiree: Nolio
+                  price: 40000000
+                - date: '2013-04-22'
+                  acquiree: Layer 7 Technologies
+                  price: 180000000
+                - date: '2011-08-16'
+                  acquiree: ITKO
+                  price: 330000000
+                - date: '2011-07-29'
+                  acquiree: WatchMouse
+                - date: '2011-04-06'
+                  acquiree: Base Technologies
+                - date: '2010-11-02'
+                  acquiree: Hyperformix
+                - date: '2010-10-05'
+                  acquiree: Arcot Systems
+                - date: '2010-08-12'
+                  acquiree: 4Base Technology
+                - date: '2010-03-10'
+                  acquiree: Nimsoft
+                  price: 350000000
+                - date: '2010-02-24'
+                  acquiree: 3Tera
+                - date: '2010-01-11'
+                  acquiree: Oblicore
+                - date: '2009-09-14'
+                  acquiree: NetQoS
+                  price: 200000000
+                - date: '2009-06-02'
+                  acquiree: Cassatt
+                - date: '2009-01-05'
+                  acquiree: Orchestria Corporation
+                - date: '2008-11-01'
+                  acquiree: Eurekify (acquired by CA)
+                - date: '2008-10-07'
+                  acquiree: ID Focus
+                - date: '2008-10-06'
+                  acquiree: Optinuity
+                - date: '2006-09-30'
+                  acquiree: Cendura
+                - date: '2006-07-11'
+                  acquiree: Arcserve
+                - date: '2006-06-13'
+                  acquiree: MDY Group
+                - date: '2006-05-09'
+                  acquiree: Cybermation
+                  price: 75000000
+                - date: '2006-01-12'
+                  acquiree: Control-F1 Corp.
+                - date: '2006-01-05'
+                  acquiree: Wily Technology
+                  price: 375000000
+                - date: '2005-10-17'
+                  acquiree: iLumin Software
+                - date: '2005-06-27'
+                  acquiree: Tiny Software
+                - date: '2005-06-09'
+                  acquiree: Niku
+                  price: 350000000
+                - date: '2005-04-07'
+                  acquiree: Concord Communications
+                  price: 350000000
+                - date: '2004-10-06'
+                  acquiree: Netegrity
+                  price: 430000000
+                - date: '2004-08-16'
+                  acquiree: PestPatrol
+                - date: '2004-03-21'
+                  acquiree: Miramar Systems
+                - date: '2003-07-14'
+                  acquiree: Silent Runner
+                - date: '2003-02-05'
+                  acquiree: Netreon
+                - date: '2002-02-15'
+                  acquiree: Sterling Software
+                  price: 3910000000
+                - date: '2002-01-02'
+                  acquiree: Platinum Technology
+                  price: 3500000000
+                - date: '1999-01-06'
+                  acquiree: LDA Systems
+                - date: '1998-10-29'
+                  acquiree: Viewpoint Datalabs
+                - date: '1998-09-04'
+                  acquiree: Qxcom
+                - date: '1998-08-07'
+                  acquiree: Realogic
+                - date: '1997-12-23'
+                  acquiree: AI Ware
+                - date: '1996-10-08'
+                  acquiree: Cheyenne Software
+                - date: '1995-08-01'
+                  acquiree: Legent Corporation
+                - date: '1994-06-22'
+                  acquiree: Ask Group
+              parents: []
+            image_data:
+              fileName: broadcom-corporation.svg
+              hash: SD+PrxD6E+Kn08W3wkrsvUMaqcAFEBh27EDmAPPWEsM=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2018-11-21T15:31:03.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/asiainfo'
+            homepage_url: 'https://asiainfo.com/'
+            logo: AsiaInfo_Technologies_China_Co._Ltd._1.svg
+            name: 'AsiaInfo Technologies (China) Co., Ltd.'
+            stock_ticker: 1675.HK
+            crunchbase_data:
+              name: AsiaInfo
+              description: AsiaInfo is an innovative provider of software and IT services to the telecommunications industry
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.asiainfo.com'
+              city: Beijing
+              region: Beijing
+              country: China
+              twitter: null
+              linkedin: 'https://www.linkedin.com/company/asiainfo'
+              acquisitions:
+                - date: '2010-04-05'
+                  acquiree: Hangzhou Zhongbo Software Technology Co
+                - date: '2004-10-19'
+                  acquiree: Lenovo-AsiaInfo Technologies
+                - date: '2002-01-22'
+                  acquiree: Bonson Information Technology Ltd.
+              parents: []
+              ticker: ASIA
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 5805664256
+              effective_ticker: 1675.HK
+            image_data:
+              fileName: asia-info-technologies-china-co-ltd.svg
+              hash: oCWiaPfbhr7SXp651LsR8U7vtvbk2a1KS7d0RBnRItg=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/harness-512d'
+            homepage_url: 'https://harness.io/'
+            logo: Harness.io.svg
+            name: Harness.io
+            crunchbase_data:
+              name: Harness
+              description: Harness is a Continuous Delivery as-a-Service platform for engineering and DevOps teams to release applications into production.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'http://harness.io/'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/harnessio'
+              linkedin: 'https://www.linkedin.com/company/18249313'
+              acquisitions: []
+              parents: []
+              kind: funding
+              funding: 80000000
+            image_data:
+              fileName: harness-io.svg
+              hash: luRMN7BULPQ//LSroJ8B9ImY4l5RgFvIf3EuGTWruZg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-03-18T20:51:18.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/squadcast-d690'
+            homepage_url: 'https://squadcast.com/'
+            logo: Squadcast_Inc.svg
+            name: Squadcast Inc
+            crunchbase_data:
+              name: Squadcast
+              description: End-to-end batteries-included incident response platform based on Site Reliability Engineering (SRE).
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://www.squadcast.com'
+              city: Palo Alto
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/squadcastHQ'
+              linkedin: 'https://www.linkedin.com/company/squadcast/'
+              acquisitions: []
+              parents: []
+              kind: funding
+              funding: 2100000
+            image_data:
+              fileName: squadcast-inc.svg
+              hash: XYeUzcxzBmpI0WDJZkOY9GpEC72Hzw26KmybhJPvyUg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-03-18T13:41:38.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/hivecell'
+            homepage_url: 'https://hivecell.io/'
+            logo: Ricker_Lyman_Robotic_Company_Inc._Hivecell.svg
+            name: 'Ricker Lyman Robotic Company, Inc. (Hivecell)'
+            crunchbase_data:
+              name: Hivecell
+              description: 'Hivecell is a small, low energy, inexpensive server designed for distributed software.'
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://hivecell.io/'
+              city: Beacon
+              region: New York
+              country: United States
+              twitter: null
+              linkedin: 'https://www.linkedin.com/showcase/hivecell-servers/'
+              acquisitions: []
+              parents: []
+            image_data:
+              fileName: ricker-lyman-robotic-company-inc-hivecell.svg
+              hash: gkisbyIQJZZOszdz31os0dwfbVFbj7FC54xYOpiQAgA=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/western-digital-capital'
+            logo: Western_Digital_Corporation.svg
+            name: Western Digital Corporation
+            homepage_url: 'https://wdc.com/'
+            crunchbase_data:
+              name: Western Digital Capital
+              description: 'Western Digital Capital partners with innovative startups that improve how data is generated, saved, managed, and consumed.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'http://www.westerndigitalcapital.com'
+              city: Irvine
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/wd_capital'
+              linkedin: null
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/western-digital'
+              ticker: WDC
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 13362260992
+              effective_ticker: WDC
+            image_data:
+              fileName: western-digital-corporation.svg
+              hash: PrsXpSUPbK81rCrEOVmmBbJGawb+s7QZELLEVhtmMe4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2016-09-23T21:07:13.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/wind-river'
+            homepage_url: 'https://windriver.com/'
+            logo: Wind_River_Systems_Inc..svg
+            name: 'Wind River Systems, Inc.'
+            crunchbase_data:
+              name: Wind River
+              description: 'Wind River enables companies to develop, run and manage device software faster and more reliably at a lower cost.'
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: 'http://www.windriver.com'
+              city: Alameda
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/WindRiver'
+              linkedin: 'https://www.linkedin.com/company/wind-river'
+              acquisitions:
+                - date: '2020-01-16'
+                  acquiree: Star Lab Corp.
+                - date: '2016-04-04'
+                  acquiree: Arynga
+                - date: '2010-02-05'
+                  acquiree: Virtutech
+                  price: 45000000
+                - date: '2009-02-28'
+                  acquiree: Tilcon Software Ltd.
+                - date: '2000-10-09'
+                  acquiree: Rapid Logic
+                  price: 58300000
+                - date: '2000-03-14'
+                  acquiree: AudeSi Technologies
+              parents: []
+            image_data:
+              fileName: wind-river-systems-inc.svg
+              hash: 94dI1N50N8Hq/ViMhcstBc7ZA5CW1uc7s+xmqatDM1E=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-03-18T21:27:06.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/ntt-group-a877'
+            homepage_url: 'https://ntt.co.jp/'
+            logo: NTT_Corporation.svg
+            name: NTT Corporation
+            stock_ticker: NTTYY
+            twitter: 'https://twitter.com/NTTPR'
+            crunchbase_data:
+              name: Nippon Telegraph and Telephone Corporation
+              description: 'As one of the world’s largest ICT companies, the NTT Group comprises a select group of global technology companies.'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://www.ntt.co.jp/index_e.html'
+              city: Tokyo
+              region: Tokyo
+              country: Japan
+              twitter: 'https://twitter.com/NTTPR/'
+              linkedin: 'https://www.linkedin.com/company/ntt-nippon-telegraph-and-telephone-corporation'
+              acquisitions:
+                - date: '2013-06-18'
+                  acquiree: Solutionary
+                - date: '2000-08-31'
+                  acquiree: Verio
+                  price: 5500000000
+              parents: []
+              ticker: '9432'
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 75844050944
+              effective_ticker: NTTYY
+            image_data:
+              fileName: ntt-corporation.svg
+              hash: ivwR24Ex8vTV9g9um5j2yuEm7P+pvOlPI739rLKUhAA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-03-09T08:30:56.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/foundry'
+            homepage_url: 'https://foundry.com/'
+            logo: The_Foundry_Visionmongers_Limited.svg
+            name: The Foundry Visionmongers Limited
+            crunchbase_data:
+              name: Foundry
+              description: 'Foundry develops creative software for the Digital Design, Media and Entertainment industries.'
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: 'http://foundry.com/'
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: 'https://www.twitter.com/thefoundryteam'
+              linkedin: 'https://www.linkedin.com/company-beta/33583/'
+              acquisitions:
+                - date: '2012-09-25'
+                  acquiree: Luxology
+              parents: []
+            image_data:
+              fileName: the-foundry-visionmongers-limited.svg
+              hash: dX3yDKZs/DQbHlwLh1aYMkV6hEpANcNCMo5znicdeHw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-03-18T17:53:44.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/influxdb'
+            logo: InfluxData_Inc.svg
+            name: InfluxData Inc
+            homepage_url: 'https://influxdb.com/'
+            crunchbase_data:
+              name: InfluxData
+              description: 'InfluxData is the creator of InfluxDB, the open source time series database.'
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: 'http://influxdata.com/'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/influxdb'
+              linkedin: 'https://www.linkedin.com/company/influxdb/'
+              acquisitions: []
+              parents: []
+              kind: funding
+              funding: 119892000
+            image_data:
+              fileName: influx-data-inc.svg
+              hash: LATAZ8V0HmZ2AY7Kt6PjpOReXK4yDY/6KP9D6y/Ztvw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-04-28T19:58:45.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/unicorn-systems'
+            homepage_url: 'https://unicorn.com/'
+            logo: Unicorn_systems_a.s..svg
+            name: Unicorn systems a.s.
+            crunchbase_data:
+              name: Unicorn Systems
+              description: Unicorn Systems is a renowned European company providing the largest information systems.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: 'http://unicorn.eu/'
+              city: Prague
+              region: Hlavni mesto Praha
+              country: Czech Republic
+              twitter: 'https://twitter.com/Unicorn_Systems'
+              linkedin: 'https://www.linkedin.com/company/unicorn'
+              acquisitions:
+                - date: '2020-02-19'
+                  acquiree: Edookit
+                - date: '2014-02-04'
+                  acquiree: Cygni Software A.s.
+              parents: []
+            image_data:
+              fileName: unicorn-systems-a-s.svg
+              hash: eECMNnM15ratzc/7ocIElLON6DqCNvX3qPmOEcw6s1E=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-03-18T16:30:52.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/antmicro'
+            logo: ANTMICRO_LTD.svg
+            name: ANTMICRO LTD
+            homepage_url: 'https://antimicro.com/'
+            crunchbase_data:
+              name: Antmicro
+              description: 'Antmicro is an embedded software company working with emerging technologies, prototyping and feasibility studies.'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://antmicro.com/'
+              city: Kista
+              region: Stockholms Lan
+              country: Sweden
+              twitter: 'https://www.twitter.com/antmicro'
+              linkedin: null
+              acquisitions: []
+              parents: []
+            image_data:
+              fileName: antmicro-ltd.svg
+              hash: kljVXmiEdOYfe/JfkS9UBir8RTRA7cyEzF+95oLvKoE=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-04-21T19:00:45.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/mastercard'
+            logo: MasterCard_Incorporated.svg
+            name: MasterCard Incorporated
+            homepage_url: 'https://mastercard.com/'
+            crunchbase_data:
+              name: MasterCard
+              description: 'MasterCard provides payment processing products and solutions, and related consulting services.'
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: 'https://www.mastercard.co.in/en-in.html'
+              city: Purchase
+              region: New York
+              country: United States
+              twitter: 'http://twitter.com/MasterCard'
+              linkedin: 'https://www.linkedin.com/company/mastercard'
+              acquisitions:
+                - date: '2019-12-23'
+                  acquiree: RiskRecon
+                - date: '2019-10-22'
+                  acquiree: SessionM
+                - date: '2019-05-03'
+                  acquiree: Transactis
+                  price: 57000000
+                - date: '2019-04-16'
+                  acquiree: Vyze
+                - date: '2019-03-12'
+                  acquiree: Ethoca
+                - date: '2019-03-08'
+                  acquiree: Transfast
+                - date: '2018-03-06'
+                  acquiree: Oltio
+                - date: '2017-07-17'
+                  acquiree: Brighterion
+                - date: '2017-03-29'
+                  acquiree: 'NuData Security, a Mastercard company'
+                - date: '2016-07-21'
+                  acquiree: VocaLink
+                  price: 1140000000
+                - date: '2015-04-27'
+                  acquiree: Applied Predictive Technologies
+                  price: 600000000
+                - date: '2014-11-06'
+                  acquiree: Transaction Network Services (TNS)
+                - date: '2014-04-17'
+                  acquiree: Pinpoint
+                - date: '2014-02-24'
+                  acquiree: C-sam
+                - date: '2014-01-10'
+                  acquiree: Provus
+                - date: '2012-09-06'
+                  acquiree: Truaxis
+                - date: '2010-08-20'
+                  acquiree: DataCash Group
+                  price: 520000000
+                - date: '2009-01-05'
+                  acquiree: Orbiscom
+                  price: 100000000
+              parents: []
+              ticker: MA
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 265952116736
+              effective_ticker: MA
+            image_data:
+              fileName: master-card-incorporated.svg
+              hash: Q2m33nfNIL0RYQTVAxtJesBRdl/0llYlKOZoGqNlD5o=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-04-28T19:06:44.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/mckinsey-company'
+            homepage_url: 'https://mckinsey.com/'
+            logo: McKinsey.svg
+            name: McKinsey
+            crunchbase_data:
+              name: McKinsey & Company
+              description: McKinsey & Company is a global management consulting firm.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.mckinsey.com'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/McKinsey'
+              linkedin: 'https://www.linkedin.com/company/mckinsey/'
+              acquisitions:
+                - date: '2020-02-10'
+                  acquiree: Orpheus GmbH
+                - date: '2016-11-11'
+                  acquiree: Veryday
+                - date: '2015-12-14'
+                  acquiree: QuantumBlack
+                - date: '2015-05-14'
+                  acquiree: Lunar
+                - date: '2013-08-28'
+                  acquiree: Lixto Software
+                - date: '2013-01-01'
+                  acquiree: Numetrics Management Systems
+              parents: []
+            image_data:
+              fileName: mc-kinsey.svg
+              hash: BudSOBpA52xqXrCeX6W6qXuJ5zjRnnGbonOpW+YBcgw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-03-18T20:15:01.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/drivescale'
+            homepage_url: 'https://drivescale.com/'
+            logo: DriveScale_Inc..svg
+            name: 'DriveScale, Inc.'
+            crunchbase_data:
+              name: DriveScale
+              description: 'DriveScale creates composable infrastructure on the fly from pools of heterogeneous compute, storage and network resources for data centers.'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://www.drivescale.com'
+              city: Sunnyvale
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/DriveScale_Inc'
+              linkedin: 'https://www.linkedin.com/company/drivescale-inc-'
+              acquisitions: []
+              parents: []
+              kind: funding
+              funding: 26000000
+            image_data:
+              fileName: drive-scale-inc.svg
+              hash: nPdDBRCjvboKm8VICXwRRrtsvK83VQZzajTAa0lxbSM=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-03-18T21:45:05.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/tyk-io'
+            homepage_url: 'https://tyk.io/'
+            logo: Tyk_Technologies_Ltd..svg
+            name: Tyk Technologies Ltd.
+            crunchbase_data:
+              name: Tyk
+              description: 'Tyk is an open source API gateway and management platform that provides on-premises, cloud/multi-cloud, and enterprise.'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://tyk.io/'
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: 'https://twitter.com/tyk_io'
+              linkedin: 'https://www.linkedin.com/company/tyk/'
+              acquisitions: []
+              parents: []
+              kind: funding
+              funding: 5028790
+            image_data:
+              fileName: tyk-technologies-ltd.svg
+              hash: yIPThirgcIszDwGdeWVikywQeS/nLWsr3G8czxJe4OQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-03-18T13:20:06.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/reactiveops'
+            homepage_url: 'https://fairwinds.com/'
+            logo: Fairwinds_Ops_Inc.svg
+            name: 'Fairwinds Ops, Inc'
+            crunchbase_data:
+              name: Fairwinds
+              description: The Kuberenetes Enablement Company
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://www.fairwinds.com/'
+              city: Boston
+              region: Massachusetts
+              country: United States
+              twitter: 'https://twitter.com/fairwindsops'
+              linkedin: 'https://www.linkedin.com/company/fairwinds/'
+              acquisitions: []
+              parents: []
+            image_data:
+              fileName: fairwinds-ops-inc.svg
+              hash: JRXNIwzRrKBwL/tw8AaLmQEh2Q9W4PhQx+N87iyDD04=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-03-18T15:12:32.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/innovo-cloud'
+            homepage_url: 'https://innovo-cloud.de/'
+            logo: iNNOVO_Cloud_Gmbh.svg
+            name: iNNOVO Cloud Gmbh
+            crunchbase_data:
+              name: INNOVO Cloud
+              description: iNNOVO Cloud realizes virtual private cloud solutions.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://www.innovo-cloud.de/'
+              city: Eschborn
+              region: Hessen
+              country: Germany
+              twitter: 'https://twitter.com/innovocloudgmbh'
+              linkedin: 'https://www.linkedin.com/company/innovo-cloud-gmbh/'
+              acquisitions: []
+              parents: []
+            image_data:
+              fileName: i-nnovo-cloud-gmbh.svg
+              hash: Jk4LS+YX/xUPga3I63NYL1qcEtKIl2H89b2B8K5P7a4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-02-24T11:06:39.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/peersafe'
+            homepage_url: 'https://peersafe.cn/'
+            logo: Global_Peersafe_Technology_Corp.svg
+            name: Global Peersafe Technology Corp
+            crunchbase_data:
+              name: PeerSafe
+              description: PeerSafe is a industry pioneer in the field of information security with P2P distributed application of Internet technology.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://peersafe.com/'
+              city: Singapore
+              region: Central Region
+              country: Singapore
+              twitter: 'https://twitter.com/Peer_Safe'
+              linkedin: null
+              acquisitions: []
+              parents: []
+            image_data:
+              fileName: global-peersafe-technology-corp.svg
+              hash: lHS+l432L78eNCuQyx4XJJqqWIsGVZaq3DZCmsyKa/4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2017-10-26T03:53:16.000Z
       - subcategory:
         name: Associate
         items:
@@ -37763,35 +38499,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-03-13T14:49:16.000Z
           - item:
-            name: University of Michigan - ARC
-            homepage_url: 'https://arc-ts.umich.edu/'
-            logo: university-of-michigan-arc.svg
-            enduser: true
-            crunchbase: 'https://www.crunchbase.com/organization/university-of-michigan-advanced-research-computing-technology-services'
-            crunchbase_data:
-              name: University of Michigan
-              description: 'The University of Michigan is a public research university located in Ann Arbor, Michigan, United States.'
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'https://www.umich.edu/'
-              city: Ann Arbor
-              region: Michigan
-              country: United States
-              twitter: 'https://twitter.com/UMich'
-              linkedin: 'https://www.linkedin.com/edu/university-of-michigan-18633'
-              acquisitions: []
-              parents: []
-              kind: funding
-              funding: 186350000
-            image_data:
-              fileName: university-of-michigan-arc.svg
-              hash: F9gAlTV6LEWZ1lCAgBzREv/oR3EFc4sOxJtzHpjo+kM=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-03-18T22:29:00.000Z
-          - item:
             name: Fraunhofer
             homepage_url: 'https://www.iee.fraunhofer.de'
             logo: fraunhofer.svg
@@ -37845,32 +38552,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-03-18T21:15:17.000Z
-          - item:
-            name: Lucerne University of Applied Sciences and Arts
-            homepage_url: 'https://www.hslu.ch/en/'
-            logo: lucerne-university-of-applied-sciences-and-arts.svg
-            crunchbase: 'https://www.crunchbase.com/organization/lucerne-university-of-applied-sciences-and-arts'
-            crunchbase_data:
-              name: Lucerne University of Applied Sciences and Arts
-              description: Lucerne University of Applied Sciences and Arts is a university of applied sciences.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: 'https://www.hslu.ch/'
-              city: Luzern
-              region: Luzern
-              country: Switzerland
-              twitter: 'https://twitter.com/hslu'
-              linkedin: 'https://www.linkedin.com/school/hochschule-luzern/'
-              acquisitions: []
-              parents: []
-            image_data:
-              fileName: lucerne-university-of-applied-sciences-and-arts.svg
-              hash: fGETR/DsHA6pS+8awb4HGcycnzeg/nJj3xll1kCkUNw=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-03-18T13:41:11.000Z
           - item:
             name: EPFL
             homepage_url: 'https://www.epfl.ch/en/'
@@ -38156,35 +38837,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-03-18T21:00:26.000Z
-          - item:
-            name: University of New Hampshire - Interoperability Lab
-            homepage_url: 'https://www.iol.unh.edu/'
-            logo: university-of-new-hampshire-interoperability-lab.svg
-            crunchbase: 'https://www.crunchbase.com/organization/interoperability-laboratory'
-            crunchbase_data:
-              name: InterOperability Laboratory
-              description: 'IOL provides independent, broad-based interoperability and conformance testing for data, telecom and storage networking technologies.'
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'https://www.iol.unh.edu/'
-              city: Durham
-              region: North Carolina
-              country: United States
-              twitter: 'https://twitter.com/UNH_IOL'
-              linkedin: 'https://www.linkedin.com/company/unh-interoperability-lab/'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/university-of-new-hampshire'
-              kind: funding
-              funding: 360000
-            image_data:
-              fileName: university-of-new-hampshire-interoperability-lab.svg
-              hash: 0DmWSCjplQiI4yvX7OzOsZXRP6Drg43f2ce2kN7ge2U=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-03-18T14:44:36.000Z
           - item:
             name: AI for People
             homepage_url: 'https://www.aiforpeople.org/'
@@ -39333,6 +39985,190 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-04-27T14:30:54.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/universidade-federal-de-campina-grande'
+            logo: Federal_University_of_Campina_Grande_1.svg
+            name: Federal University of Campina Grande
+            homepage_url: 'https://embeddedlab.org/'
+            crunchbase_data:
+              name: Universidade Federal de Campina Grande
+              description: 'The Federal University of Campina Grande is a public university whose main campus is located in the city of Campina Grande, Paraíba, Brazil.'
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://www.ufcg.edu.br'
+              city: Campina Grande
+              region: Paraiba
+              country: Brazil
+              twitter: 'https://www.twitter.com/ufcg_oficial'
+              linkedin: null
+              acquisitions: []
+              parents: []
+            image_data:
+              fileName: federal-university-of-campina-grande.svg
+              hash: VNtL/tnj3IwMNczDOQ/0wdIJw1EbrE9fMSkehfT3o8U=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-04-28T16:09:30.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/tecnalia'
+            logo: Tecnalia_Corporation_1.svg
+            name: Tecnalia Corporation
+            homepage_url: 'https://tecnalia.com/'
+            crunchbase_data:
+              name: Tecnalia
+              description: Technological and scientific development
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://www.tecnalia.org'
+              city: Bilbao
+              region: Pais Vasco
+              country: Spain
+              twitter: 'http://twitter.com/tecnalia'
+              linkedin: 'https://www.linkedin.com/company/tecnalia-research-&-innovation/'
+              acquisitions: []
+              parents: []
+            image_data:
+              fileName: tecnalia-corporation.svg
+              hash: +xrh+qA3Id7iHZ5v+MkqWYmJUflej+LuerNnqoE2Nmw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-04-28T11:21:46.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/freedm-systems-center'
+            homepage_url: 'https://ncsu.edu/'
+            logo: North_Carolina_State_University_1.svg
+            name: North Carolina State University
+            crunchbase_data:
+              name: Freedm Systems Center
+              description: Freedm distributes energy resources that intelligently manages power using secure communications and advanced power electronics
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.freedm.ncsu.edu/'
+              city: Raleigh
+              region: North Carolina
+              country: United States
+              twitter: null
+              linkedin: 'https://www.linkedin.com/groups/FREEDM-Systems-Center-3603321/'
+              acquisitions: []
+              parents: []
+            image_data:
+              fileName: north-carolina-state-university.svg
+              hash: 0tYRfm5NJv3qxXaM/pAzxUNdK2SNGm8UkHohHsdJrgI=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/zhejiang-university-of-technology'
+            homepage_url: 'https://zju.edu.cn/'
+            logo: Software_Engineering_Lab_of_Zhejiang_University.svg
+            name: Software Engineering Lab of Zhejiang University
+            crunchbase_data:
+              name: Zhejiang University of Technology
+              description: Zhejiang University of Technology is a school in Hangzhou.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://www.zjut.edu.cn/'
+              city: Hangzhou
+              region: Zhejiang
+              country: China
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+            image_data:
+              fileName: software-engineering-lab-of-zhejiang-university.svg
+              hash: 6HzUNWgMZs8adjnQGb5aUYARz62/zjGTtEqzMOyq7VE=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/lucerne-university-of-applied-sciences-and-arts'
+            homepage_url: 'https://hslu.ch/'
+            logo: Lucerne_University_of_Applied_Sciences.svg
+            name: Lucerne University of Applied Sciences
+            crunchbase_data:
+              name: Lucerne University of Applied Sciences and Arts
+              description: Lucerne University of Applied Sciences and Arts is a university of applied sciences.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: 'https://www.hslu.ch/'
+              city: Luzern
+              region: Luzern
+              country: Switzerland
+              twitter: 'https://twitter.com/hslu'
+              linkedin: 'https://www.linkedin.com/school/hochschule-luzern/'
+              acquisitions: []
+              parents: []
+            image_data:
+              fileName: lucerne-university-of-applied-sciences.svg
+              hash: PeTqNEIuir+pGinX4pil0CkhiRr8k8cZnz0sep9Oc0Q=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-03-18T13:41:11.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/interoperability-laboratory'
+            homepage_url: 'https://unh.edu/'
+            logo: University_of_New_Hampshire.svg
+            name: University of New Hampshire
+            crunchbase_data:
+              name: InterOperability Laboratory
+              description: 'IOL provides independent, broad-based interoperability and conformance testing for data, telecom and storage networking technologies.'
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.iol.unh.edu/'
+              city: Durham
+              region: North Carolina
+              country: United States
+              twitter: 'https://twitter.com/UNH_IOL'
+              linkedin: 'https://www.linkedin.com/company/unh-interoperability-lab/'
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/university-of-new-hampshire'
+              kind: funding
+              funding: 360000
+            image_data:
+              fileName: university-of-new-hampshire.svg
+              hash: 0FA6WeoIc61sPZgDt4coX3jxU2euh6RXLmIfBBNhW3U=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-03-18T14:44:36.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/university-of-michigan-advanced-research-computing-technology-services'
+            enduser: true
+            homepage_url: 'https://umich.edu/'
+            logo: University_of_Michigan_-_Advanced_Research_Computing_ARC.svg
+            name: University of Michigan - Advanced Research Computing (ARC)
+            crunchbase_data:
+              name: University of Michigan
+              description: 'The University of Michigan is a public research university located in Ann Arbor, Michigan, United States.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'https://www.umich.edu/'
+              city: Ann Arbor
+              region: Michigan
+              country: United States
+              twitter: 'https://twitter.com/UMich'
+              linkedin: 'https://www.linkedin.com/edu/university-of-michigan-18633'
+              acquisitions: []
+              parents: []
+              kind: funding
+              funding: 186350000
+            image_data:
+              fileName: university-of-michigan-advanced-research-computing-arc.svg
+              hash: KGPV8pmdill7DUuf1yOiISM7k85m4A19rj8b/NdG2/4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-03-18T22:29:00.000Z
 twitter_options:
   count: 8
   since_id: '1191119684315291649'

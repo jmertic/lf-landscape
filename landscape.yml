@@ -1452,11 +1452,6 @@ landscape:
         name: Platinum
         items:
           - item:
-            name: AT&T
-            homepage_url: 'https://www.att.com/'
-            logo: AT&T_logo_2016.svg
-            crunchbase: 'https://www.crunchbase.com/organization/at-t'
-          - item:
             name: 'Hitachi, Ltd.'
             logo: hitachi-ltd.svg
             homepage_url: 'http://www.hitachi.com/'
@@ -1539,6 +1534,11 @@ landscape:
             homepage_url: 'https://www.ibm.com'
             logo: ibm.svg
             crunchbase: 'https://www.crunchbase.com/organization/ibm'
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/at-t'
+            homepage_url: 'https://att.com/'
+            logo: ATT_Services_Inc._1.svg
+            name: 'AT&T Services, Inc.'
       - subcategory:
         name: Gold
         items:
@@ -1621,6 +1621,11 @@ landscape:
             logo: uber-technologies-inc.svg
             twitter: 'https://twitter.com/Uber'
             crunchbase: 'https://www.crunchbase.com/organization/uber'
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/dell-emc'
+            homepage_url: 'https://dell.com/'
+            logo: Dell_Inc..svg
+            name: Dell Inc.
       - subcategory:
         name: Silver
         items:
@@ -2026,11 +2031,6 @@ landscape:
             logo: sine-nomine-associates.svg
             crunchbase: 'https://www.crunchbase.com/organization/sine-nomine-associates'
             twitter: 'https://twitter.com/SNA_USA'
-          - item:
-            name: Fairwinds
-            homepage_url: 'https://www.fairwinds.com/'
-            logo: fairwinds.svg
-            crunchbase: 'https://www.crunchbase.com/organization/reactiveops'
           - item:
             name: 'SecureKey Technologies, Inc.'
             logo: secure-key-technologies-inc.svg
@@ -2653,12 +2653,6 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/china-merchants-bank'
             stock_ticker: CIHKY
           - item:
-            name: Nokia
-            homepage_url: 'https://www.nokia.com'
-            stock_ticker: NOK
-            logo: nokia.svg
-            crunchbase: 'https://www.crunchbase.com/organization/nokia'
-          - item:
             name: Blockchain Technology Partners
             homepage_url: 'https://blockchaintp.com/'
             logo: blockchain-technology-partners.svg
@@ -2780,11 +2774,6 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/sberbank'
             stock_ticker: SBRCY
           - item:
-            name: Tyk
-            homepage_url: 'https://tyk.io/'
-            logo: tyk.svg
-            crunchbase: 'https://www.crunchbase.com/organization/tyk-io'
-          - item:
             name: WhiteSource
             homepage_url: 'https://www.whitesourcesoftware.com/'
             logo: white-source.svg
@@ -2835,11 +2824,6 @@ landscape:
             homepage_url: 'https://sitewhere.io/en/'
             logo: site-where.svg
             crunchbase: 'https://www.crunchbase.com/organization/sitewhere-llc'
-          - item:
-            name: Drivescale
-            homepage_url: 'https://drivescale.com/'
-            logo: drivescale.svg
-            crunchbase: 'https://www.crunchbase.com/organization/drivescale'
           - item:
             name: McKinsey & Company
             homepage_url: 'https://www.mckinsey.com/'
@@ -3092,11 +3076,6 @@ landscape:
             logo: darillium.svg
             crunchbase: 'https://www.crunchbase.com/organization/darillium'
           - item:
-            name: Harness
-            homepage_url: 'https://harness.io'
-            logo: harness.svg
-            crunchbase: 'https://www.crunchbase.com/organization/harness-512d'
-          - item:
             name: Isotoma
             homepage_url: 'https://isotoma.com'
             logo: isotoma.svg
@@ -3138,11 +3117,6 @@ landscape:
             homepage_url: 'https://www.charter.com/'
             logo: charter-communications.svg
             crunchbase: 'https://www.crunchbase.com/organization/charter-communications'
-          - item:
-            name: Unicorn Systems
-            homepage_url: 'https://unicorn.com'
-            logo: unicorn-systems.svg
-            crunchbase: 'https://www.crunchbase.com/organization/unicorn-systems'
           - item:
             name: Cycloid
             homepage_url: 'https://www.cycloid.io/'
@@ -3925,13 +3899,6 @@ landscape:
             homepage_url: 'https://chainyard.com/'
             logo: chainyard.svg
             crunchbase: 'https://www.crunchbase.com/organization/chainyard-an-it-people-company'
-          - item:
-            name: NTT Group
-            homepage_url: 'https://www.ntt.co.jp/activity/en/global/'
-            stock_ticker: NTTYY
-            logo: ntt-group.svg
-            twitter: 'https://twitter.com/NTTPR'
-            crunchbase: 'https://www.crunchbase.com/organization/ntt-group-a877'
           - item:
             name: Kentik
             homepage_url: 'https://www.kentik.com'
@@ -4994,6 +4961,137 @@ landscape:
             logo: Tangem_AG.svg
             name: Tangem AG
             homepage_url: 'https://tangem.com/'
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/china-telecom-corporation'
+            logo: China_Telecommunications_Corporation_1.svg
+            name: China Telecommunications Corporation
+            homepage_url: 'https://chinatelecom.cn/'
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/vivo-2'
+            logo: vivoMobile_Communication_Co._Ltd_1.svg
+            name: "vivo\_Mobile Communication Co., Ltd"
+            homepage_url: 'https://vivo.com/'
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/denso'
+            logo: DENSO_TEN_Limited_1.svg
+            name: DENSO TEN Limited
+            homepage_url: 'https://globaldenso.com/'
+            stock_ticker: DNZOF
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/nokia'
+            homepage_url: 'https://nokia.com/'
+            logo: Nokia_Corporation_1.svg
+            name: Nokia Corporation
+            stock_ticker: NOK
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/storm-reply'
+            homepage_url: 'https://reply.com/'
+            logo: Santer_Reply_SPA_1.svg
+            name: Santer Reply SPA
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/trilio-data'
+            logo: Trilio_Data_1.svg
+            name: Trilio Data
+            homepage_url: 'https://triliodata.com/'
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/ca'
+            homepage_url: 'https://broadcom.com/'
+            logo: Broadcom_Corporation_1.svg
+            name: Broadcom Corporation
+            stock_ticker: null
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/asiainfo'
+            homepage_url: 'https://asiainfo.com/'
+            logo: AsiaInfo_Technologies_China_Co._Ltd._1.svg
+            name: 'AsiaInfo Technologies (China) Co., Ltd.'
+            stock_ticker: 1675.HK
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/harness-512d'
+            homepage_url: 'https://harness.io/'
+            logo: Harness.io.svg
+            name: Harness.io
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/squadcast-d690'
+            homepage_url: 'https://squadcast.com/'
+            logo: Squadcast_Inc.svg
+            name: Squadcast Inc
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/hivecell'
+            homepage_url: 'https://hivecell.io/'
+            logo: Ricker_Lyman_Robotic_Company_Inc._Hivecell.svg
+            name: 'Ricker Lyman Robotic Company, Inc. (Hivecell)'
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/western-digital-capital'
+            logo: Western_Digital_Corporation.svg
+            name: Western Digital Corporation
+            homepage_url: 'https://wdc.com/'
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/wind-river'
+            homepage_url: 'https://windriver.com/'
+            logo: Wind_River_Systems_Inc..svg
+            name: 'Wind River Systems, Inc.'
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/ntt-group-a877'
+            homepage_url: 'https://ntt.co.jp/'
+            logo: NTT_Corporation.svg
+            name: NTT Corporation
+            stock_ticker: NTTYY
+            twitter: 'https://twitter.com/NTTPR'
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/foundry'
+            homepage_url: 'https://foundry.com/'
+            logo: The_Foundry_Visionmongers_Limited.svg
+            name: The Foundry Visionmongers Limited
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/influxdb'
+            logo: InfluxData_Inc.svg
+            name: InfluxData Inc
+            homepage_url: 'https://influxdb.com/'
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/unicorn-systems'
+            homepage_url: 'https://unicorn.com/'
+            logo: Unicorn_systems_a.s..svg
+            name: Unicorn systems a.s.
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/antmicro'
+            logo: ANTMICRO_LTD.svg
+            name: ANTMICRO LTD
+            homepage_url: 'https://antimicro.com/'
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/mastercard'
+            logo: MasterCard_Incorporated.svg
+            name: MasterCard Incorporated
+            homepage_url: 'https://mastercard.com/'
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/mckinsey-company'
+            homepage_url: 'https://mckinsey.com/'
+            logo: McKinsey.svg
+            name: McKinsey
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/drivescale'
+            homepage_url: 'https://drivescale.com/'
+            logo: DriveScale_Inc..svg
+            name: 'DriveScale, Inc.'
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/tyk-io'
+            homepage_url: 'https://tyk.io/'
+            logo: Tyk_Technologies_Ltd..svg
+            name: Tyk Technologies Ltd.
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/reactiveops'
+            homepage_url: 'https://fairwinds.com/'
+            logo: Fairwinds_Ops_Inc.svg
+            name: 'Fairwinds Ops, Inc'
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/innovo-cloud'
+            homepage_url: 'https://innovo-cloud.de/'
+            logo: iNNOVO_Cloud_Gmbh.svg
+            name: iNNOVO Cloud Gmbh
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/peersafe'
+            homepage_url: 'https://peersafe.cn/'
+            logo: Global_Peersafe_Technology_Corp.svg
+            name: Global Peersafe Technology Corp
       - subcategory:
         name: Associate
         items:
@@ -5029,12 +5127,6 @@ landscape:
             logo: project-haystack.svg
             crunchbase: 'https://www.crunchbase.com/organization/project-haystack'
           - item:
-            name: University of Michigan - ARC
-            homepage_url: 'https://arc-ts.umich.edu/'
-            logo: university-of-michigan-arc.svg
-            enduser: true
-            crunchbase: 'https://www.crunchbase.com/organization/university-of-michigan-advanced-research-computing-technology-services'
-          - item:
             name: Fraunhofer
             homepage_url: 'https://www.iee.fraunhofer.de'
             logo: fraunhofer.svg
@@ -5044,11 +5136,6 @@ landscape:
             homepage_url: 'http://www.ggu.edu/'
             logo: golden-gate-university.svg
             crunchbase: 'https://www.crunchbase.com/organization/golden-gate-university-san-francisco'
-          - item:
-            name: Lucerne University of Applied Sciences and Arts
-            homepage_url: 'https://www.hslu.ch/en/'
-            logo: lucerne-university-of-applied-sciences-and-arts.svg
-            crunchbase: 'https://www.crunchbase.com/organization/lucerne-university-of-applied-sciences-and-arts'
           - item:
             name: EPFL
             homepage_url: 'https://www.epfl.ch/en/'
@@ -5105,11 +5192,6 @@ landscape:
             logo: naic.svg
             enduser: true
             crunchbase: 'https://www.crunchbase.com/organization/national-association-of-insurance-commissioners-naic'
-          - item:
-            name: University of New Hampshire - Interoperability Lab
-            homepage_url: 'https://www.iol.unh.edu/'
-            logo: university-of-new-hampshire-interoperability-lab.svg
-            crunchbase: 'https://www.crunchbase.com/organization/interoperability-laboratory'
           - item:
             name: AI for People
             homepage_url: 'https://www.aiforpeople.org/'
@@ -5335,3 +5417,39 @@ landscape:
             logo: GS1_US.svg
             name: GS1 US
             homepage_url: 'https://gs1us.org/'
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/universidade-federal-de-campina-grande'
+            logo: Federal_University_of_Campina_Grande_1.svg
+            name: Federal University of Campina Grande
+            homepage_url: 'https://embeddedlab.org/'
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/tecnalia'
+            logo: Tecnalia_Corporation_1.svg
+            name: Tecnalia Corporation
+            homepage_url: 'https://tecnalia.com/'
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/freedm-systems-center'
+            homepage_url: 'https://ncsu.edu/'
+            logo: North_Carolina_State_University_1.svg
+            name: North Carolina State University
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/zhejiang-university-of-technology'
+            homepage_url: 'https://zju.edu.cn/'
+            logo: Software_Engineering_Lab_of_Zhejiang_University.svg
+            name: Software Engineering Lab of Zhejiang University
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/lucerne-university-of-applied-sciences-and-arts'
+            homepage_url: 'https://hslu.ch/'
+            logo: Lucerne_University_of_Applied_Sciences.svg
+            name: Lucerne University of Applied Sciences
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/interoperability-laboratory'
+            homepage_url: 'https://unh.edu/'
+            logo: University_of_New_Hampshire.svg
+            name: University of New Hampshire
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/university-of-michigan-advanced-research-computing-technology-services'
+            enduser: true
+            homepage_url: 'https://umich.edu/'
+            logo: University_of_Michigan_-_Advanced_Research_Computing_ARC.svg
+            name: University of Michigan - Advanced Research Computing (ARC)
