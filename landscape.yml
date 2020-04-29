@@ -1605,12 +1605,6 @@ landscape:
             logo: Baidu.svg
             crunchbase: 'https://www.crunchbase.com/organization/baidu'
           - item:
-            name: Dell EMC
-            logo: dell-emc.svg
-            homepage_url: 'http://www.emc.com/'
-            crunchbase: 'https://www.crunchbase.com/organization/dell-emc'
-            twitter: 'https://twitter.com/DellEMCStorage'
-          - item:
             name: 'Webank Co., Ltd.'
             logo: webank-co-ltd.svg
             homepage_url: 'http://www.webank.com/'
@@ -1626,6 +1620,11 @@ landscape:
             homepage_url: 'https://dell.com/'
             logo: Dell_Inc..svg
             name: Dell Inc.
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/sony'
+            logo: Sony_Corporation.svg
+            name: Sony Corporation
+            homepage_url: 'https://sony.net/'
       - subcategory:
         name: Silver
         items:
@@ -1645,11 +1644,6 @@ landscape:
             homepage_url: 'https://www.cloudam.cn/'
             logo: cloudam.svg
             crunchbase: 'https://www.crunchbase.com/organization/cloudam'
-          - item:
-            name: iNNOVO Cloud
-            homepage_url: 'https://www.innovo-cloud.de'
-            logo: i-nnovo-cloud.svg
-            crunchbase: 'https://www.crunchbase.com/organization/innovo-cloud'
           - item:
             name: VEXXHOST
             homepage_url: 'https://vexxhost.com'
@@ -1869,11 +1863,6 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/didi-dache'
           - item:
-            name: Wind River
-            homepage_url: 'https://www.windriver.com/'
-            logo: wind-river.svg
-            crunchbase: 'https://www.crunchbase.com/organization/wind-river'
-          - item:
             name: Splunk
             homepage_url: 'https://www.splunk.com'
             logo: splunk.svg
@@ -2015,11 +2004,6 @@ landscape:
             homepage_url: 'https://www.haproxy.com'
             logo: ha-proxy-technologies.svg
             crunchbase: 'https://www.crunchbase.com/organization/haproxy-technologies'
-          - item:
-            name: Benchmark Corp
-            homepage_url: 'https://www.benchmarkcorp.com/'
-            logo: benchmark-corp.svg
-            crunchbase: 'https://www.crunchbase.com/organization/benchmark-corp'
           - item:
             name: CTO.ai
             homepage_url: 'https://cto.ai/'
@@ -2855,11 +2839,6 @@ landscape:
             homepage_url: 'https://www.talos-systems.com/'
             logo: talos-systems.svg
             crunchbase: 'https://www.crunchbase.com/organization/talos-systems-inc'
-          - item:
-            name: Southbridge
-            homepage_url: 'https://southbridge.io/'
-            logo: southbridge.svg
-            crunchbase: 'https://www.crunchbase.com/organization/southbridge'
           - item:
             name: Yotascale
             homepage_url: 'https://www.yotascale.com/'
@@ -3920,11 +3899,6 @@ landscape:
             homepage_url: 'http://proinsight.cn/'
             crunchbase: 'https://www.crunchbase.com/organization/beijing-proinsight-technology'
           - item:
-            name: Squadcast
-            homepage_url: 'https://www.squadcast.com'
-            logo: squadcast.svg
-            crunchbase: 'https://www.crunchbase.com/organization/squadcast-d690'
-          - item:
             name: ENC Data Service
             homepage_url: 'http://www.he2.io'
             logo: enc-data-service.svg
@@ -3967,12 +3941,6 @@ landscape:
             homepage_url: 'https://www.netsia.com/'
             logo: netsia.svg
             crunchbase: 'https://www.crunchbase.com/organization/netsia'
-          - item:
-            name: AsiaInfo
-            homepage_url: 'https://www.asiainfo.com/'
-            stock_ticker: 1675.HK
-            logo: asia-info.svg
-            crunchbase: 'https://www.crunchbase.com/organization/asiainfo'
           - item:
             name: EPAM Systems
             logo: epam-systems.svg
@@ -4114,11 +4082,6 @@ landscape:
             homepage_url: 'https://mayadata.io/'
             logo: maya-data.svg
             crunchbase: 'https://www.crunchbase.com/organization/mayadata'
-          - item:
-            name: kloia
-            homepage_url: 'https://www.kloia.com/'
-            logo: kloia.svg
-            crunchbase: 'https://www.crunchbase.com/organization/kloia'
           - item:
             name: Bell Canada
             logo: bell-canada.svg
@@ -4994,9 +4957,9 @@ landscape:
             name: Trilio Data
             homepage_url: 'https://triliodata.com/'
           - item:
-            crunchbase: 'https://www.crunchbase.com/organization/ca'
+            crunchbase: 'https://www.crunchbase.com/organization/broadcom'
             homepage_url: 'https://broadcom.com/'
-            logo: Broadcom_Corporation_1.svg
+            logo: broadcom-corporation.svg
             name: Broadcom Corporation
             stock_ticker: null
           - item:
@@ -5027,7 +4990,7 @@ landscape:
             homepage_url: 'https://wdc.com/'
           - item:
             crunchbase: 'https://www.crunchbase.com/organization/wind-river'
-            homepage_url: 'https://windriver.com/'
+            homepage_url: 'https://www.windriver.com/'
             logo: Wind_River_Systems_Inc..svg
             name: 'Wind River Systems, Inc.'
           - item:
@@ -5063,11 +5026,6 @@ landscape:
             name: MasterCard Incorporated
             homepage_url: 'https://mastercard.com/'
           - item:
-            crunchbase: 'https://www.crunchbase.com/organization/mckinsey-company'
-            homepage_url: 'https://mckinsey.com/'
-            logo: McKinsey.svg
-            name: McKinsey
-          - item:
             crunchbase: 'https://www.crunchbase.com/organization/drivescale'
             homepage_url: 'https://drivescale.com/'
             logo: DriveScale_Inc..svg
@@ -5092,6 +5050,41 @@ landscape:
             homepage_url: 'https://peersafe.cn/'
             logo: Global_Peersafe_Technology_Corp.svg
             name: Global Peersafe Technology Corp
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/kloia'
+            homepage_url: 'https://kloia.com/'
+            logo: Kloia_1.svg
+            name: Kloia
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/benchmark-corp'
+            homepage_url: 'https://benchmarkcorp.com/'
+            logo: Benchmark_Corporation.svg
+            name: Benchmark Corporation
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/ovoo'
+            homepage_url: 'https://ovoo.pl/'
+            logo: Ovoo_Spolka_z_o._o..svg
+            name: Ovoo Spółka z o. o.
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/southbridge'
+            homepage_url: 'https://southbridge.io/'
+            logo: southbridge.svg
+            name: 'Southbridge LLC, ООО "Саусбридж"'
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/cognitive-systems'
+            logo: Cog_Systems.svg
+            name: Cog Systems
+            homepage_url: 'https://cog.systems/'
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/n-able-cloud-consultancy-training'
+            homepage_url: 'https://n-ableconsultancy.nl/'
+            logo: N-Able_Opleidingen_B.V..svg
+            name: N-Able Opleidingen B.V.
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/ghost-locomotion'
+            logo: Ghost_Locomotion_Inc..svg
+            name: Ghost Locomotion Inc.
+            homepage_url: 'https://gh.st/'
       - subcategory:
         name: Associate
         items:
@@ -5453,3 +5446,62 @@ landscape:
             homepage_url: 'https://umich.edu/'
             logo: University_of_Michigan_-_Advanced_Research_Computing_ARC.svg
             name: University of Michigan - Advanced Research Computing (ARC)
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/rutgers-university'
+            logo: Rutgers_University.svg
+            name: Rutgers University
+            homepage_url: 'https://rutgers.edu/'
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/peking-university'
+            logo: Peking_University.svg
+            name: Peking University
+            homepage_url: 'https://pku.edu.cn/'
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/iotex'
+            logo: iotex.io.svg
+            name: iotex.io
+            homepage_url: 'https://iotex.io/'
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/international-society-of-service-innovation-professionals'
+            homepage_url: 'https://issip.org/'
+            logo: ISSIP.svg
+            name: ISSIP
+            stock_ticker: null
+            twitter: 'https://twitter.com/The_ISSIP'
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/the-institute-for-ethical-ai-machine-learning'
+            homepage_url: 'https://ethical.institute/'
+            logo: The_Institute_for_Ethical_AI__Machine_Learning.svg
+            name: The Institute for Ethical AI & Machine Learning
+            stock_ticker: null
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/ambianic'
+            homepage_url: 'https://ambianic.ai/'
+            logo: Ambianic.ai.svg
+            name: Ambianic.ai
+            stock_ticker: null
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/opentravel-alliance'
+            logo: OpenTravel_Alliance.svg
+            name: OpenTravel Alliance
+            homepage_url: 'https://opentravel.org/'
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/cpqd/timeline'
+            logo: CPqD.svg
+            name: CPqD
+            homepage_url: 'https://cpqd.com.br/'
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/university-college-london-u-of-london'
+            logo: University_College_London.svg
+            name: University College London
+            homepage_url: 'https://ucl.ac.uk/'
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/alan-turing-institute'
+            homepage_url: 'https://turing.ac.uk/'
+            logo: The_Alan_Turing_Institute.svg
+            name: The Alan Turing Institute
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/fi-ware'
+            homepage_url: 'https://fiware.org/'
+            logo: FIWARE_Foundation_e._V..svg
+            name: FIWARE Foundation e. V.

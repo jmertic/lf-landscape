@@ -14025,7 +14025,7 @@ landscape:
               effective_ticker: FB
             image_data:
               fileName: facebook.svg
-              hash: +YcKYRN1bXayEy6NbknA+WcdQRaLRrNUkwB6Nx8BdlQ=
+              hash: OiASUasA5X6qYgdQ2mrG7RmN6d7ZE/botTpdiVSU9l4=
             best_practice_data:
               badge: false
               percentage: null
@@ -14716,39 +14716,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-03-16T04:10:11.000Z
           - item:
-            name: Dell EMC
-            logo: dell-emc.svg
-            homepage_url: 'http://www.emc.com/'
-            crunchbase: 'https://www.crunchbase.com/organization/dell-emc'
-            twitter: 'https://twitter.com/DellEMCStorage'
-            crunchbase_data:
-              name: Dell EMC
-              description: Dell EMC enables digital transformation with trusted solutions for the modern data center.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://dellemc.com'
-              city: Hopkinton
-              region: Massachusetts
-              country: United States
-              twitter: 'https://twitter.com/dellemc'
-              linkedin: 'https://www.linkedin.com/company-beta/1128'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/dell'
-              ticker: DELL
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 23856175104
-              effective_ticker: DELL
-            image_data:
-              fileName: dell-emc.svg
-              hash: aQmFaP21wnNyo+xTAbIQ5aOM6nS5o7iXbEe03zFW4AU=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-03-18T21:51:02.000Z
-          - item:
             name: 'Webank Co., Ltd.'
             logo: webank-co-ltd.svg
             homepage_url: 'http://www.webank.com/'
@@ -14861,6 +14828,91 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-04-27T15:38:45.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/sony'
+            logo: Sony_Corporation.svg
+            name: Sony Corporation
+            homepage_url: 'https://sony.net/'
+            crunchbase_data:
+              name: Sony
+              description: 'Sony Corporation is a Japanese multinational conglomerate corporation headquartered in Kōnan, Minato, Tokyo.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.sony.net/'
+              city: Tokyo
+              region: Tokyo
+              country: Japan
+              twitter: 'https://twitter.com/Sony'
+              linkedin: 'https://www.linkedin.com/company/sony'
+              acquisitions:
+                - date: '2019-06-07'
+                  acquiree: Midokura
+                - date: '2019-01-01'
+                  acquiree: Cogitai
+                - date: '2016-01-22'
+                  acquiree: Altair Semiconductor
+                  price: 212000000
+                - date: '2016-01-01'
+                  acquiree: Altair Semiconductor
+                  price: 212000000
+                - date: '2015-12-04'
+                  acquiree: Toshiba - Image Sensor Business
+                  price: 155000000
+                - date: '2015-10-08'
+                  acquiree: Softkinetic
+                - date: '2015-05-27'
+                  acquiree: Optical Archive
+                - date: '2015-04-04'
+                  acquiree: OnLive
+                - date: '2015-03-18'
+                  acquiree: The Orchard
+                  price: 200000000
+                - date: '2012-09-12'
+                  acquiree: Pixim
+                - date: '2012-07-02'
+                  acquiree: Gaikai
+                  price: 380000000
+                - date: '2012-02-16'
+                  acquiree: Sony Mobile Communications
+                - date: '2011-09-28'
+                  acquiree: Micronics
+                - date: '2010-03-02'
+                  acquiree: LittleBigPlanet
+                - date: '2010-02-10'
+                  acquiree: iCyt Mission Technology
+                - date: '2010-01-28'
+                  acquiree: Convergent Media Systems
+                - date: '2008-04-22'
+                  acquiree: Gracenote
+                  price: 260000000
+                - date: '2007-05-16'
+                  acquiree: Sigil Games Online
+                - date: '2005-07-21'
+                  acquiree: SN Systems
+                - date: '2004-09-14'
+                  acquiree: MGM Studios
+                - date: '2002-12-01'
+                  acquiree: Aiwa
+                - date: '1991-10-04'
+                  acquiree: Columbia Pictures Entertainment
+                - date: '1989-09-29'
+                  acquiree: Guber-Peters Entertainment
+                - date: '1982-02-04'
+                  acquiree: Music Center Inc
+              parents: []
+              ticker: SNEJF
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 77965787136
+              effective_ticker: SNEJF
+            image_data:
+              fileName: sony-corporation.svg
+              hash: LgTBieN4eTDYfj0TGmcvRVxN9Fq0hC5HnmMpt79QaLg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-04-29T18:45:08.000Z
       - subcategory:
         name: Silver
         items:
@@ -14945,32 +14997,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: iNNOVO Cloud
-            homepage_url: 'https://www.innovo-cloud.de'
-            logo: i-nnovo-cloud.svg
-            crunchbase: 'https://www.crunchbase.com/organization/innovo-cloud'
-            crunchbase_data:
-              name: INNOVO Cloud
-              description: iNNOVO Cloud realizes virtual private cloud solutions.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'https://www.innovo-cloud.de/'
-              city: Eschborn
-              region: Hessen
-              country: Germany
-              twitter: 'https://twitter.com/innovocloudgmbh'
-              linkedin: 'https://www.linkedin.com/company/innovo-cloud-gmbh/'
-              acquisitions: []
-              parents: []
-            image_data:
-              fileName: i-nnovo-cloud.svg
-              hash: I1gqWErjty7K51fqJeF0KZuBagrrzDx53v8767S/diA=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-02-24T11:06:39.000Z
           - item:
             name: VEXXHOST
             homepage_url: 'https://vexxhost.com'
@@ -16482,46 +16508,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Wind River
-            homepage_url: 'https://www.windriver.com/'
-            logo: wind-river.svg
-            crunchbase: 'https://www.crunchbase.com/organization/wind-river'
-            crunchbase_data:
-              name: Wind River
-              description: 'Wind River enables companies to develop, run and manage device software faster and more reliably at a lower cost.'
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: 'http://www.windriver.com'
-              city: Alameda
-              region: California
-              country: United States
-              twitter: 'http://twitter.com/WindRiver'
-              linkedin: 'https://www.linkedin.com/company/wind-river'
-              acquisitions:
-                - date: '2020-01-16'
-                  acquiree: Star Lab Corp.
-                - date: '2016-04-04'
-                  acquiree: Arynga
-                - date: '2010-02-05'
-                  acquiree: Virtutech
-                  price: 45000000
-                - date: '2009-02-28'
-                  acquiree: Tilcon Software Ltd.
-                - date: '2000-10-09'
-                  acquiree: Rapid Logic
-                  price: 58300000
-                - date: '2000-03-14'
-                  acquiree: AudeSi Technologies
-              parents: []
-            image_data:
-              fileName: wind-river.svg
-              hash: hSAvDAGEryxD0X50iU+RlgWpmyHFUL3wNbZcJvwrklw=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-03-18T21:27:06.000Z
-          - item:
             name: Splunk
             homepage_url: 'https://www.splunk.com'
             logo: splunk.svg
@@ -17467,30 +17453,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-03-18T18:10:08.000Z
-          - item:
-            name: Benchmark Corp
-            homepage_url: 'https://www.benchmarkcorp.com/'
-            logo: benchmark-corp.svg
-            crunchbase: 'https://www.crunchbase.com/organization/benchmark-corp'
-            crunchbase_data:
-              name: Benchmark Corp
-              description: 'As a software solutions provider, Benchmark focuses on open source technology for commercial and enterprise customers.'
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'https://www.benchmarkcorp.com/'
-              city: Mississauga
-              region: Ontario
-              country: Canada
-              twitter: null
-              linkedin: 'https://www.linkedin.com/company/benchmark-corp/'
-              acquisitions: []
-              parents: []
-            image_data:
-              fileName: benchmark-corp.svg
-              hash: jTI92EJaT9vMGvcKC+iL1V5tLN0bQMu9eKolRLDUQNI=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: CTO.ai
             homepage_url: 'https://cto.ai/'
@@ -23180,30 +23142,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-03-18T18:01:59.000Z
-          - item:
-            name: Southbridge
-            homepage_url: 'https://southbridge.io/'
-            logo: southbridge.svg
-            crunchbase: 'https://www.crunchbase.com/organization/southbridge'
-            crunchbase_data:
-              name: Southbridge
-              description: 'We configure and support your servers, including web, backend, databases and telephony.'
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'https://southbridge.io/'
-              city: Liski
-              region: Voronezh
-              country: Russian Federation
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-            image_data:
-              fileName: southbridge.svg
-              hash: /LBs9hpj9NAYxuz61duomNQGKHzpqYu+euxYtOYTtR0=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: Yotascale
             homepage_url: 'https://www.yotascale.com/'
@@ -30171,34 +30109,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Squadcast
-            homepage_url: 'https://www.squadcast.com'
-            logo: squadcast.svg
-            crunchbase: 'https://www.crunchbase.com/organization/squadcast-d690'
-            crunchbase_data:
-              name: Squadcast
-              description: End-to-end batteries-included incident response platform based on Site Reliability Engineering (SRE).
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'https://www.squadcast.com'
-              city: Palo Alto
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/squadcastHQ'
-              linkedin: 'https://www.linkedin.com/company/squadcast/'
-              acquisitions: []
-              parents: []
-              kind: funding
-              funding: 2100000
-            image_data:
-              fileName: squadcast.svg
-              hash: nZIWGJImpXp6Qz5EI+UosgoirvORlAasBLRs7nXmMO8=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-03-18T13:41:38.000Z
-          - item:
             name: ENC Data Service
             homepage_url: 'http://www.he2.io'
             logo: enc-data-service.svg
@@ -30644,42 +30554,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-10-24T09:17:22.000Z
-          - item:
-            name: AsiaInfo
-            homepage_url: 'https://www.asiainfo.com/'
-            stock_ticker: 1675.HK
-            logo: asia-info.svg
-            crunchbase: 'https://www.crunchbase.com/organization/asiainfo'
-            crunchbase_data:
-              name: AsiaInfo
-              description: AsiaInfo is an innovative provider of software and IT services to the telecommunications industry
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.asiainfo.com'
-              city: Beijing
-              region: Beijing
-              country: China
-              twitter: null
-              linkedin: 'https://www.linkedin.com/company/asiainfo'
-              acquisitions:
-                - date: '2010-04-05'
-                  acquiree: Hangzhou Zhongbo Software Technology Co
-                - date: '2004-10-19'
-                  acquiree: Lenovo-AsiaInfo Technologies
-                - date: '2002-01-22'
-                  acquiree: Bonson Information Technology Ltd.
-              parents: []
-              ticker: ASIA
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 5805664256
-              effective_ticker: 1675.HK
-            image_data:
-              fileName: asia-info.svg
-              hash: S9yo7zR3z4o+1Z8W1kjw+0sfDqRQdSlPf1UksIihZjc=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: EPAM Systems
             logo: epam-systems.svg
@@ -31765,32 +31639,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-03-18T16:20:58.000Z
-          - item:
-            name: kloia
-            homepage_url: 'https://www.kloia.com/'
-            logo: kloia.svg
-            crunchbase: 'https://www.crunchbase.com/organization/kloia'
-            crunchbase_data:
-              name: kloia
-              description: 'Simplifying software and infrastructure management, helping customers to focus their core-business.'
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'https://kloia.com'
-              city: London
-              region: England
-              country: United Kingdom
-              twitter: 'https://www.twitter.com/kloia_com'
-              linkedin: 'https://www.linkedin.com/company/6599207/'
-              acquisitions: []
-              parents: []
-            image_data:
-              fileName: kloia.svg
-              hash: r76n2kI4YhwCZTa34sXFiEq0hSCklmCH0USxFOAqq1E=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-03-18T12:33:49.000Z
           - item:
             name: Bell Canada
             logo: bell-canada.svg
@@ -37608,154 +37456,137 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-04-28T14:29:16.000Z
           - item:
-            crunchbase: 'https://www.crunchbase.com/organization/ca'
+            crunchbase: 'https://www.crunchbase.com/organization/broadcom'
             homepage_url: 'https://broadcom.com/'
-            logo: Broadcom_Corporation_1.svg
+            logo: broadcom-corporation.svg
             name: Broadcom Corporation
             stock_ticker: null
             crunchbase_data:
-              name: CA Technologies
-              description: CA Technologies creates software that fuels transformation for companies.
+              name: Broadcom
+              description: 'Broadcom is a leading designer, developer and global supplier of a broad range of analog and digital semiconductor connectivity solutions.'
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: 'http://www.ca.com'
-              city: New York
-              region: New York
+              homepage: 'http://www.broadcom.com'
+              city: San Jose
+              region: California
               country: United States
-              twitter: 'http://twitter.com/CAinc'
-              linkedin: 'https://www.linkedin.com/company/ca-technologies'
+              twitter: 'http://twitter.com/Broadcom'
+              linkedin: 'https://www.linkedin.com/company/broadcom'
               acquisitions:
-                - date: '2018-04-09'
-                  acquiree: SourceClear
-                - date: '2017-09-28'
-                  acquiree: Runscope
-                - date: '2017-06-15'
-                  acquiree: zIT Consulting
-                - date: '2017-03-06'
-                  acquiree: Veracode
-                  price: 614000000
-                - date: '2016-12-01'
-                  acquiree: Automic
-                  price: 639829379
-                - date: '2016-11-15'
-                  acquiree: Mobile System 7
-                - date: '2016-09-20'
-                  acquiree: BlazeMeter
-                - date: '2015-08-04'
-                  acquiree: Xceedium
-                - date: '2015-06-09'
-                  acquiree: IdMlogic
-                  price: 20000000
-                - date: '2015-06-04'
-                  acquiree: Grid-Tools
-                - date: '2015-05-27'
-                  acquiree: Rally Software
-                  price: 480000000
-                - date: '2013-04-22'
-                  acquiree: Nolio
-                  price: 40000000
-                - date: '2013-04-22'
-                  acquiree: Layer 7 Technologies
-                  price: 180000000
-                - date: '2011-08-16'
-                  acquiree: ITKO
-                  price: 330000000
-                - date: '2011-07-29'
-                  acquiree: WatchMouse
-                - date: '2011-04-06'
-                  acquiree: Base Technologies
-                - date: '2010-11-02'
-                  acquiree: Hyperformix
-                - date: '2010-10-05'
-                  acquiree: Arcot Systems
-                - date: '2010-08-12'
-                  acquiree: 4Base Technology
-                - date: '2010-03-10'
-                  acquiree: Nimsoft
-                  price: 350000000
-                - date: '2010-02-24'
-                  acquiree: 3Tera
-                - date: '2010-01-11'
-                  acquiree: Oblicore
-                - date: '2009-09-14'
-                  acquiree: NetQoS
-                  price: 200000000
-                - date: '2009-06-02'
-                  acquiree: Cassatt
-                - date: '2009-01-05'
-                  acquiree: Orchestria Corporation
-                - date: '2008-11-01'
-                  acquiree: Eurekify (acquired by CA)
-                - date: '2008-10-07'
-                  acquiree: ID Focus
-                - date: '2008-10-06'
-                  acquiree: Optinuity
-                - date: '2006-09-30'
-                  acquiree: Cendura
-                - date: '2006-07-11'
-                  acquiree: Arcserve
-                - date: '2006-06-13'
-                  acquiree: MDY Group
-                - date: '2006-05-09'
-                  acquiree: Cybermation
+                - date: '2019-12-31'
+                  acquiree: Bay Dynamics
+                - date: '2019-11-01'
+                  acquiree: Symantec
+                  price: 10700000000
+                - date: '2016-11-02'
+                  acquiree: Brocade Communications Systems
+                  price: 5900000000
+                - date: '2016-05-17'
+                  acquiree: MagnaCom
+                  price: 50000000
+                - date: '2013-01-30'
+                  acquiree: BroadLogic Network Technologies
+                - date: '2012-03-21'
+                  acquiree: BroadLight
+                  price: 230000000
+                - date: '2011-09-12'
+                  acquiree: NetLogic Microsystems
+                  price: 3700000000
+                - date: '2011-05-09'
+                  acquiree: SCsquare
+                  price: 42000000
+                - date: '2011-03-21'
+                  acquiree: Provigent
+                  price: 314000000
+                - date: '2010-11-22'
+                  acquiree: Gigle Networks
                   price: 75000000
-                - date: '2006-01-12'
-                  acquiree: Control-F1 Corp.
-                - date: '2006-01-05'
-                  acquiree: Wily Technology
-                  price: 375000000
-                - date: '2005-10-17'
-                  acquiree: iLumin Software
-                - date: '2005-06-27'
-                  acquiree: Tiny Software
-                - date: '2005-06-09'
-                  acquiree: Niku
-                  price: 350000000
-                - date: '2005-04-07'
-                  acquiree: Concord Communications
-                  price: 350000000
-                - date: '2004-10-06'
-                  acquiree: Netegrity
-                  price: 430000000
-                - date: '2004-08-16'
-                  acquiree: PestPatrol
-                - date: '2004-03-21'
-                  acquiree: Miramar Systems
-                - date: '2003-07-14'
-                  acquiree: Silent Runner
-                - date: '2003-02-05'
-                  acquiree: Netreon
-                - date: '2002-02-15'
-                  acquiree: Sterling Software
-                  price: 3910000000
-                - date: '2002-01-02'
-                  acquiree: Platinum Technology
-                  price: 3500000000
-                - date: '1999-01-06'
-                  acquiree: LDA Systems
-                - date: '1998-10-29'
-                  acquiree: Viewpoint Datalabs
-                - date: '1998-09-04'
-                  acquiree: Qxcom
-                - date: '1998-08-07'
-                  acquiree: Realogic
-                - date: '1997-12-23'
-                  acquiree: AI Ware
-                - date: '1996-10-08'
-                  acquiree: Cheyenne Software
-                - date: '1995-08-01'
-                  acquiree: Legent Corporation
-                - date: '1994-06-22'
-                  acquiree: Ask Group
+                - date: '2010-10-26'
+                  acquiree: Percello
+                  price: 86000000
+                - date: '2010-10-13'
+                  acquiree: Beceem Communications
+                  price: 316000000
+                - date: '2010-06-17'
+                  acquiree: Innovision Research & Technology
+                  price: 47500000
+                - date: '2010-02-03'
+                  acquiree: Teknovus
+                  price: 123000000
+                - date: '2009-11-30'
+                  acquiree: DuneNetworks
+                  price: 178000000
+                - date: '2007-07-12'
+                  acquiree: Global Locate
+                  price: 146000000
+                - date: '2007-05-03'
+                  acquiree: Octalica
+                  price: 31000000
+                - date: '2006-11-29'
+                  acquiree: LVL7 Systems
+                  price: 62000000
+                - date: '2006-01-23'
+                  acquiree: Sandburst Corporation
+                - date: '2005-10-06'
+                  acquiree: Athena Semiconductors
+                - date: '2005-07-19'
+                  acquiree: Siliquent Technologies
+                  price: 84000000
+                - date: '2005-03-07'
+                  acquiree: Zeevo
+                - date: '2004-10-05'
+                  acquiree: Agere Systems
+                - date: '2004-09-22'
+                  acquiree: Alphamosaic
+                  price: 123000000
+                - date: '2004-06-16'
+                  acquiree: Zyray Wireless
+                  price: 96000000
+                - date: '2004-04-20'
+                  acquiree: WIDCOMM
+                - date: '2004-04-07'
+                  acquiree: Sand Video
+                  price: 77500000
+                - date: '2004-02-02'
+                  acquiree: RAIDCore
+                - date: '2003-03-03'
+                  acquiree: Gadzoox Network
+                - date: '2001-01-08'
+                  acquiree: ServerWorks
+                  price: 957000000
+                - date: '2001-01-06'
+                  acquiree: VisionTech
+                  price: 250000000
+                - date: '2000-11-07'
+                  acquiree: SiByte
+                  price: 2040000000
+                - date: '2000-11-01'
+                  acquiree: Element 14 Inc
+                  price: 600000000
+                - date: '2000-10-17'
+                  acquiree: Allayer Technologies
+                  price: 276000000
+                - date: '2000-08-15'
+                  acquiree: NewPort Communications
+                  price: 1320000000
+                - date: '2000-08-07'
+                  acquiree: Silicon Spice
+                  price: 1230000000
+                - date: '1999-08-12'
+                  acquiree: Altocom
+                  price: 180000000
+                - date: '1999-01-27'
+                  acquiree: Maverick Networks
+                  price: 111900000
               parents: []
             image_data:
               fileName: broadcom-corporation.svg
-              hash: SD+PrxD6E+Kn08W3wkrsvUMaqcAFEBh27EDmAPPWEsM=
+              hash: iHTiyggV8yFHGbWfO3vG2c1fn9mKWYqMIa0NyliwstQ=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2018-11-21T15:31:03.000Z
+              latest_tweet_date: 2020-04-29T15:51:02.000Z
           - item:
             crunchbase: 'https://www.crunchbase.com/organization/asiainfo'
             homepage_url: 'https://asiainfo.com/'
@@ -37906,7 +37737,7 @@ landscape:
               latest_tweet_date: 2016-09-23T21:07:13.000Z
           - item:
             crunchbase: 'https://www.crunchbase.com/organization/wind-river'
-            homepage_url: 'https://windriver.com/'
+            homepage_url: 'https://www.windriver.com/'
             logo: Wind_River_Systems_Inc..svg
             name: 'Wind River Systems, Inc.'
             crunchbase_data:
@@ -38167,44 +37998,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-04-28T19:06:44.000Z
           - item:
-            crunchbase: 'https://www.crunchbase.com/organization/mckinsey-company'
-            homepage_url: 'https://mckinsey.com/'
-            logo: McKinsey.svg
-            name: McKinsey
-            crunchbase_data:
-              name: McKinsey & Company
-              description: McKinsey & Company is a global management consulting firm.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.mckinsey.com'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'http://twitter.com/McKinsey'
-              linkedin: 'https://www.linkedin.com/company/mckinsey/'
-              acquisitions:
-                - date: '2020-02-10'
-                  acquiree: Orpheus GmbH
-                - date: '2016-11-11'
-                  acquiree: Veryday
-                - date: '2015-12-14'
-                  acquiree: QuantumBlack
-                - date: '2015-05-14'
-                  acquiree: Lunar
-                - date: '2013-08-28'
-                  acquiree: Lixto Software
-                - date: '2013-01-01'
-                  acquiree: Numetrics Management Systems
-              parents: []
-            image_data:
-              fileName: mc-kinsey.svg
-              hash: BudSOBpA52xqXrCeX6W6qXuJ5zjRnnGbonOpW+YBcgw=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-03-18T20:15:01.000Z
-          - item:
             crunchbase: 'https://www.crunchbase.com/organization/drivescale'
             homepage_url: 'https://drivescale.com/'
             logo: DriveScale_Inc..svg
@@ -38338,6 +38131,182 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2017-10-26T03:53:16.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/kloia'
+            homepage_url: 'https://kloia.com/'
+            logo: Kloia_1.svg
+            name: Kloia
+            crunchbase_data:
+              name: kloia
+              description: 'Simplifying software and infrastructure management, helping customers to focus their core-business.'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://kloia.com'
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: 'https://www.twitter.com/kloia_com'
+              linkedin: 'https://www.linkedin.com/company/6599207/'
+              acquisitions: []
+              parents: []
+            image_data:
+              fileName: kloia.svg
+              hash: PdbdD3YsK7Gs1SXlB2EMOxy+TVxD/TuZlvJP8Psk1ts=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-03-18T12:33:49.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/benchmark-corp'
+            homepage_url: 'https://benchmarkcorp.com/'
+            logo: Benchmark_Corporation.svg
+            name: Benchmark Corporation
+            crunchbase_data:
+              name: Benchmark Corp
+              description: 'As a software solutions provider, Benchmark focuses on open source technology for commercial and enterprise customers.'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://www.benchmarkcorp.com/'
+              city: Mississauga
+              region: Ontario
+              country: Canada
+              twitter: null
+              linkedin: 'https://www.linkedin.com/company/benchmark-corp/'
+              acquisitions: []
+              parents: []
+            image_data:
+              fileName: benchmark-corporation.svg
+              hash: Z6rZPU4g/1PyHgMQLzm1/HUwsWkEe/CLYqlmDJesPQM=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/ovoo'
+            homepage_url: 'https://ovoo.pl/'
+            logo: Ovoo_Spolka_z_o._o..svg
+            name: Ovoo Spółka z o. o.
+            crunchbase_data:
+              name: Ovoo
+              description: 'TELECO experts with many years of experience working with biggest MNO groups, and smaller customers.'
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://ovoo.pl/'
+              city: Kraków
+              region: Malopolskie
+              country: Poland
+              twitter: null
+              linkedin: 'https://www.linkedin.com/company/ovoo/'
+              acquisitions: []
+              parents: []
+            image_data:
+              fileName: ovoo-sp-ka-z-o-o.svg
+              hash: ICquYBfu47jkgj7H9gWOxcix9aMCNli5tutJtv66EQk=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/southbridge'
+            homepage_url: 'https://southbridge.io/'
+            logo: southbridge.svg
+            name: 'Southbridge LLC, ООО "Саусбридж"'
+            crunchbase_data:
+              name: Southbridge
+              description: 'We configure and support your servers, including web, backend, databases and telephony.'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://southbridge.io/'
+              city: Liski
+              region: Voronezh
+              country: Russian Federation
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+            image_data:
+              fileName: southbridge-llc.svg
+              hash: /LBs9hpj9NAYxuz61duomNQGKHzpqYu+euxYtOYTtR0=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/cognitive-systems'
+            logo: Cog_Systems.svg
+            name: Cog Systems
+            homepage_url: 'https://cog.systems/'
+            crunchbase_data:
+              name: Cognitive Systems Corp.
+              description: Cognitive Systems’ patented Aura WiFi Motion™ technology uses Wi-Fi signals to detect motion through smart home devices.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://www.cognitivesystems.com/'
+              city: Waterloo
+              region: Ontario
+              country: Canada
+              twitter: 'https://twitter.com/cognitiveSC'
+              linkedin: 'https://www.linkedin.com/company/9270269'
+              acquisitions: []
+              parents: []
+              kind: funding
+              funding: 5456516
+            image_data:
+              fileName: cog-systems.svg
+              hash: OeyXoenyXr2+RqA+cCPAW8970b/lWEAwT1Vme2+XHq4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-04-24T15:11:11.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/n-able-cloud-consultancy-training'
+            homepage_url: 'https://n-ableconsultancy.nl/'
+            logo: N-Able_Opleidingen_B.V..svg
+            name: N-Able Opleidingen B.V.
+            crunchbase_data:
+              name: N-Able Cloud Consultancy & Training
+              description: We N-Able your Cloud Native Journey
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.n-ableconsultancy.nl/'
+              city: Leidschendam
+              region: Zuid-Holland
+              country: The Netherlands
+              twitter: null
+              linkedin: 'https://www.linkedin.com/company/n-able-cloud-technology-training/'
+              acquisitions: []
+              parents: []
+            image_data:
+              fileName: n-able-opleidingen-b-v.svg
+              hash: cIzGXUQTNattQqMCsPfjH3GFrH/8hQmYYV7yuf5OIy0=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/ghost-locomotion'
+            logo: Ghost_Locomotion_Inc..svg
+            name: Ghost Locomotion Inc.
+            homepage_url: 'https://gh.st/'
+            crunchbase_data:
+              name: Ghost Locomotion
+              description: Ghost Locomotion develops an automated driving device intended to provide installation of self-driving functionality to any car.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://www.driveghost.com/'
+              city: Mountain View
+              region: California
+              country: United States
+              twitter: null
+              linkedin: 'https://www.linkedin.com/company/ghost-locomotion/'
+              acquisitions: []
+              parents: []
+              kind: funding
+              funding: 63700000
+            image_data:
+              fileName: ghost-locomotion-inc.svg
+              hash: Ruw16YtlUGVfZ1i7hgflBUtuNT9Fvy+VMx6GQAp63JM=
+            best_practice_data:
+              badge: false
+              percentage: null
       - subcategory:
         name: Associate
         items:
@@ -40169,6 +40138,299 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-03-18T22:29:00.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/rutgers-university'
+            logo: Rutgers_University.svg
+            name: Rutgers University
+            homepage_url: 'https://rutgers.edu/'
+            crunchbase_data:
+              name: Rutgers University
+              description: 'Rutgers, The State University of New Jersey (also known as Rutgers University), is the largest institution for higher education in the'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.rutgers.edu'
+              city: Piscataway
+              region: New Jersey
+              country: United States
+              twitter: 'http://twitter.com/RutgersU'
+              linkedin: 'https://www.linkedin.com/company/rutgers-university'
+              acquisitions: []
+              parents: []
+              kind: funding
+              funding: 12284000
+            image_data:
+              fileName: rutgers-university.svg
+              hash: nnk5e2Ay7sVKJUjxjOcUC7uLT0xxfwE/9fSLQKFYbnU=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-04-29T17:31:45.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/peking-university'
+            logo: Peking_University.svg
+            name: Peking University
+            homepage_url: 'https://pku.edu.cn/'
+            crunchbase_data:
+              name: Peking University
+              description: 'Peking University, is a major Chinese research university located in Beijing and a member of the C9 League.'
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://www.pku.edu.cn/'
+              city: Beijing
+              region: Beijing
+              country: China
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+            image_data:
+              fileName: peking-university.svg
+              hash: xw7r5i/o9CkgffrXfH06FFZXLZZZDDCBpCqN3DGSrWM=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/iotex'
+            logo: iotex.io.svg
+            name: iotex.io
+            homepage_url: 'https://iotex.io/'
+            crunchbase_data:
+              name: IoTeX
+              description: IoTeX builds a decentralized network for Internet of Trusted Things(IoT) that enables privacy and returns the control of data to its owners.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://iotex.io/'
+              city: Menlo Park
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/iotex_io'
+              linkedin: 'https://www.linkedin.com/company/iotex/'
+              acquisitions: []
+              parents: []
+            image_data:
+              fileName: iotex-io.svg
+              hash: njwVQZn0uUBk8FmIooMhcnWmT+wvXTllLwCLJ8LfGPI=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-04-29T16:35:36.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/international-society-of-service-innovation-professionals'
+            homepage_url: 'https://issip.org/'
+            logo: ISSIP.svg
+            name: ISSIP
+            stock_ticker: null
+            twitter: 'https://twitter.com/The_ISSIP'
+            crunchbase_data:
+              name: International Society of Service Innovation Professionals
+              description: 'ISSIP is a professional association co-founded by IBM, Cisco, HP and several Universities.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'http://www.issip.org/'
+              city: San Jose
+              region: California
+              country: United States
+              twitter: 'https://www.twitter.com/the_issip'
+              linkedin: 'https://www.linkedin.com/company/international-society-of-service-innovation-professionals-issip-/about/'
+              acquisitions: []
+              parents: []
+            image_data:
+              fileName: issip.svg
+              hash: 9uR/xqFRcZCyff00jrDyShNavlTR6im6Hs92aBIOIcE=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-04-20T12:14:10.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/the-institute-for-ethical-ai-machine-learning'
+            homepage_url: 'https://ethical.institute/'
+            logo: The_Institute_for_Ethical_AI__Machine_Learning.svg
+            name: The Institute for Ethical AI & Machine Learning
+            stock_ticker: null
+            crunchbase_data:
+              name: The Institute for Ethical AI & Machine Learning
+              description: The IEML is a UK-based think-do-tank that builds frameworks and standards that ensure the ethical development of machine learning systems.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'http://ethical.institute'
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: 'https://twitter.com/EthicalML'
+              linkedin: 'https://www.linkedin.com/company/the-institute-for-ethical-machine-learning/'
+              acquisitions: []
+              parents: []
+            image_data:
+              fileName: the-institute-for-ethical-ai-machine-learning.svg
+              hash: GYMQHCKYROTKg4OGJGgchYt7gJmEleBA5FYwlDSBBxE=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-04-29T07:00:04.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/ambianic'
+            homepage_url: 'https://ambianic.ai/'
+            logo: Ambianic.ai.svg
+            name: Ambianic.ai
+            stock_ticker: null
+            crunchbase_data:
+              name: Ambianic
+              description: An Open Source Ambient Intelligence platform that puts local control and privacy first.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://ambianic.ai/'
+              city: Austin
+              region: Texas
+              country: United States
+              twitter: 'https://twitter.com/ambianicai'
+              linkedin: null
+              acquisitions: []
+              parents: []
+            image_data:
+              fileName: ambianic-ai.svg
+              hash: v4WNPMhJOYpSWxItCPZpX/ReWnb6DxvEqDsFl67auiA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-04-29T00:18:04.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/opentravel-alliance'
+            logo: OpenTravel_Alliance.svg
+            name: OpenTravel Alliance
+            homepage_url: 'https://opentravel.org/'
+            crunchbase_data:
+              name: OpenTravel Alliance
+              description: The OpenTravel Alliance provides a community where companies in the electronic distribution supply chain work together
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://opentravel.org/'
+              city: Oakland
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/OpenTravel'
+              linkedin: 'https://www.linkedin.com/company/opentravel/'
+              acquisitions: []
+              parents: []
+            image_data:
+              fileName: open-travel-alliance.svg
+              hash: 3+EvddekPt7ZEwF+9gl7vDRaLUhVGg3j6KGkNYQN9Oc=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-03-26T15:44:41.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/cpqd/timeline'
+            logo: CPqD.svg
+            name: CPqD
+            homepage_url: 'https://cpqd.com.br/'
+            crunchbase_data:
+              name: Timeline
+              description: 'The news is the short tail of a very long string of events.Timeline weaves those events into rich, compelling stories.'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://timeline.com/'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/timeline_now'
+              linkedin: null
+              acquisitions: []
+              parents: []
+            image_data:
+              fileName: c-pq-d.svg
+              hash: d7sw2kogPmktUzg3l2AFtQvTsDC6RSujZtZI1sUvzRM=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2018-06-21T20:50:07.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/university-college-london-u-of-london'
+            logo: University_College_London.svg
+            name: University College London
+            homepage_url: 'https://ucl.ac.uk/'
+            crunchbase_data:
+              name: University College London (UCL)
+              description: 'UCL is one of the world''s leading universities, founded in London to open up education to all on equal terms.'
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://www.ucl.ac.uk/'
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: 'http://twitter.com/uclnews'
+              linkedin: 'https://www.linkedin.com/company/4171'
+              acquisitions: []
+              parents: []
+              kind: funding
+              funding: 1705148
+            image_data:
+              fileName: university-college-london.svg
+              hash: UTR7w63pTY46zbQ/NGDskQsLN7YKJQlwDCPDuVN7HZo=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-04-29T15:10:05.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/alan-turing-institute'
+            homepage_url: 'https://turing.ac.uk/'
+            logo: The_Alan_Turing_Institute.svg
+            name: The Alan Turing Institute
+            crunchbase_data:
+              name: Alan Turing Institute
+              description: |+
+                The Alan Turing Institute is the national institute for data science, headquartered at the British Library.
+
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: 'https://www.turing.ac.uk/'
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: 'https://www.twitter.com/turinginst'
+              linkedin: 'https://www.linkedin.com/company/the-alan-turing-institute'
+              acquisitions: []
+              parents: []
+            image_data:
+              fileName: the-alan-turing-institute.svg
+              hash: zwv/sFz2l1Bttzwrcj0yuZPVsdu+ouVnoVGLSmBiOfo=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-04-29T11:22:41.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/fi-ware'
+            homepage_url: 'https://fiware.org/'
+            logo: FIWARE_Foundation_e._V..svg
+            name: FIWARE Foundation e. V.
+            crunchbase_data:
+              name: FIWARE
+              description: 'FIWARE seeks to provide a truly open, public and royalty-free architecture and a set of open specifications .'
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://www.fiware.org/'
+              city: Berlin
+              region: Berlin
+              country: Germany
+              twitter: 'https://twitter.com/fiware'
+              linkedin: 'https://www.linkedin.com/company/fi-ware'
+              acquisitions: []
+              parents: []
+            image_data:
+              fileName: fiware-foundation-e-v.svg
+              hash: 82vb29KXduaWIsG7zoS4K1V1P/WHrCOJ1AUWIOqllZk=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-04-29T16:06:23.000Z
 twitter_options:
-  count: 8
-  since_id: '1191119684315291649'
+  count: 0
