@@ -7,6 +7,47 @@ landscape:
         name: Academy Software Foundation
         items:
           - item:
+            name: Academy Software Foundation
+            homepage_url: 'https://aswf.io'
+            logo: academy-software-foundation.svg
+            repo_url: 'https://github.com/AcademySoftwareFoundation/foundation'
+            crunchbase: 'https://www.crunchbase.com/organization/academy-software-foundation'
+            crunchbase_data:
+              name: Academy Software Foundation
+              description: Academy Software Foundation is an open source foundation intended for developers in the motion picture and media space.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://www.aswf.io'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/AcademySwf'
+              linkedin: 'https://www.linkedin.com/company/academysoftwarefoundation/'
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              languages: []
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+              firstWeek: 2019-05-05Z
+              stars: 1
+              license: Creative Commons Attribution 4.0 International
+              description: 'Academy Software Foundation foundation level resources, such as the charter, FAQ about the project, and other public assets'
+              latest_commit_date: '2020-03-20T01:46:48Z'
+              latest_commit_link: /AcademySoftwareFoundation/foundation/commit/4c665968cd831c6df1eb3994b784a7f9e6792939
+              contributors_count: 1
+              contributors_link: 'https://github.com/AcademySoftwareFoundation/foundation/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /AcademySoftwareFoundation/foundation/commit/203422a57815b69f8adaca7a51a36b47a62a268e
+              start_date: '2019-10-07T13:42:21Z'
+            image_data:
+              fileName: academy-software-foundation.svg
+              hash: H+9FzoEChkffWFOzHGYYK5/RBXHHO6um2HlZ7lcwkHo=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-12-02T16:00:31.000Z
+          - item:
             name: OpenVDB
             homepage_url: 'https://www.openvdb.org/'
             repo_url: 'https://github.com/AcademySoftwareFoundation/openvdb'
@@ -404,6 +445,33 @@ landscape:
       - subcategory:
         name: LF Energy
         items:
+          - item:
+            name: LF Energy
+            logo: lfenergy-color.svg
+            homepage_url: 'https://www.lfenergy.org/'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-energy'
+            crunchbase_data:
+              name: LF Energy
+              description: 'Open Source will speed technological innovation and enable the energy transition, globally.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://www.lfenergy.org/'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/LFE_Foundation'
+              linkedin: 'https://www.linkedin.com/company/lf-energy'
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            image_data:
+              fileName: lf-energy.svg
+              hash: vHo19++q7JwscXWCs6IzfpkDGe+hJonDCkqR9Nvuocg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-03-16T13:02:35.000Z
           - item:
             name: OperatorFabric
             logo: operatorfabric-color.svg
@@ -4245,9 +4313,10 @@ landscape:
         items:
           - item:
             name: Appium
-            logo: appium.svg
-            homepage_url: 'http://appium.io/'
+            homepage_url: 'https://appium.io/'
             repo_url: 'https://github.com/appium/appium'
+            logo: appium.svg
+            twitter: 'https://twitter.com/AppiumDevs'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
@@ -4306,12 +4375,13 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-03-16T19:04:20.000Z
+              latest_tweet_date: 2020-04-23T03:57:03.000Z
           - item:
             name: Dojo
-            logo: dojo.svg
             homepage_url: 'https://dojo.io/'
             repo_url: 'https://github.com/dojo/framework'
+            logo: dojo.svg
+            twitter: 'https://twitter.com/dojo'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
@@ -4359,17 +4429,18 @@ landscape:
               start_date: '2015-04-21T21:29:49Z'
             image_data:
               fileName: dojo.svg
-              hash: fA6TBkpMkB5JpWXYK0JEwXdQdnv7ojwNu5g/ocbJso4=
+              hash: Ghn4TvRzgfTqUaWE4gKGDqB6b8N7AuZl+1Fum9tRugQ=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-03-16T19:04:20.000Z
+              latest_tweet_date: 2020-03-17T18:55:52.000Z
           - item:
             name: jQuery
-            logo: j-query.svg
-            homepage_url: 'http://jquery.com/'
+            homepage_url: 'https://jquery.com/'
             repo_url: 'https://github.com/jquery/jquery'
+            logo: j-query.svg
+            twitter: 'https://twitter.com/jquery'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
@@ -4415,17 +4486,18 @@ landscape:
               start_date: '2006-03-22T03:33:07Z'
             image_data:
               fileName: j-query.svg
-              hash: kGI/lhASI1eAji9NMQHj0T21bNDSiM2STJWJ17SinXg=
+              hash: T/kAr0PQxt4ElCS+x3+yLSOrCeyerBz63KmNzYqxx3E=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-03-16T19:04:20.000Z
+              latest_tweet_date: 2020-04-10T16:36:22.000Z
           - item:
             name: Node.js
-            logo: nodejs.svg
-            homepage_url: 'https://nodejs.org/'
+            homepage_url: 'https://nodejs.org/en/'
             repo_url: 'https://github.com/nodejs/node'
+            logo: node-js.svg
+            twitter: 'https://twitter.com/nodejs'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
@@ -4503,17 +4575,18 @@ landscape:
               start_date: '2009-02-16T00:02:00Z'
             image_data:
               fileName: node-js.svg
-              hash: lOcCzw05Q7YuyqD1mG8g3IKXSGLiB4RYfcWyGU/RNr8=
+              hash: dSHMxNihn/MTYXax+6j5eshQTAMg7STsiN5UUXIMLiI=
             best_practice_data:
               badge: 29
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2020-03-16T19:04:20.000Z
+              latest_tweet_date: 2020-04-30T16:53:43.000Z
           - item:
-            name: Webpack
-            logo: webpack.svg
+            name: webpack
             homepage_url: 'https://webpack.js.org/'
             repo_url: 'https://github.com/webpack/webpack'
+            logo: webpack.svg
+            twitter: 'https://twitter.com/webpack'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
@@ -4567,17 +4640,17 @@ landscape:
               start_date: '2012-03-10T12:11:23Z'
             image_data:
               fileName: webpack.svg
-              hash: aFAfbHtkkD/3JPscC3F4ej/7gnUux8xbUnSI5CCRg6E=
+              hash: 2RKTm29dBNrcc7baZsVD65c6nX6F8NgZJCvLblNo3nQ=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-03-16T19:04:20.000Z
+              latest_tweet_date: 2020-04-30T18:50:10.000Z
           - item:
             name: Architect
             homepage_url: 'https://arc.codes/'
+            repo_url: 'https://github.com/architect/functions'
             logo: architect.svg
-            repo_url: 'https://github.com/architect/architect'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
@@ -4598,25 +4671,26 @@ landscape:
             github_data:
               languages:
                 - name: JavaScript
-                  value: 15837
+                  value: 196891
                   color: '#f1e05a'
-              contributions: 0;1;46;17;35;11;2;20;27;38;2;3;11;26;4;6;4;9;2;2;9;15;13;7;7;2;5;41;14;34;30;14;8;30;12;15;10;13;26;17;15;2;30;14;25;12;34;27;10;10;12;8
-              firstWeek: 2019-03-25Z
-              stars: 906
-              license: Apache License 2.0
-              description: 'The simplest, most powerful way to build serverless applications'
-              latest_commit_date: '2020-03-13T06:24:48Z'
-              latest_commit_link: /architect/architect/commit/d709574cf576b476a54192adfe08b17e1c0348d0
-              release_date: '2019-05-15T23:13:12Z'
-              release_link: 'https://github.com/architect/architect/releases'
-              contributors_count: 30
-              contributors_link: 'https://github.com/architect/architect/graphs/contributors'
+                - name: Arc
+                  value: 176
+                  color: '#aa2afe'
+              contributions: 0;7;3;0;8;0;3;8;4;3;6;3;11;21;17;12;34;8;16;6;20;30;15;45;11;29;18;11;19;12;16;15;22;16;0;10;12;10;13;16;29;17;0;0;1;2;17;0;0;0;4;10
+              firstWeek: 2019-05-05Z
+              stars: 108
+              license: Unknown License
+              description: 'AWS Lambda Node runtime helpers for Architect apps '
+              latest_commit_date: '2020-04-27T17:22:38Z'
+              latest_commit_link: /architect/functions/commit/17537636baf605155eb621c0a18306c7be50d677
+              contributors_count: 16
+              contributors_link: 'https://github.com/architect/functions/graphs/contributors'
             github_start_commit_data:
-              start_commit_link: /architect/architect/commit/93e5b02c47e9d0038578a8d80c40959928bbf0d5
-              start_date: '2017-07-20T01:20:24Z'
+              start_commit_link: /architect/functions/commit/2eca44cf4308c15b519c0f368beac7e6ab3caf03
+              start_date: '2017-05-03T05:21:31Z'
             image_data:
               fileName: architect.svg
-              hash: 9a0fJZF4tzALnVRjiYT7d/RFi2nOq6pGRe/xabvEiXA=
+              hash: KlDkTjxEoGVHE1saH98Rxo8EC8UtDBbbSHR89a+zf9E=
             best_practice_data:
               badge: false
               percentage: null
@@ -4624,9 +4698,9 @@ landscape:
               latest_tweet_date: 2020-03-16T19:04:20.000Z
           - item:
             name: Intern
-            logo: intern.svg
-            homepage_url: 'https://theintern.github.io/'
+            homepage_url: 'https://theintern.io/'
             repo_url: 'https://github.com/theintern/intern'
+            logo: intern.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
@@ -4674,7 +4748,7 @@ landscape:
               start_date: '2012-12-13T05:45:35Z'
             image_data:
               fileName: intern.svg
-              hash: eV6dpx8eyVy8Toqqe6CJNI66lwF6IN/xiaa8es4+iLE=
+              hash: eCmM6wHH0E+h1Wjdd56WfhRlp7BZqvH7FThKFMkx0GI=
             best_practice_data:
               badge: false
               percentage: null
@@ -4682,9 +4756,9 @@ landscape:
               latest_tweet_date: 2020-03-16T19:04:20.000Z
           - item:
             name: Mocha
-            logo: mochajs.svg
-            homepage_url: 'http://mochajs.org/'
+            homepage_url: 'https://mochajs.org/'
             repo_url: 'https://github.com/mochajs/mocha'
+            logo: mocha.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
@@ -4732,7 +4806,7 @@ landscape:
               start_date: '2011-08-29T03:13:34Z'
             image_data:
               fileName: mocha.svg
-              hash: nu+WSjK08/itGXczP2JGATV8irdtcE1xczt6I12CVVc=
+              hash: +p+mGCM7bPTNkTz0iZXZY1B58IZMmG2u3akGD5xjWP4=
             best_practice_data:
               badge: false
               percentage: null
@@ -4740,9 +4814,10 @@ landscape:
               latest_tweet_date: 2020-03-16T19:04:20.000Z
           - item:
             name: Node-RED
-            logo: node-red.svg
-            homepage_url: 'http://nodered.org/'
+            homepage_url: 'https://nodered.org/'
             repo_url: 'https://github.com/node-red/node-red'
+            logo: node-red.svg
+            twitter: 'https://twitter.com/nodered'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
@@ -4787,17 +4862,18 @@ landscape:
               start_date: '2013-09-05T14:02:48Z'
             image_data:
               fileName: node-red.svg
-              hash: HMyy8Lf2hPuMPKEjBLOvvlH50pZdjFGJ0/Y0gBstnrw=
+              hash: Rgcljg4C3yVoLhxKUU6+MCMVKmT3KgOsbzVujJQnbLA=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-03-16T19:04:20.000Z
+              latest_tweet_date: 2020-04-30T13:57:06.000Z
           - item:
-            name: Webdriver IO
-            logo: webdriverio.svg
-            homepage_url: 'http://webdriver.io/'
+            name: WebdriverIO
+            homepage_url: 'https://webdriver.io/'
             repo_url: 'https://github.com/webdriverio/webdriverio'
+            logo: webdriverio.svg
+            twitter: 'https://twitter.com/webdriverio'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
@@ -4856,12 +4932,13 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-03-16T19:04:20.000Z
+              latest_tweet_date: 2020-04-30T14:40:29.000Z
           - item:
-            name: WebHint
-            logo: web-hint.svg
+            name: Webhint.io
             homepage_url: 'https://webhint.io/'
             repo_url: 'https://github.com/webhintio/hint'
+            logo: webhint-io.svg
+            twitter: 'https://twitter.com/webhintio'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
@@ -4915,18 +4992,19 @@ landscape:
               start_commit_link: /webhintio/hint/commit/d4c07e7c5a07fc1437c3888c1dd048097e1c504e
               start_date: '2017-02-16T18:15:32Z'
             image_data:
-              fileName: web-hint.svg
-              hash: HBg3D0ZG6N5FSAjHY9L+NowfLM5nacsTmwjxSK3WA78=
+              fileName: webhint-io.svg
+              hash: Ep/2OKF0hEJYJO0yy0TEq5gPWdnrRetETfsZHV2s/h4=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-03-16T19:04:20.000Z
+              latest_tweet_date: 2020-03-18T16:44:16.000Z
           - item:
             name: ESLint
-            logo: es-lint.svg
-            homepage_url: 'http://eslint.org/'
+            homepage_url: 'https://eslint.org/'
             repo_url: 'https://github.com/eslint/eslint'
+            logo: es-lint.svg
+            twitter: 'https://twitter.com/geteslint'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
@@ -4968,17 +5046,17 @@ landscape:
               start_date: '2013-06-29T23:48:34Z'
             image_data:
               fileName: es-lint.svg
-              hash: mHqIwOWtl+k2D+0mxGNFFQtejUy1iGR3QGwNg2rZq+4=
+              hash: HwwmpUaiJFZRADOPGFxPR9d8KR4Jyfc9A0X8hiFNyCY=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-03-16T19:04:20.000Z
+              latest_tweet_date: 2020-04-30T15:01:03.000Z
           - item:
             name: Esprima
-            logo: esprima.svg
-            homepage_url: 'http://esprima.org/'
+            homepage_url: 'https://esprima.org/'
             repo_url: 'https://github.com/jquery/esprima'
+            logo: esprima.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
@@ -5029,9 +5107,9 @@ landscape:
               latest_tweet_date: 2020-03-16T19:04:20.000Z
           - item:
             name: Express
-            logo: express.svg
             homepage_url: 'https://expressjs.com/'
             repo_url: 'https://github.com/expressjs/express'
+            logo: express.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
@@ -5084,9 +5162,9 @@ landscape:
               latest_tweet_date: 2020-03-16T19:04:20.000Z
           - item:
             name: Globalize
-            homepage_url: 'https://globalizejs.com/'
-            logo: globalize.svg
+            homepage_url: 'https://github.com/globalizejs/globalize'
             repo_url: 'https://github.com/globalizejs/globalize'
+            logo: globalize.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
@@ -5139,9 +5217,10 @@ landscape:
               latest_tweet_date: 2020-03-16T19:04:20.000Z
           - item:
             name: Grunt
-            logo: grunt.svg
-            homepage_url: 'http://gruntjs.com/'
+            homepage_url: 'https://gruntjs.com/'
             repo_url: 'https://github.com/gruntjs/grunt'
+            logo: grunt.svg
+            twitter: 'https://twitter.com/gruntjs'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
@@ -5178,64 +5257,17 @@ landscape:
               start_date: '2011-09-21T15:15:24Z'
             image_data:
               fileName: grunt.svg
-              hash: yPtlhFLSK+PPT4q+pKyC6AHmOdEboihCPLkXKUPFNVk=
+              hash: 8nzoDuJrasF8pCoBFNwH8PcMutCTzIXBNJ+9P/c4TDQ=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-03-16T19:04:20.000Z
+              latest_tweet_date: 2020-03-17T02:55:46.000Z
           - item:
             name: HospitalRun
+            homepage_url: 'https://hospitalrun.io/'
+            repo_url: 'https://github.com/HospitalRun/hospitalrun-frontend'
             logo: hospital-run.svg
-            homepage_url: 'http://hospitalrun.io/'
-            repo_url: 'https://github.com/HospitalRun/hospitalrun'
-            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
-            crunchbase_data:
-              name: OpenJS Foundation
-              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'https://openjsf.org'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/openjsf'
-              linkedin: 'https://www.linkedin.com/company/openjs-foundation/'
-              acquisitions:
-                - date: '2019-03-12'
-                  acquiree: JS Foundation
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-            github_data:
-              languages:
-                - name: JavaScript
-                  value: 69
-                  color: '#f1e05a'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;15;0;0;12;26;16;7;21;8;4;2;2;4;4;14;25;22;16;14;18;28;63;30;22;39;34;69;27;28;11;14;2
-              firstWeek: 2019-03-25Z
-              stars: 131
-              license: MIT License
-              description: Monorepo that holds all of HospitalRun's v2 projects.
-              latest_commit_date: '2020-03-16T09:15:19Z'
-              latest_commit_link: /HospitalRun/hospitalrun/commit/7b46cba0e6c2b0b13486cc1be9c209c82e7dcfe6
-              contributors_count: 7
-              contributors_link: 'https://github.com/HospitalRun/hospitalrun/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /HospitalRun/hospitalrun/commit/2f597956df76d82b3f79a04465c9651a1bd07528
-              start_date: '2019-08-06T21:39:35Z'
-            image_data:
-              fileName: hospital-run.svg
-              hash: GKgaUbkL5y8mDZXEMxp8mefRxY79JXZWeRzv/CyyuqU=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-03-16T19:04:20.000Z
-          - item:
-            name: Interledger.js
-            logo: interledger-js.svg
-            homepage_url: 'http://interledgerjs.org/'
-            repo_url: 'https://github.com/interledgerjs/interledgerjs'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
@@ -5256,38 +5288,101 @@ landscape:
             github_data:
               languages:
                 - name: TypeScript
-                  value: 225300
+                  value: 446122
                   color: '#2b7489'
                 - name: JavaScript
-                  value: 1127
+                  value: 2810
                   color: '#f1e05a'
-              contributions: 0;0;0;0;0;0;0;0;4;0;1;0;0;0;0;7;0;0;0;0;0;0;1;17;11;5;1;1;8;14;0;4;1;14;0;1;10;7;0;0;0;0;0;1;8;0;0;0;0;0;0;0
-              firstWeek: 2019-03-25Z
-              stars: 1
-              license: Unknown License
-              description: Interledger.JS monorepo
-              latest_commit_date: '2020-01-21T17:19:17Z'
-              latest_commit_link: /interledgerjs/interledgerjs/commit/890e53ddf922ede0aa2a89dff8fae50fcf42831f
-              release_date: '2020-01-21T17:19:24Z'
-              release_link: 'https://github.com/interledgerjs/interledgerjs/releases'
-              contributors_count: 17
-              contributors_link: 'https://github.com/interledgerjs/interledgerjs/graphs/contributors'
+                - name: CSS
+                  value: 1792
+                  color: '#563d7c'
+                - name: HTML
+                  value: 1688
+                  color: '#e34c26'
+                - name: Dockerfile
+                  value: 334
+                  color: '#384d54'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;32;2;1;3;0;20;2;0;5;0;30;9;6;7;2;48;16;51;12;29;23;23;57;87;53;82;57;132;149;56;47;65;93;50;23;50;33;46;57
+              firstWeek: 2019-05-05Z
+              stars: 5197
+              license: MIT License
+              description: Frontend for HospitalRun
+              latest_commit_date: '2020-04-29T21:05:12Z'
+              latest_commit_link: /HospitalRun/hospitalrun-frontend/commit/2fe9c73cb0a550ea899babf9f3e0c92640cdf3d0
+              release_date: '2017-05-18T05:03:21Z'
+              release_link: 'https://github.com/HospitalRun/hospitalrun-frontend/releases'
+              contributors_count: 168
+              contributors_link: 'https://github.com/HospitalRun/hospitalrun-frontend/graphs/contributors'
             github_start_commit_data:
-              start_commit_link: /interledgerjs/interledgerjs/commit/8bde8e88c72ecf613f72abad996a8440e7e3b181
-              start_date: '2019-07-11T09:15:05Z'
+              start_commit_link: /HospitalRun/hospitalrun-frontend/commit/685bdf7474bd38049de4d43ccf9c074f41ab633f
+              start_date: '2014-03-28T20:04:59Z'
             image_data:
-              fileName: interledger-js.svg
-              hash: m67TsjMsXi0UwY8bHZmA4r8ScpxYzoZrqTKxpeBwCxI=
+              fileName: hospital-run.svg
+              hash: GKgaUbkL5y8mDZXEMxp8mefRxY79JXZWeRzv/CyyuqU=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-03-16T19:04:20.000Z
           - item:
-            name: JerryScript
-            logo: jerry-script.svg
-            homepage_url: 'http://jerryscript.net/'
+            name: Interledger
+            homepage_url: 'https://interledger.org/'
+            repo_url: 'https://github.com/interledger/rfcs'
+            logo: interledger.svg
+            twitter: 'https://twitter.com/interledger'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://openjsf.org'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/openjsf'
+              linkedin: 'https://www.linkedin.com/company/openjs-foundation/'
+              acquisitions:
+                - date: '2019-03-12'
+                  acquiree: JS Foundation
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              languages:
+                - name: HTML
+                  value: 10059
+                  color: '#e34c26'
+                - name: JavaScript
+                  value: 6990
+                  color: '#f1e05a'
+                - name: Shell
+                  value: 4198
+                  color: '#89e051'
+              contributions: 7;8;0;0;3;0;0;1;0;1;5;0;0;12;13;3;1;0;3;0;3;1;9;3;12;0;0;3;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0
+              firstWeek: 2019-05-05Z
+              stars: 319
+              license: Other
+              description: Specifications for Interledger and related protocols
+              latest_commit_date: '2020-04-22T20:55:31Z'
+              latest_commit_link: /interledger/rfcs/commit/17011c4bddc5af5544f5e0d59f454bd3e4933cb7
+              contributors_count: 34
+              contributors_link: 'https://github.com/interledger/rfcs/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /interledger/rfcs/commit/4a3bb825d14a757dc946605d5840beea5ae4fe84
+              start_date: '2015-08-31T23:16:03Z'
+            image_data:
+              fileName: interledger.svg
+              hash: JeI4ax07yktiJ1NOchvOtSU40XahN0s3EWpfU53+b5k=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-12-11T21:49:10.000Z
+          - item:
+            name: Jerryscript
+            homepage_url: 'https://jerryscript.net/'
             repo_url: 'https://github.com/jerryscript-project/jerryscript'
+            logo: jerryscript.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
@@ -5353,8 +5448,8 @@ landscape:
               start_commit_link: /jerryscript-project/jerryscript/commit/1bf48a4c5114732d7eb68250db0fcb15276525c9
               start_date: '2014-07-01T11:51:35Z'
             image_data:
-              fileName: jerry-script.svg
-              hash: XEFuJEHqCzy1Sp6hZ6JVPxot60S7HAeL9q3YhwEiX98=
+              fileName: jerryscript.svg
+              hash: RUVZdNibjonyPw3f1dmUqPYhxhHkn+0Dm8TRM0fixgc=
             best_practice_data:
               badge: false
               percentage: null
@@ -5363,8 +5458,8 @@ landscape:
           - item:
             name: libuv
             homepage_url: 'https://libuv.org/'
-            logo: libuv.svg
             repo_url: 'https://github.com/libuv/libuv'
+            logo: libuv.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
@@ -5420,7 +5515,7 @@ landscape:
               start_date: '2011-03-23T08:39:59Z'
             image_data:
               fileName: libuv.svg
-              hash: uD+Mpmcmrd7LubK/6E+wVw5qZtwHp1gMaAW4CA00xts=
+              hash: gT6Y4InuvHZXAn2wAtAEFVez22eRd0s3vp1og9WSjOI=
             best_practice_data:
               badge: false
               percentage: null
@@ -5428,9 +5523,9 @@ landscape:
               latest_tweet_date: 2020-03-16T19:04:20.000Z
           - item:
             name: Lodash
-            logo: lodash.svg
             homepage_url: 'https://lodash.com/'
             repo_url: 'https://github.com/lodash/lodash'
+            logo: lodash.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
@@ -5469,7 +5564,7 @@ landscape:
               start_date: '2009-10-25T18:36:12Z'
             image_data:
               fileName: lodash.svg
-              hash: KznOuz+js1HwX27+YsVRroIDucvLXE1x4ruh+Eia8cc=
+              hash: jQxhZpEGaXo/zd7vWRROOQrHXpsnx2SC8nXSM+OG3ws=
             best_practice_data:
               badge: false
               percentage: null
@@ -5477,9 +5572,9 @@ landscape:
               latest_tweet_date: 2020-03-16T19:04:20.000Z
           - item:
             name: Marko
-            logo: marko.svg
-            homepage_url: 'http://markojs.com/'
+            homepage_url: 'https://markojs.com/'
             repo_url: 'https://github.com/marko-js/marko'
+            logo: marko.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
@@ -5525,17 +5620,17 @@ landscape:
               start_date: '2014-01-07T23:59:30Z'
             image_data:
               fileName: marko.svg
-              hash: DfGGKyIkIMQB4EPpFEJVFWDi5QeOvNrFcBrktV1SQBk=
+              hash: 2JVC1bRhU5ziODxz6yV3i/SPb7NiB/LFeh+NT+r715A=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-03-16T19:04:20.000Z
           - item:
-            name: messageformat
-            logo: messageformat.svg
+            name: Messageformat
             homepage_url: 'https://messageformat.github.io/messageformat/'
             repo_url: 'https://github.com/messageformat/messageformat'
+            logo: messageformat.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
@@ -5580,17 +5675,17 @@ landscape:
               start_date: '2012-01-25T12:56:55Z'
             image_data:
               fileName: messageformat.svg
-              hash: wvsnmQQYqZAwFWOmGmy+t6opSin/Q3851U4Esu9cwTE=
+              hash: 6ycjQL3cDqzmsp8X1xQEcegxtwIs+HFEqnTHN4W59uI=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-03-16T19:04:20.000Z
           - item:
-            name: Moment
-            logo: moment.svg
-            homepage_url: 'http://momentjs.com/'
+            name: Moment.js
+            homepage_url: 'https://momentjs.com/'
             repo_url: 'https://github.com/moment/moment'
+            logo: moment-js.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
@@ -5632,18 +5727,18 @@ landscape:
               start_commit_link: /moment/moment/commit/52e2408c33bcedf9907f987b7b95aa7efbfeb7bc
               start_date: '2011-03-01T02:53:16Z'
             image_data:
-              fileName: moment.svg
-              hash: wWVMDauwA7K8ejP/NRIEBTpGCUErGyE5ibsQapPL8jE=
+              fileName: moment-js.svg
+              hash: um2Go3aWklSJrEG6J2hEPK3NuuwSO40uNL4gmV1vYmw=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-03-16T19:04:20.000Z
           - item:
-            name: PointerEvents Polyfill (PEP)
-            logo: pointer-events-polyfill-pep.svg
+            name: PEP
             homepage_url: 'https://github.com/jquery/pep'
             repo_url: 'https://github.com/jquery/pep'
+            logo: pep.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
@@ -5684,8 +5779,8 @@ landscape:
               start_commit_link: /jquery/PEP/commit/fede3e7b0078d53d6ed2cb4f236b6179d4b1956c
               start_date: '2012-08-23T22:58:12Z'
             image_data:
-              fileName: pointer-events-polyfill-pep.svg
-              hash: 1/GtqJwSC5SD2NuTza1VthdFvtx3fCKtL4Dubl31lqM=
+              fileName: pep.svg
+              hash: YZKkNXoUu6x25UWJ9hX+okalpH+kherDnv1MFNv0sI4=
             best_practice_data:
               badge: false
               percentage: null
@@ -5693,10 +5788,10 @@ landscape:
               latest_tweet_date: 2020-03-16T19:04:20.000Z
           - item:
             name: QUnit
-            logo: q-unit.svg
-            homepage_url: 'http://qunitjs.com/'
-            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            homepage_url: 'https://qunitjs.com/'
             repo_url: 'https://github.com/qunitjs/qunit'
+            logo: q-unit.svg
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
               description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
@@ -5748,10 +5843,11 @@ landscape:
               latest_tweet_date: 2020-03-16T19:04:20.000Z
           - item:
             name: AMP
-            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
-            repo_url: 'https://github.com/ampproject/amphtml'
             homepage_url: 'https://amp.dev/'
+            repo_url: 'https://github.com/ampproject/amphtml'
             logo: amp.svg
+            twitter: 'https://twitter.com/AMPhtml'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
               description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
@@ -5821,68 +5917,14 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-03-16T19:04:20.000Z
-          - item:
-            name: Fastify
-            repo_url: 'https://github.com/fastify/fastify'
-            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
-            homepage_url: 'https://www.fastify.io/'
-            logo: fastify.svg
-            crunchbase_data:
-              name: OpenJS Foundation
-              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'https://openjsf.org'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/openjsf'
-              linkedin: 'https://www.linkedin.com/company/openjs-foundation/'
-              acquisitions:
-                - date: '2019-03-12'
-                  acquiree: JS Foundation
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-            github_data:
-              languages:
-                - name: JavaScript
-                  value: 720392
-                  color: '#f1e05a'
-                - name: TypeScript
-                  value: 20489
-                  color: '#2b7489'
-                - name: Shell
-                  value: 283
-                  color: '#89e051'
-              contributions: 4;5;8;7;5;6;5;6;12;4;2;4;5;2;6;2;4;8;5;7;3;5;3;8;2;5;8;10;3;4;4;6;2;3;3;4;4;7;4;6;7;3;5;1;3;7;4;6;3;5;6;4
-              firstWeek: 2019-03-25Z
-              stars: 13832
-              license: Other
-              description: 'Fast and low overhead web framework, for Node.js'
-              latest_commit_date: '2020-03-16T18:10:54Z'
-              latest_commit_link: /fastify/fastify/commit/a6db28188a8ea4fcc66cbbd4caee2ef126687525
-              release_date: '2020-02-28T18:23:32Z'
-              release_link: 'https://github.com/fastify/fastify/releases'
-              contributors_count: 221
-              contributors_link: 'https://github.com/fastify/fastify/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /fastify/fastify/commit/050ede23986f7d2885fbfe47cacab9ecc3e8d9b1
-              start_date: '2016-09-28T19:10:15Z'
-            image_data:
-              fileName: fastify.svg
-              hash: 66x0Lds3AoutejKkUrEhgyqjPDu5yynV8sQMbHfZkZs=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-03-16T19:04:20.000Z
+              latest_tweet_date: 2020-04-27T20:21:46.000Z
           - item:
             name: Electron
+            homepage_url: 'https://www.electronjs.org/'
             repo_url: 'https://github.com/electron/electron'
-            homepage_url: 'https://electronjs.org/'
-            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             logo: electron.svg
+            twitter: 'https://twitter.com/electronjs'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
               description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
@@ -5962,13 +6004,69 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-03-16T19:04:20.000Z
+              latest_tweet_date: 2020-04-28T22:20:13.000Z
+          - item:
+            name: Fastify
+            homepage_url: 'https://www.fastify.io/'
+            repo_url: 'https://github.com/fastify/fastify'
+            logo: fastify.svg
+            twitter: 'https://twitter.com/fastifyjs'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            crunchbase_data:
+              name: OpenJS Foundation
+              description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://openjsf.org'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/openjsf'
+              linkedin: 'https://www.linkedin.com/company/openjs-foundation/'
+              acquisitions:
+                - date: '2019-03-12'
+                  acquiree: JS Foundation
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              languages:
+                - name: JavaScript
+                  value: 720392
+                  color: '#f1e05a'
+                - name: TypeScript
+                  value: 20489
+                  color: '#2b7489'
+                - name: Shell
+                  value: 283
+                  color: '#89e051'
+              contributions: 4;5;8;7;5;6;5;6;12;4;2;4;5;2;6;2;4;8;5;7;3;5;3;8;2;5;8;10;3;4;4;6;2;3;3;4;4;7;4;6;7;3;5;1;3;7;4;6;3;5;6;4
+              firstWeek: 2019-03-25Z
+              stars: 13832
+              license: Other
+              description: 'Fast and low overhead web framework, for Node.js'
+              latest_commit_date: '2020-03-16T18:10:54Z'
+              latest_commit_link: /fastify/fastify/commit/a6db28188a8ea4fcc66cbbd4caee2ef126687525
+              release_date: '2020-02-28T18:23:32Z'
+              release_link: 'https://github.com/fastify/fastify/releases'
+              contributors_count: 221
+              contributors_link: 'https://github.com/fastify/fastify/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /fastify/fastify/commit/050ede23986f7d2885fbfe47cacab9ecc3e8d9b1
+              start_date: '2016-09-28T19:10:15Z'
+            image_data:
+              fileName: fastify.svg
+              hash: 66x0Lds3AoutejKkUrEhgyqjPDu5yynV8sQMbHfZkZs=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-04-28T14:12:52.000Z
           - item:
             name: nvm
+            homepage_url: 'https://github.com/nvm-sh/nvm'
             repo_url: 'https://github.com/nvm-sh/nvm'
-            homepage_url: 'http://nvm.sh/'
-            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             logo: nvm.svg
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             crunchbase_data:
               name: OpenJS Foundation
               description: OpenJS Foundation specializes in the development of open-source infrastructure projects.
@@ -6015,7 +6113,7 @@ landscape:
               start_date: '2010-04-15T16:13:33Z'
             image_data:
               fileName: nvm.svg
-              hash: P/bYnkT4KIv7IDX1wHVhZMSuf6UYPKUBnNHC+fcUxuc=
+              hash: QxK/gxYzGK1CijrUUCLuAfYqbgjh/q45M4fpiKphntk=
             best_practice_data:
               badge: false
               percentage: null
@@ -6641,7 +6739,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-03-16T18:55:51.000Z
   - category:
-    name: 'Data, Anayltics, and AI'
+    name: 'Data, Analytics, and AI'
     subcategories:
       - subcategory:
         name: HyperLedger
@@ -7634,6 +7732,48 @@ landscape:
         name: ODPi
         items:
           - item:
+            name: ODPi
+            homepage_url: 'https://www.odpi.org/'
+            repo_url: 'https://github.com/odpi/tsc'
+            logo: od-pi.svg
+            crunchbase: 'https://www.crunchbase.com/organization/odpi'
+            crunchbase_data:
+              name: ODPi
+              description: ODPi is an open source effort to promote and advance the state of Apache Hadoop and BigData technologies for the enterprise.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.odpi.org'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/ODPiOrg'
+              linkedin: 'https://www.linkedin.com/company/18133928/'
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              languages: []
+              contributions: 5;0;2;0;8;0;3;0;3;0;0;0;0;4;0;0;0;4;0;0;0;6;0;0;0;0;3;0;0;4;3;0;0;0;0;3;0;0;0;0;0;5;0;0;3;0;0;0;6;1;0;0
+              firstWeek: 2019-05-05Z
+              stars: 4
+              license: Creative Commons Attribution 4.0 International
+              description: 'ODPi TSC Materials, Guidelines, and Meeting notes'
+              latest_commit_date: '2020-04-09T03:06:45Z'
+              latest_commit_link: /odpi/tsc/commit/fb3d2ba0994c5204f54a8ed85f4b44890c2a6962
+              contributors_count: 4
+              contributors_link: 'https://github.com/odpi/tsc/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /odpi/tsc/commit/4d6848c0c9020ca5f60694213112911d5567a088
+              start_date: '2018-08-02T20:53:21Z'
+            image_data:
+              fileName: od-pi.svg
+              hash: 0gdNR5HfK29KcGsWw7RsMcj63LdWsteF/EropFyTKjg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-03-16T18:20:59.000Z
+          - item:
             name: ODPi Egeria
             homepage_url: 'https://egeria.odpi.org/'
             repo_url: 'https://github.com/odpi/egeria'
@@ -7805,10 +7945,10 @@ landscape:
         name: LF AI
         items:
           - item:
-            name: Acumos AI
-            logo: acumos-ai.svg
-            homepage_url: 'http://www.acumos.org/'
-            repo_url: 'https://github.com/acumos/portal-marketplace'
+            name: Acumos
+            homepage_url: 'https://www.acumos.org/'
+            repo_url: 'https://github.com/acumos/documentation'
+            logo: acumos.svg
             crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
             crunchbase_data:
               name: LF Artificial Intelligence Foundation
@@ -7826,46 +7966,36 @@ landscape:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
               languages:
-                - name: JavaScript
-                  value: 5093615
-                  color: '#f1e05a'
-                - name: Java
-                  value: 2139126
-                  color: '#b07219'
-                - name: HTML
-                  value: 1052254
-                  color: '#e34c26'
-                - name: CSS
-                  value: 492753
-                  color: '#563d7c'
-                - name: FreeMarker
-                  value: 7889
-                  color: '#0050b2'
-              contributions: 9;15;6;6;14;23;25;26;28;44;39;24;21;19;9;3;30;12;33;24;13;7;18;21;21;13;18;24;33;20;28;43;18;11;15;4;8;10;8;13;10;7;4;4;11;14;10;14;17;10;15;15
-              firstWeek: 2019-03-25Z
-              stars: 5
+                - name: Shell
+                  value: 4539
+                  color: '#89e051'
+              contributions: >-
+                34;51;38;48;54;38;31;14;5;22;15;16;32;16;21;30;32;44;47;35;43;89;43;55;77;44;52;34;11;21;24;33;33;27;9;26;10;24;34;37;16;21;35;16;14;38;14;16;53;15;39;43
+              firstWeek: 2019-05-05Z
+              stars: 10
               license: Other
               description: null
-              latest_commit_date: '2020-03-13T10:44:10Z'
-              latest_commit_link: /acumos/portal-marketplace/commit/4dd5d52039eb4a7d0f9b0d858aada8c6a637f424
-              contributors_count: 9
-              contributors_link: 'https://github.com/acumos/portal-marketplace/graphs/contributors'
+              latest_commit_date: '2020-04-30T18:37:06Z'
+              latest_commit_link: /acumos/documentation/commit/0f533c2b77f94fc192809c634ace8fe7f30283b7
+              contributors_count: 32
+              contributors_link: 'https://github.com/acumos/documentation/graphs/contributors'
             github_start_commit_data:
-              start_commit_link: /acumos/portal-marketplace/commit/306442fc38f744e4a0c3ed1f3d2f05c143432aa5
-              start_date: '2017-11-17T19:01:27Z'
+              start_commit_link: /acumos/documentation/commit/4d11f8b24abe50d56a496cdd901678ac0e5f001d
+              start_date: '2017-11-17T19:01:21Z'
             image_data:
-              fileName: acumos-ai.svg
-              hash: GZNBxSs+OLkFYfCHt4QbbWbueBP+SY2tCamYQ6YwnWM=
+              fileName: acumos.svg
+              hash: ITEo0nmc1+EpNST+cQyuglEcnyeaynKim547JonPklM=
             best_practice_data:
-              badge: 2151
-              percentage: 17
+              badge: false
+              percentage: null
             twitter_data:
               latest_tweet_date: 2020-03-16T16:01:03.000Z
           - item:
             name: Adlik
-            logo: adlik.svg
+            homepage_url: 'https://github.com/Adlik/Adlik'
             repo_url: 'https://github.com/Adlik/Adlik'
-            homepage_url: 'https://adlik.ai/'
+            logo: adlik.svg
+            twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
             crunchbase_data:
               name: LF Artificial Intelligence Foundation
@@ -7914,17 +8044,16 @@ landscape:
               start_date: '2019-09-25T06:25:14Z'
             image_data:
               fileName: adlik.svg
-              hash: DMQ/eUX0yrre3L92sQw+69drKV/kE9fEwpKh4RoSlXI=
+              hash: D8LfXQCoHCCA2Dxfd1hsBc+kjxMcOPRIuzzpJpyAInY=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-03-16T16:01:03.000Z
           - item:
             name: Angel-ML
-            logo: angel-ml.svg
             homepage_url: 'https://github.com/Angel-ML/angel'
             repo_url: 'https://github.com/Angel-ML/angel'
+            logo: angel-ml.svg
+            twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
             crunchbase_data:
               name: LF Artificial Intelligence Foundation
@@ -7982,17 +8111,16 @@ landscape:
               start_date: '2017-05-03T13:18:47Z'
             image_data:
               fileName: angel-ml.svg
-              hash: cUjc8dvcj42xDcpoNaA/y1XmkEizsq2O/Vby/ASJ4lM=
+              hash: yCkjrLm8aRf1aJ+X0Bp7q/8Hw3zOIt91Oy7Dbv2Hheo=
             best_practice_data:
               badge: 3058
               percentage: 71
-            twitter_data:
-              latest_tweet_date: 2020-03-16T16:01:03.000Z
           - item:
-            name: Elastic Deep Learning
-            logo: elastic-deep-learning.svg
-            homepage_url: 'http://www.paddlepaddle.org/'
+            name: Elastic Deep Learning (EDL)
+            homepage_url: 'http://www.paddlepaddle.org.cn/'
             repo_url: 'https://github.com/PaddlePaddle/edl'
+            logo: elastic-deep-learning-edl.svg
+            twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
             crunchbase_data:
               name: LF Artificial Intelligence Foundation
@@ -8037,18 +8165,68 @@ landscape:
               start_commit_link: /PaddlePaddle/edl/commit/7cb875ea0434864dd9b08d6588c0ac9c1658f851
               start_date: '2017-04-26T13:35:43Z'
             image_data:
-              fileName: elastic-deep-learning.svg
-              hash: ZJNcwCBzeUsWideADYEVcw0VYUdZcvIzlaJso47QAXs=
+              fileName: elastic-deep-learning-edl.svg
+              hash: opJMH/0fYK8LG0GpmBiocvvM6sVF0xsBzj1JnwVYPks=
             best_practice_data:
               badge: 3163
               percentage: 70
+          - item:
+            name: ForestFlow
+            homepage_url: 'https://forestflow.ai'
+            repo_url: 'https://github.com/ForestFlow/ForestFlow'
+            logo: forest-flow.svg
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+            crunchbase_data:
+              name: LF Artificial Intelligence Foundation
+              description: 'LF AI supports open source innovation in artificial intelligence, machine learning, and deep learning.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://lfai.foundation/'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/LFAI_Foundation'
+              linkedin: null
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              languages:
+                - name: Scala
+                  value: 210185
+                  color: '#c22d40'
+                - name: Java
+                  value: 25289
+                  color: '#b07219'
+                - name: Shell
+                  value: 6021
+                  color: '#89e051'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;0;5;3;0;0;0;0;0;0;0;0;0;0;0;8;13;0;0;0;0;0;4;0;7;0;8;6
+              firstWeek: 2019-05-05Z
+              stars: 12
+              license: Apache License 2.0
+              description: ForestFlow is a policy-driven Machine Learning Model Server. It is an LF AI Foundation incubation project.
+              latest_commit_date: '2020-04-23T00:46:07Z'
+              latest_commit_link: /ForestFlow/ForestFlow/commit/d9f0fa28dee5d2454e8ec61a09b84e2235c0e29d
+              contributors_count: 3
+              contributors_link: 'https://github.com/ForestFlow/ForestFlow/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /ForestFlow/ForestFlow/commit/357e4c41a9c09c4069d36ec4692e4463c2f1a5d0
+              start_date: '2019-10-09T19:03:59Z'
+            image_data:
+              fileName: forest-flow.svg
+              hash: aXaQjtLtdk00MPfJAX/fCzSXz4k3PODgQJyfM6CCIEA=
+            best_practice_data:
+              badge: false
+              percentage: null
             twitter_data:
               latest_tweet_date: 2020-03-16T16:01:03.000Z
           - item:
             name: Horovod
-            logo: horovod.svg
             homepage_url: 'https://eng.uber.com/horovod/'
             repo_url: 'https://github.com/horovod/horovod'
+            logo: horovod.svg
+            twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
             crunchbase_data:
               name: LF Artificial Intelligence Foundation
@@ -8091,18 +8269,154 @@ landscape:
               start_date: '2017-08-09T19:39:59Z'
             image_data:
               fileName: horovod.svg
-              hash: MJ+WWvpziAowhRseiZu6qf0Yp0+SiKbAwHRXAcwcH8Y=
+              hash: hksQjjds9J4ckmLT+msv23QBh2LnG1O4MGBNl6P5mOA=
             best_practice_data:
               badge: 3318
               percentage: 12
+          - item:
+            name: Milvus
+            homepage_url: 'https://milvus.io'
+            repo_url: 'https://github.com/milvus-io/milvus'
+            logo: milvus.svg
+            twitter: 'https://twitter.com/milvusio'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+            crunchbase_data:
+              name: LF Artificial Intelligence Foundation
+              description: 'LF AI supports open source innovation in artificial intelligence, machine learning, and deep learning.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://lfai.foundation/'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/LFAI_Foundation'
+              linkedin: null
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              languages:
+                - name: C++
+                  value: 3043971
+                  color: '#f34b7d'
+                - name: Python
+                  value: 834980
+                  color: '#3572A5'
+                - name: CMake
+                  value: 218697
+                - name: Java
+                  value: 110311
+                  color: '#b07219'
+                - name: Shell
+                  value: 48128
+                  color: '#89e051'
+                - name: Groovy
+                  value: 29707
+                  color: '#e69f56'
+                - name: Dockerfile
+                  value: 23625
+                  color: '#384d54'
+                - name: Makefile
+                  value: 1609
+                  color: '#427819'
+              contributions: >-
+                51;65;18;150;57;67;90;72;229;160;127;101;50;111;117;66;122;109;229;143;152;137;65;315;229;141;177;145;192;196;193;22;65;42;14;20;26;13;0;1;8;14;41;27;172;41;22;41;20;17;54;89
+              firstWeek: 2019-05-05Z
+              stars: 3200
+              license: Apache License 2.0
+              description: An open source vector similarity search engine
+              latest_commit_date: '2020-04-30T15:49:25Z'
+              latest_commit_link: /milvus-io/milvus/commit/adccd3dbf0c017637417aa4835b8cad03cd215e6
+              release_date: '2020-04-15T09:48:34Z'
+              release_link: 'https://github.com/milvus-io/milvus/releases'
+              contributors_count: 100
+              contributors_link: 'https://github.com/milvus-io/milvus/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /milvus-io/milvus/commit/a3050c645d343baa51681503e2fd5f37a8dbb078
+              start_date: '2019-03-18T11:33:09Z'
+            image_data:
+              fileName: milvus.svg
+              hash: +k7BU1qVmqrAU3NIudE2cAIALMh5SNFUEyLewIqD1Wc=
+            best_practice_data:
+              badge: 3563
+              percentage: 100
             twitter_data:
-              latest_tweet_date: 2020-03-16T16:01:03.000Z
+              latest_tweet_date: 2020-04-28T02:13:30.000Z
+          - item:
+            name: NNStreamer
+            homepage_url: 'https://github.com/nnsuite/nnstreamer'
+            repo_url: 'https://github.com/nnsuite/nnstreamer'
+            logo: nn-streamer.svg
+            twitter: 'https://twitter.com/NnStreamer'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+            crunchbase_data:
+              name: LF Artificial Intelligence Foundation
+              description: 'LF AI supports open source innovation in artificial intelligence, machine learning, and deep learning.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://lfai.foundation/'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/LFAI_Foundation'
+              linkedin: null
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              languages:
+                - name: C
+                  value: 1238917
+                  color: '#555555'
+                - name: C++
+                  value: 919579
+                  color: '#f34b7d'
+                - name: Shell
+                  value: 196311
+                  color: '#89e051'
+                - name: Java
+                  value: 159420
+                  color: '#b07219'
+                - name: Python
+                  value: 78292
+                  color: '#3572A5'
+                - name: Meson
+                  value: 60933
+                  color: '#007800'
+                - name: Makefile
+                  value: 34059
+                  color: '#427819'
+                - name: Csound
+                  value: 8403
+              contributions: 11;15;4;11;13;6;17;4;5;8;6;12;15;25;17;0;10;19;19;10;21;12;12;21;31;22;6;25;13;7;9;14;28;12;10;22;32;16;19;14;30;10;8;5;11;24;23;22;31;11;24;20
+              firstWeek: 2019-05-05Z
+              stars: 207
+              license: GNU Lesser General Public License v2.1
+              description: ':twisted_rightwards_arrows: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.'
+              latest_commit_date: '2020-04-29T08:33:00Z'
+              latest_commit_link: /nnstreamer/nnstreamer/commit/91ff36a2a05c63aac956ebd1d774a182e129deee
+              release_date: '2020-04-22T04:06:21Z'
+              release_link: 'https://github.com/nnsuite/nnstreamer/releases'
+              contributors_count: 26
+              contributors_link: 'https://github.com/nnsuite/nnstreamer/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /nnstreamer/nnstreamer/commit/3a77ff2da95ac6586d81d2bf3de2c4e9e9e6ada9
+              start_date: '2018-03-22T02:02:26Z'
+            image_data:
+              fileName: nn-streamer.svg
+              hash: nUZp8VTDDqhl4gvIR3egmPPwRKvodQnzuzoOzZ3k17A=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-04-30T13:56:57.000Z
           - item:
             name: ONNX
-            logo: onnx.svg
             homepage_url: 'https://onnx.ai/'
-            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
             repo_url: 'https://github.com/onnx/onnx'
+            logo: onnx.svg
+            twitter: 'https://twitter.com/onnxai'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
             crunchbase_data:
               name: LF Artificial Intelligence Foundation
               description: 'LF AI supports open source innovation in artificial intelligence, machine learning, and deep learning.'
@@ -8158,18 +8472,19 @@ landscape:
               start_date: '2017-09-07T04:47:53Z'
             image_data:
               fileName: onnx.svg
-              hash: zYpe1I6CwGYnMjrDmhcyYfsAu/R01fx55ErK7H+lDXY=
+              hash: 2mtahU5FvOU2cApT3BHgp1SZzQyY+yYhKJQ/NirtAgY=
             best_practice_data:
               badge: 3313
               percentage: 89
             twitter_data:
-              latest_tweet_date: 2020-03-16T16:01:03.000Z
+              latest_tweet_date: 2020-04-13T16:16:00.000Z
           - item:
             name: Pyro
-            repo_url: 'https://github.com/uber/pyro'
-            homepage_url: 'https://pyro.ai/'
-            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+            homepage_url: 'http://pyro.ai/'
+            repo_url: 'https://github.com/pyro-ppl/pyro'
             logo: pyro.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
             crunchbase_data:
               name: LF Artificial Intelligence Foundation
               description: 'LF AI supports open source innovation in artificial intelligence, machine learning, and deep learning.'
@@ -8187,10 +8502,10 @@ landscape:
             github_data:
               languages:
                 - name: Python
-                  value: 2688164
+                  value: 2828883
                   color: '#3572A5'
                 - name: Makefile
-                  value: 6657
+                  value: 6747
                   color: '#427819'
                 - name: Shell
                   value: 6465
@@ -8207,28 +8522,90 @@ landscape:
                 - name: CSS
                   value: 478
                   color: '#563d7c'
-              contributions: 4;6;9;2;11;3;6;11;4;14;3;8;1;4;7;7;11;10;7;6;15;4;3;1;4;2;2;7;3;6;2;16;12;13;30;5;6;19;1;8;2;7;4;12;8;8;4;4;7;10;22;12
-              firstWeek: 2019-03-25Z
-              stars: 6072
+              contributions: 12;7;5;11;2;8;3;3;10;7;11;9;5;8;14;3;2;2;3;4;2;5;5;4;10;12;13;16;22;5;13;12;1;8;2;7;7;13;8;6;2;7;9;10;21;9;4;9;6;6;17;12
+              firstWeek: 2019-05-05Z
+              stars: 6158
               license: Apache License 2.0
               description: Deep universal probabilistic programming with Python and PyTorch
-              latest_commit_date: '2020-03-16T19:50:55Z'
-              latest_commit_link: /pyro-ppl/pyro/commit/79e3a493480aeb8c8c34156de68c3718a4091202
-              release_date: '2020-03-08T01:40:44Z'
-              release_link: 'https://github.com/uber/pyro/releases'
-              contributors_count: 81
-              contributors_link: 'https://github.com/uber/pyro/graphs/contributors'
+              latest_commit_date: '2020-04-29T01:18:39Z'
+              latest_commit_link: /pyro-ppl/pyro/commit/dcba941f25d5e9a60587c432b584e96b5ee58a7f
+              release_date: '2020-04-07T02:08:42Z'
+              release_link: 'https://github.com/pyro-ppl/pyro/releases'
+              contributors_count: 84
+              contributors_link: 'https://github.com/pyro-ppl/pyro/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /pyro-ppl/pyro/commit/058fdd38bb0692ad2c8b220dd721c277af755901
               start_date: '2017-06-16T05:03:47Z'
             image_data:
               fileName: pyro.svg
-              hash: KyCTPbRMpfmnOQiI3om3GRKjX7013HZh+iE7r3xa8D4=
+              hash: RlN58826bZoiddRb+0/70zOst4PvP3A5+AP0in4iIFQ=
+            best_practice_data:
+              badge: 3056
+              percentage: 100
+          - item:
+            name: sparklyr
+            homepage_url: 'https://sparklyr.ai'
+            repo_url: 'https://github.com/sparklyr/sparklyr'
+            logo: sparklyr.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+            crunchbase_data:
+              name: LF Artificial Intelligence Foundation
+              description: 'LF AI supports open source innovation in artificial intelligence, machine learning, and deep learning.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://lfai.foundation/'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/LFAI_Foundation'
+              linkedin: null
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              languages:
+                - name: R
+                  value: 1289608
+                  color: '#198CE7'
+                - name: Scala
+                  value: 188880
+                  color: '#c22d40'
+                - name: JavaScript
+                  value: 10175
+                  color: '#f1e05a'
+                - name: Shell
+                  value: 4054
+                  color: '#89e051'
+                - name: HTML
+                  value: 2455
+                  color: '#e34c26'
+                - name: Dockerfile
+                  value: 1657
+                  color: '#384d54'
+                - name: CSS
+                  value: 1471
+                  color: '#563d7c'
+              contributions: 11;3;6;4;12;19;10;5;51;0;2;1;13;6;0;0;4;2;0;10;16;0;3;4;37;5;1;3;42;8;5;28;9;3;0;33;20;1;0;23;7;0;8;26;22;17;25;33;13;23;11;12
+              firstWeek: 2019-05-05Z
+              stars: 733
+              license: Apache License 2.0
+              description: R interface for Apache Spark
+              latest_commit_date: '2020-04-30T17:40:16Z'
+              latest_commit_link: /sparklyr/sparklyr/commit/055905195e372dcdc42a2dc338603259ac4ba98b
+              release_date: '2019-11-14T16:37:52Z'
+              release_link: 'https://github.com/sparklyr/sparklyr/releases'
+              contributors_count: 57
+              contributors_link: 'https://github.com/sparklyr/sparklyr/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /sparklyr/sparklyr/commit/fdef2daffcff7596c626b671b97beaa014c9b302
+              start_date: '2016-04-06T18:14:51Z'
+            image_data:
+              fileName: sparklyr.svg
+              hash: Tmwo/PqEwe7O214HR3N8k4jlXpPT+d5h/bt4yasQU7A=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-03-16T16:01:03.000Z
       - subcategory:
         name: Other
         items:
@@ -9292,7 +9669,7 @@ landscape:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             image_data:
               fileName: lf-edge.svg
-              hash: PXjmgBtY1wxnzgKejhofDXBVByzPFuD2q6K6SyA84ko=
+              hash: UAdX++Ywt7xk1ZY+h8G3Ru0c9FJd1Sk4HnNsxLWs9iQ=
             best_practice_data:
               badge: false
               percentage: null
@@ -11078,7 +11455,7 @@ landscape:
             name: Open Mainframe Project
             logo: openmainframeproject.svg
             homepage_url: 'https://www.openmainframeproject.org'
-            repo_url: 'https://github.com/openmainframeproject/tac'
+            repo_url: 'https://github.com/openmainframeproject/foundation'
             crunchbase: 'https://www.crunchbase.com/organization/open-mainframe-project'
             crunchbase_data:
               name: Open Mainframe Project
@@ -11096,18 +11473,20 @@ landscape:
                 - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
               languages: []
-              contributions: 0;2;5;5;6;1;2;13;0;1;1;0;10;2;0;0;2;5;0;0;2;8;2;2;0;3;3;0;3;3;0;0;0;0;0;2;0;0;1;2;0;1;2;0;0;0;1;1;0;4;0;1
-              firstWeek: 2019-03-25Z
-              stars: 37
-              license: Apache License 2.0
-              description: Open Mainframe Project TAC processes and meeting notes
-              latest_commit_date: '2020-03-13T13:52:58Z'
-              latest_commit_link: /openmainframeproject/tac/commit/e98812eaaf2ccf6fc400fea6efd65c68b255cf72
-              contributors_count: 16
-              contributors_link: 'https://github.com/openmainframeproject/tac/graphs/contributors'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7;0;13;0;3;5;3;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;3;4;0;0;0;4
+              firstWeek: 2019-05-05Z
+              stars: 19
+              license: Creative Commons Attribution 4.0 International
+              description: 'Open Mainframe Project foundation level resources, such as the charter, FAQ about the project, and other public assets'
+              latest_commit_date: '2020-04-30T03:45:50Z'
+              latest_commit_link: /openmainframeproject/foundation/commit/2ca17d6b2b212d2f658635ff12968a9406609bed
+              release_date: '2020-04-29T18:09:50Z'
+              release_link: 'https://github.com/openmainframeproject/foundation/releases'
+              contributors_count: 2
+              contributors_link: 'https://github.com/openmainframeproject/foundation/graphs/contributors'
             github_start_commit_data:
-              start_commit_link: /openmainframeproject/tac/commit/a9d784f8fddae9eb4c143ffb3089110cf7fb9059
-              start_date: '2017-11-08T21:38:28Z'
+              start_commit_link: /openmainframeproject/foundation/commit/ce2a3f78157e3d14e44cbf90d0996dea5a8c498b
+              start_date: '2019-09-15T12:18:17Z'
             image_data:
               fileName: open-mainframe-project.svg
               hash: 9d4+a05LtJztHADiasQ6G7KKj5ywZAcyazruBxJcZWE=

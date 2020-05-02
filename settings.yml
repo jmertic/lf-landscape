@@ -149,14 +149,14 @@ big_picture:
         color: 'rgb(108,135,75)'
         fit_width: true
       - type: HorizontalCategory
-        category: 'Data, Anayltics, and AI'
+        category: 'Data, Analytics, and AI'
         rows: 3
         width: 880
         height: 140
         top: 420
         left: 0
         color: 'rgb(130,207,231)'
-        fit_width: true
+        fit_width: false
       - type: VerticalCategory
         category: Other
         cols: 6

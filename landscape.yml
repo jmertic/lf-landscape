@@ -6,6 +6,12 @@ landscape:
         name: Academy Software Foundation
         items:
           - item:
+            name: Academy Software Foundation
+            homepage_url: 'https://aswf.io'
+            logo: academy-software-foundation.svg
+            repo_url: 'https://github.com/AcademySoftwareFoundation/foundation'
+            crunchbase: 'https://www.crunchbase.com/organization/academy-software-foundation'
+          - item:
             name: OpenVDB
             homepage_url: 'https://www.openvdb.org/'
             repo_url: 'https://github.com/AcademySoftwareFoundation/openvdb'
@@ -44,6 +50,11 @@ landscape:
       - subcategory:
         name: LF Energy
         items:
+          - item:
+            name: LF Energy
+            logo: lfenergy-color.svg
+            homepage_url: 'https://www.lfenergy.org/'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-energy'
           - item:
             name: OperatorFabric
             logo: operatorfabric-color.svg
@@ -466,184 +477,198 @@ landscape:
         items:
           - item:
             name: Appium
-            logo: appium.svg
-            homepage_url: 'http://appium.io/'
+            homepage_url: 'https://appium.io/'
             repo_url: 'https://github.com/appium/appium'
+            logo: appium.svg
+            twitter: 'https://twitter.com/AppiumDevs'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
             name: Dojo
-            logo: dojo.svg
             homepage_url: 'https://dojo.io/'
             repo_url: 'https://github.com/dojo/framework'
+            logo: dojo.svg
+            twitter: 'https://twitter.com/dojo'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
             name: jQuery
-            logo: j-query.svg
-            homepage_url: 'http://jquery.com/'
+            homepage_url: 'https://jquery.com/'
             repo_url: 'https://github.com/jquery/jquery'
+            logo: j-query.svg
+            twitter: 'https://twitter.com/jquery'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
             name: Node.js
-            logo: nodejs.svg
-            homepage_url: 'https://nodejs.org/'
+            homepage_url: 'https://nodejs.org/en/'
             repo_url: 'https://github.com/nodejs/node'
+            logo: node-js.svg
+            twitter: 'https://twitter.com/nodejs'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
-            name: Webpack
-            logo: webpack.svg
+            name: webpack
             homepage_url: 'https://webpack.js.org/'
             repo_url: 'https://github.com/webpack/webpack'
+            logo: webpack.svg
+            twitter: 'https://twitter.com/webpack'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
             name: Architect
             homepage_url: 'https://arc.codes/'
+            repo_url: 'https://github.com/architect/functions'
             logo: architect.svg
-            repo_url: 'https://github.com/architect/architect'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
             name: Intern
-            logo: intern.svg
-            homepage_url: 'https://theintern.github.io/'
+            homepage_url: 'https://theintern.io/'
             repo_url: 'https://github.com/theintern/intern'
+            logo: intern.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
             name: Mocha
-            logo: mochajs.svg
-            homepage_url: 'http://mochajs.org/'
+            homepage_url: 'https://mochajs.org/'
             repo_url: 'https://github.com/mochajs/mocha'
+            logo: mocha.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
             name: Node-RED
-            logo: node-red.svg
-            homepage_url: 'http://nodered.org/'
+            homepage_url: 'https://nodered.org/'
             repo_url: 'https://github.com/node-red/node-red'
+            logo: node-red.svg
+            twitter: 'https://twitter.com/nodered'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
-            name: Webdriver IO
-            logo: webdriverio.svg
-            homepage_url: 'http://webdriver.io/'
+            name: WebdriverIO
+            homepage_url: 'https://webdriver.io/'
             repo_url: 'https://github.com/webdriverio/webdriverio'
+            logo: webdriverio.svg
+            twitter: 'https://twitter.com/webdriverio'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
-            name: WebHint
-            logo: web-hint.svg
+            name: Webhint.io
             homepage_url: 'https://webhint.io/'
             repo_url: 'https://github.com/webhintio/hint'
+            logo: webhint-io.svg
+            twitter: 'https://twitter.com/webhintio'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
             name: ESLint
-            logo: es-lint.svg
-            homepage_url: 'http://eslint.org/'
+            homepage_url: 'https://eslint.org/'
             repo_url: 'https://github.com/eslint/eslint'
+            logo: es-lint.svg
+            twitter: 'https://twitter.com/geteslint'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
             name: Esprima
-            logo: esprima.svg
-            homepage_url: 'http://esprima.org/'
+            homepage_url: 'https://esprima.org/'
             repo_url: 'https://github.com/jquery/esprima'
+            logo: esprima.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
             name: Express
-            logo: express.svg
             homepage_url: 'https://expressjs.com/'
             repo_url: 'https://github.com/expressjs/express'
+            logo: express.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
             name: Globalize
-            homepage_url: 'https://globalizejs.com/'
-            logo: globalize.svg
+            homepage_url: 'https://github.com/globalizejs/globalize'
             repo_url: 'https://github.com/globalizejs/globalize'
+            logo: globalize.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
             name: Grunt
-            logo: grunt.svg
-            homepage_url: 'http://gruntjs.com/'
+            homepage_url: 'https://gruntjs.com/'
             repo_url: 'https://github.com/gruntjs/grunt'
+            logo: grunt.svg
+            twitter: 'https://twitter.com/gruntjs'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
             name: HospitalRun
+            homepage_url: 'https://hospitalrun.io/'
+            repo_url: 'https://github.com/HospitalRun/hospitalrun-frontend'
             logo: hospital-run.svg
-            homepage_url: 'http://hospitalrun.io/'
-            repo_url: 'https://github.com/HospitalRun/hospitalrun'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
-            name: Interledger.js
-            logo: interledger-js.svg
-            homepage_url: 'http://interledgerjs.org/'
-            repo_url: 'https://github.com/interledgerjs/interledgerjs'
+            name: Interledger
+            homepage_url: 'https://interledger.org/'
+            repo_url: 'https://github.com/interledger/rfcs'
+            logo: interledger.svg
+            twitter: 'https://twitter.com/interledger'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
-            name: JerryScript
-            logo: jerry-script.svg
-            homepage_url: 'http://jerryscript.net/'
+            name: Jerryscript
+            homepage_url: 'https://jerryscript.net/'
             repo_url: 'https://github.com/jerryscript-project/jerryscript'
+            logo: jerryscript.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
             name: libuv
             homepage_url: 'https://libuv.org/'
-            logo: libuv.svg
             repo_url: 'https://github.com/libuv/libuv'
+            logo: libuv.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
             name: Lodash
-            logo: lodash.svg
             homepage_url: 'https://lodash.com/'
             repo_url: 'https://github.com/lodash/lodash'
+            logo: lodash.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
             name: Marko
-            logo: marko.svg
-            homepage_url: 'http://markojs.com/'
+            homepage_url: 'https://markojs.com/'
             repo_url: 'https://github.com/marko-js/marko'
+            logo: marko.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
-            name: messageformat
-            logo: messageformat.svg
+            name: Messageformat
             homepage_url: 'https://messageformat.github.io/messageformat/'
             repo_url: 'https://github.com/messageformat/messageformat'
+            logo: messageformat.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
-            name: Moment
-            logo: moment.svg
-            homepage_url: 'http://momentjs.com/'
+            name: Moment.js
+            homepage_url: 'https://momentjs.com/'
             repo_url: 'https://github.com/moment/moment'
+            logo: moment-js.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
-            name: PointerEvents Polyfill (PEP)
-            logo: pointer-events-polyfill-pep.svg
+            name: PEP
             homepage_url: 'https://github.com/jquery/pep'
             repo_url: 'https://github.com/jquery/pep'
+            logo: pep.svg
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
             name: QUnit
-            logo: q-unit.svg
-            homepage_url: 'http://qunitjs.com/'
-            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+            homepage_url: 'https://qunitjs.com/'
             repo_url: 'https://github.com/qunitjs/qunit'
+            logo: q-unit.svg
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
             name: AMP
-            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
-            repo_url: 'https://github.com/ampproject/amphtml'
             homepage_url: 'https://amp.dev/'
+            repo_url: 'https://github.com/ampproject/amphtml'
             logo: amp.svg
-          - item:
-            name: Fastify
-            repo_url: 'https://github.com/fastify/fastify'
+            twitter: 'https://twitter.com/AMPhtml'
             crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
-            homepage_url: 'https://www.fastify.io/'
-            logo: fastify.svg
           - item:
             name: Electron
+            homepage_url: 'https://www.electronjs.org/'
             repo_url: 'https://github.com/electron/electron'
-            homepage_url: 'https://electronjs.org/'
-            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             logo: electron.svg
+            twitter: 'https://twitter.com/electronjs'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
+          - item:
+            name: Fastify
+            homepage_url: 'https://www.fastify.io/'
+            repo_url: 'https://github.com/fastify/fastify'
+            logo: fastify.svg
+            twitter: 'https://twitter.com/fastifyjs'
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
           - item:
             name: nvm
+            homepage_url: 'https://github.com/nvm-sh/nvm'
             repo_url: 'https://github.com/nvm-sh/nvm'
-            homepage_url: 'http://nvm.sh/'
-            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
             logo: nvm.svg
+            crunchbase: 'https://www.crunchbase.com/organization/open-js-foundation'
       - subcategory:
         name: CD Foundation
         items:
@@ -716,7 +741,7 @@ landscape:
             repo_url: 'https://github.com/TarsCloud/Tars'
             crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
   - category:
-    name: 'Data, Anayltics, and AI'
+    name: 'Data, Analytics, and AI'
     subcategories:
       - subcategory:
         name: HyperLedger
@@ -824,6 +849,12 @@ landscape:
         name: ODPi
         items:
           - item:
+            name: ODPi
+            homepage_url: 'https://www.odpi.org/'
+            repo_url: 'https://github.com/odpi/tsc'
+            logo: od-pi.svg
+            crunchbase: 'https://www.crunchbase.com/organization/odpi'
+          - item:
             name: ODPi Egeria
             homepage_url: 'https://egeria.odpi.org/'
             repo_url: 'https://github.com/odpi/egeria'
@@ -845,47 +876,80 @@ landscape:
         name: LF AI
         items:
           - item:
-            name: Acumos AI
-            logo: acumos-ai.svg
-            homepage_url: 'http://www.acumos.org/'
-            repo_url: 'https://github.com/acumos/portal-marketplace'
+            name: Acumos
+            homepage_url: 'https://www.acumos.org/'
+            repo_url: 'https://github.com/acumos/documentation'
+            logo: acumos.svg
             crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
           - item:
             name: Adlik
-            logo: adlik.svg
+            homepage_url: 'https://github.com/Adlik/Adlik'
             repo_url: 'https://github.com/Adlik/Adlik'
-            homepage_url: 'https://adlik.ai/'
+            logo: adlik.svg
+            twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
           - item:
             name: Angel-ML
-            logo: angel-ml.svg
             homepage_url: 'https://github.com/Angel-ML/angel'
             repo_url: 'https://github.com/Angel-ML/angel'
+            logo: angel-ml.svg
+            twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
           - item:
-            name: Elastic Deep Learning
-            logo: elastic-deep-learning.svg
-            homepage_url: 'http://www.paddlepaddle.org/'
+            name: Elastic Deep Learning (EDL)
+            homepage_url: 'http://www.paddlepaddle.org.cn/'
             repo_url: 'https://github.com/PaddlePaddle/edl'
+            logo: elastic-deep-learning-edl.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+          - item:
+            name: ForestFlow
+            homepage_url: 'https://forestflow.ai'
+            repo_url: 'https://github.com/ForestFlow/ForestFlow'
+            logo: forest-flow.svg
             crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
           - item:
             name: Horovod
-            logo: horovod.svg
             homepage_url: 'https://eng.uber.com/horovod/'
             repo_url: 'https://github.com/horovod/horovod'
+            logo: horovod.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+          - item:
+            name: Milvus
+            homepage_url: 'https://milvus.io'
+            repo_url: 'https://github.com/milvus-io/milvus'
+            logo: milvus.svg
+            twitter: 'https://twitter.com/milvusio'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+          - item:
+            name: NNStreamer
+            homepage_url: 'https://github.com/nnsuite/nnstreamer'
+            repo_url: 'https://github.com/nnsuite/nnstreamer'
+            logo: nn-streamer.svg
+            twitter: 'https://twitter.com/NnStreamer'
             crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
           - item:
             name: ONNX
-            logo: onnx.svg
             homepage_url: 'https://onnx.ai/'
-            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
             repo_url: 'https://github.com/onnx/onnx'
+            logo: onnx.svg
+            twitter: 'https://twitter.com/onnxai'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
           - item:
             name: Pyro
-            repo_url: 'https://github.com/uber/pyro'
-            homepage_url: 'https://pyro.ai/'
-            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+            homepage_url: 'http://pyro.ai/'
+            repo_url: 'https://github.com/pyro-ppl/pyro'
             logo: pyro.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+          - item:
+            name: sparklyr
+            homepage_url: 'https://sparklyr.ai'
+            repo_url: 'https://github.com/sparklyr/sparklyr'
+            logo: sparklyr.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
       - subcategory:
         name: Other
         items:
@@ -1192,7 +1256,7 @@ landscape:
             name: Open Mainframe Project
             logo: openmainframeproject.svg
             homepage_url: 'https://www.openmainframeproject.org'
-            repo_url: 'https://github.com/openmainframeproject/tac'
+            repo_url: 'https://github.com/openmainframeproject/foundation'
             crunchbase: 'https://www.crunchbase.com/organization/open-mainframe-project'
           - item:
             name: Feilong
