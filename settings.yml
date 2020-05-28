@@ -112,13 +112,7 @@ big_picture:
     url: landscape
     name: Landscape
     title: Linux Foundation Landscape
-    fullscreen_header: See the interactive landscape at https://lf-landscape.netlify.app/
-    size:
-      width: 1165
-      height: 900
-    fullscreen_size:
-      width: 1165
-      height: 900
+    fullscreen_header: 'See the interactive landscape at https://lf-landscape.netlify.app/'
     elements:
       - type: VerticalCategory
         category: Vertical Specific
@@ -199,12 +193,6 @@ big_picture:
     title: LF Members
     fullscreen_header: Become a LF member at cncf.io/join or view the interactive member landscape at m.cncf.io
     fullscreen_hide_grey_logos: true
-    size:
-      width: 1200
-      height: 1400
-    fullscreen_size:
-      width: 1200
-      height: 1600
     elements:
       - type: VerticalCategory
         category: Platinum
@@ -246,11 +234,12 @@ big_picture:
         width: 365
         height: 160
         top: -15
-        left: 790
+        left: 785
         children:
           - type: text
             text: >
-              This landscape is intended as a map to explore open source projects hosted by the Linux Foundation , and also shows the member companies of the Linux Foundation.
+              This landscape is intended as a map to explore open source projects hosted by the Linux Foundation , and also shows the member companies of the
+              Linux Foundation.
             top: 15
             left: 130
             right: 130
