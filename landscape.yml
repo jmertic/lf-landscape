@@ -744,7 +744,7 @@ landscape:
     name: 'Data, Analytics, and AI'
     subcategories:
       - subcategory:
-        name: HyperLedger
+        name: Hyperledger
         items:
           - item:
             name: Hyperledger
@@ -753,7 +753,7 @@ landscape:
               deployments.
             logo: hyperledger-color.svg
             homepage_url: 'https://www.hyperledger.org'
-            repo_url: 'https://github.com/hyperledger/tsc'
+            repo_url: 'https://github.com/hyperledger/hyperledger'
             crunchbase: 'https://www.crunchbase.com/organization/hyperledger-2'
           - item:
             name: Hyperledger Aries
@@ -779,6 +779,12 @@ landscape:
             homepage_url: 'https://www.hyperledger.org/projects/hyperledger-burrow'
             logo: hyperledger-burrow.svg
             repo_url: 'https://github.com/hyperledger/burrow'
+          - item:
+            name: Hyperledger Cactus
+            crunchbase: 'https://www.crunchbase.com/organization/hyperledger-2'
+            repo_url: 'https://github.com/hyperledger/cactus'
+            homepage_url: 'https://www.hyperledger.org/projects/cactus'
+            logo: hyperledger-cactus.svg
           - item:
             name: Hyperledger Caliper
             crunchbase: 'https://www.crunchbase.com/organization/hyperledger-2'
