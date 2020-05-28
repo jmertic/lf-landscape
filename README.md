@@ -1,4 +1,4 @@
-[![Dependency Status](https://img.shields.io/david/AcademySoftwareFoundation/LF-landscape.svg?style=flat-square)](https://david-dm.org/AcademySoftwareFoundation/LF-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/4e7f5868-c8de-4e99-8c77-a3b855c61f7d/deploy-status)](https://app.netlify.com/sites/lf-landscape/deploys)
+[![Dependency Status](https://img.shields.io/david/jmertic/lf-landscape.svg?style=flat-square)](https://david-dm.org/jmertic/lf-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/4e7f5868-c8de-4e99-8c77-a3b855c61f7d/deploy-status)](https://app.netlify.com/sites/lf-landscape/deploys)
 
 # Linux Foundation Landscape
 
