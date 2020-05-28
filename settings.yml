@@ -2,8 +2,8 @@ global:
   name: LF Interactive Landscape
   short_name: LF
   repo: jmertic/lf-landscape
-  website: 'https://lf-landscape.netlify.app'
-  short_domain: lf-landscape.netlify.app
+  website: 'https://landscape.linuxfoundation.org'
+  short_domain: l.linuxfoundation.org
   company_url: 'https://linuxfoundation.org'
   email: info@linuxfoundation.org
   self: 'https://www.crunchbase.com/organization/linux-foundation'
@@ -113,7 +113,7 @@ big_picture:
     url: landscape
     name: Landscape
     title: Linux Foundation Landscape
-    fullscreen_header: 'See the interactive landscape at lf-landscape.netlify.app'
+    fullscreen_header: See the interactive landscape at l.linuxfoundation.org
     size:
       width: 1165
       height: 900
@@ -198,7 +198,7 @@ big_picture:
     url: members
     name: Members
     title: LF Members
-    fullscreen_header: Become a LF member at www.linuxfoundation.org/membership
+    fullscreen_header: Become a LF member at cncf.io/join or view the interactive member landscape at m.cncf.io
     fullscreen_hide_grey_logos: true
     size:
       width: 1200
@@ -247,12 +247,11 @@ big_picture:
         width: 365
         height: 160
         top: -15
-        left: 785
+        left: 790
         children:
           - type: text
             text: >
-              This landscape is intended as a map to explore open source projects hosted by the Linux Foundation, and also shows the member companies of the
-              Linux Foundation.
+              This landscape is intended as a map to explore open source projects hosted by the Linux Foundation , and also shows the member companies of the Linux Foundation.
             top: 15
             left: 130
             right: 130
