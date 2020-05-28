@@ -2,7 +2,7 @@ global:
   name: LF Interactive Landscape
   short_name: LF
   repo: jmertic/lf-landscape
-  website: 'https://lf-landscape.netlify.app/'
+  website: 'https://lf-landscape.netlify.app'
   short_domain: lf-landscape.netlify.app
   company_url: 'https://linuxfoundation.org'
   email: info@linuxfoundation.org
@@ -251,7 +251,7 @@ big_picture:
         children:
           - type: text
             text: >
-              This landscape is intended as a map to explore open source projects hosted by the Linux Foundation , and also shows the member companies of the
+              This landscape is intended as a map to explore open source projects hosted by the Linux Foundation, and also shows the member companies of the
               Linux Foundation.
             top: 15
             left: 130
