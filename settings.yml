@@ -2,8 +2,7 @@ global:
   name: LF Interactive Landscape
   short_name: LF
   repo: jmertic/lf-landscape
-  website: 'https://landscape.linuxfoundation.org'
-  short_domain: l.linuxfoundation.org
+  website: 'https://lf-landscape.netlify.app/'
   company_url: 'https://linuxfoundation.org'
   email: info@linuxfoundation.org
   self: 'https://www.crunchbase.com/organization/linux-foundation'
@@ -113,7 +112,7 @@ big_picture:
     url: landscape
     name: Landscape
     title: Linux Foundation Landscape
-    fullscreen_header: See the interactive landscape at l.linuxfoundation.org
+    fullscreen_header: See the interactive landscape at https://lf-landscape.netlify.app/
     size:
       width: 1165
       height: 900
