@@ -3,6 +3,7 @@ global:
   short_name: LF
   repo: jmertic/lf-landscape
   website: 'https://lf-landscape.netlify.app/'
+  short_domain: lf-landscape.netlify.app
   company_url: 'https://linuxfoundation.org'
   email: info@linuxfoundation.org
   self: 'https://www.crunchbase.com/organization/linux-foundation'
@@ -112,7 +113,13 @@ big_picture:
     url: landscape
     name: Landscape
     title: Linux Foundation Landscape
-    fullscreen_header: 'See the interactive landscape at https://lf-landscape.netlify.app/'
+    fullscreen_header: 'See the interactive landscape at lf-landscape.netlify.app'
+    size:
+      width: 1165
+      height: 900
+    fullscreen_size:
+      width: 1165
+      height: 900
     elements:
       - type: VerticalCategory
         category: Vertical Specific
@@ -191,8 +198,14 @@ big_picture:
     url: members
     name: Members
     title: LF Members
-    fullscreen_header: Become a LF member at cncf.io/join or view the interactive member landscape at m.cncf.io
+    fullscreen_header: Become a LF member at www.linuxfoundation.org/membership
     fullscreen_hide_grey_logos: true
+    size:
+      width: 1200
+      height: 1400
+    fullscreen_size:
+      width: 1200
+      height: 1600
     elements:
       - type: VerticalCategory
         category: Platinum
