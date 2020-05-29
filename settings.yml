@@ -113,13 +113,7 @@ big_picture:
     url: landscape
     name: Landscape
     title: Linux Foundation Landscape
-    fullscreen_header: 'See the interactive landscape at lf-landscape.netlify.app'
-    size:
-      width: 1165
-      height: 900
-    fullscreen_size:
-      width: 1165
-      height: 900
+    fullscreen_header: See the interactive landscape at lf-landscape.netlify.app
     elements:
       - type: VerticalCategory
         category: Vertical Specific
@@ -200,37 +194,29 @@ big_picture:
     title: LF Members
     fullscreen_header: Become a LF member at www.linuxfoundation.org/membership
     fullscreen_hide_grey_logos: true
-    size:
-      width: 1200
-      height: 1400
-    fullscreen_size:
-      width: 1200
-      height: 1600
     elements:
       - type: VerticalCategory
         category: Platinum
-        cols: 18
         width: 750
-        height: 150
+        height: 180
         top: 0
         left: 0
         color: '#e5e4e2'
-        fit_height: true
+        fit_width: true
       - type: VerticalCategory
         category: Gold
-        cols: 30
         width: 1180
-        height: 90
-        top: 160
+        height: 230
+        top: 190
         left: 0
         color: '#d4af37'
-        fit_height: true
+        fit_width: true
       - type: VerticalCategory
         category: Silver
         cols: 30
         width: 1180
         height: 800
-        top: 260
+        top: 430
         left: 0
         color: '#C0C0C0'
         fit_width: true
@@ -239,7 +225,7 @@ big_picture:
         cols: 30
         width: 1180
         height: 150
-        top: 1070
+        top: 1240
         left: 0
         color: 'rgb(0,0,0)'
         fit_height: true
@@ -247,7 +233,7 @@ big_picture:
         width: 365
         height: 160
         top: -15
-        left: 785
+        left: 780
         children:
           - type: text
             text: >
