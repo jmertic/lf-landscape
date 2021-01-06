@@ -15,9 +15,9 @@ global:
     twitter: '@linuxfoundation'
     google_site_verification: crYr16dyu7npMmK-fw42gMkXKTWg_A-7c2PosXgtPZo
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
-  membership: LF Member Company
+  membership: LF Members
   flags:
-    companies: LF Member Company
+    companies: LF Members
     hide_license_for_categories:
       - LF Members
 twitter:
@@ -198,7 +198,7 @@ big_picture:
       - type: VerticalCategory
         category: Platinum
         width: 750
-        height: 180
+        height: 240
         top: 0
         left: 0
         color: '#e5e4e2'
@@ -206,8 +206,8 @@ big_picture:
       - type: VerticalCategory
         category: Gold
         width: 1180
-        height: 230
-        top: 190
+        height: 170
+        top: 250
         left: 0
         color: '#d4af37'
         fit_width: true
@@ -264,7 +264,7 @@ big_picture:
             width: 109
             right: 5
             top: 80
-    category: LF Member Company
+    category: LF Members
 test:
   header: LF Interactive Landscape
   section: LF Members
