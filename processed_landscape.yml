@@ -32390,7 +32390,7 @@ landscape:
           - item:
             name: KNS Group LLC (trademark YADRO)
             homepage_url: 'https://yadro.com/'
-            logo: 'https://raw.githubusercontent.com/openmainframeproject/omp-landscape/master/hosted_logos/yadro.svg'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/yadroinc..svg'
             crunchbase: 'https://www.crunchbase.com/organization/yadro'
             crunchbase_data:
               name: YADRO
@@ -39250,7 +39250,7 @@ landscape:
           - item:
             name: Savoir-faire Linux
             homepage_url: 'https://savoirfairelinux.com/fr'
-            logo: 'https://savoirfairelinux.com/user/themes/sflx/images/logo-sfl.svg'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/savoir-fairelinux.svg'
             crunchbase: 'https://www.crunchbase.com/organization/savoir-faire-linux'
             crunchbase_data:
               name: Savoir-faire Linux
@@ -45276,6 +45276,77 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-01-06T01:01:32.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/educational-testing-service-ets'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/educationaltestingservice.svg'
+            name: Educational Testing Service
+            homepage_url: 'https://ets.org/'
+            crunchbase_data:
+              name: Educational Testing Service (ETS)
+              description: 'ETS was founded in 1947 when the American Council on Education, the Carnegie Foundation for the Advancement of Teaching and the College'
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: 'http://www.ets.org'
+              city: Princeton
+              region: New Jersey
+              country: United States
+              twitter: 'https://twitter.com/ETSInsights'
+              linkedin: 'https://www.linkedin.com/company/educational-testing-service-ets/'
+              acquisitions:
+                - date: '2011-01-10'
+                  acquiree: 'Computerized Assessments and Learning, LLC'
+                - date: '2011-09-06'
+                  acquiree: Edusoft
+                - date: '2017-01-27'
+                  acquiree: Questar Assessment
+                  price: 127500000
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: educational-testing-service.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-01-07T21:35:10.000Z
+          - item:
+            crunchbase: 'https://www.crunchbase.com/organization/reply-com'
+            logo: 'https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/liquid-reply.svg'
+            name: Liquid Reply
+            homepage_url: 'https://liquidreply.com/'
+            crunchbase_data:
+              name: BuyerLink
+              description: BuyerLink is a leading marketplace for acquisition of locally targeted consumer traffic
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: 'http://www.buyerlink.com'
+              city: Walnut Creek
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/BuyerLinkCom'
+              linkedin: 'https://www.linkedin.com/company/buyerlink-com?trk=top_nav_home'
+              acquisitions:
+                - date: '2011-02-04'
+                  acquiree: adHUBS
+                - date: '2011-06-22'
+                  acquiree: Bloglines
+                - date: '2011-06-22'
+                  acquiree: MerchantCircle
+                - date: '2011-06-22'
+                  acquiree: TimeBridge
+                - date: '2012-05-31'
+                  acquiree: QualitySmith
+              parents: []
+              funding: 84590402
+              stockExchange: null
+              kind: funding
+            image_data:
+              fileName: liquid-reply.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-12-24T22:19:33.000Z
       - subcategory:
         name: Associate
         items:
