@@ -1713,6 +1713,11 @@ landscape:
             logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/mera.svg
             name: MERA
           - item:
+            crunchbase: https://www.crunchbase.com/organization/vivo-2
+            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/vivo-mobile-communication-co-ltd.svg
+            name: "vivo\_Mobile Communication Co., Ltd"
+            homepage_url: https://vivo.com/
+          - item:
             crunchbase: https://www.crunchbase.com/organization/goto-metrics
             homepage_url: https://zettaset.com/
             logo: https://landscape.cncf.io/logos/zettaset-member.svg
@@ -2136,9 +2141,9 @@ landscape:
             name: Virtual Power Systems
           - item:
             crunchbase: https://www.crunchbase.com/organization/nianticlabs-google
+            homepage_url: https://nianticlabs.com/
             logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/niantic.svg
             name: Niantic
-            homepage_url: https://nianticlabs.com/
           - item:
             crunchbase: https://www.crunchbase.com/organization/inslab
             homepage_url: https://gantry.ai/
@@ -6245,6 +6250,11 @@ landscape:
             logo: https://upload.wikimedia.org/wikipedia/commons/d/d3/Mitre_Corporation_logo.svg
             name: MITRE
           - item:
+            crunchbase: https://www.crunchbase.com/organization/national-information-society-agency
+            homepage_url: https://or.kr/
+            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/national-information-society-agency.svg
+            name: National Information Society Agency
+          - item:
             crunchbase: https://www.crunchbase.com/organization/onom-foundation
             homepage_url: https://onomfoundation.org/
             logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/onom-foundation.svg
@@ -6275,15 +6285,15 @@ landscape:
             logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/upchieve.svg
             name: UPchieve
           - item:
-            crunchbase: https://www.crunchbase.com/organization/peng-cheng-laboratory
-            homepage_url: https://pcl.ac.cn/
-            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/peng-cheng-laboratory.svg
-            name: Peng Cheng Laboratory
-          - item:
             crunchbase: https://www.crunchbase.com/organization/shanghai-opensource-information-technology-association
             homepage_url: https://joinnow_org.cn/
             logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/shanghai-opensource-information-technology-association.svg
             name: Shanghai OpenSource Information Technology Association
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/peng-cheng-laboratory
+            homepage_url: https://pcl.ac.cn/
+            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/peng-cheng-laboratory.svg
+            name: Peng Cheng Laboratory
           - item:
             crunchbase: https://www.crunchbase.com/organization/the-institute-for-ethical-ai-machine-learning
             homepage_url: https://ethical.institute/
@@ -6330,10 +6340,21 @@ landscape:
             logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/xidianuniversity.svg
             name: Xidian University
           - item:
+            crunchbase: https://www.crunchbase.com/organization/university-of-surrey
+            homepage_url: https://surrey.ac.uk/
+            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/university-of-surrey.svg
+            name: University of Surrey
+          - item:
             crunchbase: https://www.crunchbase.com/organization/the-university-of-hong-kong
             homepage_url: https://hku.hk/
             logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/the_university_of_hong_kong.svg
             name: The University of Hong Kong
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/canada-health-infoway
+            enduser: true
+            homepage_url: https://infoway-inforoute.ca/
+            logo: https://landscape.cncf.io/logos/canada-health-infoway-member.svg
+            name: Canada Health Infoway
           - item:
             crunchbase: https://www.crunchbase.com/organization/international-swaps-and-derivatives-association
             homepage_url: https://isda.org/
@@ -6349,39 +6370,6 @@ landscape:
             homepage_url: https://nj.gov/
             logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/mercercounty.svg
             name: New Jersey Office of Innovation
-          - item:
-            crunchbase: https://www.crunchbase.com/organization/korea-electronics-technology-institute
-            homepage_url: https://keti.re.kr/
-            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/keti-korea-electronics-technology-institute.svg
-            name: KETI (Korea Electronics Technology Institute)
-          - item:
-            crunchbase: https://www.crunchbase.com/organization/beijing-institute-of-technology
-            homepage_url: https://bit.edu.cn/
-            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/beijinginstituteoftechnology.svg
-            name: Beijing Institute of Technology
-          - item:
-            crunchbase: https://www.crunchbase.com/organization/national-information-society-agency
-            homepage_url: https://or.kr/
-            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/national-information-society-agency.svg
-            name: National Information Society Agency
-          - item:
-            crunchbase: https://www.crunchbase.com/organization/international-society-of-service-innovation-professionals
-            homepage_url: https://issip.org/
-            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/issip.svg
-            name: ISSIP
-            twitter: https://twitter.com/The_ISSIP
-          - item:
-            crunchbase: https://www.crunchbase.com/organization/wikimedia-foundation
-            enduser: true
-            homepage_url: https://wikimedia.org/
-            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/wikimedia-foundation.svg
-            name: Wikimedia Foundation
-          - item:
-            crunchbase: https://www.crunchbase.com/organization/ant-financial
-            enduser: true
-            homepage_url: https://antgroup.com/
-            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/ant-group.svg
-            name: ant group
           - item:
             crunchbase: https://www.crunchbase.com/organization/iota-foundation
             homepage_url: https://iota.org/
@@ -6399,42 +6387,15 @@ landscape:
             logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/lucerne_university_of_applied_sciences.svg
             name: Lucerne University of Applied Sciences
           - item:
-            crunchbase: https://www.crunchbase.com/organization/university-of-surrey
-            homepage_url: https://surrey.ac.uk/
-            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/university-of-surrey.svg
-            name: University of Surrey
+            crunchbase: https://www.crunchbase.com/organization/korea-electronics-technology-institute
+            homepage_url: https://keti.re.kr/
+            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/keti-korea-electronics-technology-institute.svg
+            name: KETI (Korea Electronics Technology Institute)
           - item:
-            crunchbase: https://www.crunchbase.com/organization/open-ix
-            homepage_url: https://open-ix.org/
-            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/open-ix-association.svg
-            name: Open IX Association
-            twitter: https://twitter.com/OpenIX
-          - item:
-            crunchbase: https://www.crunchbase.com/organization/canada-health-infoway
-            enduser: true
-            homepage_url: https://infoway-inforoute.ca/
-            logo: https://landscape.cncf.io/logos/canada-health-infoway-member.svg
-            name: Canada Health Infoway
-          - item:
-            crunchbase: https://www.crunchbase.com/organization/aivancity-school-for-technology-business-society
-            homepage_url: https://aivancity.ai/
-            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/aivancity-school-for-technology%2C-business-%26-society-paris-cachan.svg
-            name: Aivancity Achool for Technology, Business & Society Paris-Cachan
-          - item:
-            crunchbase: https://www.crunchbase.com/organization/rwth-aachen-university
-            homepage_url: https://rwth-aachen.de/
-            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/rwth_aachen_university.svg
-            name: RWTH Aachen University
-          - item:
-            crunchbase: https://www.crunchbase.com/organization/fi-ware
-            homepage_url: https://fiware.org/
-            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/fiware-foundation-e-v.svg
-            name: FIWARE Foundation e. V.
-          - item:
-            crunchbase: https://www.crunchbase.com/organization/sun-yat-sen-university
-            homepage_url: https://sysu.edu.cn/
-            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/sunyat-senuniversity.svg
-            name: Sun Yat-sen University
+            crunchbase: https://www.crunchbase.com/organization/beijing-institute-of-technology
+            homepage_url: https://bit.edu.cn/
+            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/beijinginstituteoftechnology.svg
+            name: Beijing Institute of Technology
           - item:
             crunchbase: https://www.crunchbase.com/organization/open-networking-foundation
             homepage_url: https://opennetworking.org/
@@ -6446,11 +6407,11 @@ landscape:
             logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/internet2.svg
             name: Internet2
           - item:
-            crunchbase: https://www.crunchbase.com/organization/blender-org
-            homepage_url: https://blender.org/
-            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/blender_foundation.svg
-            name: Blender Foundation
-            twitter: https://twitter.com/blender_org
+            crunchbase: https://www.crunchbase.com/organization/international-society-of-service-innovation-professionals
+            homepage_url: https://issip.org/
+            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/issip.svg
+            name: ISSIP
+            twitter: https://twitter.com/The_ISSIP
           - item:
             crunchbase: https://www.crunchbase.com/organization/university-of-new-mexico
             homepage_url: https://unm.edu/
@@ -6462,8 +6423,52 @@ landscape:
             logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/epfl.svg
             name: EPFL
           - item:
+            crunchbase: https://www.crunchbase.com/organization/blender-org
+            homepage_url: https://blender.org/
+            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/blender_foundation.svg
+            name: Blender Foundation
+            twitter: https://twitter.com/blender_org
+          - item:
             crunchbase: https://www.crunchbase.com/organization/university-of-wolverhampton
             homepage_url: https://wlv.ac.uk/
             logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/universityofwolverhampton.svg
             name: University of Wolverhampton
             twitter: https://twitter.com/wlv_mcs
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/wikimedia-foundation
+            enduser: true
+            homepage_url: https://wikimedia.org/
+            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/wikimedia-foundation.svg
+            name: Wikimedia Foundation
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/fi-ware
+            homepage_url: https://fiware.org/
+            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/fiware-foundation-e-v.svg
+            name: FIWARE Foundation e. V.
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/sun-yat-sen-university
+            homepage_url: https://sysu.edu.cn/
+            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/sunyat-senuniversity.svg
+            name: Sun Yat-sen University
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/ant-financial
+            enduser: true
+            homepage_url: https://antgroup.com/
+            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/ant-group.svg
+            name: ant group
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/open-ix
+            homepage_url: https://open-ix.org/
+            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/open-ix-association.svg
+            name: Open IX Association
+            twitter: https://twitter.com/OpenIX
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/aivancity-school-for-technology-business-society
+            homepage_url: https://aivancity.ai/
+            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/aivancity-school-for-technology%2C-business-%26-society-paris-cachan.svg
+            name: Aivancity Achool for Technology, Business & Society Paris-Cachan
+          - item:
+            crunchbase: https://www.crunchbase.com/organization/rwth-aachen-university
+            homepage_url: https://rwth-aachen.de/
+            logo: https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/rwth_aachen_university.svg
+            name: RWTH Aachen University
