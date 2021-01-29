@@ -38,6 +38,7 @@ jobs:
       - name: Save missing.csv file
         uses: actions/upload-artifact@v2
         with:
+          name: missing-members 
           path: ./main/missing.csv
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
