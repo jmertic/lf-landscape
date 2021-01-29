@@ -28,6 +28,10 @@ jobs:
           pip install -r landscape-tools/requirements.txt
       - name: Run build
         working-directory: ./main
+        env:
+          SF_USERNAME: ${{ secrets.SF_USERNAME }}
+          SF_PASSWORD: ${{ secrets.SF_PASSWORD }}
+          SF_TOKEN: ${{ secrets.SF_TOKEN }}
         run: |
           ../landscape-tools/landscapemembers.py
       - name: Create Pull Request
