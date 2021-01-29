@@ -34,6 +34,10 @@ jobs:
           SF_TOKEN: ${{ secrets.SF_TOKEN }}
         run: |
           ../landscape-tools/landscapemembers.py
+      - name: Save missing.csv file
+        uses: actions/upload-artifact@v2
+        with:
+          path: ./main/missing.csv
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
