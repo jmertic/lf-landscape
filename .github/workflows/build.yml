@@ -38,3 +38,5 @@ jobs:
         uses: peter-evans/create-pull-request@v3
         with:
           token: ${{ secrets.PAT }}
+          branch-suffix: timestamp
+          path: ./main
