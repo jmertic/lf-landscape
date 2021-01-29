@@ -2,6 +2,7 @@ name: Daily build
 
 on:
   workflow_dispatch:
+  schedule: '0 0 * * *'
 
 jobs:
   build:
@@ -39,3 +40,4 @@ jobs:
           token: ${{ secrets.PAT }}
           branch-suffix: timestamp
           path: ./main
+          title: Daily update
