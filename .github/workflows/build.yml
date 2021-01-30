@@ -47,3 +47,11 @@ jobs:
           branch-suffix: timestamp
           path: ./main
           title: Daily update
+          labels: daily-update
+          commit-message: Daily update
+      - name: Automerge Pull Request if possible
+        uses: "pascalgn/automerge-action@v0.13.0"
+        env:
+          GITHUB_TOKEN: "${{ secrets.PAT }}"
+          MERGE_LABELS: daily-update
+          MERGE_RETRY_SLEEP: 300000
