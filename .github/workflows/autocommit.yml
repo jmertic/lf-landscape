@@ -3,7 +3,7 @@ name: Autocommit pull requests
 on:
   workflow_dispatch:
   schedule: 
-    - cron:  '0 30 * * *'
+    - cron:  '20 0 * * *'
 
 jobs:
   build:
