@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: Naturalclar/issue-action@v2.0.2
-        if: contains(github.event.pull_request.labels.*.name, 'daily-update')
+        if: ${{ github.event.issue.pull_request && contains(github.event.issue.labels.*.name, 'daily-update') }}
         with:
           keywords: '["Deploy preview for lf-landscape ready!"]'
           labels: '["automerge"]'
