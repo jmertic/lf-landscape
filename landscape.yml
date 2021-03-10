@@ -247,14 +247,16 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
           - item:
             name: kind
-            description: kind creates local multi-node Kubernetes clusters using Docker container nodes.
+            description: kind creates local multi-node Kubernetes clusters using Docker
+              container nodes.
             homepage_url: https://github.com/kubernetes-sigs/kind
             repo_url: https://github.com/kubernetes-sigs/kind
             logo: kind.svg
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
           - item:
             name: kops
-            description: kops is open source, community-maintained tooling for production-grade kubernetes cluster installation, management and upgrades.
+            description: kops is open source, community-maintained tooling for production-grade
+              kubernetes cluster installation, management and upgrades.
             homepage_url: https://github.com/kubernetes/kops
             repo_url: https://github.com/kubernetes/kops
             logo: kops.svg
@@ -263,7 +265,8 @@ landscape:
           - item:
             name: Kubeadm
             description: >-
-              Kubeadm is a tool built to provide best-practice "fast paths" for creating Kubernetes clusters. It performs the actions necessary to get a minimum
+              Kubeadm is a tool built to provide best-practice "fast paths" for creating
+              Kubernetes clusters. It performs the actions necessary to get a minimum
               viable, secure cluster up and running in a user friendly way.
             homepage_url: https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/
             repo_url: https://github.com/kubernetes/kubeadm
@@ -278,7 +281,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
           - item:
             name: Kubernetes
-            description: Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications
+            description: Kubernetes is an open-source system for automating deployment,
+              scaling, and management of containerized applications
             homepage_url: https://kubernetes.io/
             repo_url: https://github.com/kubernetes/kubernetes
             logo: kubernetes.svg
@@ -313,7 +317,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
           - item:
             name: minikube
-            description: minikube runs a local Kubernetes cluster on macOS, Linux, and Windows.
+            description: minikube runs a local Kubernetes cluster on macOS, Linux,
+              and Windows.
             homepage_url: https://minikube.sigs.k8s.io
             repo_url: https://github.com/kubernetes/minikube
             logo: minikube.svg
@@ -749,7 +754,8 @@ landscape:
           - item:
             name: Hyperledger
             description: >-
-              Hyperledger is an open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain
+              Hyperledger is an open source community focused on developing a suite
+              of stable frameworks, tools and libraries for enterprise-grade blockchain
               deployments.
             homepage_url: https://www.hyperledger.org
             repo_url: https://github.com/hyperledger/hyperledger
@@ -892,21 +898,21 @@ landscape:
             homepage_url: https://github.com/Adlik/Adlik
             repo_url: https://github.com/Adlik/Adlik
             logo: adlik.svg
-            twitter: null
+            twitter:
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: Angel-ML
             homepage_url: https://github.com/Angel-ML/angel
             repo_url: https://github.com/Angel-ML/angel
             logo: angel-ml.svg
-            twitter: null
+            twitter:
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: Elastic Deep Learning (EDL)
             homepage_url: https://www.paddlepaddle.org.cn
             repo_url: https://github.com/elasticdeeplearning/edl
             logo: elastic-deep-learning-edl.svg
-            twitter: null
+            twitter:
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: ForestFlow
@@ -919,7 +925,7 @@ landscape:
             homepage_url: https://eng.uber.com/horovod/
             repo_url: https://github.com/horovod/horovod
             logo: horovod.svg
-            twitter: null
+            twitter:
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: Milvus
@@ -947,14 +953,14 @@ landscape:
             homepage_url: http://pyro.ai/
             repo_url: https://github.com/pyro-ppl/pyro
             logo: pyro.svg
-            twitter: null
+            twitter:
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: sparklyr
             homepage_url: https://sparklyr.ai
             repo_url: https://github.com/sparklyr/sparklyr
             logo: sparklyr.svg
-            twitter: null
+            twitter:
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
       - subcategory:
         name: Other
@@ -1314,7 +1320,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/open-mainframe-project
           - item:
             name: Zowe
-            description: Zowe is an open source framework for leveraging data and applications in z/OS from modern applications and tools.
+            description: Zowe is an open source framework for leveraging data and
+              applications in z/OS from modern applications and tools.
             homepage_url: https://www.zowe.org
             repo_url: https://github.com/zowe/api-layer
             url_for_bestpractices: https://github.com/zowe/zlc
@@ -1831,7 +1838,7 @@ landscape:
             homepage_url: https://aetna.com/
             logo: aetna_inc.svg
             name: Aetna Inc.
-            stock_ticker: null
+            stock_ticker:
             twitter: https://twitter.com/Aetna
           - item:
             crunchbase: https://www.crunchbase.com/organization/afi-ai
@@ -1897,6 +1904,7 @@ landscape:
             homepage_url: https://aisin-aw.co.jp/
             logo: aisin_aw_co_ltd.svg
             name: Aisin AW Co., Ltd.
+            twitter: https://twitter.com/aisingroup
           - item:
             crunchbase: https://www.crunchbase.com/organization/aiven
             homepage_url: https://aiven.io/
@@ -1950,17 +1958,11 @@ landscape:
             name: Alluxio, Inc.
             twitter: https://twitter.com/Alluxio
           - item:
-            crunchbase: https://www.crunchbase.com/organization/alpha-bravo
-            homepage_url: https://alphabravo.io/
-            logo: alpha_bravo.svg
-            name: Alpha Bravo
-            twitter: https://twitter.com/AlphaBravoGov
-          - item:
             crunchbase: https://www.crunchbase.com/organization/alpha-networks
             homepage_url: https://alphanetworks.com/
             logo: alpha_networks_inc.svg
             name: Alpha Networks Inc.
-            stock_ticker: null
+            stock_ticker:
             twitter: https://twitter.com/amywu8823
           - item:
             crunchbase: https://www.crunchbase.com/organization/alps-electric
@@ -1996,7 +1998,7 @@ landscape:
             homepage_url: https://altran.com/
             logo: altran_technologies.svg
             name: Altran Technologies
-            stock_ticker: null
+            stock_ticker:
             twitter: https://twitter.com/Altran
           - item:
             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
@@ -2116,7 +2118,7 @@ landscape:
             homepage_url: https://apptio.com/
             logo: apptio.svg
             name: Apptio
-            stock_ticker: null
+            stock_ticker:
             twitter: https://twitter.com/Apptio
           - item:
             crunchbase: https://www.crunchbase.com/organization/appvia
@@ -2141,7 +2143,7 @@ landscape:
             homepage_url: https://arcadyan.com/
             logo: arcadyan.svg
             name: Arcadyan
-            stock_ticker: null
+            stock_ticker:
           - item:
             crunchbase: https://www.crunchbase.com/organization/arcontech-group
             homepage_url: https://arcontech.com/
@@ -2298,7 +2300,7 @@ landscape:
             homepage_url: https://axis.com/
             logo: axis_communications.svg
             name: Axis Communications
-            stock_ticker: null
+            stock_ticker:
             twitter: https://twitter.com/AxisIPVideo
           - item:
             crunchbase: https://www.crunchbase.com/organization/backtrace-i-o
@@ -2350,7 +2352,8 @@ landscape:
           - item:
             crunchbase: https://www.crunchbase.com/organization/dosec
             description: >-
-              Dosec is a cloud-native security solution provider with security protection capabilities for containers, kubernetes, microservices, serverless,
+              Dosec is a cloud-native security solution provider with security protection
+              capabilities for containers, kubernetes, microservices, serverless,
               and DevOps.
             homepage_url: https://dosec.cn/
             logo: beijing_dosec_technology_co_ltd.svg
@@ -2476,7 +2479,7 @@ landscape:
             homepage_url: https://broadcom.com/
             logo: broadcom_corporation.svg
             name: Broadcom Corporation
-            stock_ticker: null
+            stock_ticker:
             twitter: https://twitter.com/Broadcom
           - item:
             crunchbase: https://www.crunchbase.com/organization/broadridge
@@ -2511,7 +2514,7 @@ landscape:
             homepage_url: https://ca.com/
             logo: ca_technologies.svg
             name: CA Technologies
-            stock_ticker: null
+            stock_ticker:
             twitter: https://twitter.com/Broadcom
           - item:
             crunchbase: https://www.crunchbase.com/organization/cablelabs
@@ -2891,7 +2894,7 @@ landscape:
             homepage_url: https://concurrent-rt.com/
             logo: concurrent_real-time_inc.svg
             name: Concurrent Real-Time Inc.
-            twitter: null
+            twitter:
           - item:
             crunchbase: https://www.crunchbase.com/organization/conductorio
             homepage_url: https://conductortech.com/
@@ -3228,10 +3231,10 @@ landscape:
             twitter: https://twitter.com/DianomicSystems
           - item:
             crunchbase: https://www.crunchbase.com/organization/diffblue
+            homepage_url: https://diffblue.com/
             logo: diffblue_ltd.svg
             name: Diffblue Ltd
             twitter: https://twitter.com/diffbluehq
-            homepage_url: https://diffblue.com/
           - item:
             crunchbase: https://www.crunchbase.com/organization/digicert
             homepage_url: https://digicert.com/
@@ -3389,7 +3392,7 @@ landscape:
           - item:
             crunchbase: https://www.crunchbase.com/organization/entigo-0301
             homepage_url: https://entigo.com/
-            logo: entigo_ou.svg
+            logo: entigo_oü.svg
             name: Entigo OÜ
             twitter: https://twitter.com/entigoltd
           - item:
@@ -4456,7 +4459,7 @@ landscape:
             homepage_url: https://luxoft.com/
             logo: luxoft_global_operations_gmbh.svg
             name: Luxoft Global Operations GmbH
-            stock_ticker: null
+            stock_ticker:
             twitter: https://twitter.com/luxoft
           - item:
             crunchbase: https://www.crunchbase.com/organization/macstadium
@@ -4548,7 +4551,7 @@ landscape:
             homepage_url: https://mediatek.com/
             logo: mediatek_usa_inc.svg
             name: MediaTek USA Inc.
-            stock_ticker: null
+            stock_ticker:
             twitter: https://twitter.com/MediaTek
           - item:
             crunchbase: https://www.crunchbase.com/organization/megaease-inc
@@ -4565,8 +4568,8 @@ landscape:
             homepage_url: https://mellanox.com/
             logo: mellanox_technologies_ltd.svg
             name: Mellanox Technologies, Ltd
-            stock_ticker: null
-            twitter: null
+            stock_ticker:
+            twitter:
           - item:
             crunchbase: https://www.crunchbase.com/organization/memfault
             homepage_url: https://memfault.com/
@@ -5037,7 +5040,7 @@ landscape:
           - item:
             crunchbase: https://www.crunchbase.com/organization/ovoo
             homepage_url: https://ovoo.pl/
-            logo: ovoo_spolka_z_o_o.svg
+            logo: ovoo_spółka_z_o_o.svg
             name: Ovoo Spółka z o. o.
           - item:
             crunchbase: https://www.crunchbase.com/organization/padok
@@ -5372,10 +5375,10 @@ landscape:
             twitter: https://twitter.com/RedisLabs
           - item:
             crunchbase: https://www.crunchbase.com/organization/refinitiv
+            homepage_url: https://refinitiv.com/
             logo: refinitiv.svg
             name: Refinitiv
             twitter: https://twitter.com/Refinitiv
-            homepage_url: https://refinitiv.com/
           - item:
             crunchbase: https://www.crunchbase.com/organization/jio
             homepage_url: https://jio.com/
@@ -6266,7 +6269,7 @@ landscape:
           - item:
             crunchbase: https://www.crunchbase.com/organization/trk-telekom
             homepage_url: https://turktelekom.com.tr/
-            logo: turk_telekomunikasyon_as.svg
+            logo: türk_telekomünikasyon_as.svg
             name: Türk Telekomünikasyon A.S.
             twitter: https://twitter.com/TurkTelekom
           - item:
@@ -6334,10 +6337,10 @@ landscape:
             twitter: https://twitter.com/VectorizedIO
           - item:
             crunchbase: https://www.crunchbase.com/organization/sr-labs
+            homepage_url: https://tradevela.com/
             logo: vela.svg
             name: Vela
             twitter: https://twitter.com/TradeVela
-            homepage_url: https://tradevela.com/
           - item:
             crunchbase: https://www.crunchbase.com/organization/ventus-cloud
             homepage_url: https://ventuscloud.eu/
@@ -6383,7 +6386,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/vivo-2
             homepage_url: https://vivo.com/
             logo: vivomobile_communication_co_ltd.svg
-            name: "vivo\_Mobile Communication Co., Ltd"
+            name: vivo Mobile Communication Co., Ltd
           - item:
             crunchbase: https://www.crunchbase.com/organization/nuance
             homepage_url: https://vlingo.io/
@@ -6407,7 +6410,7 @@ landscape:
             homepage_url: https://volkswagen.de/
             logo: volkswagen_aktiengesellschaft.svg
             name: Volkswagen Aktiengesellschaft
-            twitter: https://twitter.com/volkswagen_de
+            twitter: https://twitter.com/VWGroup
           - item:
             crunchbase: https://www.crunchbase.com/organization/vonage
             homepage_url: https://vonage.com/
@@ -6439,10 +6442,10 @@ landscape:
             name: Wangsu Science & Technology Co., Ltd.
           - item:
             crunchbase: https://www.crunchbase.com/organization/we-trade
+            homepage_url: https://we-trade.com/
             logo: wetrade_innovation_dac.svg
             name: We.Trade Innovation DAC
             twitter: https://twitter.com/we_dot_trade
-            homepage_url: https://we-trade.com/
           - item:
             crunchbase: https://www.crunchbase.com/organization/weaveworks
             homepage_url: https://weave.works/
@@ -6526,7 +6529,7 @@ landscape:
             homepage_url: https://wnc.com.tw/
             logo: wistron_neweb_corp.svg
             name: Wistron NeWeb Corp.
-            stock_ticker: null
+            stock_ticker:
           - item:
             crunchbase: https://www.crunchbase.com/organization/witekio
             homepage_url: https://witekio.com/
@@ -6535,9 +6538,9 @@ landscape:
             twitter: https://twitter.com/Witekio_int
           - item:
             crunchbase: https://www.crunchbase.com/organization/witz
+            homepage_url: https://witz-inc.co.jp/
             logo: witz_corporation.svg
             name: Witz Corporation
-            homepage_url: https://witz-inc.co.jp/
           - item:
             crunchbase: https://www.crunchbase.com/organization/deep-in-data
             homepage_url: https://deepin.org/
@@ -6671,10 +6674,10 @@ landscape:
             twitter: https://twitter.com/ZTEPress
           - item:
             crunchbase: https://www.crunchbase.com/organization/zuta-core
+            homepage_url: https://zutacore.com/
             logo: zutacore.svg
             name: ZutaCore
             twitter: https://twitter.com/ZutaCore
-            homepage_url: https://zutacore.com/
       - subcategory:
         name: Associate
         items:
@@ -6698,10 +6701,10 @@ landscape:
             twitter: https://twitter.com/AIforPeople
           - item:
             crunchbase: https://www.crunchbase.com/organization/air-e7c8
+            homepage_url: https://regulationinnovation.org/
             logo: air_-_alliance_for_innovative_regulation.svg
             name: AIR - Alliance for Innovative Regulation
             twitter: https://twitter.com/AIRinnovate
-            homepage_url: https://regulationinnovation.org/
           - item:
             crunchbase: https://www.crunchbase.com/organization/aivancity-school-for-technology-business-society
             homepage_url: https://aivancity.ai/
@@ -6890,7 +6893,8 @@ landscape:
           - item:
             crunchbase: https://www.crunchbase.com/organization/university-of-applied-sciences-kiel
             description: >-
-              With more than 6,900 students, the Kiel University of Applied Sciences (Fachhochschule Kiel ["FH Kiel"]) is the largest University of Applied
+              With more than 6,900 students, the Kiel University of Applied Sciences
+              (Fachhochschule Kiel ["FH Kiel"]) is the largest University of Applied
               Sciences in Schleswig-Holstein
             homepage_url: https://fh-kiel.de/
             logo: fachhochschule_kiel.svg
@@ -6911,8 +6915,9 @@ landscape:
           - item:
             crunchbase: https://www.crunchbase.com/organization/fraunhofer-gesellschaft
             homepage_url: https://fraunhofer.de/
-            logo: fraunhofer-gesellschaft_zur_forderung_der_angewandten_forschung_ev.svg
-            name: Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V.
+            logo: fraunhofer-gesellschaft_zur_förderung_der_angewandten_forschung_ev.svg
+            name: Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung
+              e.V.
             twitter: https://twitter.com/Fraunhofer
           - item:
             crunchbase: https://www.crunchbase.com/organization/friedrich-alexander-university
@@ -6994,10 +6999,10 @@ landscape:
             twitter: https://twitter.com/Internet2
           - item:
             crunchbase: https://www.crunchbase.com/organization/interwork-alliance-e317
+            homepage_url: https://interwork.org/
             logo: interwork_alliance_inc.svg
             name: InterWork Alliance, Inc.
             twitter: https://twitter.com/IntWorkAll
-            homepage_url: https://interwork.org/
           - item:
             crunchbase: https://www.crunchbase.com/organization/iota-foundation
             homepage_url: https://iota.org/
@@ -7206,6 +7211,12 @@ landscape:
             name: OpenStack Foundation
             twitter: https://twitter.com/OpenStack
           - item:
+            crunchbase: https://www.crunchbase.com/organization/open-travel
+            logo: opentravel_alliance.svg
+            name: OpenTravel Alliance
+            twitter: https://twitter.com/OpenTravel
+            homepage_url: https://opentravel.org/
+          - item:
             crunchbase: https://www.crunchbase.com/organization/openuk
             description: Where the UK’s Open communities meet and collaborate
             homepage_url: https://openuk.uk/
@@ -7326,7 +7337,7 @@ landscape:
             homepage_url: https://sollers.edu/
             logo: sollers_college.svg
             name: Sollers College
-            twitter: https://twitter.com/SollersEdu
+            twitter: https://twitter.com/SollersGraduate
           - item:
             crunchbase: https://www.crunchbase.com/organization/south-china-university-of-technology
             homepage_url: https://scut.edu.cn/
@@ -7406,8 +7417,11 @@ landscape:
           - item:
             crunchbase: https://www.crunchbase.com/organization/u-s-digital-response
             description: >-
-              Support for Crisis Response. We put experienced, pro bono technologists to work with governments responding to the COVID-19 crisis, to help
-              deliver critical services to the people who need them. We’re non-partisan, fast and free. Tell us the challenges you’re facing. We’ll get back to
+              Support for Crisis Response. We put experienced, pro bono technologists
+              to work with governments responding to the COVID-19 crisis, to help
+              deliver critical services to the people who need them. We’re non-partisan,
+              fast and free. Tell us the challenges you’re facing. We’ll get back
+              to
               you within hours.
             homepage_url: https://usdigitalresponse.org/
             logo: us_digital_response.svg
@@ -7489,7 +7503,7 @@ landscape:
           - item:
             crunchbase: https://www.crunchbase.com/organization/universit%C3%A9-libre-de-tunis
             homepage_url: https://ult-tunisie.com/
-            logo: universite_libre_de_tunis.svg
+            logo: université_libre_de_tunis.svg
             name: Université Libre de Tunis
           - item:
             crunchbase: https://www.crunchbase.com/organization/upchieve
@@ -7506,9 +7520,10 @@ landscape:
             twitter: https://twitter.com/VanderbiltU
           - item:
             crunchbase: https://www.crunchbase.com/organization/vilnius-gediminas-technical-university
+            homepage_url: https://vgtu.it/
             logo: vilnius_gediminas_technical_university.svg
             name: Vilnius Gediminas Technical University
-            homepage_url: https://vgtu.it/
+            twitter: https://twitter.com/VGTU_university
           - item:
             crunchbase: https://www.crunchbase.com/organization/visual-effects-society
             homepage_url: https://visualeffectssociety.com/
@@ -7517,10 +7532,10 @@ landscape:
             twitter: https://twitter.com/VFXSociety
           - item:
             crunchbase: https://www.crunchbase.com/organization/the-wall-street-bitcoin-alliance
+            homepage_url: https://wsba.co/
             logo: wall_street_blockchain_alliance.svg
             name: Wall Street Blockchain Alliance
             twitter: https://twitter.com/WallStreetBTC
-            homepage_url: https://wsba.co/
           - item:
             crunchbase: https://www.crunchbase.com/organization/washington-state-university
             homepage_url: https://wsu.edu/
