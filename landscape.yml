@@ -892,21 +892,21 @@ landscape:
             homepage_url: https://github.com/Adlik/Adlik
             repo_url: https://github.com/Adlik/Adlik
             logo: adlik.svg
-            twitter: null
+            twitter:
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: Angel-ML
             homepage_url: https://github.com/Angel-ML/angel
             repo_url: https://github.com/Angel-ML/angel
             logo: angel-ml.svg
-            twitter: null
+            twitter:
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: Elastic Deep Learning (EDL)
             homepage_url: https://www.paddlepaddle.org.cn
             repo_url: https://github.com/elasticdeeplearning/edl
             logo: elastic-deep-learning-edl.svg
-            twitter: null
+            twitter:
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: ForestFlow
@@ -919,7 +919,7 @@ landscape:
             homepage_url: https://eng.uber.com/horovod/
             repo_url: https://github.com/horovod/horovod
             logo: horovod.svg
-            twitter: null
+            twitter:
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: Milvus
@@ -947,14 +947,14 @@ landscape:
             homepage_url: http://pyro.ai/
             repo_url: https://github.com/pyro-ppl/pyro
             logo: pyro.svg
-            twitter: null
+            twitter:
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: sparklyr
             homepage_url: https://sparklyr.ai
             repo_url: https://github.com/sparklyr/sparklyr
             logo: sparklyr.svg
-            twitter: null
+            twitter:
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
       - subcategory:
         name: Other
@@ -1930,7 +1930,7 @@ landscape:
             logo: alpha_networks_inc.svg
             twitter: https://twitter.com/amywu8823
             crunchbase: https://www.crunchbase.com/organization/alpha-networks
-            stock_ticker: null
+            stock_ticker:
           - item:
             name: ALPS ALPINE
             homepage_url: https://alps.com/
@@ -1964,7 +1964,7 @@ landscape:
             logo: altran_technologies.svg
             twitter: https://twitter.com/altran
             crunchbase: https://www.crunchbase.com/organization/altran
-            stock_ticker: null
+            stock_ticker:
           - item:
             name: Amazon Web Services, Inc.
             homepage_url: https://amazon.com/
@@ -2074,7 +2074,7 @@ landscape:
             logo: apptio.svg
             twitter: https://twitter.com/Apptio
             crunchbase: https://www.crunchbase.com/organization/apptio
-            stock_ticker: null
+            stock_ticker:
           - item:
             name: Appvia Ltd.
             homepage_url: https://appvia.io/
@@ -2095,7 +2095,7 @@ landscape:
             homepage_url: https://arcadyan.com/
             logo: arcadyan.svg
             crunchbase: https://www.crunchbase.com/organization/arcadyan-technology-corporation
-            stock_ticker: null
+            stock_ticker:
           - item:
             name: Arcontech Group PLC
             homepage_url: https://arcontech.com/
@@ -2253,7 +2253,7 @@ landscape:
             logo: axis_communications.svg
             twitter: https://twitter.com/AxisIPVideo
             crunchbase: https://www.crunchbase.com/organization/axis-communications-ab
-            stock_ticker: null
+            stock_ticker:
           - item:
             name: Backtrace I/O
             homepage_url: https://backtrace.io/
@@ -2458,7 +2458,7 @@ landscape:
             homepage_url: https://broadcom.com/
             logo: broadcom_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/broadcom
-            stock_ticker: null
+            stock_ticker:
           - item:
             name: Broadridge Financial Solutions
             homepage_url: https://broadridge.com/
@@ -2545,7 +2545,7 @@ landscape:
             homepage_url: https://ca.com/
             logo: ca_technologies.svg
             crunchbase: https://www.crunchbase.com/organization/broadcom
-            stock_ticker: null
+            stock_ticker:
           - item:
             name: Caylent Inc
             homepage_url: https://caylent.com/
@@ -2648,6 +2648,11 @@ landscape:
             logo: circle_internet_services_inc.svg
             twitter: https://twitter.com/CircleCI
             crunchbase: https://www.crunchbase.com/organization/circle-ci
+          - item:
+            name: Circulor Ltd.
+            homepage_url: https://circulor.com/
+            logo: circulor_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/circulor
           - item:
             name: Cirrus Logic
             homepage_url: https://cirrus.com/
@@ -4000,6 +4005,11 @@ landscape:
             twitter: https://twitter.com/IOTechSystems
             crunchbase: https://www.crunchbase.com/organization/iotech-2
           - item:
+            name: IPChain Association
+            homepage_url: https://ipchain.ru/
+            logo: ipchain_association.svg
+            crunchbase: https://www.crunchbase.com/organization/ipchain-association
+          - item:
             name: ITAU BBA USA SECURITIES, INC.
             homepage_url: https://itau.com.br/
             logo: itau_bba_usa_securities_inc.svg
@@ -4326,7 +4336,7 @@ landscape:
             logo: luxoft_global_operations_gmbh.svg
             twitter: https://twitter.com/luxoft
             crunchbase: https://www.crunchbase.com/organization/luxoft
-            stock_ticker: null
+            stock_ticker:
           - item:
             name: MacStadium
             homepage_url: https://macstadium.com/
@@ -4409,7 +4419,7 @@ landscape:
             homepage_url: https://mediatek.com/
             logo: mediatek_usa_inc.svg
             crunchbase: https://www.crunchbase.com/organization/mediatek
-            stock_ticker: null
+            stock_ticker:
           - item:
             name: MediConCen Limited
             homepage_url: https://mediconcen.com/
@@ -4430,7 +4440,7 @@ landscape:
             homepage_url: https://mellanox.com/
             logo: mellanox_technologies_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/mellanox-technologies
-            stock_ticker: null
+            stock_ticker:
           - item:
             name: Memfault Inc
             homepage_url: https://memfault.com/
@@ -5663,7 +5673,7 @@ landscape:
             homepage_url: https://sterlite.com/
             logo: sterlite_technologies_limited.svg
             crunchbase: https://www.crunchbase.com/organization/sterlite-technologies-ltd-
-            stock_ticker: null
+            stock_ticker:
           - item:
             name: STMicroelectronics International N.V.
             homepage_url: https://st.com/
@@ -5759,6 +5769,11 @@ landscape:
             logo: swisscom.svg
             twitter: https://twitter.com/Swisscom
             crunchbase: https://www.crunchbase.com/organization/swisscom
+          - item:
+            name: Symbridge LLC
+            homepage_url: https://symbridge.com/
+            logo: symbridge_llc.svg
+            crunchbase: https://www.crunchbase.com/organization/symbridge
           - item:
             name: Symphony Communication Services LLC
             homepage_url: https://symphony.com/
@@ -6189,7 +6204,7 @@ landscape:
             twitter: https://twitter.com/VitalHubCorp
             crunchbase: https://www.crunchbase.com/organization/vitalhub
           - item:
-            name: "vivo\_Mobile Communication Co., Ltd"
+            name: vivo Mobile Communication Co., Ltd
             homepage_url: https://vivo.com/
             logo: vivomobile_communication_co_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/vivo-2
@@ -6333,7 +6348,7 @@ landscape:
             homepage_url: https://wnc.com.tw/
             logo: wistron_neweb_corp.svg
             crunchbase: https://www.crunchbase.com/organization/wistron-neweb-corp
-            stock_ticker: null
+            stock_ticker:
           - item:
             name: Witekio Holding
             homepage_url: https://witekio.com/
@@ -6754,6 +6769,11 @@ landscape:
             logo: golden_gate_university.svg
             twitter: https://twitter.com/GGU
             crunchbase: https://www.crunchbase.com/organization/golden-gate-university-san-francisco
+          - item:
+            name: Government of Bermuda
+            homepage_url: https://gov.bm/
+            logo: government_of_bermuda.svg
+            crunchbase: https://www.crunchbase.com/organization/government-of-bermuda
           - item:
             name: GRNET (Greek Research and Technology Network)
             homepage_url: https://grnet.gr/
