@@ -1,28 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Creator: CorelDRAW -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="170px" height="70px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 170 69.9999"
- xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs>
-  <style type="text/css">
-   <![CDATA[
-    .fil0 {fill:none}
-    .fil1 {fill:#005596}
-   ]]>
-  </style>
- </defs>
- <g id="Capa_x0020_1">
-  <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_46786296">
-   <rect id="_47421136" class="fil0" x="-0.125201" y="-0.100392" width="170.25" height="70.2006"/>
-   <g>
-    <polygon id="_47588056" class="fil1" points="20.1214,51.9442 26.4983,15.9722 33.7078,15.9722 42.1634,38.4724 51.0359,16.1116 57.8285,16.1116 64.3447,51.8048 57.2745,51.8048 53.3922,29.444 44.9378,51.3891 39.8071,51.3879 31.3503,29.3058 27.0534,51.8048 "/>
-    <rect id="_47489872" class="fil1" x="66.564" y="15.9722" width="6.37683" height="35.6944"/>
-    <polygon id="_46948704" class="fil1" points="83.7527,51.8048 83.7527,21.9451 75.9893,21.9451 75.9893,15.9722 97.7537,15.9722 97.7537,21.8045 90.1308,21.8045 90.1308,51.8036 "/>
-    <polygon id="_47616504" class="fil1" points="147.105,51.8048 126.729,51.8048 126.729,15.8352 147.245,15.8175 147.245,21.9451 133.243,21.9451 133.243,31.1117 147.105,31.1117 147.105,36.8035 133.243,36.8059 133.243,46.2489 147.105,46.2489 "/>
-    <path id="_47609272" class="fil1" d="M99.8336 51.9442l0.13819 -36.1102 14.4864 0c6.23746,0 10.3973,2.67522 10.3277,9.86111 0.553942,10.4151 -8.53354,11.6529 -9.89655,10.9903l10.6962 14.8265 -7.40204 -0.00236223 -10.0324 -14.1486 -0.13819 -6.80557 8.52409 0c2.73782,0.00236223 3.09924,-8.33275 -0.276381,-8.34102l-10.0501 -0.269294 0 29.7215 -6.37683 0.277562z"/>
-   </g>
-  </g>
- </g>
-</svg>
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Wikimedia Error</title>
+<style>
+* { margin: 0; padding: 0; }
+body { background: #fff; font: 15px/1.6 sans-serif; color: #333; }
+.content { margin: 7% auto 0; padding: 2em 1em 1em; max-width: 640px; }
+.footer { clear: both; margin-top: 14%; border-top: 1px solid #e5e5e5; background: #f9f9f9; padding: 2em 0; font-size: 0.8em; text-align: center; }
+img { float: left; margin: 0 2em 2em 0; }
+a img { border: 0; }
+h1 { margin-top: 1em; font-size: 1.2em; }
+.content-text { overflow: hidden; overflow-wrap: break-word; word-wrap: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
+p { margin: 0.7em 0 1em 0; }
+a { color: #0645ad; text-decoration: none; }
+a:hover { text-decoration: underline; }
+code { font-family: sans-serif; }
+.text-muted { color: #777; }
+</style>
+<div class="content" role="main">
+<a href="https://www.wikimedia.org"><img src="https://www.wikimedia.org/static/images/wmf-logo.png" srcset="https://www.wikimedia.org/static/images/wmf-logo-2x.png 2x" alt="Wikimedia" width="135" height="101">
+</a>
+<h1>Error</h1>
+<div class="content-text">
+<p>Our servers are currently under maintenance or experiencing a technical problem.
+
+Please <a href="" title="Reload this page" onclick="window.location.reload(false); return false">try again</a> in a few&nbsp;minutes.</p>
+
+<p>See the error message at the bottom of this page for more&nbsp;information.</p>
+</div>
+</div>
+<div class="footer"><p>If you report this error to the Wikimedia System Administrators, please include the details below.</p><p class="text-muted"><code>Request from 40.71.66.80 via cp2030 cp2030, Varnish XID 725363431<br>Upstream caches: cp2030 int<br>Error: 429, Too many requests. Please comply with the User-Agent policy to get a higher rate limit: https://meta.wikimedia.org/wiki/User-Agent_policy at Thu, 01 Jul 2021 13:14:01 GMT</code></p>
+</div>
+</html>
