@@ -262,8 +262,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
           - item:
             name: Kubeadm
-            description: Kubeadm is a tool built to provide best-practice "fast paths" for creating Kubernetes clusters. It performs the actions necessary to get
-              a minimum viable, secure cluster up and running in a user friendly way.
+            description: >-
+              Kubeadm is a tool built to provide best-practice "fast paths" for creating Kubernetes clusters. It performs the actions necessary to get a minimum
+              viable, secure cluster up and running in a user friendly way.
             homepage_url: https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/
             repo_url: https://github.com/kubernetes/kubeadm
             logo: kubeadm.svg
@@ -747,7 +748,8 @@ landscape:
         items:
           - item:
             name: Hyperledger
-            description: Hyperledger is an open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain
+            description: >-
+              Hyperledger is an open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain
               deployments.
             homepage_url: https://www.hyperledger.org
             repo_url: https://github.com/hyperledger/hyperledger
@@ -890,21 +892,21 @@ landscape:
             homepage_url: https://github.com/Adlik/Adlik
             repo_url: https://github.com/Adlik/Adlik
             logo: adlik.svg
-            twitter:
+            twitter: null
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: Angel-ML
             homepage_url: https://github.com/Angel-ML/angel
             repo_url: https://github.com/Angel-ML/angel
             logo: angel-ml.svg
-            twitter:
+            twitter: null
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: Elastic Deep Learning (EDL)
             homepage_url: https://www.paddlepaddle.org.cn
             repo_url: https://github.com/elasticdeeplearning/edl
             logo: elastic-deep-learning-edl.svg
-            twitter:
+            twitter: null
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: ForestFlow
@@ -917,7 +919,7 @@ landscape:
             homepage_url: https://eng.uber.com/horovod/
             repo_url: https://github.com/horovod/horovod
             logo: horovod.svg
-            twitter:
+            twitter: null
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: Milvus
@@ -945,14 +947,14 @@ landscape:
             homepage_url: http://pyro.ai/
             repo_url: https://github.com/pyro-ppl/pyro
             logo: pyro.svg
-            twitter:
+            twitter: null
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: sparklyr
             homepage_url: https://sparklyr.ai
             repo_url: https://github.com/sparklyr/sparklyr
             logo: sparklyr.svg
-            twitter:
+            twitter: null
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
       - subcategory:
         name: Other
@@ -1630,7 +1632,7 @@ landscape:
             logo: baidu_online_network_technology_beijing_co_ltd.svg
             twitter: https://twitter.com/BaiduResearch
             crunchbase: https://www.crunchbase.com/organization/baidu
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: BlackRock, Inc.
             homepage_url: https://blackrock.com/
@@ -1778,6 +1780,13 @@ landscape:
             twitter: https://twitter.com/ABBgroupnews
             crunchbase: https://www.crunchbase.com/organization/abb
           - item:
+            name: AccelByte Inc
+            homepage_url: https://accelbyte.io/
+            logo: accelbyte_inc.svg
+            twitter: https://twitter.com/AccelByteInc
+            organization:
+              name: AccelByte Inc
+          - item:
             name: ACC ICT
             homepage_url: https://acc-ict.com/
             logo: acc_ict.svg
@@ -1848,6 +1857,12 @@ landscape:
             twitter: https://twitter.com/Adobe
             crunchbase: https://www.crunchbase.com/organization/adobe-systems
           - item:
+            name: Advanced Driver Information Technology Corporation
+            homepage_url: https://adit-jv.com/
+            logo: advanced_driver_information_technology_corporation.svg
+            organization:
+              name: Advanced Driver Information Technology Corporation
+          - item:
             name: Advanced Micro Devices (AMD)
             homepage_url: https://amd.com/
             logo: advanced_micro_devices_amd.svg
@@ -1893,6 +1908,13 @@ landscape:
             logo: aftership_limited.svg
             twitter: https://twitter.com/aftership
             crunchbase: https://www.crunchbase.com/organization/aftership
+          - item:
+            name: Agenda d.o.o.
+            homepage_url: https://agenda.si/
+            logo: agenda_doo.svg
+            twitter: https://twitter.com/agendaOS
+            organization:
+              name: Agenda d.o.o.
           - item:
             name: Agree Technology Co., Ltd.
             homepage_url: https://www.agree.com.cn/
@@ -2003,7 +2025,7 @@ landscape:
             logo: alpha_networks_inc.svg
             twitter: https://twitter.com/amywu8823
             crunchbase: https://www.crunchbase.com/organization/alpha-networks
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: ALPS ALPINE
             homepage_url: https://alps.com/
@@ -2039,7 +2061,7 @@ landscape:
             logo: altran_technologies.svg
             twitter: https://twitter.com/CapgeminiEng
             crunchbase: https://www.crunchbase.com/organization/altran
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: Amantya Technologies, Inc
             homepage_url: https://amantyatech.com/
@@ -2148,11 +2170,24 @@ landscape:
             twitter: https://twitter.com/anynines
             crunchbase: https://www.crunchbase.com/organization/anynines-enterprise
           - item:
+            name: APE FACTORY
+            homepage_url: https://apefactory.com/
+            logo: ape_factory.svg
+            organization:
+              name: APE FACTORY
+          - item:
             name: Apiiro
             homepage_url: https://apiiro.com/
             logo: apiiro.svg
             twitter: https://twitter.com/ApiiroSecurity
             crunchbase: https://www.crunchbase.com/organization/apiiro-ltd
+          - item:
+            name: Apocalypse Studios Inc
+            homepage_url: https://apocalypse333.com/
+            logo: apocalypse_studios_inc.svg
+            twitter: https://twitter.com/ApocStudiosInc
+            organization:
+              name: Apocalypse Studios Inc
           - item:
             name: Apolicy.io, Inc.
             homepage_url: https://apolicy.io/
@@ -2183,7 +2218,7 @@ landscape:
             logo: apptio.svg
             twitter: https://twitter.com/Apptio
             crunchbase: https://www.crunchbase.com/organization/apptio
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: Appvia Ltd.
             homepage_url: https://appvia.io/
@@ -2213,7 +2248,7 @@ landscape:
             homepage_url: https://arcadyan.com/
             logo: arcadyan.svg
             crunchbase: https://www.crunchbase.com/organization/arcadyan-technology-corporation
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: Arcontech Group PLC
             homepage_url: https://arcontech.com/
@@ -2298,6 +2333,13 @@ landscape:
             twitter: https://twitter.com/AsiaInfo
             crunchbase: https://www.crunchbase.com/organization/asiainfo
           - item:
+            name: Aspecto Inc
+            homepage_url: https://aspecto.io/
+            logo: aspecto_inc.svg
+            twitter: https://twitter.com/AspectoInc
+            organization:
+              name: Aspecto Inc
+          - item:
             name: Aspen Mesh
             homepage_url: https://aspenmesh.io/
             logo: aspen_mesh.svg
@@ -2336,6 +2378,11 @@ landscape:
             logo: atos.svg
             twitter: https://twitter.com/Atos
             crunchbase: https://www.crunchbase.com/organization/atos
+          - item:
+            name: ATS (a KGPCo Company)
+            homepage_url: https://atsgen.com/
+            logo: ats_a_kgpco_company.svg
+            crunchbase: https://www.crunchbase.com/organization/kgpco
           - item:
             name: Audiokinetic Inc.
             homepage_url: https://audiokinetic.com/
@@ -2408,7 +2455,7 @@ landscape:
             logo: axis_communications.svg
             twitter: https://twitter.com/AxisIPVideo
             crunchbase: https://www.crunchbase.com/organization/axis-communications-ab
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: Backtrace I/O
             homepage_url: https://backtrace.io/
@@ -2469,11 +2516,17 @@ landscape:
             twitter: https://twitter.com/BeechSoft
             crunchbase: https://www.crunchbase.com/organization/beechwood-acquisitions
           - item:
+            name: Beijing Big Data Co.,Ltd.
+            homepage_url: https://bd-apaas.com/
+            logo: beijing_big_data_coltd.svg
+            crunchbase: https://www.crunchbase.com/organization/beijing-big-data
+          - item:
             name: Beijing Dosec Technology Co., Ltd
             homepage_url: https://dosec.cn/
             logo: beijing_dosec_technology_co_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/dosec
-            description: Dosec is a cloud-native security solution provider with security protection capabilities for containers, kubernetes, microservices, serverless,
+            description: >-
+              Dosec is a cloud-native security solution provider with security protection capabilities for containers, kubernetes, microservices, serverless,
               and DevOps.
           - item:
             name: Beijing Kingsoft Cloud Internet Technology
@@ -2491,7 +2544,8 @@ landscape:
             logo: beijing_shengxin_network_technology_co_ltd_qingteng.svg
             twitter: https://twitter.com/FuZhang6
             crunchbase: https://www.crunchbase.com/organization/qingteng-cloud-security
-            description: Qingteng is an innovative technology company specialized in workload security, constantly improving its core technological innovation capabilities
+            description: >-
+              Qingteng is an innovative technology company specialized in workload security, constantly improving its core technological innovation capabilities
               to become a socially responsible security company that creates value for users.
           - item:
             name: Beijing Sup-info Information Technology Co. Ltd
@@ -2659,7 +2713,7 @@ landscape:
             logo: broadcom_corporation.svg
             twitter: https://twitter.com/Broadcom
             crunchbase: https://www.crunchbase.com/organization/broadcom
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: Broadridge Financial Solutions
             homepage_url: https://broadridge.com/
@@ -2710,6 +2764,12 @@ landscape:
             logo: bytedance_ltd.svg
             twitter: https://twitter.com/BytedanceTalk
             crunchbase: https://www.crunchbase.com/organization/bytedance
+          - item:
+            name: bytesatwork
+            homepage_url: https://bytesatwork.io/
+            logo: bytesatwork.svg
+            organization:
+              name: bytesatwork
           - item:
             name: Cable Television Laboratories Inc.
             homepage_url: https://cablelabs.com/
@@ -2787,7 +2847,7 @@ landscape:
             logo: ca_technologies.svg
             twitter: https://twitter.com/Broadcom
             crunchbase: https://www.crunchbase.com/organization/broadcom
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: Caylent Inc
             homepage_url: https://caylent.com/
@@ -2856,7 +2916,7 @@ landscape:
             homepage_url: https://chinatelecom.cn/
             logo: china_telecommunications_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/china-telecom-corporation
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: China Unicom
             homepage_url: https://chinaunicom.com/
@@ -3055,6 +3115,13 @@ landscape:
             twitter: https://twitter.com/cloudsoft
             crunchbase: https://www.crunchbase.com/organization/cloudsoft-corporation
           - item:
+            name: Cloudthread
+            homepage_url: https://cloudthread.io/
+            logo: cloudthread.svg
+            twitter: https://twitter.com/_Cloudthread_
+            organization:
+              name: Cloudthread
+          - item:
             name: CloudWize
             homepage_url: https://cloudwize.io/
             logo: cloudwize.svg
@@ -3133,6 +3200,13 @@ landscape:
             twitter: https://twitter.com/cogsystems
             crunchbase: https://www.crunchbase.com/organization/cognitive-systems
           - item:
+            name: Colder Products Co
+            homepage_url: https://cpcworldwide.com/
+            logo: colder_products_co.svg
+            twitter: https://twitter.com/ColderProducts
+            organization:
+              name: Colder Products Co
+          - item:
             name: Collabora Ltd.
             homepage_url: https://collabora.com/
             logo: collabora_ltd.svg
@@ -3185,6 +3259,12 @@ landscape:
             logo: conductor_technologies_inc.svg
             twitter: https://twitter.com/ConductorTech
             crunchbase: https://www.crunchbase.com/organization/conductorio
+          - item:
+            name: Connect 5G, Inc.
+            homepage_url: https://connectvg.com/
+            logo: connect_5g_inc.svg
+            organization:
+              name: Connect 5G, Inc.
           - item:
             name: Conoa AB
             homepage_url: https://conoa.se/
@@ -3257,6 +3337,13 @@ landscape:
             twitter: https://twitter.com/CoreHiveComp
             crunchbase: https://www.crunchbase.com/organization/corehive-computing
           - item:
+            name: CoreStack
+            homepage_url: https://corestack.io/
+            logo: corestack.svg
+            twitter: https://twitter.com/corestack
+            organization:
+              name: CoreStack
+          - item:
             name: Cosaic, Inc.
             homepage_url: https://cosaic.io/
             logo: cosaic_inc.svg
@@ -3304,11 +3391,24 @@ landscape:
             twitter: https://twitter.com/credativ
             crunchbase: https://www.crunchbase.com/organization/credativ
           - item:
+            name: croit GmbH
+            homepage_url: https://croit.io/
+            logo: croit_gmbh.svg
+            organization:
+              name: croit GmbH
+          - item:
             name: Crunchy Data Solutions, Inc.
             homepage_url: https://crunchydata.com/
             logo: crunchy_data_solutions_inc.svg
             twitter: https://twitter.com/crunchydata
             crunchbase: https://www.crunchbase.com/organization/crunchy-data-solutions-inc-
+          - item:
+            name: Crust Network
+            homepage_url: https://crust.network/
+            logo: crust_network.svg
+            twitter: https://twitter.com/CommunityCrust
+            organization:
+              name: Crust Network
           - item:
             name: Cryptape Technology Co., Ltd.
             homepage_url: https://cryptape.com/
@@ -3320,6 +3420,12 @@ landscape:
             logo: csengineering.svg
             twitter: https://twitter.com/CSECorp
             crunchbase: https://www.crunchbase.com/organization/constellation-software-engineering
+          - item:
+            name: CubeIGX
+            homepage_url: https://cubeigx.com/
+            logo: cubeigx.svg
+            organization:
+              name: CubeIGX
           - item:
             name: cuegee it
             homepage_url: https://cuegee.com/
@@ -3457,6 +3563,12 @@ landscape:
             twitter: https://twitter.com/_Daynix_
             crunchbase: https://www.crunchbase.com/organization/daynix
           - item:
+            name: DBE Core
+            homepage_url: https://dbecore.com/
+            logo: dbe_core.svg
+            organization:
+              name: DBE Core
+          - item:
             name: DB Systel GmbH
             homepage_url: https://dbsystel.de/
             logo: db_systel_gmbh.svg
@@ -3549,6 +3661,13 @@ landscape:
             homepage_url: https://svautomotive.desay.com/
             logo: desay_sv_automotive.svg
             crunchbase: https://www.crunchbase.com/organization/desay-corporation
+          - item:
+            name: Design Barn Inc
+            homepage_url: https://lottiefiles.com/
+            logo: design_barn_inc.svg
+            twitter: https://twitter.com/LottieFiles
+            organization:
+              name: Design Barn Inc
           - item:
             name: Desotech srl
             homepage_url: https://desotech.it/
@@ -3898,6 +4017,13 @@ landscape:
             twitter: https://twitter.com/estateably
             crunchbase: https://www.crunchbase.com/organization/estateably-inc
           - item:
+            name: Ethernity CLOUD
+            homepage_url: https://ethernity.cloud/
+            logo: ethernity_cloud.svg
+            twitter: https://twitter.com/Ethernity_cloud
+            organization:
+              name: Ethernity CLOUD
+          - item:
             name: Evernym, Inc.
             homepage_url: https://evernym.com/
             logo: evernym_inc.svg
@@ -3914,6 +4040,13 @@ landscape:
             logo: exem.svg
             crunchbase: https://www.crunchbase.com/organization/exem-4a38
             joined: '2021-01-25'
+          - item:
+            name: Exivity
+            homepage_url: https://exivity.com/
+            logo: exivity.svg
+            twitter: https://twitter.com/exivity_cloud
+            organization:
+              name: Exivity
           - item:
             name: Exotanium Inc.
             homepage_url: https://exotanium.io/
@@ -4138,17 +4271,36 @@ landscape:
             twitter: https://twitter.com/GenesisFinTech
             crunchbase: https://www.crunchbase.com/organization/genesis-2
           - item:
+            name: Genesys
+            homepage_url: https://genesys.com/
+            logo: genesys.svg
+            twitter: https://twitter.com/Genesys
+            crunchbase: https://www.crunchbase.com/organization/genesys
+          - item:
             name: Genvid Technologies Inc
             homepage_url: https://genvidtech.com/
             logo: genvid_technologies_inc.svg
             twitter: https://twitter.com/GenvidTech
             crunchbase: https://www.crunchbase.com/organization/genvid-technologies-inc
           - item:
+            name: GenX
+            homepage_url: https://genx.network/
+            logo: genx.svg
+            organization:
+              name: GenX
+          - item:
             name: German Edge Cloud GmbH
             homepage_url: https://gec.io/
             logo: german_edge_cloud_gmbh.svg
             twitter: https://twitter.com/germanedgecloud
             crunchbase: https://www.crunchbase.com/organization/innovo-cloud
+          - item:
+            name: Ghost Locomotion Inc.
+            homepage_url: https://gh.st/
+            logo: ghost_locomotion_inc.svg
+            twitter: https://twitter.com/ghosthayes
+            organization:
+              name: Ghost Locomotion Inc.
           - item:
             name: Giant Swarm GmbH
             homepage_url: https://giantswarm.io/
@@ -4227,6 +4379,13 @@ landscape:
             twitter: https://twitter.com/GrapeUpInc
             crunchbase: https://www.crunchbase.com/organization/grape-up
           - item:
+            name: GraphCDN
+            homepage_url: https://graphcdn.io/
+            logo: graphcdn.svg
+            twitter: https://twitter.com/GraphCDN
+            organization:
+              name: GraphCDN
+          - item:
             name: GraphCMS
             homepage_url: https://graphcms.com/
             logo: graphcms.svg
@@ -4284,6 +4443,12 @@ landscape:
             logo: guida.svg
             crunchbase: https://www.crunchbase.com/organization/guida
           - item:
+            name: Guide-Rails – Calculi Corporation
+            homepage_url: https://calculi.com/
+            logo: guide-rails__calculi_corporation.svg
+            organization:
+              name: Guide-Rails – Calculi Corporation
+          - item:
             name: Hacken
             homepage_url: https://hacken.io/
             logo: hacken.svg
@@ -4339,6 +4504,13 @@ landscape:
             logo: hanover_insurance_group.svg
             twitter: https://twitter.com/The_Hanover
             crunchbase: https://www.crunchbase.com/organization/the-hanover-insurance-group-inc
+          - item:
+            name: HAPI - on-chain cybersecurity protocol
+            homepage_url: https://hapi.one/
+            logo: hapi_-_on-chain_cybersecurity_protocol.svg
+            twitter: https://twitter.com/HAPI_DACH
+            organization:
+              name: HAPI - on-chain cybersecurity protocol
           - item:
             name: HAProxy Technologies
             homepage_url: https://haproxy.com/
@@ -4398,7 +4570,7 @@ landscape:
             logo: hensoldt_cyber_gmbh.svg
             twitter: https://twitter.com/HENSOLDTCyber
             crunchbase: https://www.crunchbase.com/organization/hensoldt
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: HERE Global B.V.
             homepage_url: https://here.com/
@@ -4422,12 +4594,18 @@ landscape:
             logo: high_plains_computing_llc.svg
             crunchbase: https://www.crunchbase.com/organization/high-plains-computing
           - item:
+            name: Highway9 Networks
+            homepage_url: https://highway9networks.com/
+            logo: highway9_networks.svg
+            organization:
+              name: Highway9 Networks
+          - item:
             name: Honda R & D Co. Ltd.
             homepage_url: https://honda.com/
             logo: honda_r__d_co_ltd.svg
             twitter: https://twitter.com/Honda
             crunchbase: https://www.crunchbase.com/organization/honda-automobiles
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: Horizon Robotics
             homepage_url: https://horizon.ai/
@@ -4480,6 +4658,13 @@ landscape:
             twitter: https://twitter.com/iauro
             crunchbase: https://www.crunchbase.com/organization/iauro
             joined: '2021-02-02'
+          - item:
+            name: IdRamp
+            homepage_url: https://idramp.com/
+            logo: idramp.svg
+            twitter: https://twitter.com/IdentityRamp
+            organization:
+              name: IdRamp
           - item:
             name: iExec Blockchain Tech
             homepage_url: https://iex.ec/
@@ -4565,6 +4750,12 @@ landscape:
             twitter: https://twitter.com/IndexAnalytics
             crunchbase: https://www.crunchbase.com/organization/index-analytics
           - item:
+            name: IndyKite Inc.
+            homepage_url: https://indykite.com/
+            logo: indykite_inc.svg
+            organization:
+              name: IndyKite Inc.
+          - item:
             name: InfluxData Inc
             homepage_url: https://influxdata.com/
             logo: influxdata_inc.svg
@@ -4611,7 +4802,7 @@ landscape:
             logo: ing.svg
             twitter: https://twitter.com/ING_news
             crunchbase: https://www.crunchbase.com/organization/ing-group
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: Innablr Pty Ltd
             homepage_url: https://innablr.com.au/
@@ -4746,6 +4937,13 @@ landscape:
             twitter: https://twitter.com/itau
             crunchbase: https://www.crunchbase.com/organization/banco-itau-2
           - item:
+            name: Itera Technologies a.s.
+            homepage_url: https://itera.io/
+            logo: itera_technologies_as.svg
+            twitter: https://twitter.com/IteraIo
+            organization:
+              name: Itera Technologies a.s.
+          - item:
             name: ITRenew
             homepage_url: https://itrenew.com/
             logo: itrenew.svg
@@ -4762,6 +4960,13 @@ landscape:
             logo: jdcom_inc.svg
             twitter: https://twitter.com/JD_Corporate
             crunchbase: https://www.crunchbase.com/organization/jd-com
+          - item:
+            name: Jeli.io
+            homepage_url: https://jeli.io/
+            logo: jeliio.svg
+            twitter: https://twitter.com/jeli_io
+            organization:
+              name: Jeli.io
           - item:
             name: Jetstack Ltd
             homepage_url: https://jetstack.io/
@@ -4902,6 +5107,13 @@ landscape:
             logo: kinx.svg
             crunchbase: https://www.crunchbase.com/organization/kinx
           - item:
+            name: Kioxia Corporation
+            homepage_url: https://kioxia.com/
+            logo: kioxia_corporation.svg
+            twitter: https://twitter.com/KIOXIAAmerica
+            organization:
+              name: Kioxia Corporation
+          - item:
             name: Kiratech SpA
             homepage_url: https://kiratech.it/
             logo: kiratech_spa.svg
@@ -4960,6 +5172,13 @@ landscape:
             logo: kpit_technologies_limited.svg
             twitter: https://twitter.com/KPIT
             crunchbase: https://www.crunchbase.com/organization/kpit-cummins
+          - item:
+            name: Kry10 Limited
+            homepage_url: https://kry10.com/
+            logo: kry10_limited.svg
+            twitter: https://twitter.com/kry10_limited
+            organization:
+              name: Kry10 Limited
           - item:
             name: Krypc Corporation
             homepage_url: https://krypc.com/
@@ -5095,6 +5314,13 @@ landscape:
             twitter: https://twitter.com/LGUS
             crunchbase: https://www.crunchbase.com/organization/lg
           - item:
+            name: Li Auto Inc.
+            homepage_url: https://lixiang.com/
+            logo: li_auto_inc.svg
+            twitter: https://twitter.com/Li_Auto_
+            organization:
+              name: Li Auto Inc.
+          - item:
             name: Lightbend Inc
             homepage_url: https://lightbend.com/
             logo: lightbend_inc.svg
@@ -5153,6 +5379,13 @@ landscape:
             logo: liquid_reply.svg
             crunchbase: https://www.crunchbase.com/organization/liquid-reply
           - item:
+            name: Liquidus
+            homepage_url: https://liquidus.io/
+            logo: liquidus.svg
+            twitter: https://twitter.com/Liquidus_io
+            organization:
+              name: Liquidus
+          - item:
             name: LMAX Exchange Ltd
             homepage_url: https://lmax.com/
             logo: lmax_exchange_ltd.svg
@@ -5206,7 +5439,7 @@ landscape:
             logo: luxoft_global_operations_gmbh.svg
             twitter: https://twitter.com/luxoft
             crunchbase: https://www.crunchbase.com/organization/luxoft
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: MacStadium
             homepage_url: https://macstadium.com/
@@ -5225,7 +5458,7 @@ landscape:
             logo: mailru_cloud_solutions.svg
             twitter: https://twitter.com/mailru
             crunchbase: https://www.crunchbase.com/organization/mail-ru
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: MakinaRocks
             homepage_url: https://makinarocks.ai/
@@ -5314,7 +5547,7 @@ landscape:
             logo: mediatek_usa_inc.svg
             twitter: https://twitter.com/MediaTek
             crunchbase: https://www.crunchbase.com/organization/mediatek
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: MediConCen Limited
             homepage_url: https://mediconcen.com/
@@ -5343,7 +5576,7 @@ landscape:
             homepage_url: https://mellanox.com/
             logo: mellanox_technologies_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/mellanox-technologies
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: Memfault Inc
             homepage_url: https://memfault.com/
@@ -5628,6 +5861,13 @@ landscape:
             twitter: https://twitter.com/NeuVector
             crunchbase: https://www.crunchbase.com/organization/neuvector
           - item:
+            name: Nevexis
+            homepage_url: https://costimize.io/
+            logo: nevexis.svg
+            twitter: https://twitter.com/CostimizeIo
+            organization:
+              name: Nevexis
+          - item:
             name: New Context, A Copado Co.
             homepage_url: https://newcontext.com/
             logo: new_context_a_copado_co.svg
@@ -5725,6 +5965,12 @@ landscape:
             twitter: https://twitter.com/NS1
             crunchbase: https://www.crunchbase.com/organization/ns1
           - item:
+            name: NTC IT ROSA LLC
+            homepage_url: https://rosalinux.ru/
+            logo: ntc_it_rosa_llc.svg
+            organization:
+              name: NTC IT ROSA LLC
+          - item:
             name: NTT Corporation
             homepage_url: https://ntt.co.jp/
             logo: ntt_corporation.svg
@@ -5735,6 +5981,12 @@ landscape:
             homepage_url: https://nttd-mse.com/
             logo: ntt_data_mse__corporation.svg
             crunchbase: https://www.crunchbase.com/organization/ntt-data-mse
+          - item:
+            name: Numbers
+            homepage_url: https://numbersprotocol.io/
+            logo: numbers.svg
+            organization:
+              name: Numbers
           - item:
             name: Nutanix, Inc.
             homepage_url: https://nutanix.com/
@@ -5801,11 +6053,25 @@ landscape:
             twitter: https://twitter.com/openraven
             crunchbase: https://www.crunchbase.com/organization/open-raven
           - item:
+            name: Open Source Automation Development Lab (OSADL) eG
+            homepage_url: https://osadl.org/
+            logo: open_source_automation_development_lab_osadl_eg.svg
+            twitter: https://twitter.com/OSADL_eG
+            organization:
+              name: Open Source Automation Development Lab (OSADL) eG
+          - item:
             name: Open Source Consulting Inc.
             homepage_url: https://osci.kr/
             logo: open_source_consulting_inc.svg
             twitter: https://twitter.com/osckorea
             crunchbase: https://www.crunchbase.com/organization/open-source-consulting
+          - item:
+            name: Open Source Security, Inc.
+            homepage_url: https://opensrcsec.com/
+            logo: open_source_security_inc.svg
+            twitter: https://twitter.com/opensrcsec
+            organization:
+              name: Open Source Security, Inc.
           - item:
             name: OpenSynergy GmbH
             homepage_url: https://opensynergy.com/
@@ -5877,6 +6143,13 @@ landscape:
             logo: oticon_as.svg
             twitter: https://twitter.com/OticonUSA
             crunchbase: https://www.crunchbase.com/organization/oticon
+          - item:
+            name: OurSci
+            homepage_url: https://our-sci.net/
+            logo: oursci.svg
+            twitter: https://twitter.com/our_sci
+            organization:
+              name: OurSci
           - item:
             name: OVH Groupe SAS
             homepage_url: https://ovh.com/
@@ -6104,6 +6377,12 @@ landscape:
             twitter: https://twitter.com/PRODYNASE
             crunchbase: https://www.crunchbase.com/organization/prodyna
           - item:
+            name: Proofcraft Pty Ltd
+            homepage_url: https://proofcraft.systems/
+            logo: proofcraft_pty_ltd.svg
+            organization:
+              name: Proofcraft Pty Ltd
+          - item:
             name: ProsperOps
             homepage_url: https://prosperops.com/
             logo: prosperops.svg
@@ -6173,7 +6452,7 @@ landscape:
             homepage_url: https://qingcloud.com/
             logo: qingcloud_technologies_corp.svg
             crunchbase: https://www.crunchbase.com/organization/qingcloud
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: Qovery
             homepage_url: https://qovery.com/
@@ -6229,6 +6508,12 @@ landscape:
             twitter: https://twitter.com/Radisys
             crunchbase: https://www.crunchbase.com/organization/radisys
           - item:
+            name: RADTONICS
+            homepage_url: https://radtonics.com/
+            logo: radtonics.svg
+            organization:
+              name: RADTONICS
+          - item:
             name: Rafay Systems, Inc.
             homepage_url: https://rafay.co/
             logo: rafay_systems_inc.svg
@@ -6280,6 +6565,13 @@ landscape:
             logo: rbc_capital_markets_llc.svg
             twitter: https://twitter.com/rbccm
             crunchbase: https://www.crunchbase.com/organization/rbc-capital-markets
+          - item:
+            name: ReadMe
+            homepage_url: https://readme.io/
+            logo: readme.svg
+            twitter: https://twitter.com/readmeio
+            organization:
+              name: ReadMe
           - item:
             name: ReadySpace Network Pte Ltd
             homepage_url: https://readyspace.com/
@@ -6376,6 +6668,13 @@ landscape:
             twitter: https://twitter.com/ReversingLabs
             crunchbase: https://www.crunchbase.com/organization/reversinglabs
           - item:
+            name: Revolgy
+            homepage_url: https://revolgy.com/
+            logo: revolgy.svg
+            twitter: https://twitter.com/Revolgy
+            organization:
+              name: Revolgy
+          - item:
             name: Ribbon Communications Operating Company, Inc.
             homepage_url: https://ribboncommunications.com/
             logo: ribbon_communications_operating_company_inc.svg
@@ -6424,6 +6723,12 @@ landscape:
             twitter: https://twitter.com/rookoutlabs
             crunchbase: https://www.crunchbase.com/organization/rookout
           - item:
+            name: Rootchain Technology Co., Ltd
+            homepage_url: https://rootchain.com.cn/
+            logo: rootchain_technology_co_ltd.svg
+            organization:
+              name: Rootchain Technology Co., Ltd
+          - item:
             name: RStudio PBC
             homepage_url: https://rstudio.com/
             logo: rstudio_pbc.svg
@@ -6458,6 +6763,13 @@ landscape:
             twitter: https://twitter.com/SaicMotormg
             crunchbase: https://www.crunchbase.com/organization/saic-motor
           - item:
+            name: Saleor Commerce
+            homepage_url: https://saleor.io/
+            logo: saleor_commerce.svg
+            twitter: https://twitter.com/getsaleor
+            organization:
+              name: Saleor Commerce
+          - item:
             name: Salesforce.com, inc.
             homepage_url: https://salesforce.com/
             logo: salesforcecom_inc.svg
@@ -6469,6 +6781,13 @@ landscape:
             logo: salsify.svg
             twitter: https://twitter.com/Salsify
             crunchbase: https://www.crunchbase.com/organization/salsify
+          - item:
+            name: SANCLOUD LTD
+            homepage_url: https://sancloud.co.uk/
+            logo: sancloud_ltd.svg
+            twitter: https://twitter.com/sancloud
+            organization:
+              name: SANCLOUD LTD
           - item:
             name: SAP
             homepage_url: https://sap.com/
@@ -6587,6 +6906,13 @@ landscape:
             homepage_url: https://sempre.ai/
             logo: sempreai.svg
             crunchbase: https://www.crunchbase.com/organization/sempre
+          - item:
+            name: Senofi
+            homepage_url: https://senofi.ca/
+            logo: senofi.svg
+            twitter: https://twitter.com/SenofiCA
+            organization:
+              name: Senofi
           - item:
             name: Sensu, Inc
             homepage_url: https://sensuapp.org/
@@ -6779,6 +7105,13 @@ landscape:
             logo: sivantos_gmbh.svg
             crunchbase: https://www.crunchbase.com/organization/sivantos
           - item:
+            name: SkyWater Technology
+            homepage_url: https://skywatertechnology.com/
+            logo: skywater_technology.svg
+            twitter: https://twitter.com/SkyWaterFoundry
+            organization:
+              name: SkyWater Technology
+          - item:
             name: Slim.AI
             homepage_url: https://slim.ai/
             logo: slimai.svg
@@ -6876,6 +7209,12 @@ landscape:
             logo: soloio.svg
             twitter: https://twitter.com/soloio_inc
             crunchbase: https://www.crunchbase.com/organization/solo-io
+          - item:
+            name: Solutions by STC
+            homepage_url: https://solutions.com.sa/
+            logo: solutions_by_stc.svg
+            twitter: https://twitter.com/solutions_bystc
+            crunchbase: https://www.crunchbase.com/organization/stc-solutions
           - item:
             name: Sonatus, Inc.
             homepage_url: https://sonatus.com/
@@ -6994,7 +7333,7 @@ landscape:
             homepage_url: https://sterlite.com/
             logo: sterlite_technologies_limited.svg
             crunchbase: https://www.crunchbase.com/organization/sterlite-technologies-ltd-
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: STMicroelectronics International N.V.
             homepage_url: https://st.com/
@@ -7077,7 +7416,7 @@ landscape:
             logo: suse_llc.svg
             twitter: https://twitter.com/SUSE
             crunchbase: https://www.crunchbase.com/organization/suse
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: Suzhou Beyondcent & Software Co., Ltd. (BoCloud)
             homepage_url: https://beyondcent.com/
@@ -7207,6 +7546,13 @@ landscape:
             twitter: https://twitter.com/TechnativeB
             crunchbase: https://www.crunchbase.com/organization/technative
           - item:
+            name: Technology Innovation Institute
+            homepage_url: https://tii.ae/
+            logo: technology_innovation_institute.svg
+            twitter: https://twitter.com/TIIuae
+            organization:
+              name: Technology Innovation Institute
+          - item:
             name: Tectonic Labs Ltd.
             homepage_url: https://ridge.co/
             logo: tectonic_labs_ltd.svg
@@ -7234,6 +7580,12 @@ landscape:
             logo: telefonica.svg
             twitter: https://twitter.com/Telefonica
             crunchbase: https://www.crunchbase.com/organization/telefonica
+          - item:
+            name: Temporal Technologies Inc
+            homepage_url: https://temporal.io/
+            logo: temporal_technologies_inc.svg
+            organization:
+              name: Temporal Technologies Inc
           - item:
             name: TenneT
             homepage_url: https://tennet.eu/
@@ -7541,6 +7893,12 @@ landscape:
             twitter: https://twitter.com/UBS
             crunchbase: https://www.crunchbase.com/organization/ubs
           - item:
+            name: ULAK HABERLESME A.S.
+            homepage_url: https://ulakhaberlesme.com.tr/
+            logo: ulak_haberlesme_as.svg
+            twitter: https://twitter.com/UlakHaberlesme
+            crunchbase: https://www.crunchbase.com/organization/ulak-haberlesme-a-s
+          - item:
             name: UMB AG
             homepage_url: https://umb.ch/
             logo: umb_ag.svg
@@ -7562,6 +7920,12 @@ landscape:
             homepage_url: https://unicorn.com/
             logo: unicorn_systems_as.svg
             crunchbase: https://www.crunchbase.com/organization/unicorn-solutions
+          - item:
+            name: UnionTech Software Technology Co., Ltd.
+            homepage_url: https://uniontech.com/
+            logo: uniontech_software_technology_co_ltd.svg
+            organization:
+              name: UnionTech Software Technology Co., Ltd.
           - item:
             name: Unisys
             homepage_url: https://unisys.com/
@@ -7868,7 +8232,7 @@ landscape:
             homepage_url: https://wnc.com.tw/
             logo: wistron_neweb_corp.svg
             crunchbase: https://www.crunchbase.com/organization/wistron-neweb-corp
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: Witekio Holding
             homepage_url: https://witekio.com/
@@ -7899,6 +8263,12 @@ landscape:
             logo: wuhan_lotus_cars_technology_coltd.svg
             twitter: https://twitter.com/lotuscars
             crunchbase: https://www.crunchbase.com/organization/lotus-cars
+          - item:
+            name: Xcalibyte
+            homepage_url: https://xcalibyte.com/
+            logo: xcalibyte.svg
+            organization:
+              name: Xcalibyte
           - item:
             name: x-cellent technologies GmbH
             homepage_url: https://x-cellent.com/
@@ -7955,11 +8325,25 @@ landscape:
             twitter: https://twitter.com/Yahoo_JAPAN_PR
             crunchbase: https://www.crunchbase.com/organization/yahoo-japan
           - item:
+            name: Yellowbrick Data
+            homepage_url: https://yellowbrick.com/
+            logo: yellowbrick_data.svg
+            twitter: https://twitter.com/YellowbrickData
+            organization:
+              name: Yellowbrick Data
+          - item:
             name: YLD! Limited
             homepage_url: https://yld.io/
             logo: yld_limited.svg
             twitter: https://twitter.com/YLDio
             crunchbase: https://www.crunchbase.com/organization/yld
+          - item:
+            name: Yoppworks
+            homepage_url: https://yoppworks.com/
+            logo: yoppworks.svg
+            twitter: https://twitter.com/YoppWorks
+            organization:
+              name: Yoppworks
           - item:
             name: Yotascale
             homepage_url: https://yotascale.com/
@@ -7991,6 +8375,13 @@ landscape:
             logo: zenlayer_inc.svg
             twitter: https://twitter.com/zenlayer
             crunchbase: https://www.crunchbase.com/organization/zenlayer
+          - item:
+            name: Zero ASIC
+            homepage_url: https://zeroasic.com/
+            logo: zero_asic.svg
+            twitter: https://twitter.com/zeroasic
+            organization:
+              name: Zero ASIC
           - item:
             name: Zerto, Inc.
             homepage_url: https://zerto.com/
@@ -8053,6 +8444,12 @@ landscape:
             twitter: https://twitter.com/AAISCorporate
             crunchbase: https://www.crunchbase.com/organization/american-association-of-insurance-services
           - item:
+            name: Agricultural Informatics Lab - Purdue University
+            homepage_url: https://aginformaticslab.org/
+            logo: agricultural_informatics_lab_-_purdue_university.svg
+            organization:
+              name: Agricultural Informatics Lab - Purdue University
+          - item:
             name: AI for People
             homepage_url: https://aiforpeople.org/
             logo: ai_for_people.svg
@@ -8082,6 +8479,13 @@ landscape:
             logo: alliance_of_blockchain_industry_z-park.svg
             crunchbase: https://www.crunchbase.com/organization/alliance-of-blockchain-industry-z-park
           - item:
+            name: AlmaLinux
+            homepage_url: https://almalinux.org/
+            logo: almalinux.svg
+            twitter: https://twitter.com/AlmaLinux
+            organization:
+              name: AlmaLinux
+          - item:
             name: Ambianic.ai
             homepage_url: https://ambianic.ai/
             logo: ambianicai.svg
@@ -8104,6 +8508,12 @@ landscape:
             homepage_url: https://nebrija.es/
             logo: antonio_de_nebrija_university.svg
             crunchbase: https://www.crunchbase.com/organization/nebrija-universidad
+          - item:
+            name: A.P.S.P
+            homepage_url: https://apsp.com/
+            logo: apsp.svg
+            organization:
+              name: A.P.S.P
           - item:
             name: Arizona State University
             homepage_url: https://asu.edu/
@@ -8128,6 +8538,13 @@ landscape:
             logo: automotive_edge_computing_consortium_inc.svg
             twitter: https://twitter.com/TweetAECC
             crunchbase: https://www.crunchbase.com/organization/automotive-edge-computing-consortium
+          - item:
+            name: AYO Social Enterprise
+            homepage_url: https://aseanyouth.net/
+            logo: ayo_social_enterprise.svg
+            twitter: https://twitter.com/ayoasean
+            organization:
+              name: AYO Social Enterprise
           - item:
             name: Banque de France
             homepage_url: https://banque-france.fr/
@@ -8205,6 +8622,13 @@ landscape:
             twitter: https://twitter.com/Infoway
             crunchbase: https://www.crunchbase.com/organization/canada-health-infoway
           - item:
+            name: Canadian RegTech Association
+            homepage_url: https://canadianregtech.ca/
+            logo: canadian_regtech_association.svg
+            twitter: https://twitter.com/CRTA_ACTR
+            organization:
+              name: Canadian RegTech Association
+          - item:
             name: CENGN
             homepage_url: https://cengn.ca/
             logo: cengn.svg
@@ -8233,6 +8657,13 @@ landscape:
             logo: colorado_department_of_public_health_and_environment.svg
             twitter: https://twitter.com/coloradogov
             crunchbase: https://www.crunchbase.com/organization/colorado-department-of-public-health-environment
+          - item:
+            name: Compute Canada
+            homepage_url: https://computecanada.ca/
+            logo: compute_canada.svg
+            twitter: https://twitter.com/ComputeCanada
+            organization:
+              name: Compute Canada
           - item:
             name: Construction Blockchain Consortium
             homepage_url: https://constructionblockchain.org/
@@ -8269,6 +8700,20 @@ landscape:
             twitter: https://twitter.com/digitalgreenorg
             crunchbase: https://www.crunchbase.com/organization/digital-green/timeline
           - item:
+            name: DignifID Animals Foundation
+            homepage_url: https://dignifid.org/
+            logo: dignifid_animals_foundation.svg
+            twitter: https://twitter.com/DignifIDanimals
+            organization:
+              name: DignifID Animals Foundation
+          - item:
+            name: Drave Développement
+            homepage_url: https://drave.quebec/
+            logo: drave_developpement.svg
+            twitter: https://twitter.com/DraveDev
+            organization:
+              name: Drave Développement
+          - item:
             name: East China Normal University
             homepage_url: https://ecnu.edu.cn/
             logo: east_china_normal_university.svg
@@ -8298,6 +8743,12 @@ landscape:
             logo: elering_as.svg
             twitter: https://twitter.com/EleringAS
             crunchbase: https://www.crunchbase.com/organization/elering
+          - item:
+            name: EMILI Canada
+            homepage_url: https://emilicanada.com/
+            logo: emili_canada.svg
+            organization:
+              name: EMILI Canada
           - item:
             name: EnAccess Foundation
             homepage_url: https://enaccess.org/
@@ -8363,8 +8814,16 @@ landscape:
             logo: fachhochschule_kiel.svg
             twitter: https://twitter.com/fh_kiel
             crunchbase: https://www.crunchbase.com/organization/university-of-applied-sciences-kiel
-            description: With more than 6,900 students, the Kiel University of Applied Sciences (Fachhochschule Kiel ["FH Kiel"]) is the largest University of Applied
+            description: >-
+              With more than 6,900 students, the Kiel University of Applied Sciences (Fachhochschule Kiel ["FH Kiel"]) is the largest University of Applied
               Sciences in Schleswig-Holstein
+          - item:
+            name: Farm Foundation
+            homepage_url: https://farmfoundation.org/
+            logo: farm_foundation.svg
+            twitter: https://twitter.com/FarmFoundation
+            organization:
+              name: Farm Foundation
           - item:
             name: (FASRC) FAS Research Computing - Harvard
             homepage_url: https://rc.fas.harvard.edu/
@@ -8389,6 +8848,12 @@ landscape:
             logo: fraunhofer_gesellschaft_iis.svg
             twitter: https://twitter.com/Fraunhofer
             crunchbase: https://www.crunchbase.com/organization/fraunhofer-gesellschaft
+          - item:
+            name: free5GC
+            homepage_url: https://free5gc.org/
+            logo: free5gc.svg
+            organization:
+              name: free5GC
           - item:
             name: Friedrich-Alexander-University (FAU)
             homepage_url: https://fau.eu/
@@ -8466,11 +8931,25 @@ landscape:
             twitter: https://twitter.com/HSELive
             crunchbase: https://www.crunchbase.com/organization/ireland-health-service-executive
           - item:
+            name: Her Majesty's Government
+            homepage_url: https://digital.cabinet-office.gov.uk/
+            logo: her_majestys_government.svg
+            twitter: https://twitter.com/GOVUK
+            organization:
+              name: Her Majesty's Government
+          - item:
             name: High School Technology Services
             homepage_url: https://myhsts.org/
             logo: high_school_technology_services.svg
             twitter: https://twitter.com/MyHSTS
             crunchbase: https://www.crunchbase.com/organization/high-school-technical-services
+          - item:
+            name: IIT Madras
+            homepage_url: https://iitm.ac.in/
+            logo: iit_madras.svg
+            twitter: https://twitter.com/iitmadras
+            organization:
+              name: IIT Madras
           - item:
             name: Industrial Technology Research Institute (ITRI)
             homepage_url: https://itri.org.tw/
@@ -8487,6 +8966,12 @@ landscape:
             homepage_url: https://iii.org.tw/
             logo: institute_for_information_industry.svg
             crunchbase: https://www.crunchbase.com/organization/institute-for-information-industry-2
+          - item:
+            name: Instituto de Fisica Teorica UAM-CSIC
+            homepage_url: https://ift.uam-csic.es/
+            logo: instituto_de_fisica_teorica_uam-csic.svg
+            organization:
+              name: Instituto de Fisica Teorica UAM-CSIC
           - item:
             name: Inter-American Development Bank (dba LACChain)
             homepage_url: https://www.lacchain.net/home
@@ -8536,11 +9021,23 @@ landscape:
             twitter: https://twitter.com/IowaStateU
             crunchbase: https://www.crunchbase.com/organization/iowa-state-university
           - item:
+            name: ISSAT Mateur
+            homepage_url: https://issatm.rnu.tn/
+            logo: issat_mateur.svg
+            organization:
+              name: ISSAT Mateur
+          - item:
             name: ISSIP
             homepage_url: https://issip.org/
             logo: issip.svg
             twitter: https://twitter.com/The_ISSIP
             crunchbase: https://www.crunchbase.com/organization/international-society-of-service-innovation-professionals
+          - item:
+            name: IT Corner Poland
+            homepage_url: https://itcorner.org.pl/
+            logo: it_corner_poland.svg
+            organization:
+              name: IT Corner Poland
           - item:
             name: Kansas State University
             homepage_url: https://k-state.edu/
@@ -8594,6 +9091,26 @@ landscape:
             twitter: https://twitter.com/Harvard
             crunchbase: https://www.crunchbase.com/organization/harvard-university
           - item:
+            name: Learning Economy, Inc.
+            homepage_url: https://learningeconomy.io/
+            logo: learning_economy_inc.svg
+            twitter: https://twitter.com/Learnonomy
+            organization:
+              name: Learning Economy, Inc.
+          - item:
+            name: LFCA Umweltschutz e.V.
+            homepage_url: https://lfca.earth/
+            logo: lfca_umweltschutz_ev.svg
+            twitter: https://twitter.com/Leaders4CA
+            organization:
+              name: LFCA Umweltschutz e.V.
+          - item:
+            name: Living Open Source Foundation
+            homepage_url: https://livingopensource.net/
+            logo: living_open_source_foundation.svg
+            organization:
+              name: Living Open Source Foundation
+          - item:
             name: LTSI
             homepage_url: https://ltsi.linuxfoundation.org/
             logo: ltsi.svg
@@ -8617,6 +9134,12 @@ landscape:
             logo: mef_forum.svg
             twitter: https://twitter.com/MEF_Forum
             crunchbase: https://www.crunchbase.com/organization/mef-university
+          - item:
+            name: MicroElectronics Research Lab
+            homepage_url: https://uit.edu/merluit
+            logo: microelectronics_research_lab.svg
+            organization:
+              name: MicroElectronics Research Lab
           - item:
             name: Ministry of Citizens Services
             homepage_url: https://gov.bc.ca/
@@ -8731,6 +9254,12 @@ landscape:
             twitter: https://twitter.com/nyuniversity
             crunchbase: https://www.crunchbase.com/organization/new-york-university
           - item:
+            name: NHSX
+            homepage_url: https://nhs.net/
+            logo: nhsx.svg
+            organization:
+              name: NHSX
+          - item:
             name: NIAB
             homepage_url: https://niab.com/
             logo: niab.svg
@@ -8743,6 +9272,12 @@ landscape:
             twitter: https://twitter.com/ncdhhs
             crunchbase: https://www.crunchbase.com/organization/nc-department-of-health-and-human-services
           - item:
+            name: Okinawa Open Laboratory
+            homepage_url: https://okinawaopenlabs.org/
+            logo: okinawa_open_laboratory.svg
+            twitter: https://twitter.com/OkinawaOpenLab
+            crunchbase: https://www.crunchbase.com/organization/open-network-lab
+          - item:
             name: Onom Foundation
             homepage_url: https://onomfoundation.org/
             logo: onom_foundation.svg
@@ -8754,6 +9289,20 @@ landscape:
             logo: openadr_alliance.svg
             twitter: https://twitter.com/OpenADRAlliance
             crunchbase: https://www.crunchbase.com/organization/openadr-alliance
+          - item:
+            name: OpenAirInterface Software Alliance (OSA)
+            homepage_url: https://openairinterface.org/
+            logo: openairinterface_software_alliance_osa.svg
+            twitter: https://twitter.com/osalliance5g
+            organization:
+              name: OpenAirInterface Software Alliance (OSA)
+          - item:
+            name: Open Culture Foundation
+            homepage_url: https://ocf.tw/
+            logo: open_culture_foundation.svg
+            twitter: https://twitter.com/OcfTaiwan
+            organization:
+              name: Open Culture Foundation
           - item:
             name: Open Earth Foundation
             homepage_url: https://openfoundation.earth/
@@ -8784,6 +9333,13 @@ landscape:
             twitter: https://twitter.com/ONF_SDN
             crunchbase: https://www.crunchbase.com/organization/open-networking-foundation
           - item:
+            name: Open Source Robotics Foundation, Inc.
+            homepage_url: https://openrobotics.org/
+            logo: open_source_robotics_foundation_inc.svg
+            twitter: https://twitter.com/OpenRoboticsOrg
+            organization:
+              name: Open Source Robotics Foundation, Inc.
+          - item:
             name: Open Source Technology Improvement Fund, Inc.
             homepage_url: https://ostif.org/
             logo: open_source_technology_improvement_fund_inc.svg
@@ -8802,11 +9358,24 @@ landscape:
             twitter: https://twitter.com/OpenStack
             crunchbase: https://www.crunchbase.com/organization/openstack
           - item:
+            name: OpenTEAM
+            homepage_url: https://openteam.community/
+            logo: openteam.svg
+            twitter: https://twitter.com/OpenTEAMAg
+            organization:
+              name: OpenTEAM
+          - item:
             name: OpenTravel Alliance
             homepage_url: https://opentravel.org/
             logo: opentravel_alliance.svg
             twitter: https://twitter.com/OpenTravel
             crunchbase: https://www.crunchbase.com/organization/open-travel
+          - item:
+            name: OpenTreatments Foundation
+            homepage_url: https://opentreatments.org/
+            logo: opentreatments_foundation.svg
+            organization:
+              name: OpenTreatments Foundation
           - item:
             name: OpenUK
             homepage_url: https://openuk.uk/
@@ -8893,6 +9462,13 @@ landscape:
             twitter: https://twitter.com/quantUniversity
             crunchbase: https://www.crunchbase.com/organization/quantitative-insights
           - item:
+            name: Regen Foundation
+            homepage_url: https://regen.foundation/
+            logo: regen_foundation.svg
+            twitter: https://twitter.com/RegenFdn
+            organization:
+              name: Regen Foundation
+          - item:
             name: Regents of the University of Michigan
             homepage_url: https://regents.umich.edu/
             logo: regents_of_the_university_of_michigan.svg
@@ -8952,10 +9528,37 @@ landscape:
             twitter: https://twitter.com/SaintgitsGroup
             crunchbase: https://www.crunchbase.com/organization/saintgits-college-of-engineering
           - item:
+            name: SARAO (South African Radio Astronomy Observatory)
+            homepage_url: https://ska.ac.za/
+            logo: sarao_south_african_radio_astronomy_observatory.svg
+            organization:
+              name: SARAO (South African Radio Astronomy Observatory)
+          - item:
+            name: SDNLAB
+            homepage_url: https://sdnlab.com/
+            logo: sdnlab.svg
+            twitter: https://twitter.com/SDNLAB
+            organization:
+              name: SDNLAB
+          - item:
+            name: shaktimath international foundation
+            homepage_url: https://smif.co.in/
+            logo: shaktimath_international_foundation.svg
+            twitter: https://twitter.com/shaktimath
+            organization:
+              name: shaktimath international foundation
+          - item:
             name: Shanghai OpenSource Information Technology Association
             homepage_url: https://shanghaiopen.org.cn/
             logo: shanghai_opensource_information_technology_association.svg
             crunchbase: https://www.crunchbase.com/organization/shanghai-opensource-information-technology-association
+          - item:
+            name: Shiv Shakti Math
+            homepage_url: https://shivshaktimath.org/
+            logo: shiv_shakti_math.svg
+            twitter: https://twitter.com/MathShakti
+            organization:
+              name: Shiv Shakti Math
           - item:
             name: Silicon Integration Initiative
             homepage_url: https://si2.org/
@@ -9037,6 +9640,13 @@ landscape:
             twitter: https://twitter.com/CERN
             crunchbase: https://www.crunchbase.com/organization/cern
           - item:
+            name: The Green Web Foundation
+            homepage_url: https://thegreenwebfoundation.org/
+            logo: the_green_web_foundation.svg
+            twitter: https://twitter.com/greenwebfound
+            organization:
+              name: The Green Web Foundation
+          - item:
             name: The Institute for Ethical AI & Machine Learning
             homepage_url: https://ethical.institute/
             logo: the_institute_for_ethical_ai__machine_learning.svg
@@ -9048,6 +9658,13 @@ landscape:
             logo: the_institute_of_communication_and_computer_systems_iccs.svg
             twitter: https://twitter.com/IccsNtua
             crunchbase: https://www.crunchbase.com/organization/institute-of-communications-and-computer-systems
+          - item:
+            name: The Society Library
+            homepage_url: https://societylibrary.org/
+            logo: the_society_library.svg
+            twitter: https://twitter.com/SocietyLibrary
+            organization:
+              name: The Society Library
           - item:
             name: The University of Hong Kong
             homepage_url: https://hku.hk/
@@ -9197,9 +9814,10 @@ landscape:
             logo: us_digital_response.svg
             twitter: https://twitter.com/USDResponse
             crunchbase: https://www.crunchbase.com/organization/u-s-digital-response
-            description: Support for Crisis Response. We put experienced, pro bono technologists to work with governments responding to the COVID-19 crisis, to help
-              deliver critical services to the people who need them. We’re non-partisan, fast and free. Tell us the challenges you’re facing. We’ll get back to you
-              within hours.
+            description: >-
+              Support for Crisis Response. We put experienced, pro bono technologists to work with governments responding to the COVID-19 crisis, to help
+              deliver critical services to the people who need them. We’re non-partisan, fast and free. Tell us the challenges you’re facing. We’ll get back to
+              you within hours.
           - item:
             name: Vanderbilt University
             homepage_url: https://vanderbilt.edu/
