@@ -262,8 +262,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
           - item:
             name: Kubeadm
-            description: Kubeadm is a tool built to provide best-practice "fast paths" for creating Kubernetes clusters. It performs the actions necessary to get
-              a minimum viable, secure cluster up and running in a user friendly way.
+            description: >-
+              Kubeadm is a tool built to provide best-practice "fast paths" for creating Kubernetes clusters. It performs the actions necessary to get a minimum
+              viable, secure cluster up and running in a user friendly way.
             homepage_url: https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/
             repo_url: https://github.com/kubernetes/kubeadm
             logo: kubeadm.svg
@@ -747,7 +748,8 @@ landscape:
         items:
           - item:
             name: Hyperledger
-            description: Hyperledger is an open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain
+            description: >-
+              Hyperledger is an open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain
               deployments.
             homepage_url: https://www.hyperledger.org
             repo_url: https://github.com/hyperledger/hyperledger
@@ -951,7 +953,7 @@ landscape:
             homepage_url: https://feast.dev/
             repo_url: https://github.com/feast-dev/feast
             logo: feast.svg
-            twitter:
+            twitter: null
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: DELTA
@@ -1036,21 +1038,21 @@ landscape:
             homepage_url: https://github.com/Adlik/Adlik
             repo_url: https://github.com/Adlik/Adlik
             logo: adlik.svg
-            twitter:
+            twitter: null
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: Angel-ML
             homepage_url: https://github.com/Angel-ML/angel
             repo_url: https://github.com/Angel-ML/angel
             logo: angel-ml.svg
-            twitter:
+            twitter: null
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: Elastic Deep Learning (EDL)
             homepage_url: https://www.paddlepaddle.org.cn
             repo_url: https://github.com/elasticdeeplearning/edl
             logo: elastic-deep-learning-edl.svg
-            twitter:
+            twitter: null
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: ForestFlow
@@ -1063,7 +1065,7 @@ landscape:
             homepage_url: https://eng.uber.com/horovod/
             repo_url: https://github.com/horovod/horovod
             logo: horovod.svg
-            twitter:
+            twitter: null
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: Milvus
@@ -1091,14 +1093,14 @@ landscape:
             homepage_url: http://pyro.ai/
             repo_url: https://github.com/pyro-ppl/pyro
             logo: pyro.svg
-            twitter:
+            twitter: null
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: sparklyr
             homepage_url: https://sparklyr.ai
             repo_url: https://github.com/sparklyr/sparklyr
             logo: sparklyr.svg
-            twitter:
+            twitter: null
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
       - subcategory:
         name: Other
@@ -2197,7 +2199,7 @@ landscape:
             logo: altran_technologies.svg
             twitter: https://twitter.com/CapgeminiEng
             crunchbase: https://www.crunchbase.com/organization/altran
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: Amadeus IT Group, S.A.
             homepage_url: https://amadeus.com/
@@ -2376,7 +2378,7 @@ landscape:
             logo: apptio.svg
             twitter: https://twitter.com/Apptio
             crunchbase: https://www.crunchbase.com/organization/apptio
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: Appvia Ltd.
             homepage_url: https://appvia.io/
@@ -2413,6 +2415,12 @@ landscape:
             twitter: https://twitter.com/ArcheraAi
             organization:
               name: Archera
+          - item:
+            name: ArcherOS Software Co., Ltd.
+            homepage_url: https://archeros.com/
+            logo: archeros_software_co_ltd.svg
+            organization:
+              name: ArcherOS Software Co., Ltd.
           - item:
             name: Arcontech Group PLC
             homepage_url: https://arcontech.com/
@@ -2671,7 +2679,7 @@ landscape:
             logo: axis_communications.svg
             twitter: https://twitter.com/AxisIPVideo
             crunchbase: https://www.crunchbase.com/organization/axis-communications-ab
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: B1 Systems GmbH
             homepage_url: https://b1-systems.de/
@@ -2800,7 +2808,8 @@ landscape:
             logo: beijing_shengxin_network_technology_co_ltd_qingteng.svg
             twitter: https://twitter.com/FuZhang6
             crunchbase: https://www.crunchbase.com/organization/qingteng-cloud-security
-            description: Qingteng is an innovative technology company specialized in workload security, constantly improving its core technological innovation capabilities
+            description: >-
+              Qingteng is an innovative technology company specialized in workload security, constantly improving its core technological innovation capabilities
               to become a socially responsible security company that creates value for users.
           - item:
             name: Beijing Shuyue Mingjin Technology Co., Ltd.
@@ -3191,7 +3200,7 @@ landscape:
             logo: china_telecommunications_corporation.svg
             twitter: https://twitter.com/chinateleglobal
             crunchbase: https://www.crunchbase.com/organization/china-telecom-corporation
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: China Unicom
             homepage_url: https://chinaunicom.com/
@@ -3323,7 +3332,7 @@ landscape:
             logo: cloudera_inc.svg
             twitter: https://twitter.com/cloudera
             crunchbase: https://www.crunchbase.com/organization/cloudera
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: CloudFerro Sp. z o.o.
             homepage_url: https://cloudferro.com/
@@ -4974,7 +4983,7 @@ landscape:
             logo: hensoldt_cyber_gmbh.svg
             twitter: https://twitter.com/HENSOLDTCyber
             crunchbase: https://www.crunchbase.com/organization/hensoldt
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: HERE Global B.V.
             homepage_url: https://here.com/
@@ -5005,7 +5014,7 @@ landscape:
             logo: honda_motor_co_ltd.svg
             twitter: https://twitter.com/Honda
             crunchbase: https://www.crunchbase.com/organization/honda-automobiles
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: Honor Device Co. Ltd
             homepage_url: https://hihonor.com/
@@ -5192,7 +5201,7 @@ landscape:
             logo: indra.svg
             twitter: https://twitter.com/IndraCompany
             crunchbase: https://www.crunchbase.com/organization/indra
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: IndyKite Inc.
             homepage_url: https://indykite.com/
@@ -5894,7 +5903,7 @@ landscape:
             logo: luxoft_global_operations_gmbh.svg
             twitter: https://twitter.com/luxoft
             crunchbase: https://www.crunchbase.com/organization/luxoft
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: MacStadium
             homepage_url: https://macstadium.com/
@@ -5907,7 +5916,7 @@ landscape:
             logo: mailru_cloud_solutions.svg
             twitter: https://twitter.com/MailRu
             crunchbase: https://www.crunchbase.com/organization/mail-ru
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: MakinaRocks
             homepage_url: https://makinarocks.ai/
@@ -7006,7 +7015,7 @@ landscape:
             homepage_url: https://qingcloud.com/
             logo: qingcloud_technologies_corp.svg
             crunchbase: https://www.crunchbase.com/organization/qingcloud
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: Quant Network
             homepage_url: https://quant.network/
@@ -7840,7 +7849,7 @@ landscape:
             logo: sprint_corporation.svg
             twitter: https://twitter.com/TMobile
             crunchbase: https://www.crunchbase.com/organization/t-mobile
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: Spyderbat
             homepage_url: https://spyderbat.com/
@@ -7908,7 +7917,7 @@ landscape:
             logo: sterlite_technologies_limited.svg
             twitter: https://twitter.com/STL_Tech
             crunchbase: https://www.crunchbase.com/organization/sterlite-technologies-ltd-
-            stock_ticker:
+            stock_ticker: null
           - item:
             name: STMicroelectronics International N.V.
             homepage_url: https://st.com/
@@ -9513,7 +9522,8 @@ landscape:
             logo: fachhochschule_kiel.svg
             twitter: https://twitter.com/fh_kiel
             crunchbase: https://www.crunchbase.com/organization/university-of-applied-sciences-kiel
-            description: With more than 6,900 students, the Kiel University of Applied Sciences (Fachhochschule Kiel ["FH Kiel"]) is the largest University of Applied
+            description: >-
+              With more than 6,900 students, the Kiel University of Applied Sciences (Fachhochschule Kiel ["FH Kiel"]) is the largest University of Applied
               Sciences in Schleswig-Holstein
           - item:
             name: Farm Foundation
@@ -10695,9 +10705,10 @@ landscape:
             logo: us_digital_response.svg
             twitter: https://twitter.com/USDResponse
             crunchbase: https://www.crunchbase.com/organization/u-s-digital-response
-            description: Support for Crisis Response. We put experienced, pro bono technologists to work with governments responding to the COVID-19 crisis, to help
-              deliver critical services to the people who need them. We’re non-partisan, fast and free. Tell us the challenges you’re facing. We’ll get back to you
-              within hours.
+            description: >-
+              Support for Crisis Response. We put experienced, pro bono technologists to work with governments responding to the COVID-19 crisis, to help
+              deliver critical services to the people who need them. We’re non-partisan, fast and free. Tell us the challenges you’re facing. We’ll get back to
+              you within hours.
           - item:
             name: Vanderbilt University
             homepage_url: https://vanderbilt.edu/
