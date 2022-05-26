@@ -11116,10 +11116,10 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 68923188
+                  value: 68936409
                   color: '#b07219'
                 - name: JavaScript
-                  value: 2008132
+                  value: 2008681
                   color: '#f1e05a'
                 - name: Jupyter Notebook
                   value: 1443676
@@ -11127,13 +11127,13 @@ landscape:
                 - name: Groovy
                   value: 111030
                   color: '#e69f56'
+                - name: TypeScript
+                  value: 64776
+                  color: '#2b7489'
                 - name: SCSS
                   value: 60483
-                - name: TypeScript
-                  value: 48317
-                  color: '#2b7489'
                 - name: Go
-                  value: 39891
+                  value: 42394
                   color: '#00ADD8'
                 - name: HTML
                   value: 34591
@@ -11142,7 +11142,7 @@ landscape:
                   value: 31703
                   color: '#89e051'
                 - name: Dockerfile
-                  value: 18288
+                  value: 18291
                   color: '#384d54'
                 - name: Makefile
                   value: 11386
@@ -11165,22 +11165,22 @@ landscape:
                   value: 49
                   color: '#701516'
               contributions: >-
-                131;182;193;168;156;69;101;205;108;106;80;165;105;78;90;135;58;69;50;89;157;72;96;101;159;86;46;36;122;24;71;81;30;83;67;74;72;115;76;40;60;109;72;68;45;90;113;91;81;62;132;45
-              firstWeek: 2021-05-16Z
-              stars: 716
+                193;168;156;69;101;205;108;106;80;165;105;78;90;135;58;69;50;89;157;72;96;101;159;86;46;36;122;24;71;81;30;83;67;74;72;115;76;40;60;109;72;68;45;90;113;91;81;62;136;51;47;12
+              firstWeek: 2021-05-30Z
+              stars: 731
               license: Apache License 2.0
               description: Open Metadata and Governance
-              latest_commit_date: '2022-05-12T13:09:38Z'
-              latest_commit_link: /odpi/egeria/commit/45279cf0580ec5a3a3cb35ca61515717db4a8f3c
+              latest_commit_date: '2022-05-26T11:46:43Z'
+              latest_commit_link: /odpi/egeria/commit/c7818ece8bbc90fa84a813482cd6977033a3df5b
               release_date: '2022-05-06T12:20:52Z'
               release_link: https://github.com/odpi/egeria/releases
               contributors_count: 68
               contributors_link: https://github.com/odpi/egeria/graphs/contributors
             repos:
               - url: https://github.com/odpi/egeria
-                stars: 539
+                stars: 547
               - url: https://github.com/odpi/data-governance
-                stars: 81
+                stars: 82
               - url: https://github.com/odpi/egeria-connector-ibm-information-server
                 stars: 16
               - url: https://github.com/odpi/egeria-connector-hadoop-ecosystem
@@ -11188,6 +11188,8 @@ landscape:
               - url: https://github.com/odpi/egeria-connector-sas-viya
                 stars: 9
               - url: https://github.com/odpi/egeria-react-ui
+                stars: 9
+              - url: https://github.com/odpi/egeria-ui
                 stars: 8
               - url: https://github.com/odpi/egeria-connector-crux
                 stars: 7
@@ -11195,20 +11197,18 @@ landscape:
                 stars: 7
               - url: https://github.com/odpi/egeria-samples
                 stars: 7
-              - url: https://github.com/odpi/egeria-ui
-                stars: 7
               - url: https://github.com/odpi/egeria-dev-projects
                 stars: 6
+              - url: https://github.com/odpi/egeria-js-commons
+                stars: 5
               - url: https://github.com/odpi/egeria-k8s-operator
                 stars: 5
               - url: https://github.com/odpi/egeria-palisade
                 stars: 5
               - url: https://github.com/odpi/egeria-api-mocks
                 stars: 4
-              - url: https://github.com/odpi/egeria-js-commons
-                stars: 2
               - url: https://github.com/odpi/happi-graph
-                stars: 1
+                stars: 2
             github_start_commit_data:
               start_commit_link: /odpi/data-governance/commit/a1c04d1b8773f0e3db3b758267e3a56914852e1d
               start_date: '2017-10-09T20:05:28Z'
@@ -20017,7 +20017,7 @@ landscape:
               effective_ticker: IBM
             image_data:
               fileName: red-hat-inc.svg
-              hash: DP0xJOzNJFgqbN0RMQSYjY7TWaKh09iHDrR5sH3vk2U=
+              hash: IYkOZIQLfJvfuC1otjNMHKTa2hluj+H3ENJbBscJ1d4=
             best_practice_data:
               badge: false
               percentage: null
@@ -24694,6 +24694,33 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: AIM
+            homepage_url: https://agile-im.de/
+            logo: aim.svg
+            crunchbase: https://www.crunchbase.com/organization/aim-773c
+            crunchbase_data:
+              name: AIM
+              description: AIM supports its customers in increasing the productivity and adaptability of their teams through agile methods & DevOps.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.agile-im.de/
+              city: Hanover
+              region: Niedersachsen
+              country: Germany
+              twitter: null
+              linkedin: https://www.linkedin.com/company/agile-it-management/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries: []
+            image_data:
+              fileName: aim.svg
+              hash: HFzUNsCJ6luIq92jE93HT8ws4VA+Vz1vkWW5OVOAmCA=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Airbnb
             homepage_url: https://airbnb.com/
             logo: airbnb.svg
@@ -24884,6 +24911,120 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-01-10T13:10:02.000Z
+          - item:
+            name: Akamai Technologies, Inc.
+            homepage_url: https://akamai.com/
+            logo: akamai_technologies_inc.svg
+            twitter: https://twitter.com/Akamai
+            crunchbase: https://www.crunchbase.com/organization/akamai-technologies
+            crunchbase_data:
+              name: Akamai Technologies
+              description: Akamai is a provider of cloud services that help enterprises provide secure, high-performing user experiences on any device.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.akamai.com/
+              city: Cambridge
+              region: Massachusetts
+              country: United States
+              twitter: http://twitter.com/Akamai
+              linkedin: https://www.linkedin.com/company/akamai-technologies
+              acquisitions:
+                - date: '2000-01-18'
+                  acquiree: Network24 Communications
+                - date: '2000-02-07'
+                  acquiree: Intervu
+                - date: '2000-07-25'
+                  acquiree: CallTheShots
+                - date: '2005-06-01'
+                  acquiree: Speedera Networks
+                  price: 130000000
+                - date: '2006-11-20'
+                  acquiree: Nine Systems Corp
+                - date: '2006-12-13'
+                  acquiree: Streaming Media Corporation
+                - date: '2007-02-05'
+                  acquiree: Netli
+                  price: 170000000
+                - date: '2007-04-12'
+                  acquiree: Red Swoosh
+                  price: 15000000
+                - date: '2008-10-21'
+                  acquiree: acerno
+                - date: '2010-06-10'
+                  acquiree: Velocitude
+                - date: '2011-11-27'
+                  acquiree: Cotendo
+                  price: 268000000
+                - date: '2012-02-08'
+                  acquiree: Blaze.io
+                - date: '2012-09-13'
+                  acquiree: FastSoft
+                - date: '2012-11-13'
+                  acquiree: Verivue
+                  price: 30900000
+                - date: '2013-11-11'
+                  acquiree: Velocius Networks
+                - date: '2013-12-02'
+                  acquiree: Prolexic Technologies
+                  price: 390000000
+                - date: '2015-04-06'
+                  acquiree: Octoshape
+                - date: '2015-11-02'
+                  acquiree: Bloxx
+                - date: '2016-09-28'
+                  acquiree: Concord Systems
+                - date: '2016-10-04'
+                  acquiree: SOHA SYSTEMS
+                - date: '2016-12-19'
+                  acquiree: Cyberfend
+                - date: '2017-03-29'
+                  acquiree: SOASTA
+                - date: '2017-10-11'
+                  acquiree: Nominum
+                - date: '2017-11-03'
+                  acquiree: Xerocole
+                - date: '2019-01-07'
+                  acquiree: Janrain
+                - date: '2019-09-10'
+                  acquiree: Exceda
+                - date: '2019-09-23'
+                  acquiree: krypt.co
+                - date: '2019-10-09'
+                  acquiree: ChameleonX
+                  price: 20000000
+                - date: '2020-10-27'
+                  acquiree: Asavie Technologies
+                - date: '2021-02-01'
+                  acquiree: Inverse
+                - date: '2021-09-29'
+                  acquiree: Guardicore
+                  price: 600000000
+                - date: '2022-02-15'
+                  acquiree: Linode
+                  price: 900000000
+              parents: []
+              ticker: AKAM
+              funding: 35000000
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Cyber Security
+                - Digital Media
+                - SaaS
+                - Software
+                - Video Streaming
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 16169964544
+              effective_ticker: AKAM
+            image_data:
+              fileName: akamai-technologies-inc.svg
+              hash: Ut9dhiUDrXS8nwZidUoA/BXqD2TnWx4DyMmHaqOb5eM=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-05-26T19:10:03.000Z
           - item:
             name: Akatsuki inc.
             homepage_url: https://aktsk.jp/
@@ -27043,14 +27184,29 @@ landscape:
             name: ArcherOS Software Co., Ltd.
             homepage_url: https://archeros.com/
             logo: archeros_software_co_ltd.svg
-            organization:
-              name: ArcherOS Software Co., Ltd.
+            crunchbase: https://www.crunchbase.com/organization/huayun-data-international
             crunchbase_data:
-              name: ArcherOS Software Co., Ltd.
+              name: Huayun Data International
+              description: Huayun Data International is an information technology and services company.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.huayun.com/
+              city: Kowloon City
+              region: Kowloon
+              country: Hong Kong
+              twitter: null
+              linkedin: https://www.linkedin.com/company/huayun-data-internation-ltd/
+              acquisitions: []
               parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Services
+                - Information Technology
+                - Software
             image_data:
               fileName: archer-os-software-co-ltd.svg
-              hash: NITnU6fZCRCMOpf690pH/quD/92A7fBbbZqNqgF69uM=
+              hash: D69+W3Fx7RQE57d7m+s0a+kk5OX8RYK8nOMQe9VpjBk=
             best_practice_data:
               badge: false
               percentage: null
@@ -30600,6 +30756,7 @@ landscape:
             logo: boeing.svg
             twitter: https://twitter.com/Boeing
             crunchbase: https://www.crunchbase.com/organization/boeing-7321
+            joined: '2022-04-22'
             crunchbase_data:
               name: Boeing
               description: Boeing is an aerospace company that manufactures commercial jetliners, defense, space and security systems, and global services.
@@ -30622,7 +30779,7 @@ landscape:
                 - Manufacturing
             image_data:
               fileName: boeing.svg
-              hash: In3+fSIa/E0XMcBep2UlOWeMC9nMGoaUxKFVBSIeW7E=
+              hash: GH92L//7cPckwfOFXCxiIlQgqtAYzrNW2v6JSCsPInI=
             best_practice_data:
               badge: false
               percentage: null
@@ -34470,8 +34627,8 @@ landscape:
               city: Cambridge
               region: Cambridgeshire
               country: United Kingdom
-              twitter: https://twitter.com/collaboraltd
-              linkedin: https://www.linkedin.com/company/collabora-ltd
+              twitter: https://twitter.com/collabora
+              linkedin: https://www.linkedin.com/company/collabora
               acquisitions: []
               parents: []
               stockExchange: null
@@ -41090,14 +41247,30 @@ landscape:
             homepage_url: https://flexidao.com/
             logo: flexidao.svg
             twitter: https://twitter.com/flexidao
-            organization:
-              name: FlexiDAO
+            crunchbase: https://www.crunchbase.com/organization/flexidao
             crunchbase_data:
               name: FlexiDAO
+              description: FlexiDAO specializes in developing software for the energy sector.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.flexidao.com/
+              city: Barcelona
+              region: Catalonia
+              country: Spain
+              twitter: https://twitter.com/flexidao
+              linkedin: https://www.linkedin.com/company/flexidao/
+              acquisitions: []
               parents: []
+              funding: 0
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Energy
+                - Renewable Energy
+                - Software
             image_data:
               fileName: flexi-dao.svg
-              hash: m4bvgzaE9qMk2Etmvpvg3lPcuyLWNx2h64FPClFfD9c=
+              hash: vkCawrVX7PR/YSaL9eK0+2t4VvKcjmXebs3iDDZSl+A=
             best_practice_data:
               badge: false
               percentage: null
@@ -45403,45 +45576,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-05-17T05:11:04.000Z
           - item:
-            name: Imageware
-            homepage_url: https://imageware.io/
-            logo: imageware.svg
-            twitter: https://twitter.com/ImageWareInc
-            crunchbase: https://www.crunchbase.com/organization/imageware-systems
-            crunchbase_data:
-              name: ImageWare Systems
-              description: ImageWare Systems develops identity management solutions providing biometric, secure credential and law enforcement technologies.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: https://imageware.io/
-              city: San Diego
-              region: California
-              country: United States
-              twitter: https://www.twitter.com/iwsinc
-              linkedin: https://www.linkedin.com/company/imageware-systems-inc.
-              acquisitions: []
-              parents: []
-              ticker: IWSY
-              funding: 36585000
-              stockExchange: otcqb
-              company_type: For Profit
-              industries:
-                - Identity Management
-                - Information Technology
-                - Software
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 11076828
-              effective_ticker: IWSY
-            image_data:
-              fileName: imageware.svg
-              hash: +SoHhA6+EUg7IN8wNDcwIqVgVv5Fi8XPA2QU+SP23s8=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-01-10T18:00:00.000Z
-          - item:
             name: Imagination Technologies Group Ltd.
             homepage_url: https://imgtec.com/
             logo: imagination_technologies_group_ltd.svg
@@ -47783,7 +47917,7 @@ landscape:
               kind: funding
             image_data:
               fileName: kasten-inc.svg
-              hash: 2RkBcqyXxt7yRUlYgKx/7lho2ygQQz76QTY8qFMbWoU=
+              hash: PWuwNVFAJKFQzCpyhxWSDW6eLlmQpSGKYEB24tm6JkM=
             best_practice_data:
               badge: false
               percentage: null
@@ -50223,68 +50357,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-12-15T17:52:45.000Z
           - item:
-            name: Luxoft Global Operations GmbH
-            homepage_url: https://luxoft.com/
-            logo: luxoft_global_operations_gmbh.svg
-            twitter: https://twitter.com/luxoft
-            crunchbase: https://www.crunchbase.com/organization/luxoft
-            stock_ticker: null
-            crunchbase_data:
-              name: Luxoft
-              description: Luxoft is an IT company that works globally to give customers software development, product engineering, and consulting.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.luxoft.com
-              city: Zug
-              region: Zug
-              country: Switzerland
-              twitter: http://twitter.com/Luxoft
-              linkedin: https://www.linkedin.com/company/luxoft
-              acquisitions:
-                - date: '2008-07-22'
-                  acquiree: ITC Networks
-                - date: '2014-10-07'
-                  acquiree: Radius
-                - date: '2015-02-18'
-                  acquiree: Excelian
-                - date: '2016-02-23'
-                  acquiree: Symtavision
-                - date: '2016-07-18'
-                  acquiree: INSYS Group
-                - date: '2016-09-13'
-                  acquiree: Pelagicore
-                - date: '2017-02-01'
-                  acquiree: IntroPro
-                - date: '2017-03-23'
-                  acquiree: derivIT Solutions
-                - date: '2017-09-28'
-                  acquiree: UNAFORTIS
-                - date: '2018-06-18'
-                  acquiree: Smashing Ideas
-                - date: '2018-08-07'
-                  acquiree: Objective Software
-                - date: '2020-03-05'
-                  acquiree: CMORE Automotive
-              parents: []
-              ticker: LXFT
-              funding: 102400000
-              stockExchange: nyse
-              company_type: For Profit
-              industries:
-                - Consulting
-                - Information Services
-                - Outsourcing
-                - Software
-              kind: funding
-            image_data:
-              fileName: luxoft-global-operations-gmb-h.svg
-              hash: 5CJmBbUQFyD+O/IQtqLtzWGeh0uLkkNmMaE7vRivp7c=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-01-06T08:00:00.000Z
-          - item:
             name: MacStadium
             homepage_url: https://macstadium.com/
             logo: macstadium.svg
@@ -52341,38 +52413,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-05-11T11:23:49.000Z
-          - item:
-            name: Momenton
-            homepage_url: https://momenton.com.au/
-            logo: momenton.svg
-            twitter: https://twitter.com/momentonau
-            crunchbase: https://www.crunchbase.com/organization/momenton
-            crunchbase_data:
-              name: Momenton
-              description: Momenton operates as a digital enterprise technology firm.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://momenton.com.au/
-              city: Melbourne
-              region: Victoria
-              country: Australia
-              twitter: null
-              linkedin: https://www.linkedin.com/company/momenton/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: ''
-              industries:
-                - Enterprise Software
-                - Information Technology
-            image_data:
-              fileName: momenton.svg
-              hash: logVlEHt9QRKxvttJx+VAaJ2ktv1GDfXDsnboeV8hM0=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-07-02T03:32:51.000Z
           - item:
             name: Mondoo
             homepage_url: https://mondoo.io/
@@ -55245,6 +55285,40 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-01-07T14:48:49.000Z
           - item:
+            name: OpsVerse
+            homepage_url: https://opsverse.io/
+            logo: opsverse.svg
+            twitter: https://twitter.com/OpsVerse
+            crunchbase: https://www.crunchbase.com/organization/opsverse
+            crunchbase_data:
+              name: OpsVerse
+              description: Fully managed open source based DevOps tools that can run anywhere including within a network as Private SaaS
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://opsverse.io
+              city: Redwood City
+              region: California
+              country: United States
+              twitter: http://www.twitter.com/OpsVerse
+              linkedin: https://www.linkedin.com/company/opsverse/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Infrastructure
+                - IT Infrastructure
+                - Information Technology
+                - Open Source
+            image_data:
+              fileName: ops-verse.svg
+              hash: X6kQukrs1WSwU6n8G3uqCmFXAh2GxYS6OaJO5Udy6Ug=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-05-17T18:59:09.000Z
+          - item:
             name: Optic
             homepage_url: https://useoptic.com/
             logo: optic.svg
@@ -55543,6 +55617,38 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-01-10T15:09:27.000Z
+          - item:
+            name: Orkes Inc
+            homepage_url: https://orkes.io/
+            logo: orkes_inc.svg
+            twitter: https://twitter.com/orkesio
+            crunchbase: https://www.crunchbase.com/organization/orkes
+            crunchbase_data:
+              name: Orkes
+              description: Orkes is a cloud hosted, fully managed version of Netflix Conductor offering full compatibility with the open source version.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://orkes.io/
+              city: Cupertino
+              region: California
+              country: United States
+              twitter: https://twitter.com/orkesio
+              linkedin: https://www.linkedin.com/company/orkes-inc/
+              acquisitions: []
+              parents: []
+              funding: 9300000
+              stockExchange: null
+              company_type: For Profit
+              industries: []
+              kind: funding
+            image_data:
+              fileName: orkes-inc.svg
+              hash: NlOJ1pXGR8RBAX9k1vbywQTzPgqffzar9oBVX32xsk0=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-05-26T20:34:13.000Z
           - item:
             name: Ortec Finance
             homepage_url: https://ortec-finance.com/
@@ -58967,6 +59073,39 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-01-10T17:32:00.000Z
           - item:
+            name: Robusta.dev
+            homepage_url: https://robusta.dev/
+            logo: robustadev.svg
+            twitter: https://twitter.com/RobustaDev
+            crunchbase: https://www.crunchbase.com/organization/robusta-dev
+            crunchbase_data:
+              name: robusta.dev
+              description: Robusta is an open source platform for multi-cluster Kubernetes troubleshooting and automation.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://home.robusta.dev/
+              city: Tel Aviv
+              region: Tel Aviv
+              country: Israel
+              twitter: https://mobile.twitter.com/robustadev
+              linkedin: https://www.linkedin.com/company/robusta-dev
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Technology
+                - Open Source
+                - Software
+            image_data:
+              fileName: robusta-dev.svg
+              hash: htQozn9qk2sEeO/QCkMu2eCNxesTz0/pO6aLttX84+g=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-05-17T20:32:59.000Z
+          - item:
             name: Rocket Software, Inc.
             homepage_url: https://rocketsoftware.com/
             logo: rocket_software_inc.svg
@@ -61266,6 +61405,24 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: SHE BASH
+            homepage_url: https://shebash.io/
+            logo: she_bash.svg
+            twitter: https://twitter.com/SHEBASHIO
+            organization:
+              name: SHE BASH
+            crunchbase_data:
+              name: SHE BASH
+              parents: []
+            image_data:
+              fileName: she-bash.svg
+              hash: CfHBwerlUhNJ4NPDxUvsNpbj2owlwKGQPLmZF9MEp0M=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-05-14T08:33:32.000Z
+          - item:
             name: Shenzhen Forms Syntron Information Co. Ltd
             homepage_url: https://formssi.com/
             logo: shenzhen_forms_syntron_information_co_ltd.svg
@@ -62600,6 +62757,62 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-01-10T22:57:38.000Z
+          - item:
+            name: Société Générale
+            homepage_url: https://societegenerale.com/
+            logo: societe_generale.svg
+            twitter: https://twitter.com/SocieteGenerale
+            crunchbase: https://www.crunchbase.com/organization/societe-generale
+            crunchbase_data:
+              name: Societe Generale
+              description: Societe Generale is a French multinational investment bank and financial services company headquartered in Paris, France.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.societegenerale.com/
+              city: Paris
+              region: Ile-de-France
+              country: France
+              twitter: https://twitter.com/SocieteGenerale
+              linkedin: https://www.linkedin.com/company/societe-generale
+              acquisitions:
+                - date: '2014-05-07'
+                  acquiree: Newedge Group
+                - date: '2014-12-01'
+                  acquiree: Carrera
+                - date: '2016-07-06'
+                  acquiree: Kleinwort Benson
+                - date: '2018-06-21'
+                  acquiree: Lumo
+                - date: '2018-07-03'
+                  acquiree: Commerzbank - Equity Markets & Commodities (EMC) business
+                - date: '2018-09-27'
+                  acquiree: Treezor
+                - date: '2020-06-30'
+                  acquiree: Shine.fr
+                  price: 112345034
+                - date: '2020-12-14'
+                  acquiree: Reezocar
+              parents: []
+              ticker: GLE.PA
+              stockExchange: epa
+              company_type: For Profit
+              industries:
+                - Banking
+                - Financial Services
+                - Insurance
+                - Personal Finance
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 22215079053
+              effective_ticker: GLE.PA
+            image_data:
+              fileName: soci-t-g-n-rale.svg
+              hash: jwAm6HDPjKsv9AEmxFYN8xNQtVtcFMQh4799Ks+yxzk=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-05-23T08:30:05.000Z
           - item:
             name: Socket
             homepage_url: https://socket.dev/
@@ -64520,6 +64733,41 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-01-11T00:47:00.000Z
+          - item:
+            name: Superblocks
+            homepage_url: https://superblocks.com/
+            logo: superblocks.svg
+            twitter: https://twitter.com/GetSuperblocks
+            crunchbase: https://www.crunchbase.com/organization/superblocks
+            crunchbase_data:
+              name: Superblocks
+              description: Superblocks is a platform that provides a safe and automated process to take smart contracts from development to production
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://superblocks.com/
+              city: Stockholm
+              region: Stockholms Lan
+              country: Sweden
+              twitter: https://twitter.com/getsuperblocks
+              linkedin: null
+              acquisitions: []
+              parents: []
+              funding: 856869
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Blockchain
+                - Ethereum
+                - Internet
+              kind: funding
+            image_data:
+              fileName: superblocks.svg
+              hash: f3xVbFEs+oO/wJob5u1SBRX8uQyT+ufuqmS8CAdjSEY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-08-03T09:58:16.000Z
           - item:
             name: Supercritical
             homepage_url: https://gosupercritical.com/
@@ -67064,7 +67312,7 @@ landscape:
               latest_tweet_date: 2015-08-12T02:14:01.000Z
           - item:
             name: TLM Partners
-            homepage_url: https://tlmpartnersinc.com/
+            homepage_url: https://tlmpartners.com/
             logo: tlm_partners.svg
             twitter: https://twitter.com/TLM_Partners
             crunchbase: https://www.crunchbase.com/organization/tlm-partners-inc
@@ -69823,6 +70071,8 @@ landscape:
             logo: wayfair.svg
             twitter: https://twitter.com/Wayfair
             crunchbase: https://www.crunchbase.com/organization/wayfair
+            stock_ticker: null
+            joined: '2022-04-27'
             crunchbase_data:
               name: Wayfair
               description: Wayfair is an online retailer of home products for bedroom, living room, kitchen and dining, home entertainment, bathroom, and more.
@@ -78481,7 +78731,7 @@ landscape:
                 - Open Source
             image_data:
               fileName: the-linux-foundation.svg
-              hash: 7LC1ZKUWVrgLCR+yMRXA1pPYLwkc+TTfePbkwRL7jiI=
+              hash: 6a1Sxo1hCB2473jjR/VrlQmgeX6blIwGEnp425P7gVI=
             best_practice_data:
               badge: false
               percentage: null
