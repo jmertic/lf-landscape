@@ -1960,13 +1960,6 @@ landscape:
             twitter: https://twitter.com/CocktailCloud
             crunchbase: https://www.crunchbase.com/organization/acornsoft
           - item:
-            name: across.cloud
-            homepage_url: https://across.cloud/
-            logo: acrosscloud.svg
-            twitter: https://twitter.com/AcrossCloud
-            organization:
-              name: across.cloud
-          - item:
             name: ACTIA Group
             homepage_url: https://actia.fr/
             logo: actia_group.svg
@@ -4202,11 +4195,6 @@ landscape:
             twitter: https://twitter.com/Eficode
             crunchbase: https://www.crunchbase.com/organization/eficode
           - item:
-            name: EGAR Global NoCode
-            homepage_url: https://egarglobal.com/
-            logo: egar_global_nocode.svg
-            crunchbase: https://www.crunchbase.com/organization/egar-global-nocode
-          - item:
             name: Elasticsearch, Inc.
             homepage_url: https://elastic.co/
             logo: elasticsearch_inc.svg
@@ -5153,7 +5141,7 @@ landscape:
             logo: ihs_markit.svg
             twitter: https://twitter.com/IHSMarkit
             crunchbase: https://www.crunchbase.com/organization/ihs-markit
-            stock_ticker: null
+            stock_ticker:
           - item:
             name: IITS Consulting
             homepage_url: https://iits-consulting.de/
@@ -5898,12 +5886,6 @@ landscape:
             twitter: https://twitter.com/LOFT
             crunchbase: https://www.crunchbase.com/organization/ann-inc
           - item:
-            name: LogDNA, Inc
-            homepage_url: https://logdna.com/
-            logo: logdna_inc.svg
-            twitter: https://twitter.com/mezmodata
-            crunchbase: https://www.crunchbase.com/organization/logdna
-          - item:
             name: Logiq.ai Inc.
             homepage_url: https://logiq.ai/
             logo: logiqai_inc.svg
@@ -6099,7 +6081,7 @@ landscape:
             logo: mercedes-benz_tech_innovation_gmbh.svg
             twitter: https://twitter.com/mercedesbenz_ti
             crunchbase: https://www.crunchbase.com/organization/daimler
-            stock_ticker: null
+            stock_ticker:
           - item:
             name: Merck & Co., Inc.
             homepage_url: https://merck.com/
@@ -6112,6 +6094,12 @@ landscape:
             logo: metrostar_systems.svg
             twitter: https://twitter.com/MetroStarSystem
             crunchbase: https://www.crunchbase.com/organization/metrostar-systems
+          - item:
+            name: Mezmo
+            homepage_url: https://mezmo.com/
+            logo: mezmo.svg
+            twitter: https://twitter.com/mezmodata
+            crunchbase: https://www.crunchbase.com/organization/logdna
           - item:
             name: MIA s.r.l.
             homepage_url: https://mia-platform.eu/
@@ -7116,7 +7104,7 @@ landscape:
             logo: radisys_corporation.svg
             twitter: https://twitter.com/Radisys
             crunchbase: https://www.crunchbase.com/organization/radisys
-            stock_ticker: null
+            stock_ticker:
           - item:
             name: RADTONICS
             homepage_url: https://radtonics.com/
@@ -9050,7 +9038,7 @@ landscape:
             logo: xilinx_inc.svg
             twitter: https://twitter.com/XilinxInc
             crunchbase: https://www.crunchbase.com/organization/xilinx
-            stock_ticker: null
+            stock_ticker:
           - item:
             name: x-ion GmbH
             homepage_url: https://x-ion.de/
