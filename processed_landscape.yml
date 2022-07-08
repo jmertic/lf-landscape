@@ -10316,13 +10316,13 @@ landscape:
                   value: 49
                   color: '#701516'
               contributions: >-
-                108;106;80;165;105;78;90;135;58;69;50;89;157;72;96;101;159;86;46;36;122;24;71;81;30;83;67;74;72;115;76;40;60;109;72;68;46;91;116;92;88;62;144;68;49;13;87;34;51;35;24;78
+                113;94;77;168;107;86;78;132;64;65;58;95;138;104;95;86;145;92;40;45;118;28;81;67;23;86;64;83;93;114;44;56;47;119;64;63;56;99;108;88;86;66;138;89;31;14;91;37;49;32;22;75
               firstWeek: 2021-07-11Z
               stars: 748
               license: Apache License 2.0
               description: Open Metadata and Governance
-              latest_commit_date: '2022-07-05T22:14:54Z'
-              latest_commit_link: /odpi/egeria/commit/f9a4d0c3f3a0a57428fa6b8f67aa934d548beab1
+              latest_commit_date: '2022-07-07T17:34:14Z'
+              latest_commit_link: /odpi/egeria/commit/fc52eb09a771a29fcbd90b4cf5dc150f6b7799f6
               release_date: '2022-05-31T09:07:39Z'
               release_link: https://github.com/odpi/egeria/releases
               contributors_count: 68
@@ -17553,7 +17553,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-07-07T02:26:54.000Z
           - item:
-            name: TODO Group
+            name: TODO Group (project)
             homepage_url: https://todogroup.org
             repo_url: https://github.com/todogroup/todogroup.org
             logo: todo-group.svg
@@ -17611,7 +17611,7 @@ landscape:
               start_commit_link: /todogroup/todogroup.github.io/commit/dad1465d955d7a4fd4a7d55683efcc8d2ff3f2b0
               start_date: '2014-09-08T20:35:25Z'
             image_data:
-              fileName: todo-group.svg
+              fileName: todo-group-project.svg
               hash: /bIPV3Qfa+eByZB3D3MSDVM52Nu4NLNAc7/rzmfas6U=
             best_practice_data:
               badge: false
@@ -23503,6 +23503,40 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-06-22T14:22:38.000Z
           - item:
+            name: 3K Technologies
+            homepage_url: https://3ktechnologies.com/
+            logo: 3k_technologies.svg
+            twitter: https://twitter.com/3ktech
+            crunchbase: https://www.crunchbase.com/organization/3k-technologies
+            crunchbase_data:
+              name: 3K Technologies
+              description: 3K Technologies focuses on data engineering, cloud solutions, data sciences and custom application development for business needs.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: https://www.3ktechnologies.com/wp/
+              city: Milpitas
+              region: California
+              country: United States
+              twitter: https://twitter.com/3ktech
+              linkedin: https://www.linkedin.com/company/3k-technologies/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Apps
+                - Cloud Data Services
+                - Data Mining
+                - Software
+            image_data:
+              fileName: 3-k-technologies.svg
+              hash: BPMBwyhA6c94g7YcAl+td9u6V/nc3+fsa9p23eGRMpQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-08-06T22:15:00.000Z
+          - item:
             name: 3-Shake Inc
             homepage_url: https://3-shake.com/
             logo: 3-shake_inc.svg
@@ -23542,40 +23576,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-07-07T04:59:33.000Z
-          - item:
-            name: 3K Technologies
-            homepage_url: https://3ktechnologies.com/
-            logo: 3k_technologies.svg
-            twitter: https://twitter.com/3ktech
-            crunchbase: https://www.crunchbase.com/organization/3k-technologies
-            crunchbase_data:
-              name: 3K Technologies
-              description: 3K Technologies focuses on data engineering, cloud solutions, data sciences and custom application development for business needs.
-              num_employees_min: 251
-              num_employees_max: 500
-              homepage: https://www.3ktechnologies.com/wp/
-              city: Milpitas
-              region: California
-              country: United States
-              twitter: https://twitter.com/3ktech
-              linkedin: https://www.linkedin.com/company/3k-technologies/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Apps
-                - Cloud Data Services
-                - Data Mining
-                - Software
-            image_data:
-              fileName: 3-k-technologies.svg
-              hash: BPMBwyhA6c94g7YcAl+td9u6V/nc3+fsa9p23eGRMpQ=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-08-06T22:15:00.000Z
           - item:
             name: 6WIND S.A.
             homepage_url: https://6wind.com/
@@ -24351,68 +24351,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-07-06T23:00:04.000Z
           - item:
-            name: Adva Optical Networking SE
-            homepage_url: https://advaoptical.com/
-            logo: adva_optical_networking_se.svg
-            twitter: https://twitter.com/ADVAOpticalNews
-            crunchbase: https://www.crunchbase.com/organization/adva-optical-networking
-            crunchbase_data:
-              name: ADVA Optical Networking
-              description: ADVA Optical Networking is a global provider of intelligent telecommunications infrastructure solutions.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: https://www.adva.com
-              city: Martinsried
-              region: Bayern
-              country: Germany
-              twitter: http://twitter.com/ADVAOpticalNews
-              linkedin: https://www.linkedin.com/company/adva-optical-networking
-              acquisitions:
-                - date: '2004-09-17'
-                  acquiree: Metro Packet Systems
-                - date: '2005-10-17'
-                  acquiree: Covaro Networks
-                - date: '2006-06-05'
-                  acquiree: Movaz Networks
-                - date: '2007-06-01'
-                  acquiree: Gryfsoft
-                - date: '2013-01-02'
-                  acquiree: ADVA Optical Networking Israel
-                - date: '2013-02-14'
-                  acquiree: Biran High Tech Advisors
-                - date: '2014-03-11'
-                  acquiree: Oscilloquartz SA
-                - date: '2015-11-27'
-                  acquiree: FiSEC
-                - date: '2016-01-13'
-                  acquiree: Overture Networks
-                - date: '2017-07-02'
-                  acquiree: MRV Communications
-                  price: 69000000
-              parents:
-                - https://www.crunchbase.com/organization/swatch-group
-              ticker: ADVOF
-              funding: 3000000
-              stockExchange: otcqb
-              company_type: For Profit
-              industries:
-                - Enterprise Software
-                - Hardware
-                - Software
-                - Telecommunications
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 880205888
-              effective_ticker: ADVOF
-            image_data:
-              fileName: adva-optical-networking-se.svg
-              hash: N+8bBqGGx16rqeunw86xkmAz6ngyiIO1OcSv+vqUG2s=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-07-06T14:12:06.000Z
-          - item:
             name: Advanced Driver Information Technology Corporation
             homepage_url: https://www.adit-jv.com/
             logo: advanced_driver_information_technology_corporation.svg
@@ -24485,6 +24423,68 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-06-30T14:00:03.000Z
+          - item:
+            name: Adva Optical Networking SE
+            homepage_url: https://advaoptical.com/
+            logo: adva_optical_networking_se.svg
+            twitter: https://twitter.com/ADVAOpticalNews
+            crunchbase: https://www.crunchbase.com/organization/adva-optical-networking
+            crunchbase_data:
+              name: ADVA Optical Networking
+              description: ADVA Optical Networking is a global provider of intelligent telecommunications infrastructure solutions.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: https://www.adva.com
+              city: Martinsried
+              region: Bayern
+              country: Germany
+              twitter: http://twitter.com/ADVAOpticalNews
+              linkedin: https://www.linkedin.com/company/adva-optical-networking
+              acquisitions:
+                - date: '2004-09-17'
+                  acquiree: Metro Packet Systems
+                - date: '2005-10-17'
+                  acquiree: Covaro Networks
+                - date: '2006-06-05'
+                  acquiree: Movaz Networks
+                - date: '2007-06-01'
+                  acquiree: Gryfsoft
+                - date: '2013-01-02'
+                  acquiree: ADVA Optical Networking Israel
+                - date: '2013-02-14'
+                  acquiree: Biran High Tech Advisors
+                - date: '2014-03-11'
+                  acquiree: Oscilloquartz SA
+                - date: '2015-11-27'
+                  acquiree: FiSEC
+                - date: '2016-01-13'
+                  acquiree: Overture Networks
+                - date: '2017-07-02'
+                  acquiree: MRV Communications
+                  price: 69000000
+              parents:
+                - https://www.crunchbase.com/organization/swatch-group
+              ticker: ADVOF
+              funding: 3000000
+              stockExchange: otcqb
+              company_type: For Profit
+              industries:
+                - Enterprise Software
+                - Hardware
+                - Software
+                - Telecommunications
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 880205888
+              effective_ticker: ADVOF
+            image_data:
+              fileName: adva-optical-networking-se.svg
+              hash: N+8bBqGGx16rqeunw86xkmAz6ngyiIO1OcSv+vqUG2s=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-07-06T14:12:06.000Z
           - item:
             name: Adventium Labs
             homepage_url: https://adventiumlabs.com/
@@ -26067,6 +26067,20 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-07-06T12:10:00.000Z
           - item:
+            name: Amberflo.io
+            homepage_url: https://amberflo.io/
+            logo: amberfloio.svg
+            twitter: https://twitter.com/amberfloio
+            crunchbase: https://www.crunchbase.com/organization/amberflo
+            image_data:
+              fileName: amberflo-io.svg
+              hash: XmPEFlxRQGzq7e9JmCgZ8JCusMkLgBKc9Oi9FbGmkDc=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-06-27T16:10:02.000Z
+          - item:
             name: Ambient IT
             homepage_url: https://ambient-it.net/
             logo: ambient_it.svg
@@ -26632,62 +26646,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-06-30T18:01:01.000Z
           - item:
-            name: Ant Small and Micro Financial Services Group Co., Ltd.
-            homepage_url: https://antgroup.com/
-            logo: ant_small_and_micro_financial_services_group_co_ltd.svg
-            twitter: https://twitter.com/AntGroup
-            crunchbase: https://www.crunchbase.com/organization/ant-financial
-            crunchbase_data:
-              name: Ant Group
-              description: Ant Group strives to enable all consumers and small businesses to have equal access to financial and other services through technology.
-              num_employees_min: 5001
-              num_employees_max: 10000
-              homepage: https://www.antgroup.com
-              city: Hangzhou
-              region: Zhejiang
-              country: China
-              twitter: https://twitter.com/antgroup
-              linkedin: https://www.linkedin.com/company/antgroup
-              acquisitions:
-                - date: '2015-04-24'
-                  acquiree: Mayijijin
-                  price: 32215911
-                - date: '2016-09-13'
-                  acquiree: EyeVerify
-                - date: '2017-04-19'
-                  acquiree: helloPay
-                - date: '2018-04-25'
-                  acquiree: riskstorm
-                  price: 7902723
-                - date: '2019-02-14'
-                  acquiree: WorldFirst
-                  price: 700000000
-                - date: '2022-04-18'
-                  acquiree: 2C2P
-              parents:
-                - https://www.crunchbase.com/organization/alibaba
-              ticker: 9988.HK
-              funding: 22000000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Banking
-                - FinTech
-                - Financial Services
-                - Payments
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 318216435774
-              effective_ticker: 9988.HK
-            image_data:
-              fileName: ant-small-and-micro-financial-services-group-co-ltd.svg
-              hash: /8VG2m8inLy13JY5ulkc/w9DZZglAd5PY094OgGYODk=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-07-07T03:00:24.000Z
-          - item:
             name: Anthem, Inc.
             homepage_url: https://antheminc.com/
             logo: anthem_inc.svg
@@ -26807,6 +26765,62 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-06-29T12:19:20.000Z
+          - item:
+            name: Ant Small and Micro Financial Services Group Co., Ltd.
+            homepage_url: https://antgroup.com/
+            logo: ant_small_and_micro_financial_services_group_co_ltd.svg
+            twitter: https://twitter.com/AntGroup
+            crunchbase: https://www.crunchbase.com/organization/ant-financial
+            crunchbase_data:
+              name: Ant Group
+              description: Ant Group strives to enable all consumers and small businesses to have equal access to financial and other services through technology.
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: https://www.antgroup.com
+              city: Hangzhou
+              region: Zhejiang
+              country: China
+              twitter: https://twitter.com/antgroup
+              linkedin: https://www.linkedin.com/company/antgroup
+              acquisitions:
+                - date: '2015-04-24'
+                  acquiree: Mayijijin
+                  price: 32215911
+                - date: '2016-09-13'
+                  acquiree: EyeVerify
+                - date: '2017-04-19'
+                  acquiree: helloPay
+                - date: '2018-04-25'
+                  acquiree: riskstorm
+                  price: 7902723
+                - date: '2019-02-14'
+                  acquiree: WorldFirst
+                  price: 700000000
+                - date: '2022-04-18'
+                  acquiree: 2C2P
+              parents:
+                - https://www.crunchbase.com/organization/alibaba
+              ticker: 9988.HK
+              funding: 22000000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Banking
+                - FinTech
+                - Financial Services
+                - Payments
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 318216435774
+              effective_ticker: 9988.HK
+            image_data:
+              fileName: ant-small-and-micro-financial-services-group-co-ltd.svg
+              hash: /8VG2m8inLy13JY5ulkc/w9DZZglAd5PY094OgGYODk=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-07-07T03:00:24.000Z
           - item:
             name: anynines GmbH
             homepage_url: https://anynines.com/
@@ -27091,10 +27105,10 @@ landscape:
           - item:
             name: Apptio
             homepage_url: https://apptio.com/
-            stock_ticker: null
             logo: apptio.svg
             twitter: https://twitter.com/Apptio
             crunchbase: https://www.crunchbase.com/organization/apptio
+            stock_ticker: null
             crunchbase_data:
               name: Apptio
               description: Apptio is a provider of SaaS-based Technology Business Management (TBM) solutions for managing businesses in the IT field.
@@ -27432,6 +27446,42 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-07-06T22:30:54.000Z
           - item:
+            name: Argonaut
+            homepage_url: https://argonaut.dev/
+            logo: argonaut.svg
+            twitter: https://twitter.com/Argonaut_Dev
+            crunchbase: https://www.crunchbase.com/organization/argonaut-862d
+            crunchbase_data:
+              name: Argonaut
+              description: Argonaut automates application and infrastructure deployment to your cloud.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.argonaut.dev/
+              city: Sunnyvale
+              region: California
+              country: United States
+              twitter: https://twitter.com/argonaut_dev
+              linkedin: https://www.linkedin.com/company/argonautdev/
+              acquisitions: []
+              parents: []
+              funding: 1500000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Infrastructure
+                - Developer Platform
+                - SaaS
+                - Software
+              kind: funding
+            image_data:
+              fileName: argonaut.svg
+              hash: miV0aRV4VHiEO+hAgFWLuudlwBY2sb7MoxvsYIAavN0=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-06-28T12:18:36.000Z
+          - item:
             name: Argon Security
             homepage_url: https://argon.io/
             logo: argon_security.svg
@@ -27468,42 +27518,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-02-17T10:59:05.000Z
-          - item:
-            name: Argonaut
-            homepage_url: https://argonaut.dev/
-            logo: argonaut.svg
-            twitter: https://twitter.com/Argonaut_Dev
-            crunchbase: https://www.crunchbase.com/organization/argonaut-862d
-            crunchbase_data:
-              name: Argonaut
-              description: Argonaut automates application and infrastructure deployment to your cloud.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://www.argonaut.dev/
-              city: Sunnyvale
-              region: California
-              country: United States
-              twitter: https://twitter.com/argonaut_dev
-              linkedin: https://www.linkedin.com/company/argonautdev/
-              acquisitions: []
-              parents: []
-              funding: 1500000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Infrastructure
-                - Developer Platform
-                - SaaS
-                - Software
-              kind: funding
-            image_data:
-              fileName: argonaut.svg
-              hash: miV0aRV4VHiEO+hAgFWLuudlwBY2sb7MoxvsYIAavN0=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-06-28T12:18:36.000Z
           - item:
             name: ARIMA
             homepage_url: https://arima.eu/
@@ -28681,40 +28695,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-07-06T22:10:15.000Z
           - item:
-            name: Automat-IT
-            homepage_url: https://automat-it.com/
-            logo: automat-it.svg
-            twitter: https://twitter.com/Automat_IT
-            crunchbase: https://www.crunchbase.com/organization/automat-it
-            crunchbase_data:
-              name: Automat-IT
-              description: Automat-IT is a software consultancy that enables organizations accelerate innovation through the adoption of cloud-native computing.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.automat-it.com
-              city: Tel Aviv
-              region: Tel Aviv
-              country: Israel
-              twitter: https://twitter.com/Automat_IT
-              linkedin: https://www.linkedin.com/company/automat-it/about/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-                - Developer Tools
-                - Information Technology
-                - Software
-            image_data:
-              fileName: automat-it.svg
-              hash: c6UlRHBBNO8lbLcMdYtAXRdFPYY34zST7fYHn+LlM4M=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2018-04-03T17:57:47.000Z
-          - item:
             name: Automatic Data Processing, Inc. (ADP)
             homepage_url: https://adp.com/
             logo: automatic_data_processing_inc_adp.svg
@@ -28822,6 +28802,40 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-07-06T21:42:33.000Z
+          - item:
+            name: Automat-IT
+            homepage_url: https://automat-it.com/
+            logo: automat-it.svg
+            twitter: https://twitter.com/Automat_IT
+            crunchbase: https://www.crunchbase.com/organization/automat-it
+            crunchbase_data:
+              name: Automat-IT
+              description: Automat-IT is a software consultancy that enables organizations accelerate innovation through the adoption of cloud-native computing.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.automat-it.com
+              city: Tel Aviv
+              region: Tel Aviv
+              country: Israel
+              twitter: https://twitter.com/Automat_IT
+              linkedin: https://www.linkedin.com/company/automat-it/about/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Developer Tools
+                - Information Technology
+                - Software
+            image_data:
+              fileName: automat-it.svg
+              hash: c6UlRHBBNO8lbLcMdYtAXRdFPYY34zST7fYHn+LlM4M=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2018-04-03T17:57:47.000Z
           - item:
             name: Automotive Intelligence and Control of China Co., Ltd.
             homepage_url: https://aicc-corp.cn/
@@ -29269,10 +29283,10 @@ landscape:
           - item:
             name: Axis Communications
             homepage_url: https://axis.com/
-            stock_ticker: null
             logo: axis_communications.svg
             twitter: https://twitter.com/AxisIPVideo
             crunchbase: https://www.crunchbase.com/organization/axis-communications-ab
+            stock_ticker: null
             crunchbase_data:
               name: Axis Communications AB
               description: Axis offers innovative video surveillance and access control solutions, backed by quality educational and customer services.
@@ -29308,38 +29322,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-07-06T20:12:01.000Z
-          - item:
-            name: b-nova Schweiz GmbH
-            homepage_url: https://b-nova.com/
-            logo: b-nova_schweiz_gmbh.svg
-            crunchbase: https://www.crunchbase.com/organization/b-nova-schweiz-gmbh
-            crunchbase_data:
-              name: b-nova Schweiz GmbH
-              description: b-nova is specialised in enabling and crafting innovative cloud driven solutions using Kubernetes, cloud native and serverless technologies.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://b-nova.com/en/home
-              city: Basel
-              region: Basel-Stadt
-              country: Switzerland
-              twitter: https://twitter.com/b__nova
-              linkedin: https://www.linkedin.com/company/b-nova/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Information Technology
-                - Professional Services
-                - Software
-            image_data:
-              fileName: b-nova-schweiz-gmb-h.svg
-              hash: zx6YppwdM4oTF6SWTo0rkFK6FeotUHp9ux2e/5Fdi7o=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-07-06T07:59:32.000Z
           - item:
             name: B1 Systems GmbH
             homepage_url: https://b1-systems.de/
@@ -30067,13 +30049,13 @@ landscape:
               percentage: null
           - item:
             name: Beijing Shengxin Network Technology Co., Ltd. (QINGTENG)
-            description: >-
-              Qingteng is an innovative technology company specialized in workload security, constantly improving its core technological innovation capabilities
-              to become a socially responsible security company that creates value for users.
             homepage_url: https://www.qingteng.cn/
             logo: beijing_shengxin_network_technology_co_ltd_qingteng.svg
             twitter: https://twitter.com/FuZhang6
             crunchbase: https://www.crunchbase.com/organization/qingteng-cloud-security
+            description: >-
+              Qingteng is an innovative technology company specialized in workload security, constantly improving its core technological innovation capabilities
+              to become a socially responsible security company that creates value for users.
             crunchbase_data:
               name: Qingteng Cloud Security
               description: Qingteng Cloud Security is a SaaS-based cloud security company focusing on the endpoint adaptive security.
@@ -30480,6 +30462,68 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-07-06T18:31:42.000Z
           - item:
+            name: Blockchain Labs, Inc.
+            homepage_url: https://infrablockchain.com/
+            logo: blockchain_labs_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/blockchain-labs
+            crunchbase_data:
+              name: Blockchain Labs
+              description: Blockchain Solution Development. Solution provider to South Korea's digital COVID-19 vaccination verification system (COOV)
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://infrablockchain.com
+              city: Seoul
+              region: Seoul-t'ukpyolsi
+              country: South Korea
+              twitter: null
+              linkedin: https://www.linkedin.com/company/blockchain-labs-inc/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries: []
+            image_data:
+              fileName: blockchain-labs-inc.svg
+              hash: DqII2x+bjIl07fI600V1JReJbMlASt/zflBU38YBHVg=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Blockchain Technology Partners
+            homepage_url: https://blockchaintp.com/
+            logo: blockchain_technology_partners.svg
+            twitter: https://twitter.com/blockchaintp
+            crunchbase: https://www.crunchbase.com/organization/blockchain-technology-partners
+            crunchbase_data:
+              name: BTP
+              description: Blockchain Technology Partners is an enterprise blockchain company that enables multiparty innovation
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://blockchaintp.com
+              city: Edinburgh
+              region: Edinburgh, City of
+              country: United Kingdom
+              twitter: https://twitter.com/blockchaintp
+              linkedin: https://www.linkedin.com/company/blockchaintp
+              acquisitions: []
+              parents: []
+              funding: 2765674
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Blockchain
+                - Information Services
+                - Information Technology
+              kind: funding
+            image_data:
+              fileName: blockchain-technology-partners.svg
+              hash: 2FQnJmSX1oE9H6jcn56610mARIGDAPtJfVkL2hm+5Mo=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-06-28T08:09:00.000Z
+          - item:
             name: Block, Inc.
             homepage_url: https://block.xyz/
             logo: block_inc.svg
@@ -30569,68 +30613,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-06-16T21:02:27.000Z
           - item:
-            name: Blockchain Labs, Inc.
-            homepage_url: https://infrablockchain.com/
-            logo: blockchain_labs_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/blockchain-labs
-            crunchbase_data:
-              name: Blockchain Labs
-              description: Blockchain Solution Development. Solution provider to South Korea's digital COVID-19 vaccination verification system (COOV)
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://infrablockchain.com
-              city: Seoul
-              region: Seoul-t'ukpyolsi
-              country: South Korea
-              twitter: null
-              linkedin: https://www.linkedin.com/company/blockchain-labs-inc/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries: []
-            image_data:
-              fileName: blockchain-labs-inc.svg
-              hash: DqII2x+bjIl07fI600V1JReJbMlASt/zflBU38YBHVg=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Blockchain Technology Partners
-            homepage_url: https://blockchaintp.com/
-            logo: blockchain_technology_partners.svg
-            twitter: https://twitter.com/blockchaintp
-            crunchbase: https://www.crunchbase.com/organization/blockchain-technology-partners
-            crunchbase_data:
-              name: BTP
-              description: Blockchain Technology Partners is an enterprise blockchain company that enables multiparty innovation
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://blockchaintp.com
-              city: Edinburgh
-              region: Edinburgh, City of
-              country: United Kingdom
-              twitter: https://twitter.com/blockchaintp
-              linkedin: https://www.linkedin.com/company/blockchaintp
-              acquisitions: []
-              parents: []
-              funding: 2765674
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Blockchain
-                - Information Services
-                - Information Technology
-              kind: funding
-            image_data:
-              fileName: blockchain-technology-partners.svg
-              hash: 2FQnJmSX1oE9H6jcn56610mARIGDAPtJfVkL2hm+5Mo=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-06-28T08:09:00.000Z
-          - item:
             name: Bloomberg Finance L.P.
             homepage_url: https://techatbloomberg.com/
             logo: bloomberg_finance_lp.svg
@@ -30683,6 +30665,24 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-07-07T10:31:03.000Z
           - item:
+            name: BlueArch Group Inc.
+            homepage_url: https://bluearch.io/
+            logo: bluearch_group_inc.svg
+            twitter: https://twitter.com/Bluearch_io
+            organization:
+              name: BlueArch Group Inc.
+            crunchbase_data:
+              name: BlueArch Group Inc.
+              parents: []
+            image_data:
+              fileName: blue-arch-group-inc.svg
+              hash: fUryvZAZ4AemHNN4kqRyrIzkh70laJZ7Aww0n7IvlqA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-12-07T23:59:51.000Z
+          - item:
             name: Blue Sentry
             homepage_url: https://bluesentryit.com/
             logo: blue_sentry.svg
@@ -30716,24 +30716,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-04-26T17:47:13.000Z
-          - item:
-            name: BlueArch Group Inc.
-            homepage_url: https://bluearch.io/
-            logo: bluearch_group_inc.svg
-            twitter: https://twitter.com/Bluearch_io
-            organization:
-              name: BlueArch Group Inc.
-            crunchbase_data:
-              name: BlueArch Group Inc.
-              parents: []
-            image_data:
-              fileName: blue-arch-group-inc.svg
-              hash: fUryvZAZ4AemHNN4kqRyrIzkh70laJZ7Aww0n7IvlqA=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-12-07T23:59:51.000Z
           - item:
             name: BMC Software, Inc
             homepage_url: https://bmc.com/
@@ -30919,6 +30901,38 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-07-06T09:00:02.000Z
+          - item:
+            name: b-nova Schweiz GmbH
+            homepage_url: https://b-nova.com/
+            logo: b-nova_schweiz_gmbh.svg
+            crunchbase: https://www.crunchbase.com/organization/b-nova-schweiz-gmbh
+            crunchbase_data:
+              name: b-nova Schweiz GmbH
+              description: b-nova is specialised in enabling and crafting innovative cloud driven solutions using Kubernetes, cloud native and serverless technologies.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://b-nova.com/en/home
+              city: Basel
+              region: Basel-Stadt
+              country: Switzerland
+              twitter: https://twitter.com/b__nova
+              linkedin: https://www.linkedin.com/company/b-nova/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Technology
+                - Professional Services
+                - Software
+            image_data:
+              fileName: b-nova-schweiz-gmb-h.svg
+              hash: zx6YppwdM4oTF6SWTo0rkFK6FeotUHp9ux2e/5Fdi7o=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-07-06T07:59:32.000Z
           - item:
             name: BNP Paribas
             homepage_url: https://bnpparibas.com/
@@ -32490,6 +32504,34 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: China-ASEAN Information Harbor Co., Ltd
+            homepage_url: https://caih.com/
+            logo: china-asean_information_harbor_co_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/china-asean-information-harbor
+            crunchbase_data:
+              name: China-ASEAN Information Harbor
+              description: Platform-based information technology company
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: http://www.caih.com/
+              city: Nanning
+              region: Guangxi
+              country: China
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Technology
+            image_data:
+              fileName: china-asean-information-harbor-co-ltd.svg
+              hash: PBwXhikVVsu5ZYJCg9UJ7HNAyuTyAT3pgzSXJC0a19g=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: China Electronic System Cloud Data and Intelligence Technology Co., LTD. (CECLOUD)
             homepage_url: https://cecloud.com/
             logo: china_electronic_system_cloud_data_and_intelligence_technology_co_ltd_cecloud.svg
@@ -32597,10 +32639,10 @@ landscape:
           - item:
             name: China Telecommunications Corporation
             homepage_url: https://chinatelecom.cn/
-            stock_ticker: null
             logo: china_telecommunications_corporation.svg
             twitter: https://twitter.com/chinateleglobal
             crunchbase: https://www.crunchbase.com/organization/china-telecom-corporation
+            stock_ticker: null
             crunchbase_data:
               name: China Telecom
               description: China Telecom as China's major basic telecom operators, is implementing the transformation and upgrading strategy.
@@ -32673,34 +32715,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2017-01-16T06:34:23.000Z
-          - item:
-            name: China-ASEAN Information Harbor Co., Ltd
-            homepage_url: https://caih.com/
-            logo: china-asean_information_harbor_co_ltd.svg
-            crunchbase: https://www.crunchbase.com/organization/china-asean-information-harbor
-            crunchbase_data:
-              name: China-ASEAN Information Harbor
-              description: Platform-based information technology company
-              num_employees_min: 251
-              num_employees_max: 500
-              homepage: http://www.caih.com/
-              city: Nanning
-              region: Guangxi
-              country: China
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Information Technology
-            image_data:
-              fileName: china-asean-information-harbor-co-ltd.svg
-              hash: PBwXhikVVsu5ZYJCg9UJ7HNAyuTyAT3pgzSXJC0a19g=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: Chronosphere, Inc.
             homepage_url: https://chronosphere.io/
@@ -33323,44 +33337,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Cloud Kinetics
-            homepage_url: https://cloud-kinetics.com/
-            logo: cloud_kinetics.svg
-            twitter: https://twitter.com/CloudKinetics
-            crunchbase: https://www.crunchbase.com/organization/cloud-kinetics-tech
-            crunchbase_data:
-              name: Cloud Kinetics
-              description: Cloud Kinetics is a Digital Transformation Technology company enabling clients to unlock the power and flexibility of Cloud.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: https://www.cloud-kinetics.com
-              city: Singapore
-              region: Central Region
-              country: Singapore
-              twitter: https://twitter.com/cloud_kinetics
-              linkedin: https://www.linkedin.com/company/cloud-kinetics
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-                - Cloud Data Services
-                - Cloud Infrastructure
-                - Cloud Management
-                - Cloud Security
-                - Cloud Storage
-                - Information Technology
-                - Media and Entertainment
-            image_data:
-              fileName: cloud-kinetics.svg
-              hash: 7kPIFQJ6CVLNuvPOrL0cr0zijLCW7UeGxq+MrxL/C8Q=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-05-27T05:07:32.000Z
-          - item:
             name: Cloudbase Solutions S.R.L
             homepage_url: https://cloudbase.it/
             logo: cloudbase_solutions_srl.svg
@@ -33564,10 +33540,10 @@ landscape:
           - item:
             name: Cloudera, Inc.
             homepage_url: https://cloudera.com/
-            stock_ticker: null
             logo: cloudera_inc.svg
             twitter: https://twitter.com/cloudera
             crunchbase: https://www.crunchbase.com/organization/cloudera
+            stock_ticker: null
             crunchbase_data:
               name: Cloudera
               description: Cloudera delivers an Enterprise Data Cloud for any data, anywhere, from the Edge to AI.
@@ -33723,6 +33699,44 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-07-01T16:00:08.000Z
+          - item:
+            name: Cloud Kinetics
+            homepage_url: https://cloud-kinetics.com/
+            logo: cloud_kinetics.svg
+            twitter: https://twitter.com/CloudKinetics
+            crunchbase: https://www.crunchbase.com/organization/cloud-kinetics-tech
+            crunchbase_data:
+              name: Cloud Kinetics
+              description: Cloud Kinetics is a Digital Transformation Technology company enabling clients to unlock the power and flexibility of Cloud.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: https://www.cloud-kinetics.com
+              city: Singapore
+              region: Central Region
+              country: Singapore
+              twitter: https://twitter.com/cloud_kinetics
+              linkedin: https://www.linkedin.com/company/cloud-kinetics
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Cloud Data Services
+                - Cloud Infrastructure
+                - Cloud Management
+                - Cloud Security
+                - Cloud Storage
+                - Information Technology
+                - Media and Entertainment
+            image_data:
+              fileName: cloud-kinetics.svg
+              hash: 7kPIFQJ6CVLNuvPOrL0cr0zijLCW7UeGxq+MrxL/C8Q=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-05-27T05:07:32.000Z
           - item:
             name: CloudLinux
             homepage_url: https://cloudlinux.com/
@@ -34312,43 +34326,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-07-07T10:01:48.000Z
           - item:
-            name: Code Zero Technologies Inc
-            homepage_url: https://codezero.io/
-            logo: code_zero_technologies_inc.svg
-            twitter: https://twitter.com/codezeroio
-            crunchbase: https://www.crunchbase.com/organization/traxitt-inc
-            crunchbase_data:
-              name: CodeZero Technologies Inc.
-              description: Developer Tools for Kubernetes
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://codezero.io
-              city: Vancouver
-              region: British Columbia
-              country: Canada
-              twitter: null
-              linkedin: https://www.linkedin.com/company/codezerotechnologies
-              acquisitions: []
-              parents: []
-              funding: 0
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Infrastructure
-                - Cloud Management
-                - Developer Platform
-                - Developer Tools
-                - Enterprise Applications
-                - Software
-            image_data:
-              fileName: code-zero-technologies-inc.svg
-              hash: uzi2pKBnd/URDO5vslKqELfq+b24G1inxA0Pa25Y8dk=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-06-16T04:12:45.000Z
-          - item:
             name: Codefresh, Inc.
             homepage_url: https://codefresh.io/
             logo: codefresh_inc.svg
@@ -34494,39 +34471,42 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-11-23T14:17:21.000Z
           - item:
-            name: Cog Systems
-            homepage_url: https://cog.systems/
-            logo: cog_systems.svg
-            twitter: https://twitter.com/cogsystems
-            crunchbase: https://www.crunchbase.com/organization/cognitive-systems
+            name: Code Zero Technologies Inc
+            homepage_url: https://codezero.io/
+            logo: code_zero_technologies_inc.svg
+            twitter: https://twitter.com/codezeroio
+            crunchbase: https://www.crunchbase.com/organization/traxitt-inc
             crunchbase_data:
-              name: Cognitive Systems Corp.
-              description: Cognitive Systems’ patented Aura WiFi Motion™ technology uses Wi-Fi signals to detect motion through smart home devices.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.cognitivesystems.com/
-              city: Waterloo
-              region: Ontario
+              name: CodeZero Technologies Inc.
+              description: Developer Tools for Kubernetes
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://codezero.io
+              city: Vancouver
+              region: British Columbia
               country: Canada
-              twitter: https://twitter.com/cognitiveSC
-              linkedin: https://www.linkedin.com/company/9270269
+              twitter: null
+              linkedin: https://www.linkedin.com/company/codezerotechnologies
               acquisitions: []
               parents: []
-              funding: 5456516
+              funding: 0
               stockExchange: null
               company_type: For Profit
               industries:
-                - Smart Home
-                - Wireless
-              kind: funding
+                - Cloud Infrastructure
+                - Cloud Management
+                - Developer Platform
+                - Developer Tools
+                - Enterprise Applications
+                - Software
             image_data:
-              fileName: cog-systems.svg
-              hash: OeyXoenyXr2+RqA+cCPAW8970b/lWEAwT1Vme2+XHq4=
+              fileName: code-zero-technologies-inc.svg
+              hash: uzi2pKBnd/URDO5vslKqELfq+b24G1inxA0Pa25Y8dk=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2020-11-25T18:48:45.000Z
+              latest_tweet_date: 2022-06-16T04:12:45.000Z
           - item:
             name: Cognizant Technology Solutions
             homepage_url: https://cognizant.com/
@@ -36609,73 +36589,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2015-08-20T09:00:30.000Z
           - item:
-            name: Data Essential
-            homepage_url: https://data-essential.com/
-            logo: data_essential.svg
-            twitter: https://twitter.com/DataEssential
-            crunchbase: https://www.crunchbase.com/organization/data-essential
-            crunchbase_data:
-              name: Data Essential
-              description: Enablement, integration and support to help our customers succeed with their 3rd Platform projects.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.data-essential.com/
-              city: Luxembourg
-              region: Luxembourg
-              country: Luxembourg
-              twitter: https://twitter.com/DataEssential
-              linkedin: https://www.linkedin.com/company/data-essential/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Information Technology
-                - Internet
-                - Robotics
-            image_data:
-              fileName: data-essential.svg
-              hash: e8QBfoJhRPG88G/RsIhnyxNMFJ36DZHy0QGNVxvoPOQ=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-11-25T18:40:24.000Z
-          - item:
-            name: Data Storage Research, LLC d/b/a DSR Corporation
-            homepage_url: https://dsr-corporation.com/
-            logo: data_storage_research_llc_dba_dsr_corporation.svg
-            twitter: https://twitter.com/DSR_corporation
-            crunchbase: https://www.crunchbase.com/organization/dsr-corporation
-            crunchbase_data:
-              name: DSR Corporation
-              description: DSR is a multi-national software development company.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: http://www.dsr-company.com
-              city: Denver
-              region: Colorado
-              country: United States
-              twitter: null
-              linkedin: https://www.linkedin.com/company/234080/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - CRM
-                - Consumer Electronics
-                - Information Technology
-                - Software
-            image_data:
-              fileName: data-storage-research-llc-d-b-a-dsr-corporation.svg
-              hash: yT6Z8I+Wh4P1PfBoWcmK2ipFl4V0hwUFFh+wQ9h72Wo=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-11-18T15:36:05.000Z
-          - item:
             name: Databricks Inc.
             homepage_url: https://databricks.com/
             logo: databricks_inc.svg
@@ -36890,6 +36803,39 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-06-23T15:09:51.000Z
           - item:
+            name: Data Essential
+            homepage_url: https://data-essential.com/
+            logo: data_essential.svg
+            twitter: https://twitter.com/DataEssential
+            crunchbase: https://www.crunchbase.com/organization/data-essential
+            crunchbase_data:
+              name: Data Essential
+              description: Enablement, integration and support to help our customers succeed with their 3rd Platform projects.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.data-essential.com/
+              city: Luxembourg
+              region: Luxembourg
+              country: Luxembourg
+              twitter: https://twitter.com/DataEssential
+              linkedin: https://www.linkedin.com/company/data-essential/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Technology
+                - Internet
+                - Robotics
+            image_data:
+              fileName: data-essential.svg
+              hash: e8QBfoJhRPG88G/RsIhnyxNMFJ36DZHy0QGNVxvoPOQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-11-25T18:40:24.000Z
+          - item:
             name: Datagrate, Inc.
             homepage_url: https://datagrate.com/
             logo: datagrate_inc.svg
@@ -36962,6 +36908,40 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-07-07T09:00:28.000Z
+          - item:
+            name: Data Storage Research, LLC d/b/a DSR Corporation
+            homepage_url: https://dsr-corporation.com/
+            logo: data_storage_research_llc_dba_dsr_corporation.svg
+            twitter: https://twitter.com/DSR_corporation
+            crunchbase: https://www.crunchbase.com/organization/dsr-corporation
+            crunchbase_data:
+              name: DSR Corporation
+              description: DSR is a multi-national software development company.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: http://www.dsr-company.com
+              city: Denver
+              region: Colorado
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/234080/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - CRM
+                - Consumer Electronics
+                - Information Technology
+                - Software
+            image_data:
+              fileName: data-storage-research-llc-d-b-a-dsr-corporation.svg
+              hash: yT6Z8I+Wh4P1PfBoWcmK2ipFl4V0hwUFFh+wQ9h72Wo=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-11-18T15:36:05.000Z
           - item:
             name: Datree.io
             homepage_url: https://datree.io/
@@ -37538,10 +37518,10 @@ landscape:
           - item:
             name: DENSO CORPORATION
             homepage_url: https://denso.com/
-            stock_ticker: DNZOY
             logo: denso_corporation.svg
             twitter: https://twitter.com/DENSOinNA
             crunchbase: https://www.crunchbase.com/organization/denso
+            stock_ticker: DNZOY
             crunchbase_data:
               name: Denso
               description: Denso is a supplier of advanced automotive technology.
@@ -38073,6 +38053,37 @@ landscape:
             twitter_data:
               latest_tweet_date: 2018-06-21T15:08:25.000Z
           - item:
+            name: Didim365
+            homepage_url: https://didim365.com/
+            logo: didim365.svg
+            crunchbase: https://www.crunchbase.com/organization/didim365
+            crunchbase_data:
+              name: Didim365
+              description: Didim365 is a multi-cloud management and SaaS company.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://www.didim365.com/
+              city: Doksansadong
+              region: Seoul-t'ukpyolsi
+              country: South Korea
+              twitter: null
+              linkedin: https://www.linkedin.com/company/didim365/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Management
+                - Information Technology
+                - SaaS
+                - Software
+            image_data:
+              fileName: didim365.svg
+              hash: +jWINttTo6dP5pxcimDreaJdb/P0/ziechjcVs+f8PE=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: DiDi USA
             homepage_url: https://didiglobal.com/
             logo: didi_usa.svg
@@ -38125,37 +38136,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-05-26T08:30:57.000Z
-          - item:
-            name: Didim365
-            homepage_url: https://didim365.com/
-            logo: didim365.svg
-            crunchbase: https://www.crunchbase.com/organization/didim365
-            crunchbase_data:
-              name: Didim365
-              description: Didim365 is a multi-cloud management and SaaS company.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: https://www.didim365.com/
-              city: Doksansadong
-              region: Seoul-t'ukpyolsi
-              country: South Korea
-              twitter: null
-              linkedin: https://www.linkedin.com/company/didim365/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Management
-                - Information Technology
-                - SaaS
-                - Software
-            image_data:
-              fileName: didim365.svg
-              hash: +jWINttTo6dP5pxcimDreaJdb/P0/ziechjcVs+f8PE=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: DigiCert, Inc.
             homepage_url: https://digicert.com/
@@ -39128,6 +39108,38 @@ landscape:
             twitter_data:
               latest_tweet_date: 2009-07-18T02:31:24.000Z
           - item:
+            name: Edgecore Network Corporation
+            homepage_url: https://edge-core.com/
+            logo: edgecore_network_corporation.svg
+            twitter: https://twitter.com/EdgecoreNetwork
+            crunchbase: https://www.crunchbase.com/organization/edgecore-networks
+            crunchbase_data:
+              name: Edgecore Networks
+              description: Edge-Core Networks provided networking solutions and a range of carrier-grade and enterprise-level networking equipment and services.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: http://www.edge-core.com
+              city: Irvine
+              region: California
+              country: United States
+              twitter: https://twitter.com/EdgeCoreNetwork
+              linkedin: https://www.linkedin.com/company/edge-core-networks
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Manufacturing
+                - Web Hosting
+            image_data:
+              fileName: edgecore-network-corporation.svg
+              hash: TEhtX/AceiRQVAnOMkHG4ZnxFAibohoIsIIEThWLpuw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-07-07T06:51:33.000Z
+          - item:
             name: Edge Delta
             homepage_url: https://edgedelta.com/
             logo: edge_delta.svg
@@ -39162,38 +39174,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-07-05T22:57:20.000Z
-          - item:
-            name: Edgecore Network Corporation
-            homepage_url: https://edge-core.com/
-            logo: edgecore_network_corporation.svg
-            twitter: https://twitter.com/EdgecoreNetwork
-            crunchbase: https://www.crunchbase.com/organization/edgecore-networks
-            crunchbase_data:
-              name: Edgecore Networks
-              description: Edge-Core Networks provided networking solutions and a range of carrier-grade and enterprise-level networking equipment and services.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: http://www.edge-core.com
-              city: Irvine
-              region: California
-              country: United States
-              twitter: https://twitter.com/EdgeCoreNetwork
-              linkedin: https://www.linkedin.com/company/edge-core-networks
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Manufacturing
-                - Web Hosting
-            image_data:
-              fileName: edgecore-network-corporation.svg
-              hash: TEhtX/AceiRQVAnOMkHG4ZnxFAibohoIsIIEThWLpuw=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-07-07T06:51:33.000Z
           - item:
             name: Edgeless Systems
             homepage_url: https://edgeless.systems/
@@ -41564,36 +41544,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-07-07T05:51:58.000Z
           - item:
-            name: Flow Security
-            homepage_url: https://flowsecurity.com/
-            logo: flow_security.svg
-            twitter: https://twitter.com/flow_security
-            crunchbase: https://www.crunchbase.com/organization/flow-security
-            crunchbase_data:
-              name: Flow Security
-              description: Cloud Data Security for Modern Architectures
-              num_employees_min: null
-              num_employees_max: null
-              homepage: https://www.flowsecurity.com/
-              city: Tel Aviv
-              region: Tel Aviv
-              country: Israel
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries: []
-            image_data:
-              fileName: flow-security.svg
-              hash: IPU2XL/JbQ0FRO6PXJk9of6h9Zuoo/h9ScLM4vMxqkw=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-06-29T17:16:42.000Z
-          - item:
             name: Flowchain
             homepage_url: https://flowchain.co/
             logo: flowchain.svg
@@ -41624,6 +41574,36 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-08-06T04:13:48.000Z
+          - item:
+            name: Flow Security
+            homepage_url: https://flowsecurity.com/
+            logo: flow_security.svg
+            twitter: https://twitter.com/flow_security
+            crunchbase: https://www.crunchbase.com/organization/flow-security
+            crunchbase_data:
+              name: Flow Security
+              description: Cloud Data Security for Modern Architectures
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://www.flowsecurity.com/
+              city: Tel Aviv
+              region: Tel Aviv
+              country: Israel
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries: []
+            image_data:
+              fileName: flow-security.svg
+              hash: IPU2XL/JbQ0FRO6PXJk9of6h9Zuoo/h9ScLM4vMxqkw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-06-29T17:16:42.000Z
           - item:
             name: FogHorn Systems
             homepage_url: https://foghorn.io/
@@ -44537,10 +44517,10 @@ landscape:
           - item:
             name: HENSOLDT Cyber GmbH
             homepage_url: https://hensoldt-cyber.com/
-            stock_ticker: null
             logo: hensoldt_cyber_gmbh.svg
             twitter: https://twitter.com/HENSOLDTCyber
             crunchbase: https://www.crunchbase.com/organization/hensoldt
+            stock_ticker: null
             crunchbase_data:
               name: Hensoldt
               description: Hensoldt is a globally leading supplier of premium sensors for security and surveillance missions.
@@ -44740,10 +44720,10 @@ landscape:
           - item:
             name: Honda Motor Co., Ltd.
             homepage_url: https://honda.com/
-            stock_ticker: null
             logo: honda_motor_co_ltd.svg
             twitter: https://twitter.com/Honda
             crunchbase: https://www.crunchbase.com/organization/honda-automobiles
+            stock_ticker: null
             crunchbase_data:
               name: Honda Motor
               description: Honda Motor is a Japanese public multinational corporation primarily known as a manufacturer of automobiles and motorcycles.
@@ -45721,10 +45701,10 @@ landscape:
           - item:
             name: IHS Markit
             homepage_url: https://ihsmarkit.com/
-            stock_ticker: null
             logo: ihs_markit.svg
             twitter: https://twitter.com/IHSMarkit
             crunchbase: https://www.crunchbase.com/organization/ihs-markit
+            stock_ticker: null
             crunchbase_data:
               name: IHS Markit
               description: IHS provides information and analysis to support the decision-making process of businesses and governments in regards to various industries.
@@ -50863,10 +50843,10 @@ landscape:
           - item:
             name: Mail.Ru Cloud Solutions
             homepage_url: https://mcs.mail.ru/
-            stock_ticker: null
             logo: mailru_cloud_solutions.svg
             twitter: https://twitter.com/MailRu
             crunchbase: https://www.crunchbase.com/organization/mail-ru
+            stock_ticker: null
             crunchbase_data:
               name: Mail.Ru Group
               description: Mail.Ru Group is an internet company that operates social networking sites, IM networks, email services, and internet portals.
@@ -52029,10 +52009,10 @@ landscape:
           - item:
             name: Mercedes-Benz Tech Innovation GmbH
             homepage_url: https://daimler-tss.com/
-            stock_ticker: null
             logo: mercedes-benz_tech_innovation_gmbh.svg
             twitter: https://twitter.com/mercedesbenz_ti
             crunchbase: https://www.crunchbase.com/organization/daimler
+            stock_ticker: null
             crunchbase_data:
               name: Daimler
               description: Daimler is an automotive company that produces premium cars and commercial vehicles with a global reach.
@@ -54790,10 +54770,10 @@ landscape:
           - item:
             name: Nokia Corporation
             homepage_url: https://nokia.com/
-            stock_ticker: NOK
             logo: nokia_corporation.svg
             twitter: https://twitter.com/nokia
             crunchbase: https://www.crunchbase.com/organization/nokia
+            stock_ticker: NOK
             crunchbase_data:
               name: Nokia
               description: Nokia is a Finnish multinational communications corporation engaged in the manufacturing of mobile devices and network infrastructure.
@@ -55715,6 +55695,39 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-06-30T19:21:29.000Z
           - item:
+            name: OpenNebula
+            homepage_url: https://opennebula.io/
+            logo: opennebula.svg
+            twitter: https://twitter.com/opennebula
+            crunchbase: https://www.crunchbase.com/organization/opennebula
+            crunchbase_data:
+              name: OpenNebula
+              description: The open source Cloud & Edge Computing Platform bringing real freedom to your Enterprise Cloud
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://opennebula.io
+              city: Pozuelo De Alarcón
+              region: Madrid
+              country: Spain
+              twitter: https://twitter.com/opennebula
+              linkedin: https://www.linkedin.com/company/opennebula/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - IaaS
+                - Virtualization
+            image_data:
+              fileName: open-nebula.svg
+              hash: 3sfnfuNIrMtcBnVtTiQliSc71MMM+sRur6yKLZ2+xyg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-07-01T15:30:18.000Z
+          - item:
             name: Open Raven
             homepage_url: https://openraven.com/
             logo: open_raven.svg
@@ -55818,39 +55831,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-06-07T20:35:43.000Z
-          - item:
-            name: OpenNebula
-            homepage_url: https://opennebula.io/
-            logo: opennebula.svg
-            twitter: https://twitter.com/opennebula
-            crunchbase: https://www.crunchbase.com/organization/opennebula
-            crunchbase_data:
-              name: OpenNebula
-              description: The open source Cloud & Edge Computing Platform bringing real freedom to your Enterprise Cloud
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://opennebula.io
-              city: Pozuelo De Alarcón
-              region: Madrid
-              country: Spain
-              twitter: https://twitter.com/opennebula
-              linkedin: https://www.linkedin.com/company/opennebula/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-                - IaaS
-                - Virtualization
-            image_data:
-              fileName: open-nebula.svg
-              hash: 3sfnfuNIrMtcBnVtTiQliSc71MMM+sRur6yKLZ2+xyg=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-07-01T15:30:18.000Z
           - item:
             name: OpenSynergy GmbH
             homepage_url: https://opensynergy.com/
@@ -56291,6 +56271,41 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-07-06T20:25:43.000Z
           - item:
+            name: Origoss Solutions Ltd
+            homepage_url: https://origoss.com/
+            logo: origoss_solutions_ltd.svg
+            twitter: https://twitter.com/origoss_com
+            crunchbase: https://www.crunchbase.com/organization/origoss-solutions-ltd
+            crunchbase_data:
+              name: Origoss Solutions
+              description: |+
+                Original open source software solutions
+                Original open source software solutions
+
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://origoss.com/
+              city: Budapest
+              region: Budapest
+              country: Hungary
+              twitter: https://twitter.com/origoss_com
+              linkedin: https://www.linkedin.com/company/origoss/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Technology
+                - Software
+            image_data:
+              fileName: origoss-solutions-ltd.svg
+              hash: CahKJ/D9veInNPW0Xg7x8RiakMynTjcKd+GcFQaezgM=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2018-11-29T09:46:17.000Z
+          - item:
             name: Ori Industries
             homepage_url: https://ori.co/
             logo: ori_industries.svg
@@ -56326,41 +56341,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-04-19T16:07:50.000Z
-          - item:
-            name: Origoss Solutions Ltd
-            homepage_url: https://origoss.com/
-            logo: origoss_solutions_ltd.svg
-            twitter: https://twitter.com/origoss_com
-            crunchbase: https://www.crunchbase.com/organization/origoss-solutions-ltd
-            crunchbase_data:
-              name: Origoss Solutions
-              description: |+
-                Original open source software solutions
-                Original open source software solutions
-
-              num_employees_min: null
-              num_employees_max: null
-              homepage: https://origoss.com/
-              city: Budapest
-              region: Budapest
-              country: Hungary
-              twitter: https://twitter.com/origoss_com
-              linkedin: https://www.linkedin.com/company/origoss/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Information Technology
-                - Software
-            image_data:
-              fileName: origoss-solutions-ltd.svg
-              hash: CahKJ/D9veInNPW0Xg7x8RiakMynTjcKd+GcFQaezgM=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2018-11-29T09:46:17.000Z
           - item:
             name: Orkes Inc
             homepage_url: https://orkes.io/
@@ -57623,6 +57603,42 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-07-06T18:14:02.000Z
           - item:
+            name: Platform9 Systems, Inc.
+            homepage_url: https://platform9.com/
+            logo: platform9_systems_inc.svg
+            twitter: https://twitter.com/Platform9Sys
+            crunchbase: https://www.crunchbase.com/organization/platform9-systems-inc
+            crunchbase_data:
+              name: Platform9
+              description: Platform9 provides Kubernetes-as-a-Service for multi-cloud, on-premises, or at edge.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: https://platform9.com
+              city: Mountain View
+              region: California
+              country: United States
+              twitter: http://twitter.com/Platform9Sys
+              linkedin: https://www.linkedin.com/company/platform9-systems
+              acquisitions: []
+              parents: []
+              funding: 100000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Enterprise Software
+                - IT Infrastructure
+                - SaaS
+              kind: funding
+            image_data:
+              fileName: platform9-systems-inc.svg
+              hash: PV7V7D3lwTQhCsWmeqLznNV7VXfBkTHmlauir1Ks1F8=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-06-30T14:40:23.000Z
+          - item:
             name: Plat'Home Co., Ltd
             homepage_url: https://plathome.co.jp/
             logo: plathome_co_ltd.svg
@@ -57659,42 +57675,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-06-10T02:05:59.000Z
-          - item:
-            name: Platform9 Systems, Inc.
-            homepage_url: https://platform9.com/
-            logo: platform9_systems_inc.svg
-            twitter: https://twitter.com/Platform9Sys
-            crunchbase: https://www.crunchbase.com/organization/platform9-systems-inc
-            crunchbase_data:
-              name: Platform9
-              description: Platform9 provides Kubernetes-as-a-Service for multi-cloud, on-premises, or at edge.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: https://platform9.com
-              city: Mountain View
-              region: California
-              country: United States
-              twitter: http://twitter.com/Platform9Sys
-              linkedin: https://www.linkedin.com/company/platform9-systems
-              acquisitions: []
-              parents: []
-              funding: 100000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-                - Enterprise Software
-                - IT Infrastructure
-                - SaaS
-              kind: funding
-            image_data:
-              fileName: platform9-systems-inc.svg
-              hash: PV7V7D3lwTQhCsWmeqLznNV7VXfBkTHmlauir1Ks1F8=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-06-30T14:40:23.000Z
           - item:
             name: plural
             homepage_url: https://app.plural.sh/
@@ -58937,10 +58917,10 @@ landscape:
           - item:
             name: Radisys Corporation
             homepage_url: https://radisys.com/
-            stock_ticker: null
             logo: radisys_corporation.svg
             twitter: https://twitter.com/Radisys
             crunchbase: https://www.crunchbase.com/organization/radisys
+            stock_ticker: null
             crunchbase_data:
               name: Radisys
               description: RadiSys is a leading provider of innovative hardware and software platforms for next generation IP-based wireless, wireline and video
@@ -59417,6 +59397,36 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-07-06T15:39:12.000Z
           - item:
+            name: Redeploy
+            homepage_url: https://redeploy.com/
+            logo: redeploy.svg
+            twitter: https://twitter.com/RedeployAB
+            crunchbase: https://www.crunchbase.com/organization/redeploy
+            crunchbase_data:
+              name: Redeploy
+              description: We are the Azure and CloudOps experts defining the new standard for how things should be built and run in the cloud.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://redeploy.com/
+              city: Stockholm
+              region: Stockholms Lan
+              country: Sweden
+              twitter: https://twitter.com/RedeployAB
+              linkedin: https://www.linkedin.com/company/redeploy-ab
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries: []
+            image_data:
+              fileName: redeploy.svg
+              hash: PENvUrS1GRjU5gPf+yM3CwKr4jnyiaNp++Vv6WaOnJs=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-02-04T09:38:36.000Z
+          - item:
             name: Red Kubes BV
             homepage_url: https://redkubes.com/
             logo: red_kubes_bv.svg
@@ -59450,36 +59460,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-06-22T11:56:58.000Z
-          - item:
-            name: Redeploy
-            homepage_url: https://redeploy.com/
-            logo: redeploy.svg
-            twitter: https://twitter.com/RedeployAB
-            crunchbase: https://www.crunchbase.com/organization/redeploy
-            crunchbase_data:
-              name: Redeploy
-              description: We are the Azure and CloudOps experts defining the new standard for how things should be built and run in the cloud.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://redeploy.com/
-              city: Stockholm
-              region: Stockholms Lan
-              country: Sweden
-              twitter: https://twitter.com/RedeployAB
-              linkedin: https://www.linkedin.com/company/redeploy-ab
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries: []
-            image_data:
-              fileName: redeploy.svg
-              hash: PENvUrS1GRjU5gPf+yM3CwKr4jnyiaNp++Vv6WaOnJs=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-02-04T09:38:36.000Z
           - item:
             name: Redpanda Data
             homepage_url: https://redpanda.com/
@@ -60307,62 +60287,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-07-05T15:04:18.000Z
-          - item:
-            name: S&P Global Inc.
-            homepage_url: https://spglobal.com/
-            logo: sp_global_inc.svg
-            twitter: https://twitter.com/SPGlobal
-            crunchbase: https://www.crunchbase.com/organization/s-p-global
-            crunchbase_data:
-              name: S&P Global
-              description: S&P Global is a market intelligence company that provides financial information and data analytics services.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://www.spglobal.com/
-              city: New York
-              region: New York
-              country: United States
-              twitter: https://twitter.com/spglobal
-              linkedin: https://www.linkedin.com/company/spglobal
-              acquisitions:
-                - date: '2001-01-03'
-                  acquiree: Mayfield Publishing Co.
-                - date: '2015-09-01'
-                  acquiree: SNL Financial
-                - date: '2018-02-20'
-                  acquiree: Panjiva
-                - date: '2018-03-06'
-                  acquiree: Kensho
-                  price: 550000000
-                - date: '2019-12-06'
-                  acquiree: 451 Research
-                - date: '2020-11-30'
-                  acquiree: IHS Markit
-                  price: 44000000000
-                - date: '2022-01-04'
-                  acquiree: The Climate Service
-              parents: []
-              ticker: SPGI
-              stockExchange: nyse
-              company_type: For Profit
-              industries:
-                - Analytics
-                - Enterprise Software
-                - Finance
-                - Financial Services
-                - Market Research
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 118631890944
-              effective_ticker: SPGI
-            image_data:
-              fileName: s-p-global-inc.svg
-              hash: q2mm6p6GlWh10ktiBGigcVwQ9DHeMZbi7ZkJEBvjdnY=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-07-06T21:00:13.000Z
           - item:
             name: Saaras, Inc.
             homepage_url: https://getenroute.io/
@@ -64498,6 +64422,62 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-07-05T20:29:16.000Z
           - item:
+            name: S&P Global Inc.
+            homepage_url: https://spglobal.com/
+            logo: sp_global_inc.svg
+            twitter: https://twitter.com/SPGlobal
+            crunchbase: https://www.crunchbase.com/organization/s-p-global
+            crunchbase_data:
+              name: S&P Global
+              description: S&P Global is a market intelligence company that provides financial information and data analytics services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.spglobal.com/
+              city: New York
+              region: New York
+              country: United States
+              twitter: https://twitter.com/spglobal
+              linkedin: https://www.linkedin.com/company/spglobal
+              acquisitions:
+                - date: '2001-01-03'
+                  acquiree: Mayfield Publishing Co.
+                - date: '2015-09-01'
+                  acquiree: SNL Financial
+                - date: '2018-02-20'
+                  acquiree: Panjiva
+                - date: '2018-03-06'
+                  acquiree: Kensho
+                  price: 550000000
+                - date: '2019-12-06'
+                  acquiree: 451 Research
+                - date: '2020-11-30'
+                  acquiree: IHS Markit
+                  price: 44000000000
+                - date: '2022-01-04'
+                  acquiree: The Climate Service
+              parents: []
+              ticker: SPGI
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Analytics
+                - Enterprise Software
+                - Finance
+                - Financial Services
+                - Market Research
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 118631890944
+              effective_ticker: SPGI
+            image_data:
+              fileName: s-p-global-inc.svg
+              hash: q2mm6p6GlWh10ktiBGigcVwQ9DHeMZbi7ZkJEBvjdnY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-07-06T21:00:13.000Z
+          - item:
             name: SphereEx
             homepage_url: https://sphere-ex.com/
             logo: sphereex.svg
@@ -64782,10 +64762,10 @@ landscape:
           - item:
             name: Sprint Corporation
             homepage_url: https://sprint.com/
-            stock_ticker: null
             logo: sprint_corporation.svg
             twitter: https://twitter.com/TMobile
             crunchbase: https://www.crunchbase.com/organization/t-mobile
+            stock_ticker: null
             crunchbase_data:
               name: T-Mobile
               description: T-Mobile is redefining the way consumers and businesses buy wireless services.
@@ -65278,10 +65258,10 @@ landscape:
           - item:
             name: Sterlite Technologies Limited
             homepage_url: https://stl.tech/
-            stock_ticker: null
             logo: sterlite_technologies_limited.svg
             twitter: https://twitter.com/STL_Tech
             crunchbase: https://www.crunchbase.com/organization/sterlite-technologies-ltd-
+            stock_ticker: null
             crunchbase_data:
               name: Sterlite Technologies
               description: Sterlite Technologies is an Indian manufacturer of optical fibers, telecommunication cables and power transmission conductors.
@@ -65729,46 +65709,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-07-07T08:34:09.000Z
           - item:
-            name: Super Micro Computer, Inc.
-            homepage_url: https://supermicro.com/
-            logo: super_micro_computer_inc.svg
-            twitter: https://twitter.com/Supermicro_SMCI
-            crunchbase: https://www.crunchbase.com/organization/super-micro-computer
-            crunchbase_data:
-              name: Supermicro
-              description: Supermicro is a global leader in high-performance, high-efficiency server technology and innovation.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: http://www.supermicro.com
-              city: San Jose
-              region: California
-              country: United States
-              twitter: http://twitter.com/Supermicro_SMCI
-              linkedin: https://www.linkedin.com/company/supermicro
-              acquisitions: []
-              parents: []
-              ticker: SMCI
-              stockExchange: nasdaq
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-                - Cloud Infrastructure
-                - Embedded Systems
-                - Manufacturing
-                - Software
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 2029559680
-              effective_ticker: SMCI
-            image_data:
-              fileName: super-micro-computer-inc.svg
-              hash: gIYiURu6e1AhTB0+jKKNYZ+DhqbJ2rjRVBiGZBTX/Jo=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-07-06T13:13:00.000Z
-          - item:
             name: Superblocks
             homepage_url: https://superblocks.com/
             logo: superblocks.svg
@@ -65821,6 +65761,46 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-06-30T10:17:39.000Z
+          - item:
+            name: Super Micro Computer, Inc.
+            homepage_url: https://supermicro.com/
+            logo: super_micro_computer_inc.svg
+            twitter: https://twitter.com/Supermicro_SMCI
+            crunchbase: https://www.crunchbase.com/organization/super-micro-computer
+            crunchbase_data:
+              name: Supermicro
+              description: Supermicro is a global leader in high-performance, high-efficiency server technology and innovation.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: http://www.supermicro.com
+              city: San Jose
+              region: California
+              country: United States
+              twitter: http://twitter.com/Supermicro_SMCI
+              linkedin: https://www.linkedin.com/company/supermicro
+              acquisitions: []
+              parents: []
+              ticker: SMCI
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Cloud Infrastructure
+                - Embedded Systems
+                - Manufacturing
+                - Software
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 2029559680
+              effective_ticker: SMCI
+            image_data:
+              fileName: super-micro-computer-inc.svg
+              hash: gIYiURu6e1AhTB0+jKKNYZ+DhqbJ2rjRVBiGZBTX/Jo=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-07-06T13:13:00.000Z
           - item:
             name: SuperOrbital, LLC.
             homepage_url: https://superorbital.io/
@@ -67689,6 +67669,38 @@ landscape:
             twitter_data:
               latest_tweet_date: 2017-08-17T20:38:18.000Z
           - item:
+            name: Thebes Cloud Management Limited
+            homepage_url: https://thebescloud.com/
+            logo: thebes_cloud_management_limited.svg
+            twitter: https://twitter.com/ThebesCloud
+            crunchbase: https://www.crunchbase.com/organization/thebes-group
+            crunchbase_data:
+              name: Thebes Group
+              description: Thebes Group is an established IT managed service provider focused on delivering business results.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: https://www.thebesgroup.co.uk/
+              city: Milton Keynes
+              region: Milton Keynes
+              country: United Kingdom
+              twitter: https://twitter.com/thebesgroup
+              linkedin: https://www.linkedin.com/company/thebesgroup/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Services
+                - Information Technology
+            image_data:
+              fileName: thebes-cloud-management-limited.svg
+              hash: X/QgbEE8ziYg55zwXHq1rTpmuELuglYEjRaCpTd6ql0=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-04-10T12:05:12.000Z
+          - item:
             name: The Constant Company, LLC / Vultr
             homepage_url: https://vultr.com/
             logo: the_constant_company_llc__vultr.svg
@@ -67932,38 +67944,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-07-06T20:00:01.000Z
-          - item:
-            name: Thebes Cloud Management Limited
-            homepage_url: https://thebescloud.com/
-            logo: thebes_cloud_management_limited.svg
-            twitter: https://twitter.com/ThebesCloud
-            crunchbase: https://www.crunchbase.com/organization/thebes-group
-            crunchbase_data:
-              name: Thebes Group
-              description: Thebes Group is an established IT managed service provider focused on delivering business results.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: https://www.thebesgroup.co.uk/
-              city: Milton Keynes
-              region: Milton Keynes
-              country: United Kingdom
-              twitter: https://twitter.com/thebesgroup
-              linkedin: https://www.linkedin.com/company/thebesgroup/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Information Services
-                - Information Technology
-            image_data:
-              fileName: thebes-cloud-management-limited.svg
-              hash: X/QgbEE8ziYg55zwXHq1rTpmuELuglYEjRaCpTd6ql0=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-04-10T12:05:12.000Z
           - item:
             name: Thought Machine Group Limited
             homepage_url: https://thoughtmachine.net/
@@ -71275,42 +71255,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-07-06T20:32:33.000Z
           - item:
-            name: We.Trade Innovation DAC
-            homepage_url: https://we-trade.com/
-            logo: wetrade_innovation_dac.svg
-            twitter: https://twitter.com/we_dot_trade
-            crunchbase: https://www.crunchbase.com/organization/we-trade
-            crunchbase_data:
-              name: we.trade
-              description: 'Develops and licenses the first blockchain trade platform for commercial clients and their banks available in the market. '
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://we-trade.com/
-              city: Dublin
-              region: Dublin
-              country: Ireland
-              twitter: https://twitter.com/we_dot_trade
-              linkedin: https://www.linkedin.com/company/we-trade/
-              acquisitions: []
-              parents: []
-              funding: 6637342
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Blockchain
-                - FinTech
-                - Financial Services
-                - Information Technology
-              kind: funding
-            image_data:
-              fileName: we-trade-innovation-dac.svg
-              hash: txjtARmn5AZ5DrOYTpS90JM7cLddOFRK6QuwVn/8osc=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-07-22T12:51:19.000Z
-          - item:
             name: Weaveworks Inc.
             homepage_url: https://weave.works/
             logo: weaveworks_inc.svg
@@ -71574,6 +71518,42 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-06-30T15:00:10.000Z
           - item:
+            name: We.Trade Innovation DAC
+            homepage_url: https://we-trade.com/
+            logo: wetrade_innovation_dac.svg
+            twitter: https://twitter.com/we_dot_trade
+            crunchbase: https://www.crunchbase.com/organization/we-trade
+            crunchbase_data:
+              name: we.trade
+              description: 'Develops and licenses the first blockchain trade platform for commercial clients and their banks available in the market. '
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://we-trade.com/
+              city: Dublin
+              region: Dublin
+              country: Ireland
+              twitter: https://twitter.com/we_dot_trade
+              linkedin: https://www.linkedin.com/company/we-trade/
+              acquisitions: []
+              parents: []
+              funding: 6637342
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Blockchain
+                - FinTech
+                - Financial Services
+                - Information Technology
+              kind: funding
+            image_data:
+              fileName: we-trade-innovation-dac.svg
+              hash: txjtARmn5AZ5DrOYTpS90JM7cLddOFRK6QuwVn/8osc=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-07-22T12:51:19.000Z
+          - item:
             name: Wevr
             homepage_url: https://wevr.com/
             logo: wevr.svg
@@ -71750,6 +71730,37 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-11-09T10:26:34.000Z
           - item:
+            name: Windmill Engineering
+            homepage_url: https://tilt.dev/
+            logo: windmill_engineering.svg
+            twitter: https://twitter.com/tilt_dev
+            crunchbase: https://www.crunchbase.com/organization/windmill-engineering
+            crunchbase_data:
+              name: Windmill Engineering
+              description: Tilting at Cloud-Based Development
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://tilt.dev/
+              city: New York
+              region: New York
+              country: United States
+              twitter: https://twitter.com/windmill_eng
+              linkedin: https://www.linkedin.com/company/windmill-engineering/about/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Software
+            image_data:
+              fileName: windmill-engineering.svg
+              hash: QOEezA2/OYgnjjjuqBtSkjIB6d0W6uttA8g5wBqVBkY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-05-24T15:13:52.000Z
+          - item:
             name: Wind River Systems, Inc.
             homepage_url: https://windriver.com/
             logo: wind_river_systems_inc.svg
@@ -71801,37 +71812,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-07-06T22:06:23.000Z
-          - item:
-            name: Windmill Engineering
-            homepage_url: https://tilt.dev/
-            logo: windmill_engineering.svg
-            twitter: https://twitter.com/tilt_dev
-            crunchbase: https://www.crunchbase.com/organization/windmill-engineering
-            crunchbase_data:
-              name: Windmill Engineering
-              description: Tilting at Cloud-Based Development
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://tilt.dev/
-              city: New York
-              region: New York
-              country: United States
-              twitter: https://twitter.com/windmill_eng
-              linkedin: https://www.linkedin.com/company/windmill-engineering/about/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Software
-            image_data:
-              fileName: windmill-engineering.svg
-              hash: QOEezA2/OYgnjjjuqBtSkjIB6d0W6uttA8g5wBqVBkY=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-05-24T15:13:52.000Z
           - item:
             name: Wingtecher Technology Co., Ltd.
             homepage_url: https://shuimuyulin.com/
@@ -72201,51 +72181,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-07-06T11:51:16.000Z
           - item:
-            name: x-cellent technologies GmbH
-            homepage_url: https://x-cellent.com/
-            logo: x-cellent_technologies_gmbh.svg
-            organization:
-              name: x-cellent technologies GmbH
-            crunchbase_data:
-              name: x-cellent technologies GmbH
-              parents: []
-            image_data:
-              fileName: x-cellent-technologies-gmb-h.svg
-              hash: ikr7eskQhXV2DW6jXXBzOYctCph5q/qMlVQgHA7TP7A=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: x-ion GmbH
-            homepage_url: https://x-ion.de/
-            logo: x-ion_gmbh.svg
-            crunchbase: https://www.crunchbase.com/organization/x-ion
-            crunchbase_data:
-              name: x-ion
-              description: x-ion is a software company for a cloud solution.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.x-ion.de
-              city: Hamburg
-              region: Hamburg
-              country: Germany
-              twitter: null
-              linkedin: https://www.linkedin.com/company/x-ion-gmbh
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-                - Infrastructure
-                - Software
-            image_data:
-              fileName: x-ion-gmb-h.svg
-              hash: FALCcVcvbOYPmAXCrtkTFXoqRzjm1GhweCeoZSUh86E=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Xcalibyte
             homepage_url: https://xcalibyte.com/
             logo: xcalibyte.svg
@@ -72257,6 +72192,21 @@ landscape:
             image_data:
               fileName: xcalibyte.svg
               hash: 0DsKczuKFjVkZx9Bn+2SY1i6wjirMi1mhD9RjFTvAxg=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: x-cellent technologies GmbH
+            homepage_url: https://x-cellent.com/
+            logo: x-cellent_technologies_gmbh.svg
+            organization:
+              name: x-cellent technologies GmbH
+            crunchbase_data:
+              name: x-cellent technologies GmbH
+              parents: []
+            image_data:
+              fileName: x-cellent-technologies-gmb-h.svg
+              hash: ikr7eskQhXV2DW6jXXBzOYctCph5q/qMlVQgHA7TP7A=
             best_practice_data:
               badge: false
               percentage: null
@@ -72401,10 +72351,10 @@ landscape:
           - item:
             name: Xilinx Inc
             homepage_url: https://xilinx.com/
-            stock_ticker: null
             logo: xilinx_inc.svg
             twitter: https://twitter.com/XilinxInc
             crunchbase: https://www.crunchbase.com/organization/xilinx
+            stock_ticker: null
             crunchbase_data:
               name: Xilinx
               description: Xilinx is a technology company that develops flexible and adaptive processing platforms.
@@ -72469,6 +72419,36 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-07-07T00:08:57.000Z
+          - item:
+            name: x-ion GmbH
+            homepage_url: https://x-ion.de/
+            logo: x-ion_gmbh.svg
+            crunchbase: https://www.crunchbase.com/organization/x-ion
+            crunchbase_data:
+              name: x-ion
+              description: x-ion is a software company for a cloud solution.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.x-ion.de
+              city: Hamburg
+              region: Hamburg
+              country: Germany
+              twitter: null
+              linkedin: https://www.linkedin.com/company/x-ion-gmbh
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Infrastructure
+                - Software
+            image_data:
+              fileName: x-ion-gmb-h.svg
+              hash: FALCcVcvbOYPmAXCrtkTFXoqRzjm1GhweCeoZSUh86E=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Xopero Software
             homepage_url: https://xopero.com/
@@ -73253,56 +73233,6 @@ landscape:
         name: Associate
         items:
           - item:
-            name: (FASRC) FAS Research Computing - Harvard
-            homepage_url: https://rc.fas.harvard.edu/
-            logo: fasrc_fas_research_computing_-_harvard.svg
-            twitter: https://twitter.com/Harvard
-            crunchbase: https://www.crunchbase.com/organization/harvard-university
-            crunchbase_data:
-              name: Harvard University
-              description: Harvard University is devoted to excellence in teaching, learning, and research, and to developing leaders who make a difference globally.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://harvard.edu
-              city: Cambridge
-              region: Massachusetts
-              country: United States
-              twitter: http://twitter.com/Harvard
-              linkedin: https://www.linkedin.com/edu/harvard-university-18483
-              acquisitions: []
-              parents: []
-              funding: 125329910
-              stockExchange: null
-              company_type: ''
-              industries:
-                - Education
-                - Higher Education
-                - Universities
-              kind: funding
-            image_data:
-              fileName: fasrc-fas-research-computing-harvard.svg
-              hash: H6absCPa2Bg7bwYjruDNFJTTmTD3ZV9hYpVPTYF4iTI=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-07-07T00:22:00.000Z
-          - item:
-            name: A.P.S.P
-            homepage_url: https://apsp.com/
-            logo: apsp.svg
-            organization:
-              name: A.P.S.P
-            crunchbase_data:
-              name: A.P.S.P
-              parents: []
-            image_data:
-              fileName: a-p-s-p.svg
-              hash: 9JU3SB2NNJsiOntce3gnrIsIi1plwLZmpBMtQ275ym4=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: AAIS (American Association of Insurance Services)
             homepage_url: https://aaisonline.com/
             logo: aais_american_association_of_insurance_services.svg
@@ -73675,6 +73605,21 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-07-07T10:13:00.000Z
+          - item:
+            name: A.P.S.P
+            homepage_url: https://apsp.com/
+            logo: apsp.svg
+            organization:
+              name: A.P.S.P
+            crunchbase_data:
+              name: A.P.S.P
+              parents: []
+            image_data:
+              fileName: a-p-s-p.svg
+              hash: 9JU3SB2NNJsiOntce3gnrIsIi1plwLZmpBMtQ275ym4=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Arizona State University
             homepage_url: https://asu.edu/
@@ -75126,6 +75071,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-07-07T07:56:44.000Z
           - item:
+            name: EnergyAi
+            homepage_url: https://energyai.berlin/
+            logo: energyai.svg
+            organization:
+              name: EnergyAi
+            crunchbase_data:
+              name: EnergyAi
+              parents: []
+            image_data:
+              fileName: energy-ai.svg
+              hash: daNATQ8le2AMB7MdXAnUJobOEtwNCE05MM/jyr2/0kA=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Energy Foundation
             homepage_url: https://ef.org/
             logo: energy_foundation.svg
@@ -75159,21 +75119,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-07-06T21:53:01.000Z
-          - item:
-            name: EnergyAi
-            homepage_url: https://energyai.berlin/
-            logo: energyai.svg
-            organization:
-              name: EnergyAi
-            crunchbase_data:
-              name: EnergyAi
-              parents: []
-            image_data:
-              fileName: energy-ai.svg
-              hash: daNATQ8le2AMB7MdXAnUJobOEtwNCE05MM/jyr2/0kA=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: Enterprise Ethereum Alliance
             homepage_url: https://entethalliance.org/
@@ -75340,40 +75285,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-06-30T21:02:13.000Z
           - item:
-            name: ETH Zurich
-            homepage_url: https://ethz.ch/
-            logo: eth_zurich.svg
-            twitter: https://twitter.com/ETH
-            crunchbase: https://www.crunchbase.com/organization/eidgen-ssische-technische-hochschule-z-rich
-            crunchbase_data:
-              name: ETH Zurich
-              description: ETH Zurich is a Switzerland-based engineering, science, technology, mathematics, and management university.
-              num_employees_min: 5001
-              num_employees_max: 10000
-              homepage: https://www.ethz.ch
-              city: Zürich
-              region: Zurich
-              country: Switzerland
-              twitter: https://twitter.com/eth
-              linkedin: https://www.linkedin.com/school/4923
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: ''
-              industries:
-                - 3D Technology
-                - Education
-                - Higher Education
-                - Universities
-            image_data:
-              fileName: eth-zurich.svg
-              hash: 9WmIwgYUSywi7op/jiU8Tjdehp/4AmEntAhCfxHmlWQ=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-07-06T15:59:08.000Z
-          - item:
             name: Ethereum Foundation
             homepage_url: https://ethereum.org/
             logo: ethereum_foundation.svg
@@ -75416,14 +75327,48 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-07-06T21:01:08.000Z
           - item:
+            name: ETH Zurich
+            homepage_url: https://ethz.ch/
+            logo: eth_zurich.svg
+            twitter: https://twitter.com/ETH
+            crunchbase: https://www.crunchbase.com/organization/eidgen-ssische-technische-hochschule-z-rich
+            crunchbase_data:
+              name: ETH Zurich
+              description: ETH Zurich is a Switzerland-based engineering, science, technology, mathematics, and management university.
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: https://www.ethz.ch
+              city: Zürich
+              region: Zurich
+              country: Switzerland
+              twitter: https://twitter.com/eth
+              linkedin: https://www.linkedin.com/school/4923
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries:
+                - 3D Technology
+                - Education
+                - Higher Education
+                - Universities
+            image_data:
+              fileName: eth-zurich.svg
+              hash: 9WmIwgYUSywi7op/jiU8Tjdehp/4AmEntAhCfxHmlWQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-07-06T15:59:08.000Z
+          - item:
             name: Fachhochschule Kiel
-            description: >-
-              With more than 6,900 students, the Kiel University of Applied Sciences (Fachhochschule Kiel ["FH Kiel"]) is the largest University of Applied
-              Sciences in Schleswig-Holstein
             homepage_url: https://fh-kiel.de/
             logo: fachhochschule_kiel.svg
             twitter: https://twitter.com/fh_kiel
             crunchbase: https://www.crunchbase.com/organization/university-of-applied-sciences-kiel
+            description: >-
+              With more than 6,900 students, the Kiel University of Applied Sciences (Fachhochschule Kiel ["FH Kiel"]) is the largest University of Applied
+              Sciences in Schleswig-Holstein
             crunchbase_data:
               name: University of Applied Sciences Kiel
               description: Kiel is the university for applied science.
@@ -75467,6 +75412,41 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-07-06T18:37:05.000Z
+          - item:
+            name: (FASRC) FAS Research Computing - Harvard
+            homepage_url: https://rc.fas.harvard.edu/
+            logo: fasrc_fas_research_computing_-_harvard.svg
+            twitter: https://twitter.com/Harvard
+            crunchbase: https://www.crunchbase.com/organization/harvard-university
+            crunchbase_data:
+              name: Harvard University
+              description: Harvard University is devoted to excellence in teaching, learning, and research, and to developing leaders who make a difference globally.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://harvard.edu
+              city: Cambridge
+              region: Massachusetts
+              country: United States
+              twitter: http://twitter.com/Harvard
+              linkedin: https://www.linkedin.com/edu/harvard-university-18483
+              acquisitions: []
+              parents: []
+              funding: 125329910
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Education
+                - Higher Education
+                - Universities
+              kind: funding
+            image_data:
+              fileName: fasrc-fas-research-computing-harvard.svg
+              hash: H6absCPa2Bg7bwYjruDNFJTTmTD3ZV9hYpVPTYF4iTI=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-07-07T00:22:00.000Z
           - item:
             name: Federal University of Campina Grande
             homepage_url: https://embeddedlab.org/
@@ -76658,21 +76638,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-07-01T15:10:50.000Z
           - item:
-            name: IT Corner Poland
-            homepage_url: https://itcorner.org.pl/
-            logo: it_corner_poland.svg
-            organization:
-              name: IT Corner Poland
-            crunchbase_data:
-              name: IT Corner Poland
-              parents: []
-            image_data:
-              fileName: it-corner-poland.svg
-              hash: 3euXUnRzjkV8Uuk5HzUWivDxzFyLbWshkfwMW7CSkBo=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Italian Linux Society
             homepage_url: https://ils.org/
             logo: italian_linux_society.svg
@@ -76690,6 +76655,21 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-06-28T12:19:38.000Z
+          - item:
+            name: IT Corner Poland
+            homepage_url: https://itcorner.org.pl/
+            logo: it_corner_poland.svg
+            organization:
+              name: IT Corner Poland
+            crunchbase_data:
+              name: IT Corner Poland
+              parents: []
+            image_data:
+              fileName: it-corner-poland.svg
+              hash: 3euXUnRzjkV8Uuk5HzUWivDxzFyLbWshkfwMW7CSkBo=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Kansas State University
             homepage_url: https://k-state.edu/
@@ -77140,40 +77120,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-07-07T10:00:27.000Z
           - item:
-            name: M-RETS, Inc.
-            homepage_url: https://mrets.org/
-            logo: m-rets_inc.svg
-            twitter: https://twitter.com/TrackEnergy
-            crunchbase: https://www.crunchbase.com/organization/m-rets
-            crunchbase_data:
-              name: M-RETS
-              description: M-RETS validates the environmental attributes of energy to serve as a trusted centralized gateway to environmental markets.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://mrets.org
-              city: Minneapolis
-              region: Minnesota
-              country: United States
-              twitter: null
-              linkedin: https://www.linkedin.com/company/midwest-renewable-energy-tracking-system-m-rets-/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: Non Profit
-              industries:
-                - Email
-                - Energy
-                - Environmental Engineering
-                - Renewable Energy
-            image_data:
-              fileName: m-rets-inc.svg
-              hash: /caEeCX4XJ0I/+JCCyPcRZO/KJGPGchwuroAcpLJdVY=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-05-18T18:17:10.000Z
-          - item:
             name: Marist College
             homepage_url: https://marist.edu/
             logo: marist_college.svg
@@ -77556,6 +77502,40 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: M-RETS, Inc.
+            homepage_url: https://mrets.org/
+            logo: m-rets_inc.svg
+            twitter: https://twitter.com/TrackEnergy
+            crunchbase: https://www.crunchbase.com/organization/m-rets
+            crunchbase_data:
+              name: M-RETS
+              description: M-RETS validates the environmental attributes of energy to serve as a trusted centralized gateway to environmental markets.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://mrets.org
+              city: Minneapolis
+              region: Minnesota
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/midwest-renewable-energy-tracking-system-m-rets-/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Email
+                - Energy
+                - Environmental Engineering
+                - Renewable Energy
+            image_data:
+              fileName: m-rets-inc.svg
+              hash: /caEeCX4XJ0I/+JCCyPcRZO/KJGPGchwuroAcpLJdVY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-05-18T18:17:10.000Z
           - item:
             name: Munich University of Applied Sciences
             homepage_url: https://hm.edu/
@@ -78045,6 +78025,55 @@ landscape:
             twitter_data:
               latest_tweet_date: 2020-03-06T05:21:11.000Z
           - item:
+            name: OpenADR Alliance
+            homepage_url: https://openadr.org/
+            logo: openadr_alliance.svg
+            twitter: https://twitter.com/OpenADRAlliance
+            crunchbase: https://www.crunchbase.com/organization/openadr-alliance
+            crunchbase_data:
+              name: OpenADR Alliance
+              description: OpenADR Alliance is provider of OpenADR standard services through collaboration, education, training, testing, and certification.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: http://www.openadr.org
+              city: San Ramon
+              region: California
+              country: United States
+              twitter: https://www.twitter.com/openadralliance
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Education
+            image_data:
+              fileName: open-adr-alliance.svg
+              hash: HwzHlz/Q4E37MEPtsHxSlxQLrOv34fD6BNxS+zwpvLs=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-07-01T15:16:40.000Z
+          - item:
+            name: OpenAirInterface Software Alliance (OSA)
+            homepage_url: https://openairinterface.org/
+            logo: openairinterface_software_alliance_osa.svg
+            twitter: https://twitter.com/osalliance5g
+            organization:
+              name: OpenAirInterface Software Alliance (OSA)
+            crunchbase_data:
+              name: OpenAirInterface Software Alliance (OSA)
+              parents: []
+            image_data:
+              fileName: open-air-interface-software-alliance-osa.svg
+              hash: eXK6eOoQ+se6/7bIGu1GcPO8WEdl8qXMnpWq4Sd63Mo=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-07-01T14:25:57.000Z
+          - item:
             name: Open Compute Project
             homepage_url: https://opencompute.org/
             logo: open_compute_project.svg
@@ -78128,6 +78157,34 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-07-01T13:18:28.000Z
+          - item:
+            name: OpenI
+            homepage_url: https://pcl.ac.cn/
+            logo: openi.svg
+            crunchbase: https://www.crunchbase.com/organization/openi
+            crunchbase_data:
+              name: OpenI
+              description: Open Intelligence -
+              num_employees_min: null
+              num_employees_max: null
+              homepage: http://en.openi.org.cn/
+              city: Shenzhen
+              region: Guangdong
+              country: China
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Artificial Intelligence
+            image_data:
+              fileName: open-i.svg
+              hash: 5is2dfy2jSkXNHjcyzxke8QssMm8a1oShe3NZBbeqGU=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Open Infrastructure Foundation
             homepage_url: https://openinfra.dev/
@@ -78227,6 +78284,41 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-07-07T01:29:45.000Z
           - item:
+            name: OpenPOWER Foundation
+            homepage_url: https://openpowerfoundation.org/
+            logo: openpower_foundation.svg
+            twitter: https://twitter.com/OpenPOWERorg
+            crunchbase: https://www.crunchbase.com/organization/openpower-foundation
+            crunchbase_data:
+              name: OpenPOWER Foundation
+              description: OpenPOWER Foundation is an not-for-profit technical membership group.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://openpowerfoundation.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/openpowerorg
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Association
+                - Collaborative Consumption
+                - Communities
+                - Non Profit
+                - Service Industry
+            image_data:
+              fileName: open-power-foundation.svg
+              hash: UjjGwgOcTf0LVKkTe+WOkRamyldaYleSnMFD3CqCzA8=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-06-30T15:08:59.000Z
+          - item:
             name: Open Source Robotics Foundation, Inc.
             homepage_url: https://openrobotics.org/
             logo: open_source_robotics_foundation_inc.svg
@@ -78306,152 +78398,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: Open Web Application Security Project
-            homepage_url: https://owasp.org/
-            logo: open_web_application_security_project.svg
-            twitter: https://twitter.com/owasp
-            crunchbase: https://www.crunchbase.com/organization/open-web-application-security-project
-            crunchbase_data:
-              name: Open Web Application Security Project
-              description: The Open Web Application Security Project is a non-profit organization focused on improving the security of software.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.owasp.org
-              city: Bel Air
-              region: Maryland
-              country: United States
-              twitter: http://twitter.com/OWASP
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: Non Profit
-              industries:
-                - Non Profit
-                - Security
-                - Software
-                - Web Apps
-            image_data:
-              fileName: open-web-application-security-project.svg
-              hash: KKgFc1u5LBxVTeNCOzDyCWoCqzkN/nzEei+0sO8AdkI=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-07-06T22:00:45.000Z
-          - item:
-            name: OpenADR Alliance
-            homepage_url: https://openadr.org/
-            logo: openadr_alliance.svg
-            twitter: https://twitter.com/OpenADRAlliance
-            crunchbase: https://www.crunchbase.com/organization/openadr-alliance
-            crunchbase_data:
-              name: OpenADR Alliance
-              description: OpenADR Alliance is provider of OpenADR standard services through collaboration, education, training, testing, and certification.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: http://www.openadr.org
-              city: San Ramon
-              region: California
-              country: United States
-              twitter: https://www.twitter.com/openadralliance
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Education
-            image_data:
-              fileName: open-adr-alliance.svg
-              hash: HwzHlz/Q4E37MEPtsHxSlxQLrOv34fD6BNxS+zwpvLs=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-07-01T15:16:40.000Z
-          - item:
-            name: OpenAirInterface Software Alliance (OSA)
-            homepage_url: https://openairinterface.org/
-            logo: openairinterface_software_alliance_osa.svg
-            twitter: https://twitter.com/osalliance5g
-            organization:
-              name: OpenAirInterface Software Alliance (OSA)
-            crunchbase_data:
-              name: OpenAirInterface Software Alliance (OSA)
-              parents: []
-            image_data:
-              fileName: open-air-interface-software-alliance-osa.svg
-              hash: eXK6eOoQ+se6/7bIGu1GcPO8WEdl8qXMnpWq4Sd63Mo=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-07-01T14:25:57.000Z
-          - item:
-            name: OpenI
-            homepage_url: https://pcl.ac.cn/
-            logo: openi.svg
-            crunchbase: https://www.crunchbase.com/organization/openi
-            crunchbase_data:
-              name: OpenI
-              description: Open Intelligence -
-              num_employees_min: null
-              num_employees_max: null
-              homepage: http://en.openi.org.cn/
-              city: Shenzhen
-              region: Guangdong
-              country: China
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: Non Profit
-              industries:
-                - Artificial Intelligence
-            image_data:
-              fileName: open-i.svg
-              hash: 5is2dfy2jSkXNHjcyzxke8QssMm8a1oShe3NZBbeqGU=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: OpenPOWER Foundation
-            homepage_url: https://openpowerfoundation.org/
-            logo: openpower_foundation.svg
-            twitter: https://twitter.com/OpenPOWERorg
-            crunchbase: https://www.crunchbase.com/organization/openpower-foundation
-            crunchbase_data:
-              name: OpenPOWER Foundation
-              description: OpenPOWER Foundation is an not-for-profit technical membership group.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: http://openpowerfoundation.org
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: https://twitter.com/openpowerorg
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Association
-                - Collaborative Consumption
-                - Communities
-                - Non Profit
-                - Service Industry
-            image_data:
-              fileName: open-power-foundation.svg
-              hash: UjjGwgOcTf0LVKkTe+WOkRamyldaYleSnMFD3CqCzA8=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-06-30T15:08:59.000Z
           - item:
             name: OpenStack Foundation
             homepage_url: https://openstack.org/
@@ -78552,11 +78498,11 @@ landscape:
               percentage: null
           - item:
             name: OpenUK
-            description: Where the UK’s Open communities meet and collaborate
             homepage_url: https://openuk.uk/
             logo: openuk.svg
             twitter: https://twitter.com/openuk_uk
             crunchbase: https://www.crunchbase.com/organization/openuk
+            description: Where the UK’s Open communities meet and collaborate
             crunchbase_data:
               name: OpenUK
               description: We are the UK not for profit organisation committed to develop and sustain UK leadership in Open Technology
@@ -78581,6 +78527,40 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-07-07T10:18:56.000Z
+          - item:
+            name: Open Web Application Security Project
+            homepage_url: https://owasp.org/
+            logo: open_web_application_security_project.svg
+            twitter: https://twitter.com/owasp
+            crunchbase: https://www.crunchbase.com/organization/open-web-application-security-project
+            crunchbase_data:
+              name: Open Web Application Security Project
+              description: The Open Web Application Security Project is a non-profit organization focused on improving the security of software.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.owasp.org
+              city: Bel Air
+              region: Maryland
+              country: United States
+              twitter: http://twitter.com/OWASP
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Non Profit
+                - Security
+                - Software
+                - Web Apps
+            image_data:
+              fileName: open-web-application-security-project.svg
+              hash: KKgFc1u5LBxVTeNCOzDyCWoCqzkN/nzEei+0sO8AdkI=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-07-06T22:00:45.000Z
           - item:
             name: Pecan Street Inc.
             homepage_url: https://pecanstreet.org/
@@ -80334,6 +80314,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-07-07T07:52:41.000Z
           - item:
+            name: TODO Group
+            homepage_url: https://todogroup.org/
+            logo: todo_group.svg
+            organization:
+              name: TODO Group
+            crunchbase_data:
+              name: TODO Group
+              parents: []
+            image_data:
+              fileName: todo-group.svg
+              hash: AgEV5CBDHjyc1TTB82g8Hwk3V0UVC/Lnu+k5uQajRUs=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Trinity College Dublin
             homepage_url: https://tcd.ie/
             logo: trinity_college_dublin.svg
@@ -80406,42 +80401,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-07-07T01:16:15.000Z
-          - item:
-            name: U.S. Digital Response
-            description: >-
-              Support for Crisis Response. We put experienced, pro bono technologists to work with governments responding to the COVID-19 crisis, to help
-              deliver critical services to the people who need them. We’re non-partisan, fast and free. Tell us the challenges you’re facing. We’ll get back to
-              you within hours.
-            homepage_url: https://usdigitalresponse.org/
-            logo: us_digital_response.svg
-            twitter: https://twitter.com/USDResponse
-            crunchbase: https://www.crunchbase.com/organization/u-s-digital-response
-            crunchbase_data:
-              name: U.S. Digital Response
-              description: USDR helps governments respond as fast as possible to COVID-19.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: https://www.usdigitalresponse.org/
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: https://twitter.com/USDResponse
-              linkedin: https://www.linkedin.com/company/usdr/
-              acquisitions: []
-              parents: []
-              funding: 25000
-              stockExchange: null
-              company_type: For Profit
-              industries: []
-              kind: funding
-            image_data:
-              fileName: u-s-digital-response.svg
-              hash: HyMDWyK4n/yn0WWDFBPSGeXQksHNMl9EwCt2up2/Izw=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-07-06T20:06:00.000Z
           - item:
             name: UC San Diego
             homepage_url: https://ucsd.edu/
@@ -80586,6 +80545,36 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-04-26T01:38:51.000Z
+          - item:
+            name: Université Libre de Tunis
+            homepage_url: https://ult-tunisie.com/
+            logo: universite_libre_de_tunis.svg
+            twitter: https://twitter.com/ULT_Tunisie
+            crunchbase: https://www.crunchbase.com/organization/universit%C3%A9-libre-de-tunis
+            crunchbase_data:
+              name: Université Libre de Tunis
+              description: The Tunisia Private University (ULT) is a university in Tunis, Tunisia. It was founded in 1973 and is organized in six faculties.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: http://www.ult-tunisie.com/eng/index.php
+              city: Tunis
+              region: Tunis
+              country: Tunisia
+              twitter: null
+              linkedin: https://www.linkedin.com/school/universit%C3%A9libredetunis
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
+            image_data:
+              fileName: universit-libre-de-tunis.svg
+              hash: Cg+tDiTnm5XrB4//r9mbk/sMUR5MdVSseG24jWiG1Ro=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-07-29T07:35:35.000Z
           - item:
             name: University College London
             homepage_url: https://ucl.ac.uk/
@@ -81228,36 +81217,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-07-06T07:20:50.000Z
           - item:
-            name: Université Libre de Tunis
-            homepage_url: https://ult-tunisie.com/
-            logo: universite_libre_de_tunis.svg
-            twitter: https://twitter.com/ULT_Tunisie
-            crunchbase: https://www.crunchbase.com/organization/universit%C3%A9-libre-de-tunis
-            crunchbase_data:
-              name: Université Libre de Tunis
-              description: The Tunisia Private University (ULT) is a university in Tunis, Tunisia. It was founded in 1973 and is organized in six faculties.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: http://www.ult-tunisie.com/eng/index.php
-              city: Tunis
-              region: Tunis
-              country: Tunisia
-              twitter: null
-              linkedin: https://www.linkedin.com/school/universit%C3%A9libredetunis
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: ''
-              industries: []
-            image_data:
-              fileName: universit-libre-de-tunis.svg
-              hash: Cg+tDiTnm5XrB4//r9mbk/sMUR5MdVSseG24jWiG1Ro=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-29T07:35:35.000Z
-          - item:
             name: UPchieve
             homepage_url: https://upchieve.org/
             logo: upchieve.svg
@@ -81406,6 +81365,42 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-06-25T00:00:24.000Z
+          - item:
+            name: U.S. Digital Response
+            homepage_url: https://usdigitalresponse.org/
+            logo: us_digital_response.svg
+            twitter: https://twitter.com/USDResponse
+            crunchbase: https://www.crunchbase.com/organization/u-s-digital-response
+            description: >-
+              Support for Crisis Response. We put experienced, pro bono technologists to work with governments responding to the COVID-19 crisis, to help
+              deliver critical services to the people who need them. We’re non-partisan, fast and free. Tell us the challenges you’re facing. We’ll get back to
+              you within hours.
+            crunchbase_data:
+              name: U.S. Digital Response
+              description: USDR helps governments respond as fast as possible to COVID-19.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://www.usdigitalresponse.org/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/USDResponse
+              linkedin: https://www.linkedin.com/company/usdr/
+              acquisitions: []
+              parents: []
+              funding: 25000
+              stockExchange: null
+              company_type: For Profit
+              industries: []
+              kind: funding
+            image_data:
+              fileName: u-s-digital-response.svg
+              hash: HyMDWyK4n/yn0WWDFBPSGeXQksHNMl9EwCt2up2/Izw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-07-06T20:06:00.000Z
           - item:
             name: Vanderbilt University
             homepage_url: https://vanderbilt.edu/
