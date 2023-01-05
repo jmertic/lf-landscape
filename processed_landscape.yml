@@ -26682,7 +26682,42 @@ landscape:
             homepage_url: https://apptio.com/
             logo: apptio.svg
             twitter: https://twitter.com/Apptio
+            stock_ticker: null
             crunchbase: https://www.crunchbase.com/organization/apptio
+            crunchbase_data:
+              name: Apptio
+              description: Apptio is a provider of SaaS-based Technology Business Management (TBM) solutions for managing businesses in the IT field.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: http://www.apptio.com
+              city: Bellevue
+              region: Washington
+              country: United States
+              twitter: http://twitter.com/apptio
+              linkedin: https://www.linkedin.com/company/apptio
+              acquisitions:
+                - date: '2012-12-12'
+                  acquiree: Raveld
+                - date: '2018-02-02'
+                  acquiree: Digital Fuel
+                - date: '2018-10-03'
+                  acquiree: FittedCloud
+                - date: '2019-05-16'
+                  acquiree: Cloudability
+                - date: '2021-02-11'
+                  acquiree: Targetprocess
+              parents: []
+              ticker: APTI
+              funding: 261000000
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Analytics
+                - Enterprise Software
+                - Information Technology
+                - SaaS
+                - Software
+              kind: funding
             best_practice_data:
               badge: false
               percentage: null
@@ -43910,7 +43945,34 @@ landscape:
             homepage_url: https://honda.com/
             logo: honda_motor_co_ltd.svg
             twitter: https://twitter.com/Honda
+            stock_ticker: HMC
             crunchbase: https://www.crunchbase.com/organization/honda-automobiles
+            crunchbase_data:
+              name: Honda Motor
+              description: Honda Motor is a Japanese public multinational corporation primarily known as a manufacturer of automobiles and motorcycles.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.honda.co.jp
+              city: Tokyo
+              region: Tokyo
+              country: Japan
+              twitter: https://twitter.com/hondajp
+              linkedin: https://www.linkedin.com/company/honda
+              acquisitions:
+                - date: '2019-02-27'
+                  acquiree: ubitricity
+              parents: []
+              ticker: HMCN
+              stockExchange: bmv
+              company_type: For Profit
+              industries:
+                - Automotive
+                - Machinery Manufacturing
+                - Manufacturing
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 39740616704
+              effective_ticker: HMC
             best_practice_data:
               badge: false
               percentage: null
@@ -69087,9 +69149,32 @@ landscape:
             homepage_url: https://veriken.com/
             logo: veriken_inc.svg
             crunchbase: https://www.crunchbase.com/organization/veriken
+            crunchbase_data:
+              name: Veriken
+              description: Worlds First Web3 Native Decentralized Commerce Platform
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://veriken.com
+              city: Austin
+              region: Texas
+              country: United States
+              twitter: https://twitter.com/VerikenApp
+              linkedin: https://www.linkedin.com/company/veriken
+              acquisitions: []
+              parents: []
+              funding: 75000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Blockchain
+                - E-Commerce Platforms
+                - Software
+              kind: funding
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2023-01-03T18:59:33.000Z
           - item:
             name: VeriSilicon, Inc.
             homepage_url: https://verisilicon.com/
