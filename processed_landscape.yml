@@ -10304,24 +10304,103 @@ landscape:
                 - Artificial Intelligence
                 - Machine Learning
                 - Software
+            github_data:
+              languages:
+                - name: Java
+                  value: 75535131
+                  color: '#b07219'
+                - name: JavaScript
+                  value: 1417637
+                  color: '#f1e05a'
+                - name: Jupyter Notebook
+                  value: 411332
+                  color: '#DA5B0B'
+                - name: Groovy
+                  value: 114468
+                  color: '#e69f56'
+                - name: TypeScript
+                  value: 106980
+                  color: '#2b7489'
+                - name: SCSS
+                  value: 61946
+                - name: Go
+                  value: 43008
+                  color: '#00ADD8'
+                - name: Shell
+                  value: 31856
+                  color: '#89e051'
+                - name: HTML
+                  value: 31449
+                  color: '#e34c26'
+                - name: Dockerfile
+                  value: 15210
+                  color: '#384d54'
+                - name: Makefile
+                  value: 13303
+                  color: '#427819'
+                - name: Clojure
+                  value: 8562
+                  color: '#db5855'
+                - name: PLpgSQL
+                  value: 5991
+                - name: Mustache
+                  value: 5417
+                - name: Jinja
+                  value: 1302
+                - name: CSS
+                  value: 1023
+                  color: '#563d7c'
+                - name: Ruby
+                  value: 49
+                  color: '#701516'
+              contributions: >-
+                67;74;72;115;76;40;60;109;72;68;46;91;116;93;88;62;144;69;49;13;87;45;60;40;28;96;37;29;66;107;38;28;39;109;44;26;34;55;134;61;57;122;252;126;73;48;27;145;55;39;0;70
+              firstWeek: 2022-01-09Z
+              stars: 922
+              license: Apache License 2.0
+              description: Egeria core
+              latest_commit_date: '2023-01-04T15:33:47Z'
+              latest_commit_link: /odpi/egeria/commit/b81916127d9874d8cd09620a8c8c1d12434de537
+              release_date: '2022-12-22T08:56:16Z'
+              release_link: https://github.com/odpi/egeria/releases
+              contributors_count: 72
+              contributors_link: https://github.com/odpi/egeria/graphs/contributors
             repos:
               - url: https://github.com/odpi/egeria
+                stars: 625
               - url: https://github.com/odpi/data-governance
-              - url: https://github.com/odpi/egeria
-              - url: https://github.com/odpi/egeria-api-mocks
-              - url: https://github.com/odpi/egeria-connector-crux
-              - url: https://github.com/odpi/egeria-connector-hadoop-ecosystem
-              - url: https://github.com/odpi/egeria-connector-ibm-information-server
-              - url: https://github.com/odpi/egeria-connector-sas-viya
-              - url: https://github.com/odpi/egeria-database-connectors
-              - url: https://github.com/odpi/egeria-dev-projects
-              - url: https://github.com/odpi/egeria-js-commons
-              - url: https://github.com/odpi/egeria-k8s-operator
-              - url: https://github.com/odpi/egeria-palisade
-              - url: https://github.com/odpi/egeria-react-ui
-              - url: https://github.com/odpi/egeria-samples
+                stars: 92
               - url: https://github.com/odpi/egeria-ui
+                stars: 29
+              - url: https://github.com/odpi/egeria-connector-ibm-information-server
+                stars: 24
+              - url: https://github.com/odpi/egeria-connector-hadoop-ecosystem
+                stars: 20
+              - url: https://github.com/odpi/egeria-connector-sas-viya
+                stars: 16
+              - url: https://github.com/odpi/egeria-database-connectors
+                stars: 15
+              - url: https://github.com/odpi/egeria-connector-crux
+                stars: 14
+              - url: https://github.com/odpi/egeria-js-commons
+                stars: 14
+              - url: https://github.com/odpi/egeria-react-ui
+                stars: 14
+              - url: https://github.com/odpi/egeria-api-mocks
+                stars: 11
+              - url: https://github.com/odpi/egeria-samples
+                stars: 11
+              - url: https://github.com/odpi/egeria-k8s-operator
+                stars: 10
               - url: https://github.com/odpi/happi-graph
+                stars: 10
+              - url: https://github.com/odpi/egeria-dev-projects
+                stars: 9
+              - url: https://github.com/odpi/egeria-palisade
+                stars: 8
+            github_start_commit_data:
+              start_commit_link: /odpi/data-governance/commit/a1c04d1b8773f0e3db3b758267e3a56914852e1d
+              start_date: '2017-10-09T20:05:28Z'
             image_data:
               fileName: egeria.svg
               hash: n9BTJw+c3bk1ftXakVrdrd2NOxvIaflGaOezGyBxy9g=
@@ -23314,6 +23393,9 @@ landscape:
                 - Telecommunications
                 - Wireless
               kind: funding
+            image_data:
+              fileName: 1-nce-gmb-h.svg
+              hash: lOq5//U7T6wA/7zIOWoJQ3Da23unkOlLWtleSNYnHDk=
             best_practice_data:
               badge: false
               percentage: null
@@ -23573,6 +23655,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 1230985088
               effective_ticker: ATEN
+            image_data:
+              fileName: a10-networks.svg
+              hash: yNoK7a9hxQp/DGMN0Kki0U57Tr6wm5s10nI9BOKhXjw=
             best_practice_data:
               badge: false
               percentage: null
@@ -23607,6 +23692,9 @@ landscape:
                 - Software
                 - Telecommunications
               kind: funding
+            image_data:
+              fileName: aarna-networks.svg
+              hash: amSUOkdqjOia7Z5z5N+mILzvra2V8LSRpxaB3va+1xs=
             best_practice_data:
               badge: false
               percentage: null
@@ -23704,6 +23792,9 @@ landscape:
                 - Information Technology
                 - Security
               kind: funding
+            image_data:
+              fileName: accuknox.svg
+              hash: C3vN9CKF81ndarT27sZzZtgrdenTECKaLrXNrUCCu8Y=
             best_practice_data:
               badge: false
               percentage: null
@@ -23731,6 +23822,9 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries: []
+            image_data:
+              fileName: acend-gmb-h.svg
+              hash: eC/4bUKtDc5KcMtt0/ISZLEynys7YI8IpgJdnYJzL2k=
             best_practice_data:
               badge: false
               percentage: null
@@ -23788,6 +23882,9 @@ landscape:
               company_type: ''
               industries:
                 - Software
+            image_data:
+              fileName: acnodal-inc.svg
+              hash: CRxG0oO7wzoqlZxTnwXKAUuOrhQ65nh6QhuRQR6oB3Q=
             best_practice_data:
               badge: false
               percentage: null
@@ -24330,6 +24427,9 @@ landscape:
               company_type: For Profit
               industries:
                 - Biotechnology
+            image_data:
+              fileName: adventium-labs.svg
+              hash: RS/jYN2k4R7LeDICBuseJbA3SBHhe/NstGfT8QFN8KQ=
             best_practice_data:
               badge: false
               percentage: null
@@ -24354,6 +24454,9 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries: []
+            image_data:
+              fileName: aeolabs.svg
+              hash: zNr1crVt0tHjV5IKJnMxYvVYcYxXarAft2Q7NqQp8bg=
             best_practice_data:
               badge: false
               percentage: null
@@ -24390,6 +24493,9 @@ landscape:
                 - Software
                 - Transaction Processing
               kind: funding
+            image_data:
+              fileName: aerospike.svg
+              hash: qJVS/3MI0lkduzokRgjUf1+EVtL6+epedpwhuMJCO/Q=
             best_practice_data:
               badge: false
               percentage: null
@@ -24420,6 +24526,9 @@ landscape:
                 - Identity Management
                 - Information Technology
                 - Software
+            image_data:
+              fileName: affinidi-pte-ltd.svg
+              hash: 44yq5or9cDITyqWzquwkoTOvqFPXiwIlZN3D4M5KnCQ=
             best_practice_data:
               badge: false
               percentage: null
@@ -24452,6 +24561,9 @@ landscape:
                 - Cloud Storage
                 - Enterprise Software
               kind: funding
+            image_data:
+              fileName: afi-technologies.svg
+              hash: gvezszRaER/DrNUXuxQwTA1y7fz6UK9UGM62HQ1qEOc=
             best_practice_data:
               badge: false
               percentage: null
@@ -24467,6 +24579,9 @@ landscape:
             crunchbase_data:
               name: Agenda d.o.o.
               parents: []
+            image_data:
+              fileName: agenda-d-o-o.svg
+              hash: gGQ8t034rGvutOTVNz64Hlh4SnyokTOmED6ON116yKE=
             best_practice_data:
               badge: false
               percentage: null
@@ -24616,6 +24731,9 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries: []
+            image_data:
+              fileName: aifrica.svg
+              hash: RK85s4YXme95sP35cxsL5sBVdwUUmvpHty8hDOh+KTg=
             best_practice_data:
               badge: false
               percentage: null
@@ -24731,6 +24849,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 56175464448
               effective_ticker: ABNB
+            image_data:
+              fileName: airbnb.svg
+              hash: 4F20c1Q9BUtSvVwgWbsEFrWSxXHpGqckq0ZlnqrzU9w=
             best_practice_data:
               badge: false
               percentage: null
@@ -24779,6 +24900,9 @@ landscape:
                 - Mobile
                 - Software
                 - Telecommunications
+            image_data:
+              fileName: airlock-by-ergon-informatik-ag.svg
+              hash: mcrfns7iLY2w00dfRYTVD6HhmUS9uNpFwLXXcrUjZvo=
             best_practice_data:
               badge: false
               percentage: null
@@ -24846,6 +24970,9 @@ landscape:
                 - Database
                 - Open Source
               kind: funding
+            image_data:
+              fileName: aiven-inc.svg
+              hash: yEgRJY/MyplSkIJs4tCuUs1WLRDI8dI9JGsin5Y7jYs=
             best_practice_data:
               badge: false
               percentage: null
@@ -25006,6 +25133,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 225821949
               effective_ticker: 3932.T
+            image_data:
+              fileName: akatsuki-inc.svg
+              hash: U3UAnwjLa4wWz4eH/XvwXWOXVqrx5YlX6M4zOG7IMV8=
             best_practice_data:
               badge: false
               percentage: null
@@ -25039,6 +25169,9 @@ landscape:
                 - Information Technology
                 - Internet
                 - SaaS
+            image_data:
+              fileName: akenes-sa-exoscale.svg
+              hash: PdsB56kclA7h0JrExCsm4itDvP6NXrgxMnM//Yl5cCk=
             best_practice_data:
               badge: false
               percentage: null
@@ -25073,6 +25206,9 @@ landscape:
                 - SaaS
                 - Software
               kind: funding
+            image_data:
+              fileName: akuity-inc.svg
+              hash: bORzVg/+WZmEuronRynFx1T0tGHyx4VqUvVT7bqqlWI=
             best_practice_data:
               badge: false
               percentage: null
@@ -25169,6 +25305,9 @@ landscape:
                 - Cryptocurrency
                 - FinTech
               kind: funding
+            image_data:
+              fileName: algorand.svg
+              hash: 8gWbnTmLuk5plUsRmz8UFSkrETT+7q1obeftpt8mUyU=
             best_practice_data:
               badge: false
               percentage: null
@@ -25258,6 +25397,9 @@ landscape:
                 - Open Source
                 - Software
               kind: funding
+            image_data:
+              fileName: alluxio-inc.svg
+              hash: DqshbHitn7Y+vxhLxp/g2rZ2dbQR0RQt3K55VmkgNGY=
             best_practice_data:
               badge: false
               percentage: null
@@ -25398,6 +25540,9 @@ landscape:
                 - Open Source
                 - Software
               kind: funding
+            image_data:
+              fileName: altinity.svg
+              hash: V2tSL1YeGecrOpz/hR6BLincISZ6pbFHqcmhnVyg4eM=
             best_practice_data:
               badge: false
               percentage: null
@@ -25430,6 +25575,9 @@ landscape:
                 - Cloud Security
                 - Information Technology
                 - Software
+            image_data:
+              fileName: altoros.svg
+              hash: JO3yu7TxnpWD9sN/duw2qpO5jzUBL8esQWXwJSGlD7E=
             best_practice_data:
               badge: false
               percentage: null
@@ -25540,6 +25688,9 @@ landscape:
                 - Artificial Intelligence
                 - Information Technology
                 - Telecommunications
+            image_data:
+              fileName: amantya-technologies-inc.svg
+              hash: 9PWTSHTtJXHv6DsFUWEGCLQMr3C2UyWDnyZBedMpkXI=
             best_practice_data:
               badge: false
               percentage: null
@@ -25974,6 +26125,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 101967716352
               effective_ticker: AMT
+            image_data:
+              fileName: american-tower-corporation.svg
+              hash: V5+ErkCKcYaLsy4loc1tlj9y+E6rNjsJlMlR44MCxwM=
             best_practice_data:
               badge: false
               percentage: null
@@ -26001,6 +26155,9 @@ landscape:
               industries:
                 - Consulting
                 - Information Technology
+            image_data:
+              fileName: amido.svg
+              hash: 2YVPAdmQLbq8n33ySZq5OOA6sG8IPsLxW9S/H4ORBus=
             best_practice_data:
               badge: false
               percentage: null
@@ -26490,6 +26647,9 @@ landscape:
             crunchbase_data:
               name: APE FACTORY
               parents: []
+            image_data:
+              fileName: ape-factory.svg
+              hash: Pb0Ofomz7vGdXjJGNvVFQCwvz0GmP/42rvZbqQjY/84=
             best_practice_data:
               badge: false
               percentage: null
@@ -26503,6 +26663,9 @@ landscape:
             crunchbase_data:
               name: APIIDA AG
               parents: []
+            image_data:
+              fileName: apiida-ag.svg
+              hash: unsOyV+gLzS+cSK5cAN3C3fErYPrhPCFE/DWC2D5FXQ=
             best_practice_data:
               badge: false
               percentage: null
@@ -26636,6 +26799,9 @@ landscape:
               company_type: For Profit
               industries:
                 - Health Care
+            image_data:
+              fileName: appddiction-studio.svg
+              hash: yXiJikxByk+859LMC7WTcYl4LLodf5uxCyxx72DeD/Q=
             best_practice_data:
               badge: false
               percentage: null
@@ -26718,6 +26884,9 @@ landscape:
                 - SaaS
                 - Software
               kind: funding
+            image_data:
+              fileName: apptio.svg
+              hash: VDA5s2baaWvpN8xfMPYIQcz68kgbTpfvd7w1sU1+IdA=
             best_practice_data:
               badge: false
               percentage: null
@@ -27453,6 +27622,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 1607184294
               effective_ticker: 1675.HK
+            image_data:
+              fileName: asia-info-technologies-china-co-ltd.svg
+              hash: oCWiaPfbhr7SXp651LsR8U7vtvbk2a1KS7d0RBnRItg=
             best_practice_data:
               badge: false
               percentage: null
@@ -27576,6 +27748,9 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries: []
+            image_data:
+              fileName: asus-cloud-corporation.svg
+              hash: BaEuE9+uEhF0VyI29P6Y5JM5nTakNICZNvxl1R+Y6ZA=
             best_practice_data:
               badge: false
               percentage: null
@@ -27601,6 +27776,9 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries: []
+            image_data:
+              fileName: atb-ventures.svg
+              hash: QHvlrNorIpjaLP/pFyNbRtGqxDiyXyQeFwNQDIoahYM=
             best_practice_data:
               badge: false
               percentage: null
@@ -28125,6 +28303,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 136410775552
               effective_ticker: T
+            image_data:
+              fileName: at-t-services-inc.svg
+              hash: mlZTLXohA+O9VdTGAhRx/8bAXbuM4GvBQwQ8GJJmdVs=
             best_practice_data:
               badge: false
               percentage: null
@@ -28160,6 +28341,9 @@ landscape:
                 - Video Games
                 - Virtual Reality
               kind: funding
+            image_data:
+              fileName: audiokinetic-inc.svg
+              hash: Xy2sFsFnW5Qj3Oi465Ui01CNkht/4QqMVgsENm/9Pf4=
             best_practice_data:
               badge: false
               percentage: null
@@ -28449,6 +28633,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 40555569152
               effective_ticker: ADSK
+            image_data:
+              fileName: autodesk.svg
+              hash: DrtNFZpi5C6B1ZNtyzFGsaRhedBs9AqCEL2TFxxl15s=
             best_practice_data:
               badge: false
               percentage: null
@@ -28554,6 +28741,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 99552632832
               effective_ticker: ADP
+            image_data:
+              fileName: automatic-data-processing-inc-adp.svg
+              hash: 0062eHxbLXp6qDN8j3Bn+nTHc0mLcN08tcuuqBwyGPE=
             best_practice_data:
               badge: false
               percentage: null
@@ -28585,6 +28775,9 @@ landscape:
                 - Developer Tools
                 - Information Technology
                 - Software
+            image_data:
+              fileName: automat-it.svg
+              hash: c6UlRHBBNO8lbLcMdYtAXRdFPYY34zST7fYHn+LlM4M=
             best_practice_data:
               badge: false
               percentage: null
@@ -28728,6 +28921,9 @@ landscape:
                 - Cloud Management
                 - Information Technology
               kind: funding
+            image_data:
+              fileName: avesha.svg
+              hash: OcVhR95lAZWchYZ2zzVunCekw3vGR0y8GLzdQ4Ecbyg=
             best_practice_data:
               badge: false
               percentage: null
@@ -28861,6 +29057,9 @@ landscape:
                 - Automotive
                 - Manufacturing
                 - Simulation
+            image_data:
+              fileName: avl-software-and-functions-gmb-h.svg
+              hash: uoiOq4xjKF9laB6Wd8ZcaiznHo92vIkfkgCyHO76jGo=
             best_practice_data:
               badge: false
               percentage: null
@@ -28993,6 +29192,9 @@ landscape:
               stockExchange: null
               company_type: ''
               industries: []
+            image_data:
+              fileName: axiata-digital-labs.svg
+              hash: 0bKdg1AizCg5QB1G1gSU/lSuvOrKK8/vJGFBRDoeZ+o=
             best_practice_data:
               badge: false
               percentage: null
@@ -29172,6 +29374,9 @@ landscape:
                 - PaaS
                 - Software
               kind: funding
+            image_data:
+              fileName: balena-inc.svg
+              hash: p7zoU8uw5RMQt1uunwQeQZ3qen+Iuo1T1XWDPAV5C0s=
             best_practice_data:
               badge: false
               percentage: null
@@ -29209,6 +29414,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 7862917120
               effective_ticker: CIB
+            image_data:
+              fileName: bancolombia.svg
+              hash: dB4JX9JXF698iLA6KmV8y1zASwJkofVxS+0NAZxKvO4=
             best_practice_data:
               badge: false
               percentage: null
@@ -29407,6 +29615,9 @@ landscape:
             crunchbase_data:
               name: BasicAI
               parents: []
+            image_data:
+              fileName: basic-ai.svg
+              hash: BFe9008bQmOmVioEd7GXCScQtrkmGSNJAwH67MMZDsY=
             best_practice_data:
               badge: false
               percentage: null
@@ -29470,6 +29681,9 @@ landscape:
                 - Industrial Automation
                 - Information Technology
                 - Manufacturing
+            image_data:
+              fileName: baumer-management-services-ag.svg
+              hash: bc1q6dLnlE4gugh9lzBLoCeCipKcesa4W23wr53QcQ0=
             best_practice_data:
               badge: false
               percentage: null
@@ -29850,6 +30064,9 @@ landscape:
             crunchbase_data:
               name: Beijing VNET Broad Band Data Center Co., Ltd.
               parents: []
+            image_data:
+              fileName: beijing-vnet-broad-band-data-center-co-ltd.svg
+              hash: BZNmJglEk+hCgkAQCfjmzTsPiipqsZ6lLPgoS8/Cv8s=
             best_practice_data:
               badge: false
               percentage: null
@@ -29937,6 +30154,9 @@ landscape:
               company_type: For Profit
               industries:
                 - Software
+            image_data:
+              fileName: be-open-it.svg
+              hash: 3zoIod1c5sOdqICly4JU324B+/GUuNKs3KIhCqUOHtA=
             best_practice_data:
               badge: false
               percentage: null
@@ -30120,6 +30340,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 108426493952
               effective_ticker: BLK
+            image_data:
+              fileName: black-rock-inc.svg
+              hash: C9vq66NBjCFT3ovdobxecn5k+eHz8J5VfFnY6b6tkWQ=
             best_practice_data:
               badge: false
               percentage: null
@@ -30349,6 +30572,9 @@ landscape:
                 - Cloud Computing
                 - Cyber Security
               kind: funding
+            image_data:
+              fileName: blue-sentry.svg
+              hash: whuVn9HW/2wmaOzS/MsodzzjdsN4tB4midtHgDmvL7E=
             best_practice_data:
               badge: false
               percentage: null
@@ -30549,6 +30775,9 @@ landscape:
                 - Manufacturing
                 - Product Design
                 - Sales
+            image_data:
+              fileName: bmw.svg
+              hash: f6rjB3bkBaKOmk/0eh1ttmrrJekOj6i3DybDSt4NLPs=
             best_practice_data:
               badge: false
               percentage: null
@@ -30579,6 +30808,9 @@ landscape:
                 - Information Technology
                 - Professional Services
                 - Software
+            image_data:
+              fileName: b-nova-schweiz-gmb-h.svg
+              hash: zx6YppwdM4oTF6SWTo0rkFK6FeotUHp9ux2e/5Fdi7o=
             best_practice_data:
               badge: false
               percentage: null
@@ -30715,6 +30947,9 @@ landscape:
                 - Blockchain
                 - Government
                 - Software
+            image_data:
+              fileName: bo-nb-loc-inc.svg
+              hash: Fqx3OI3o0eLXxB1lu3S9usalFVtZ1QKvYqi0QvKpIGE=
             best_practice_data:
               badge: false
               percentage: null
@@ -30862,6 +31097,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 13735636992
               effective_ticker: BAH
+            image_data:
+              fileName: booz-allen-hamilton-inc.svg
+              hash: kqk2KjydnFRb/Oc4SaszdFzFtzQzIXjJfnsMGQCQL6Q=
             best_practice_data:
               badge: false
               percentage: null
@@ -31005,6 +31243,9 @@ landscape:
               industries:
                 - Information Technology
                 - Software
+            image_data:
+              fileName: box-boat-technologies.svg
+              hash: aPmwII1UTsUUzGACz1LwDAmgiO6d8LxGNd+7JI3CJUc=
             best_practice_data:
               badge: false
               percentage: null
@@ -31213,6 +31454,9 @@ landscape:
               industries:
                 - Information Technology
                 - Software
+            image_data:
+              fileName: brobridge.svg
+              hash: PqRTaIKZwige5wgTqNhkEfGEx4+jB/gbDo5TFjiK54g=
             best_practice_data:
               badge: false
               percentage: null
@@ -31273,6 +31517,9 @@ landscape:
                 - SaaS
                 - Software
               kind: funding
+            image_data:
+              fileName: bunnyshell.svg
+              hash: B2CpSbz6CrOOmtYwPiG41NNsSy9m5lnbBICqwwSyLAU=
             best_practice_data:
               badge: false
               percentage: null
@@ -31306,6 +31553,9 @@ landscape:
                 - Open Source
                 - Software
               kind: funding
+            image_data:
+              fileName: buoyant-inc.svg
+              hash: xHqjchxuJ23UyTOAFIoIyHRpMx34p6iW+HXHNUtI5sE=
             best_practice_data:
               badge: false
               percentage: null
@@ -31458,6 +31708,9 @@ landscape:
               company_type: Non Profit
               industries:
                 - Web Hosting
+            image_data:
+              fileName: cable-television-laboratories-inc.svg
+              hash: xayJPuLPH3Gbr8EH+L85PriWP1Asf0jx69Mb85/CCXE=
             best_practice_data:
               badge: false
               percentage: null
@@ -31505,6 +31758,9 @@ landscape:
               company_type: For Profit
               industries: []
               kind: funding
+            image_data:
+              fileName: calyptia.svg
+              hash: VxYBgnitX21d8mmhAK37ifameUm65ftRNCu3bdSr2sg=
             best_practice_data:
               badge: false
               percentage: null
@@ -31552,6 +31808,9 @@ landscape:
             crunchbase_data:
               name: CanaryBit
               parents: []
+            image_data:
+              fileName: canary-bit.svg
+              hash: zrtQ5A1qHOKaC1wTG1/dE+jJtfzQoA1RFatpJjeMEnQ=
             best_practice_data:
               badge: false
               percentage: null
@@ -31700,6 +31959,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 36566765568
               effective_ticker: COF
+            image_data:
+              fileName: capital-one-services-llc.svg
+              hash: FqnJmTTKY7u5uHHvMRxqbc1T7cWAa+gh1m27qxgYbTU=
             best_practice_data:
               badge: false
               percentage: null
@@ -31913,6 +32175,9 @@ landscape:
                 - Cloud Infrastructure
                 - IaaS
               kind: funding
+            image_data:
+              fileName: caylent-inc.svg
+              hash: 9CHxvTyeCRIUZHokS4w+jzmJ7Ts04pQWC7zlxojnDGQ=
             best_practice_data:
               badge: false
               percentage: null
@@ -31928,6 +32193,9 @@ landscape:
             crunchbase_data:
               name: CelerData
               parents: []
+            image_data:
+              fileName: celer-data.svg
+              hash: L4Tc100io4KNL2ykkhz7FCKdKeIfwml6I/68mfefPSE=
             best_practice_data:
               badge: false
               percentage: null
@@ -31961,6 +32229,9 @@ landscape:
                 - SaaS
                 - Security
                 - Software
+            image_data:
+              fileName: centilytics.svg
+              hash: xomrr1GrBXZ2CVGSH4vVRUm4TO6uIV04BuorXdMtVGM=
             best_practice_data:
               badge: false
               percentage: null
@@ -32066,6 +32337,9 @@ landscape:
                 - Manufacturing
                 - Supply Chain Management
                 - Transportation
+            image_data:
+              fileName: chainyard.svg
+              hash: RtoasV9URhQTuPkomGd6hTfpjgLWx+O2757OCK7YXi8=
             best_practice_data:
               badge: false
               percentage: null
@@ -32288,6 +32562,9 @@ landscape:
               company_type: For Profit
               industries:
                 - Information Technology
+            image_data:
+              fileName: china-asean-information-harbor-co-ltd.svg
+              hash: PBwXhikVVsu5ZYJCg9UJ7HNAyuTyAT3pgzSXJC0a19g=
             best_practice_data:
               badge: false
               percentage: null
@@ -32532,6 +32809,9 @@ landscape:
                 - SaaS
                 - Software
               kind: funding
+            image_data:
+              fileName: chronosphere-inc.svg
+              hash: 40eZtQgv/1dR+4cywvdMUK1gM4LkBBK2HnU7AkntT2U=
             best_practice_data:
               badge: false
               percentage: null
@@ -32793,6 +33073,9 @@ landscape:
                 - GreenTech
                 - Supply Chain Management
               kind: funding
+            image_data:
+              fileName: circulor-ltd.svg
+              hash: DQfdDMlzfeHoTRYVgasWW8Hvgh0m3X/kbYbhNHX18eU=
             best_practice_data:
               badge: false
               percentage: null
@@ -32890,6 +33173,9 @@ landscape:
               industries:
                 - Consulting
                 - Information Technology
+            image_data:
+              fileName: cisel-informatique-sa.svg
+              hash: PP/WctqF25xqPhyoem7/HIcTAWqwQpq7P0/y+VSbEMA=
             best_practice_data:
               badge: false
               percentage: null
@@ -32942,6 +33228,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 90954473472
               effective_ticker: C
+            image_data:
+              fileName: citi.svg
+              hash: lIm2dNjDnlybPwe0zSHfHIgwtYPoa8vBbAfoKbiUOZ4=
             best_practice_data:
               badge: false
               percentage: null
@@ -33234,6 +33523,9 @@ landscape:
                 - SaaS
                 - Software
               kind: funding
+            image_data:
+              fileName: cloud-bolt-software.svg
+              hash: dhC9dOpaLAWlcSqDTJGILfTTf2YZFg7GOXuSZFPd1PY=
             best_practice_data:
               badge: false
               percentage: null
@@ -33306,6 +33598,9 @@ landscape:
                 - Information Technology
                 - Management Consulting
                 - Software
+            image_data:
+              fileName: cloud-cover-pte-ltd.svg
+              hash: Oe2emo622yhL0S80Ys5GPU3nKximLU4o+tBK+2TMPFg=
             best_practice_data:
               badge: false
               percentage: null
@@ -33552,6 +33847,9 @@ landscape:
                 - Cloud Storage
                 - Information Technology
                 - Media and Entertainment
+            image_data:
+              fileName: cloud-kinetics.svg
+              hash: 7kPIFQJ6CVLNuvPOrL0cr0zijLCW7UeGxq+MrxL/C8Q=
             best_practice_data:
               badge: false
               percentage: null
@@ -33583,6 +33881,9 @@ landscape:
                 - Linux
                 - Software
                 - Web Hosting
+            image_data:
+              fileName: cloud-linux.svg
+              hash: HZMHCh5fJTRn8jYEGRuJEJEhkUn5MGls4fw3WwTB9NM=
             best_practice_data:
               badge: false
               percentage: null
@@ -33617,6 +33918,9 @@ landscape:
                 - SaaS
                 - Software
               kind: funding
+            image_data:
+              fileName: cloud-natix-inc.svg
+              hash: GY0TeVw8A/UUAxdwfoI5p++LTBeeF1PXaVBa0z7bm9E=
             best_practice_data:
               badge: false
               percentage: null
@@ -33649,6 +33953,9 @@ landscape:
                 - Cloud Management
                 - Information Technology
                 - Software
+            image_data:
+              fileName: cloud-ops-inc.svg
+              hash: uyHps9C6a0JbeIy2GWUhS8bqba/b/J7M4EM5YrMMsi8=
             best_practice_data:
               badge: false
               percentage: null
@@ -33749,6 +34056,9 @@ landscape:
                 - Security
                 - Software
               kind: funding
+            image_data:
+              fileName: cloudsmith-ltd.svg
+              hash: WybGAhcZCqRXqLZlvgHcSPA77480nWy0JZA9OmsWS1s=
             best_practice_data:
               badge: false
               percentage: null
@@ -33784,6 +34094,9 @@ landscape:
                 - PaaS
                 - Software
               kind: funding
+            image_data:
+              fileName: cloudsoft-corporation-ltd.svg
+              hash: OjUyBRttx1Fpty/dEkQDe4CPLxBOatdfR17kQuuGSKs=
             best_practice_data:
               badge: false
               percentage: null
@@ -33820,6 +34133,9 @@ landscape:
                 - SaaS
                 - Software
               kind: funding
+            image_data:
+              fileName: cloudthread.svg
+              hash: /I+Ud7o/8LeoxzQ4ruPTtBfqgFZXdnwusp9qJFOZLPM=
             best_practice_data:
               badge: false
               percentage: null
@@ -33967,6 +34283,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 61182025728
               effective_ticker: CME
+            image_data:
+              fileName: cme-group-inc.svg
+              hash: pLb8ZDm6sey3Dm7WpahFnhJkgG11275RhbIOlvZeS1U=
             best_practice_data:
               badge: false
               percentage: null
@@ -34098,6 +34417,9 @@ landscape:
                 - Embedded Systems
                 - Linux
                 - Software
+            image_data:
+              fileName: codethink.svg
+              hash: +CJ/59wpLcpw98AVaqQGnHYnyGMBGaWdKR/YeoPirX8=
             best_practice_data:
               badge: false
               percentage: null
@@ -34169,6 +34491,9 @@ landscape:
                 - Developer Tools
                 - Enterprise Applications
                 - Software
+            image_data:
+              fileName: code-zero-technologies-inc.svg
+              hash: uzi2pKBnd/URDO5vslKqELfq+b24G1inxA0Pa25Y8dk=
             best_practice_data:
               badge: false
               percentage: null
@@ -34597,6 +34922,9 @@ landscape:
               industries:
                 - Consulting
                 - Information Technology
+            image_data:
+              fileName: component-soft-kft.svg
+              hash: gbjuKYpMtWnU9gq4vVlqiXoPO09bnFra6i5EmeRVl74=
             best_practice_data:
               badge: false
               percentage: null
@@ -34611,6 +34939,9 @@ landscape:
             crunchbase_data:
               name: Connect 5G, Inc.
               parents: []
+            image_data:
+              fileName: connect-5-g-inc.svg
+              hash: 826yIkzoxP2f2OdPKiDs//McZAVoTKd3IpBkS8/fFZw=
             best_practice_data:
               badge: false
               percentage: null
@@ -34638,6 +34969,9 @@ landscape:
               industries:
                 - Consulting
                 - Information Technology
+            image_data:
+              fileName: conoa-ab.svg
+              hash: psi8Mgd7lUGWPnqhl00QBK2vedBfdLAcibPgVcdvDEI=
             best_practice_data:
               badge: false
               percentage: null
@@ -34879,6 +35213,9 @@ landscape:
                 - Security
                 - Software
               kind: funding
+            image_data:
+              fileName: contrast-security.svg
+              hash: 4lNlX1Vhk/7DSrUsruKZQasCDB5lOPNqp2T0pJUsSAo=
             best_practice_data:
               badge: false
               percentage: null
@@ -35078,6 +35415,9 @@ landscape:
                 - Consulting
                 - IT Infrastructure
                 - Software Engineering
+            image_data:
+              fileName: core-24-7-llp.svg
+              hash: DfXwR8Tztb4vHrn/g5/olXw6T6tkexZUw22AMT5EW5U=
             best_practice_data:
               badge: false
               percentage: null
@@ -35106,6 +35446,9 @@ landscape:
                 - Consulting
                 - Information Technology
                 - Software
+            image_data:
+              fileName: core-hive-computing-llc.svg
+              hash: qDyfxgiVs3R/dq5YorZmlgPhbAgiIXgs2mcZjZQIMyg=
             best_practice_data:
               badge: false
               percentage: null
@@ -35121,6 +35464,9 @@ landscape:
             crunchbase_data:
               name: CoreStack
               parents: []
+            image_data:
+              fileName: core-stack.svg
+              hash: eT1837e069c55DVWvk7A4Lc/pk4eVkdONqwFUN9c0Qo=
             best_practice_data:
               badge: false
               percentage: null
@@ -35259,6 +35605,9 @@ landscape:
               company_type: For Profit
               industries: []
               kind: funding
+            image_data:
+              fileName: cosmonic.svg
+              hash: zVMrlUodN7FDmwQCpPP1gk7+uH54FYwAqc+tFh7zr3o=
             best_practice_data:
               badge: false
               percentage: null
@@ -35292,6 +35641,9 @@ landscape:
                 - Enterprise Software
                 - Security
                 - Software
+            image_data:
+              fileName: co-so-sys-s-r-l.svg
+              hash: xBMotwSAuDbhJFxFg/sdJZdShdjYo/an/P3hn7xyRhM=
             best_practice_data:
               badge: false
               percentage: null
@@ -35498,6 +35850,9 @@ landscape:
                 - Information Technology
                 - Open Source
                 - Software
+            image_data:
+              fileName: crunchy-data-solutions-inc.svg
+              hash: vat5aZWezCk+8oPbc3qNk0xCO60pX7Azj2BZuMb/xX8=
             best_practice_data:
               badge: false
               percentage: null
@@ -35590,6 +35945,9 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries: []
+            image_data:
+              fileName: cuegee-it.svg
+              hash: sWR6kZX7pLfCTYDDWkl2ZkiM0/RK9whr6TLQQm8oc/s=
             best_practice_data:
               badge: false
               percentage: null
@@ -35800,6 +36158,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 5386745856
               effective_ticker: CYBR
+            image_data:
+              fileName: cyber-ark-software-ltd.svg
+              hash: gfTRgMxfmETF5BWV1MpGFHDNQhkX93TXWtouOTpp4q0=
             best_practice_data:
               badge: false
               percentage: null
@@ -36088,6 +36449,9 @@ landscape:
                 - Enterprise Software
                 - Software
               kind: funding
+            image_data:
+              fileName: dao-cloud-network-technology-co-ltd.svg
+              hash: 80rYjXE4jIv6qWUuT3L/G/LdPmbAzPyvHOhbmBfvQE0=
             best_practice_data:
               badge: false
               percentage: null
@@ -36505,6 +36869,9 @@ landscape:
                 - Information Technology
                 - Robotics
                 - Software
+            image_data:
+              fileName: daugherty-business-solutions.svg
+              hash: E9c1NPqQzaH/40u7bNTaml7EPv4cf8g5HBd/53gUCJY=
             best_practice_data:
               badge: false
               percentage: null
@@ -36575,6 +36942,9 @@ landscape:
                 - Internet
                 - Internet of Things
                 - Software
+            image_data:
+              fileName: db-systel-gmb-h.svg
+              hash: Slsbl8D7yZtzMTtQ/5FRY1E9cPsp8dr0qk/fyXRaLhw=
             best_practice_data:
               badge: false
               percentage: null
@@ -36590,6 +36960,9 @@ landscape:
             crunchbase_data:
               name: DeepFactor
               parents: []
+            image_data:
+              fileName: deep-factor.svg
+              hash: sVpWaI+Y4KXdbUrZfaV7G97Ven6HRxL1hChONXlqwD4=
             best_practice_data:
               badge: false
               percentage: null
@@ -36860,6 +37233,9 @@ landscape:
               company_type: For Profit
               industries:
                 - Social Media
+            image_data:
+              fileName: delta-electronics-worldwide.svg
+              hash: czv8EFOqwIfGIaYjsG9EAdiYOXFxuOOIctO9kw0I474=
             best_practice_data:
               badge: false
               percentage: null
@@ -36923,6 +37299,9 @@ landscape:
               industries:
                 - Big Data
                 - Software
+            image_data:
+              fileName: denodo-technologies.svg
+              hash: tdFs/cWmK/dW42RLRvuuBM1uca0b+q5pHZACcwpf3lE=
             best_practice_data:
               badge: false
               percentage: null
@@ -36997,6 +37376,9 @@ landscape:
                 - Information Technology
                 - Robotics
                 - Software
+            image_data:
+              fileName: denx-software-engineering-gmb-h-denx.svg
+              hash: dyZh/KpJAYP+46R+3AJM+317aaWu5VnbYVLNjK0j78s=
             best_practice_data:
               badge: false
               percentage: null
@@ -37141,6 +37523,9 @@ landscape:
                 - Consulting
                 - Education
                 - Information Technology
+            image_data:
+              fileName: desotech-srl.svg
+              hash: XNxlegzdp1O6wA9ptbsIp7uBfTmlms/2MFb61kg5rto=
             best_practice_data:
               badge: false
               percentage: null
@@ -37353,6 +37738,9 @@ landscape:
                 - Information Technology
                 - Private Cloud
                 - Software
+            image_data:
+              fileName: devs-operative.svg
+              hash: AunNqqn31XxO/XFX+IX0WEBwDQb8PeadbdNn460GN2Y=
             best_practice_data:
               badge: false
               percentage: null
@@ -37386,6 +37774,9 @@ landscape:
                 - Information Technology
                 - Software
               kind: funding
+            image_data:
+              fileName: devtron-inc.svg
+              hash: eEpDQuwtPWnTztpGYFBaf+T2dfrQN3cug8rezJRTbGk=
             best_practice_data:
               badge: false
               percentage: null
@@ -37525,6 +37916,9 @@ landscape:
                 - Infrastructure
                 - Software
               kind: funding
+            image_data:
+              fileName: diamanti-inc.svg
+              hash: b96FgWRN6zXvHTAz0QPtQS5R2dfNbY14342qGwOIQRQ=
             best_practice_data:
               badge: false
               percentage: null
@@ -37889,6 +38283,9 @@ landscape:
                 - Mapping Services
                 - Software
                 - Training
+            image_data:
+              fileName: dito.svg
+              hash: W078wt2P4/y3pFqn8DQSysv7G7gz5xqPe/CooVf/T7Q=
             best_practice_data:
               badge: false
               percentage: null
@@ -38009,6 +38406,9 @@ landscape:
                 - Information Technology
                 - Software
               kind: funding
+            image_data:
+              fileName: docker-inc.svg
+              hash: WVGM0n9UTpWsgZjmPf/EN4mQZHNhJs2sacpkK7tIy54=
             best_practice_data:
               badge: false
               percentage: null
@@ -38218,6 +38618,9 @@ landscape:
               industries:
                 - Automotive
                 - Software
+            image_data:
+              fileName: drim-aes.svg
+              hash: Rv2nd7AxkSnoSj23eCcTghxhe9/vg7d2HCjsVz9+n6U=
             best_practice_data:
               badge: false
               percentage: null
@@ -38292,6 +38695,9 @@ landscape:
                 - Enterprise
                 - Information Technology
               kind: funding
+            image_data:
+              fileName: easy-stack-inc.svg
+              hash: kWkpnEgLU2gPEkynfYZ3M/JAuPI5X0YEKs+chghNiws=
             best_practice_data:
               badge: false
               percentage: null
@@ -38624,6 +39030,9 @@ landscape:
                 - Computer
                 - Network Security
               kind: funding
+            image_data:
+              fileName: edgeless-systems.svg
+              hash: R6nf/kL7WkDzm5ZyX4EMLDALc2sCMfRSRFMMClAskCM=
             best_practice_data:
               badge: false
               percentage: null
@@ -38691,6 +39100,9 @@ landscape:
                 - EdTech
                 - Education
                 - Skill Assessment
+            image_data:
+              fileName: educational-testing-service-ets.svg
+              hash: VnMQWa4ZdveJUbLJzmx6WdogkIrQMzEv9yC3+0JlJ2o=
             best_practice_data:
               badge: false
               percentage: null
@@ -38794,6 +39206,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 4855793152
               effective_ticker: ESTC
+            image_data:
+              fileName: elasticsearch-inc.svg
+              hash: 7CJ0ShKTvZeipsHdlBzt4h8kzIxGwUG+bNb4vYyAsuA=
             best_practice_data:
               badge: false
               percentage: null
@@ -38876,6 +39291,9 @@ landscape:
             crunchbase_data:
               name: Electricity Maps
               parents: []
+            image_data:
+              fileName: electricity-maps.svg
+              hash: NxnlYaFOfPLjpoM4on0GvC8LeEJoxvB0I2/94NpCzkY=
             best_practice_data:
               badge: false
               percentage: null
@@ -38944,6 +39362,9 @@ landscape:
                 - Service Industry
                 - Software
                 - Telecommunications
+            image_data:
+              fileName: elektrobit-automotive-gmb-h.svg
+              hash: SDYCQc+6/XQyG4ZRzgafSybiMR8b3qT36ABhqvEJz8k=
             best_practice_data:
               badge: false
               percentage: null
@@ -39046,6 +39467,9 @@ landscape:
                 - Electronics
                 - Information Technology
                 - Software
+            image_data:
+              fileName: emlix-gmb-h.svg
+              hash: uwxiVjdhfznZKZEMF8b8/L2zGlT+DNIHbqykHWwix2I=
             best_practice_data:
               badge: false
               percentage: null
@@ -39126,6 +39550,9 @@ landscape:
                 - CRM
                 - Information Technology
                 - Software
+            image_data:
+              fileName: engineer-better-ltd.svg
+              hash: yeIGIBW9NhvcbOXvSDfbw5XYYZSJr0m1/a16fwIkVnA=
             best_practice_data:
               badge: false
               percentage: null
@@ -39203,6 +39630,9 @@ landscape:
                 - Open Source
                 - Software
               kind: funding
+            image_data:
+              fileName: enterprise-db-corporation.svg
+              hash: L8/DoWFYwW0YujFOclXOWZGZz9KM51hgjNQwM3pkpP0=
             best_practice_data:
               badge: false
               percentage: null
@@ -39419,6 +39849,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 19279675392
               effective_ticker: EPAM
+            image_data:
+              fileName: epam-systems-inc.svg
+              hash: AjkH4DOqcvi4o4ZN4rWoB5CZi/NJY5LWV9tkRioAdWU=
             best_practice_data:
               badge: false
               percentage: null
@@ -39675,6 +40108,9 @@ landscape:
                 - Software
                 - Web Apps
                 - Web Development
+            image_data:
+              fileName: espeo-software.svg
+              hash: oSxEMVXy2EfoPM2dHQsjauJJJSL2ADZOsDWzXX1bVk0=
             best_practice_data:
               badge: false
               percentage: null
@@ -39884,6 +40320,9 @@ landscape:
               company_type: For Profit
               industries: []
               kind: funding
+            image_data:
+              fileName: exotanium-inc.svg
+              hash: L/EEFUuWVMUUESjUu+4bTDTbueEuVBH4ONpbMOlXhU0=
             best_practice_data:
               badge: false
               percentage: null
@@ -39996,6 +40435,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 2466659072
               effective_ticker: EXTR
+            image_data:
+              fileName: extreme-networks-inc.svg
+              hash: HTKG7oofLfX2pYg6XRFheCh7vfVvRucUpgOFRD1zbwo=
             best_practice_data:
               badge: false
               percentage: null
@@ -40272,6 +40714,9 @@ landscape:
                 - Information Technology
                 - Software
                 - Subscription Service
+            image_data:
+              fileName: fairwinds-ops-inc.svg
+              hash: W+b2usGvfO4gv25R4lg3MOgDL4b1YSqcDzgMCvnq8rM=
             best_practice_data:
               badge: false
               percentage: null
@@ -40475,6 +40920,9 @@ landscape:
                 - Cloud Infrastructure
                 - Information Technology
               kind: funding
+            image_data:
+              fileName: fermyon-technologies.svg
+              hash: xM4lv9tupNPn02mJmryhJ6JSItWvqOgLoVxQwDqmYFg=
             best_practice_data:
               badge: false
               percentage: null
@@ -40578,6 +41026,9 @@ landscape:
               company_type: ''
               industries:
                 - Internet
+            image_data:
+              fileName: filecoin-foundation.svg
+              hash: NP7shggJZwS7pT1Qb0znAJmxBnFxOrDjit6aVgLns2I=
             best_practice_data:
               badge: false
               percentage: null
@@ -40608,6 +41059,9 @@ landscape:
               industries:
                 - Information Technology
                 - Software
+            image_data:
+              fileName: finout.svg
+              hash: C0dLc4bpBNMvKmqYa8O59eRtZqZDm1I9fzvVN0FaZ4Q=
             best_practice_data:
               badge: false
               percentage: null
@@ -40658,6 +41112,9 @@ landscape:
                 - Information Technology
                 - Software
               kind: funding
+            image_data:
+              fileName: fire-hydrant.svg
+              hash: 7TJVGPKlBPbH2vFQqXE84++3EM3ZzdfAQntoP/CjoNM=
             best_practice_data:
               badge: false
               percentage: null
@@ -40809,6 +41266,9 @@ landscape:
                 - Information Technology
                 - Software
               kind: funding
+            image_data:
+              fileName: flexera.svg
+              hash: 0nJbL8enbE6d44IMMtTy+jw10Unna/TYzQWu+/H85AA=
             best_practice_data:
               badge: false
               percentage: null
@@ -41001,6 +41461,9 @@ landscape:
                 - SaaS
                 - Security
               kind: funding
+            image_data:
+              fileName: fortanix.svg
+              hash: 1RTDqpkrzwRqi7izyjU27BFgQc3dh21r14gXFIf2RsQ=
             best_practice_data:
               badge: false
               percentage: null
@@ -41285,6 +41748,9 @@ landscape:
                 - SaaS
                 - Software
               kind: funding
+            image_data:
+              fileName: ftrack-ab.svg
+              hash: aHXfFNcbVb1e3XCOzvOAhbDy6J7TtWznWnLWjFCWrGg=
             best_practice_data:
               badge: false
               percentage: null
@@ -41388,6 +41854,9 @@ landscape:
               stockExchange: null
               company_type: ''
               industries: []
+            image_data:
+              fileName: gaia-information-technology.svg
+              hash: /qEP7frghJAuGapMvbnej99fcxdSy3/fxL6njHB/gsc=
             best_practice_data:
               badge: false
               percentage: null
@@ -41422,6 +41891,9 @@ landscape:
                 - Mobile
                 - Software
               kind: funding
+            image_data:
+              fileName: garden-technologies-inc.svg
+              hash: GEekJ4CAdDoAjppztolb4oziB4fBCZrTR2vzMTfO7b0=
             best_practice_data:
               badge: false
               percentage: null
@@ -41490,6 +41962,9 @@ landscape:
                 - Cloud Infrastructure
                 - Cloud Management
                 - Private Cloud
+            image_data:
+              fileName: gemini-open-cloud-computing-inc.svg
+              hash: RKdSYXf0YX7W+5VX/rYvQMn6NvF7LgEL/k/6IlGCEr4=
             best_practice_data:
               badge: false
               percentage: null
@@ -41713,6 +42188,9 @@ landscape:
                 - Blockchain
                 - FinTech
                 - Financial Services
+            image_data:
+              fileName: genesis-global-technology-limited.svg
+              hash: NuKTRk+scrBtSEBTlXrkEuzt31pYZN6s05kCfVHoLjI=
             best_practice_data:
               badge: false
               percentage: null
@@ -41802,6 +42280,9 @@ landscape:
             crunchbase_data:
               name: GENXT
               parents: []
+            image_data:
+              fileName: genxt.svg
+              hash: nxL/FrPlfhdZrcoQ24pSjje92+V8g2damxd/q2+UsvM=
             best_practice_data:
               badge: false
               percentage: null
@@ -42181,6 +42662,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 7117795328
               effective_ticker: GLOB
+            image_data:
+              fileName: globant-llc.svg
+              hash: 3/XdD5pcGLHkVDtUz6WoUwv2hPZBsjSPYkrBwO7Kbyw=
             best_practice_data:
               badge: false
               percentage: null
@@ -42315,6 +42799,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 11654953984
               effective_ticker: GDDY
+            image_data:
+              fileName: go-daddy-operating-company-llc.svg
+              hash: /+CZ5t2MIzKHlzdjYrBUR/rJUbGNXVZ1gGnQlBWIfJI=
             best_practice_data:
               badge: false
               percentage: null
@@ -42457,6 +42944,9 @@ landscape:
                 - Enterprise Software
                 - Internet of Things
               kind: funding
+            image_data:
+              fileName: golioth.svg
+              hash: eI38l95wLec6wqAwtUBZrdydWtk4pPWWgZm2I5YUnxA=
             best_practice_data:
               badge: false
               percentage: null
@@ -42544,6 +43034,9 @@ landscape:
                 - Machine Learning
                 - Software
               kind: funding
+            image_data:
+              fileName: gram-labs-inc-d-b-a-storm-forge.svg
+              hash: M1nB/FQ4rcuSfARSvIrN6FwJ7+fFtyNUGiZGamdi02M=
             best_practice_data:
               badge: false
               percentage: null
@@ -42578,6 +43071,9 @@ landscape:
                 - Machine Learning
                 - Software
               kind: funding
+            image_data:
+              fileName: granulate-cloud-solutions-ltd.svg
+              hash: P8+UzzCK2aAbQ1ETf9iCf8yIL5ippLJ69noq38EBDSI=
             best_practice_data:
               badge: false
               percentage: null
@@ -42646,6 +43142,9 @@ landscape:
                 - Identity Management
                 - Privacy
               kind: funding
+            image_data:
+              fileName: gravitational-inc.svg
+              hash: uYtKCKS4sgCTNIKJvY9+j4YbvJIntNwscJvTUP65bCU=
             best_practice_data:
               badge: false
               percentage: null
@@ -42879,6 +43378,9 @@ landscape:
                 - Consumer Electronics
                 - Mobile
                 - Mobile Devices
+            image_data:
+              fileName: guangdong-oppo-mobile-telecommunications-corp-ltd.svg
+              hash: LUzhz1ZZJhOCxO3EJJmwNzWvaP0DLSKlSFRX9uCyP9M=
             best_practice_data:
               badge: false
               percentage: null
@@ -43017,6 +43519,9 @@ landscape:
                 - Internet
                 - Network Security
               kind: funding
+            image_data:
+              fileName: hacker-one.svg
+              hash: i3/YyzQN2rzG88ZZMDn+dw/QiWsLkJUH/GxIykbpbOo=
             best_practice_data:
               badge: false
               percentage: null
@@ -43084,6 +43589,9 @@ landscape:
                 - Data Storage
                 - Information Technology
                 - Software
+            image_data:
+              fileName: hammerspace.svg
+              hash: C1k69B0Zuurgwn/t4k26/y/wVzuLGwkoRiWg1aUpYtE=
             best_practice_data:
               badge: false
               percentage: null
@@ -43118,6 +43626,9 @@ landscape:
                 - Internet of Things
                 - Open Source
               kind: funding
+            image_data:
+              fileName: hangzhou-emq-technologies.svg
+              hash: IBFDq7D/xHmJOvv556tM66jh4CdYX8dsipIHuGajMRs=
             best_practice_data:
               badge: false
               percentage: null
@@ -43149,6 +43660,9 @@ landscape:
                 - Cloud Computing
                 - Information Technology
               kind: funding
+            image_data:
+              fileName: hangzhou-harmony-cloud-technology-co-ltd.svg
+              hash: aLUgcdlQydFz/I0hEghy9NjAzxF9PH16c9kZkPBs6QQ=
             best_practice_data:
               badge: false
               percentage: null
@@ -43193,6 +43707,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 53318592631
               effective_ticker: 9999.HK
+            image_data:
+              fileName: hangzhou-langhe-technology-co-ltd-netease.svg
+              hash: wNQx/ZyCpeg9FRqj1PLvw00ipK9hLjcryefxC57ooX4=
             best_practice_data:
               badge: false
               percentage: null
@@ -43387,6 +43904,9 @@ landscape:
                 - SaaS
                 - Software
               kind: funding
+            image_data:
+              fileName: harness-inc.svg
+              hash: 5jklwKCm3IzdwglAGriLPgeLHlc8PKjP2Kgjsoe0A1w=
             best_practice_data:
               badge: false
               percentage: null
@@ -43422,6 +43942,9 @@ landscape:
                 - Virtualization
                 - Web Apps
                 - Web Development
+            image_data:
+              fileName: harpoon-corp.svg
+              hash: W4ZexgjeJ/kJOwC8aX17r77Z1YTyyslJtQMbaPtqhns=
             best_practice_data:
               badge: false
               percentage: null
@@ -43840,6 +44363,9 @@ landscape:
                 - Mapping Services
                 - Navigation
                 - Software
+            image_data:
+              fileName: here-global-b-v.svg
+              hash: bcsc+4WxWZVjpT+Nt0tRmhs2oc2SQWJn/jVHL8PU8Do=
             best_practice_data:
               badge: false
               percentage: null
@@ -43937,6 +44463,9 @@ landscape:
             crunchbase_data:
               name: Highway9 Networks
               parents: []
+            image_data:
+              fileName: highway9-networks.svg
+              hash: WEF6A4wbFtcNWuLe+m2xBDWELylq7qnCiw79HE5nA24=
             best_practice_data:
               badge: false
               percentage: null
@@ -43973,6 +44502,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 39740616704
               effective_ticker: HMC
+            image_data:
+              fileName: honda-motor-co-ltd.svg
+              hash: MPIHq32ZsXri4K3ykAMMpfuxKD8XFAUJILmqsn3aH7U=
             best_practice_data:
               badge: false
               percentage: null
@@ -44035,6 +44567,9 @@ landscape:
                 - Autonomous Vehicles
                 - Robotics
               kind: funding
+            image_data:
+              fileName: horizon-robotics.svg
+              hash: plsBiZ2NezAawzq58Tnwu5whCrgWiJPfcOflCOtsMNQ=
             best_practice_data:
               badge: false
               percentage: null
@@ -44439,6 +44974,9 @@ landscape:
             crunchbase_data:
               name: Hub Security
               parents: []
+            image_data:
+              fileName: hub-security.svg
+              hash: DBos9ya0amE1iTzHqnkMPZnCYx5MkGeyb2KMT6PczY8=
             best_practice_data:
               badge: false
               percentage: null
@@ -44505,6 +45043,9 @@ landscape:
                 - Information Technology
                 - Software
               kind: funding
+            image_data:
+              fileName: hygraph.svg
+              hash: HcWLJYXirQj0VQxOI2Gtg9S3AvQdVJ3mSg5bdAaWuJs=
             best_practice_data:
               badge: false
               percentage: null
@@ -44825,6 +45366,9 @@ landscape:
                 - Enterprise Software
                 - Software
               kind: funding
+            image_data:
+              fileName: ifs-world-operations-ab.svg
+              hash: DIqAU2wjRefBVWrjnwaDMn+S4fm1M+aDayEPonhDzyk=
             best_practice_data:
               badge: false
               percentage: null
@@ -44884,6 +45428,9 @@ landscape:
               stockExchange: null
               company_type: ''
               industries: []
+            image_data:
+              fileName: ignw.svg
+              hash: gXxWmSdHM0j2gz7Xg9rOngLV59GwhlzyD62Dm0bv3yk=
             best_practice_data:
               badge: false
               percentage: null
@@ -45125,6 +45672,9 @@ landscape:
               company_type: For Profit
               industries:
                 - Software
+            image_data:
+              fileName: imperas-software-ltd.svg
+              hash: zIq6+OtHFTPkOSeKb3FC9sEAnQkcXYpDNaiv6yDe+vM=
             best_practice_data:
               badge: false
               percentage: null
@@ -45155,6 +45705,9 @@ landscape:
                 - Consulting
                 - Information Technology
                 - Software
+            image_data:
+              fileName: in-com-data-systems.svg
+              hash: CZ4CF9QSrYnvSlJt/0AhmhSnLmm17jFCwkzBWrphl9g=
             best_practice_data:
               badge: false
               percentage: null
@@ -45603,6 +46156,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 75836833792
               effective_ticker: INFY
+            image_data:
+              fileName: infosys-limited.svg
+              hash: RrtW5EwunWf+Ra7/QvHxQKNSs+5rWBoaO+9uKVgZpdo=
             best_practice_data:
               badge: false
               percentage: null
@@ -45634,6 +46190,9 @@ landscape:
                 - Information Technology
                 - Software
                 - Software Engineering
+            image_data:
+              fileName: infracloud-technologies-inc.svg
+              hash: 8JD0cw02xEiyT48jx4vAvVx7GApYGSoYUGAhvE741No=
             best_practice_data:
               badge: false
               percentage: null
@@ -45966,6 +46525,9 @@ landscape:
                 - IT Infrastructure
                 - Software
               kind: funding
+            image_data:
+              fileName: instana-inc.svg
+              hash: vzF0Y1kFPCvTOqvIqUzDf213v8kz8g5zja3pklRwUV0=
             best_practice_data:
               badge: false
               percentage: null
@@ -46110,6 +46672,9 @@ landscape:
                 - Technical Support
                 - Web Development
               kind: funding
+            image_data:
+              fileName: intellect-eu.svg
+              hash: vtzDyU+xZQAP/BRa8sGvZgmlHDXarasULZW3VMYIYuc=
             best_practice_data:
               badge: false
               percentage: null
@@ -46140,6 +46705,9 @@ landscape:
                 - Information Technology
                 - Professional Services
                 - Software
+            image_data:
+              fileName: intelligent-systems-services.svg
+              hash: NOiJj+MPKFUdeLAcQID+a059yIfkL4mBm0QAsoWFXQ4=
             best_practice_data:
               badge: false
               percentage: null
@@ -46208,6 +46776,9 @@ landscape:
             crunchbase_data:
               name: Intesi Group SpA
               parents: []
+            image_data:
+              fileName: intesi-group-sp-a.svg
+              hash: kSBBzRpS9MPDUIo2Z0Zj9Mgp+7MOY+9skJ40QHsX0Uw=
             best_practice_data:
               badge: false
               percentage: null
@@ -46430,6 +47001,9 @@ landscape:
                 - Blockchain
                 - Cryptocurrency
                 - FinTech
+            image_data:
+              fileName: iog-singapore-pte-ltd.svg
+              hash: /MT+1JtnuPHQtXNoPuZIv1RxH6GedIXl+aUnWS4DXis=
             best_practice_data:
               badge: false
               percentage: null
@@ -46494,6 +47068,9 @@ landscape:
                 - Network Security
                 - Security
               kind: funding
+            image_data:
+              fileName: io-tech-systems-limited.svg
+              hash: KMpQ/15tis9eCdMS6xqXLTd73wctoofjORlBP6gcykQ=
             best_practice_data:
               badge: false
               percentage: null
@@ -46532,6 +47109,9 @@ landscape:
                 - Software
                 - Trading Platform
               kind: funding
+            image_data:
+              fileName: i-pwe.svg
+              hash: I+5H6H5sBMgRXk9kiH+dlZMq1YSY4IcopyB3xzVnB+8=
             best_practice_data:
               badge: false
               percentage: null
@@ -46604,6 +47184,9 @@ landscape:
                 - Network Security
                 - Software
               kind: funding
+            image_data:
+              fileName: isovalent-inc.svg
+              hash: AoOz4xVnvi0wM34u5H0vdXlIEAnDtnsuQ0mrmDogRCc=
             best_practice_data:
               badge: false
               percentage: null
@@ -46634,6 +47217,9 @@ landscape:
                 - Banking
                 - Finance
                 - Financial Services
+            image_data:
+              fileName: itau-bba-usa-securities-inc.svg
+              hash: IwKT3l35gBWuZoEcUd9Af7MmSPXGdjB+VLE86/G0xXk=
             best_practice_data:
               badge: false
               percentage: null
@@ -46966,6 +47552,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 2249504768
               effective_ticker: FROG
+            image_data:
+              fileName: j-frog-inc.svg
+              hash: gaDE3Qj8S6uz25S5JyJ2B7lhoGhjjIAGUPLwv8KM0bM=
             best_practice_data:
               badge: false
               percentage: null
@@ -47088,6 +47677,9 @@ landscape:
               stockExchange: null
               company_type: ''
               industries: []
+            image_data:
+              fileName: joisto-group-oy.svg
+              hash: sEyd6v2Nb5xUtuLF2Nlz+RQKsQOJFfH9BFnrDvX1m+Q=
             best_practice_data:
               badge: false
               percentage: null
@@ -47193,6 +47785,9 @@ landscape:
               industries:
                 - Financial Services
                 - Trading Platform
+            image_data:
+              fileName: jump-trading.svg
+              hash: Wf/jfxhQZcWb2Q8hI44EsPYx5FnoI0ZDb4rh5R+vZik=
             best_practice_data:
               badge: false
               percentage: null
@@ -47309,6 +47904,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 10330617856
               effective_ticker: JNPR
+            image_data:
+              fileName: juniper-networks-inc.svg
+              hash: TD/eZspPAo+E0o5DYCc4jWSbldfUrLosK3SlHAzxlqo=
             best_practice_data:
               badge: false
               percentage: null
@@ -47384,6 +47982,9 @@ landscape:
                 - SaaS
                 - Software
               kind: funding
+            image_data:
+              fileName: kaleido.svg
+              hash: a0sVhQ+N8p6OMseyqDep9JVihVme0a1yazzwBShw0bE=
             best_practice_data:
               badge: false
               percentage: null
@@ -47417,6 +48018,9 @@ landscape:
                 - Information Technology
                 - Software
               kind: funding
+            image_data:
+              fileName: kaloom-inc.svg
+              hash: 90o6GA4zMQK7mtknJZsigzZzhNyrgWeoWeUsFRsY4tk=
             best_practice_data:
               badge: false
               percentage: null
@@ -47761,6 +48365,9 @@ landscape:
               industries:
                 - Cloud Computing
                 - Internet
+            image_data:
+              fileName: kinx.svg
+              hash: hgkqlmx3Jym5QwhseK9aareg0pPeD+ux7FvOrLzTAdk=
             best_practice_data:
               badge: false
               percentage: null
@@ -47807,6 +48414,9 @@ landscape:
                 - Computer
                 - Information Technology
                 - Software
+            image_data:
+              fileName: kiratech-sp-a.svg
+              hash: kPwEClRFm6ppkDhkAPS69AIRWtyWkmKtQmFvEWr7ju0=
             best_practice_data:
               badge: false
               percentage: null
@@ -47836,6 +48446,9 @@ landscape:
               industries:
                 - 3D Technology
                 - Software
+            image_data:
+              fileName: kit-bash3-d.svg
+              hash: DUYytOt17IXi4fClcyNVemfuxSmt/VeFJ8sZxm3BHnw=
             best_practice_data:
               badge: false
               percentage: null
@@ -47870,6 +48483,9 @@ landscape:
                 - Information Technology
                 - Professional Services
                 - Software
+            image_data:
+              fileName: kloia-software-and-consulting-ltd.svg
+              hash: PdbdD3YsK7Gs1SXlB2EMOxy+TVxD/TuZlvJP8Psk1ts=
             best_practice_data:
               badge: false
               percentage: null
@@ -48003,6 +48619,9 @@ landscape:
                 - Open Source
                 - Software
               kind: funding
+            image_data:
+              fileName: kong-inc.svg
+              hash: 5krkm3oEeXS4nvVEmdYMyoU78FBdPxRBQqHRphsEksU=
             best_practice_data:
               badge: false
               percentage: null
@@ -48173,6 +48792,9 @@ landscape:
                 - Legal
                 - Management Consulting
                 - Professional Services
+            image_data:
+              fileName: kpmg-llp.svg
+              hash: AoSwm+1pYqN3zC8tRykLvvkFLAEcOeH4M0rzyAP2rAw=
             best_practice_data:
               badge: false
               percentage: null
@@ -48221,6 +48843,9 @@ landscape:
               industries:
                 - Information Services
                 - Information Technology
+            image_data:
+              fileName: krypc-corporation.svg
+              hash: kxKK3e3vw/iTSKP3eD/vzdK/Bhf00gJibZXTNbPFzN8=
             best_practice_data:
               badge: false
               percentage: null
@@ -48346,6 +48971,9 @@ landscape:
                 - SaaS
                 - Software
               kind: funding
+            image_data:
+              fileName: kubermatic-gmb-h.svg
+              hash: LV9c0rsSHxCRY9NYBRP42vO4sfSXyWx9Erd24whxCOc=
             best_practice_data:
               badge: false
               percentage: null
@@ -48380,6 +49008,9 @@ landscape:
                 - Cloud Management
                 - Open Source
                 - Software
+            image_data:
+              fileName: kubernetes-innovation-labs-llc-kubeshop.svg
+              hash: z14wBZpsEXk7f2zkKpFtruz4WLi8yHjlAKtxN9+jbAk=
             best_practice_data:
               badge: false
               percentage: null
@@ -48449,6 +49080,9 @@ landscape:
                 - Information Technology
                 - Robotics
                 - Software
+            image_data:
+              fileName: kublr.svg
+              hash: 313rijSOxEei3sVlKJqQgryp/lcc9+VhvqLpWB/u7Ow=
             best_practice_data:
               badge: false
               percentage: null
@@ -48486,6 +49120,9 @@ landscape:
                 - Manufacturing
                 - Robotics
                 - Software
+            image_data:
+              fileName: kuka-deutschland-gmb-h.svg
+              hash: j2Co0MyLiAtb0xLiIVgmRAyq6sNz07FZdVSKAu5Nclg=
             best_practice_data:
               badge: false
               percentage: null
@@ -48516,6 +49153,9 @@ landscape:
               industries:
                 - Information Technology
                 - Internet
+            image_data:
+              fileName: kumina-b-v.svg
+              hash: 6EPXpccl9YEk0xdOfVTw3Sz4Ttz66bBPlxgOnzCNLBw=
             best_practice_data:
               badge: false
               percentage: null
@@ -48649,6 +49289,9 @@ landscape:
                 - SaaS
                 - Software
               kind: funding
+            image_data:
+              fileName: lablup-inc.svg
+              hash: bDZ1QWdPdy5kEy6C4R29aXLBzwP0XY8VjwYQAqueEDA=
             best_practice_data:
               badge: false
               percentage: null
@@ -49228,6 +49871,9 @@ landscape:
                 - Software
                 - Software Engineering
               kind: funding
+            image_data:
+              fileName: lightstep-inc.svg
+              hash: 1o1ZvS3FeCV2uamQfKirrGwkW3Nqf4gHgMapB97ZPV8=
             best_practice_data:
               badge: false
               percentage: null
@@ -49256,6 +49902,9 @@ landscape:
               company_type: For Profit
               industries:
                 - Software
+            image_data:
+              fileName: linaro-limited.svg
+              hash: UjO6bYyws2IjHwMvNMfTU+OpnZIkOrjT/STBhhA06s0=
             best_practice_data:
               badge: false
               percentage: null
@@ -49326,6 +49975,9 @@ landscape:
                 - Lifestyle
                 - Retail
                 - Travel
+            image_data:
+              fileName: lineo-solutions-inc.svg
+              hash: jknSaYdGgZEJZtnciSYVcSXhO0vA8K6BDpTV/4uMNo8=
             best_practice_data:
               badge: false
               percentage: null
@@ -49525,6 +50177,9 @@ landscape:
               stockExchange: null
               company_type: ''
               industries: []
+            image_data:
+              fileName: linutronix-gmb-h.svg
+              hash: JStd8PAWr3ihmBdH7F79RxK31wqp1+A/7n7aG1iPa2Y=
             best_practice_data:
               badge: false
               percentage: null
@@ -49604,6 +50259,9 @@ landscape:
               industries:
                 - Financial Services
               kind: funding
+            image_data:
+              fileName: lmax-exchange-ltd.svg
+              hash: f8eQYQLZPFJbJ5yIAKhhx9eYmong1V8KOwX1TuHt+6A=
             best_practice_data:
               badge: false
               percentage: null
@@ -49709,6 +50367,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 124878258176
               effective_ticker: LMT
+            image_data:
+              fileName: lockheed-martin.svg
+              hash: 2vBtNQ4Rh9snWqwkO1ys6Bx0Jn2HgMKn1ugXacBL4Dg=
             best_practice_data:
               badge: false
               percentage: null
@@ -49845,6 +50506,9 @@ landscape:
                 - Open Source
                 - Personal Development
                 - Professional Services
+            image_data:
+              fileName: lpi-org.svg
+              hash: +nzq8iFJ5NvIBWNjkhi6lSCIL3Cd6XVa8C8Z8xzgh0Y=
             best_practice_data:
               badge: false
               percentage: null
@@ -49872,6 +50536,9 @@ landscape:
               stockExchange: null
               company_type: ''
               industries: []
+            image_data:
+              fileName: lsd-open.svg
+              hash: qNSmJOp4V/VC7kDCspZcSvvhYRcsGBn9Bejzipex5tk=
             best_practice_data:
               badge: false
               percentage: null
@@ -50114,6 +50781,9 @@ landscape:
                 - Manufacturing
                 - Retail
               kind: funding
+            image_data:
+              fileName: marelli-corporation.svg
+              hash: IIDBjXiqVp/1rCAwNoSWvm1l0Cd+9s394Fswm76l9WI=
             best_practice_data:
               badge: false
               percentage: null
@@ -50216,6 +50886,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 31235651584
               effective_ticker: MRVL
+            image_data:
+              fileName: marvell-semiconductors-ltd.svg
+              hash: 7PpSxRsHiL0qflFfaVBu7OoPvVxUNRh5mkdvXTcdAcI=
             best_practice_data:
               badge: false
               percentage: null
@@ -50359,6 +51032,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 181623456
               effective_ticker: MTRX
+            image_data:
+              fileName: matrix-i-t-cloud-zone-ltd.svg
+              hash: 86eI9G5771vqMa/RJkvW/csjdMEzNsxfDMq+FQsIhvA=
             best_practice_data:
               badge: false
               percentage: null
@@ -50432,6 +51108,9 @@ landscape:
                 - SaaS
                 - Software
               kind: funding
+            image_data:
+              fileName: mattermost-inc.svg
+              hash: lky11maKIRamFEs7IRJgmBU8cBsobP7Azl9tynx+TeU=
             best_practice_data:
               badge: false
               percentage: null
@@ -50526,6 +51205,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 6146487607
               effective_ticker: NEM.DE
+            image_data:
+              fileName: maxon-computer-gmb-h.svg
+              hash: hx4pfstO9TOI27rFjxC49S1uLFS68jVYbQuGgataNfg=
             best_practice_data:
               badge: false
               percentage: null
@@ -50595,6 +51277,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 4606329175
               effective_ticker: 7261.T
+            image_data:
+              fileName: mazda-motor-corporation.svg
+              hash: lNJ1p9d1qYj6hY7U2ZVzic4E/s4nilUuD0VLT+VBzGA=
             best_practice_data:
               badge: false
               percentage: null
@@ -50753,6 +51438,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 32648337515
               effective_ticker: 2454.TW
+            image_data:
+              fileName: media-tek-usa-inc.svg
+              hash: 07rsR+SGML7TRJFJRpje7OH1XYn8W6TLfJky3mvzxww=
             best_practice_data:
               badge: false
               percentage: null
@@ -50882,6 +51570,9 @@ landscape:
                 - SaaS
                 - Software
               kind: funding
+            image_data:
+              fileName: memfault-inc.svg
+              hash: pm96W/tGYz98/qTqQKrAih3CRevpxbSUKRI/vOnVgjA=
             best_practice_data:
               badge: false
               percentage: null
@@ -51374,6 +52065,9 @@ landscape:
                 - IT Management
                 - Information Technology
                 - Software
+            image_data:
+              fileName: micware-co-ltd.svg
+              hash: p9CHwcceBeoWt2gsEm6P+jcHCqCpSzJQijZa1O4qpsg=
             best_practice_data:
               badge: false
               percentage: null
@@ -51473,6 +52167,9 @@ landscape:
               industries:
                 - Cloud Computing
               kind: funding
+            image_data:
+              fileName: mimik-technology-inc.svg
+              hash: dnwCf013NIzXKkTBZJnBt5EjBuja5DJEVgBLFPK1iAk=
             best_practice_data:
               badge: false
               percentage: null
@@ -51508,6 +52205,9 @@ landscape:
                 - Open Source
                 - Software
               kind: funding
+            image_data:
+              fileName: minio-inc.svg
+              hash: 2bI15/2dl4hhGBNqKl17yYuJFkAAtn5KvAtM3vkq1Vc=
             best_practice_data:
               badge: false
               percentage: null
@@ -51553,6 +52253,9 @@ landscape:
                 - Open Source
                 - Software
               kind: funding
+            image_data:
+              fileName: mirantis-inc.svg
+              hash: pXTkbzoZI2HhCtBUtvvNAkBXoVLaLi2Ohz/mazQubZ0=
             best_practice_data:
               badge: false
               percentage: null
@@ -51822,6 +52525,9 @@ landscape:
                 - Cyber Security
                 - Developer Platform
               kind: funding
+            image_data:
+              fileName: mondoo.svg
+              hash: +q0TOCMmkbjZ+qqE2XtrFnqeafjUpVrXfodjOblXt9k=
             best_practice_data:
               badge: false
               percentage: null
@@ -51918,6 +52624,9 @@ landscape:
                 - Open Source
                 - Software
               kind: funding
+            image_data:
+              fileName: monta-vista-software-llc.svg
+              hash: 7EMH8ZwGCes0teN2VGBULc0UAIo0iKzJXeYJkcu9pIU=
             best_practice_data:
               badge: false
               percentage: null
@@ -52137,6 +52846,9 @@ landscape:
                 - Banking
                 - Financial Services
                 - Wealth Management
+            image_data:
+              fileName: mufg-union-bank.svg
+              hash: mDRF66oWrZyWstjN1e2i+QxQU/ekdeZX/P2Rixzs54I=
             best_practice_data:
               badge: false
               percentage: null
@@ -52210,6 +52922,9 @@ landscape:
                 - Personal Health
                 - Wellness
               kind: funding
+            image_data:
+              fileName: my-fitness-pal-llc.svg
+              hash: BR3cwxnMy0OxYlFUDQXaMZ2WTxcWCMN/HpXP+U91Bwk=
             best_practice_data:
               badge: false
               percentage: null
@@ -52415,6 +53130,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 4866306560
               effective_ticker: NATI
+            image_data:
+              fileName: national-instruments-corporation.svg
+              hash: bOk7Z//82C4I2njRGb+TiEbZ2cbY+4MFLn+QtrW3Rb0=
             best_practice_data:
               badge: false
               percentage: null
@@ -52445,6 +53163,9 @@ landscape:
                 - Banking
                 - Finance
                 - Financial Services
+            image_data:
+              fileName: nat-west.svg
+              hash: ub/gU8bRzqE63bS6uT9diO+HHgnbh3MV13+en5j3E1I=
             best_practice_data:
               badge: false
               percentage: null
@@ -52472,6 +53193,9 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries: []
+            image_data:
+              fileName: navitas-business-consulting-inc.svg
+              hash: Oe6hnh0Q6+ArhcjtgWk3KG1Mp85B8Ol+F1pLL2FPDIg=
             best_practice_data:
               badge: false
               percentage: null
@@ -52567,6 +53291,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 763282816
               effective_ticker: NCC.L
+            image_data:
+              fileName: ncc-group.svg
+              hash: miROLnK4DXn8cPjltIdjXBy39vHtttIefMu4bYNZFgo=
             best_practice_data:
               badge: false
               percentage: null
@@ -52676,6 +53403,9 @@ landscape:
                 - Oil and Gas
                 - Predictive Analytics
               kind: funding
+            image_data:
+              fileName: neos.svg
+              hash: ELMgqtOrXNfX3Pq8/36NsO2cRX2b4ZOWNYkScbucRhE=
             best_practice_data:
               badge: false
               percentage: null
@@ -52772,6 +53502,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 13600819200
               effective_ticker: NTAP
+            image_data:
+              fileName: net-app-inc.svg
+              hash: lpJS7tbCdX7ui+jlfFlpfwa/RVyM2/1HnFrz6a8P0iM=
             best_practice_data:
               badge: false
               percentage: null
@@ -52806,6 +53539,9 @@ landscape:
                 - Internet of Things
                 - Software
               kind: funding
+            image_data:
+              fileName: netdata.svg
+              hash: hQ3IoEr+zpftQ2TZp+hQ34CwiT27FuEPMmgl55kVR0M=
             best_practice_data:
               badge: false
               percentage: null
@@ -52862,6 +53598,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 137693642752
               effective_ticker: NFLX
+            image_data:
+              fileName: netflix-inc.svg
+              hash: Tt5smS28wS22p7zsc4jzP2kAsWye1lXhcsk/ir8E1lY=
             best_practice_data:
               badge: false
               percentage: null
@@ -52929,6 +53668,9 @@ landscape:
                 - Network Security
                 - Open Source
                 - Software
+            image_data:
+              fileName: netgate.svg
+              hash: 6cf7X682QZ67EGVb2+5TxzYIcFJZ7RZ6Hw9BDVEH8Wc=
             best_practice_data:
               badge: false
               percentage: null
@@ -52995,6 +53737,9 @@ landscape:
                 - SaaS
                 - Software
               kind: funding
+            image_data:
+              fileName: netris-inc.svg
+              hash: 9cMztW0K20uItutEkzUx+P97/6khNgYbdSI0TpyDX2A=
             best_practice_data:
               badge: false
               percentage: null
@@ -53021,6 +53766,9 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries: []
+            image_data:
+              fileName: neuroglia.svg
+              hash: BDl2/maG4mL+7a4DX1+R2nrU4M3s6cHmSFIoPp2aAng=
             best_practice_data:
               badge: false
               percentage: null
@@ -53098,6 +53846,9 @@ landscape:
                 - Information Technology
                 - Manufacturing
                 - Software
+            image_data:
+              fileName: new-h3-c-technologies-co-ltd.svg
+              hash: 1HicaLWby3iMbdzHLfkzLOpB5ZgKLPEMMTYoGbtuA58=
             best_practice_data:
               badge: false
               percentage: null
@@ -53160,6 +53911,9 @@ landscape:
                 - Information Technology
                 - SaaS
                 - Software
+            image_data:
+              fileName: nex-cloud.svg
+              hash: X1a7kCy1k6atS/yR+by1Rb4+2kHLyg9vf7CbEQe/CDk=
             best_practice_data:
               badge: false
               percentage: null
@@ -53253,6 +54007,9 @@ landscape:
               stockExchange: null
               company_type: ''
               industries: []
+            image_data:
+              fileName: nhn-corporation.svg
+              hash: ZkNp6U4yAu0Y6sM5V7vMR6ZYJet6tjjNs3/RbWWKw1I=
             best_practice_data:
               badge: false
               percentage: null
@@ -53308,6 +54065,9 @@ landscape:
                 - Video Games
                 - Virtual Reality
               kind: funding
+            image_data:
+              fileName: niantic.svg
+              hash: ruIH5UTh8kA24sUfpqfjNh6DGHirwuEsek22NINGXzM=
             best_practice_data:
               badge: false
               percentage: null
@@ -53459,6 +54219,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 357988206
               effective_ticker: 7287.T
+            image_data:
+              fileName: nippon-seiki-co-ltd.svg
+              hash: We2g3YWIo6SIF9VxS+qin7hGqDAo9yyX6TbkjD3xMR4=
             best_practice_data:
               badge: false
               percentage: null
@@ -53651,6 +54414,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 26640779264
               effective_ticker: NOK
+            image_data:
+              fileName: nokia-corporation.svg
+              hash: O58psGjj8Px6dMMskq7TUAb9+UR8Jvb63wV2RtOhXok=
             best_practice_data:
               badge: false
               percentage: null
@@ -53827,6 +54593,9 @@ landscape:
               company_type: For Profit
               industries:
                 - Information Technology
+            image_data:
+              fileName: noris-network-ag.svg
+              hash: O/ktp2MNBDPqFbodWFRnI/sH60/1Ii2tKzrHsI0wh/U=
             best_practice_data:
               badge: false
               percentage: null
@@ -53954,6 +54723,9 @@ landscape:
             crunchbase_data:
               name: Numbers
               parents: []
+            image_data:
+              fileName: numbers.svg
+              hash: tken23kjbtxPmpwNjdcUZPyzYRur3cxHq2ZWfIugiCQ=
             best_practice_data:
               badge: false
               percentage: null
@@ -54063,6 +54835,9 @@ landscape:
                 - Business Development
                 - Business Information Systems
                 - Information Technology
+            image_data:
+              fileName: nuvotex-solutions-gmb-h-co-kg.svg
+              hash: J38C0E7GkRWL4NN2ZXsp0gKtH8+V+2hVfuhOD71C770=
             best_practice_data:
               badge: false
               percentage: null
@@ -54146,6 +54921,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 367545090048
               effective_ticker: NVDA
+            image_data:
+              fileName: nvidia-corporation.svg
+              hash: DK8Xz2+BTu6O/K69aTK/Zjj+uhDGDEnKGIIFI/G5T5g=
             best_practice_data:
               badge: false
               percentage: null
@@ -54206,6 +54984,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 40932966400
               effective_ticker: NXPI
+            image_data:
+              fileName: nxp-semiconductors-netherlands-b-v.svg
+              hash: yHSbdiClMV43KiGlJQ/w+C1wp13W6OXtvtDR/9jyQyY=
             best_practice_data:
               badge: false
               percentage: null
@@ -54382,6 +55163,9 @@ landscape:
                 - Business Development
                 - Energy
                 - Oil and Gas
+            image_data:
+              fileName: ogis-ri-co-ltd.svg
+              hash: nJUlqlnDSVM3CBEkjmFf2WHTOVG8ciszW2Ioq68otpI=
             best_practice_data:
               badge: false
               percentage: null
@@ -54507,6 +55291,9 @@ landscape:
               stockExchange: null
               company_type: ''
               industries: []
+            image_data:
+              fileName: on-gres.svg
+              hash: i5WzSaFJsYAHdZ8Hut+2JFxZdikyY6OtFLKqvc3uDHI=
             best_practice_data:
               badge: false
               percentage: null
@@ -54633,6 +55420,9 @@ landscape:
             crunchbase_data:
               name: Open Source Alliance
               parents: []
+            image_data:
+              fileName: open-source-alliance.svg
+              hash: 1gOYTjMjAeIzi4O9z97PFtvPaPtEShjIVMmdsOWNMPE=
             best_practice_data:
               badge: false
               percentage: null
@@ -54680,6 +55470,9 @@ landscape:
                 - Information Technology
                 - Open Source
                 - Training
+            image_data:
+              fileName: open-source-consulting-inc.svg
+              hash: FA46M8Benw9lET6K3KCqSaU5ecK8ekQuZifCpxEWYnY=
             best_practice_data:
               badge: false
               percentage: null
@@ -54750,6 +55543,9 @@ landscape:
                 - Information Technology
                 - Software Engineering
               kind: funding
+            image_data:
+              fileName: opscruise.svg
+              hash: x7N35XeCgkvb/kCXUGyAbHmX0x2LFg3jyTDzTKWU/OQ=
             best_practice_data:
               badge: false
               percentage: null
@@ -54994,6 +55790,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 481867628544
               effective_ticker: UNH
+            image_data:
+              fileName: optum-united-health-group.svg
+              hash: EBnQK+irg3T0SWzGbaAQT/ZYyJRDN8rAam11/s1diCc=
             best_practice_data:
               badge: false
               percentage: null
@@ -55076,6 +55875,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 27641870830
               effective_ticker: ORA.PA
+            image_data:
+              fileName: orange-sa.svg
+              hash: 1jNOA6UGxYOGMX1Z4JaXkiXCtMXIuq53LmifRnjmGXc=
             best_practice_data:
               badge: false
               percentage: null
@@ -55215,6 +56017,9 @@ landscape:
                 - Mobile
                 - Telecommunications
               kind: funding
+            image_data:
+              fileName: ori-industries.svg
+              hash: /ht6gO+X53EuQC5J+c6IeK3NwFvWvhbnKvmztxtlG98=
             best_practice_data:
               badge: false
               percentage: null
@@ -55309,6 +56114,9 @@ landscape:
                 - Consulting
                 - Information Technology
                 - Information and Communications Technology (ICT)
+            image_data:
+              fileName: osaka-nds-co-ltd.svg
+              hash: hro4Pixcmpm49RX1wIPkWBvpPXqLlvuuGZBzUrsMTlg=
             best_practice_data:
               badge: false
               percentage: null
@@ -55406,6 +56214,9 @@ landscape:
               company_type: For Profit
               industries:
                 - Information Technology
+            image_data:
+              fileName: oticon-a-s.svg
+              hash: jiMnlATfZqIJ1R4mkfjXVCpgZIHk2j5aKG1e3tyQSnI=
             best_practice_data:
               badge: false
               percentage: null
@@ -55477,6 +56288,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 3040473801
               effective_ticker: OVH.PA
+            image_data:
+              fileName: ovh-sas.svg
+              hash: LLG5VHQiwgaIxorrrpfAbC/AMEWpc0zwUG9uvNweChU=
             best_practice_data:
               badge: false
               percentage: null
@@ -55541,6 +56355,9 @@ landscape:
               company_type: For Profit
               industries:
                 - Software
+            image_data:
+              fileName: ozone-cloud-inc.svg
+              hash: DumR7J9hYfxtjkiaCplyzfEAv9yx8xcGn+CURggdPB4=
             best_practice_data:
               badge: false
               percentage: null
@@ -55761,6 +56578,9 @@ landscape:
                 - Information Technology
                 - Internet
                 - Software
+            image_data:
+              fileName: pantheon-tech-s-r-o.svg
+              hash: 1gbWD8yyWNV9qsoS/5GlNjyDR1Q15eagpuXZbuVzTe4=
             best_practice_data:
               badge: false
               percentage: null
@@ -55919,6 +56739,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 88568930304
               effective_ticker: PYPL
+            image_data:
+              fileName: pay-pal-holdings-inc.svg
+              hash: 5Qam8UpPl58fdznDhmVdRDh3/Vc1A9NdH4EPWUwFN38=
             best_practice_data:
               badge: false
               percentage: null
@@ -56033,6 +56856,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 2916000768
               effective_ticker: PEGA
+            image_data:
+              fileName: pegasystems-inc.svg
+              hash: yL4JKytGGBgq+Ue3Aaip5evK+YMYlS6SHIilRYVSFCg=
             best_practice_data:
               badge: false
               percentage: null
@@ -56084,6 +56910,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 3006077440
               effective_ticker: PTON
+            image_data:
+              fileName: peloton-interactive.svg
+              hash: iQgVoobzlUah9MnuAd3Rb2hDS5uo8S/LHB3b6yOAze4=
             best_practice_data:
               badge: false
               percentage: null
@@ -56122,6 +56951,9 @@ landscape:
                 - Network Security
                 - Software
               kind: funding
+            image_data:
+              fileName: penten.svg
+              hash: VLLSIcuLq29vg0IY/ZwN7BA6Je+QfHHc3mu68C6nw9A=
             best_practice_data:
               badge: false
               percentage: null
@@ -56190,6 +57022,9 @@ landscape:
               industries:
                 - Business Intelligence
                 - Mobile
+            image_data:
+              fileName: percepio-ab.svg
+              hash: RUwN8nt/hJYgxXsWydRe07nEhesFej6OO9iaKL15XRM=
             best_practice_data:
               badge: false
               percentage: null
@@ -56396,6 +57231,9 @@ landscape:
             crunchbase_data:
               name: Pier Cloud
               parents: []
+            image_data:
+              fileName: pier-cloud.svg
+              hash: Sr2CO2kqZDGXM3wb5CNc9LFwBa7EpN6m0ksy2PyT6Qo=
             best_practice_data:
               badge: false
               percentage: null
@@ -56496,6 +57334,9 @@ landscape:
                 - Navigation
                 - TV Production
               kind: funding
+            image_data:
+              fileName: pioneer-corporation.svg
+              hash: XYmdB0aFnR172pha3kUZUUUrLkHoQdxvgbDs2oCFGuE=
             best_practice_data:
               badge: false
               percentage: null
@@ -56509,6 +57350,9 @@ landscape:
             crunchbase_data:
               name: Pionix GmbH
               parents: []
+            image_data:
+              fileName: pionix-gmb-h.svg
+              hash: gQ8VLFP2NNqPsYgX+fl+007l31t3wUFkR/HR+cW3dNw=
             best_practice_data:
               badge: false
               percentage: null
@@ -56614,6 +57458,9 @@ landscape:
                 - IT Infrastructure
                 - SaaS
               kind: funding
+            image_data:
+              fileName: platform9-systems-inc.svg
+              hash: PV7V7D3lwTQhCsWmeqLznNV7VXfBkTHmlauir1Ks1F8=
             best_practice_data:
               badge: false
               percentage: null
@@ -56648,6 +57495,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 5908265
               effective_ticker: 6836.T
+            image_data:
+              fileName: plat-home-co-ltd.svg
+              hash: M7Up6YOJj7qB5eMbRfBykS+nRAjnLJJJiaU4nvLM6pg=
             best_practice_data:
               badge: false
               percentage: null
@@ -56790,6 +57640,9 @@ landscape:
                 - Productivity Tools
                 - Software
               kind: funding
+            image_data:
+              fileName: polar-signals-inc.svg
+              hash: 3ynABzJF1SI24iFmJeVOIk26kaIvN6MJdvxx4fcKsHw=
             best_practice_data:
               badge: false
               percentage: null
@@ -56923,6 +57776,9 @@ landscape:
                 - Information Technology
                 - Software
               kind: funding
+            image_data:
+              fileName: portainer-io.svg
+              hash: FGXZ8aiawd+GSJa4PtiFNKoZf3p6mP/6Din9OcoYkzk=
             best_practice_data:
               badge: false
               percentage: null
@@ -57161,6 +58017,9 @@ landscape:
                 - Information Technology
                 - Software
               kind: funding
+            image_data:
+              fileName: prisma-data-inc.svg
+              hash: BYsOQWExESbvGFdzaofzMXMJcymrbalfh6WJx4575nA=
             best_practice_data:
               badge: false
               percentage: null
@@ -57357,6 +58216,9 @@ landscape:
             crunchbase_data:
               name: Proofcraft Pty Ltd
               parents: []
+            image_data:
+              fileName: proofcraft-pty-ltd.svg
+              hash: rtfIXtKUkZRvs9Aw1hX117b+HGoF9LaU4X5CHhjS5nM=
             best_practice_data:
               badge: false
               percentage: null
@@ -57460,6 +58322,9 @@ landscape:
                 - SaaS
                 - Software
               kind: funding
+            image_data:
+              fileName: pulumi.svg
+              hash: +HekUEmVeIgeGKPyVY0p3kv2Pdi97GCqBtRi59s+QMA=
             best_practice_data:
               badge: false
               percentage: null
@@ -57871,6 +58736,9 @@ landscape:
                 - Information Technology
                 - Internet
                 - Operating Systems
+            image_data:
+              fileName: quant-network.svg
+              hash: R0TecUaYaZYOiYltuYeJJL1JQ+I6z9UGifafCYUGpA8=
             best_practice_data:
               badge: false
               percentage: null
@@ -57942,6 +58810,9 @@ landscape:
                 - Finance
                 - Financial Services
               kind: funding
+            image_data:
+              fileName: r3-llc.svg
+              hash: KRMLrQ4XWNS7Tpypv1xT4vOjl0UwfoYwBNqM/Aa62Vg=
             best_practice_data:
               badge: false
               percentage: null
@@ -58184,6 +59055,9 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries: []
+            image_data:
+              fileName: raft.svg
+              hash: b8meFMW/Ihh7U4MvFbPbDWL5AIz5VsemZfRBnCDt/wI=
             best_practice_data:
               badge: false
               percentage: null
@@ -58482,6 +59356,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 132831936512
               effective_ticker: RY
+            image_data:
+              fileName: rbc-capital-markets-llc.svg
+              hash: mPWJk9DN7+8foO5FIgHa3H9zWdYHx+tIbmUO0WOPghg=
             best_practice_data:
               badge: false
               percentage: null
@@ -58648,6 +59525,9 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries: []
+            image_data:
+              fileName: redeploy.svg
+              hash: PENvUrS1GRjU5gPf+yM3CwKr4jnyiaNp++Vv6WaOnJs=
             best_practice_data:
               badge: false
               percentage: null
@@ -58821,6 +59701,9 @@ landscape:
                 - Enterprise Software
                 - Software
               kind: funding
+            image_data:
+              fileName: replicated-inc.svg
+              hash: ROBfhuWW/kcFxr51WuQZvtiQXKsrawNbId5Qk35UIJM=
             best_practice_data:
               badge: false
               percentage: null
@@ -58854,6 +59737,9 @@ landscape:
                 - Mobile
                 - Security
               kind: funding
+            image_data:
+              fileName: reversing-labs.svg
+              hash: tWiYiniAObDy9VgvP9OeYjjF8GDyHx7LaC30PAEcO1k=
             best_practice_data:
               badge: false
               percentage: null
@@ -58869,6 +59755,9 @@ landscape:
             crunchbase_data:
               name: Revolgy
               parents: []
+            image_data:
+              fileName: revolgy.svg
+              hash: K4Eu0IQ/XgF/huYKJzHo5oDW0XzYwXtcL2XFacb3IZg=
             best_practice_data:
               badge: false
               percentage: null
@@ -59230,6 +60119,9 @@ landscape:
                 - Enterprise Software
                 - Software
               kind: funding
+            image_data:
+              fileName: rocket-software-inc.svg
+              hash: uHhCKBg+BAjois7GikE9i0py9dL7XbEJ0iuKhGEl+q0=
             best_practice_data:
               badge: false
               percentage: null
@@ -59264,6 +60156,9 @@ landscape:
                 - Media and Entertainment
                 - Performing Arts
                 - Video
+            image_data:
+              fileName: rodeo-fx.svg
+              hash: xaTBhtNXUf7kED++Ygxh4yyEUDhsFuRrfCxnXWH5ZMs=
             best_practice_data:
               badge: false
               percentage: null
@@ -59367,6 +60262,9 @@ landscape:
               industries:
                 - Energy
                 - Transportation
+            image_data:
+              fileName: rte-reseau-de-transport-d-electricite.svg
+              hash: 9iGbEPED+VKESSLV54AomFACfoZTdEmki5jEJ4RIPlI=
             best_practice_data:
               badge: false
               percentage: null
@@ -59456,6 +60354,9 @@ landscape:
             crunchbase_data:
               name: Saleor Commerce
               parents: []
+            image_data:
+              fileName: saleor-commerce.svg
+              hash: tXZglzTueCBfflqELW1ddWezi/tdyfd/PNnD+2fHxF4=
             best_practice_data:
               badge: false
               percentage: null
@@ -60027,6 +60928,9 @@ landscape:
                 - Software
                 - Web Development
               kind: funding
+            image_data:
+              fileName: sauce-labs-inc.svg
+              hash: Vq/Fam/4V+TGMLHFSrsqEaulk9vLOmbiz5iqxoxB3dQ=
             best_practice_data:
               badge: false
               percentage: null
@@ -60156,6 +61060,9 @@ landscape:
                 - Enterprise Software
                 - Software
               kind: funding
+            image_data:
+              fileName: scality-inc.svg
+              hash: 1lF0p1sBTILKFdVjPgyaAGAIHUCEyiFvGSKK8Oodjfg=
             best_practice_data:
               badge: false
               percentage: null
@@ -60274,6 +61181,9 @@ landscape:
             crunchbase_data:
               name: Schneider Electric
               parents: []
+            image_data:
+              fileName: schneider-electric.svg
+              hash: 56wNsddPpkhLPDvRJxGSq3s4o3ztsrr49F+cgZTMbL0=
             best_practice_data:
               badge: false
               percentage: null
@@ -60301,6 +61211,9 @@ landscape:
               company_type: For Profit
               industries:
                 - Information Technology
+            image_data:
+              fileName: schwarz-it-gmb-h-co-kg.svg
+              hash: SN+48fPc3DhPjxYTN6CY/Lpl3XghP+fXhGzfkn65hiY=
             best_practice_data:
               badge: false
               percentage: null
@@ -60385,6 +61298,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 5946945536
               effective_ticker: SAIC
+            image_data:
+              fileName: science-applications-international-corporation.svg
+              hash: Yv5/eka7fMpG/ZDjb1sNRvFAvlnKGFtdZ3pDfNUUWsU=
             best_practice_data:
               badge: false
               percentage: null
@@ -60607,6 +61523,9 @@ landscape:
                 - Information Technology
                 - Machine Learning
                 - Software
+            image_data:
+              fileName: searce.svg
+              hash: HCztgliWSZgEFSEgXe7MdvhQorGmlIwHuGe36QYAqN8=
             best_practice_data:
               badge: false
               percentage: null
@@ -60643,6 +61562,9 @@ landscape:
                 - SaaS
                 - Software
               kind: funding
+            image_data:
+              fileName: second-state.svg
+              hash: /9Q8sd9J6jX6fDVR64jqXWRNTU5TqrbmZIdtzWBBgOU=
             best_practice_data:
               badge: false
               percentage: null
@@ -60869,6 +61791,9 @@ landscape:
             crunchbase_data:
               name: Senofi
               parents: []
+            image_data:
+              fileName: senofi.svg
+              hash: hZ998BY0AHSQX+kI+YjZrhW14s+PxkXCWdmQ1tUxGDY=
             best_practice_data:
               badge: false
               percentage: null
@@ -60949,6 +61874,9 @@ landscape:
               stockExchange: null
               company_type: ''
               industries: []
+            image_data:
+              fileName: sentara-healthcare-inc.svg
+              hash: VJAwrFQTWymvrHK6U6xR7Meksy5KCHlNCXtxQLdm+q0=
             best_practice_data:
               badge: false
               percentage: null
@@ -60984,6 +61912,9 @@ landscape:
                 - SaaS
                 - Software
               kind: funding
+            image_data:
+              fileName: serverless.svg
+              hash: 7w31576Dewoh/nxr9gvILo7jc3D28hFMxAEC9ySpDQk=
             best_practice_data:
               badge: false
               percentage: null
@@ -61052,6 +61983,9 @@ landscape:
             crunchbase_data:
               name: Shanghai Mandao Technology Co., LTD
               parents: []
+            image_data:
+              fileName: shanghai-mandao-technology-co-ltd.svg
+              hash: AUtx0kgsCf5kH83qD0laEjuZIhT2Mu+NoGo2Gws0tHY=
             best_practice_data:
               badge: false
               percentage: null
@@ -61251,6 +62185,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 809043201
               effective_ticker: 300468.SZ
+            image_data:
+              fileName: shenzhen-forms-syntron-information-co-ltd.svg
+              hash: 7gocvZ1LwjhMOHeI5uGvOeInP845v6SA7gTTDO764RY=
             best_practice_data:
               badge: false
               percentage: null
@@ -61357,6 +62294,9 @@ landscape:
             crunchbase_data:
               name: Shenzhen ZhiLiu Technology Co., Ltd.
               parents: []
+            image_data:
+              fileName: shenzhen-zhi-liu-technology-co-ltd.svg
+              hash: Gxy4igicW+nnap7Tq4aepJuSPDdBFyNVpUdOflBWYYE=
             best_practice_data:
               badge: false
               percentage: null
@@ -61420,6 +62360,9 @@ landscape:
               stockExchange: null
               company_type: ''
               industries: []
+            image_data:
+              fileName: shine-soft-co-ltd.svg
+              hash: tz47vHi+xMykh0HE1qgU/YQHUoqHR506DrwBKVEjVDI=
             best_practice_data:
               badge: false
               percentage: null
@@ -61521,6 +62464,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 47754260480
               effective_ticker: SHOP
+            image_data:
+              fileName: shopify-inc.svg
+              hash: LXJ8gFAqEKL18aMHsNOq1YZi5FAjpPMEWuwh3B8Iz0I=
             best_practice_data:
               badge: false
               percentage: null
@@ -61617,6 +62563,9 @@ landscape:
               company_type: For Profit
               industries:
                 - Security
+            image_data:
+              fileName: sicpa-sa.svg
+              hash: KTgpgNon9UhziMgT7loERfusvXMix9fP4tdeyuZtc+U=
             best_practice_data:
               badge: false
               percentage: null
@@ -61651,6 +62600,9 @@ landscape:
                 - Software
                 - Video
                 - Video Games
+            image_data:
+              fileName: side-fx-side-effects-software-inc.svg
+              hash: EGTQiNjQ4kD+M0lgYI5NNNEvgPu2SxU5WfB1NFpw5bA=
             best_practice_data:
               badge: false
               percentage: null
@@ -61684,6 +62636,9 @@ landscape:
                 - Operating Systems
                 - Software
               kind: funding
+            image_data:
+              fileName: sidero-labs.svg
+              hash: kGFkn/7ngNYq0muU7tw/vQ5f6J/BrqulgyueY6IoDlA=
             best_practice_data:
               badge: false
               percentage: null
@@ -61960,6 +62915,9 @@ landscape:
               industries:
                 - Information Technology
                 - Software
+            image_data:
+              fileName: sighup-s-r-l.svg
+              hash: KLWmnpFlLGmYzEF87tzBARiemzWTlfARg12sQdagShg=
             best_practice_data:
               badge: false
               percentage: null
@@ -61992,6 +62950,9 @@ landscape:
                 - Software
                 - Software Engineering
               kind: funding
+            image_data:
+              fileName: signadot.svg
+              hash: 9wF0Ix5jrJSMmuArS6RsE+xecYh8j1vp2AG/7t2kWFc=
             best_practice_data:
               badge: false
               percentage: null
@@ -62242,6 +63203,9 @@ landscape:
                 - Software
                 - Web Development
               kind: funding
+            image_data:
+              fileName: slim-ai.svg
+              hash: dThW34hWFkgmlS+pdau3nTHiNkjInW12lokDy9ef2Xw=
             best_practice_data:
               badge: false
               percentage: null
@@ -62883,6 +63847,9 @@ landscape:
                 - Information Technology
                 - Software
               kind: funding
+            image_data:
+              fileName: sonatus-inc.svg
+              hash: elTK/IFcHSBPUIApOm3w3TixLr7RC4NZgOmU+7aIkrs=
             best_practice_data:
               badge: false
               percentage: null
@@ -62921,6 +63888,9 @@ landscape:
                 - Open Source
                 - Software
               kind: funding
+            image_data:
+              fileName: sonatype-inc.svg
+              hash: 4ALw0WrXiYY+5GRQnFPIQJPotu59yErxA9ndUGvKH/k=
             best_practice_data:
               badge: false
               percentage: null
@@ -63128,6 +64098,9 @@ landscape:
                 - Information Technology
                 - SaaS
               kind: funding
+            image_data:
+              fileName: spectro-cloud-inc.svg
+              hash: 8Jbs0lW/HYrVXqJ9dU+gzagxHOrhx5mYDZxnKbfw4bY=
             best_practice_data:
               badge: false
               percentage: null
@@ -63553,6 +64526,9 @@ landscape:
                 - Network Security
                 - Software
               kind: funding
+            image_data:
+              fileName: spyderbat.svg
+              hash: SoOjWvdFA9JAvKrB+TC3OxzN4NN3LmfYEDRpv6SQdXg=
             best_practice_data:
               badge: false
               percentage: null
@@ -63619,6 +64595,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 2939108352
               effective_ticker: SQSP
+            image_data:
+              fileName: squarespace-inc.svg
+              hash: Z7QRoM6A+xmE8Z7GG3Z+E8F5Vz27/bi30OdyB3yjf/o=
             best_practice_data:
               badge: false
               percentage: null
@@ -63747,6 +64726,9 @@ landscape:
                 - Cloud Computing
                 - Software
               kind: funding
+            image_data:
+              fileName: stacklet.svg
+              hash: +VSXvTSN9axJ5ukK8HIfa5HiJFM0DGwZwGr8Hu34J7s=
             best_practice_data:
               badge: false
               percentage: null
@@ -63779,6 +64761,9 @@ landscape:
                 - IT Infrastructure
                 - Information Technology
               kind: funding
+            image_data:
+              fileName: stackwatch-inc.svg
+              hash: X1SdibC1RGYKW8VDMobWKzytaeRAQ7EJ4WPMOlspw88=
             best_practice_data:
               badge: false
               percentage: null
@@ -63942,6 +64927,9 @@ landscape:
             crunchbase_data:
               name: Sternum
               parents: []
+            image_data:
+              fileName: sternum.svg
+              hash: ias+YAP8SDOP2ZJEtQlcXwixjiHlbfOeYtu9d9C575s=
             best_practice_data:
               badge: false
               percentage: null
@@ -64045,6 +65033,9 @@ landscape:
               industries:
                 - Information Technology
                 - Software
+            image_data:
+              fileName: storm-reply.svg
+              hash: NEZI47H+aRpsnT9esiDbbYsxB6gZgGcyxHkfmcSvmvY=
             best_practice_data:
               badge: false
               percentage: null
@@ -64079,6 +65070,9 @@ landscape:
                 - Enterprise Software
                 - Software
               kind: funding
+            image_data:
+              fileName: stor-pool-storage-ad.svg
+              hash: ovO+r/miZK2nVvljUTJ+q8UmlNmTydBF8gjk3Yq1rro=
             best_practice_data:
               badge: false
               percentage: null
@@ -64148,6 +65142,9 @@ landscape:
                 - Information Technology
                 - Software
               kind: funding
+            image_data:
+              fileName: strategic-blue.svg
+              hash: RjkG1fxLEgQ5I/sFUxn9yCnGNpqAlxuVZx1r9fXJ4N4=
             best_practice_data:
               badge: false
               percentage: null
@@ -64187,6 +65184,9 @@ landscape:
                 - Software
                 - Web Development
               kind: funding
+            image_data:
+              fileName: stratox-cloud-native.svg
+              hash: sc5J9ofpztVjRUOV7TWb6dm6ZbRjpmfbWkW1k6hfXpc=
             best_practice_data:
               badge: false
               percentage: null
@@ -64219,6 +65219,9 @@ landscape:
                 - Open Source
                 - Software
               kind: funding
+            image_data:
+              fileName: stream-native.svg
+              hash: hiQ49y1L3ojMwwgDP+Kmc+iau/SRKOWbMWBekEaWAnM=
             best_practice_data:
               badge: false
               percentage: null
@@ -64251,6 +65254,9 @@ landscape:
                 - Natural Language Processing
                 - Software
               kind: funding
+            image_data:
+              fileName: structsure-llc.svg
+              hash: LkG1fydCd1drKjfSDA11QRBJ8Wy+Ln3/PH990/qiySo=
             best_practice_data:
               badge: false
               percentage: null
@@ -64373,6 +65379,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 931300928
               effective_ticker: SUMO
+            image_data:
+              fileName: sumo-logic-inc.svg
+              hash: JS3CA+qaq3LT2KKol/OGynd269AkhORR96hq75UwjdY=
             best_practice_data:
               badge: false
               percentage: null
@@ -64423,6 +65432,9 @@ landscape:
             crunchbase_data:
               name: Supercritical
               parents: []
+            image_data:
+              fileName: supercritical.svg
+              hash: syzmReTqBLYMQ0855fxBl6ooX2ZO6E/b1Hl9CyQagWs=
             best_practice_data:
               badge: false
               percentage: null
@@ -64460,6 +65472,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 4352908288
               effective_ticker: SMCI
+            image_data:
+              fileName: super-micro-computer-inc.svg
+              hash: gIYiURu6e1AhTB0+jKKNYZ+DhqbJ2rjRVBiGZBTX/Jo=
             best_practice_data:
               badge: false
               percentage: null
@@ -64553,6 +65568,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 3291017097
               effective_ticker: SUSE.F
+            image_data:
+              fileName: suse-llc.svg
+              hash: ZhUsjd8gxF8WKrkqa8y/CqMfIPRqOUKZcIYhoEUdrKY=
             best_practice_data:
               badge: false
               percentage: null
@@ -64770,6 +65788,9 @@ landscape:
                 - Software
                 - Unified Communications
               kind: funding
+            image_data:
+              fileName: symphony-communication-services-llc.svg
+              hash: TxtqCCa5QX26H3zdv2J5cSw7dPq3ikc8Z69xufbVgp0=
             best_practice_data:
               badge: false
               percentage: null
@@ -64797,6 +65818,9 @@ landscape:
               company_type: ''
               industries:
                 - Software
+            image_data:
+              fileName: synax-gmb-h.svg
+              hash: MfQ8mpzhxScosAJQ/tTWKL5fU9bN0DCD5e7Fx3fL6k8=
             best_practice_data:
               badge: false
               percentage: null
@@ -65151,6 +66175,9 @@ landscape:
                 - SaaS
                 - Security
               kind: funding
+            image_data:
+              fileName: sysdig-inc.svg
+              hash: rlIF2C0VjH1B359UoViOef0ClHLigFkUZ5ytJAIkOH8=
             best_practice_data:
               badge: false
               percentage: null
@@ -65179,6 +66206,9 @@ landscape:
               company_type: For Profit
               industries:
                 - Web Hosting
+            image_data:
+              fileName: sys-eleven-gmb-h.svg
+              hash: ATsF8CNrhRgmwMSy8aCj6Q20KV7rtCKm35oHXrAdZZk=
             best_practice_data:
               badge: false
               percentage: null
@@ -65243,6 +66273,9 @@ landscape:
                 - Consumer Electronics
                 - Software
                 - Virtual Reality
+            image_data:
+              fileName: tafi.svg
+              hash: vctEN05jbssM6DNjknkEUOaWBzuKMOf23OnAuwHq0ho=
             best_practice_data:
               badge: false
               percentage: null
@@ -65363,6 +66396,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 4579136510
               effective_ticker: TATACOMM.NS
+            image_data:
+              fileName: tata-communications-limited.svg
+              hash: nz5s124caGnEib17me7oaKwj3GkigxG6vNH4+jwbkQc=
             best_practice_data:
               badge: false
               percentage: null
@@ -65392,6 +66428,9 @@ landscape:
                 - Internet
                 - Telecommunications
                 - VoIP
+            image_data:
+              fileName: tdt-ag.svg
+              hash: aIWYryVoo5oJaJ39G4HN/c3/OU8K2Xn20WyA8YGdskI=
             best_practice_data:
               badge: false
               percentage: null
@@ -65531,6 +66570,9 @@ landscape:
                 - Consulting
                 - Network Security
                 - Telecommunications
+            image_data:
+              fileName: tech-mahindra-limited.svg
+              hash: eqN6YujrGGRfxZPMEgIdOjwPZcw0vvKsmd6wf8mriV0=
             best_practice_data:
               badge: false
               percentage: null
@@ -65576,6 +66618,9 @@ landscape:
             crunchbase_data:
               name: Technology Innovation Institute
               parents: []
+            image_data:
+              fileName: technology-innovation-institute.svg
+              hash: FWtU5Ha4YgNMlz1IHEVwfNt31S50hblvJ70DeatDYjs=
             best_practice_data:
               badge: false
               percentage: null
@@ -65959,6 +67004,9 @@ landscape:
             crunchbase_data:
               name: Temporal Technologies Inc
               parents: []
+            image_data:
+              fileName: temporal-technologies-inc.svg
+              hash: P3Fj6hr9bcLLtIVrhOHIRjX64kBrsC+iF7jn6OoDCoA=
             best_practice_data:
               badge: false
               percentage: null
@@ -66041,6 +67089,9 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries: []
+            image_data:
+              fileName: tenne-t.svg
+              hash: Jlu1uu0xuFia+cz+IrMOzorH+IRD5Q0Y5T7EAzxDrTE=
             best_practice_data:
               badge: false
               percentage: null
@@ -66154,6 +67205,9 @@ landscape:
                 - Information Technology
                 - Machine Learning
                 - Software
+            image_data:
+              fileName: tera-sky.svg
+              hash: xJjsfcKWHSx7vgh1+4/WcVBgin6eC9R8jkOO9Gm7c1E=
             best_practice_data:
               badge: false
               percentage: null
@@ -66191,6 +67245,9 @@ landscape:
                 - SaaS
                 - Software
               kind: funding
+            image_data:
+              fileName: tetrate-io.svg
+              hash: 51EsRHtH+4VSVmz1jTyiVk8jwg8yMfK4oDTyL159cz0=
             best_practice_data:
               badge: false
               percentage: null
@@ -66223,6 +67280,9 @@ landscape:
                 - Software
                 - Telecommunications
                 - Virtual Reality
+            image_data:
+              fileName: teuto-net-netzdienste-gmb-h.svg
+              hash: KgPn8gGzk6J3Rue+QbB47diytG9+fm9lIbBAifO80ew=
             best_practice_data:
               badge: false
               percentage: null
@@ -66320,6 +67380,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 153533956096
               effective_ticker: TXN
+            image_data:
+              fileName: texas-instruments-incorporated.svg
+              hash: z+Jfg4uAcfwfNqkiTC/WJHeQPgSvulZKb+0Il87J1fU=
             best_practice_data:
               badge: false
               percentage: null
@@ -66384,6 +67447,9 @@ landscape:
               industries:
                 - Information Services
                 - Information Technology
+            image_data:
+              fileName: thebes-cloud-management-limited.svg
+              hash: X/QgbEE8ziYg55zwXHq1rTpmuELuglYEjRaCpTd6ql0=
             best_practice_data:
               badge: false
               percentage: null
@@ -66416,6 +67482,9 @@ landscape:
                 - Cloud Infrastructure
                 - Cloud Storage
                 - Web Hosting
+            image_data:
+              fileName: the-constant-company-llc-vultr.svg
+              hash: PcOaD3y/1Mz4gf7Uitzyh4D+ogTrk9EhrMGPeg41ELE=
             best_practice_data:
               badge: false
               percentage: null
@@ -66478,6 +67547,9 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries: []
+            image_data:
+              fileName: the-guild.svg
+              hash: r99CppNztFASpYdDkRhiC/IgplF819HKcpjLat+JYWA=
             best_practice_data:
               badge: false
               percentage: null
@@ -66622,6 +67694,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 167733821440
               effective_ticker: DIS
+            image_data:
+              fileName: the-walt-disney-studios.svg
+              hash: uYpy2dvlmMk3fnlgUQXk4C4r7ObVummBnzl87VumgB0=
             best_practice_data:
               badge: false
               percentage: null
@@ -66816,6 +67891,9 @@ landscape:
               company_type: For Profit
               industries:
                 - Data Visualization
+            image_data:
+              fileName: tick42.svg
+              hash: EtByzydy/f37XtCOX4cxzmtVW6pQtq6/NJdHBxWhhJY=
             best_practice_data:
               badge: false
               percentage: null
@@ -67292,6 +68370,9 @@ landscape:
                 - Network Security
                 - Software
               kind: funding
+            image_data:
+              fileName: traceable.svg
+              hash: GsfHuG1f67uYds5JQfRLT+K6UKOnPdWrznhsXvuW9qU=
             best_practice_data:
               badge: false
               percentage: null
@@ -67359,6 +68440,9 @@ landscape:
                 - SaaS
                 - Software
               kind: funding
+            image_data:
+              fileName: traefik-labs-sas.svg
+              hash: igXn3coz4Opc6RsxP0AK2n+iEFjxgL+Bwkd0yNuTIIk=
             best_practice_data:
               badge: false
               percentage: null
@@ -67390,6 +68474,9 @@ landscape:
                 - National Security
                 - Security
                 - Software
+            image_data:
+              fileName: trail-of-bits.svg
+              hash: 0kSF5WhvRWEJXW0Nanprx5vIriE60e49D4la78D6nDo=
             best_practice_data:
               badge: false
               percentage: null
@@ -67462,6 +68549,9 @@ landscape:
                 - SaaS
                 - Software
               kind: funding
+            image_data:
+              fileName: transposit-corporation.svg
+              hash: Zky2d0n070IoUwWRI7tNIFoAkjqNpewkIH07zZxm5Qs=
             best_practice_data:
               badge: false
               percentage: null
@@ -67684,6 +68774,9 @@ landscape:
                 - Network Security
                 - Software
               kind: funding
+            image_data:
+              fileName: trilio-data.svg
+              hash: HApWUkbPUsUpr4DG5j+52TfkuYEn8Qe0JdjRyUUxQ/I=
             best_practice_data:
               badge: false
               percentage: null
@@ -67797,6 +68890,9 @@ landscape:
                 - Internet of Things
                 - Linux
                 - Software
+            image_data:
+              fileName: tuxera-inc.svg
+              hash: XvMwyAZ7IKK6OxghgcV/jUOAKOcz8npgvnsaB9iMico=
             best_practice_data:
               badge: false
               percentage: null
@@ -68136,6 +69232,9 @@ landscape:
               industries:
                 - Information Technology
                 - Software
+            image_data:
+              fileName: uffizzi.svg
+              hash: 5X3PDqW4mSmt4osKusGxe8U2dVO1bQcaIsFh+mmwYSA=
             best_practice_data:
               badge: false
               percentage: null
@@ -68217,6 +69316,9 @@ landscape:
                 - Information Services
                 - Information Technology
                 - Software
+            image_data:
+              fileName: umb-ag.svg
+              hash: t0ryl9tnPizOh2AiF4SDFgUE9vPXpbUhAoNHloxgNT0=
             best_practice_data:
               badge: false
               percentage: null
@@ -68298,6 +69400,9 @@ landscape:
                 - Artificial Intelligence
                 - Software
               kind: funding
+            image_data:
+              fileName: union-ai.svg
+              hash: ie55iTz4s4ukKXaeyBLtuJunnzLbc/LcoZjbH3NfSVY=
             best_practice_data:
               badge: false
               percentage: null
@@ -68532,6 +69637,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 12126429184
               effective_ticker: U
+            image_data:
+              fileName: unity-technologies.svg
+              hash: wtbpwvdzXhan8QCfDUHLXuNz/M3jU5d8T6c3AODEDAE=
             best_practice_data:
               badge: false
               percentage: null
@@ -68631,6 +69739,9 @@ landscape:
                 - Information Technology
                 - Software
               kind: funding
+            image_data:
+              fileName: upbound.svg
+              hash: uUnzoNY+PDqBWnCcVlp4uFeE83A4MquRdwbN/i86iNU=
             best_practice_data:
               badge: false
               percentage: null
@@ -68701,6 +69812,9 @@ landscape:
                 - Data Integration
                 - Database
               kind: funding
+            image_data:
+              fileName: upsolver-data-inc.svg
+              hash: eabZqdtepa4wHwYxg7NvCVokFLlYhJPS4SamkH3xuQU=
             best_practice_data:
               badge: false
               percentage: null
@@ -68786,6 +69900,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 70436945920
               effective_ticker: USB
+            image_data:
+              fileName: u-s-bancorp.svg
+              hash: 8+PTL7n9vKzZeeCEDAUmxDbo6pLKaZCdoUFAO6t7M+Y=
             best_practice_data:
               badge: false
               percentage: null
@@ -68885,6 +70002,9 @@ landscape:
                 - Consulting
                 - Information Technology
                 - Software
+            image_data:
+              fileName: va-linux-systems-japan-k-k.svg
+              hash: XLfU9BC3BodE7HlIuAoh1c0xhtopzNSPqrsw6R6Kdak=
             best_practice_data:
               badge: false
               percentage: null
@@ -69141,6 +70261,9 @@ landscape:
                 - Productivity Tools
                 - Software
               kind: funding
+            image_data:
+              fileName: velocity.svg
+              hash: JbEMbvsgK9DoIC7OqThCmyYN8UrIxv5LbDsrP+R1zVo=
             best_practice_data:
               badge: false
               percentage: null
@@ -69170,6 +70293,9 @@ landscape:
                 - E-Commerce Platforms
                 - Software
               kind: funding
+            image_data:
+              fileName: veriken-inc.svg
+              hash: l8OTEjjk2YLxzw/m92Uc5zbnNShHMSPKkBWBTPwUG5k=
             best_practice_data:
               badge: false
               percentage: null
@@ -69240,6 +70366,9 @@ landscape:
               company_type: For Profit
               industries:
                 - Social Media
+            image_data:
+              fileName: vertiv.svg
+              hash: BQlxAsMtKZKqwIHiPl5fztHTmpz4bzM8WwQ0cGcYK8s=
             best_practice_data:
               badge: false
               percentage: null
@@ -69267,6 +70396,9 @@ landscape:
               company_type: ''
               industries:
                 - Software
+            image_data:
+              fileName: ves-llc.svg
+              hash: V84ffuUrc8ZwH/CzFwqqnOV5qRPMUx+MQo5xDAoAF7k=
             best_practice_data:
               badge: false
               percentage: null
@@ -69293,6 +70425,9 @@ landscape:
               company_type: For Profit
               industries:
                 - Cloud Computing
+            image_data:
+              fileName: vexxhost-inc.svg
+              hash: RiMinauRKAoCj8jDSwzhQ1lTd5WtRDsjh6GH36zWGxk=
             best_practice_data:
               badge: false
               percentage: null
@@ -69403,6 +70538,9 @@ landscape:
               stockExchange: null
               company_type: ''
               industries: []
+            image_data:
+              fileName: virtasant.svg
+              hash: 0u8WwLqXQ58/R+LsBsBYvNqU+WPDaU4R9r7ZhFjoU7E=
             best_practice_data:
               badge: false
               percentage: null
@@ -69434,6 +70572,9 @@ landscape:
                 - Mobile
                 - Mobile Devices
                 - Software
+            image_data:
+              fileName: vivo-mobile-communication-co-ltd.svg
+              hash: h+2UOQ6dnwL46saXtYDTVg1CQKjwqpjEdmYX4p2Ud2s=
             best_practice_data:
               badge: false
               percentage: null
@@ -69732,6 +70873,9 @@ landscape:
                 - Cloud Management
                 - SaaS
                 - Software
+            image_data:
+              fileName: wanclouds-inc.svg
+              hash: a6mRpJCIaFKtSWXvA/A102hTPG9fjRn18cfgHDuPOOw=
             best_practice_data:
               badge: false
               percentage: null
@@ -69767,6 +70911,9 @@ landscape:
                 - Software
                 - Wearables
               kind: funding
+            image_data:
+              fileName: wandelbots.svg
+              hash: zU4q0AafyWxzV9+iQ0yjUN9nftgcB9S6thLVYD1u0sw=
             best_practice_data:
               badge: false
               percentage: null
@@ -69954,6 +71101,9 @@ landscape:
                 - Enterprise Software
                 - Software
               kind: funding
+            image_data:
+              fileName: weaveworks-inc.svg
+              hash: NktiDwlJuu+BSQhQoJzjUQGrSMhHrjS+mLSqdQOtodM=
             best_practice_data:
               badge: false
               percentage: null
@@ -70125,6 +71275,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 11089794970
               effective_ticker: WDC.F
+            image_data:
+              fileName: western-digital-corporation.svg
+              hash: PrsXpSUPbK81rCrEOVmmBbJGawb+s7QZELLEVhtmMe4=
             best_practice_data:
               badge: false
               percentage: null
@@ -70226,6 +71379,9 @@ landscape:
                 - B2B
                 - Software
               kind: funding
+            image_data:
+              fileName: wha-tap-labs-inc.svg
+              hash: sfXMIt8xDHdb8ckpoJQubPTFpHon9bvsTiVkj+FCnQQ=
             best_practice_data:
               badge: false
               percentage: null
@@ -70263,6 +71419,9 @@ landscape:
                 - Open Source
                 - Software
               kind: funding
+            image_data:
+              fileName: white-source-ltd.svg
+              hash: wA1NUsAIaAYSTGE4oUMKfWZ2kz9bCYxAl9BNhEmI18I=
             best_practice_data:
               badge: false
               percentage: null
@@ -70298,6 +71457,9 @@ landscape:
                 - Network Hardware
                 - Private Cloud
                 - Software
+            image_data:
+              fileName: whitestack-llc.svg
+              hash: H6p2jmSRPZEweYQIf/jKaPOvBISh6GE7FBDGFf1VgZI=
             best_practice_data:
               badge: false
               percentage: null
@@ -70525,6 +71687,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 25645162460
               effective_ticker: WIPRO.NS
+            image_data:
+              fileName: wipro-limited.svg
+              hash: lf/3/68tJyxt33sDjwBbLGLBUQBeemREnMFlWcPJRH8=
             best_practice_data:
               badge: false
               percentage: null
@@ -70700,6 +71865,9 @@ landscape:
                 - Manufacturing
                 - Sports
               kind: funding
+            image_data:
+              fileName: wuhan-lotus-technology-co-ltd.svg
+              hash: GcYXE+gYa+M86WlDqdhW16uRAVdGZTr4aSTRQpKXEgE=
             best_practice_data:
               badge: false
               percentage: null
@@ -70965,6 +72133,9 @@ landscape:
             yahoo_finance_data:
               market_cap: 19343871081
               effective_ticker: 4689.T
+            image_data:
+              fileName: yahoo-japan-corporation.svg
+              hash: tO2JOvm4fxloyMp2yD/66HwQBfnUjwjGYLTu4b7czBI=
             best_practice_data:
               badge: false
               percentage: null
@@ -71050,6 +72221,9 @@ landscape:
                 - Professional Services
                 - Software
                 - Software Engineering
+            image_data:
+              fileName: yld-limited.svg
+              hash: hTpziuCFrNd4Bea5skVKzvR82z6u77LRf4EuCJNa3KE=
             best_practice_data:
               badge: false
               percentage: null
@@ -71381,6 +72555,9 @@ landscape:
                 - SaaS
                 - Software
               kind: funding
+            image_data:
+              fileName: zilliz.svg
+              hash: aYVaAO2wuvTYUWqStlns2yTgj4uy2of8UyMjwSKjdzg=
             best_practice_data:
               badge: false
               percentage: null
@@ -71411,6 +72588,9 @@ landscape:
                 - Information Technology
                 - Internet
                 - Software
+            image_data:
+              fileName: zoi.svg
+              hash: XW767udSt/Nu2zfbtNDXvMfdB3UmpApN22RM+t7mBJ4=
             best_practice_data:
               badge: false
               percentage: null
@@ -71510,6 +72690,9 @@ landscape:
               industries:
                 - Data Center
                 - Information Technology
+            image_data:
+              fileName: zuta-core.svg
+              hash: 2qVkW9KdUaZCJUjkPMJyRev3hyEwIfuTYYEJXMuviaw=
             best_practice_data:
               badge: false
               percentage: null
