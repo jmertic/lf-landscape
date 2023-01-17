@@ -1,3 +1,5 @@
+# **NOTE: If your company logo needs changed, please submit an [LF Support Request](https://jira.linuxfoundation.org/plugins/servlet/desk/portal/23/create/563) rather than changing here**
+
 ### Pre-submission checklist:
 
 *Please check each of these after submitting your pull request:*
