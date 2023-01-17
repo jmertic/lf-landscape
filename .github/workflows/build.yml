@@ -31,7 +31,7 @@ jobs:
         working-directory: ./main
         run: |
           ../landscape-tools/landscapemembers.py
-          cp cached_logos/red-hat-inc.svg hosted_logos/red_hat_inc.svg
+          cp images/red-hat-inc.svg hosted_logos/red-hat-inc.svg
       - name: Save missing.csv file
         uses: actions/upload-artifact@v3
         with:
