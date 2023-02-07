@@ -53,6 +53,7 @@ jobs:
           npm install
           PROJECT_PATH=../landscape node tools/removeQuotes
           PROJECT_PATH=../landscape node tools/pruneExtraEntries
+          PROJECT_PATH=../landscape node tools/removeUnusedHostedLogos
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
