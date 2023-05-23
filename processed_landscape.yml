@@ -10645,7 +10645,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 81281347
+                  value: 81281657
                   color: '#b07219'
                 - name: JavaScript
                   value: 1418898
@@ -10689,20 +10689,20 @@ landscape:
                   value: 1023
                   color: '#563d7c'
               contributions: >-
-                13;15;92;72;36;34;96;33;21;34;93;106;10;37;50;117;34;19;51;131;70;33;113;149;223;118;42;68;101;87;47;43;55;33;38;14;36;83;38;37;35;123;39;48;92;59;20;63;57;31;29;39
-              firstWeek: 2022-05-23Z
-              stars: 978
+                14;110;57;38;30;96;38;24;69;107;48;17;42;68;98;24;19;65;130;75;33;103;232;158;95;54;60;135;55;64;16;59;33;39;11;42;94;25;33;33;125;58;43;91;49;18;65;59;38;33;32;5
+              firstWeek: 2022-05-29Z
+              stars: 982
               license: Apache License 2.0
               description: Egeria core
-              latest_commit_date: '2023-05-12T13:32:09Z'
-              latest_commit_link: /odpi/egeria/commit/d818f74b72ae1220de363a8907df305f49c375fe
+              latest_commit_date: '2023-05-23T11:58:13Z'
+              latest_commit_link: /odpi/egeria/commit/d362cbbeb3de2ea670485c3afe5ef4fec6baef90
               release_date: '2023-03-29T12:14:14Z'
               release_link: https://github.com/odpi/egeria/releases
               contributors_count: 75
               contributors_link: https://github.com/odpi/egeria/graphs/contributors
             repos:
               - url: https://github.com/odpi/egeria
-                stars: 667
+                stars: 671
               - url: https://github.com/odpi/data-governance
                 stars: 94
               - url: https://github.com/odpi/egeria-ui
@@ -22477,6 +22477,7 @@ landscape:
             name: Dell Technologies
             homepage_url: https://delltechnologies.com/
             logo: dell_technologies.svg
+            twitter: https://twitter.com/Dell
             crunchbase: https://www.crunchbase.com/organization/dell-technologies-capital
             crunchbase_data:
               name: Dell Technologies Capital
@@ -24836,6 +24837,48 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-03-21T21:44:38.000Z
           - item:
+            name: AIA
+            homepage_url: https://aia.com/
+            logo: aia.svg
+            twitter: https://twitter.com/AIAGroup_Press
+            crunchbase: https://www.crunchbase.com/organization/aia-group
+            crunchbase_data:
+              name: AIA Group
+              description: AIA Group Limited and its subsidiaries comprise the largest independent publicly listed pan-Asian life insurance group.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.aia.com/
+              city: Central
+              region: Hong Kong Island
+              country: Hong Kong
+              twitter: http://twitter.com/AIAGroup_Press
+              linkedin: https://www.linkedin.com/company/aia/
+              acquisitions:
+                - date: '2017-09-21'
+                  acquiree: Commonwealth Bank of Australia - life insurance business
+                  price: 3013438349
+                - date: '2022-03-04'
+                  acquiree: Blue Cross
+                  price: 278000000
+              parents: []
+              ticker: 1299.HK
+              stockExchange: hkg
+              company_type: For Profit
+              industries:
+                - Health Insurance
+                - Insurance
+                - Wealth Management
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 115955818111
+              effective_ticker: 1299.HK
+            image_data:
+              fileName: aia.svg
+              hash: yhN+vot9TCB+ApXWxwdf7tydpFGIWJ+qOtgjBf6tYhY=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: AIM (agile-im.de)
             homepage_url: https://agile-im.de/
             logo: aim_agile-imde.svg
@@ -25006,6 +25049,39 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-11T12:23:21.000Z
+          - item:
+            name: Airwayz
+            homepage_url: https://airwayz.co/
+            logo: airwayz.svg
+            twitter: https://twitter.com/AirwayzDrones
+            crunchbase: https://www.crunchbase.com/organization/airwayz-drones
+            crunchbase_data:
+              name: Airwayz
+              description: Airwayz is a provider of management system for unmanned traffic management (UTM) and drone fleets.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.airwayz.co
+              city: Tel Aviv
+              region: Tel Aviv
+              country: Israel
+              twitter: null
+              linkedin: https://www.linkedin.com/company/airwayz/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence
+                - Autonomous Vehicles
+                - Cloud Management
+                - Drone Management
+                - Drones
+            image_data:
+              fileName: airwayz.svg
+              hash: t6kgnDFP+aW1aSBypYAVUKmp5IQXDo0sQiDIhv/VsRE=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Aisin Corporation
             homepage_url: https://aisin.com/en
@@ -26001,6 +26077,46 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-19T21:58:26.000Z
           - item:
+            name: Amundi Asset Management
+            homepage_url: https://amundi.com/
+            logo: amundi_asset_management.svg
+            twitter: https://twitter.com/Amundi_ENG
+            crunchbase: https://www.crunchbase.com/organization/amundi-private-equity-funds
+            crunchbase_data:
+              name: Amundi Private Equity Funds
+              description: Amundi Private Equity Funds, an Amundi asset management subsidiary, specialises in private equity and unlisted infrastructure investments.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.amundi.com
+              city: Paris
+              region: Ile-de-France
+              country: France
+              twitter: http://twitter.com/Amundi_FR
+              linkedin: https://www.linkedin.com/company/732914
+              acquisitions:
+                - date: '2014-12-08'
+                  acquiree: FrogPubs
+                - date: '2016-05-23'
+                  acquiree: Kleinwort Benson Investors
+                - date: '2016-12-13'
+                  acquiree: Pioneer Investments
+                  price: 3550000000
+                - date: '2021-05-27'
+                  acquiree: The Reefer Group
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Finance
+                - Financial Services
+                - Venture Capital
+            image_data:
+              fileName: amundi-asset-management.svg
+              hash: BDrHWdD7Hc3Z4xToF7CbSE0qYTl3RJ1FGS4uSWDdT2Y=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Anaconda, Inc
             homepage_url: https://anaconda.com/
             logo: anaconda_inc.svg
@@ -26849,7 +26965,6 @@ landscape:
             name: ArangoDB
             homepage_url: https://arangodb.com/
             logo: arangodb.svg
-            twitter: https://twitter.com/arangodb
             crunchbase: https://www.crunchbase.com/organization/arangodb
             crunchbase_data:
               name: ArangoDB
@@ -26899,9 +27014,9 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-03-09T18:47:18.000Z
           - item:
-            name: ArcherOS Software Co., Ltd.
+            name: ArcherOS Cloud Software Co., Ltd.
             homepage_url: https://archeros.com/
-            logo: archeros_software_co_ltd.svg
+            logo: archeros_cloud_software_co_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/archeros-software
             crunchbase_data:
               name: ArcherOS Software
@@ -26920,7 +27035,7 @@ landscape:
               company_type: For Profit
               industries: []
             image_data:
-              fileName: archer-os-software-co-ltd.svg
+              fileName: archer-os-cloud-software-co-ltd.svg
               hash: D69+W3Fx7RQE57d7m+s0a+kk5OX8RYK8nOMQe9VpjBk=
             best_practice_data:
               badge: false
@@ -28952,6 +29067,22 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-08-11T15:06:18.000Z
           - item:
+            name: Axiado
+            homepage_url: https://axiado.com/
+            logo: axiado.svg
+            twitter: https://twitter.com/AxiadoCorp
+            organization:
+              name: Axiado
+            crunchbase_data:
+              name: Axiado
+              parents: []
+            image_data:
+              fileName: axiado.svg
+              hash: 5KgslTeAaOtnqxx2Fpnpow2+RqlCwP45A3rZMD9Mb+8=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Axiata Digital Labs
             homepage_url: https://axiatadigitallabs.com/
             logo: axiata_digital_labs.svg
@@ -30014,6 +30145,21 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: BeyondEdge
+            homepage_url: https://beyondedgenetworks.com/
+            logo: beyondedge.svg
+            organization:
+              name: BeyondEdge
+            crunchbase_data:
+              name: BeyondEdge
+              parents: []
+            image_data:
+              fileName: beyond-edge.svg
+              hash: MhQ/yxPib3ywD96CTCD/JkjEr/RwHdpBuTPN4SYNk/8=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Biqmind Pte Ltd
             homepage_url: https://biqmind.com/
             logo: biqmind_pte_ltd.svg
@@ -30046,6 +30192,22 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-03-27T03:34:41.000Z
+          - item:
+            name: BISDN
+            homepage_url: https://bisdn.de/
+            logo: bisdn.svg
+            twitter: https://twitter.com/BISDN_GmbH
+            organization:
+              name: BISDN
+            crunchbase_data:
+              name: BISDN
+              parents: []
+            image_data:
+              fileName: bisdn.svg
+              hash: m3lAA/oqL9BmolSc392jdMe0Zlp5fVK+guWgFbbNWy4=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Bitrock
             homepage_url: https://bitrock.it/
@@ -31180,6 +31342,129 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Bull SAS
+            homepage_url: https://bull.com/
+            logo: bull_sas.svg
+            twitter: https://twitter.com/Atos
+            crunchbase: https://www.crunchbase.com/organization/atos
+            crunchbase_data:
+              name: Atos
+              description: Atos provides consulting services and solutions, ranging from supporting strategy development to enterprise solutions and technology.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://atos.net
+              city: Bezons
+              region: Ile-de-France
+              country: France
+              twitter: http://twitter.com/atos
+              linkedin: https://www.linkedin.com/company/atos
+              acquisitions:
+                - date: '2002-06-05'
+                  acquiree: KPMG INDIA
+                - date: '2004-01-29'
+                  acquiree: SchlumbergerSema
+                - date: '2005-01-19'
+                  acquiree: Contrado Technologies
+                - date: '2010-08-26'
+                  acquiree: Venture Infotek Global Private
+                - date: '2012-04-15'
+                  acquiree: blueKiwi software
+                - date: '2014-05-26'
+                  acquiree: BULL
+                  price: 845971742
+                - date: '2014-06-11'
+                  acquiree: Atos Consulting
+                - date: '2014-06-11'
+                  acquiree: Cambridge Technology Partners
+                - date: '2015-10-01'
+                  acquiree: AMG.net S.A.
+                - date: '2015-11-03'
+                  acquiree: Unify
+                  price: 372704851
+                - date: '2016-09-12'
+                  acquiree: Anthelio
+                  price: 275000000
+                - date: '2017-01-02'
+                  acquiree: Engage ESM
+                - date: '2017-01-11'
+                  acquiree: Infopartners OOD
+                - date: '2017-02-17'
+                  acquiree: zData Inc.
+                - date: '2017-10-02'
+                  acquiree: Siemens Convergence Creators
+                - date: '2017-10-04'
+                  acquiree: Conduent - Breakaway Group business
+                - date: '2017-10-04'
+                  acquiree: Pursuit Healthcare Advisors
+                - date: '2017-10-24'
+                  acquiree: Imakumo
+                - date: '2018-04-11'
+                  acquiree: Air-Lynx
+                - date: '2018-07-22'
+                  acquiree: Syntel
+                - date: '2019-10-01'
+                  acquiree: IDnomic
+                - date: '2019-12-18'
+                  acquiree: Maven Wave
+                - date: '2020-04-22'
+                  acquiree: Miner & Kasch Data Science
+                - date: '2020-06-24'
+                  acquiree: Paladion
+                - date: '2020-07-27'
+                  acquiree: EcoAct
+                - date: '2020-10-22'
+                  acquiree: Eagle Creek Software Services
+                - date: '2020-10-22'
+                  acquiree: SEC Consult
+                - date: '2020-12-16'
+                  acquiree: Motiv ICT Security
+                - date: '2021-01-12'
+                  acquiree: In Fidem
+                - date: '2021-02-22'
+                  acquiree: Profit4SF
+                - date: '2021-04-20'
+                  acquiree: Cryptovision
+                - date: '2021-04-20'
+                  acquiree: Ipsotek
+                - date: '2021-04-20'
+                  acquiree: Processia
+                - date: '2021-07-27'
+                  acquiree: Ideal Group
+                - date: '2021-07-27'
+                  acquiree: Nimbix
+                - date: '2021-07-27'
+                  acquiree: Visual BI Solutions
+                - date: '2021-10-20'
+                  acquiree: Datasentics
+                - date: '2021-12-01'
+                  acquiree: AppCentrica
+                - date: '2021-12-07'
+                  acquiree: Cloudreach
+              parents: []
+              ticker: AEXAF
+              stockExchange: otcpink
+              company_type: For Profit
+              industries:
+                - Business Development
+                - Consulting
+                - Enterprise Software
+                - Information Services
+                - Information Technology
+                - Outsourcing
+                - Software
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 1391593472
+              effective_ticker: AEXAF
+            image_data:
+              fileName: bull-sas.svg
+              hash: co8ogdtzHtrxMILBTWOQivBwl1cRz3OZoHne+jvUUPA=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2023-04-20T14:47:47.000Z
+          - item:
             name: Bunnyshell
             homepage_url: https://bunnyshell.com/
             logo: bunnyshell.svg
@@ -32177,6 +32462,35 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T10:42:08.000Z
+          - item:
+            name: Certizen Limited
+            homepage_url: https://certizen.com/
+            logo: certizen_limited.svg
+            crunchbase: https://www.crunchbase.com/organization/certizen
+            crunchbase_data:
+              name: Certizen
+              description: Certizen providing electronic identity, electronic signature solutions and services.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://www.certizen.com/
+              city: Cyberport
+              region: Hong Kong Island
+              country: Hong Kong
+              twitter: null
+              linkedin: https://www.linkedin.com/company/certizen-limited/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - E-Commerce
+                - E-Signature
+            image_data:
+              fileName: certizen-limited.svg
+              hash: FcIa+sujIYDZ8nCm5i+jt/oy4kU4nWC/OnUrBVNavQs=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Chainguard
             homepage_url: https://chainguard.dev/
@@ -33570,7 +33884,7 @@ landscape:
                 - Software
             image_data:
               fileName: cloud-control-inc.svg
-              hash: 8T1quaAZfhvvsj2goX09UWQQB+cLuBd/T6hEd3oDkWo=
+              hash: g8RTRNYk8LbCVGx1h3hQ/cR7wEMM+g1RgAgDP3opNpU=
             best_practice_data:
               badge: false
               percentage: null
@@ -34136,7 +34450,7 @@ landscape:
               kind: funding
             image_data:
               fileName: cloudsmith-ltd.svg
-              hash: WybGAhcZCqRXqLZlvgHcSPA77480nWy0JZA9OmsWS1s=
+              hash: LLCnt+m5X0r7RH3EyMRgVrRUeb+kBFjghZCLKjqI5jQ=
             best_practice_data:
               badge: false
               percentage: null
@@ -34179,6 +34493,22 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-19T10:03:01.000Z
+          - item:
+            name: Cloudstratex
+            homepage_url: https://cloudstratex.com/
+            logo: cloudstratex.svg
+            twitter: https://twitter.com/CloudStratex
+            organization:
+              name: Cloudstratex
+            crunchbase_data:
+              name: Cloudstratex
+              parents: []
+            image_data:
+              fileName: cloudstratex.svg
+              hash: z3w0pg5WoLYia93vRzDdNcSqxPcyHR/o1SLixihT+eQ=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Cloudthread
             homepage_url: https://cloudthread.io/
@@ -37061,6 +37391,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T21:07:10.000Z
           - item:
+            name: Dataverse
+            homepage_url: https://dataverse-os.com/
+            logo: dataverse.svg
+            organization:
+              name: Dataverse
+            crunchbase_data:
+              name: Dataverse
+              parents: []
+            image_data:
+              fileName: dataverse.svg
+              hash: PP5aBy0vbHl2yIUUgbTlqud50dlxLBUNJmlDNEmSo1U=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Datree.io
             homepage_url: https://datree.io/
             logo: datreeio.svg
@@ -38834,6 +39179,21 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-18T09:21:23.000Z
+          - item:
+            name: DreamBig Semiconductor Inc.
+            homepage_url: https://dreambigsemi.com/
+            logo: dreambig_semiconductor_inc.svg
+            organization:
+              name: DreamBig Semiconductor Inc.
+            crunchbase_data:
+              name: DreamBig Semiconductor Inc.
+              parents: []
+            image_data:
+              fileName: dream-big-semiconductor-inc.svg
+              hash: HM65E3XeIXMo05nJAGc1XxzpiaBjLsY1vCGaG774yFQ=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: DrimAES
             homepage_url: https://drimaes.com/
@@ -50390,24 +50750,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-12T07:30:11.000Z
           - item:
-            name: Liquid Avatar Operations Inc.
-            homepage_url: https://liquidavatar.com/
-            logo: liquid_avatar_operations_inc.svg
-            twitter: https://twitter.com/liquid_avatar
-            organization:
-              name: Liquid Avatar Operations Inc.
-            crunchbase_data:
-              name: Liquid Avatar Operations Inc.
-              parents: []
-            image_data:
-              fileName: liquid-avatar-operations-inc.svg
-              hash: dWcdzvKGUvmipFk/L/W7+FOpkA0bsm2hZ2AldQmkCII=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-19T17:32:50.000Z
-          - item:
             name: Liquid Reply
             homepage_url: https://liquidreply.com/
             logo: liquid_reply.svg
@@ -51920,6 +52262,46 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T10:03:00.000Z
+          - item:
+            name: Mend.io
+            homepage_url: https://mend.io/
+            logo: mendio.svg
+            twitter: https://twitter.com/Mend_io
+            crunchbase: https://www.crunchbase.com/organization/white-source
+            crunchbase_data:
+              name: Mend
+              description: Mend is a platform designed to automate open source security and compliance processes.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: https://www.mend.io/
+              city: Boston
+              region: Massachusetts
+              country: United States
+              twitter: https://twitter.com/mend_io
+              linkedin: https://www.linkedin.com/mend-io
+              acquisitions:
+                - date: '2019-11-13'
+                  acquiree: Renovate
+                - date: '2021-04-20'
+                  acquiree: Diffend
+              parents: []
+              funding: 121150000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cyber Security
+                - Developer Tools
+                - Open Source
+                - Software
+              kind: funding
+            image_data:
+              fileName: mend-io.svg
+              hash: XPYazTYrWWsye6/kxzIYeQPOkO8E4SjciD/ZY56V064=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2023-04-20T14:41:57.000Z
           - item:
             name: Mercedes-Benz Tech Innovation GmbH
             homepage_url: https://daimler-tss.com/
@@ -55682,6 +56064,36 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-03-23T18:08:01.000Z
           - item:
+            name: Opus Security
+            homepage_url: https://opus.security/
+            logo: opus_security.svg
+            twitter: https://twitter.com/opus_security
+            crunchbase: https://www.crunchbase.com/organization/opus-security
+            crunchbase_data:
+              name: Opus Security
+              description: Cloud Security Orchestration and Remediation Platform
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://opus.security
+              city: Tel Aviv
+              region: Tel Aviv
+              country: Israel
+              twitter: null
+              linkedin: https://www.linkedin.com/company/opussecurity
+              acquisitions: []
+              parents: []
+              funding: 10000000
+              stockExchange: null
+              company_type: For Profit
+              industries: []
+              kind: funding
+            image_data:
+              fileName: opus-security.svg
+              hash: Pb2EuwnCIm2tQsh65E261u7aK1YKNZVp55F0HvYCFzA=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Orange SA
             homepage_url: https://orange.com/
             logo: orange_sa.svg
@@ -57860,6 +58272,38 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T23:19:00.000Z
+          - item:
+            name: Prodvana
+            homepage_url: https://prodvana.io/
+            logo: prodvana.svg
+            crunchbase: https://www.crunchbase.com/organization/prodvana
+            crunchbase_data:
+              name: Prodvana
+              description: SaaS, Developer Tools, Apps, Software, CD
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.prodvana.io/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/prodvana/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Developer Platform
+                - Developer Tools
+                - Information Technology
+                - SaaS
+                - Software
+            image_data:
+              fileName: prodvana.svg
+              hash: 82XvWWU+y5BRF/vRBCaWzsGxaxntsLhXMAaVP0/vlJU=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: PRODYNA SE
             homepage_url: https://prodyna.com/
@@ -62020,36 +62464,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Shenzhen Jiangxing Intelligence Inc.
-            homepage_url: https://jiangxing.ai/
-            logo: shenzhen_jiangxing_intelligence_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/jiangxing-intelligence
-            crunchbase_data:
-              name: Jiangxing Intelligence
-              description: Jiangxing Intelligence is an edge computing service provider.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: https://jiangxingai.com/
-              city: Nanjing
-              region: Jiangsu
-              country: China
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              funding: 40117579
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-              kind: funding
-            image_data:
-              fileName: shenzhen-jiangxing-intelligence-inc.svg
-              hash: M9IxLy/MA1/uyPO1ztG2po+hC5L+A/DjoauAkf4qzvE=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Shenzhen Wise2C Technology Co.,Ltd
             homepage_url: https://wise2c.com/
             logo: shenzhen_wise2c_technology_coltd.svg
@@ -63626,7 +64040,6 @@ landscape:
             name: Solo.io, Inc.
             homepage_url: https://solo.io/
             logo: soloio_inc.svg
-            twitter: https://twitter.com/soloio_inc
             crunchbase: https://www.crunchbase.com/organization/solo-io
             crunchbase_data:
               name: Solo.io
@@ -68905,7 +69318,6 @@ landscape:
             name: U.S. Bank National Assoc.
             homepage_url: https://usbank.com/
             logo: us_bank_national_assoc.svg
-            twitter: https://twitter.com/usbank
             crunchbase: https://www.crunchbase.com/organization/u-s-bancorp
             crunchbase_data:
               name: U.S. Bancorp
@@ -70333,7 +70745,6 @@ landscape:
             name: VictoriaMetrics
             homepage_url: https://victoriametrics.com/
             logo: victoriametrics.svg
-            twitter: https://twitter.com/VictoriaMetrics
             crunchbase: https://www.crunchbase.com/organization/victoriametrics
             crunchbase_data:
               name: VictoriaMetrics
@@ -71168,46 +71579,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2017-07-25T07:15:34.000Z
-          - item:
-            name: WhiteSource Ltd.
-            homepage_url: https://whitesourcesoftware.com/
-            logo: whitesource_ltd.svg
-            twitter: https://twitter.com/Mend_io
-            crunchbase: https://www.crunchbase.com/organization/white-source
-            crunchbase_data:
-              name: Mend
-              description: Mend is a platform designed to automate open source security and compliance processes.
-              num_employees_min: 251
-              num_employees_max: 500
-              homepage: https://www.mend.io/
-              city: Boston
-              region: Massachusetts
-              country: United States
-              twitter: https://twitter.com/mend_io
-              linkedin: https://www.linkedin.com/mend-io
-              acquisitions:
-                - date: '2019-11-13'
-                  acquiree: Renovate
-                - date: '2021-04-20'
-                  acquiree: Diffend
-              parents: []
-              funding: 121150000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cyber Security
-                - Developer Tools
-                - Open Source
-                - Software
-              kind: funding
-            image_data:
-              fileName: white-source-ltd.svg
-              hash: wA1NUsAIaAYSTGE4oUMKfWZ2kz9bCYxAl9BNhEmI18I=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T14:41:57.000Z
           - item:
             name: Whitestack LLC
             homepage_url: https://whitestack.com/
@@ -72792,6 +73163,22 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T11:16:10.000Z
           - item:
+            name: apiaddicts
+            homepage_url: https://apiaddicts.org/
+            logo: apiaddicts.svg
+            twitter: https://twitter.com/APIAddicts
+            organization:
+              name: apiaddicts
+            crunchbase_data:
+              name: apiaddicts
+              parents: []
+            image_data:
+              fileName: apiaddicts.svg
+              hash: Dq53NrGik5I6MfJrmbsbvEQMg/KkudbPv+VokvT6HEA=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Arizona State University
             homepage_url: https://asu.edu/
             logo: arizona_state_university.svg
@@ -73736,7 +74123,6 @@ landscape:
             name: Cloud Native Computing Foundation
             homepage_url: https://cncf.io/
             logo: cloud_native_computing_foundation.svg
-            twitter: https://twitter.com/CloudNativeFdn
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             crunchbase_data:
               name: Cloud Native Computing Foundation (CNCF)
@@ -73821,6 +74207,39 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-01-18T05:10:29.000Z
+          - item:
+            name: Community Alliance with Family Farmers
+            homepage_url: https://caff.org/
+            logo: community_alliance_with_family_farmers.svg
+            twitter: https://twitter.com/famfarms
+            crunchbase: https://www.crunchbase.com/organization/caff-eb90
+            crunchbase_data:
+              name: CAFF
+              description: CAFF is a non-profit organization that focuses on building sustainable food and farming systems through policies and ecological programs.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://caff.org
+              city: California
+              region: Kentucky
+              country: United States
+              twitter: https://twitter.com/famfarms
+              linkedin: 'https://www.linkedin.com/company/community-alliance-with-family-farmers '
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - AgTech
+                - Agriculture
+                - Farming
+                - Non Profit
+                - Sustainability
+            image_data:
+              fileName: community-alliance-with-family-farmers.svg
+              hash: /x2yVBD6kRC4G0x6l8w5gbjuRvYuHyhWVba+4Oj/NKs=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Compute Canada
             homepage_url: https://computecanada.ca/
@@ -73986,6 +74405,33 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: null
+          - item:
+            name: CT Insurance Dept
+            homepage_url: https://portal.ct.gov/cid
+            logo: ct_insurance_dept.svg
+            crunchbase: https://www.crunchbase.com/organization/connecticut-dept-of-economic-development
+            crunchbase_data:
+              name: CT Dept. of Economic Development
+              description: CT Dept. of Economic Development develops and implements strategies to attract and retain businesses and jobs in Connecticut.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: http://www.ct.gov
+              city: Hartford
+              region: Connecticut
+              country: United States
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
+            image_data:
+              fileName: ct-insurance-dept.svg
+              hash: 54GVOWkgReK2fiV4S/9OLK1IRyRgVFwCt2NQdKDHWGI=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Data Foundation
             homepage_url: https://datafoundation.org/
@@ -74170,7 +74616,6 @@ landscape:
             name: Digital Pound Foundation
             homepage_url: https://digitalpoundfoundation.com/
             logo: digital_pound_foundation.svg
-            twitter: https://twitter.com/digitalpoundfdn
             crunchbase: https://www.crunchbase.com/organization/digital-pound-foundation
             crunchbase_data:
               name: Digital Pound Foundation
@@ -77480,6 +77925,39 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T21:00:28.000Z
+          - item:
+            name: NHK (Japan Broadcasting Corporation)
+            homepage_url: https://nhk.or.jp/
+            logo: nhk_japan_broadcasting_corporation.svg
+            twitter: https://twitter.com/nhk
+            crunchbase: https://www.crunchbase.com/organization/nhk-world
+            crunchbase_data:
+              name: NHK World
+              description: NHK World is Japan's sole public broadcaster that provides its latest information through radio and online to a global audience.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.nhk.or.jp/nhkworld
+              city: Tokyo
+              region: Tokyo
+              country: Japan
+              twitter: https://www.twitter.com/nhk_pr
+              linkedin: null
+              acquisitions: []
+              parents: []
+              funding: 12400
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Broadcasting
+                - News
+                - Social Media
+              kind: funding
+            image_data:
+              fileName: nhk-japan-broadcasting-corporation.svg
+              hash: xHgEBlR3BnaCVxrl1sOtQr/Tc5d4azThBbLq+UW3ruw=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: NHSX
             homepage_url: https://nhs.net/
