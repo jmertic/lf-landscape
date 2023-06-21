@@ -2241,11 +2241,6 @@ landscape:
             twitter: https://twitter.com/AndesDigital
             crunchbase: https://www.crunchbase.com/organization/andes-digital
           - item:
-            name: Anjuna Security, Inc.
-            homepage_url: https://anjuna.io/
-            logo: anjuna_security_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/anjuna
-          - item:
             name: Anodot
             homepage_url: https://anodot.com/
             logo: anodot.svg
@@ -2266,6 +2261,11 @@ landscape:
             homepage_url: https://antmicro.com/
             logo: antmicro_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/antmicro
+          - item:
+            name: Antoine Cotten
+            homepage_url: https://unikraft.io/
+            logo: antoine_cotten.svg
+            crunchbase: https://www.crunchbase.com/organization/unikraft
           - item:
             name: anynines GmbH
             homepage_url: https://anynines.com/
@@ -2415,7 +2415,7 @@ landscape:
             twitter: https://twitter.com/F5
             crunchbase: https://www.crunchbase.com/organization/f5-networks
           - item:
-            name: Aspen Technology, Inc.
+            name: Aspen Technology, Inc
             homepage_url: https://aspentech.com/
             logo: aspen_technology_inc.svg
             crunchbase: https://www.crunchbase.com/organization/aspen-technology
@@ -3102,6 +3102,13 @@ landscape:
             twitter: https://twitter.com/CelerData
             crunchbase: https://www.crunchbase.com/organization/celerdata
           - item:
+            name: Ceph
+            homepage_url: https://koor.tech/
+            logo: ceph.svg
+            twitter: https://twitter.com/koor_tech
+            organization:
+              name: Ceph
+          - item:
             name: Cerbos
             homepage_url: https://cerbos.dev/
             logo: cerbos.svg
@@ -3643,9 +3650,9 @@ landscape:
             organization:
               name: Cryptosat
           - item:
-            name: CSDN (Beijing) Network Technology Co. Ltd
+            name: CSDN
             homepage_url: https://csdn.net/
-            logo: csdn_beijing_network_technology_co_ltd.svg
+            logo: csdn.svg
             crunchbase: https://www.crunchbase.com/organization/csdn
           - item:
             name: CSEngineering
@@ -3781,11 +3788,11 @@ landscape:
             logo: datastax_inc.svg
             crunchbase: https://www.crunchbase.com/organization/datastax
           - item:
-            name: Dataverse
+            name: DataverseOS
             homepage_url: https://dataverse-os.com/
-            logo: dataverse.svg
+            logo: dataverseos.svg
             organization:
-              name: Dataverse
+              name: DataverseOS
           - item:
             name: Datree.io
             homepage_url: https://datree.io/
@@ -4329,9 +4336,9 @@ landscape:
             logo: fermyon_technologies.svg
             crunchbase: https://www.crunchbase.com/organization/fermyon-technologies
           - item:
-            name: Fiberplane B.V
+            name: Fiberplane
             homepage_url: https://fiberplane.dev/
-            logo: fiberplane_bv.svg
+            logo: fiberplane.svg
             crunchbase: https://www.crunchbase.com/organization/fiberplane
           - item:
             name: Fidelity Investments
@@ -4652,12 +4659,6 @@ landscape:
             logo: grape_up_sp_zoo.svg
             crunchbase: https://www.crunchbase.com/organization/grape-up
           - item:
-            name: GraphCMS
-            homepage_url: https://hygraph.com/
-            logo: graphcms.svg
-            twitter: https://twitter.com/Hygraphcom
-            crunchbase: https://www.crunchbase.com/organization/graphcms
-          - item:
             name: Gravitational, Inc
             homepage_url: https://goteleport.com/
             logo: gravitational_inc.svg
@@ -4897,6 +4898,12 @@ landscape:
             logo: humanitec.svg
             crunchbase: https://www.crunchbase.com/organization/humanitec
           - item:
+            name: Hygraph GmbH
+            homepage_url: https://hygraph.com/
+            logo: hygraph_gmbh.svg
+            twitter: https://twitter.com/Hygraphcom
+            crunchbase: https://www.crunchbase.com/organization/graphcms
+          - item:
             name: Hyland Software, Inc.
             homepage_url: https://hyland.com/
             logo: hyland_software_inc.svg
@@ -5091,9 +5098,9 @@ landscape:
             organization:
               name: Institute IRNAS Rače
           - item:
-            name: Instnt Inc.
+            name: Instnt
             homepage_url: https://instnt.org/
-            logo: instnt_inc.svg
+            logo: instnt.svg
             crunchbase: https://www.crunchbase.com/organization/instnt
           - item:
             name: Instruqt B.V.
@@ -5359,13 +5366,6 @@ landscape:
             twitter: https://twitter.com/KonsulkoGroup
             crunchbase: https://www.crunchbase.com/organization/konsulko-group
           - item:
-            name: Koor Technologies, Inc.
-            homepage_url: https://koor.tech/
-            logo: koor_technologies_inc.svg
-            twitter: https://twitter.com/koor_tech
-            organization:
-              name: Koor Technologies, Inc.
-          - item:
             name: KPIT Technologies Limited
             homepage_url: https://kpit.com/
             logo: kpit_technologies_limited.svg
@@ -5526,6 +5526,11 @@ landscape:
             organization:
               name: Lenovo (Beijing) Co., Ltd
           - item:
+            name: Leverage2Market Associates
+            homepage_url: https://anjuna.io/
+            logo: leverage2market_associates.svg
+            crunchbase: https://www.crunchbase.com/organization/anjuna
+          - item:
             name: LG Electronics Inc.
             homepage_url: https://lg.com/
             logo: lg_electronics_inc.svg
@@ -5651,9 +5656,9 @@ landscape:
             organization:
               name: Lucidity.cloud
           - item:
-            name: Lumigo Ltd
+            name: Lumigo
             homepage_url: https://lumigo.io/
-            logo: lumigo_ltd.svg
+            logo: lumigo.svg
             twitter: https://twitter.com/Lumigo
             crunchbase: https://www.crunchbase.com/organization/lumigo
           - item:
@@ -6508,7 +6513,7 @@ landscape:
             logo: penten.svg
             crunchbase: https://www.crunchbase.com/organization/penten
           - item:
-            name: PepperData
+            name: Pepperdata
             homepage_url: https://pepperdata.com/
             logo: pepperdata.svg
             crunchbase: https://www.crunchbase.com/organization/pepperdata
@@ -6626,14 +6631,14 @@ landscape:
             logo: plural.svg
             crunchbase: https://www.crunchbase.com/organization/plural-37ce
           - item:
-            name: PLVision Corporation
+            name: PLVision
             homepage_url: https://plvision.eu/
-            logo: plvision_corporation.svg
+            logo: plvision.svg
             crunchbase: https://www.crunchbase.com/organization/plvision
           - item:
-            name: Point72, L.P.
+            name: Point72 Asset Management
             homepage_url: https://point72.com/
-            logo: point72_lp.svg
+            logo: point72_asset_management.svg
             twitter: https://twitter.com/Point72Careers
             crunchbase: https://www.crunchbase.com/organization/point72
           - item:
@@ -6811,9 +6816,9 @@ landscape:
             twitter: https://twitter.com/QualiSystems
             crunchbase: https://www.crunchbase.com/organization/qualisystems
           - item:
-            name: QualitySoft Corporation
+            name: QUALITY SOFT
             homepage_url: https://qualitysoft.com/
-            logo: qualitysoft_corporation.svg
+            logo: quality_soft.svg
             crunchbase: https://www.crunchbase.com/organization/qualitysoft
           - item:
             name: Qualys, Inc.
@@ -8266,11 +8271,6 @@ landscape:
             organization:
               name: Unifabrix
           - item:
-            name: Unikraft GmbH
-            homepage_url: https://unikraft.io/
-            logo: unikraft_gmbh.svg
-            crunchbase: https://www.crunchbase.com/organization/unikraft
-          - item:
             name: Union.ai
             homepage_url: https://union.ai/
             logo: unionai.svg
@@ -8293,9 +8293,9 @@ landscape:
             twitter: https://twitter.com/unity
             crunchbase: https://www.crunchbase.com/organization/unity-technologies
           - item:
-            name: Unravel
+            name: Unravel Data
             homepage_url: https://unraveldata.com/
-            logo: unravel.svg
+            logo: unravel_data.svg
             crunchbase: https://www.crunchbase.com/organization/unravel-data-systems
           - item:
             name: unSkript, Inc.
@@ -8788,13 +8788,6 @@ landscape:
             homepage_url: https://zgc-blockchain.cn/
             logo: alliance_of_blockchain_industry_z-park.svg
             crunchbase: https://www.crunchbase.com/organization/alliance-of-blockchain-industry-z-park
-          - item:
-            name: AlmaLinux
-            homepage_url: https://almalinux.org/
-            logo: almalinux.svg
-            twitter: https://twitter.com/AlmaLinux
-            organization:
-              name: AlmaLinux
           - item:
             name: Ambianic.ai
             homepage_url: https://ambianic.ai/
@@ -9352,9 +9345,9 @@ landscape:
             logo: friedrich-alexander-university_fau.svg
             crunchbase: https://www.crunchbase.com/organization/university-of-erlangen-nuremberg
           - item:
-            name: FS-ISAC
+            name: FS-ISAC, Inc.
             homepage_url: https://fsisac.com/
-            logo: fs-isac.svg
+            logo: fs-isac_inc.svg
             crunchbase: https://www.crunchbase.com/organization/fs-isac
           - item:
             name: Fujian Blockchain Association
@@ -9417,6 +9410,11 @@ landscape:
             logo: gs1_us.svg
             twitter: https://twitter.com/GS1_US
             crunchbase: https://www.crunchbase.com/organization/gs1-us
+          - item:
+            name: Harvard Business School
+            homepage_url: https://lish.harvard.edu/
+            logo: harvard_business_school.svg
+            crunchbase: https://www.crunchbase.com/organization/harvard-university
           - item:
             name: Health Service Executive Ireland
             homepage_url: https://hse.ie/eng
@@ -9528,13 +9526,6 @@ landscape:
             twitter: https://twitter.com/IGDA
             crunchbase: https://www.crunchbase.com/organization/international-game-developers-association
           - item:
-            name: International Securities Lending Association
-            homepage_url: https://islaemea.org/
-            logo: international_securities_lending_association.svg
-            twitter: https://twitter.com/__isla
-            organization:
-              name: International Securities Lending Association
-          - item:
             name: International Swaps and Derivatives Association
             homepage_url: https://isda.org/
             logo: international_swaps_and_derivatives_association.svg
@@ -9574,6 +9565,13 @@ landscape:
             twitter: https://twitter.com/iRespond
             organization:
               name: iRespond
+          - item:
+            name: Islaemea
+            homepage_url: https://islaemea.org/
+            logo: islaemea.svg
+            twitter: https://twitter.com/__isla
+            organization:
+              name: Islaemea
           - item:
             name: ISSAT Mateur
             homepage_url: https://issatm.rnu.tn/
@@ -9643,10 +9641,12 @@ landscape:
             twitter: https://twitter.com/KTHuniversity
             crunchbase: https://www.crunchbase.com/organization/royal-institute-of-technology
           - item:
-            name: Laboratory for Innovation Science at Harvard
-            homepage_url: https://lish.harvard.edu/
-            logo: laboratory_for_innovation_science_at_harvard.svg
-            crunchbase: https://www.crunchbase.com/organization/harvard-university
+            name: Learn more about other CloudLinux products
+            homepage_url: https://almalinux.org/
+            logo: learn_more_about_other_cloudlinux_products.svg
+            twitter: https://twitter.com/AlmaLinux
+            organization:
+              name: Learn more about other CloudLinux products
           - item:
             name: Learning Economy, Inc.
             homepage_url: https://learningeconomy.io/
@@ -9906,11 +9906,6 @@ landscape:
             twitter: https://twitter.com/OpenixNA
             crunchbase: https://www.crunchbase.com/organization/open-ix
           - item:
-            name: Open Networking Foundation
-            homepage_url: https://opennetworking.org/
-            logo: open_networking_foundation.svg
-            crunchbase: https://www.crunchbase.com/organization/open-networking-foundation
-          - item:
             name: Open Source Business Alliance - Bundesverband für digitale Souveränität e.V.
             homepage_url: https://osb-alliance.com/
             logo: open_source_business_alliance_-_bundesverband_fur_digitale_souveranitat_ev.svg
@@ -9923,9 +9918,9 @@ landscape:
             organization:
               name: Open Source Robotics Foundation, Inc.
           - item:
-            name: Open Source Technology Improvement Fund, Inc.
+            name: Open Source Technology Improvement Fund
             homepage_url: https://ostif.org/
-            logo: open_source_technology_improvement_fund_inc.svg
+            logo: open_source_technology_improvement_fund.svg
             twitter: https://twitter.com/OSTIFofficial
             crunchbase: https://www.crunchbase.com/organization/open-source-technology-improvement-fund
           - item:
@@ -10035,11 +10030,6 @@ landscape:
             twitter: https://twitter.com/Portland_State
             crunchbase: https://www.crunchbase.com/organization/portland-state-university
           - item:
-            name: Pranveer Singh Institute Of Technology
-            homepage_url: https://psit.ac.in/
-            logo: pranveer_singh_institute_of_technology.svg
-            crunchbase: https://www.crunchbase.com/organization/pranveer-singh-institute-of-technology
-          - item:
             name: Principles for Responsible Investment
             homepage_url: https://www.unpri.org/
             logo: principles_for_responsible_investment.svg
@@ -10069,14 +10059,20 @@ landscape:
             logo: psg_college_of_technology.svg
             crunchbase: https://www.crunchbase.com/organization/psg-college-of-technology
           - item:
+            name: PSIT
+            homepage_url: https://psit.ac.in/
+            logo: psit.svg
+            twitter: https://twitter.com/PSITKanpur2004
+            crunchbase: https://www.crunchbase.com/organization/pranveer-singh-institute-of-technology
+          - item:
             name: Purdue University
             homepage_url: https://purdue.edu/
             logo: purdue_university.svg
             crunchbase: https://www.crunchbase.com/organization/purdue-university
           - item:
-            name: Python Software Foundation
+            name: Python
             homepage_url: https://python.org/
-            logo: python_software_foundation.svg
+            logo: python.svg
             crunchbase: https://www.crunchbase.com/organization/python-software-foundation
           - item:
             name: QuantUniversity
@@ -10187,6 +10183,12 @@ landscape:
             organization:
               name: SARAO (South African Radio Astronomy Observatory)
           - item:
+            name: Schwabe, Williamson & Wyatt
+            homepage_url: https://opennetworking.org/
+            logo: schwabe_williamson__wyatt.svg
+            twitter: https://twitter.com/ONF_SDN
+            crunchbase: https://www.crunchbase.com/organization/open-networking-foundation
+          - item:
             name: SDIAlliance
             homepage_url: https://sdialliance.org/
             logo: sdialliance.svg
@@ -10201,12 +10203,12 @@ landscape:
             organization:
               name: SDNLAB
           - item:
-            name: shaktimath international foundation
+            name: Shaktimath International Foundation
             homepage_url: https://smif.co.in/
             logo: shaktimath_international_foundation.svg
             twitter: https://twitter.com/shaktimath
             organization:
-              name: shaktimath international foundation
+              name: Shaktimath International Foundation
           - item:
             name: Shanghai Jiao Tong University
             homepage_url: https://en.sjtu.edu.cn/
@@ -10476,6 +10478,11 @@ landscape:
             logo: uc_san_diego.svg
             crunchbase: https://www.crunchbase.com/organization/university-of-california-san-diego
           - item:
+            name: UCANR
+            homepage_url: https://aifs.ucdavis.edu/
+            logo: ucanr.svg
+            crunchbase: https://www.crunchbase.com/organization/university-of-california-davis
+          - item:
             name: United Nations (International Computing Centre)
             homepage_url: https://unicc.org/
             logo: united_nations_international_computing_centre.svg
@@ -10646,11 +10653,6 @@ landscape:
             twitter: https://twitter.com/Urssaf_Alsace
             organization:
               name: Urssaf
-          - item:
-            name: USDA-NIFA/NSF AI Institute for Next-Generation Food Systems (AIFS)
-            homepage_url: https://aifs.ucdavis.edu/
-            logo: usda-nifansf_ai_institute_for_next-generation_food_systems_aifs.svg
-            crunchbase: https://www.crunchbase.com/organization/university-of-california-davis
           - item:
             name: Vanderbilt University
             homepage_url: https://vanderbilt.edu/
