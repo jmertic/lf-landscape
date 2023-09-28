@@ -10674,7 +10674,7 @@ landscape:
                   value: 1023
                   color: '#563d7c'
               contributions: >-
-                131;71;47;111;266;135;64;70;44;141;62;56;7;72;32;30;11;42;92;33;36;25;145;42;51;93;34;21;80;63;24;45;35;14;30;27;24;18;46;29;5;31;31;7;10;13;8;14;14;5;0;4
+                137;61;58;122;255;136;73;61;33;151;56;57;1;78;33;25;24;92;33;36;34;85;79;44;56;92;32;44;60;58;29;38;36;18;34;20;22;26;52;16;5;40;21;7;12;14;12;6;14;5;4;0
               firstWeek: 2022-10-02Z
               stars: 1028
               license: Apache License 2.0
@@ -22913,26 +22913,42 @@ landscape:
               latest_tweet_date: 2023-04-18T18:34:05.000Z
           - item:
             name: Sony Group Corporation
-            homepage_url: https://www.sony.com/en/
+            homepage_url: https://sony.com/en/
             logo: sony_group_corporation.svg
             twitter: https://twitter.com/SonyGroupGlobal
-            crunchbase: https://www.crunchbase.com/organization/sony-group-corporation
+            crunchbase: https://www.crunchbase.com/organization/sony-electronics
             crunchbase_data:
-              name: Sony Group Corporation
-              description: Sony Group Corporation commonly known as Sony is a Japanese multinational conglomerate corporation headquartered in Tokyo, Japan.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: https://www.sony.com/en/
-              city: Tokyo
-              region: Tokyo
-              country: Japan
-              twitter: https://twitter.com/SonyGroupGlobal?s=20
+              name: Sony Electronics
+              description: Sony Electronics (SEL) is the U.S. sales and marketing arm of Sony’s global electronics business. It is a leading provider of audio/video
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.sony.com
+              city: San Diego
+              region: California
+              country: United States
+              twitter: http://twitter.com/SonyElectronics
               linkedin: https://www.linkedin.com/company/sony-electronics-professional-solutions-of-america
-              acquisitions: []
-              parents: []
+              acquisitions:
+                - date: '2017-04-23'
+                  acquiree: Crispin Corporation
+              parents:
+                - https://www.crunchbase.com/organization/sony-mobile-communications
+                - https://www.crunchbase.com/organization/sony
+                - https://www.crunchbase.com/organization/sony-biz-networks-corporation
+                - https://www.crunchbase.com/organization/so-net
+              ticker: SNEJF
+              funding: 0
               stockExchange: null
               company_type: For Profit
-              industries: []
+              industries:
+                - Consumer Electronics
+                - Consumer Goods
+                - Digital Signage
+                - Electronics
+                - Manufacturing
+                - Video
+            yahoo_finance_data:
+              effective_ticker: SNEJF
             image_data:
               fileName: sony-group-corporation.svg
               hash: LgTBieN4eTDYfj0TGmcvRVxN9Fq0hC5HnmMpt79QaLg=
@@ -23845,37 +23861,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-18T12:40:01.000Z
-          - item:
-            name: Adfolks LLC
-            homepage_url: https://adfolks.com/
-            logo: adfolks_llc.svg
-            crunchbase: https://www.crunchbase.com/organization/adfolks
-            crunchbase_data:
-              name: Adfolks
-              description: Adfolks is a Cloud-Native engineering firm brings a wealth of expertise in developing bespoke, agile technology solutions.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.adfolks.com/
-              city: Dubai
-              region: Dubai
-              country: United Arab Emirates
-              twitter: https://twitter.com/adfolksllc
-              linkedin: https://www.linkedin.com/company/adfolksllc/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Management
-                - Cloud Security
-                - Information Technology
-                - Professional Services
-            image_data:
-              fileName: adfolks-llc.svg
-              hash: TNL6KYfLwGozHC/0I35udKLyLwLUeNh7j5n/29QKQts=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: Adobe Inc.
             homepage_url: https://adobe.com/
@@ -35718,6 +35703,8 @@ landscape:
                   acquiree: Inventia
                 - date: '2020-03-30'
                   acquiree: STRANDS
+                - date: '2021-12-27'
+                  acquiree: ICAP Group S.A.
                 - date: '2022-05-30'
                   acquiree: RE Valuta
               parents: []
@@ -44963,6 +44950,7 @@ landscape:
             homepage_url: https://icubed.it/
             logo: icubed.svg
             crunchbase: https://www.crunchbase.com/organization/icubed-srl
+            joined: '2023-08-01'
             crunchbase_data:
               name: iCubed srl
               description: High quality IT consultant services and training for medium-sized businesses and enterprise
@@ -59696,7 +59684,7 @@ landscape:
                 - date: '2021-10-14'
                   acquiree: Zumasys
                 - date: '2023-03-01'
-                  acquiree: Key Resources, Inc.
+                  acquiree: Key Resources
                 - date: '2023-09-06'
                   acquiree: B.O.S. Software Service und Vertrieb GmbH
               parents: []
@@ -65649,7 +65637,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/sysdig
             crunchbase_data:
               name: Sysdig
-              description: Sysdig delivers cloud and container security so you can stop attacks with no wasted time.
+              description: The leader in cloud security powered by runtime insights
               num_employees_min: 501
               num_employees_max: 1000
               homepage: https://www.sysdig.com
@@ -66353,7 +66341,7 @@ landscape:
                   acquiree: Kony
               parents: []
               ticker: TEMN.SW
-              funding: 0
+              funding: 218112022
               stockExchange: swx
               company_type: For Profit
               industries:
@@ -82861,4 +82849,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-09-27T02:17:40.937Z
+updated_at: 2023-09-28T00:23:37.835Z
