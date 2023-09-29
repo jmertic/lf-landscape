@@ -10673,7 +10673,7 @@ landscape:
                   value: 1023
                   color: '#563d7c'
               contributions: >-
-                137;61;58;122;255;136;73;61;33;151;56;57;1;78;33;25;24;92;33;36;34;85;79;44;56;92;32;44;60;58;29;38;36;18;34;20;22;26;52;16;5;40;21;7;12;14;12;6;14;5;4;0
+                136;39;88;120;242;143;49;54;89;111;40;55;1;81;38;17;32;88;33;42;28;91;80;39;75;70;30;61;49;58;28;50;19;25;29;19;24;30;49;11;5;51;10;7;17;9;12;6;15;4;4;0
               firstWeek: 2022-10-02Z
               stars: 1028
               license: Apache License 2.0
@@ -22916,39 +22916,23 @@ landscape:
             homepage_url: https://sony.com/en/
             logo: sony_group_corporation.svg
             twitter: https://twitter.com/SonyGroupGlobal
-            crunchbase: https://www.crunchbase.com/organization/sony-electronics
+            crunchbase: https://www.crunchbase.com/organization/sony-group-corporation
             crunchbase_data:
-              name: Sony Electronics
-              description: Sony Electronics (SEL) is the U.S. sales and marketing arm of Sony’s global electronics business. It is a leading provider of audio/video
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.sony.com
-              city: San Diego
-              region: California
-              country: United States
-              twitter: http://twitter.com/SonyElectronics
-              linkedin: https://www.linkedin.com/company/sony-electronics-professional-solutions-of-america
-              acquisitions:
-                - date: '2017-04-23'
-                  acquiree: Crispin Corporation
-              parents:
-                - https://www.crunchbase.com/organization/sony-mobile-communications
-                - https://www.crunchbase.com/organization/sony
-                - https://www.crunchbase.com/organization/sony-biz-networks-corporation
-                - https://www.crunchbase.com/organization/so-net
-              ticker: SNEJF
-              funding: 0
+              name: Sony Group Corporation
+              description: Sony Group Corporation commonly known as Sony is a Japanese multinational conglomerate corporation headquartered in Tokyo, Japan.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://www.sony.com/en/
+              city: Tokyo
+              region: Tokyo
+              country: Japan
+              twitter: https://twitter.com/SonyGroupGlobal?s=20
+              linkedin: https://www.linkedin.com/company/sony/
+              acquisitions: []
+              parents: []
               stockExchange: null
               company_type: For Profit
-              industries:
-                - Consumer Electronics
-                - Consumer Goods
-                - Digital Signage
-                - Electronics
-                - Manufacturing
-                - Video
-            yahoo_finance_data:
-              effective_ticker: SNEJF
+              industries: []
             image_data:
               fileName: sony-group-corporation.svg
               hash: LgTBieN4eTDYfj0TGmcvRVxN9Fq0hC5HnmMpt79QaLg=
@@ -27364,6 +27348,8 @@ landscape:
                   acquiree: Tele-Communications, Inc
                 - date: '2001-09-22'
                   acquiree: Prodigy Communications
+                - date: '2001-10-08'
+                  acquiree: Telecorp PCS
                 - date: '2006-03-05'
                   acquiree: BellSouth
                 - date: '2006-09-12'
@@ -31463,6 +31449,8 @@ landscape:
                   acquiree: Quantmetry
                 - date: '2023-06-22'
                   acquiree: Big Tree Technology & Consulting
+                - date: '2023-09-28'
+                  acquiree: HDL Design House
               parents: []
               ticker: CAP.PA
               stockExchange: epa
@@ -37682,6 +37670,8 @@ landscape:
               twitter: http://twitter.com/deutschetelekom
               linkedin: https://www.linkedin.com/company/telekom
               acquisitions:
+                - date: '2000-07-24'
+                  acquiree: Voicestream Wireless
                 - date: '2009-11-20'
                   acquiree: Strato AG
                 - date: '2010-03-25'
@@ -51006,7 +50996,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/mattermost/
               acquisitions: []
               parents: []
-              funding: 70000000
+              funding: 73500000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -51737,10 +51727,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/mia-platform
             crunchbase_data:
               name: Mia-Platform
-              description: Mia‑Platform provides the first end‑to‑end Digital Integration Hub on the market with full DevOps Lifecycle Management.
+              description: Mia-Platform is a cloud-native Platform Builder that enables organizations to build and orchestrate their Internal Developer Platforms (IDP)
               num_employees_min: 101
               num_employees_max: 250
-              homepage: https://www.mia-platform.eu
+              homepage: https://mia-platform.eu/
               city: Milan
               region: Lombardia
               country: Italy
@@ -66084,6 +66074,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/telechips-inc/
               acquisitions: []
               parents: []
+              funding: 0
               stockExchange: null
               company_type: For Profit
               industries:
@@ -69495,6 +69486,8 @@ landscape:
               acquisitions:
                 - date: '2000-06-30'
                   acquiree: GTE Corporation
+                - date: '2007-07-30'
+                  acquiree: Rural Cellular
                 - date: '2016-11-17'
                   acquiree: SocialRadar
                 - date: '2017-02-16'
@@ -80735,6 +80728,43 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T14:44:28.000Z
           - item:
+            name: The Linux Foundation
+            homepage_url: https://enrollment.lfx.linuxfoundation.org/
+            logo: the_linux_foundation.svg
+            crunchbase: https://www.crunchbase.com/organization/the-linux-foundation
+            crunchbase_data:
+              name: Linux Foundation
+              description: The Linux Foundation builds sustainable ecosystems around open source projects to accelerate technology development and industry adoption.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: http://www.linuxfoundation.org
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: http://twitter.com/linuxfoundation
+              linkedin: https://www.linkedin.com/company/the-linux-foundation
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Communities
+                - Education
+                - Enterprise Software
+                - Events
+                - Information Technology
+                - Linux
+                - Non Profit
+                - Open Source
+            image_data:
+              fileName: the-linux-foundation.svg
+              hash: 6a1Sxo1hCB2473jjR/VrlQmgeX6blIwGEnp425P7gVI=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2023-04-20T20:10:59.000Z
+          - item:
             name: The Mifos Initiative
             homepage_url: https://mifos.org/
             logo: the_mifos_initiative.svg
@@ -82849,4 +82879,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-09-28T02:13:08.710Z
+updated_at: 2023-09-29T00:28:53.159Z
