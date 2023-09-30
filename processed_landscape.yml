@@ -10673,7 +10673,7 @@ landscape:
                   value: 1023
                   color: '#563d7c'
               contributions: >-
-                136;39;88;120;242;143;49;54;89;111;40;55;1;81;38;17;32;88;33;42;28;91;80;39;75;70;30;61;49;58;28;50;19;25;29;19;24;30;49;11;5;51;10;7;17;9;12;6;15;4;4;0
+                133;39;110;131;244;114;46;52;108;96;47;43;13;69;44;14;33;84;36;41;35;99;63;42;94;48;38;60;65;35;36;54;7;32;24;27;15;31;50;8;5;53;10;5;20;7;11;12;11;2;4;0
               firstWeek: 2022-10-02Z
               stars: 1028
               license: Apache License 2.0
@@ -21497,8 +21497,6 @@ landscape:
                   acquiree: Sentient Networks
                 - date: '1999-04-13'
                   acquiree: GeoTel Communications
-                - date: '1999-04-13'
-                  acquiree: GeoTel Communications
                 - date: '1999-04-28'
                   acquiree: Amteva Technologies
                 - date: '1999-06-17'
@@ -29938,11 +29936,31 @@ landscape:
             name: BlockLabs
             homepage_url: https://blocklabs.eu/
             logo: blocklabs.svg
-            organization:
-              name: BlockLabs
+            crunchbase: https://www.crunchbase.com/organization/blocklabs-b424
             crunchbase_data:
               name: BlockLabs
+              description: BlockLabs provides end-to-end digital product development solutions for companies of any size and stage.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://blocklabs.eu/
+              city: Gdansk
+              region: Pomorskie
+              country: Poland
+              twitter: https://twitter.com/blocklabsteam
+              linkedin: https://www.linkedin.com/company/blocklabsteam/
+              acquisitions: []
               parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence
+                - Blockchain
+                - Consulting
+                - FinTech
+                - Gaming
+                - Information Technology
+                - Software
+                - Web Development
             image_data:
               fileName: block-labs.svg
               hash: Kji2vZn4801FwWh1F73jYZvm1qurLvazkbCxLfy2mo8=
@@ -30352,14 +30370,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/bolt-graphics
             crunchbase_data:
               name: Bolt Graphics
-              description: Bolt Graphics is a ray tracing solution.
+              description: Bolt develops and licenses market-leading Ray Tracing IP for silicon integration.
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://bolt.graphics
               city: Sunnyvale
               region: California
               country: United States
-              twitter: null
+              twitter: https://twitter.com/BoltGraphicsInc
               linkedin: https://www.linkedin.com/company/boltgraphics/
               acquisitions: []
               parents: []
@@ -42543,11 +42561,26 @@ landscape:
             homepage_url: https://goledger.io/
             logo: goledger.svg
             twitter: https://twitter.com/go_ledger
-            organization:
-              name: GoLedger
+            crunchbase: https://www.crunchbase.com/organization/goledger
             crunchbase_data:
               name: GoLedger
+              description: GoLedger develops solutions based on government-issued blockchains to help unify and aggregate information between government institutions.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://goledger.com.br/
+              city: Brasília
+              region: Rio Grande do Norte
+              country: Brazil
+              twitter: null
+              linkedin: https://www.linkedin.com/company/goledger/
+              acquisitions: []
               parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Blockchain
+                - Information Services
+                - Information Technology
             image_data:
               fileName: go-ledger.svg
               hash: 7aGzjQPSvfDCJoWfeb832Xhn91/hG0at2wpHIE+OZJs=
@@ -66527,7 +66560,7 @@ landscape:
               percentage: null
           - item:
             name: TeraSky
-            homepage_url: https://skywiz.io/
+            homepage_url: https://terasky.com/
             logo: terasky.svg
             crunchbase: https://www.crunchbase.com/organization/terasky
             crunchbase_data:
@@ -68419,6 +68452,7 @@ landscape:
                   acquiree: Credit Suisse
               parents: []
               ticker: UBS
+              funding: 4500000000
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -80728,43 +80762,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T14:44:28.000Z
           - item:
-            name: The Linux Foundation
-            homepage_url: https://enrollment.lfx.linuxfoundation.org/
-            logo: the_linux_foundation.svg
-            crunchbase: https://www.crunchbase.com/organization/the-linux-foundation
-            crunchbase_data:
-              name: Linux Foundation
-              description: The Linux Foundation builds sustainable ecosystems around open source projects to accelerate technology development and industry adoption.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: http://www.linuxfoundation.org
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: http://twitter.com/linuxfoundation
-              linkedin: https://www.linkedin.com/company/the-linux-foundation
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: Non Profit
-              industries:
-                - Communities
-                - Education
-                - Enterprise Software
-                - Events
-                - Information Technology
-                - Linux
-                - Non Profit
-                - Open Source
-            image_data:
-              fileName: the-linux-foundation.svg
-              hash: 6a1Sxo1hCB2473jjR/VrlQmgeX6blIwGEnp425P7gVI=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T20:10:59.000Z
-          - item:
             name: The Mifos Initiative
             homepage_url: https://mifos.org/
             logo: the_mifos_initiative.svg
@@ -82879,4 +82876,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-09-29T02:18:12.407Z
+updated_at: 2023-09-30T00:21:36.041Z
