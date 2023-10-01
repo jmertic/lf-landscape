@@ -10671,8 +10671,8 @@ landscape:
                   value: 1023
                   color: '#563d7c'
               contributions: >-
-                133;39;110;131;244;114;46;52;108;96;47;43;13;69;44;14;33;84;36;41;35;99;63;42;94;48;38;60;65;35;36;54;7;32;24;27;15;31;50;8;5;53;10;5;20;7;11;12;11;2;4;0
-              firstWeek: 2022-10-02Z
+                64;39;110;136;239;114;46;52;110;94;47;43;13;74;39;14;33;84;36;41;35;123;39;42;96;64;20;64;61;35;37;53;7;32;24;27;15;31;50;8;5;53;10;5;20;7;11;12;11;2;4;0
+              firstWeek: 2022-10-09Z
               stars: 1028
               license: Apache License 2.0
               description: Egeria core
@@ -22912,23 +22912,39 @@ landscape:
             homepage_url: https://sony.com/en/
             logo: sony_group_corporation.svg
             twitter: https://twitter.com/SonyGroupGlobal
-            crunchbase: https://www.crunchbase.com/organization/sony-group-corporation
+            crunchbase: https://www.crunchbase.com/organization/sony-electronics
             crunchbase_data:
-              name: Sony Group Corporation
-              description: Sony Group Corporation commonly known as Sony is a Japanese multinational conglomerate corporation headquartered in Tokyo, Japan.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: https://www.sony.com/en/
-              city: Tokyo
-              region: Tokyo
-              country: Japan
-              twitter: https://twitter.com/SonyGroupGlobal?s=20
-              linkedin: https://www.linkedin.com/company/sony/
-              acquisitions: []
-              parents: []
+              name: Sony Electronics
+              description: Sony Electronics (SEL) is the U.S. sales and marketing arm of Sony’s global electronics business. It is a leading provider of audio/video
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.sony.com
+              city: San Diego
+              region: California
+              country: United States
+              twitter: http://twitter.com/SonyElectronics
+              linkedin: https://www.linkedin.com/company/sony-electronics-professional-solutions-of-america
+              acquisitions:
+                - date: '2017-04-23'
+                  acquiree: Crispin Corporation
+              parents:
+                - https://www.crunchbase.com/organization/sony-mobile-communications
+                - https://www.crunchbase.com/organization/sony
+                - https://www.crunchbase.com/organization/sony-biz-networks-corporation
+                - https://www.crunchbase.com/organization/so-net
+              ticker: SNEJF
+              funding: 0
               stockExchange: null
               company_type: For Profit
-              industries: []
+              industries:
+                - Consumer Electronics
+                - Consumer Goods
+                - Digital Signage
+                - Electronics
+                - Manufacturing
+                - Video
+            yahoo_finance_data:
+              effective_ticker: SNEJF
             image_data:
               fileName: sony-group-corporation.svg
               hash: LgTBieN4eTDYfj0TGmcvRVxN9Fq0hC5HnmMpt79QaLg=
@@ -30290,38 +30306,30 @@ landscape:
             homepage_url: https://bnpparibas.com/
             logo: bnp_paribas.svg
             twitter: https://twitter.com/BNPParibas
-            crunchbase: https://www.crunchbase.com/organization/bnp-paribas-private-equity
+            crunchbase: https://www.crunchbase.com/organization/bnp-paribas-cib
             crunchbase_data:
-              name: BNP Paribas
-              description: BNP Paribas is a French private equity firm that provides a range of asset management services to its institutional and retail clients.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: http://www.bnpparibas-ip.com
+              name: BNP Paribas CIB
+              description: Corporate and Investment Banking
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://cib.bnpparibas.com
               city: Paris
               region: Ile-de-France
               country: France
-              twitter: http://twitter.com/bnpparibas
-              linkedin: https://www.linkedin.com/company/bnp-paribas-investment-partners
+              twitter: https://www.twitter.com/bnpparibas
+              linkedin: https://www.linkedin.com/company/bnp-paribas
               acquisitions:
-                - date: '2007-08-03'
-                  acquiree: BNP Paribas Personal Finance EAD
-                - date: '2010-05-12'
-                  acquiree: Fortis Bank France
-                - date: '2010-05-23'
-                  acquiree: Levantina
-                - date: '2015-07-30'
-                  acquiree: Sharekhan Limited, India
-                - date: '2017-04-04'
-                  acquiree: Compte Nickel
-                - date: '2017-09-07'
-                  acquiree: Gambit Financial Solutions
-              parents: []
+                - date: '2009-05-12'
+                  acquiree: Fortis
+              parents:
+                - https://www.crunchbase.com/organization/bnp-paribas-private-equity
               stockExchange: null
               company_type: For Profit
               industries:
-                - Asset Management
+                - Banking
+                - Finance
                 - Financial Services
-                - Retail
+                - Service Industry
             image_data:
               fileName: bnp-paribas.svg
               hash: EC1gbbTQqfGn0LWfAuwt40FiGAHTp2J+8UYJ3rJylCU=
@@ -56689,43 +56697,32 @@ landscape:
             name: Ping An Technology (Shenzhen) Co., Ltd
             homepage_url: https://pingan.com.cn/
             logo: ping_an_technology_shenzhen_co_ltd.svg
-            crunchbase: https://www.crunchbase.com/organization/ping-an
+            crunchbase: https://www.crunchbase.com/organization/ping-an-ventures
             crunchbase_data:
-              name: Ping An
-              description: Ping An Insurance Company is a holding company deals with insurance, banking, and financial service.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.pingan.com/
-              city: Shenzhen
-              region: Guangdong
+              name: Ping An Ventures
+              description: Ping An Ventures is a professional VC under Ping An Insurance (Group) Company of China, Ltd. with focused interest in start-ups of emerging.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://www.pinganventures.com
+              city: Pudong
+              region: Shandong
               country: China
-              twitter: https://twitter.com/pingan_group
-              linkedin: https://www.linkedin.com/company/ping-an/
+              twitter: null
+              linkedin: https://www.linkedin.com/company/%E5%B9%B3%E5%AE%89%E5%88%9B%E6%96%B0%E6%8A%95%E8%B5%84%E5%9F%BA%E9%87%91
               acquisitions:
-                - date: '2016-04-15'
-                  acquiree: Autohome
-                - date: '2019-07-12'
-                  acquiree: ITutorGroup
+                - date: '2013-08-13'
+                  acquiree: Pingan Fu Dianzi Zhifu
               parents: []
-              ticker: 601318.SS
-              funding: 4750000000
-              stockExchange: sse
+              stockExchange: null
               company_type: For Profit
               industries:
-                - Banking
-                - Financial Services
-                - Insurance
-                - Medical
-            yahoo_finance_data:
-              effective_ticker: 601318.SS
+                - Venture Capital
             image_data:
               fileName: ping-an-technology-shenzhen-co-ltd.svg
               hash: bVzQ3eWLC4gXe7zeuBd1B/jcA4Gq8APp+sS1PaOYIQo=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-19T10:33:24.000Z
           - item:
             name: PingCAP
             homepage_url: https://pingcap.com/
@@ -77788,27 +77785,34 @@ landscape:
             name: NAV - Norwegian Labor and Welfare Administration
             homepage_url: https://nav.no/
             logo: nav_-_norwegian_labor_and_welfare_administration.svg
-            crunchbase: https://www.crunchbase.com/organization/nav
+            crunchbase: https://www.crunchbase.com/organization/creditera
             crunchbase_data:
-              name: NAV
-              description: The Norwegian Labour and Welfare Administration (NAV) is responsible for a third of the state budget of Norway
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://www.nav.no
-              city: Oslo
-              region: Oslo
-              country: Norway
-              twitter: https://twitter.com/navnorge
-              linkedin: https://www.linkedin.com/company/nav
-              acquisitions: []
+              name: Nav
+              description: Nav bridges the gap between SMB and financial institutions by bringing transparency, certainty, and efficiency to B2B credit and financing.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: https://www.nav.com/
+              city: Draper
+              region: Utah
+              country: United States
+              twitter: https://twitter.com/navsmb
+              linkedin: https://www.linkedin.com/company/navsmb/
+              acquisitions:
+                - date: '2015-10-21'
+                  acquiree: Fundastic
+                - date: '2023-01-26'
+                  acquiree: Nuula
+                - date: '2023-07-17'
+                  acquiree: Tillful
               parents: []
+              funding: 91718884
               stockExchange: null
-              company_type: Non Profit
+              company_type: For Profit
               industries:
+                - FinTech
+                - Finance
                 - Financial Services
-                - Government
-                - Service Industry
-                - Social Assistance
+              kind: funding
             image_data:
               fileName: nav-norwegian-labor-and-welfare-administration.svg
               hash: AC+hwGrCDUb4TO5P6ZIdaF6x83W1Qe4hW7iD7LJqLr8=
@@ -82448,32 +82452,49 @@ landscape:
             name: Visual Effects Society
             homepage_url: https://vesglobal.org/
             logo: visual_effects_society.svg
-            crunchbase: https://www.crunchbase.com/organization/visual-effects-society
+            crunchbase: https://www.crunchbase.com/organization/verisign
             crunchbase_data:
-              name: Visual Effects Society
-              description: Visual Effects Society is a global professional honorary society that represents the full breadth of visual effects practitioners.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: http://www.visualeffectssociety.com
-              city: Sherman Oaks
+              name: VeriSign Authentication Services
+              description: VeriSign Authentication Services provides network infrastructure, security and telecommunications services for companies and individuals.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.verisign.com
+              city: Mountain View
               region: California
               country: United States
-              twitter: https://twitter.com/VFXSociety
-              linkedin: https://www.linkedin.com/in/visualeffectssociety/en
-              acquisitions: []
-              parents: []
-              stockExchange: null
+              twitter: null
+              linkedin: https://www.linkedin.com/company/verisign
+              acquisitions:
+                - date: '2002-01-07'
+                  acquiree: The .tv Corporation
+                - date: '2003-12-17'
+                  acquiree: Guardent
+                - date: '2005-01-01'
+                  acquiree: LightSurf
+                - date: '2008-10-01'
+                  acquiree: Global Name Registry
+                - date: '2010-04-01'
+                  acquiree: TrustBearer Labs
+              parents:
+                - https://www.crunchbase.com/organization/verisign-2
+              ticker: VRS.F
+              funding: 39311110
+              stockExchange: nasdaq
               company_type: For Profit
               industries:
-                - Non Profit
+                - Cyber Security
+                - Information Technology
+                - Internet
+                - Security
+                - Telecommunications
+            yahoo_finance_data:
+              effective_ticker: VRS.F
             image_data:
               fileName: visual-effects-society.svg
               hash: QAeeXaBFlSU49CTr9OJeJUBy91NLcoyznNJBCtZBdSU=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-17T17:45:53.000Z
           - item:
             name: Volta Foundation
             homepage_url: https://volta.foundation/
@@ -82874,4 +82895,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-09-30T02:10:36.487Z
+updated_at: 2023-10-01T00:31:30.922Z
