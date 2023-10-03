@@ -10671,9 +10671,9 @@ landscape:
                   value: 1023
                   color: '#563d7c'
               contributions: >-
-                70;33;113;149;223;118;42;68;101;87;47;43;55;33;38;14;36;83;38;37;35;123;39;48;92;62;20;67;62;31;40;50;7;35;23;25;15;31;50;8;19;39;10;5;20;7;14;9;11;2;4;0
+                75;33;103;232;158;95;54;60;135;55;64;16;59;33;39;11;42;94;25;33;33;125;58;43;91;49;18;69;64;39;38;41;6;38;23;30;14;35;41;8;18;45;6;2;21;6;14;11;11;0;4;0
               firstWeek: 2022-10-09Z
-              stars: 1028
+              stars: 1029
               license: Apache License 2.0
               description: Egeria core
               latest_commit_date: '2023-09-20T11:36:38Z'
@@ -10684,7 +10684,7 @@ landscape:
               contributors_link: https://github.com/odpi/egeria/graphs/contributors
             repos:
               - url: https://github.com/odpi/egeria
-                stars: 715
+                stars: 716
               - url: https://github.com/odpi/data-governance
                 stars: 97
               - url: https://github.com/odpi/egeria-ui
@@ -21273,6 +21273,8 @@ landscape:
                   acquiree: Six Nines
                 - date: '2023-06-21'
                   acquiree: Anser Advisory
+                - date: '2023-07-24'
+                  acquiree: Signal
                 - date: '2023-07-27'
                   acquiree: Strongbow Consulting Group
                 - date: '2023-08-28'
@@ -23858,6 +23860,37 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-18T12:40:01.000Z
           - item:
+            name: Adfolks LLC
+            homepage_url: https://adfolks.com/
+            logo: adfolks_llc.svg
+            crunchbase: https://www.crunchbase.com/organization/adfolks
+            crunchbase_data:
+              name: Adfolks
+              description: Adfolks is a Cloud-Native engineering firm brings a wealth of expertise in developing bespoke, agile technology solutions.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.adfolks.com/
+              city: Dubai
+              region: Dubai
+              country: United Arab Emirates
+              twitter: https://twitter.com/adfolksllc
+              linkedin: https://www.linkedin.com/company/adfolksllc/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Management
+                - Cloud Security
+                - Information Technology
+                - Professional Services
+            image_data:
+              fileName: adfolks-llc.svg
+              hash: TNL6KYfLwGozHC/0I35udKLyLwLUeNh7j5n/29QKQts=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Adobe Inc.
             homepage_url: https://adobe.com/
             logo: adobe_inc.svg
@@ -26414,6 +26447,36 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-14T12:30:00.000Z
+          - item:
+            name: AppsCode Inc.
+            homepage_url: https://appscode.com/
+            logo: appscode_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/appscode
+            crunchbase_data:
+              name: AppsCode
+              description: Cloud Native Data Platform
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://appscode.com
+              city: Las Vegas
+              region: Nevada
+              country: United States
+              twitter: http://twitter.com/AppsCodeHQ
+              linkedin: https://www.linkedin.com/company/appscode
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Developer Tools
+                - Software
+                - Software Engineering
+            image_data:
+              fileName: apps-code-inc.svg
+              hash: 5yn1+TZ9JY+zeohEIPSMOrLVxfMnnwZbPEA4sFFkdZQ=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Appstellar
             homepage_url: https://appstellar.io/
@@ -35167,39 +35230,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-19T13:57:57.000Z
           - item:
-            name: Convox Opco Inc.
-            homepage_url: https://convox.com/
-            logo: convox_opco_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/convox
-            crunchbase_data:
-              name: Convox
-              description: Convox is launch a private cloud in minutes.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: http://convox.com
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: https://twitter.com/goconvox
-              linkedin: https://www.linkedin.com/company/convox
-              acquisitions: []
-              parents: []
-              funding: 120000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Internet
-                - Software
-              kind: funding
-            image_data:
-              fileName: convox-opco-inc.svg
-              hash: 44OafLh2Ro/iwmSTmlzpI8QODdwroQRXvwUzXkaJ+4E=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-03-17T21:00:48.000Z
-          - item:
             name: CoolIT Systems Inc.
             homepage_url: https://coolitsystems.com/
             logo: coolit_systems_inc.svg
@@ -41800,7 +41830,7 @@ landscape:
                   acquiree: Nexus Controls
               parents: []
               ticker: GE
-              funding: 8269794999
+              funding: 8292694839
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -42993,48 +43023,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-19T11:00:00.000Z
-          - item:
-            name: Guangzhou Xiaopeng Motors Technology Co Ltd
-            homepage_url: https://xiaopeng.com/
-            logo: guangzhou_xiaopeng_motors_technology_co_ltd.svg
-            twitter: https://twitter.com/XPengMotors
-            crunchbase: https://www.crunchbase.com/organization/xiaopeng-motors
-            crunchbase_data:
-              name: Xpeng Motors
-              description: Xiaopeng Motors is an electric vehicle and technology company that designs and manufactures intelligent mobility solutions.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://www.xiaopeng.com
-              city: Guangzhou
-              region: Guangdong
-              country: China
-              twitter: https://twitter.com/XpengMotors
-              linkedin: https://www.linkedin.com/company/xiaopeng-motors
-              acquisitions:
-                - date: '2020-03-23'
-                  acquiree: Fudi Technology (Guangdong)
-                - date: '2023-08-28'
-                  acquiree: Mona
-              parents: []
-              ticker: XPEV
-              funding: 6408970886
-              stockExchange: nyse
-              company_type: For Profit
-              industries:
-                - Automotive
-                - Autonomous Vehicles
-                - Electric Vehicle
-                - Manufacturing
-            yahoo_finance_data:
-              effective_ticker: XPEV
-            image_data:
-              fileName: guangzhou-xiaopeng-motors-technology-co-ltd.svg
-              hash: Wk2BYPVpvgcFIsAxrBzypdOX9wHQH+T0+GlwPghxMjo=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-19T07:59:29.000Z
           - item:
             name: Guida
             homepage_url: https://guida.nl/
@@ -47934,35 +47922,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T10:54:17.000Z
           - item:
-            name: Klotho
-            homepage_url: https://klo.dev/
-            logo: klotho.svg
-            crunchbase: https://www.crunchbase.com/organization/klotho
-            crunchbase_data:
-              name: Klotho
-              description: Klotho is an open source tool enabling adaptive cloud applications through Architecture-from-Code and intelligent code transformations
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://www.klo.dev/
-              city: Los Angeles
-              region: California
-              country: United States
-              twitter: https://twitter.com/GetKlotho
-              linkedin: https://www.linkedin.com/company/klothoplatform/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries: []
-            image_data:
-              fileName: klotho.svg
-              hash: ZLCXYxAGOmDRoY7JNoMaJH5fdCQYMe0NxmBXm0uwH4U=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-18T18:14:48.000Z
-          - item:
             name: Kloudfuse, Inc.
             homepage_url: https://kloudfuse.com/
             logo: kloudfuse_inc.svg
@@ -49780,7 +49739,7 @@ landscape:
                 - date: '2017-02-08'
                   acquiree: OpsClarity
               parents: []
-              funding: 83994189
+              funding: 87999258
               stockExchange: null
               company_type: For Profit
               industries:
@@ -50655,6 +50614,53 @@ landscape:
             image_data:
               fileName: lutech-advanced-solutions-s-p-a.svg
               hash: Ykp+31cxJjusG8g8OP+L/zUhCyqoXLZs3jKlYkKjeJw=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: LY Corporation
+            homepage_url: https://lycorp.co.jp/
+            logo: ly_corporation.svg
+            crunchbase: https://www.crunchbase.com/organization/yahoo-japan
+            crunchbase_data:
+              name: Yahoo! Japan
+              description: Yahoo! Japan is a technology company that is known for its web services and applications.
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: https://www.yahoo.co.jp/
+              city: Tokyo
+              region: Tokyo
+              country: Japan
+              twitter: https://twitter.com/yahoo_japan_pr
+              linkedin: https://www.linkedin.com/company/yahoojapan/
+              acquisitions:
+                - date: '2010-08-16'
+                  acquiree: Cirius Technologies USA
+                - date: '2013-03-11'
+                  acquiree: Bluem
+                - date: '2014-03-27'
+                  acquiree: eAccess
+                - date: '2014-11-10'
+                  acquiree: FROSK, Inc.
+                - date: '2015-12-17'
+                  acquiree: Ikyu Corp.
+                - date: '2017-11-16'
+                  acquiree: Classified Corp.
+                - date: '2018-07-11'
+                  acquiree: DELY
+              parents: []
+              ticker: 4689.T
+              stockExchange: tyo
+              company_type: For Profit
+              industries:
+                - Auctions
+                - Internet
+                - Search Engine
+            yahoo_finance_data:
+              effective_ticker: 4689.T
+            image_data:
+              fileName: ly-corporation.svg
+              hash: OI+N6xdVcGcJNK8GIAggM9uzhQZe+SCxuEB6JddecaM=
             best_practice_data:
               badge: false
               percentage: null
@@ -58323,44 +58329,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Quali
-            homepage_url: https://quali.com/
-            logo: quali.svg
-            twitter: https://twitter.com/QualiSystems
-            crunchbase: https://www.crunchbase.com/organization/qualisystems
-            crunchbase_data:
-              name: Quali
-              description: Quali provides cloud platform solutions that increase productivity, cut costs, and optimize infrastructure utilization.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: http://www.quali.com
-              city: Santa Clara
-              region: California
-              country: United States
-              twitter: http://twitter.com/qualisystems
-              linkedin: https://www.linkedin.com/company/qualisystems
-              acquisitions: []
-              parents: []
-              funding: 102851995
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Management
-                - Data Center Automation
-                - Embedded Systems
-                - Enterprise Software
-                - Software
-                - Telecommunications
-              kind: funding
-            image_data:
-              fileName: quali.svg
-              hash: HU2RusoQFjZMc6k5bfgUY2Uq0/Vceh1gtERN3KIVQBM=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T15:10:45.000Z
-          - item:
             name: QualitySoft Corporation
             homepage_url: https://qualitysoft.com/
             logo: qualitysoft_corporation.svg
@@ -62224,6 +62192,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-18T13:19:41.000Z
           - item:
+            name: sifamo
+            homepage_url: https://sifamo.com/
+            logo: sifamo.svg
+            organization:
+              name: sifamo
+            crunchbase_data:
+              name: sifamo
+              parents: []
+            image_data:
+              fileName: sifamo.svg
+              hash: 6WeXcjFoIe5mW5HZAHxWCyvbIuY48ZP8PUJlyU45Ebw=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: SiFive
             homepage_url: https://sifive.com/
             logo: sifive.svg
@@ -63146,6 +63129,40 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-11-21T11:08:27.000Z
+          - item:
+            name: Solace
+            homepage_url: https://solace.com/
+            logo: solace.svg
+            crunchbase: https://www.crunchbase.com/organization/solace
+            crunchbase_data:
+              name: Solace
+              description: Solace’s is a PubSub+ event management platform that creates, documents, discover and stream events from where they are produced.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: https://solace.com
+              city: Ottawa
+              region: Ontario
+              country: Canada
+              twitter: https://www.twitter.com/solacedotcom
+              linkedin: https://www.linkedin.com/company/solacedotcom
+              acquisitions: []
+              parents: []
+              funding: 14589960
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Infrastructure
+                - Communication Hardware
+                - Hardware
+                - Information Technology
+                - SaaS
+              kind: funding
+            image_data:
+              fileName: solace.svg
+              hash: 3DdMWS8UEaEcZkwtQo/bh10gYRbF7mXItVubHLvICMs=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: SolidRun Ltd
             homepage_url: https://solid-run.com/
@@ -66593,6 +66610,39 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-19T11:06:57.000Z
           - item:
+            name: Terramate
+            homepage_url: https://terramate.io/
+            logo: terramate.svg
+            crunchbase: https://www.crunchbase.com/organization/terramate
+            joined: '2023-10-01'
+            crunchbase_data:
+              name: Terramate
+              description: Terramate helps implement and maintain highly scalable Terraform projects.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://terramate.io
+              city: ' N/A'
+              region: ' N/A'
+              country: ' N/A'
+              twitter: https://twitter.com/terramateio
+              linkedin: https://www.linkedin.com/company/terramate-io
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Cloud Management
+                - Cloud Security
+                - SaaS
+                - Software
+            image_data:
+              fileName: terramate.svg
+              hash: 7l2yLEws0FndIBg7kOi4acgjr8qU3GxLBXQqDZ041VA=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: TestifySec
             homepage_url: https://testifysec.com/
             logo: testifysec.svg
@@ -66600,8 +66650,8 @@ landscape:
             crunchbase_data:
               name: TestifySec
               description: Secure systems from source to production
-              num_employees_min: 1
-              num_employees_max: 10
+              num_employees_min: 11
+              num_employees_max: 50
               homepage: https://www.testifysec.com/
               city: Jasper
               region: Alabama
@@ -71086,56 +71136,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Yahoo Japan Corporation
-            homepage_url: https://yahoo.co.jp/
-            logo: yahoo_japan_corporation.svg
-            twitter: https://twitter.com/Yahoo_JAPAN_PR
-            crunchbase: https://www.crunchbase.com/organization/yahoo-japan
-            crunchbase_data:
-              name: Yahoo! Japan
-              description: Yahoo! Japan is a technology company that is known for its web services and applications.
-              num_employees_min: 5001
-              num_employees_max: 10000
-              homepage: https://www.yahoo.co.jp/
-              city: Tokyo
-              region: Tokyo
-              country: Japan
-              twitter: https://twitter.com/yahoo_japan_pr
-              linkedin: https://www.linkedin.com/company/yahoojapan/
-              acquisitions:
-                - date: '2010-08-16'
-                  acquiree: Cirius Technologies USA
-                - date: '2013-03-11'
-                  acquiree: Bluem
-                - date: '2014-03-27'
-                  acquiree: eAccess
-                - date: '2014-11-10'
-                  acquiree: FROSK, Inc.
-                - date: '2015-12-17'
-                  acquiree: Ikyu Corp.
-                - date: '2017-11-16'
-                  acquiree: Classified Corp.
-                - date: '2018-07-11'
-                  acquiree: DELY
-              parents: []
-              ticker: 4689.T
-              stockExchange: tyo
-              company_type: For Profit
-              industries:
-                - Auctions
-                - Internet
-                - Search Engine
-            yahoo_finance_data:
-              effective_ticker: 4689.T
-            image_data:
-              fileName: yahoo-japan-corporation.svg
-              hash: tO2JOvm4fxloyMp2yD/66HwQBfnUjwjGYLTu4b7czBI=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-21T08:28:51.000Z
-          - item:
             name: Yazaki Corporation
             homepage_url: https://yazaki-group.com/global/
             logo: yazaki_corporation.svg
@@ -71749,6 +71749,21 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T16:05:00.000Z
+          - item:
+            name: Acurast
+            homepage_url: https://acurast.com/
+            logo: acurast.svg
+            organization:
+              name: Acurast
+            crunchbase_data:
+              name: Acurast
+              parents: []
+            image_data:
+              fileName: acurast.svg
+              hash: UCzO2dwL4EI3gi+BV45ISGTWIunfS2CmSaZPp4Pfdp0=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Agentur für Innovation in der Cybersicherheit GmbH
             homepage_url: https://cyberagentur.de/
@@ -74249,7 +74264,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/epri/
               acquisitions: []
               parents: []
-              funding: 12399667
+              funding: 14699667
               stockExchange: null
               company_type: For Profit
               industries:
@@ -76632,7 +76647,7 @@ landscape:
               linkedin: https://www.linkedin.com/edu/school?id=50016&trk=edu-cp-title
               acquisitions: []
               parents: []
-              funding: 2911362
+              funding: 4361362
               stockExchange: null
               company_type: For Profit
               industries:
@@ -77764,7 +77779,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/national-renewable-energy-laboratory
               acquisitions: []
               parents: []
-              funding: 165088319
+              funding: 166088319
               stockExchange: null
               company_type: For Profit
               industries:
@@ -82895,4 +82910,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-10-02T02:18:48.398Z
+updated_at: 2023-10-03T00:30:47.733Z
