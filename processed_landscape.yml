@@ -10671,7 +10671,7 @@ landscape:
                   value: 1023
                   color: '#563d7c'
               contributions: >-
-                71;47;111;266;135;64;70;44;141;62;56;7;72;32;30;11;42;92;33;36;25;145;42;51;93;34;21;80;63;24;45;35;14;30;28;24;18;46;30;5;31;33;7;10;13;8;20;14;11;0;4;30
+                61;58;122;255;136;73;61;33;151;56;57;1;78;33;25;24;92;33;36;34;85;79;44;56;92;32;44;60;58;29;38;36;18;34;21;22;26;53;16;5;40;23;7;12;14;12;12;14;11;4;0;30
               firstWeek: 2022-10-09Z
               stars: 1029
               license: Apache License 2.0
@@ -26451,6 +26451,7 @@ landscape:
             homepage_url: https://appscode.com/
             logo: appscode_inc.svg
             crunchbase: https://www.crunchbase.com/organization/appscode
+            joined: '2023-10-01'
             crunchbase_data:
               name: AppsCode
               description: Cloud Native Data Platform
@@ -34504,9 +34505,9 @@ landscape:
                 - date: '2023-03-03'
                   acquiree: One River Digital Asset Management
               parents: []
-              ticker: COIN
+              ticker: 1COIN.MI
               funding: 678684825
-              stockExchange: nasdaq
+              stockExchange: bit
               company_type: For Profit
               industries:
                 - Bitcoin
@@ -34515,7 +34516,7 @@ landscape:
                 - FinTech
                 - Trading Platform
             yahoo_finance_data:
-              effective_ticker: COIN
+              effective_ticker: 1COIN.MI
             image_data:
               fileName: coinbase-inc.svg
               hash: MNJXV+sWQsLeewJiYoJ9CM9F8dlCtQffjIBMulez7sY=
@@ -38838,6 +38839,8 @@ landscape:
                   acquiree: Cox Automotive
                 - date: '2021-11-29'
                   acquiree: Sneaker Con
+                - date: '2022-01-02'
+                  acquiree: Homes Direct
                 - date: '2022-06-22'
                   acquiree: KnownOrigin
                 - date: '2022-08-22'
@@ -41823,8 +41826,6 @@ landscape:
                   acquiree: Baker Hughes
                 - date: '2017-07-30'
                   acquiree: IQP Corporation
-                - date: '2021-09-23'
-                  acquiree: BK Medical
                 - date: '2022-07-07'
                   acquiree: Nexus Controls
               parents: []
@@ -44724,8 +44725,8 @@ landscape:
               num_employees_min: 101
               num_employees_max: 250
               homepage: https://huggingface.co
-              city: French Lick
-              region: Indiana
+              city: Brooklyn
+              region: New York
               country: United States
               twitter: https://www.twitter.com/huggingface
               linkedin: https://www.linkedin.com/company/huggingface
@@ -46942,6 +46943,39 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T10:35:17.000Z
+          - item:
+            name: Japan Securities Clearing Corporation (JSCC)
+            homepage_url: https://jpx.co.jp/jscc/en
+            logo: japan_securities_clearing_corporation_jscc.svg
+            crunchbase: https://www.crunchbase.com/organization/japan-exchange-group
+            crunchbase_data:
+              name: Japan Exchange Group
+              description: JPX operates financial instruments exchange markets to provide market users with reliable venues for trading listed securities.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: https://www.jpx.co.jp/english
+              city: Tokyo
+              region: Tokyo
+              country: Japan
+              twitter: https://www.twitter.com/JPX_official_EN
+              linkedin: https://www.linkedin.com/company/jpx-derivatives-commodities
+              acquisitions: []
+              parents: []
+              ticker: 8697.T
+              funding: 0
+              stockExchange: tyo
+              company_type: For Profit
+              industries:
+                - Financial Services
+                - Stock Exchanges
+            yahoo_finance_data:
+              effective_ticker: 8697.T
+            image_data:
+              fileName: japan-securities-clearing-corporation-jscc.svg
+              hash: W7xuoVRmiDoOfnL0VojsebdxLR5S/5kC65k7zOkzg9Y=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Jetstack Ltd
             homepage_url: https://jetstack.io/
@@ -54267,24 +54301,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-18T06:27:35.000Z
           - item:
-            name: Noname Security
-            homepage_url: https://nonamesecurity.com/
-            logo: noname_security.svg
-            twitter: https://twitter.com/NonameSecurity
-            organization:
-              name: Noname Security
-            crunchbase_data:
-              name: Noname Security
-              parents: []
-            image_data:
-              fileName: noname-security.svg
-              hash: 0d7qKsqbNZsQ6ryHXrkOSwcEk4TjEPDHhtGl6MC3RA4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T13:02:53.000Z
-          - item:
             name: Nordic Semiconductor ASA
             homepage_url: https://nordicsemi.com/
             logo: nordic_semiconductor_asa.svg
@@ -58054,7 +58070,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/pulumi-corporation
             crunchbase_data:
               name: Pulumi
-              description: Pulumi is a  Seattle-based cloud engineering company that offers a way to build, connect, and run modern cloud applications.
+              description: Pulumi is a cloud engineering company that offers a way to build, connect, and run modern cloud applications.
               num_employees_min: 51
               num_employees_max: 100
               homepage: https://www.pulumi.com
@@ -63133,6 +63149,7 @@ landscape:
             homepage_url: https://solace.com/
             logo: solace.svg
             crunchbase: https://www.crunchbase.com/organization/solace
+            joined: '2023-10-01'
             crunchbase_data:
               name: Solace
               description: Solace’s is a PubSub+ event management platform that creates, documents, discover and stream events from where they are produced.
@@ -64056,6 +64073,21 @@ landscape:
             image_data:
               fileName: squer-holding-gmb-h.svg
               hash: fnzUWdixr7c4CS8KBqCy+FO9PHAymhY9whpgEg5O/0A=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: ST Soft
+            homepage_url: https://stsoft.ru/
+            logo: st_soft.svg
+            organization:
+              name: ST Soft
+            crunchbase_data:
+              name: ST Soft
+              parents: []
+            image_data:
+              fileName: st-soft.svg
+              hash: H44ukFB006FKTwpo9of8lGquIBGhqdXiDDXvntHaeUI=
             best_practice_data:
               badge: false
               percentage: null
@@ -68632,21 +68664,6 @@ landscape:
             image_data:
               fileName: uniberg.svg
               hash: tlu6257uxyf1BlRuDniCRCnT9M/hUbkDephm2ZKSfpk=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: UnifabriX
-            homepage_url: https://unifabrix.com/
-            logo: unifabrix.svg
-            organization:
-              name: UnifabriX
-            crunchbase_data:
-              name: UnifabriX
-              parents: []
-            image_data:
-              fileName: unifabri-x.svg
-              hash: fJGQ7435dWB28McrKikX+9Uq62Ilt58vYzocSW+lcS0=
             best_practice_data:
               badge: false
               percentage: null
@@ -82909,4 +82926,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-10-04T02:18:48.442Z
+updated_at: 2023-10-05T00:32:33.115Z
