@@ -10673,7 +10673,7 @@ landscape:
                   value: 1023
                   color: '#563d7c'
               contributions: >-
-                61;58;122;255;136;73;61;33;151;56;57;1;78;33;25;24;92;33;36;34;85;79;44;56;92;32;44;60;58;29;38;36;18;34;21;22;26;53;16;5;40;23;7;12;14;12;12;14;11;4;0;30
+                39;110;131;244;114;46;52;108;96;47;43;13;69;44;14;33;84;36;41;35;99;63;42;94;48;38;60;65;35;36;54;7;32;25;27;15;31;51;8;5;54;11;5;20;7;11;18;17;2;4;0;30
               firstWeek: 2022-10-09Z
               stars: 1029
               license: Apache License 2.0
@@ -18671,7 +18671,7 @@ landscape:
                 - date: '2019-06-04'
                   acquiree: Vocord
               parents: []
-              funding: 0
+              funding: 416614590
               stockExchange: null
               company_type: For Profit
               industries:
@@ -18679,6 +18679,7 @@ landscape:
                 - Software
                 - Web Hosting
                 - Wireless
+              kind: funding
             image_data:
               fileName: huawei-technologies-co-ltd.svg
               hash: HW/hKGtx9MyoGe2QPi3NdjeH6d9Ec3HCFp65qq/heKM=
@@ -19625,6 +19626,8 @@ landscape:
                   acquiree: FlipGrid
                 - date: '2018-06-20'
                   acquiree: Bonsai
+                - date: '2018-07-31'
+                  acquiree: PaperVault
                 - date: '2018-09-13'
                   acquiree: Lobe
                 - date: '2018-11-10'
@@ -20090,6 +20093,8 @@ landscape:
                   acquiree: Federos
                 - date: '2022-05-01'
                   acquiree: Adi Insights
+                - date: '2022-12-16'
+                  acquiree: Newmetrix
               parents: []
               ticker: ORCL
               funding: 0
@@ -22220,6 +22225,8 @@ landscape:
                   acquiree: Sprinks
                 - date: '2004-05-10'
                   acquiree: Ignite Logic
+                - date: '2004-07-14'
+                  acquiree: Picasa
                 - date: '2004-09-10'
                   acquiree: ZipDash
                 - date: '2004-10-09'
@@ -26730,9 +26737,9 @@ landscape:
               num_employees_min: 101
               num_employees_max: 250
               homepage: http://www.arduino.cc
-              city: New York
-              region: New York
-              country: United States
+              city: Monza
+              region: Lombardia
+              country: Italy
               twitter: http://twitter.com/arduino
               linkedin: https://www.linkedin.com/company/arduino
               acquisitions: []
@@ -31441,6 +31448,8 @@ landscape:
                   acquiree: Capgemini Business Services (India) Pvt Ltd
                 - date: '2006-10-26'
                   acquiree: Kanbay
+                - date: '2007-02-01'
+                  acquiree: Software Architects, Inc.
                 - date: '2007-02-09'
                   acquiree: Capgemini Financial Services International
                 - date: '2008-05-02'
@@ -34628,6 +34637,8 @@ landscape:
                   acquiree: RegO Products
                 - date: '2022-05-09'
                   acquiree: Malema
+                - date: '2023-10-04'
+                  acquiree: FW Murphy
               parents: []
               ticker: DOV
               stockExchange: nyse
@@ -35232,6 +35243,37 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-19T13:57:57.000Z
+          - item:
+            name: Convox Opco Inc.
+            homepage_url: https://convox.com/
+            logo: convox_opco_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/convox
+            crunchbase_data:
+              name: Convox
+              description: Convox is launch a private cloud in minutes.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: http://convox.com
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/goconvox
+              linkedin: https://www.linkedin.com/company/convox
+              acquisitions: []
+              parents: []
+              funding: 120000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Internet
+                - Software
+              kind: funding
+            image_data:
+              fileName: convox-opco-inc.svg
+              hash: 44OafLh2Ro/iwmSTmlzpI8QODdwroQRXvwUzXkaJ+4E=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: CoolIT Systems Inc.
             homepage_url: https://coolitsystems.com/
@@ -37381,7 +37423,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/denodo-technologies
             crunchbase_data:
               name: Denodo Technologies
-              description: 'Denodo provides unmatched performance and unified access to the broadest range of enterprise, Big Data, cloud and unstructured sources. '
+              description: Denodo is a developer of a real-time data integration platform.
               num_employees_min: 501
               num_employees_max: 1000
               homepage: http://www.denodo.com
@@ -37397,6 +37439,7 @@ landscape:
               company_type: For Profit
               industries:
                 - Big Data
+                - Information Technology
                 - Software
               kind: funding
             image_data:
@@ -41813,6 +41856,8 @@ landscape:
                   acquiree: Wurldtech
                 - date: '2014-07-02'
                   acquiree: Monsal Holdings
+                - date: '2015-10-01'
+                  acquiree: Blade Dynamics
                 - date: '2016-04-04'
                   acquiree: Metem Corporation
                 - date: '2016-09-06'
@@ -45741,6 +45786,8 @@ landscape:
                   acquiree: GaN Systems
                 - date: '2023-05-16'
                   acquiree: Imagimob
+                - date: '2023-10-04'
+                  acquiree: 3db access
               parents: []
               ticker: IFX.DE
               funding: 1734030088
@@ -46948,31 +46995,27 @@ landscape:
               latest_tweet_date: 2023-04-21T10:35:17.000Z
           - item:
             name: Japan Securities Clearing Corporation (JSCC)
-            homepage_url: https://jpx.co.jp/jscc/en
+            homepage_url: https://www.jpx.co.jp/jscc/en/
             logo: japan_securities_clearing_corporation_jscc.svg
-            crunchbase: https://www.crunchbase.com/organization/japan-exchange-group
+            crunchbase: https://www.crunchbase.com/organization/japan-securities-clearing
             crunchbase_data:
-              name: Japan Exchange Group
-              description: JPX operates financial instruments exchange markets to provide market users with reliable venues for trading listed securities.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: https://www.jpx.co.jp/english
+              name: Japan Securities Clearing
+              description: Japan Securities Clearing is a financial Service company.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: https://www.jpx.co.jp/jscc/en/
               city: Tokyo
               region: Tokyo
               country: Japan
-              twitter: https://www.twitter.com/JPX_official_EN
-              linkedin: https://www.linkedin.com/company/jpx-derivatives-commodities
+              twitter: null
+              linkedin: null
               acquisitions: []
               parents: []
-              ticker: 8697.T
-              funding: 0
-              stockExchange: tyo
+              stockExchange: null
               company_type: For Profit
               industries:
                 - Financial Services
-                - Stock Exchanges
-            yahoo_finance_data:
-              effective_ticker: 8697.T
+                - Insurance
             image_data:
               fileName: japan-securities-clearing-corporation-jscc.svg
               hash: W7xuoVRmiDoOfnL0VojsebdxLR5S/5kC65k7zOkzg9Y=
@@ -49635,9 +49678,9 @@ landscape:
               num_employees_min: 51
               num_employees_max: 100
               homepage: https://www.legitsecurity.com
-              city: Palo Alto
-              region: California
-              country: United States
+              city: Tel Aviv
+              region: Tel Aviv
+              country: Israel
               twitter: https://twitter.com/legitsecurity1
               linkedin: https://www.linkedin.com/company/legitsecurity
               acquisitions: []
@@ -50012,7 +50055,7 @@ landscape:
                 - date: '2015-03-16'
                   acquiree: Careerify
                 - date: '2015-04-02'
-                  acquiree: Refresh.io
+                  acquiree: Fishing.io
                 - date: '2015-04-09'
                   acquiree: Lynda
                 - date: '2015-08-27'
@@ -54941,6 +54984,8 @@ landscape:
                   acquiree: atSpoke
                 - date: '2023-06-12'
                   acquiree: Arengu
+                - date: '2023-10-04'
+                  acquiree: Uno
               parents: []
               ticker: OKTA
               funding: 1229250000
@@ -58347,6 +58392,41 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Quali
+            homepage_url: https://quali.com/
+            logo: quali.svg
+            crunchbase: https://www.crunchbase.com/organization/qualisystems
+            crunchbase_data:
+              name: Quali
+              description: Quali provides cloud platform solutions that increase productivity, cut costs, and optimize infrastructure utilization.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: http://www.quali.com
+              city: Santa Clara
+              region: California
+              country: United States
+              twitter: http://twitter.com/qualisystems
+              linkedin: https://www.linkedin.com/company/qualisystems
+              acquisitions: []
+              parents: []
+              funding: 102851995
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Management
+                - Data Center Automation
+                - Embedded Systems
+                - Enterprise Software
+                - Software
+                - Telecommunications
+              kind: funding
+            image_data:
+              fileName: quali.svg
+              hash: HU2RusoQFjZMc6k5bfgUY2Uq0/Vceh1gtERN3KIVQBM=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: QualitySoft Corporation
             homepage_url: https://qualitysoft.com/
             logo: qualitysoft_corporation.svg
@@ -58884,6 +58964,38 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T14:27:11.000Z
+          - item:
+            name: re:cinq
+            homepage_url: https://re-cinq.com/
+            logo: recinq.svg
+            crunchbase: https://www.crunchbase.com/organization/re-cinq
+            joined: '2023-10-01'
+            crunchbase_data:
+              name: re:cinq
+              description: IT Services
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://re-cinq.com
+              city: ' N/A'
+              region: ' N/A'
+              country: ' N/A'
+              twitter: null
+              linkedin: https://www.linkedin.com/company/98756978/admin/feed/posts/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Consulting
+                - Information Technology
+                - Professional Services
+                - Software
+            image_data:
+              fileName: re-cinq.svg
+              hash: LIOyEIRhKDEFu1Eo6gwL12jVQ3ZL1CUoQYE8h0mUPHM=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: ReadMe
             homepage_url: https://readme.io/
@@ -59439,7 +59551,7 @@ landscape:
                 - date: '2023-05-17'
                   acquiree: Metaco
                 - date: '2023-09-08'
-                  acquiree: Fortress
+                  acquiree: Fortress Blockchain Technologies
               parents: []
               funding: 293800000
               stockExchange: null
@@ -61025,7 +61137,7 @@ landscape:
               description: At Scott Logic we create intuitive software applications for clients in the energy sector.
               num_employees_min: 51
               num_employees_max: 100
-              homepage: http://www.scottlogic.com/
+              homepage: https://www.scottlogic.com/
               city: Newcastle Upon Tyne
               region: Newcastle upon Tyne
               country: United Kingdom
@@ -68447,7 +68559,7 @@ landscape:
                   acquiree: TravelBank
               parents: []
               ticker: USB
-              funding: 936000000
+              funding: 991000000
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -69279,21 +69391,6 @@ landscape:
             image_data:
               fileName: validation-cloud.svg
               hash: ByEdoOcFDq1PJUvDLbJ+edUR0pNrYV5LQejk85OQek8=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: ValueCloud
-            homepage_url: https://valuecloud.io/
-            logo: valuecloud.svg
-            organization:
-              name: ValueCloud
-            crunchbase_data:
-              name: ValueCloud
-              parents: []
-            image_data:
-              fileName: value-cloud.svg
-              hash: pNorvNOyIChUZ77Dpy0EBgcTmK/PZ6GHGQGasQEXT9A=
             best_practice_data:
               badge: false
               percentage: null
@@ -75923,6 +76020,8 @@ landscape:
                   acquiree: FlipGrid
                 - date: '2018-06-20'
                   acquiree: Bonsai
+                - date: '2018-07-31'
+                  acquiree: PaperVault
                 - date: '2018-09-13'
                   acquiree: Lobe
                 - date: '2018-11-10'
@@ -82929,4 +83028,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-10-05T02:21:49.868Z
+updated_at: 2023-10-07T00:30:33.635Z
