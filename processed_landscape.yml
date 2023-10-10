@@ -10670,7 +10670,7 @@ landscape:
                   value: 1023
                   color: '#563d7c'
               contributions: >-
-                33;113;149;223;118;42;68;101;87;47;43;55;33;38;14;36;83;38;37;35;123;39;48;92;62;20;67;62;31;40;50;7;35;24;25;15;31;51;8;19;40;11;5;20;7;14;15;17;2;4;7;23
+                33;103;232;158;95;54;60;135;55;64;16;59;33;39;11;42;94;25;33;33;125;58;43;91;49;18;69;64;39;38;41;6;38;24;30;14;35;42;8;18;47;6;2;21;6;14;17;17;0;4;7;23
               firstWeek: 2022-10-16Z
               stars: 1029
               license: Apache License 2.0
@@ -18668,7 +18668,7 @@ landscape:
                 - date: '2019-06-04'
                   acquiree: Vocord
               parents: []
-              funding: 416614590
+              funding: 0
               stockExchange: null
               company_type: For Profit
               industries:
@@ -18676,7 +18676,6 @@ landscape:
                 - Software
                 - Web Hosting
                 - Wireless
-              kind: funding
             image_data:
               fileName: huawei-technologies-co-ltd.svg
               hash: HW/hKGtx9MyoGe2QPi3NdjeH6d9Ec3HCFp65qq/heKM=
@@ -19707,7 +19706,7 @@ landscape:
                   acquiree: Fungible
               parents: []
               ticker: MSFT
-              funding: 15901000000
+              funding: 1000000
               stockExchange: nasdaq
               company_type: For Profit
               industries:
@@ -20442,7 +20441,7 @@ landscape:
                   acquiree: Cynora
               parents: []
               ticker: 005930.KS
-              funding: 2791020202
+              funding: 0
               stockExchange: krx
               company_type: For Profit
               industries:
@@ -27886,22 +27885,23 @@ landscape:
             logo: authzed.svg
             crunchbase: https://www.crunchbase.com/organization/authzed
             crunchbase_data:
-              name: Authzed
-              description: The platform to store, compute, and validate application permissions.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://authzed.com/
+              name: authzed
+              description: 'Creators of SpiceDB: open-source permissions database inspired by Google''s Zanzibar'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://authzed.com
               city: New York
               region: New York
               country: United States
               twitter: https://twitter.com/authzed
-              linkedin: https://www.linkedin.com/company/authzed/about/
+              linkedin: https://www.linkedin.com/company/authzed
               acquisitions: []
               parents: []
               funding: 3900000
               stockExchange: null
               company_type: For Profit
               industries:
+                - Cyber Security
                 - Information Technology
                 - Software
               kind: funding
@@ -28279,7 +28279,7 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/microsoft
               ticker: MSFT
-              funding: 15901000000
+              funding: 1000000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -49294,7 +49294,7 @@ landscape:
               description: Kythera is a next-generation AI middleware, dedicated to delivering new gaming experiences through innovative and empowering features.
               num_employees_min: 11
               num_employees_max: 50
-              homepage: http://kythera.ai/
+              homepage: https://kythera.ai/
               city: Edinburgh
               region: Edinburgh, City of
               country: United Kingdom
@@ -54356,6 +54356,21 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-18T06:27:35.000Z
+          - item:
+            name: Noname Security
+            homepage_url: https://nonamesecurity.com/
+            logo: noname_security.svg
+            organization:
+              name: Noname Security
+            crunchbase_data:
+              name: Noname Security
+              parents: []
+            image_data:
+              fileName: noname-security.svg
+              hash: 0d7qKsqbNZsQ6ryHXrkOSwcEk4TjEPDHhtGl6MC3RA4=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Nordic Semiconductor ASA
             homepage_url: https://nordicsemi.com/
@@ -71685,7 +71700,7 @@ landscape:
               description: Zoi is an essential paradigm of IT and electronics.
               num_employees_min: 11
               num_employees_max: 50
-              homepage: http://www.zoi.de/
+              homepage: https://www.zoi.tech/de
               city: Stuttgart
               region: Baden-Wurttemberg
               country: Germany
@@ -76129,7 +76144,7 @@ landscape:
                   acquiree: Fungible
               parents: []
               ticker: MSFT
-              funding: 15901000000
+              funding: 1000000
               stockExchange: nasdaq
               company_type: For Profit
               industries:
@@ -83053,4 +83068,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-10-09T02:21:23.546Z
+updated_at: 2023-10-10T00:31:38.465Z
