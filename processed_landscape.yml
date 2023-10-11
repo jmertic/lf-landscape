@@ -10670,9 +10670,9 @@ landscape:
                   value: 1023
                   color: '#563d7c'
               contributions: >-
-                33;103;232;158;95;54;60;135;55;64;16;59;33;39;11;42;94;25;33;33;125;58;43;91;49;18;69;64;39;38;41;6;38;24;30;14;35;42;8;18;47;6;2;21;6;14;17;17;0;4;7;23
+                47;111;266;135;64;70;44;141;62;56;7;72;32;30;11;42;92;33;36;25;145;42;51;93;34;21;80;63;24;45;35;14;30;28;24;18;46;30;5;31;33;7;10;13;8;20;14;11;0;4;30;0
               firstWeek: 2022-10-16Z
-              stars: 1029
+              stars: 1030
               license: Apache License 2.0
               description: Egeria core
               latest_commit_date: '2023-10-03T14:13:23Z'
@@ -10683,7 +10683,7 @@ landscape:
               contributors_link: https://github.com/odpi/egeria/graphs/contributors
             repos:
               - url: https://github.com/odpi/egeria
-                stars: 716
+                stars: 717
               - url: https://github.com/odpi/data-governance
                 stars: 97
               - url: https://github.com/odpi/egeria-ui
@@ -24185,6 +24185,8 @@ landscape:
                   acquiree: AMD Pensando
                 - date: '2023-08-24'
                   acquiree: Mipsology
+                - date: '2023-10-10'
+                  acquiree: Nod
               parents: []
               ticker: AMD
               funding: 0
@@ -39102,7 +39104,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/efabless-com
               acquisitions: []
               parents: []
-              funding: 5400000
+              funding: 11700000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -52306,7 +52308,7 @@ landscape:
                 - date: '2023-01-26'
                   acquiree: Shipa
               parents: []
-              funding: 220000000
+              funding: 240000000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -57713,12 +57715,12 @@ landscape:
               description: PRODYNA is an innovative IT consultancy specialized on the topic of digital business.
               num_employees_min: 251
               num_employees_max: 500
-              homepage: http://www.prodyna.com/
+              homepage: http://www.prodyna.com
               city: Eschborn
               region: Hessen
               country: Germany
               twitter: https://twitter.com/PRODYNASE
-              linkedin: https://www.linkedin.com/company-beta/274445/
+              linkedin: https://www.linkedin.com/company/prodyna
               acquisitions: []
               parents: []
               stockExchange: null
@@ -64525,12 +64527,12 @@ landscape:
               description: STL is an Indian manufacturer of optical fibers, telecommunication cables and power transmission conductors.
               num_employees_min: 1001
               num_employees_max: 5000
-              homepage: https://www.stl.tech/
+              homepage: https://www.stl.tech
               city: Pune
               region: Maharashtra
               country: India
               twitter: https://twitter.com/STL_tech
-              linkedin: https://in.linkedin.com/company/sterlite-technologies-ltd.
+              linkedin: https://www.linkedin.com/company/sterlite-technologies-ltd-
               acquisitions:
                 - date: '2015-09-23'
                   acquiree: Elitecore Technologies
@@ -66348,7 +66350,7 @@ landscape:
                 - date: '2023-04-21'
                   acquiree: TS-WAY
               parents: []
-              funding: 2430762581
+              funding: 2430234641
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -66563,7 +66565,7 @@ landscape:
                   acquiree: Kony
               parents: []
               ticker: TEMN.SW
-              funding: 218112022
+              funding: 217199838
               stockExchange: swx
               company_type: For Profit
               industries:
@@ -69478,11 +69480,26 @@ landscape:
             homepage_url: https://vates.fr/
             logo: vates.svg
             twitter: https://twitter.com/vatesfr
-            organization:
-              name: Vates
+            crunchbase: https://www.crunchbase.com/organization/vates-1882
             crunchbase_data:
               name: Vates
+              description: Vates provides open-source solutions for virtualization.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://vates.fr
+              city: Grenoble
+              region: Rhone-Alpes
+              country: France
+              twitter: https://twitter.com/vatesfr
+              linkedin: https://www.linkedin.com/company/vates-sas
+              acquisitions: []
               parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cyber Security
+                - Information Technology
+                - Virtualization
             image_data:
               fileName: vates.svg
               hash: MoRMPHdgU0ec1xKMVg2AdnFipxbtnDzzxozQJz14evw=
@@ -71137,11 +71154,26 @@ landscape:
             homepage_url: https://xcalibyte.com/
             logo: xcalibyte.svg
             twitter: https://twitter.com/xcalibyte_hk
-            organization:
-              name: Xcalibyte
+            crunchbase: https://www.crunchbase.com/organization/xcalibyte
             crunchbase_data:
               name: Xcalibyte
+              description: Xcalibyte substantially enhances productivity with tools that are accurate, informative, reliable and easy to use for developers.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://xcalibyte.com
+              city: Wan Chai
+              region: Hong Kong Island
+              country: Hong Kong
+              twitter: null
+              linkedin: https://www.linkedin.com/company/xcalibyte
+              acquisitions: []
               parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Technology
+                - Productivity Tools
+                - Software
             image_data:
               fileName: xcalibyte.svg
               hash: 0DsKczuKFjVkZx9Bn+2SY1i6wjirMi1mhD9RjFTvAxg=
@@ -83068,4 +83100,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-10-10T02:21:00.389Z
+updated_at: 2023-10-11T00:30:28.516Z
