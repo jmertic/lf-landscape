@@ -10671,9 +10671,9 @@ landscape:
                   value: 1023
                   color: '#563d7c'
               contributions: >-
-                47;111;266;135;64;70;44;141;62;56;7;72;32;30;11;42;92;33;36;25;145;42;51;93;34;21;80;63;24;45;35;14;30;28;24;18;46;30;5;31;33;7;10;13;8;20;14;11;0;4;30;0
+                58;122;255;136;73;61;33;151;56;57;1;78;33;25;24;92;33;36;34;85;79;44;56;92;32;44;60;58;29;38;36;18;34;21;22;26;53;16;5;40;23;7;12;14;12;12;14;11;4;0;30;0
               firstWeek: 2022-10-16Z
-              stars: 1030
+              stars: 1032
               license: Apache License 2.0
               description: Egeria core
               latest_commit_date: '2023-10-03T14:13:23Z'
@@ -10684,7 +10684,7 @@ landscape:
               contributors_link: https://github.com/odpi/egeria/graphs/contributors
             repos:
               - url: https://github.com/odpi/egeria
-                stars: 717
+                stars: 719
               - url: https://github.com/odpi/data-governance
                 stars: 97
               - url: https://github.com/odpi/egeria-ui
@@ -31301,7 +31301,11 @@ landscape:
               funding: 5000000
               stockExchange: null
               company_type: For Profit
-              industries: []
+              industries:
+                - Apps
+                - Fleet Management
+                - Information Technology
+                - Software
               kind: funding
             image_data:
               fileName: calyptia.svg
@@ -31915,6 +31919,35 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T18:16:44.000Z
+          - item:
+            name: CECloud Computing Technology Co., Ltd
+            homepage_url: https://cecloud.com/
+            logo: cecloud_computing_technology_co_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/china-electronic-system-cloud-data-and-intelligence-technology
+            crunchbase_data:
+              name: Digital Language Lab Service Provider
+              description: Find English Language Lab service provider in Hyderabad.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: https://www.englishlab.co.in/
+              city: Haidian
+              region: Beijing
+              country: China
+              twitter: https://twitter.com/digitalteach1
+              linkedin: https://www.linkedin.com/company/digital-teacher-in
+              acquisitions: []
+              parents: []
+              funding: 57844427
+              stockExchange: null
+              company_type: For Profit
+              industries: []
+              kind: funding
+            image_data:
+              fileName: ce-cloud-computing-technology-co-ltd.svg
+              hash: BY5OL4tlG/3g3CdHbxhGJfrvBCeQJuh4/2Bw9k2k2EE=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: CelerData
             homepage_url: https://celerdata.com/
@@ -35580,7 +35613,11 @@ landscape:
               funding: 8500000
               stockExchange: null
               company_type: For Profit
-              industries: []
+              industries:
+                - Apps
+                - Events
+                - Security
+                - Software
               kind: funding
             image_data:
               fileName: cosmonic.svg
@@ -36657,7 +36694,7 @@ landscape:
                 - date: '2023-06-26'
                   acquiree: MosaicML
               parents: []
-              funding: 3997000000
+              funding: 4000709318
               stockExchange: null
               company_type: For Profit
               industries:
@@ -37587,6 +37624,8 @@ landscape:
               acquisitions:
                 - date: '2010-07-01'
                   acquiree: Avox
+                - date: '2013-07-01'
+                  acquiree: Omgeo
                 - date: '2015-07-10'
                   acquiree: CounterPartyLink
               parents: []
@@ -37911,7 +37950,10 @@ landscape:
               funding: 1000000
               stockExchange: null
               company_type: For Profit
-              industries: []
+              industries:
+                - Blockchain
+                - Cryptocurrency
+                - FinTech
               kind: funding
             image_data:
               fileName: dhiway-networks-private-limited.svg
@@ -48092,7 +48134,11 @@ landscape:
               funding: 25000000
               stockExchange: null
               company_type: For Profit
-              industries: []
+              industries:
+                - Analytics
+                - Cyber Security
+                - Developer APIs
+                - Software
               kind: funding
             image_data:
               fileName: kodem-security.svg
@@ -51635,7 +51681,10 @@ landscape:
               funding: 5500000
               stockExchange: null
               company_type: For Profit
-              industries: []
+              industries:
+                - Apps
+                - Video Streaming
+                - Video on Demand
               kind: funding
             image_data:
               fileName: memphis-dev-dba-stretch-inc.svg
@@ -52285,7 +52334,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/mirantis
             crunchbase_data:
               name: Mirantis
-              description: Mirantis helps organizations ship code faster on public and private clouds. We provide a public cloud experience on any infrastructure.
+              description: Mirantis is a DevOps as-a-service company that helps organizations ship code on public and private clouds on any infrastructure.
               num_employees_min: 501
               num_employees_max: 1000
               homepage: http://www.mirantis.com
@@ -52317,7 +52366,6 @@ landscape:
                 - IT Infrastructure
                 - IaaS
                 - Open Source
-                - Software
               kind: funding
             image_data:
               fileName: mirantis-inc.svg
@@ -53434,7 +53482,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/netdata
             crunchbase_data:
               name: Netdata
-              description: Netdata is an open-source, distributed, real-time, performance, and monitoring solution for systems and applications to help IT teams.
+              description: Monitor your servers, containers, and applications, in high-resolution and in real-time.
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://www.netdata.cloud
@@ -55471,7 +55519,10 @@ landscape:
               funding: 10000000
               stockExchange: null
               company_type: For Profit
-              industries: []
+              industries:
+                - Cloud Security
+                - Cyber Security
+                - Information Technology
               kind: funding
             image_data:
               fileName: opus-security.svg
@@ -55871,7 +55922,10 @@ landscape:
               funding: 11500000
               stockExchange: null
               company_type: For Profit
-              industries: []
+              industries:
+                - Cloud Management
+                - IT Infrastructure
+                - Risk Management
               kind: funding
             image_data:
               fileName: otterize.svg
@@ -56027,7 +56081,7 @@ landscape:
               description: Open source, Security-as-Code platform for developers and security teams to identify and eliminate risks in your clouds.
               num_employees_min: null
               num_employees_max: null
-              homepage: https://www.paladincloud.io
+              homepage: https://paladincloud.io
               city: Piscataway
               region: New Jersey
               country: United States
@@ -56038,7 +56092,10 @@ landscape:
               funding: 3300000
               stockExchange: null
               company_type: For Profit
-              industries: []
+              industries:
+                - Cloud Computing
+                - Cloud Security
+                - Software
               kind: funding
             image_data:
               fileName: paladin-cloud.svg
@@ -61564,7 +61621,7 @@ landscape:
               city: Rome
               region: Lazio
               country: Italy
-              twitter: https://twitter.com/Reply_ITA
+              twitter: null
               linkedin: https://www.linkedin.com/company/sense-reply/
               acquisitions: []
               parents: []
@@ -62076,8 +62133,8 @@ landscape:
             twitter: https://twitter.com/shoreline_io
             crunchbase: https://www.crunchbase.com/organization/shoreline-io
             crunchbase_data:
-              name: Shoreline
-              description: Shoreline provides fleet-wide debugging and incident remediation tools that increase availability and streamline production operations.
+              name: Shoreline.io
+              description: Shoreline's AI engine identifies incident patterns and generates runbooks that debug and repair your software.
               num_employees_min: 51
               num_employees_max: 100
               homepage: https://shoreline.io/
@@ -62367,11 +62424,23 @@ landscape:
             name: sifamo
             homepage_url: https://sifamo.com/
             logo: sifamo.svg
-            organization:
-              name: sifamo
+            crunchbase: https://www.crunchbase.com/organization/sifamo
             crunchbase_data:
               name: sifamo
+              description: We solve IT! - Fullstack I Angular, SpringBoot, Kafka, Kubernetes.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.sifamo.com/
+              city: Berlin
+              region: Berlin
+              country: Germany
+              twitter: null
+              linkedin: https://www.linkedin.com/company/sifamo/
+              acquisitions: []
               parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
             image_data:
               fileName: sifamo.svg
               hash: 6WeXcjFoIe5mW5HZAHxWCyvbIuY48ZP8PUJlyU45Ebw=
@@ -77950,6 +78019,35 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-10T13:26:26.000Z
           - item:
+            name: National Payments Corporation of India
+            homepage_url: https://npci.org.in/
+            logo: national_payments_corporation_of_india.svg
+            crunchbase: https://www.crunchbase.com/organization/national-payments-corporation-of-india
+            crunchbase_data:
+              name: National Payments Corporation of India
+              description: NPCI is an umbrella organization for all retail payments in India.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: https://www.npci.org.in/
+              city: Mumbai
+              region: Maharashtra
+              country: India
+              twitter: https://www.twitter.com/npci_npci
+              linkedin: https://www.linkedin.com/company/npci
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Financial Services
+                - Non Profit
+            image_data:
+              fileName: national-payments-corporation-of-india.svg
+              hash: 9ABEzOVk194r/8bA90LaW9IvPkjsbJlafC3grZbWsJ4=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: National Renewable Energy Laboratory (NREL)
             homepage_url: https://nrel.gov/
             logo: national_renewable_energy_laboratory_nrel.svg
@@ -79615,7 +79713,7 @@ landscape:
               linkedin: https://www.linkedin.com/edu/university-of-michigan-18633
               acquisitions: []
               parents: []
-              funding: 277200000
+              funding: 278400000
               stockExchange: null
               company_type: Non Profit
               industries:
@@ -81860,7 +81958,7 @@ landscape:
               linkedin: https://www.linkedin.com/edu/university-of-michigan-18633
               acquisitions: []
               parents: []
-              funding: 277200000
+              funding: 278400000
               stockExchange: null
               company_type: Non Profit
               industries:
@@ -82189,7 +82287,7 @@ landscape:
               linkedin: https://www.linkedin.com/school/university-of-southern-california/
               acquisitions: []
               parents: []
-              funding: 520000
+              funding: 2120000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -83099,4 +83197,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-10-11T02:20:33.022Z
+updated_at: 2023-10-12T00:30:39.062Z
