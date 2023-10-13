@@ -10670,9 +10670,9 @@ landscape:
                   value: 1023
                   color: '#563d7c'
               contributions: >-
-                58;122;255;136;73;61;33;151;56;57;1;78;33;25;24;92;33;36;34;85;79;44;56;92;32;44;60;58;29;38;36;18;34;21;22;26;53;16;5;40;23;7;12;14;12;12;14;11;4;0;30;0
+                88;120;242;143;49;54;89;111;40;55;1;81;38;17;32;88;33;42;28;91;80;39;75;70;30;61;49;58;28;50;19;25;30;19;24;30;50;11;5;51;12;7;17;9;12;12;15;10;4;0;30;0
               firstWeek: 2022-10-16Z
-              stars: 1032
+              stars: 1033
               license: Apache License 2.0
               description: Egeria core
               latest_commit_date: '2023-10-03T14:13:23Z'
@@ -10683,7 +10683,7 @@ landscape:
               contributors_link: https://github.com/odpi/egeria/graphs/contributors
             repos:
               - url: https://github.com/odpi/egeria
-                stars: 719
+                stars: 720
               - url: https://github.com/odpi/data-governance
                 stars: 97
               - url: https://github.com/odpi/egeria-ui
@@ -25213,6 +25213,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2016-07-09T12:55:53.000Z
           - item:
+            name: Alpha Business Solutions Private Limited
+            homepage_url: https://alphabsolutions.com/
+            logo: alpha_business_solutions_private_limited.svg
+            organization:
+              name: Alpha Business Solutions Private Limited
+            crunchbase_data:
+              name: Alpha Business Solutions Private Limited
+              parents: []
+            image_data:
+              fileName: alpha-business-solutions-private-limited.svg
+              hash: 7+29eG3QNeHxoO6XSybrlWYEipjeXNZTZaVFPVTlStM=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Alter Way
             homepage_url: https://alterway.fr/
             logo: alter_way.svg
@@ -27597,12 +27612,12 @@ landscape:
               description: Atlassian provides collaboration, development, and issue tracking software for teams.
               num_employees_min: 1001
               num_employees_max: 5000
-              homepage: http://www.atlassian.com/
+              homepage: http://www.atlassian.com
               city: Sydney
               region: New South Wales
               country: Australia
               twitter: http://twitter.com/atlassian
-              linkedin: https://www.linkedin.com/company/atlassian/
+              linkedin: https://www.linkedin.com/company/atlassian
               acquisitions:
                 - date: '2010-09-29'
                   acquiree: Bitbucket
@@ -27640,6 +27655,8 @@ landscape:
                   acquiree: ThinkTilt
                 - date: '2022-01-27'
                   acquiree: Percept.AI
+                - date: '2023-10-12'
+                  acquiree: Loom
               parents: []
               ticker: TEAM
               funding: 210000000
@@ -27936,7 +27953,10 @@ landscape:
               funding: 4000000
               stockExchange: null
               company_type: For Profit
-              industries: []
+              industries:
+                - Cloud Computing
+                - Cloud Infrastructure
+                - SaaS
               kind: funding
             image_data:
               fileName: auto-cloud.svg
@@ -34784,6 +34804,8 @@ landscape:
                 - date: '2014-07-14'
                   acquiree: PowerCloud Systems
                 - date: '2015-06-04'
+                  acquiree: AudienceXpress
+                - date: '2015-06-04'
                   acquiree: Visible World
                 - date: '2015-08-19'
                   acquiree: THIS TECHNOLOGY, Inc.
@@ -38203,7 +38225,7 @@ landscape:
               description: Digital China is a IT services provider in China.
               num_employees_min: 5001
               num_employees_max: 10000
-              homepage: http://www.digitalchina.com.hk
+              homepage: http://en.dcits.com/index.html
               city: Haidian
               region: Beijing
               country: China
@@ -40982,7 +41004,10 @@ landscape:
               funding: 0
               stockExchange: null
               company_type: For Profit
-              industries: []
+              industries:
+                - Cloud Infrastructure
+                - Enterprise Software
+                - SaaS
             image_data:
               fileName: flanksource.svg
               hash: nw2ccMtOiAwG/q9/ZPYwLsRzbgq0EFGqIUYJY9bnvOU=
@@ -53489,7 +53514,7 @@ landscape:
               city: San Francisco
               region: California
               country: United States
-              twitter: https://twitter.com/linuxnetdata
+              twitter: https://twitter.com/netdatahq
               linkedin: https://www.linkedin.com/company/netdata-cloud/
               acquisitions: []
               parents: []
@@ -53509,8 +53534,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-19T15:38:54.000Z
           - item:
             name: Netflix, Inc.
             homepage_url: https://netflix.com/
@@ -54719,6 +54742,8 @@ landscape:
                   acquiree: PortalPlayer
                 - date: '2007-12-13'
                   acquiree: mental images
+                - date: '2008-01-01'
+                  acquiree: Modviz
                 - date: '2008-02-04'
                   acquiree: AGEIA Technologies
                 - date: '2008-05-23'
@@ -59745,7 +59770,10 @@ landscape:
               funding: 3700000
               stockExchange: null
               company_type: For Profit
-              industries: []
+              industries:
+                - Developer Tools
+                - SaaS
+                - Software Engineering
               kind: funding
             image_data:
               fileName: roadie.svg
@@ -60887,7 +60915,11 @@ landscape:
               funding: 0
               stockExchange: null
               company_type: For Profit
-              industries: []
+              industries:
+                - Cloud Computing
+                - Computer Vision
+                - Enterprise Resource Planning (ERP)
+                - Software Engineering
             image_data:
               fileName: scale-ops.svg
               hash: 3JITeXuzPHDNOsudhu5dCWLZA+BbkRgkniXor7QeKIk=
@@ -61744,41 +61776,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Shanghai Guance Information Technology Ltd.
-            homepage_url: https://guance.com/
-            logo: shanghai_guance_information_technology_ltd.svg
-            crunchbase: https://www.crunchbase.com/organization/guanceyun
-            crunchbase_data:
-              name: Guance Cloud
-              description: Guance Cloud offers a full-stack observability platform for cloud-based workflows.
-              num_employees_min: 251
-              num_employees_max: 500
-              homepage: https://www.guance.com
-              city: Shanghai
-              region: Shanghai
-              country: China
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              funding: 70551277
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Analytics
-                - Cloud Computing
-                - Cloud Data Services
-                - Information Technology
-                - Productivity Tools
-                - Software
-              kind: funding
-            image_data:
-              fileName: shanghai-guance-information-technology-ltd.svg
-              hash: xQPTwnXH+onT30oihPGMQukvfEL3zFjiM8FQ73jI0s8=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Shanghai HFtech Co. LTD
             homepage_url: https://hftech.com/
             logo: shanghai_hftech_co_ltd.svg
@@ -62425,6 +62422,7 @@ landscape:
             homepage_url: https://sifamo.com/
             logo: sifamo.svg
             crunchbase: https://www.crunchbase.com/organization/sifamo
+            joined: '2023-10-01'
             crunchbase_data:
               name: sifamo
               description: We solve IT! - Fullstack I Angular, SpringBoot, Kafka, Kubernetes.
@@ -63215,6 +63213,8 @@ landscape:
               twitter: http://twitter.com/softchoice
               linkedin: https://www.linkedin.com/company/softchoice
               acquisitions:
+                - date: '2007-10-01'
+                  acquiree: Software Plus
                 - date: '2011-11-03'
                   acquiree: Unis Lumin
               parents: []
@@ -78341,9 +78341,9 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T11:12:09.000Z
           - item:
-            name: Noregs Bank
+            name: Norges Bank
             homepage_url: https://norges-bank.no/
-            logo: noregs_bank.svg
+            logo: norges_bank.svg
             crunchbase: https://www.crunchbase.com/organization/norges-bank
             crunchbase_data:
               name: Norges Bank
@@ -78363,7 +78363,7 @@ landscape:
               industries:
                 - Banking
             image_data:
-              fileName: noregs-bank.svg
+              fileName: norges-bank.svg
               hash: pPfQJa/P9v0AHSRcjza5IFb0DuB64GUyugyyswBSn0c=
             best_practice_data:
               badge: false
@@ -83197,4 +83197,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-10-12T02:20:31.808Z
+updated_at: 2023-10-13T00:29:47.744Z
