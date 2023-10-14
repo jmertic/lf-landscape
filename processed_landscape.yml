@@ -10671,9 +10671,9 @@ landscape:
                   value: 1023
                   color: '#563d7c'
               contributions: >-
-                88;120;242;143;49;54;89;111;40;55;1;81;38;17;32;88;33;42;28;91;80;39;75;70;30;61;49;58;28;50;19;25;30;19;24;30;50;11;5;51;12;7;17;9;12;12;15;10;4;0;30;0
+                110;131;244;114;46;52;108;96;47;43;13;69;44;14;33;84;36;41;35;99;63;42;94;48;38;60;65;35;36;54;7;32;25;27;15;31;51;8;5;54;11;5;20;7;11;18;17;2;4;0;30;0
               firstWeek: 2022-10-16Z
-              stars: 1033
+              stars: 1036
               license: Apache License 2.0
               description: Egeria core
               latest_commit_date: '2023-10-03T14:13:23Z'
@@ -10684,7 +10684,7 @@ landscape:
               contributors_link: https://github.com/odpi/egeria/graphs/contributors
             repos:
               - url: https://github.com/odpi/egeria
-                stars: 720
+                stars: 723
               - url: https://github.com/odpi/data-governance
                 stars: 97
               - url: https://github.com/odpi/egeria-ui
@@ -25122,6 +25122,8 @@ landscape:
                   acquiree: Westpac - general insurance business
                 - date: '2021-06-16'
                   acquiree: ELIX Vintage Residencial
+                - date: '2023-10-12'
+                  acquiree: TUA Assicurazioni
               parents: []
               ticker: ALV.DE
               funding: 85000000
@@ -25424,7 +25426,7 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/amazon
               ticker: AMZN
-              funding: 8108000000
+              funding: 0
               stockExchange: null
               company_type: For Profit
               industries:
@@ -30016,6 +30018,8 @@ landscape:
                   acquiree: Afterpay
                 - date: '2022-05-18'
                   acquiree: Goparrot
+                - date: '2023-10-11'
+                  acquiree: HIFI
               parents: []
               ticker: SQ
               funding: 601166807
@@ -32376,9 +32380,9 @@ landscape:
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.chinamobileltd.com
-              city: Beijing
-              region: Beijing
-              country: China
+              city: Hong Kong
+              region: Hong Kong Island
+              country: Hong Kong
               twitter: null
               linkedin: https://www.linkedin.com/company/china-mobile/
               acquisitions:
@@ -37533,9 +37537,9 @@ landscape:
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: https://www.denso.com
-              city: Kariya
-              region: Aichi
-              country: Japan
+              city: Southfield
+              region: Michigan
+              country: United States
               twitter: https://twitter.com/densoeurope
               linkedin: https://www.linkedin.com/company/denso
               acquisitions:
@@ -48549,7 +48553,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/kubeark
               acquisitions: []
               parents: []
-              funding: 2800000
+              funding: 0
               stockExchange: null
               company_type: For Profit
               industries:
@@ -48557,7 +48561,6 @@ landscape:
                 - IT Infrastructure
                 - PaaS
                 - SaaS
-              kind: funding
             image_data:
               fileName: kubeark.svg
               hash: 9v0TGVsF9ENF36zOyorP2Jl+lodi8DMnIXoDwH3kaLw=
@@ -58566,7 +58569,7 @@ landscape:
               percentage: null
           - item:
             name: R3 LLC
-            homepage_url: https://r3cev.com/
+            homepage_url: https://r3.com/
             logo: r3_llc.svg
             crunchbase: https://www.crunchbase.com/organization/r3-cev
             crunchbase_data:
@@ -62869,6 +62872,33 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T22:36:00.000Z
           - item:
+            name: Smart Cloud Solutions
+            homepage_url: https://smartclouds.us/
+            logo: smart_cloud_solutions.svg
+            crunchbase: https://www.crunchbase.com/organization/smart-cloud-solutions
+            crunchbase_data:
+              name: Smart Cloud Solutions
+              description: Smart Cloud Solutions (SCS) is a platform that bundles open compute hardware and open source software all in one.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.smartclouds.us/
+              city: Plano
+              region: Texas
+              country: United States
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
+            image_data:
+              fileName: smart-cloud-solutions.svg
+              hash: 7/kkgYTylfXOi9F7Ul26o/6bKESuvvdw1pkNaAk4V8w=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: SmartBear Software, Inc.
             homepage_url: https://smartbear.com/
             logo: smartbear_software_inc.svg
@@ -65224,7 +65254,6 @@ landscape:
                 - date: '2021-06-02'
                   acquiree: Sensu
               parents: []
-              ticker: SUMO
               funding: 340000000
               stockExchange: nasdaq
               company_type: For Profit
@@ -65234,8 +65263,7 @@ landscape:
                 - Cloud Data Services
                 - Enterprise Software
                 - SaaS
-            yahoo_finance_data:
-              effective_ticker: SUMO
+              kind: funding
             image_data:
               fileName: sumo-logic-inc.svg
               hash: JS3CA+qaq3LT2KKol/OGynd269AkhORR96hq75UwjdY=
@@ -69953,39 +69981,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-02-15T22:15:44.000Z
-          - item:
-            name: VicOne Inc.
-            homepage_url: https://vicone.com/
-            logo: vicone_inc.svg
-            twitter: https://twitter.com/VicOneAuto
-            crunchbase: https://www.crunchbase.com/organization/vicone
-            crunchbase_data:
-              name: Vicone
-              description: Vicone is manufactures and supplies extruded and molded rubber parts, custom made, to spec and on time and guide and supportin manufacture.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: http://www.viconerubber.com
-              city: Saint-eustache
-              region: Quebec
-              country: Canada
-              twitter: https://www.twitter.com/viconerubber
-              linkedin: https://www.linkedin.com/company/vicone-high-performance-rubber-i
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Consumer Electronics
-                - Electronics
-                - Manufacturing
-            image_data:
-              fileName: vic-one-inc.svg
-              hash: grfLCcucVEWfO/6sCpewaa6wvDRBo3GtgJGtd8sIeeE=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T19:09:49.000Z
           - item:
             name: VictoriaMetrics
             homepage_url: https://victoriametrics.com/
@@ -83197,4 +83192,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-10-13T02:19:30.966Z
+updated_at: 2023-10-14T00:32:47.308Z
