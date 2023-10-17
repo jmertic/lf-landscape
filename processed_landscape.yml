@@ -10670,9 +10670,9 @@ landscape:
                   value: 1023
                   color: '#563d7c'
               contributions: >-
-                113;149;223;118;42;68;101;87;47;43;55;33;38;14;36;83;38;37;35;123;39;48;92;62;20;67;62;31;40;50;7;35;24;25;15;31;51;8;19;40;11;5;20;7;14;15;17;2;4;7;23;0
+                103;232;158;95;54;60;135;55;64;16;59;33;39;11;42;94;25;33;33;125;58;43;91;49;18;69;64;39;38;41;6;38;24;30;14;35;42;8;18;47;6;2;21;6;14;17;17;0;4;7;23;0
               firstWeek: 2022-10-23Z
-              stars: 1037
+              stars: 1038
               license: Apache License 2.0
               description: Egeria core
               latest_commit_date: '2023-10-03T14:13:23Z'
@@ -10683,7 +10683,7 @@ landscape:
               contributors_link: https://github.com/odpi/egeria/graphs/contributors
             repos:
               - url: https://github.com/odpi/egeria
-                stars: 724
+                stars: 725
               - url: https://github.com/odpi/data-governance
                 stars: 97
               - url: https://github.com/odpi/egeria-ui
@@ -20450,6 +20450,7 @@ landscape:
                 - Manufacturing
                 - Mobile
                 - Mobile Devices
+                - Software
             yahoo_finance_data:
               effective_ticker: 005930.KS
             image_data:
@@ -21284,6 +21285,8 @@ landscape:
                   acquiree: ATI Solutions Group
                 - date: '2023-09-05'
                   acquiree: Nautilus Consulting
+                - date: '2023-10-13'
+                  acquiree: The Storytellers
               parents: []
               ticker: CSA.F
               funding: 6000000
@@ -21312,7 +21315,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/alibaba-cloud
             crunchbase_data:
               name: Alibaba Cloud
-              description: Alibaba Cloud develops highly scalable cloud computing and data management services.
+              description: Alibaba Cloud develops cloud computing and data management services.
               num_employees_min: 1001
               num_employees_max: 5000
               homepage: https://in.alibabacloud.com
@@ -23504,7 +23507,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/aarna-networks-inc.
               acquisitions: []
               parents: []
-              funding: 3516000
+              funding: 5016000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -28286,6 +28289,8 @@ landscape:
                   acquiree: Azaleos
                 - date: '2013-02-08'
                   acquiree: Opstera
+                - date: '2015-06-10'
+                  acquiree: KCS
                 - date: '2018-08-14'
                   acquiree: Loud & Clear
                 - date: '2019-09-23'
@@ -43374,9 +43379,9 @@ landscape:
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: https://www.neteasegames.com
-              city: Hangzhou
-              region: Zhejiang
-              country: China
+              city: Tokyo
+              region: Tokyo
+              country: Japan
               twitter: https://twitter.com/neteaseofficial?lang=en
               linkedin: https://www.linkedin.com/company/netease
               acquisitions:
@@ -49327,6 +49332,8 @@ landscape:
                   acquiree: Neudesic
                 - date: '2022-06-14'
                   acquiree: Randori
+                - date: '2022-07-01'
+                  acquiree: Omnio
                 - date: '2022-07-06'
                   acquiree: Databand
                 - date: '2022-09-22'
@@ -57358,7 +57365,7 @@ landscape:
               description: Information Technology and Services
               num_employees_min: 11
               num_employees_max: 50
-              homepage: https://www.polarsquad.com/
+              homepage: https://polarsquad.com/
               city: Helsinki
               region: Southern Finland
               country: Finland
@@ -61775,6 +61782,41 @@ landscape:
             image_data:
               fileName: shabodi.svg
               hash: 8XcM5sXTRJ/1/3ot79tiby286dmBk/eg94HoXVMfz8o=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Shanghai Guance Information Technology Ltd.
+            homepage_url: https://guance.com/
+            logo: shanghai_guance_information_technology_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/guanceyun
+            crunchbase_data:
+              name: Guance Cloud
+              description: Guance Cloud offers a full-stack observability platform for cloud-based workflows.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: https://www.guance.com
+              city: Shanghai
+              region: Shanghai
+              country: China
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              funding: 70551277
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Analytics
+                - Cloud Computing
+                - Cloud Data Services
+                - Information Technology
+                - Productivity Tools
+                - Software
+              kind: funding
+            image_data:
+              fileName: shanghai-guance-information-technology-ltd.svg
+              hash: xQPTwnXH+onT30oihPGMQukvfEL3zFjiM8FQ73jI0s8=
             best_practice_data:
               badge: false
               percentage: null
@@ -69676,7 +69718,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/velocity-b933
             crunchbase_data:
               name: Velocity
-              description: Increasing R&D velocity by allowing developers to create on-demand, fully isolated production-like environments.
+              description: Develop locally in your IDE, build, run and debug directly on your cloud.
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://velocity.tech
@@ -73319,6 +73361,8 @@ landscape:
                   acquiree: Neudesic
                 - date: '2022-06-14'
                   acquiree: Randori
+                - date: '2022-07-01'
+                  acquiree: Omnio
                 - date: '2022-07-06'
                   acquiree: Databand
                 - date: '2022-09-22'
@@ -82483,7 +82527,7 @@ landscape:
               linkedin: https://www.linkedin.com/edu/university-of-waterloo-10875
               acquisitions: []
               parents: []
-              funding: 5269194
+              funding: 5819194
               stockExchange: null
               company_type: For Profit
               industries:
@@ -83222,4 +83266,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-10-16T02:21:57.569Z
+updated_at: 2023-10-17T00:32:25.678Z
