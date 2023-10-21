@@ -10630,7 +10630,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 84599762
+                  value: 84595903
                   color: '#b07219'
                 - name: JavaScript
                   value: 1418898
@@ -10674,13 +10674,13 @@ landscape:
                   value: 1023
                   color: '#563d7c'
               contributions: >-
-                120;242;143;49;54;89;111;40;55;1;81;38;17;32;88;33;42;28;91;80;39;75;70;30;61;49;58;28;50;19;25;30;19;24;30;50;11;5;51;12;7;17;9;12;12;15;10;4;0;30;5;2
+                131;244;114;46;52;108;96;47;43;13;69;44;14;33;84;36;41;35;99;63;42;94;48;38;60;65;35;36;54;7;32;25;27;15;31;51;8;5;54;11;5;20;7;11;18;17;2;4;0;30;5;7
               firstWeek: 2022-10-23Z
               stars: 1038
               license: Apache License 2.0
               description: Egeria core
-              latest_commit_date: '2023-10-18T05:22:26Z'
-              latest_commit_link: /odpi/egeria/commit/858342657d771934cd97e165a606d54c48c2fc93
+              latest_commit_date: '2023-10-20T09:50:24Z'
+              latest_commit_link: /odpi/egeria/commit/55affe28f6b4cca1b0f3ab235e3003ed3861d706
               release_date: '2023-09-13T11:47:04Z'
               release_link: https://github.com/odpi/egeria/releases
               contributors_count: 77
@@ -24620,9 +24620,9 @@ landscape:
                 - date: '2019-08-05'
                   acquiree: Urbandoor
               parents: []
-              ticker: ABNB
+              ticker: 0A8C.L
               funding: 6423132065
-              stockExchange: nasdaq
+              stockExchange: lse
               company_type: For Profit
               industries:
                 - Hospitality
@@ -24631,7 +24631,7 @@ landscape:
                 - Travel
                 - Travel Accommodations
             yahoo_finance_data:
-              effective_ticker: ABNB
+              effective_ticker: 0A8C.L
             image_data:
               fileName: airbnb.svg
               hash: 4F20c1Q9BUtSvVwgWbsEFrWSxXHpGqckq0ZlnqrzU9w=
@@ -25360,7 +25360,7 @@ landscape:
             joined: '2022-07-01'
             crunchbase_data:
               name: amazee.io
-              description: Your ZeroOps application delivery hub.
+              description: A developer-first open source application delivery & hosting platform. Unmatched flexibility, up to 99.99% uptime, & personalised support.
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://www.amazee.io/
@@ -37746,7 +37746,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/dtcc
             crunchbase_data:
               name: DTCC
-              description: Securing Today. Shaping Tomorrow.
+              description: DTCC provides financial services to promote the stability and certainty of global financial markets.
               num_employees_min: 1001
               num_employees_max: 5000
               homepage: http://www.dtcc.com/
@@ -37762,6 +37762,8 @@ landscape:
                   acquiree: Omgeo
                 - date: '2015-07-10'
                   acquiree: CounterPartyLink
+                - date: '2023-10-19'
+                  acquiree: Securrency
               parents: []
               stockExchange: null
               company_type: For Profit
@@ -38399,9 +38401,9 @@ landscape:
                 - date: '2023-07-07'
                   acquiree: Paperspace
               parents: []
-              ticker: DOCN
+              ticker: OSU.F
               funding: 491275418
-              stockExchange: nyse
+              stockExchange: fra
               company_type: For Profit
               industries:
                 - Cloud Computing
@@ -38409,7 +38411,7 @@ landscape:
                 - Virtualization
                 - Web Hosting
             yahoo_finance_data:
-              effective_ticker: DOCN
+              effective_ticker: OSU.F
             image_data:
               fileName: digital-ocean.svg
               hash: Dkhwj6PDhU/lsXh70wAV/7BpkW0QLt1ElgNZtAFmH8U=
@@ -40067,6 +40069,8 @@ landscape:
               acquisitions:
                 - date: '1995-01-03'
                   acquiree: CDB Infotek
+                - date: '2002-08-01'
+                  acquiree: Naviant
                 - date: '2005-02-08'
                   acquiree: APPRO Systems
                 - date: '2006-10-09'
@@ -42425,7 +42429,7 @@ landscape:
             joined: '2017-07-01'
             crunchbase_data:
               name: GitLab
-              description: GitLab is a comprehensive DevSecOps platform for software innovation.
+              description: GitLab is a web-based Git repository manager that offers a variety of features for software development teams.
               num_employees_min: 1001
               num_employees_max: 5000
               homepage: http://about.gitlab.com
@@ -42451,7 +42455,7 @@ landscape:
                   acquiree: Opstrace
               parents: []
               ticker: GTLB
-              funding: 413500000
+              funding: 421009750
               stockExchange: nasdaq
               company_type: For Profit
               industries:
@@ -63318,6 +63322,8 @@ landscape:
                   acquiree: Igap Technology
                 - date: '2019-12-03'
                   acquiree: Embotics
+                - date: '2022-02-01'
+                  acquiree: Scalable Software
               parents: []
               funding: 120000000
               stockExchange: null
@@ -63806,11 +63812,12 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T20:00:20.000Z
           - item:
-            name: SonarSource SA
+            name: Sonar
             homepage_url: https://sonarsource.com/
-            logo: sonarsource_sa.svg
+            logo: sonar.svg
             twitter: https://twitter.com/SonarSource
             crunchbase: https://www.crunchbase.com/organization/sonarsource
+            joined: '2023-04-01'
             crunchbase_data:
               name: SonarSource
               description: SonarSource provides open-source and commercial code analyzers to help developers manage code quality.
@@ -63836,7 +63843,7 @@ landscape:
                 - Software
               kind: funding
             image_data:
-              fileName: sonar-source-sa.svg
+              fileName: sonar.svg
               hash: 96l8yieuqQ2dBEqjs5JLUym+Bxa1qEVNWn/dOu3UyA8=
             best_practice_data:
               badge: false
@@ -80338,7 +80345,7 @@ landscape:
               description: SAFECode.org is a non-profit organization exclusively dedicated to increasing trust in information and communications technology products.
               num_employees_min: 11
               num_employees_max: 50
-              homepage: http://www.safecode.org/
+              homepage: https://safecode.org/
               city: Wakefield
               region: Massachusetts
               country: United States
@@ -83510,4 +83517,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-10-20T02:18:54.966Z
+updated_at: 2023-10-21T00:31:28.807Z
