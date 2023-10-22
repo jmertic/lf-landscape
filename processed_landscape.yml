@@ -10676,8 +10676,8 @@ landscape:
                   value: 1023
                   color: '#563d7c'
               contributions: >-
-                131;244;114;46;52;108;96;47;43;13;69;44;14;33;84;36;41;35;99;63;42;94;48;38;60;65;35;36;54;7;32;25;27;15;31;51;8;5;54;11;5;20;7;11;18;17;2;4;0;30;5;7
-              firstWeek: 2022-10-23Z
+                136;239;114;46;52;110;94;47;43;13;74;39;14;33;84;36;41;35;123;39;42;96;64;20;64;61;35;37;53;7;32;25;27;15;31;51;8;5;54;11;5;20;7;11;18;17;2;4;0;30;5;7
+              firstWeek: 2022-10-30Z
               stars: 1038
               license: Apache License 2.0
               description: Egeria core
@@ -29809,40 +29809,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: Biqmind Pte Ltd
-            homepage_url: https://biqmind.com/
-            logo: biqmind_pte_ltd.svg
-            crunchbase: https://www.crunchbase.com/organization/biqmind
-            joined: '2020-06-01'
-            crunchbase_data:
-              name: Biqmind
-              description: Biqmind builds software to accelerate cloud native application development and delivery.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: http://www.biqmind.com
-              city: Singapore
-              region: Central Region
-              country: Singapore
-              twitter: https://twitter.com/biqmind
-              linkedin: https://www.linkedin.com/company/biqmind/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Consulting
-                - Enterprise Software
-                - Information Technology
-                - Software
-            image_data:
-              fileName: biqmind-pte-ltd.svg
-              hash: VizsJfq3kDsMs0dVMIHXuByQAk78xgiW5YCxRdkgW8I=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-03-27T03:34:41.000Z
           - item:
             name: BISDN
             homepage_url: https://bisdn.de/
@@ -50181,9 +50147,9 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-19T15:02:39.000Z
           - item:
-            name: LINBIT USA LLC
+            name: LINBIT
             homepage_url: https://linbit.com/
-            logo: linbit_usa_llc.svg
+            logo: linbit.svg
             twitter: https://twitter.com/linbit
             crunchbase: https://www.crunchbase.com/organization/linbit
             crunchbase_data:
@@ -50211,7 +50177,7 @@ landscape:
                 - Open Source
                 - Software
             image_data:
-              fileName: linbit-usa-llc.svg
+              fileName: linbit.svg
               hash: fXrhMcG9t03nOfP6EGCGoX4dv1zcSzZ4m0r8Nmcbbwc=
             best_practice_data:
               badge: false
@@ -51933,7 +51899,7 @@ landscape:
               latest_tweet_date: 2023-04-20T14:41:57.000Z
           - item:
             name: Mercedes-Benz Tech Innovation GmbH
-            homepage_url: https://daimler-tss.com/
+            homepage_url: https://mercedes-benz.com/
             logo: mercedes-benz_tech_innovation_gmbh.svg
             twitter: https://twitter.com/mercedesbenz_ti
             crunchbase: https://www.crunchbase.com/organization/daimler
@@ -54624,21 +54590,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-18T06:27:35.000Z
-          - item:
-            name: Noname Security
-            homepage_url: https://nonamesecurity.com/
-            logo: noname_security.svg
-            organization:
-              name: Noname Security
-            crunchbase_data:
-              name: Noname Security
-              parents: []
-            image_data:
-              fileName: noname-security.svg
-              hash: 0d7qKsqbNZsQ6ryHXrkOSwcEk4TjEPDHhtGl6MC3RA4=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: Nordic Semiconductor ASA
             homepage_url: https://nordicsemi.com/
@@ -61822,6 +61773,8 @@ landscape:
               stockExchange: nasdaq
               company_type: For Profit
               industries:
+                - Finance
+                - Financial Services
                 - Insurance
             yahoo_finance_data:
               effective_ticker: SIGI
@@ -83520,4 +83473,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-10-21T02:19:25.860Z
+updated_at: 2023-10-22T00:32:38.858Z
