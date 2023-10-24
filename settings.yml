@@ -123,77 +123,14 @@ big_picture:
     fullscreen_header: See the interactive landscape at lf-landscape.netlify.app
     elements:
       - type: VerticalCategory
-        category: Vertical Specific
+        category: PMO Managed
         cols: 6
         width: 240
         height: 300
-        top: 10
-        left: 900
+        top: 0
+        left: 0
         color: rgb(78,171,207)
         fit_height: true
-      - type: HorizontalCategory
-        category: Cloud Computing
-        rows: 4
-        width: 880
-        height: 170
-        top: 10
-        left: 0
-        color: rgb(104,145,145)
-        fit_width: true
-      - type: HorizontalCategory
-        category: Development and Tooling
-        rows: 4
-        width: 600
-        height: 190
-        top: 200
-        left: 0
-        color: rgb(108,135,75)
-        fit_width: true
-      - type: HorizontalCategory
-        category: Data, Analytics, and AI
-        rows: 3
-        width: 880
-        height: 140
-        top: 420
-        left: 0
-        color: rgb(130,207,231)
-        fit_width: false
-      - type: VerticalCategory
-        category: Other
-        cols: 6
-        width: 240
-        height: 140
-        top: 430
-        left: 900
-        color: rgb(130,207,231)
-        fit_width: true
-      - type: HorizontalCategory
-        category: Infrastructure
-        rows: 4
-        width: 1140
-        height: 180
-        top: 600
-        left: 0
-        color: rgb(130,207,231)
-        fit_width: false
-      - type: VerticalCategory
-        category: Standards
-        cols: 6
-        width: 240
-        height: 100
-        top: 320
-        left: 900
-        color: rgb(130,207,231)
-        fit_width: true
-      - type: HorizontalCategory
-        category: Community and Compliance
-        rows: 4
-        width: 270
-        height: 190
-        top: 200
-        left: 610
-        color: rgb(130,207,231)
-        fit_width: false
   third:
     tab_index: 1
     url: members
