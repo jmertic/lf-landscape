@@ -10676,7 +10676,7 @@ landscape:
                   value: 1023
                   color: '#563d7c'
               contributions: >-
-                149;223;118;42;68;101;87;47;43;55;33;38;14;36;83;38;37;35;123;39;48;92;62;20;67;62;31;40;50;7;35;24;25;15;31;51;8;19;40;11;5;20;7;14;15;17;2;4;7;23;5;7
+                232;158;95;54;60;135;55;64;16;59;33;39;11;42;94;25;33;33;125;58;43;91;49;18;69;64;39;38;41;6;38;24;30;14;35;42;8;18;47;6;2;21;6;14;17;17;0;4;7;23;5;7
               firstWeek: 2022-10-30Z
               stars: 1039
               license: Apache License 2.0
@@ -20547,7 +20547,7 @@ landscape:
                   acquiree: VISUAL ARTS
               parents: []
               ticker: 0700.HK
-              funding: 12706770000
+              funding: 12576770000
               stockExchange: hkg
               company_type: For Profit
               industries:
@@ -23813,6 +23813,35 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T23:00:55.000Z
+          - item:
+            name: Ad Hoc LLC
+            homepage_url: https://adhocteam.us/
+            logo: ad_hoc_llc.svg
+            crunchbase: https://www.crunchbase.com/organization/ad-hoc-labs-2/people
+            crunchbase_data:
+              name: People+
+              description: People+ helps sales, business development and recruiting professionals make better decisions by making business information more objective.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://getpeopleplus.com
+              city: Berkeley
+              region: California
+              country: United States
+              twitter: http://twitter.com/PeoplePlus
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Business Intelligence
+                - Mobile
+            image_data:
+              fileName: ad-hoc-llc.svg
+              hash: qyFGQFppuXsvFdY/8lMAhp5l9o5W0uxzFDUKThS0zgY=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Adaptech Group
             homepage_url: https://adaptechgroup.com/
@@ -31973,16 +32002,16 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/china-electronic-system-cloud-data-and-intelligence-technology
             joined: '2022-04-01'
             crunchbase_data:
-              name: Digital Language Lab Service Provider
-              description: Find English Language Lab service provider in Hyderabad.
+              name: CECloud Computing Technology Co., Ltd
+              description: Provides digital infrastructure and cloud services with a focus on security and intelligence.
               num_employees_min: 1001
               num_employees_max: 5000
-              homepage: https://www.englishlab.co.in/
+              homepage: https://cecloud.com/
               city: Haidian
               region: Beijing
               country: China
-              twitter: https://twitter.com/digitalteach1
-              linkedin: https://www.linkedin.com/company/digital-teacher-in
+              twitter: null
+              linkedin: null
               acquisitions: []
               parents: []
               funding: 57844427
@@ -36788,6 +36817,8 @@ landscape:
                   acquiree: Okera
                 - date: '2023-06-26'
                   acquiree: MosaicML
+                - date: '2023-10-23'
+                  acquiree: Arcion
               parents: []
               funding: 4000709318
               stockExchange: null
@@ -41306,6 +41337,67 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T07:06:31.000Z
+          - item:
+            name: FogHorn Systems
+            homepage_url: https://foghorn.io/
+            logo: foghorn_systems.svg
+            twitter: https://twitter.com/JCI_Buildings
+            crunchbase: https://www.crunchbase.com/organization/johnson-controls
+            crunchbase_data:
+              name: Johnson Controls
+              description: Johnson Controls offers smart buildings that create safe, healthy, and sustainable environments.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.johnsoncontrols.com
+              city: Cork
+              region: Cork
+              country: Ireland
+              twitter: http://twitter.com/johnsoncontrol
+              linkedin: https://www.linkedin.com/company/johnson-controls
+              acquisitions:
+                - date: '2001-12-17'
+                  acquiree: SCIENTECH
+                - date: '2006-01-30'
+                  acquiree: Bristol Compressors International
+                - date: '2008-10-16'
+                  acquiree: Gridlogix
+                - date: '2011-03-03'
+                  acquiree: EnergyConnect
+                - date: '2016-01-25'
+                  acquiree: Tyco Integrated Security
+                - date: '2018-04-02'
+                  acquiree: Smartvue
+                - date: '2018-10-02'
+                  acquiree: Lux Products
+                - date: '2020-08-07'
+                  acquiree: Qolsys
+                - date: '2021-04-09'
+                  acquiree: Silent-Aire
+                - date: '2021-04-20'
+                  acquiree: Esotec
+                - date: '2022-01-12'
+                  acquiree: FogHorn
+                - date: '2022-06-23'
+                  acquiree: Tempered
+                - date: '2023-01-13'
+                  acquiree: Hybrid Energy
+                - date: '2023-07-17'
+                  acquiree: FMSystems
+              parents: []
+              ticker: JCI
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Industrial Engineering
+                - Physical Security
+            yahoo_finance_data:
+              effective_ticker: JCI
+            image_data:
+              fileName: fog-horn-systems.svg
+              hash: soFQi8SsIQXyvdx+CpV6ktfhcGASPs1eRSu9VogdnV4=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Fortanix
             homepage_url: https://fortanix.com/
@@ -65116,6 +65208,40 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T03:59:59.000Z
           - item:
+            name: Strata Identity
+            homepage_url: https://strata.io/
+            logo: strata_identity.svg
+            crunchbase: https://www.crunchbase.com/organization/strata-identity
+            joined: '2022-08-01'
+            crunchbase_data:
+              name: Strata Identity
+              description: Strata Identity provides distributed multi-cloud identity orchestration for hybrid and multi-cloud environments.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.strata.io
+              city: Boulder
+              region: Colorado
+              country: United States
+              twitter: https://twitter.com/strataidentity
+              linkedin: https://www.linkedin.com/company/strata-identity/
+              acquisitions: []
+              parents: []
+              funding: 37500000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Data Services
+                - Identity Management
+                - Information Technology
+                - Software
+              kind: funding
+            image_data:
+              fileName: strata-identity.svg
+              hash: r5T25t5iJSCDvlwuZAZtG4YveKX45igwTnYQnIp7KIs=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Stratascale
             homepage_url: https://stratascale.com/
             logo: stratascale.svg
@@ -69900,9 +70026,9 @@ landscape:
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://velocity.tech
-              city: Tel Aviv
-              region: Tel Aviv
-              country: Israel
+              city: ' N/A'
+              region: ' N/A'
+              country: ' N/A'
               twitter: https://twitter.com/velocitytechhq
               linkedin: https://www.linkedin.com/company/techvelocity/
               acquisitions: []
@@ -72955,7 +73081,7 @@ landscape:
               linkedin: https://www.linkedin.com/school/uc-berkeley
               acquisitions: []
               parents: []
-              funding: 1042321
+              funding: 2236932
               stockExchange: null
               company_type: ''
               industries:
@@ -80785,7 +80911,7 @@ landscape:
               linkedin: https://www.linkedin.com/school/stanford-university
               acquisitions: []
               parents: []
-              funding: 5059066
+              funding: 23451726
               stockExchange: null
               company_type: For Profit
               industries:
@@ -83473,4 +83599,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-10-23T02:20:46.191Z
+updated_at: 2023-10-24T00:31:46.499Z
