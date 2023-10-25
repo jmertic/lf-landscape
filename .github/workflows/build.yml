@@ -31,6 +31,7 @@ jobs:
         working-directory: ./landscape
         run: |
           ../landscape-tools/landscapemembers.py
+          cp images/red-hat-inc.svg hosted_logos/red_hat_inc.svg
       - name: Save missing.csv file
         uses: actions/upload-artifact@v3
         with:
