@@ -10679,7 +10679,7 @@ landscape:
                   value: 1023
                   color: '#563d7c'
               contributions: >-
-                242;143;49;54;89;111;40;55;1;81;38;17;32;88;33;42;28;91;80;39;75;70;30;61;49;58;28;50;19;25;30;19;24;30;50;11;5;51;12;7;17;9;12;12;15;10;4;0;30;5;3;4
+                244;114;46;52;108;96;47;43;13;69;44;14;33;84;36;41;35;99;63;42;94;48;38;60;65;35;36;54;7;32;25;27;15;31;51;8;5;54;11;5;20;7;11;18;17;2;4;0;30;5;7;0
               firstWeek: 2022-10-30Z
               stars: 1038
               license: Apache License 2.0
@@ -21306,6 +21306,8 @@ landscape:
                   acquiree: Mnemo Mexico
                 - date: '2023-10-25'
                   acquiree: ConcentricLife
+                - date: '2023-10-26'
+                  acquiree: Comtech Group Inc
               parents: []
               ticker: CSA.F
               funding: 6000000
@@ -37810,7 +37812,7 @@ landscape:
                 - Information Technology
             image_data:
               fileName: depository-trust-and-clearing-corporation-dtcc.svg
-              hash: jX5qNSNB6CRt2jhFRWqGFF5oclDDYDwAdW0EJhd1cho=
+              hash: Buj5xE5JL9LgXtD7L8OdFccpNwruTTlwslBRPicP8zs=
             best_practice_data:
               badge: false
               percentage: null
@@ -45847,7 +45849,7 @@ landscape:
                 - Information Technology
             image_data:
               fileName: ilki-france.svg
-              hash: ZCAkRBZXXp/GhEY74c0WxSHgamb+phNhsSAfO2azAeg=
+              hash: j4H1i1xycPgvNFDd9lEPJEtxmfcrrcALCbB46q/Q4V0=
             best_practice_data:
               badge: false
               percentage: null
@@ -48116,6 +48118,8 @@ landscape:
                   acquiree: Labber
                 - date: '2020-06-25'
                   acquiree: Eggplant
+                - date: '2020-07-01'
+                  acquiree: NORDSYS
                 - date: '2021-02-22'
                   acquiree: Sanjole
                 - date: '2021-05-25'
@@ -57797,6 +57801,37 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Posit
+            homepage_url: https://posit.co/
+            logo: posit.svg
+            crunchbase: https://www.crunchbase.com/organization/posit
+            crunchbase_data:
+              name: Posit
+              description: Posit is an open-source data science company the individual, team and enterprise.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: https://posit.co
+              city: Boston
+              region: Massachusetts
+              country: United States
+              twitter: https://twitter.com/posit_pbc
+              linkedin: https://www.linkedin.com/company/posit-software
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Consulting
+                - Software
+            image_data:
+              fileName: posit.svg
+              hash: FM2il+yGGyOKOkSFvRdIFanZYeztCnx3AGmdoZMeuB8=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2023-04-20T18:41:45.000Z
+          - item:
             name: Poste Italiane SPA
             homepage_url: https://posteitaliane.it/
             logo: poste_italiane_spa.svg
@@ -60373,43 +60408,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: RStudio PBC
-            homepage_url: https://rstudio.com/
-            logo: rstudio_pbc.svg
-            twitter: https://twitter.com/posit_pbc
-            crunchbase: https://www.crunchbase.com/organization/rstudio
-            joined: '2019-10-01'
-            crunchbase_data:
-              name: RStudio
-              description: RStudio develops open source and enterprise-ready professional software for the R statistical computing environment.
-              num_employees_min: 251
-              num_employees_max: 500
-              homepage: http://www.rstudio.com/
-              city: Boston
-              region: Massachusetts
-              country: United States
-              twitter: https://twitter.com/rstudio
-              linkedin: https://www.linkedin.com/company/rstudio-pbc/
-              acquisitions: []
-              parents: []
-              funding: 166384540
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Developer Tools
-                - Enterprise Software
-                - Software
-                - Web Browsers
-              kind: funding
-            image_data:
-              fileName: r-studio-pbc.svg
-              hash: n9D9D7ZTzhhPUvIT/DKjfp6K0TMovfKownaWyC4lWw0=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T18:41:45.000Z
-          - item:
             name: RTE (Reseau de Transport dElectricite)
             homepage_url: https://rte-france.com/
             logo: rte_reseau_de_transport_delectricite.svg
@@ -62301,7 +62299,7 @@ landscape:
               num_employees_min: 1001
               num_employees_max: 5000
               homepage: http://www.formssi.com/
-              city: Nanshanqu
+              city: Shenzhen
               region: Guangdong
               country: China
               twitter: null
@@ -64723,21 +64721,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: ST Soft
-            homepage_url: https://stsoft.ru/
-            logo: st_soft.svg
-            organization:
-              name: ST Soft
-            crunchbase_data:
-              name: ST Soft
-              parents: []
-            image_data:
-              fileName: st-soft.svg
-              hash: H44ukFB006FKTwpo9of8lGquIBGhqdXiDDXvntHaeUI=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: stack.io
             homepage_url: https://stack.io/
             logo: stackio.svg
@@ -65262,40 +65245,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T03:59:59.000Z
-          - item:
-            name: Strata Identity
-            homepage_url: https://strata.io/
-            logo: strata_identity.svg
-            crunchbase: https://www.crunchbase.com/organization/strata-identity
-            joined: '2022-08-01'
-            crunchbase_data:
-              name: Strata Identity
-              description: Strata Identity provides distributed multi-cloud identity orchestration for hybrid and multi-cloud environments.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.strata.io
-              city: Boulder
-              region: Colorado
-              country: United States
-              twitter: https://twitter.com/strataidentity
-              linkedin: https://www.linkedin.com/company/strata-identity/
-              acquisitions: []
-              parents: []
-              funding: 37500000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Data Services
-                - Identity Management
-                - Information Technology
-                - Software
-              kind: funding
-            image_data:
-              fileName: strata-identity.svg
-              hash: r5T25t5iJSCDvlwuZAZtG4YveKX45igwTnYQnIp7KIs=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: Stratascale
             homepage_url: https://stratascale.com/
@@ -72388,7 +72337,7 @@ landscape:
               linkedin: https://www.linkedin.com/school/harvard-university
               acquisitions: []
               parents: []
-              funding: 125329910
+              funding: 134582139
               stockExchange: null
               company_type: For Profit
               industries:
@@ -73136,7 +73085,7 @@ landscape:
               linkedin: https://www.linkedin.com/school/uc-berkeley
               acquisitions: []
               parents: []
-              funding: 35931685
+              funding: 21207430
               stockExchange: null
               company_type: ''
               industries:
@@ -77757,7 +77706,7 @@ landscape:
               linkedin: https://www.linkedin.com/school/harvard-university
               acquisitions: []
               parents: []
-              funding: 125329910
+              funding: 134582139
               stockExchange: null
               company_type: For Profit
               industries:
@@ -80968,7 +80917,7 @@ landscape:
               linkedin: https://www.linkedin.com/school/stanford-university
               acquisitions: []
               parents: []
-              funding: 23451726
+              funding: 20928024
               stockExchange: null
               company_type: For Profit
               industries:
@@ -81003,12 +80952,14 @@ landscape:
               linkedin: https://www.linkedin.com/company/statnett-sf/
               acquisitions: []
               parents: []
+              funding: 89392299
               stockExchange: null
               company_type: For Profit
               industries:
                 - Energy
                 - Government
                 - Power Grid
+              kind: funding
             image_data:
               fileName: statnett.svg
               hash: a2W0uEJe06Co62UhXJxrzPZfSIUo3HYxFhYVL7BREGg=
@@ -81909,7 +81860,7 @@ landscape:
               linkedin: https://www.linkedin.com/edu/university-of-california-davis-17942
               acquisitions: []
               parents: []
-              funding: 3672073
+              funding: 6543287
               stockExchange: null
               company_type: Non Profit
               industries:
@@ -81944,7 +81895,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/university-of-california-at-san-diego
               acquisitions: []
               parents: []
-              funding: 28412456
+              funding: 26176642
               stockExchange: null
               company_type: For Profit
               industries:
@@ -81980,7 +81931,7 @@ landscape:
               linkedin: https://www.linkedin.com/school/2841
               acquisitions: []
               parents: []
-              funding: 19745157
+              funding: 19445159
               stockExchange: null
               company_type: ''
               industries:
@@ -82453,7 +82404,7 @@ landscape:
               linkedin: https://www.linkedin.com/school/university-of-minnesota/
               acquisitions: []
               parents: []
-              funding: 72050000
+              funding: 97050000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -82849,7 +82800,7 @@ landscape:
               linkedin: https://www.linkedin.com/school/university-of-washington
               acquisitions: []
               parents: []
-              funding: 119793502
+              funding: 123892789
               stockExchange: null
               company_type: For Profit
               industries:
@@ -82883,7 +82834,7 @@ landscape:
               linkedin: https://www.linkedin.com/school/university-of-washington
               acquisitions: []
               parents: []
-              funding: 119793502
+              funding: 123892789
               stockExchange: null
               company_type: For Profit
               industries:
@@ -83093,7 +83044,7 @@ landscape:
               linkedin: https://www.linkedin.com/edu/university-of-california-davis-17942
               acquisitions: []
               parents: []
-              funding: 3672073
+              funding: 6543287
               stockExchange: null
               company_type: Non Profit
               industries:
@@ -83656,4 +83607,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-10-27T02:18:52.901Z
+updated_at: 2023-10-28T00:30:27.380Z
