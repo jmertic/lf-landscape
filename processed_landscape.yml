@@ -10678,8 +10678,8 @@ landscape:
                   value: 1023
                   color: '#563d7c'
               contributions: >-
-                244;114;46;52;108;96;47;43;13;69;44;14;33;84;36;41;35;99;63;42;94;48;38;60;65;35;36;54;7;32;25;27;15;31;51;8;5;54;11;5;20;7;11;18;17;2;4;0;30;5;7;0
-              firstWeek: 2022-10-30Z
+                239;114;46;52;110;94;47;43;13;74;39;14;33;84;36;41;35;123;39;42;96;64;20;64;61;35;37;53;7;32;25;27;15;31;51;8;5;54;11;5;20;7;11;18;17;2;4;0;30;5;7;0
+              firstWeek: 2022-11-06Z
               stars: 1038
               license: Apache License 2.0
               description: Egeria core
@@ -29485,7 +29485,7 @@ landscape:
               parents: []
             image_data:
               fileName: beijing-huijun-technology-co-ltd-jd-cloud.svg
-              hash: 3NkHF5CscUe9Yii7pvL1kRFRj5c93rg+guAEjs/6gi8=
+              hash: p2+hdZmKN38UnRXNMK33Cry7t7Gv8ZSOxoN/MzZqZXw=
             best_practice_data:
               badge: false
               percentage: null
@@ -30474,30 +30474,38 @@ landscape:
             homepage_url: https://bnpparibas.com/
             logo: bnp_paribas.svg
             twitter: https://twitter.com/BNPParibas
-            crunchbase: https://www.crunchbase.com/organization/bnp-paribas-cib
+            crunchbase: https://www.crunchbase.com/organization/bnp-paribas-private-equity
             crunchbase_data:
-              name: BNP Paribas CIB
-              description: Corporate and Investment Banking
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://cib.bnpparibas.com
+              name: BNP Paribas Private Equity
+              description: BNP Paribas Private Equity is a private equity firm that provides a range of asset management services to institutional and retail clients.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.bnpparibas-ip.com
               city: Paris
               region: Ile-de-France
               country: France
-              twitter: https://www.twitter.com/bnpparibas
-              linkedin: https://www.linkedin.com/company/bnp-paribas
+              twitter: http://twitter.com/bnpparibas
+              linkedin: https://www.linkedin.com/company/bnp-paribas-investment-partners
               acquisitions:
-                - date: '2009-05-12'
-                  acquiree: Fortis
-              parents:
-                - https://www.crunchbase.com/organization/bnp-paribas-private-equity
+                - date: '2007-08-03'
+                  acquiree: BNP Paribas Personal Finance EAD
+                - date: '2010-05-12'
+                  acquiree: Fortis Bank France
+                - date: '2010-05-23'
+                  acquiree: Levantina
+                - date: '2015-07-30'
+                  acquiree: Sharekhan Limited, India
+                - date: '2017-04-04'
+                  acquiree: Compte Nickel
+                - date: '2017-09-07'
+                  acquiree: Gambit Financial Solutions
+              parents: []
               stockExchange: null
               company_type: For Profit
               industries:
-                - Banking
-                - Finance
+                - Asset Management
                 - Financial Services
-                - Service Industry
+                - Retail
             image_data:
               fileName: bnp-paribas.svg
               hash: EC1gbbTQqfGn0LWfAuwt40FiGAHTp2J+8UYJ3rJylCU=
@@ -35851,41 +35859,33 @@ landscape:
             name: Crayon
             homepage_url: https://crayon.no/
             logo: crayon.svg
-            crunchbase: https://www.crunchbase.com/organization/crayon-group
+            crunchbase: https://www.crunchbase.com/organization/crayon-2
             crunchbase_data:
-              name: Crayon Group
-              description: Crayon Group provides software asset management (SAM), cloud and volume licensing and associated consulting services.
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: https://www.crayon.com
-              city: Oslo
-              region: Oslo
-              country: Norway
-              twitter: https://twitter.com/crayonIT
-              linkedin: https://in.linkedin.com/company/crayon-group
-              acquisitions:
-                - date: '2015-09-25'
-                  acquiree: Anglepoint
-                - date: '2018-03-09'
-                  acquiree: Kryptos Technologies
-                - date: '2019-05-08'
-                  acquiree: Sequint
-                - date: '2020-07-15'
-                  acquiree: Navicle
-                - date: '2020-12-02'
-                  acquiree: Sensa
-                - date: '2021-07-06'
-                  acquiree: Rhipe
+              name: Crayon
+              description: Competitive intelligence platform that enables businesses to see and seize opportunities & create sustainable advantages in their markets
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: http://www.crayon.co
+              city: Boston
+              region: Massachusetts
+              country: United States
+              twitter: http://twitter.com/crayon
+              linkedin: https://www.linkedin.com/company/crayon-co
+              acquisitions: []
               parents: []
-              ticker: CRAYON.OL
-              funding: 0
-              stockExchange: ose
+              funding: 38100000
+              stockExchange: null
               company_type: For Profit
               industries:
-                - Computer
+                - Analytics
+                - Artificial Intelligence
+                - Business Development
+                - Business Intelligence
+                - Machine Learning
+                - Marketing
+                - SaaS
                 - Software
-            yahoo_finance_data:
-              effective_ticker: CRAYON.OL
+              kind: funding
             image_data:
               fileName: crayon.svg
               hash: +x9FxbVWyu3NZTi0sWoXNN5hGFG690iOSO7SHQFdYb4=
@@ -47301,25 +47301,29 @@ landscape:
             name: Japan Securities Clearing Corporation (JSCC)
             homepage_url: https://www.jpx.co.jp/jscc/en/
             logo: japan_securities_clearing_corporation_jscc.svg
-            crunchbase: https://www.crunchbase.com/organization/japan-securities-clearing
+            crunchbase: https://www.crunchbase.com/organization/japan-exchange-group
             crunchbase_data:
-              name: Japan Securities Clearing
-              description: Japan Securities Clearing is a financial Service company.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: https://www.jpx.co.jp/jscc/en/
+              name: Japan Exchange Group
+              description: JPX operates financial instruments exchange markets to provide market users with reliable venues for trading listed securities.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: https://www.jpx.co.jp/english
               city: Tokyo
               region: Tokyo
               country: Japan
-              twitter: null
-              linkedin: null
+              twitter: https://www.twitter.com/JPX_official_EN
+              linkedin: https://www.linkedin.com/company/jpx-derivatives-commodities
               acquisitions: []
               parents: []
-              stockExchange: null
+              ticker: 8697.T
+              funding: 0
+              stockExchange: tyo
               company_type: For Profit
               industries:
                 - Financial Services
-                - Insurance
+                - Stock Exchanges
+            yahoo_finance_data:
+              effective_ticker: 8697.T
             image_data:
               fileName: japan-securities-clearing-corporation-jscc.svg
               hash: W7xuoVRmiDoOfnL0VojsebdxLR5S/5kC65k7zOkzg9Y=
@@ -49043,33 +49047,29 @@ landscape:
             homepage_url: https://kuka.com/
             logo: kuka_deutschland_gmbh.svg
             twitter: https://twitter.com/KUKA_Press
-            crunchbase: https://www.crunchbase.com/organization/kuka-robotics
+            crunchbase: https://www.crunchbase.com/organization/advanced-integration-technology
             crunchbase_data:
-              name: KUKA Robotics
-              description: KUKA Robotics is a manufacturer of robotic systems, offering a wide range of industrial robots and robot systems.
-              num_employees_min: 5001
-              num_employees_max: 10000
-              homepage: https://www.kuka.com
-              city: Augsburg
-              region: Bayern
-              country: Germany
-              twitter: https://twitter.com/kuka_roboticsen
-              linkedin: https://www.linkedin.com/company/kuka-robotics
+              name: Advanced Integration Technology
+              description: Advanced Integration Technology is a Plano, Texas-based provider of automation, tooling and maintenance services to the aerospace market.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: http://www.aint.com/
+              city: Plano
+              region: Texas
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/ims-ab-innovative-mobility-system-/
               acquisitions:
-                - date: '2017-12-20'
-                  acquiree: Visual Components
+                - date: '2016-12-19'
+                  acquiree: KUKA Systems Aerospace North America
               parents: []
               funding: 0
               stockExchange: null
               company_type: For Profit
               industries:
-                - Automotive
-                - Enterprise Software
-                - Industrial
+                - Aerospace
                 - Industrial Automation
                 - Manufacturing
-                - Robotics
-                - Software
             image_data:
               fileName: kuka-deutschland-gmb-h.svg
               hash: j2Co0MyLiAtb0xLiIVgmRAyq6sNz07FZdVSKAu5Nclg=
@@ -51049,43 +51049,25 @@ landscape:
             name: LY Corporation
             homepage_url: https://lycorp.co.jp/
             logo: ly_corporation.svg
-            crunchbase: https://www.crunchbase.com/organization/yahoo-japan
+            crunchbase: https://www.crunchbase.com/organization/nhn-japan
             crunchbase_data:
-              name: Yahoo! Japan
-              description: Yahoo! Japan is a technology company that is known for its web services and applications.
-              num_employees_min: 5001
-              num_employees_max: 10000
-              homepage: https://www.yahoo.co.jp/
+              name: NHN JAPAN
+              description: Formulate and execute management strategies of the Group.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: https://www.nhn-japan.com/
               city: Tokyo
               region: Tokyo
               country: Japan
-              twitter: https://twitter.com/yahoo_japan_pr
-              linkedin: https://www.linkedin.com/company/yahoojapan/
-              acquisitions:
-                - date: '2010-08-16'
-                  acquiree: Cirius Technologies USA
-                - date: '2013-03-11'
-                  acquiree: Bluem
-                - date: '2014-03-27'
-                  acquiree: eAccess
-                - date: '2014-11-10'
-                  acquiree: FROSK, Inc.
-                - date: '2015-12-17'
-                  acquiree: Ikyu Corp.
-                - date: '2017-11-16'
-                  acquiree: Classified Corp.
-                - date: '2018-07-11'
-                  acquiree: DELY
+              twitter: null
+              linkedin: null
+              acquisitions: []
               parents: []
-              ticker: 4689.T
-              stockExchange: tyo
+              stockExchange: null
               company_type: For Profit
               industries:
-                - Auctions
-                - Internet
-                - Search Engine
-            yahoo_finance_data:
-              effective_ticker: 4689.T
+                - Cloud Infrastructure
+                - Security
             image_data:
               fileName: ly-corporation.svg
               hash: F9RvJV8MVqPeS14fxindCfN/NSi2oEH2CGnUjHyjDw0=
@@ -52037,35 +52019,33 @@ landscape:
             homepage_url: https://mercedes-benz.com/
             logo: mercedes-benz_tech_innovation_gmbh.svg
             twitter: https://twitter.com/mercedesbenz_ti
-            crunchbase: https://www.crunchbase.com/organization/daimler
+            crunchbase: https://www.crunchbase.com/organization/mercedes-benz
             crunchbase_data:
-              name: Mercedes-Benz Group AG
-              description: Mercedes-Benz Group AG (formerly Daimler) is an automotive company that produces premium cars and commercial vehicles with a global reach.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.mercedes-benz.com/
-              city: Stuttgart
-              region: Baden-Wurttemberg
-              country: Germany
-              twitter: https://twitter.com/daimler
-              linkedin: https://www.linkedin.com/company/mercedes-benz_ag/
+              name: Mercedes Benz
+              description: Mercedes-Benz USA manufactures sedans, coupes, SUVs and wagons, convertibles and roadsters, hybrid and electric cars, and car accessories.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.mercedes-benz.com
+              city: Atlanta
+              region: Georgia
+              country: United States
+              twitter: https://twitter.com/mercedesbenz
+              linkedin: https://www.linkedin.com/company/mercedes-benz-usa/
               acquisitions:
-                - date: '2014-04-29'
-                  acquiree: Li-Tec Battery
-                - date: '2017-01-27'
-                  acquiree: Beat
-                - date: '2017-11-06'
-                  acquiree: CINTEO GmbH
-              parents: []
+                - date: '2016-07-14'
+                  acquiree: FlightCar
+              parents:
+                - https://www.crunchbase.com/organization/daimler
               ticker: MBG.DE
               funding: 1369439572
-              stockExchange: etr
+              stockExchange: null
               company_type: For Profit
               industries:
                 - Automotive
-                - Autonomous Vehicles
-                - Finance
+                - Car Sharing
                 - Manufacturing
+                - Product Design
+                - Recreational Vehicles
             yahoo_finance_data:
               effective_ticker: MBG.DE
             image_data:
@@ -64528,39 +64508,48 @@ landscape:
             homepage_url: https://sprint.com/
             logo: sprint_corporation.svg
             twitter: https://twitter.com/TMobile
-            crunchbase: https://www.crunchbase.com/organization/sprint-nextel
+            crunchbase: https://www.crunchbase.com/organization/t-mobile
             crunchbase_data:
-              name: Sprint
-              description: Sprint Nextel offers a comprehensive range of wireless and wireline communications services to consumers, businesses, and government users.
+              name: T-Mobile
+              description: T-Mobile is a telecommunications company that provides wireless communication services, including mobile phone and internet services.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://sprint.com
-              city: Hillsboro
-              region: Oregon
+              homepage: https://www.t-mobile.com
+              city: Bellevue
+              region: Washington
               country: United States
-              twitter: http://twitter.com/sprint
-              linkedin: https://www.linkedin.com/company/sprint
+              twitter: http://www.twitter.com/TMobile
+              linkedin: https://www.linkedin.com/company/t-mobile
               acquisitions:
-                - date: '2005-08-15'
-                  acquiree: Nextel Communications
-                - date: '2009-07-28'
-                  acquiree: Virgin Mobile USA
-                - date: '2009-10-19'
-                  acquiree: iPCS
-                - date: '2012-12-17'
-                  acquiree: Clearwire
-                - date: '2013-05-20'
-                  acquiree: Handmark
-                - date: '2013-05-20'
-                  acquiree: OneLouder
-              parents: []
-              funding: 0
-              stockExchange: null
+                - date: '2007-09-17'
+                  acquiree: Suncom Wireless Holdings
+                - date: '2013-05-01'
+                  acquiree: MetroPCS Communications Inc
+                - date: '2017-12-13'
+                  acquiree: Layer3 TV
+                - date: '2018-01-02'
+                  acquiree: UPC Austria
+                - date: '2019-07-26'
+                  acquiree: Sprint
+                - date: '2019-07-31'
+                  acquiree: PushSpring
+                - date: '2022-01-10'
+                  acquiree: Octopus Interactive Inc.
+                - date: '2023-03-15'
+                  acquiree: Mint Mobile
+              parents:
+                - https://www.crunchbase.com/organization/deutsche-telekom
+              ticker: TMUS.SW
+              funding: 7070224359
+              stockExchange: swx
               company_type: For Profit
               industries:
+                - Internet
                 - Mobile
                 - Telecommunications
                 - Wireless
+            yahoo_finance_data:
+              effective_ticker: TMUS.SW
             image_data:
               fileName: sprint-corporation.svg
               hash: tHl8MWebm4XimZGRhek/u6HYexoBx2I/mUu/QuFmy4k=
@@ -83606,4 +83595,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-10-28T02:17:34.072Z
+updated_at: 2023-10-29T00:29:24.943Z
