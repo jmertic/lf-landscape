@@ -10678,7 +10678,7 @@ landscape:
                   value: 1023
                   color: '#563d7c'
               contributions: >-
-                239;114;46;52;110;94;47;43;13;74;39;14;33;84;36;41;35;123;39;42;96;64;20;64;61;35;37;53;7;32;25;27;15;31;51;8;5;54;11;5;20;7;11;18;17;2;4;0;30;5;7;0
+                223;118;42;68;101;87;47;43;55;33;38;14;36;83;38;37;35;123;39;48;92;62;20;67;62;31;40;50;7;35;24;25;15;31;51;8;19;40;11;5;20;7;14;15;17;2;4;7;23;5;7;0
               firstWeek: 2022-11-06Z
               stars: 1038
               license: Apache License 2.0
@@ -64506,6 +64506,7 @@ landscape:
           - item:
             name: Sprint Corporation
             homepage_url: https://sprint.com/
+            stock_ticker: null
             logo: sprint_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/t-mobile
             crunchbase_data:
@@ -64547,8 +64548,7 @@ landscape:
                 - Mobile
                 - Telecommunications
                 - Wireless
-            yahoo_finance_data:
-              effective_ticker: TMUS.SW
+              kind: funding
             image_data:
               fileName: sprint-corporation.svg
               hash: tHl8MWebm4XimZGRhek/u6HYexoBx2I/mUu/QuFmy4k=
@@ -83594,4 +83594,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-10-29T02:19:05.464Z
+updated_at: 2023-10-30T00:30:33.463Z
