@@ -10679,9 +10679,9 @@ landscape:
                   value: 1023
                   color: '#563d7c'
               contributions: >-
-                135;64;70;44;141;62;56;7;72;32;30;11;42;92;33;36;25;145;42;51;93;34;21;80;63;24;45;35;14;30;28;24;18;46;30;5;31;33;7;10;13;8;20;14;11;0;4;30;0;5;7;0
+                136;73;61;33;151;56;57;1;78;33;25;24;92;33;36;34;85;79;44;56;92;32;44;60;58;29;38;36;18;34;21;22;26;53;16;5;40;23;7;12;14;12;12;14;11;4;0;30;1;7;4;0
               firstWeek: 2022-11-06Z
-              stars: 1038
+              stars: 1039
               license: Apache License 2.0
               description: Egeria core
               latest_commit_date: '2023-10-20T09:50:24Z'
@@ -10692,7 +10692,7 @@ landscape:
               contributors_link: https://github.com/odpi/egeria/graphs/contributors
             repos:
               - url: https://github.com/odpi/egeria
-                stars: 724
+                stars: 725
               - url: https://github.com/odpi/data-governance
                 stars: 97
               - url: https://github.com/odpi/egeria-ui
@@ -19696,7 +19696,7 @@ landscape:
                 - date: '2021-09-10'
                   acquiree: TakeLessons
                 - date: '2021-10-07'
-                  acquiree: Ally.io
+                  acquiree: Ally.io (Acquired)
                 - date: '2021-10-22'
                   acquiree: Clear Software
                 - date: '2021-10-29'
@@ -21308,6 +21308,10 @@ landscape:
                   acquiree: ConcentricLife
                 - date: '2023-10-26'
                   acquiree: Comtech Group Inc
+                - date: '2023-10-31'
+                  acquiree: 6point6
+                - date: '2023-10-31'
+                  acquiree: OnProcess Technology
               parents: []
               ticker: CSA.F
               funding: 6000000
@@ -32112,7 +32116,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/chainguard-dev/
               acquisitions: []
               parents: []
-              funding: 55000000
+              funding: 116000000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -34079,7 +34083,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cloudzero
             crunchbase_data:
               name: CloudZero
-              description: CloudZero is a SaaS platform offering real-time cost anomaly and waste detection to optimize cloud costs and prevent accidental overspend.
+              description: CloudZero is a SaaS platform that automates the collection, allocation, and analysis of cloud cost data to uncover savings opportunities.
               num_employees_min: 101
               num_employees_max: 250
               homepage: http://www.cloudzero.com
@@ -36795,7 +36799,6 @@ landscape:
                 - Analytics
                 - Artificial Intelligence
                 - Information Technology
-                - InsurTech
                 - Machine Learning
               kind: funding
             image_data:
@@ -45723,7 +45726,7 @@ landscape:
               latest_tweet_date: 2021-10-25T10:30:47.000Z
           - item:
             name: IKEA Marketing & Communication AB
-            homepage_url: https://inter.ikea.com/
+            homepage_url: https://ikea.com/
             logo: ikea_marketing__communication_ab.svg
             crunchbase: https://www.crunchbase.com/organization/ikea-systems
             crunchbase_data:
@@ -56271,9 +56274,11 @@ landscape:
               linkedin: https://www.linkedin.com/company/p0-security/
               acquisitions: []
               parents: []
+              funding: 5000000
               stockExchange: null
               company_type: For Profit
               industries: []
+              kind: funding
             image_data:
               fileName: p0-security.svg
               hash: T57PxVlbQ1lSSVP3msiiJ3rfLblipaAholeeBk0OCic=
@@ -56420,6 +56425,8 @@ landscape:
                   acquiree: Bridgecrew
                 - date: '2022-11-17'
                   acquiree: Cider Security
+                - date: '2023-10-31'
+                  acquiree: Dig Security
               parents: []
               ticker: PANW
               funding: 65000000
@@ -60894,8 +60901,6 @@ landscape:
                   acquiree: Recast.AI
                 - date: '2018-01-29'
                   acquiree: CallidusCloud
-                - date: '2018-06-05'
-                  acquiree: Coresystems
                 - date: '2018-11-10'
                   acquiree: Qualtrics
                 - date: '2018-11-19'
@@ -68852,9 +68857,9 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T09:40:13.000Z
           - item:
-            name: U.S. Bank National Assoc.
+            name: U.S. Bank
             homepage_url: https://usbank.com/
-            logo: us_bank_national_assoc.svg
+            logo: us_bank.svg
             crunchbase: https://www.crunchbase.com/organization/u-s-bancorp
             crunchbase_data:
               name: U.S. Bancorp
@@ -68893,7 +68898,7 @@ landscape:
             yahoo_finance_data:
               effective_ticker: USB
             image_data:
-              fileName: u-s-bank-national-assoc.svg
+              fileName: u-s-bank.svg
               hash: 8+PTL7n9vKzZeeCEDAUmxDbo6pLKaZCdoUFAO6t7M+Y=
             best_practice_data:
               badge: false
@@ -70905,7 +70910,7 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/western-digital
               ticker: WDC.F
-              funding: 900000000
+              funding: 2300000000
               stockExchange: null
               company_type: ''
               industries:
@@ -76472,7 +76477,7 @@ landscape:
                 - date: '2021-09-10'
                   acquiree: TakeLessons
                 - date: '2021-10-07'
-                  acquiree: Ally.io
+                  acquiree: Ally.io (Acquired)
                 - date: '2021-10-22'
                   acquiree: Clear Software
                 - date: '2021-10-29'
@@ -83451,4 +83456,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-11-01T02:20:52.929Z
+updated_at: 2023-11-02T00:33:34.964Z
