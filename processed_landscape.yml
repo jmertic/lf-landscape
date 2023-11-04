@@ -10679,7 +10679,7 @@ landscape:
                   value: 1023
                   color: '#563d7c'
               contributions: >-
-                143;49;54;89;111;40;55;1;81;38;17;32;88;33;42;28;91;80;39;75;70;30;61;49;58;28;50;19;25;30;19;24;30;50;11;5;51;12;7;17;9;12;12;15;10;4;0;30;5;3;4;0
+                114;46;52;108;96;47;43;13;69;44;14;33;84;36;41;35;99;63;42;94;48;38;60;65;35;36;54;7;32;25;27;15;31;51;8;5;54;11;5;20;7;11;18;17;2;4;0;30;5;7;0;0
               firstWeek: 2022-11-06Z
               stars: 1040
               license: Apache License 2.0
@@ -20465,7 +20465,7 @@ landscape:
               effective_ticker: 005930.KS
             image_data:
               fileName: samsung-electronics-co-ltd.svg
-              hash: IlROeAMJeDKc8ah7+hJRCl8eJjngrpsz8TIHp0qCuF0=
+              hash: p8lczp094yj0+ex07OwCS1I2FAEOCCa//7wUYLjgD2U=
             best_practice_data:
               badge: false
               percentage: null
@@ -21314,6 +21314,8 @@ landscape:
                   acquiree: OnProcess Technology
                 - date: '2023-11-02'
                   acquiree: Entelgy Innotec Security
+                - date: '2023-11-02'
+                  acquiree: The Shelby Group
               parents: []
               ticker: CSA.F
               funding: 6000000
@@ -31786,7 +31788,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/casperlabs/
               acquisitions: []
               parents: []
-              funding: 48900000
+              funding: 48600000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -38101,7 +38103,7 @@ landscape:
               kind: funding
             image_data:
               fileName: dhiway-networks-private-limited.svg
-              hash: jh4i8keJ4x0ozFIRb7Zj+sMHs/uFlgFDOpSBYij5MRM=
+              hash: JHvExAhk4YORoHPiP30HXXzAjRuox6YEcIo1AQcMf0Q=
             best_practice_data:
               badge: false
               percentage: null
@@ -44291,6 +44293,7 @@ landscape:
                   acquiree: OpsRamp
               parents: []
               ticker: HPE
+              funding: 0
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -48435,9 +48438,9 @@ landscape:
             joined: '2017-04-01'
             crunchbase_data:
               name: Kong
-              description: Kong is the leading developer of API technologies
-              num_employees_min: 251
-              num_employees_max: 500
+              description: Kong is the leading developer of cloud API technologies. Powering the API world.
+              num_employees_min: 501
+              num_employees_max: 1000
               homepage: https://konghq.com
               city: San Francisco
               region: California
@@ -48983,7 +48986,7 @@ landscape:
               kind: funding
             image_data:
               fileName: kubiya-inc.svg
-              hash: i/KhUu3V4f5byP3hOl1N3ZmwCwm0Mj+3hkB9zVQcGxQ=
+              hash: RLZYi4g4Lnqkwv3fKC6uA3UDVgW7KvXPrxvT+Fz3Sck=
             best_practice_data:
               badge: false
               percentage: null
@@ -51033,13 +51036,13 @@ landscape:
             name: LY Corporation
             homepage_url: https://lycorp.co.jp/
             logo: ly_corporation.svg
-            crunchbase: https://www.crunchbase.com/organization/nhn-japan
+            crunchbase: https://www.crunchbase.com/organization/ly-corporation
             crunchbase_data:
-              name: NHN JAPAN
-              description: Formulate and execute management strategies of the Group.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: https://www.nhn-japan.com/
+              name: LY Corporation
+              description: LY Corporation provides various services, including "LINE" (communication app) and Yahoo! JAPAN (comprehensive Internet service).
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: https://www.lycorp.co.jp/
               city: Tokyo
               region: Tokyo
               country: Japan
@@ -51048,10 +51051,8 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Infrastructure
-                - Security
+              company_type: ''
+              industries: []
             image_data:
               fileName: ly-corporation.svg
               hash: D3K4VxyLKFcq3thLbhPvSlE7/jV2CvtHLmviZQ3D6xI=
@@ -64272,40 +64273,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T17:29:25.000Z
           - item:
-            name: Speedyrails Inc.
-            homepage_url: https://speedyrails.com/
-            logo: speedyrails_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/speedyrails-inc
-            joined: '2022-11-01'
-            crunchbase_data:
-              name: Speedyrails
-              description: AWS Advanced Consulting Partner and Kubernetes Certified Service Provider providing cloud consulting services for SMB and Startups.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://www.speedyrails.com
-              city: Ottawa
-              region: Ontario
-              country: Canada
-              twitter: https://twitter.com/speedyrails
-              linkedin: https://www.linkedin.com/company/speedyrails-inc
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-                - Cloud Data Services
-                - Cloud Management
-                - Cloud Security
-            image_data:
-              fileName: speedyrails-inc.svg
-              hash: y0zgtvYcodVlXPQPvrGK+TDMVjGSgvKPIUE0GMsYsnU=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-11-08T21:07:34.000Z
-          - item:
             name: SphereEx
             homepage_url: https://sphere-ex.com/
             logo: sphereex.svg
@@ -68834,6 +68801,8 @@ landscape:
                   acquiree: InsuraMatch
                 - date: '2022-02-23'
                   acquiree: Trōv
+                - date: '2023-11-03'
+                  acquiree: Corvus Insurance
               parents: []
               stockExchange: nyse
               company_type: For Profit
@@ -77809,7 +77778,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/kiva-org/
               acquisitions: []
               parents: []
-              funding: 11500000
+              funding: 11800000
               stockExchange: null
               company_type: Non Profit
               industries:
@@ -83624,7 +83593,7 @@ landscape:
               linkedin: https://www.linkedin.com/edu/western-university-10852
               acquisitions: []
               parents: []
-              funding: 2512070
+              funding: 2346314
               stockExchange: null
               company_type: For Profit
               industries:
@@ -83847,4 +83816,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-11-03T02:21:33.809Z
+updated_at: 2023-11-04T00:33:43.312Z
