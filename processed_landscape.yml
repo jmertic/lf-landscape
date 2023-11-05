@@ -10678,8 +10678,8 @@ landscape:
                   value: 1023
                   color: '#563d7c'
               contributions: >-
-                114;46;52;108;96;47;43;13;69;44;14;33;84;36;41;35;99;63;42;94;48;38;60;65;35;36;54;7;32;25;27;15;31;51;8;5;54;11;5;20;7;11;18;17;2;4;0;30;5;7;0;0
-              firstWeek: 2022-11-06Z
+                114;46;52;110;94;47;43;13;74;39;14;33;84;36;41;35;123;39;42;96;64;20;64;61;35;37;53;7;32;25;27;15;31;51;8;5;54;11;5;20;7;11;18;17;2;4;0;30;5;7;0;0
+              firstWeek: 2022-11-13Z
               stars: 1040
               license: Apache License 2.0
               description: Egeria core
@@ -19179,7 +19179,7 @@ landscape:
               effective_ticker: META
             image_data:
               fileName: meta-platforms-inc.svg
-              hash: hAi6tf6yJTrEjCCXurqGC/K/KfSMq842e+GywUITjUg=
+              hash: jtJ27AodZcji/sByqrwvSVAm0sLZYAGG+X6VzIEI4CY=
             best_practice_data:
               badge: false
               percentage: null
@@ -37064,6 +37064,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T21:07:10.000Z
           - item:
+            name: Datastrato
+            homepage_url: https://datastrato.com/
+            logo: datastrato.svg
+            organization:
+              name: Datastrato
+            crunchbase_data:
+              name: Datastrato
+              parents: []
+            image_data:
+              fileName: datastrato.svg
+              hash: JSJDNLtz3Og7BIYBz4eG6Nw/8WkVp7yqZ9MsNUSiJsc=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Dataverse
             homepage_url: https://dataverse-os.com/
             logo: dataverse.svg
@@ -51036,6 +51051,7 @@ landscape:
             homepage_url: https://lycorp.co.jp/
             logo: ly_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/ly-corporation
+            joined: '2018-03-01'
             crunchbase_data:
               name: LY Corporation
               description: LY Corporation provides various services, including "LINE" (communication app) and Yahoo! JAPAN (comprehensive Internet service).
@@ -63459,6 +63475,61 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T10:00:50.000Z
           - item:
+            name: Snowflake Inc.
+            homepage_url: https://snowflake.com/
+            logo: snowflake_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/snowflake-computing
+            crunchbase_data:
+              name: Snowflake
+              description: Snowflake is a cloud data platform that provides a data warehouse-as-a-service designed for the cloud.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: https://www.snowflake.com
+              city: San Mateo
+              region: California
+              country: United States
+              twitter: http://www.twitter.com/SnowflakeDB
+              linkedin: https://www.linkedin.com/company/snowflake-computing
+              acquisitions:
+                - date: '2020-07-20'
+                  acquiree: CryptoNumerics
+                - date: '2021-02-09'
+                  acquiree: Polidea
+                - date: '2022-01-01'
+                  acquiree: Pragmatists
+                - date: '2022-03-01'
+                  acquiree: Streamlit
+                - date: '2022-08-24'
+                  acquiree: Applica
+                - date: '2023-01-04'
+                  acquiree: Myst AI
+                - date: '2023-01-19'
+                  acquiree: SnowConvert
+                - date: '2023-02-07'
+                  acquiree: LeapYear Technologies
+                - date: '2023-05-24'
+                  acquiree: Neeva
+                - date: '2023-10-23'
+                  acquiree: Ponder
+              parents: []
+              ticker: 1SNOW.MI
+              funding: 2029355548
+              stockExchange: bit
+              company_type: For Profit
+              industries:
+                - Analytics
+                - Cloud Data Services
+                - Enterprise Software
+                - Software
+            yahoo_finance_data:
+              effective_ticker: 1SNOW.MI
+            image_data:
+              fileName: snowflake-inc.svg
+              hash: TW14ZE6U1wgAFDuo+uVKPt5pfIvpx55I12QMmcRDGjI=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Snyk Limited
             homepage_url: https://snyk.io/
             logo: snyk_limited.svg
@@ -66406,6 +66477,21 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T15:07:11.000Z
+          - item:
+            name: Synyega
+            homepage_url: https://synyega.com/
+            logo: synyega.svg
+            organization:
+              name: Synyega
+            crunchbase_data:
+              name: Synyega
+              parents: []
+            image_data:
+              fileName: synyega.svg
+              hash: WsMzTJH5yVbnVry2sqQ6mcRBmzIssIcYknIjNJ9TOzg=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Sysdig, Inc.
             homepage_url: https://sysdig.com/
@@ -69894,6 +69980,37 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-18T21:32:32.000Z
+          - item:
+            name: Uturn Data Solutions
+            homepage_url: https://uturndata.com/
+            logo: uturn_data_solutions.svg
+            crunchbase: https://www.crunchbase.com/organization/uturn-data-solutions
+            crunchbase_data:
+              name: Uturn Data Solutions
+              description: Uturn Data Solutions is an IT consultancy at the nexus of data strategy and cloud computing.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.uturndata.com
+              city: Chicago
+              region: Illinois
+              country: United States
+              twitter: https://twitter.com/UturnData
+              linkedin: https://www.linkedin.com/company/uturn-data-solutions
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Consulting
+                - Information Technology
+                - Internet
+            image_data:
+              fileName: uturn-data-solutions.svg
+              hash: m89cHkpzwcUTO9DsihbB/QXnDJjODQHCF+NnkdElSWQ=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: UWS Inc.
             homepage_url: https://uws.co.kr/
@@ -83815,4 +83932,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-11-04T02:22:22.616Z
+updated_at: 2023-11-05T00:33:40.077Z
