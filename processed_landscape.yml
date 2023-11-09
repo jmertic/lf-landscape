@@ -10678,7 +10678,7 @@ landscape:
                   value: 1023
                   color: '#563d7c'
               contributions: >-
-                64;70;44;141;62;56;7;72;32;30;11;42;92;33;36;25;145;42;51;93;34;21;80;63;24;45;35;14;30;28;24;18;46;30;5;31;33;7;10;13;8;20;14;11;0;4;30;0;5;7;0;2
+                73;61;33;151;56;57;1;78;33;25;24;92;33;36;34;85;79;44;56;92;32;44;60;58;29;38;36;18;34;21;22;26;53;16;5;40;23;7;12;14;12;12;14;11;4;0;30;1;7;4;0;2
               firstWeek: 2022-11-13Z
               stars: 1039
               license: Apache License 2.0
@@ -22518,6 +22518,8 @@ landscape:
                   acquiree: Quest Visual
                 - date: '2014-05-20'
                   acquiree: Divide
+                - date: '2014-05-23'
+                  acquiree: Skybox Imaging
                 - date: '2014-06-10'
                   acquiree: Terra Bella
                 - date: '2014-06-19'
@@ -23038,72 +23040,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T19:10:14.000Z
           - item:
-            name: Uber Technologies Inc.
-            homepage_url: https://uber.com/
-            logo: uber_technologies_inc.svg
-            twitter: https://twitter.com/Uber
-            crunchbase: https://www.crunchbase.com/organization/uber
-            crunchbase_data:
-              name: Uber
-              description: Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.uber.com
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: http://www.twitter.com/uber
-              linkedin: https://www.linkedin.com/company/uber-com
-              acquisitions:
-                - date: '2015-03-03'
-                  acquiree: deCarta
-                - date: '2016-08-18'
-                  acquiree: Otto
-                - date: '2016-12-05'
-                  acquiree: Geometric Intelligence
-                - date: '2017-07-14'
-                  acquiree: Complex Polygon
-                - date: '2017-07-14'
-                  acquiree: Swipe Labs
-                - date: '2018-04-04'
-                  acquiree: JUMP Bikes
-                - date: '2019-03-26'
-                  acquiree: Careem
-                - date: '2019-06-18'
-                  acquiree: Mighty AI
-                - date: '2019-10-11'
-                  acquiree: Cornershop
-                - date: '2020-07-06'
-                  acquiree: Postmates
-                - date: '2020-07-16'
-                  acquiree: Routematch Software
-                - date: '2020-08-06'
-                  acquiree: Autocab
-                - date: '2021-02-02'
-                  acquiree: Drizly
-              parents: []
-              ticker: UBER
-              funding: 25212450000
-              stockExchange: nyse
-              company_type: For Profit
-              industries:
-                - Logistics
-                - Mobile Apps
-                - Public Transportation
-                - Ride Sharing
-                - Software
-                - Transportation
-            yahoo_finance_data:
-              effective_ticker: UBER
-            image_data:
-              fileName: uber-technologies-inc.svg
-              hash: NhMED3U4imB/2OekupGs2AzqbdP9ULAG9yGSldBhhJw=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T19:02:16.000Z
-          - item:
             name: Webank Co., Ltd.
             homepage_url: https://webank.com/
             logo: webank_co_ltd.svg
@@ -23534,7 +23470,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/aarna-networks-inc.
               acquisitions: []
               parents: []
-              funding: 5016000
+              funding: 9666000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -37031,7 +36967,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/datastax
             crunchbase_data:
               name: DataStax
-              description: DataStax offers storage applications, multi-cloud deployments, and data management services.
+              description: DataStax is the real-time data company for Gen AI applications.
               num_employees_min: 501
               num_employees_max: 1000
               homepage: https://www.datastax.com
@@ -37056,6 +36992,7 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
+                - Generative AI
                 - Information Technology
                 - Open Source
                 - Software
@@ -39290,12 +39227,12 @@ landscape:
               description: Committed to the R&D of the next generation open source IoT development frameworks.
               num_employees_min: 11
               num_employees_max: 50
-              homepage: https://www.shifu.run/
-              city: Beijing
-              region: Beijing
-              country: China
+              homepage: https://www.edgenesis.com/
+              city: Sunnyvale
+              region: California
+              country: United States
               twitter: null
-              linkedin: null
+              linkedin: https://www.linkedin.com/company/edgenesis
               acquisitions: []
               parents: []
               stockExchange: null
@@ -45259,7 +45196,7 @@ landscape:
               acquisitions: []
               parents: []
               ticker: 012330.KS
-              funding: 0
+              funding: 940000000
               stockExchange: krx
               company_type: For Profit
               industries:
@@ -47050,6 +46987,40 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T20:48:34.000Z
+          - item:
+            name: Invia
+            homepage_url: https://invia.com.au/
+            logo: invia.svg
+            crunchbase: https://www.crunchbase.com/organization/invia-robotics
+            crunchbase_data:
+              name: inVia Robotics
+              description: InVia Robotics provides next-generation robotics warehouse automation solutions for e-commerce distribution centers and supply chains.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: http://www.inviarobotics.com
+              city: Westlake Village
+              region: California
+              country: United States
+              twitter: https://twitter.com/inviarobotics
+              linkedin: https://www.linkedin.com/company/invia-robotics
+              acquisitions: []
+              parents: []
+              funding: 59000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - E-Commerce
+                - Industrial Automation
+                - Logistics
+                - Machine Learning
+                - Robotics
+              kind: funding
+            image_data:
+              fileName: invia.svg
+              hash: zSL9BdDPa28PhiLluy4VSgiA+1y1nH506fFb4d3C1e4=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: IO Builders Blockchain Technologies & Ventures
             homepage_url: https://io.builders/
@@ -56410,42 +56381,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-19T08:00:00.000Z
           - item:
-            name: Oxeye
-            homepage_url: https://oxeye.io/
-            logo: oxeye.svg
-            crunchbase: https://www.crunchbase.com/organization/oxeye-security
-            joined: '2021-12-01'
-            crunchbase_data:
-              name: Oxeye Security
-              description: Noise Cancellation for Application Security. Built for cloud-native applications using container and Kubernetes-based architectures.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.oxeye.io/
-              city: Tel Aviv
-              region: Tel Aviv
-              country: Israel
-              twitter: https://twitter.com/OxeyeSecurity
-              linkedin: https://www.linkedin.com/company/72734261
-              acquisitions: []
-              parents: []
-              funding: 5300000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cyber Security
-                - IT Management
-                - SaaS
-                - Software
-              kind: funding
-            image_data:
-              fileName: oxeye.svg
-              hash: kscUppCPOxEOvBxGouqu+6+vPP0uVOtcQXYPM/KUNIc=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T15:31:22.000Z
-          - item:
             name: Ozone Cloud Inc.
             homepage_url: https://ozone.one/
             logo: ozone_cloud_inc.svg
@@ -59493,6 +59428,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/98756978/admin/feed/posts/
               acquisitions: []
               parents: []
+              funding: 739488
               stockExchange: null
               company_type: For Profit
               industries:
@@ -59500,6 +59436,7 @@ landscape:
                 - Information Technology
                 - Professional Services
                 - Software
+              kind: funding
             image_data:
               fileName: re-cinq.svg
               hash: LIOyEIRhKDEFu1Eo6gwL12jVQ3ZL1CUoQYE8h0mUPHM=
@@ -69271,6 +69208,72 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T01:25:18.000Z
           - item:
+            name: Uber Technologies Inc.
+            homepage_url: https://uber.com/
+            logo: uber_technologies_inc.svg
+            twitter: https://twitter.com/Uber
+            crunchbase: https://www.crunchbase.com/organization/uber
+            crunchbase_data:
+              name: Uber
+              description: Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.uber.com
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: http://www.twitter.com/uber
+              linkedin: https://www.linkedin.com/company/uber-com
+              acquisitions:
+                - date: '2015-03-03'
+                  acquiree: deCarta
+                - date: '2016-08-18'
+                  acquiree: Otto
+                - date: '2016-12-05'
+                  acquiree: Geometric Intelligence
+                - date: '2017-07-14'
+                  acquiree: Complex Polygon
+                - date: '2017-07-14'
+                  acquiree: Swipe Labs
+                - date: '2018-04-04'
+                  acquiree: JUMP Bikes
+                - date: '2019-03-26'
+                  acquiree: Careem
+                - date: '2019-06-18'
+                  acquiree: Mighty AI
+                - date: '2019-10-11'
+                  acquiree: Cornershop
+                - date: '2020-07-06'
+                  acquiree: Postmates
+                - date: '2020-07-16'
+                  acquiree: Routematch Software
+                - date: '2020-08-06'
+                  acquiree: Autocab
+                - date: '2021-02-02'
+                  acquiree: Drizly
+              parents: []
+              ticker: UBER
+              funding: 25212450000
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Logistics
+                - Mobile Apps
+                - Public Transportation
+                - Ride Sharing
+                - Software
+                - Transportation
+            yahoo_finance_data:
+              effective_ticker: UBER
+            image_data:
+              fileName: uber-technologies-inc.svg
+              hash: NhMED3U4imB/2OekupGs2AzqbdP9ULAG9yGSldBhhJw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2023-04-20T19:02:16.000Z
+          - item:
             name: Ubiquitous AI Corporation
             homepage_url: https://ubiquitous.co.jp/
             logo: ubiquitous_ai_corporation.svg
@@ -70294,7 +70297,7 @@ landscape:
               kind: funding
             image_data:
               fileName: velocity.svg
-              hash: JbEMbvsgK9DoIC7OqThCmyYN8UrIxv5LbDsrP+R1zVo=
+              hash: 1WpUMsKWjuRL52yAKuex4OSYLWB52pR72Uwz+1korXA=
             best_practice_data:
               badge: false
               percentage: null
@@ -75744,8 +75747,8 @@ landscape:
               num_employees_min: 51
               num_employees_max: 100
               homepage: https://www.ethereum.org/
-              city: Bern
-              region: Bern
+              city: Zug
+              region: Zug
               country: Switzerland
               twitter: https://twitter.com/ethereum
               linkedin: https://www.linkedin.com/company/ethereum/
@@ -83955,4 +83958,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-11-08T02:19:38.964Z
+updated_at: 2023-11-09T00:32:51.762Z
