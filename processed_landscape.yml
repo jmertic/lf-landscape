@@ -10678,7 +10678,7 @@ landscape:
                   value: 1023
                   color: '#563d7c'
               contributions: >-
-                73;61;33;151;56;57;1;78;33;25;24;92;33;36;34;85;79;44;56;92;32;44;60;58;29;38;36;18;34;21;22;26;53;16;5;40;23;7;12;14;12;12;14;11;4;0;30;1;7;4;0;2
+                49;54;89;111;40;55;1;81;38;17;32;88;33;42;28;91;80;39;75;70;30;61;49;58;28;50;19;25;30;19;24;30;50;11;5;51;12;7;17;9;12;12;15;10;4;0;30;5;3;4;0;2
               firstWeek: 2022-11-13Z
               stars: 1039
               license: Apache License 2.0
@@ -22869,7 +22869,7 @@ landscape:
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: https://www.renesas.com
-              city: Koto
+              city: Tokyo
               region: Tokyo
               country: Japan
               twitter: https://twitter.com/RenesasGlobal
@@ -23862,38 +23862,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Adfolks LLC
-            homepage_url: https://adfolks.com/
-            logo: adfolks_llc.svg
-            crunchbase: https://www.crunchbase.com/organization/adfolks
-            joined: '2018-12-01'
-            crunchbase_data:
-              name: Adfolks
-              description: Adfolks is a Cloud-Native engineering firm brings a wealth of expertise in developing bespoke, agile technology solutions.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.adfolks.com/
-              city: Dubai
-              region: Dubai
-              country: United Arab Emirates
-              twitter: https://twitter.com/adfolksllc
-              linkedin: https://www.linkedin.com/company/adfolksllc/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Management
-                - Cloud Security
-                - Information Technology
-                - Professional Services
-            image_data:
-              fileName: adfolks-llc.svg
-              hash: TNL6KYfLwGozHC/0I35udKLyLwLUeNh7j5n/29QKQts=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Adobe Inc.
             homepage_url: https://adobe.com/
             logo: adobe_inc.svg
@@ -24367,6 +24335,7 @@ landscape:
               industries:
                 - Cloud Infrastructure
                 - Cloud Storage
+                - Data Management
                 - Enterprise Software
               kind: funding
             image_data:
@@ -24517,7 +24486,8 @@ landscape:
               parents: []
               stockExchange: null
               company_type: For Profit
-              industries: []
+              industries:
+                - DevOps
             image_data:
               fileName: aim-agile-im-de.svg
               hash: 9bpzj11G3O0Qg5RFAVZElWyR3miPyDW5NBSlTqYqYtw=
@@ -25014,6 +24984,7 @@ landscape:
               industries:
                 - Cloud Infrastructure
                 - Computer
+                - DevOps
                 - Software
               kind: funding
             image_data:
@@ -29865,6 +29836,10 @@ landscape:
                   acquiree: Merrill Lynch Investment Managers
                 - date: '2009-06-11'
                   acquiree: Barclays Global Investors
+                - date: '2009-10-30'
+                  acquiree: strong company
+                - date: '2009-10-31'
+                  acquiree: strong company
                 - date: '2013-07-15'
                   acquiree: CIE Automotive
                 - date: '2015-08-26'
@@ -34239,6 +34214,7 @@ landscape:
               company_type: For Profit
               industries:
                 - Apps
+                - DevOps
                 - Developer Tools
                 - Software
                 - Web Development
@@ -35575,6 +35551,7 @@ landscape:
               industries:
                 - Cloud Security
                 - Cyber Security
+                - DevOps
                 - IT Infrastructure
                 - SaaS
                 - Security
@@ -35753,6 +35730,7 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
+                - DevOps
                 - Mobile
                 - Open Source
                 - SaaS
@@ -38369,6 +38347,7 @@ landscape:
               company_type: For Profit
               industries:
                 - Cloud Computing
+                - DevOps
                 - SaaS
                 - Virtualization
                 - Web Hosting
@@ -38634,7 +38613,7 @@ landscape:
               kind: funding
             image_data:
               fileName: doi-t-international.svg
-              hash: C0F8agnl32OoJLB+ZQvBd9qGS4xZ+mDFhaam9d+bpxs=
+              hash: 7OPGhMkT4OS+0BST0IlDaRDflnE/Nm2ZAzPFLE/395o=
             best_practice_data:
               badge: false
               percentage: null
@@ -39138,6 +39117,7 @@ landscape:
               company_type: For Profit
               industries:
                 - Computer
+                - DevOps
                 - Network Security
                 - Software
               kind: funding
@@ -40907,37 +40887,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T09:25:03.000Z
           - item:
-            name: Fiberplane B.V
-            homepage_url: https://fiberplane.dev/
-            logo: fiberplane_bv.svg
-            crunchbase: https://www.crunchbase.com/organization/fiberplane
-            crunchbase_data:
-              name: Fiberplane
-              description: Fiberplane is a collaborative notebook for resolving incidents.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://fiberplane.dev/
-              city: Amsterdam
-              region: Noord-Holland
-              country: The Netherlands
-              twitter: https://www.twitter.com/fiberplane
-              linkedin: https://www.linkedin.com/company/fiberplane
-              acquisitions: []
-              parents: []
-              funding: 8826375
-              stockExchange: null
-              company_type: For Profit
-              industries: []
-              kind: funding
-            image_data:
-              fileName: fiberplane-b-v.svg
-              hash: lJok1+zbZpT5lRnzQHzmXRhWfFa15u9a58x3JIx+uao=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-21T11:28:19.000Z
-          - item:
             name: Fidelity Investments
             homepage_url: https://fidelity.com/
             logo: fidelity_investments.svg
@@ -41367,6 +41316,7 @@ landscape:
               company_type: For Profit
               industries:
                 - Application Performance Management
+                - DevOps
                 - Productivity Tools
                 - Software
             image_data:
@@ -42500,6 +42450,7 @@ landscape:
               company_type: For Profit
               industries:
                 - Cloud Security
+                - DevOps
                 - Developer Tools
                 - Open Source
                 - SaaS
@@ -42973,6 +42924,7 @@ landscape:
               company_type: For Profit
               industries:
                 - Artificial Intelligence (AI)
+                - DevOps
                 - Developer Tools
                 - Information Technology
                 - Machine Learning
@@ -43317,7 +43269,8 @@ landscape:
               parents: []
               stockExchange: null
               company_type: For Profit
-              industries: []
+              industries:
+                - DevOps
             image_data:
               fileName: guida.svg
               hash: 0AKvCUFu43AEgtj9S59uzxpkqe4s4d3Jy6t5XGs/Hpk=
@@ -43424,6 +43377,7 @@ landscape:
               industries:
                 - Cloud Data Services
                 - Cloud Storage
+                - Data Management
                 - Data Storage
                 - Information Technology
                 - Software
@@ -44656,6 +44610,7 @@ landscape:
               industries:
                 - Cloud Data Services
                 - Data Visualization
+                - DevOps
                 - Developer Tools
                 - Information Technology
                 - Software Engineering
@@ -46365,6 +46320,7 @@ landscape:
               company_type: For Profit
               industries:
                 - Consulting
+                - DevOps
                 - Information Technology
                 - Software
                 - Software Engineering
@@ -47014,6 +46970,7 @@ landscape:
                 - Logistics
                 - Machine Learning
                 - Robotics
+                - Warehouse Automation
               kind: funding
             image_data:
               fileName: invia.svg
@@ -48296,6 +48253,7 @@ landscape:
               industries:
                 - Cloud Computing
                 - Cloud Infrastructure
+                - DevOps
                 - Information Technology
                 - Professional Services
                 - Software
@@ -50738,6 +50696,7 @@ landscape:
               stockExchange: nyse
               company_type: For Profit
               industries:
+                - Apparel
                 - E-Commerce
                 - Fashion
             image_data:
@@ -53933,6 +53892,7 @@ landscape:
               company_type: For Profit
               industries:
                 - Apps
+                - DevOps
                 - Developer Platform
                 - Internet
                 - Network Security
@@ -58009,6 +57969,37 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T13:39:20.000Z
           - item:
+            name: Preferred Networks, Inc.
+            homepage_url: https://preferred.jp/
+            logo: preferred_networks_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/preferred-infrastructure
+            crunchbase_data:
+              name: Preferred Infrastructure
+              description: The search engine company in Japan. They have strong knowledge in Machine-Learning, Natural Language Processing, Distributed System.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://preferred.jp
+              city: Tokyo
+              region: Tokyo
+              country: Japan
+              twitter: http://twitter.com/preferred_jp
+              linkedin: https://www.linkedin.com/company/preferred-networks-inc-
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence (AI)
+                - Education
+                - Machine Learning
+                - Software
+            image_data:
+              fileName: preferred-networks-inc.svg
+              hash: ZtDuub1hJPDhK7/dm5JlZVd9YbccTTLFqJHQAmiGT8Q=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Prisma Data, Inc
             homepage_url: https://prisma.io/
             logo: prisma_data_inc.svg
@@ -59165,6 +59156,7 @@ landscape:
               company_type: For Profit
               industries:
                 - Apps
+                - DevOps
                 - Developer Platform
                 - Information Technology
                 - Internet
@@ -69317,7 +69309,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/ubs
             crunchbase_data:
               name: UBS
-              description: UBS is a global financial services company that engages in the provision of financial management solutions.
+              description: UBS is a global financial services company that engages in wealth management, investment banking, asset management, and retail banking.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.ubs.com
@@ -69339,7 +69331,7 @@ landscape:
                   acquiree: Credit Suisse
               parents: []
               ticker: UBS
-              funding: 1250000000
+              funding: 4750000000
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -70124,6 +70116,7 @@ landscape:
                 - Cryptocurrency
                 - Data Integration
                 - SaaS
+                - Web3
             image_data:
               fileName: validation-cloud.svg
               hash: ByEdoOcFDq1PJUvDLbJ+edUR0pNrYV5LQejk85OQek8=
@@ -70364,6 +70357,7 @@ landscape:
                 - Blockchain
                 - E-Commerce Platforms
                 - Software
+                - Web3
               kind: funding
             image_data:
               fileName: veriken-inc.svg
@@ -72306,6 +72300,7 @@ landscape:
                 - Developer Platform
                 - Information Technology
                 - Software
+                - Web3
               kind: funding
             image_data:
               fileName: zeeve-inc.svg
@@ -72340,6 +72335,7 @@ landscape:
               industries:
                 - Analytics
                 - Data Integration
+                - DevOps
                 - Information Technology
                 - Software
             image_data:
@@ -74830,6 +74826,7 @@ landscape:
               company_type: For Profit
               industries:
                 - Data Integration
+                - Data Management
                 - Enterprise Software
                 - Software
             image_data:
@@ -83958,4 +83955,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-11-09T02:23:25.481Z
+updated_at: 2023-11-10T00:33:33.802Z
