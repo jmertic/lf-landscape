@@ -10638,7 +10638,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 85532878
+                  value: 85587428
                   color: '#b07219'
                 - name: JavaScript
                   value: 1418898
@@ -10681,13 +10681,14 @@ landscape:
                 - name: CSS
                   value: 1023
                   color: '#563d7c'
-              contributions: 46;52;110;94;47;43;13;74;39;14;33;84;36;41;35;123;39;42;96;64;20;64;61;35;37;53;7;32;25;27;15;31;51;8;5;54;11;5;20;7;11;18;17;2;4;0;30;5;7;0;0;6
+              contributions: >-
+                42;68;101;87;47;43;55;33;38;14;36;83;38;37;35;123;39;48;92;62;20;67;62;31;40;50;7;35;24;25;15;31;51;8;19;40;11;5;20;7;14;15;17;2;4;7;23;5;7;0;0;9
               firstWeek: 2022-11-20Z
               stars: 1039
               license: Apache License 2.0
               description: Egeria core
-              latest_commit_date: '2023-11-10T10:09:49Z'
-              latest_commit_link: /odpi/egeria/commit/6ad9032a03e2bfdeac300e3ef5973037a0a26445
+              latest_commit_date: '2023-11-12T13:09:43Z'
+              latest_commit_link: /odpi/egeria/commit/85e76f0c822cd02e61d5e93d4b7d059c5b2fe5cc
               release_date: '2023-09-13T11:47:04Z'
               release_link: https://github.com/odpi/egeria/releases
               contributors_count: 77
@@ -37207,6 +37208,38 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-19T13:35:20.000Z
+          - item:
+            name: De Novo LLC
+            homepage_url: https://denovo.ua/
+            logo: de_novo_llc.svg
+            crunchbase: https://www.crunchbase.com/organization/de-novo
+            crunchbase_data:
+              name: De Novo
+              description: De Novo is a technology company providing a wide array of IT services.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: https://denovo.ua
+              city: Kyiv
+              region: Kyyiv
+              country: Ukraine
+              twitter: null
+              linkedin: https://www.linkedin.com/company/407560
+              acquisitions: []
+              parents: []
+              funding: 3500000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Enterprise Software
+                - Information Services
+                - Information Technology
+              kind: funding
+            image_data:
+              fileName: de-novo-llc.svg
+              hash: qPFcuAw7TvEduOPoYVTZFU6JE5b43ML8m40+eOzOiRc=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Deepfactor
             homepage_url: https://deepfactor.io/
@@ -67344,7 +67377,7 @@ landscape:
                 - date: '2022-04-26'
                   acquiree: Bit Discovery
                 - date: '2023-09-08'
-                  acquiree: Ermetic
+                  acquiree: Ermetic - a Tenable company
               parents: []
               ticker: TENB
               funding: 565438430
@@ -84091,4 +84124,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-11-12T02:23:51.450Z
+updated_at: 2023-11-13T00:37:00.658Z
