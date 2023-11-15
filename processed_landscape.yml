@@ -10681,7 +10681,8 @@ landscape:
                 - name: CSS
                   value: 1023
                   color: '#563d7c'
-              contributions: 54;60;135;55;64;16;59;33;39;11;42;94;25;33;33;125;58;43;91;49;18;69;64;39;38;41;6;38;24;30;14;35;42;8;18;47;6;2;21;6;14;17;17;0;4;7;23;5;7;0;2;7
+              contributions: >-
+                70;44;141;62;56;7;72;32;30;11;42;92;33;36;25;145;42;51;93;34;21;80;63;24;45;35;14;30;28;24;18;46;30;5;31;33;7;10;13;8;20;14;11;0;4;30;0;5;7;0;2;7
               firstWeek: 2022-11-20Z
               stars: 1039
               license: Apache License 2.0
@@ -36786,7 +36787,7 @@ landscape:
                 - date: '2023-10-23'
                   acquiree: Arcion
               parents: []
-              funding: 4000709318
+              funding: 4181559082
               stockExchange: null
               company_type: For Profit
               industries:
@@ -37539,6 +37540,8 @@ landscape:
                   acquiree: 27pilots
                 - date: '2023-05-22'
                   acquiree: Optimal Design
+                - date: '2023-08-03'
+                  acquiree: ParaFlare
               parents: []
               stockExchange: null
               company_type: For Profit
@@ -44543,11 +44546,28 @@ landscape:
             name: Highlight
             homepage_url: https://highlight.io/
             logo: highlight.svg
-            organization:
-              name: Highlight
+            crunchbase: https://www.crunchbase.com/organization/highlight-9498
             crunchbase_data:
               name: Highlight
+              description: Highlight is an open-source and full-stack monitoring platform.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.highlight.io/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/highlightio
+              linkedin: https://www.linkedin.com/company/highlightio
+              acquisitions: []
               parents: []
+              funding: 8500000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Developer Tools
+                - Open Source
+                - Software
+              kind: funding
             image_data:
               fileName: highlight.svg
               hash: EPtt8kUFZ3qow3Sovc2OV22PAuy7rdr5hTspFpEluAs=
@@ -50556,41 +50576,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-11-08T00:06:52.000Z
           - item:
-            name: Linklogis Inc
-            homepage_url: https://linklogis.com.hk/
-            logo: linklogis_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/linklogis
-            crunchbase_data:
-              name: Linklogis
-              description: Linklogis is a supply chain financing service provider that is based in China.
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: https://www.linklogis.com/
-              city: Shenzhen
-              region: Guangdong
-              country: China
-              twitter: null
-              linkedin: >-
-                https://www.linkedin.com/company/%E6%B7%B1%E5%9C%B3%E5%89%8D%E6%B5%B7%E8%81%94%E6%98%93%E8%9E%8D%E9%87%91%E8%9E%8D%E6%9C%8D%E5%8A%A1%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/
-              acquisitions: []
-              parents: []
-              ticker: 9959.HK
-              funding: 265145175
-              stockExchange: hkg
-              company_type: For Profit
-              industries:
-                - Finance
-                - Financial Services
-                - Supply Chain Management
-            yahoo_finance_data:
-              effective_ticker: 9959.HK
-            image_data:
-              fileName: linklogis-inc.svg
-              hash: XABCmi2F2E05vPl5FiGCAJ8a6qatk4vzJ2Fpm2YR/1w=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Linutronix GmbH
             homepage_url: https://linutronix.de/
             logo: linutronix_gmbh.svg
@@ -50707,7 +50692,7 @@ landscape:
             joined: '2022-02-14'
             crunchbase_data:
               name: Lockheed Martin
-              description: Lockheed Martin is a security company that engages in the research, development, and manufacture of technology systems and products.
+              description: Lockheed Martin is a global security and aerospace company specialized in advanced technology systems, products and services.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.lockheedmartin.com
@@ -53735,6 +53720,42 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T19:13:03.000Z
+          - item:
+            name: Nearmap Australia Pty Ltd
+            homepage_url: https://nearmap.com/
+            logo: nearmap_australia_pty_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/nearmap-com
+            crunchbase_data:
+              name: Nearmap
+              description: Nearmap is a geospatial map technology for business, enterprise and government customers.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: http://us.nearmap.com
+              city: Lehi
+              region: Utah
+              country: United States
+              twitter: https://www.twitter.com/nearmap
+              linkedin: https://www.linkedin.com/company/nearmap-com
+              acquisitions: []
+              parents: []
+              ticker: NEA
+              funding: 15000000
+              stockExchange: asx
+              company_type: For Profit
+              industries:
+                - Architecture
+                - Construction
+                - Geospatial
+                - InsurTech
+                - Mapping Services
+            yahoo_finance_data:
+              effective_ticker: NEA
+            image_data:
+              fileName: nearmap-australia-pty-ltd.svg
+              hash: nLGgP1uiHBWCNDIOmDeuZubTKL2meCgEPKlh/jubhdo=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: NEC Networks & System Integration Corp.
             homepage_url: https://www.nesic.co.jp/english/
@@ -77304,42 +77325,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T10:27:16.000Z
           - item:
-            name: INATBA
-            homepage_url: https://inatba.org/
-            project: organization
-            logo: inatba.svg
-            twitter: https://twitter.com/INATBA_org
-            crunchbase: https://www.crunchbase.com/organization/inatba
-            crunchbase_data:
-              name: International Association for Trusted Blockchain Applications
-              description: INATBA is a nonprofit blockchain association that helps organizations with blockchain applications and blockchain ecosystem.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://inatba.org
-              city: Brussels
-              region: Brussels Hoofdstedelijk Gewest
-              country: Belgium
-              twitter: https://twitter.com/inatba_org
-              linkedin: https://www.linkedin.com/company/inatba/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: Non Profit
-              industries:
-                - Association
-                - Blockchain
-                - Consulting
-                - Information Technology
-                - Non Profit
-            image_data:
-              fileName: inatba.svg
-              hash: d0YQVuehNU4nRkc8srsjlyIqnQuNKaxiD3Pd3uJhIEk=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-12T11:10:42.000Z
-          - item:
             name: Indian Institute of Technology Kharagpur
             homepage_url: https://iitkgp.ac.in/
             logo: indian_institute_of_technology_kharagpur.svg
@@ -77601,6 +77586,42 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: International Association for Trusted Blockchain Applications (INATBA)
+            homepage_url: https://inatba.org/
+            project: organization
+            logo: international_association_for_trusted_blockchain_applications_inatba.svg
+            twitter: https://twitter.com/INATBA_org
+            crunchbase: https://www.crunchbase.com/organization/inatba
+            crunchbase_data:
+              name: International Association for Trusted Blockchain Applications
+              description: INATBA is a nonprofit blockchain association that helps organizations with blockchain applications and blockchain ecosystem.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://inatba.org
+              city: Brussels
+              region: Brussels Hoofdstedelijk Gewest
+              country: Belgium
+              twitter: https://twitter.com/inatba_org
+              linkedin: https://www.linkedin.com/company/inatba/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Association
+                - Blockchain
+                - Consulting
+                - Information Technology
+                - Non Profit
+            image_data:
+              fileName: international-association-for-trusted-blockchain-applications-inatba.svg
+              hash: d0YQVuehNU4nRkc8srsjlyIqnQuNKaxiD3Pd3uJhIEk=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2023-04-12T11:10:42.000Z
           - item:
             name: International Game Developers Association
             homepage_url: https://igda.org/
@@ -82421,7 +82442,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/university-of-california-at-san-diego
               acquisitions: []
               parents: []
-              funding: 23889724
+              funding: 24639724
               stockExchange: null
               company_type: For Profit
               industries:
@@ -84134,4 +84155,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-11-14T02:30:42.950Z
+updated_at: 2023-11-15T00:38:46.952Z
