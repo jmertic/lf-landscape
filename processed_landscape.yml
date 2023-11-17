@@ -10681,10 +10681,9 @@ landscape:
                 - name: CSS
                   value: 1023
                   color: '#563d7c'
-              contributions: >-
-                61;33;151;56;57;1;78;33;25;24;92;33;36;34;85;79;44;56;92;32;44;60;58;29;38;36;18;34;21;22;26;53;16;5;40;23;7;12;14;12;12;14;11;4;0;30;1;7;4;0;2;7
+              contributions: 54;89;111;40;55;1;81;38;17;32;88;33;42;28;91;80;39;75;70;30;61;49;58;28;50;19;25;30;19;24;30;50;11;5;51;12;7;17;9;12;12;15;10;4;0;30;5;3;4;0;2;7
               firstWeek: 2022-11-20Z
-              stars: 1040
+              stars: 1041
               license: Apache License 2.0
               description: Egeria core
               latest_commit_date: '2023-11-12T13:09:43Z'
@@ -10695,7 +10694,7 @@ landscape:
               contributors_link: https://github.com/odpi/egeria/graphs/contributors
             repos:
               - url: https://github.com/odpi/egeria
-                stars: 725
+                stars: 726
               - url: https://github.com/odpi/data-governance
                 stars: 97
               - url: https://github.com/odpi/egeria-ui
@@ -21086,6 +21085,8 @@ landscape:
                   acquiree: Entelgy Innotec Security
                 - date: '2023-11-02'
                   acquiree: The Shelby Group
+                - date: '2023-11-15'
+                  acquiree: Solnet Solutions
               parents: []
               ticker: CSA.F
               funding: 6000000
@@ -21705,9 +21706,9 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T08:08:00.000Z
           - item:
-            name: Citrix Systems Inc.
+            name: Cloud Software Group, Inc.
             homepage_url: https://citrix.com/
-            logo: citrix_systems_inc.svg
+            logo: cloud_software_group_inc.svg
             crunchbase: https://www.crunchbase.com/organization/citrix-systems
             crunchbase_data:
               name: Citrix
@@ -21832,7 +21833,7 @@ landscape:
                 - Virtualization
               kind: funding
             image_data:
-              fileName: citrix-systems-inc.svg
+              fileName: cloud-software-group-inc.svg
               hash: Yad9vPPbaD6WytfueHnss2ZxhXEfrXtMjUTMKnmWBgs=
             best_practice_data:
               badge: false
@@ -29663,6 +29664,7 @@ landscape:
                   acquiree: Kreos Capital
               parents: []
               ticker: BLK
+              funding: 6500007
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -29955,24 +29957,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-04-26T17:47:13.000Z
-          - item:
-            name: BlueArch Group Inc.
-            homepage_url: https://bluearch.io/
-            logo: bluearch_group_inc.svg
-            twitter: https://twitter.com/Bluearch_io
-            organization:
-              name: BlueArch Group Inc.
-            crunchbase_data:
-              name: BlueArch Group Inc.
-              parents: []
-            image_data:
-              fileName: blue-arch-group-inc.svg
-              hash: fUryvZAZ4AemHNN4kqRyrIzkh70laJZ7Aww0n7IvlqA=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-12-07T23:59:51.000Z
           - item:
             name: Blues Inc.
             homepage_url: https://blues.io/
@@ -39182,6 +39166,8 @@ landscape:
                   acquiree: Cmd
                 - date: '2021-10-14'
                   acquiree: Optimyze
+                - date: '2023-11-15'
+                  acquiree: Opster
               parents: []
               ticker: ESTC
               funding: 161999996
@@ -45526,7 +45512,7 @@ landscape:
                   acquiree: The Climate Service
               parents: []
               ticker: SPGI
-              funding: 750000000
+              funding: 80500000
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -50331,7 +50317,7 @@ landscape:
               effective_ticker: MSFT
             image_data:
               fileName: linked-in-corporation.svg
-              hash: tEwHAuIeWf0huC/G4ajgRCwGLcMwywe5cKOr/OHWR5s=
+              hash: vuEyI2HMgEC05UxntRRQ/R+O14htCWAxIbjvuuLnn7I=
             best_practice_data:
               badge: false
               percentage: null
@@ -54890,10 +54876,11 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Nuvotex Solutions GmbH & Co. KG
+            name: Nuvotex GmbH
             homepage_url: https://nuvotex.de/
-            logo: nuvotex_solutions_gmbh__co_kg.svg
+            logo: nuvotex_gmbh.svg
             crunchbase: https://www.crunchbase.com/organization/nuvotex
+            joined: '2023-01-01'
             crunchbase_data:
               name: Nuvotex
               description: Nuvotex offers a comprehensive portfolio of services and products for the support of IT environments.
@@ -54914,7 +54901,7 @@ landscape:
                 - Business Information Systems
                 - Information Technology
             image_data:
-              fileName: nuvotex-solutions-gmb-h-co-kg.svg
+              fileName: nuvotex-gmb-h.svg
               hash: J38C0E7GkRWL4NN2ZXsp0gKtH8+V+2hVfuhOD71C770=
             best_practice_data:
               badge: false
@@ -60416,7 +60403,7 @@ landscape:
                   acquiree: The Climate Service
               parents: []
               ticker: SPGI
-              funding: 750000000
+              funding: 80500000
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -64716,7 +64703,7 @@ landscape:
             joined: '2018-04-01'
             crunchbase_data:
               name: Squarespace
-              description: Squarespace is an all-in-one platform for websites, domains, online stores, marketing tools, and scheduling.
+              description: Squarespace is a website building and hosting platform that helps users create websites without needing advanced technical skills.
               num_employees_min: 1001
               num_employees_max: 5000
               homepage: http://www.squarespace.com
@@ -66603,14 +66590,32 @@ landscape:
             name: Tassets Inc
             homepage_url: https://tassets.com/
             logo: tassets_inc.svg
-            organization:
-              name: Tassets Inc
+            crunchbase: https://www.crunchbase.com/organization/tassets-e830
             crunchbase_data:
-              name: Tassets Inc
+              name: TASSETS
+              description: TASSETS is an AI and blockchain platform that provides financial solutions and technology services for asset tokenization as a service.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.tassets.com
+              city: Santa Clara
+              region: California
+              country: United States
+              twitter: https://twitter.com/tassetsinc
+              linkedin: https://www.linkedin.com/company/tassets
+              acquisitions: []
               parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence (AI)
+                - Blockchain
+                - Financial Services
+                - Information Technology
+                - Payments
+                - Software
             image_data:
               fileName: tassets-inc.svg
-              hash: VglFjgkG4xQDg7tLzAkXEnHp3E7z+ol2D4Kj7FWvVPM=
+              hash: uVKDfPbFnSkTkF+s/gz+wOUchoHLp0ldQWZhNEHiL3Q=
             best_practice_data:
               badge: false
               percentage: null
@@ -69995,6 +70000,21 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-18T21:32:32.000Z
+          - item:
+            name: UTMStack
+            homepage_url: https://utmstack.com/
+            logo: utmstack.svg
+            organization:
+              name: UTMStack
+            crunchbase_data:
+              name: UTMStack
+              parents: []
+            image_data:
+              fileName: utm-stack.svg
+              hash: utnIkUWKL757KlDOm1kJn9fgUa3zXWy5+OGPxgudgnI=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Uturn Data Solutions
             homepage_url: https://uturndata.com/
@@ -83966,4 +83986,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-11-16T02:26:11.805Z
+updated_at: 2023-11-17T00:37:51.218Z
