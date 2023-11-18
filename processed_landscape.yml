@@ -10685,7 +10685,7 @@ landscape:
                 - name: CSS
                   value: 1023
                   color: '#563d7c'
-              contributions: 54;89;111;40;55;1;81;38;17;32;88;33;42;28;91;80;39;75;70;30;61;49;58;28;50;19;25;30;19;24;30;50;11;5;51;12;7;17;9;12;12;15;10;4;0;30;5;3;4;0;2;7
+              contributions: 52;108;96;47;43;13;69;44;14;33;84;36;41;35;99;63;42;94;48;38;60;65;35;36;54;7;32;25;27;15;31;51;8;5;54;11;5;20;7;11;18;17;2;4;0;30;5;7;0;0;6;3
               firstWeek: 2022-11-20Z
               stars: 1041
               license: Apache License 2.0
@@ -20320,7 +20320,7 @@ landscape:
                   acquiree: VISUAL ARTS
               parents: []
               ticker: 0700.HK
-              funding: 12576770000
+              funding: 31726770000
               stockExchange: hkg
               company_type: For Profit
               industries:
@@ -26738,6 +26738,8 @@ landscape:
                   acquiree: Simulity
                 - date: '2018-06-12'
                   acquiree: Stream Technologies
+                - date: '2019-01-01'
+                  acquiree: WigWag
                 - date: '2020-06-23'
                   acquiree: Falanx Microsystems
               parents: []
@@ -29668,7 +29670,6 @@ landscape:
                   acquiree: Kreos Capital
               parents: []
               ticker: BLK
-              funding: 6500007
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -32005,8 +32006,8 @@ landscape:
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: https://www.spectrum.com
-              city: New York
-              region: New York
+              city: Stamford
+              region: Connecticut
               country: United States
               twitter: https://twitter.com/getspectrum
               linkedin: https://www.linkedin.com/company/spectrum/
@@ -35363,7 +35364,7 @@ landscape:
             joined: '2022-01-01'
             crunchbase_data:
               name: Cortex
-              description: Cortex is a software platform designed to manage and operate microservices.
+              description: Cortex is the leading internal developer portal empowering engineering teams to do their best work.
               num_employees_min: 51
               num_employees_max: 100
               homepage: https://www.cortex.io
@@ -36728,7 +36729,7 @@ landscape:
                 - Software
             image_data:
               fileName: datadrivers.svg
-              hash: cnvpHsR4EYeK+EamElB8UGbFNVlS8KTd29mAh+sJBIE=
+              hash: sPZgjv/v00IJ853OAMXiTAmIBGtFS5CuIElqhLn+2RU=
             best_practice_data:
               badge: false
               percentage: null
@@ -37236,6 +37237,8 @@ landscape:
                   acquiree: innoWake
                 - date: '2017-07-19'
                   acquiree: BMR Advisors
+                - date: '2017-08-07'
+                  acquiree: Blab
                 - date: '2017-10-31'
                   acquiree: JKVine
                 - date: '2017-12-06'
@@ -43313,9 +43316,39 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-10-03T10:23:45.000Z
           - item:
-            name: Hangzhou Langhe Technology Co. Ltd. (Netease)
+            name: Hangzhou MoreSec Technology Co., Ltd.
+            homepage_url: https://moresec.cn/
+            logo: hangzhou_moresec_technology_co_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/meran-technology
+            crunchbase_data:
+              name: MoreSec
+              description: MoreSec is a company in the field of enterprise services.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: https://www.moresec.cn/
+              city: Hangzhou
+              region: Zhejiang
+              country: China
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              funding: 79620676
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Enterprise
+              kind: funding
+            image_data:
+              fileName: hangzhou-more-sec-technology-co-ltd.svg
+              hash: jtwrPoW5ZmKzw8sQ0NAET695YWDTQ3RczI3fw5V5964=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Hangzhou NetEase Shuzhifan Technology Co., Ltd
             homepage_url: https://hr.163.com/
-            logo: hangzhou_langhe_technology_co_ltd_netease.svg
+            logo: hangzhou_netease_shuzhifan_technology_co_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/netease-com
             crunchbase_data:
               name: NetEase
@@ -43352,38 +43385,8 @@ landscape:
             yahoo_finance_data:
               effective_ticker: 9999.HK
             image_data:
-              fileName: hangzhou-langhe-technology-co-ltd-netease.svg
+              fileName: hangzhou-net-ease-shuzhifan-technology-co-ltd.svg
               hash: wNQx/ZyCpeg9FRqj1PLvw00ipK9hLjcryefxC57ooX4=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Hangzhou MoreSec Technology Co., Ltd.
-            homepage_url: https://moresec.cn/
-            logo: hangzhou_moresec_technology_co_ltd.svg
-            crunchbase: https://www.crunchbase.com/organization/meran-technology
-            crunchbase_data:
-              name: MoreSec
-              description: MoreSec is a company in the field of enterprise services.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: https://www.moresec.cn/
-              city: Hangzhou
-              region: Zhejiang
-              country: China
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              funding: 79620676
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Enterprise
-              kind: funding
-            image_data:
-              fileName: hangzhou-more-sec-technology-co-ltd.svg
-              hash: jtwrPoW5ZmKzw8sQ0NAET695YWDTQ3RczI3fw5V5964=
             best_practice_data:
               badge: false
               percentage: null
@@ -47296,7 +47299,7 @@ landscape:
                   acquiree: Avionyx
               parents: []
               ticker: JOBY
-              funding: 1979970000
+              funding: 1989770000
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -47829,7 +47832,7 @@ landscape:
                   acquiree: Creed
               parents: []
               ticker: KER.PA
-              funding: 4130591925
+              funding: 5121651330
               stockExchange: epa
               company_type: For Profit
               industries:
@@ -51866,7 +51869,7 @@ landscape:
               effective_ticker: MBG.DE
             image_data:
               fileName: mercedes-benz-tech-innovation-gmb-h.svg
-              hash: cR2UqY5OqqI5Leu6wj3O4YpfVxsZ45w9J3t/yvh7PO4=
+              hash: LBKm9SLwVux28EFmsTe3eHnD30dKz6rAZkCqkzl6eJI=
             best_practice_data:
               badge: false
               percentage: null
@@ -62702,6 +62705,8 @@ landscape:
                   acquiree: Mass-Tech Controls
                 - date: '2023-08-22'
                   acquiree: Heliox
+                - date: '2023-11-15'
+                  acquiree: Insight EDA
               parents: []
               ticker: SIE.DE
               funding: 5178048063
@@ -62827,7 +62832,7 @@ landscape:
             joined: '2023-01-01'
             crunchbase_data:
               name: Signadot
-              description: Kubernetes Developer Platform
+              description: Signadot is a Kubernetes-native platform to "shift left" testing for microservices and enable 10x faster feedback cycles for developers
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://www.signadot.com/
@@ -63809,40 +63814,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: SolidRun Ltd
-            homepage_url: https://solid-run.com/
-            logo: solidrun_ltd.svg
-            crunchbase: https://www.crunchbase.com/organization/solidrun
-            crunchbase_data:
-              name: SolidRun
-              description: SolidRun is a leading developer of embedded computing solutions with a range of powerful System on Modules, SBCs and Industrial PCs.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.solid-run.com/
-              city: Yoqne`am `illit
-              region: HaZafon
-              country: Israel
-              twitter: http://twitter.com/solid_run
-              linkedin: https://www.linkedin.com/company/3305184
-              acquisitions: []
-              parents: []
-              funding: 0
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Android
-                - Embedded Systems
-                - Hardware
-                - Internet of Things
-            image_data:
-              fileName: solid-run-ltd.svg
-              hash: BwCB455lx4COZnOQWTkW+heAGejJC6Xnl8ATgI7/R6Y=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-16T13:01:12.000Z
           - item:
             name: SOLIZE Corporation
             homepage_url: https://solize.com/en/
@@ -83990,4 +83961,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-11-17T02:26:05.313Z
+updated_at: 2023-11-18T00:36:45.773Z
