@@ -10684,8 +10684,8 @@ landscape:
                 - name: CSS
                   value: 1023
                   color: '#563d7c'
-              contributions: 52;108;96;47;43;13;69;44;14;33;84;36;41;35;99;63;42;94;48;38;60;65;35;36;54;7;32;25;27;15;31;51;8;5;54;11;5;20;7;11;18;17;2;4;0;30;5;7;0;0;6;3
-              firstWeek: 2022-11-20Z
+              contributions: 52;110;94;47;43;13;74;39;14;33;84;36;41;35;123;39;42;96;64;20;64;61;35;37;53;7;32;25;27;15;31;51;8;5;54;11;5;20;7;11;18;17;2;4;0;30;5;7;0;0;6;3
+              firstWeek: 2022-11-27Z
               stars: 1041
               license: Apache License 2.0
               description: Egeria core
@@ -22687,7 +22687,7 @@ landscape:
               latest_tweet_date: 2023-04-18T18:34:05.000Z
           - item:
             name: Sony Group Corporation
-            homepage_url: https://sony.com/en/
+            homepage_url: https://sony.com/
             logo: sony_group_corporation.svg
             twitter: https://twitter.com/SonyGroupGlobal
             crunchbase: https://www.crunchbase.com/organization/sony-electronics
@@ -22697,8 +22697,8 @@ landscape:
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.sony.com
-              city: San Diego
-              region: California
+              city: Paramus
+              region: New Jersey
               country: United States
               twitter: http://twitter.com/SonyElectronics
               linkedin: https://www.linkedin.com/company/sony-electronics-professional-solutions-of-america
@@ -35041,38 +35041,9 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-03-01T14:50:34.000Z
           - item:
-            name: ControlMonkey
-            homepage_url: https://controlmonkey.io/
-            logo: controlmonkey.svg
-            crunchbase: https://www.crunchbase.com/organization/controlmonkey
-            joined: '2023-01-01'
-            crunchbase_data:
-              name: ControlMonkey
-              description: ControlMonkey is a SaaS platform that helps to manage and automate your Cloud environments with Infrastructure as Code.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://www.controlmonkey.io/
-              city: Tel Aviv
-              region: Tel Aviv
-              country: Israel
-              twitter: null
-              linkedin: https://www.linkedin.com/company/controlmonkey/
-              acquisitions: []
-              parents: []
-              funding: 0
-              stockExchange: null
-              company_type: For Profit
-              industries: []
-            image_data:
-              fileName: control-monkey.svg
-              hash: dHljikIEIJwzD5X0EFdfkBi9xPDH7tNPrKz2vs176iI=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: ControlPlane.io
+            name: Control-Plane.io
             homepage_url: https://control-plane.io/
-            logo: controlplaneio.svg
+            logo: control-planeio.svg
             crunchbase: https://www.crunchbase.com/organization/controlplane
             joined: '2019-02-01'
             crunchbase_data:
@@ -35105,6 +35076,35 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-19T13:57:57.000Z
+          - item:
+            name: ControlMonkey
+            homepage_url: https://controlmonkey.io/
+            logo: controlmonkey.svg
+            crunchbase: https://www.crunchbase.com/organization/controlmonkey
+            joined: '2023-01-01'
+            crunchbase_data:
+              name: ControlMonkey
+              description: ControlMonkey is a SaaS platform that helps to manage and automate your Cloud environments with Infrastructure as Code.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.controlmonkey.io/
+              city: Tel Aviv
+              region: Tel Aviv
+              country: Israel
+              twitter: null
+              linkedin: https://www.linkedin.com/company/controlmonkey/
+              acquisitions: []
+              parents: []
+              funding: 0
+              stockExchange: null
+              company_type: For Profit
+              industries: []
+            image_data:
+              fileName: control-monkey.svg
+              hash: dHljikIEIJwzD5X0EFdfkBi9xPDH7tNPrKz2vs176iI=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Convox Opco Inc.
             homepage_url: https://convox.com/
@@ -60646,6 +60646,8 @@ landscape:
                   acquiree: Datorama
                 - date: '2018-10-05'
                   acquiree: Rebel
+                - date: '2019-01-01'
+                  acquiree: Diffeo
                 - date: '2019-01-28'
                   acquiree: Griddable
                 - date: '2019-04-16'
@@ -83960,4 +83962,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-11-18T02:25:41.143Z
+updated_at: 2023-11-19T00:35:42.772Z
