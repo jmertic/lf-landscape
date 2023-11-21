@@ -1,9 +1,9 @@
 landscape:
   - category:
-    name: Vertical Specific
+    name: PMO Managed
     subcategories:
       - subcategory:
-        name: Academy Software Foundation
+        name: All
         items:
           - item:
             name: Academy Software Foundation
@@ -12,666 +12,15 @@ landscape:
             logo: academy-software-foundation.svg
             crunchbase: https://www.crunchbase.com/organization/academy-software-foundation
           - item:
-            name: Open Shading Language (OSL)
-            homepage_url: http://opensource.imageworks.com/?p=osl
-            repo_url: https://github.com/AcademySoftwareFoundation/OpenShadingLanguage
-            logo: osl.svg
-            crunchbase: https://www.crunchbase.com/organization/academy-software-foundation
-          - item:
-            name: OpenColorIO
-            homepage_url: https://opencolorio.org/
-            repo_url: https://github.com/AcademySoftwareFoundation/OpenColorIO
-            logo: opencolorio.svg
-            crunchbase: https://www.crunchbase.com/organization/academy-software-foundation
-          - item:
-            name: OpenCue
-            homepage_url: https://www.opencue.io/
-            repo_url: https://github.com/AcademySoftwareFoundation/OpenCue
-            logo: opencue.svg
-            crunchbase: https://www.crunchbase.com/organization/academy-software-foundation
-          - item:
-            name: OpenEXR
-            homepage_url: https://www.openexr.com/
-            repo_url: https://github.com/AcademySoftwareFoundation/openexr
-            logo: openexr.svg
-            crunchbase: https://www.crunchbase.com/organization/academy-software-foundation
-          - item:
-            name: OpenTimelineIO
-            homepage_url: https://www.opentimeline.io/
-            repo_url: https://github.com/AcademySoftwareFoundation/OpenTimelineIO
-            logo: opentimelineio.svg
-            crunchbase: https://www.crunchbase.com/organization/academy-software-foundation
-          - item:
-            name: OpenVDB
-            homepage_url: https://www.openvdb.org/
-            repo_url: https://github.com/AcademySoftwareFoundation/openvdb
-            logo: openvdb.svg
-            crunchbase: https://www.crunchbase.com/organization/academy-software-foundation
-      - subcategory:
-        name: LF Energy
-        items:
-          - item:
-            name: Energy Market Methods Consortium (EM2)
-            homepage_url: https://www.lfenergy.org/projects/em2/
-            logo: energy-market-methods-consortium-em2.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-energy
-          - item:
-            name: LF Energy
-            homepage_url: https://www.lfenergy.org/
-            logo: lfenergy-color.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-energy
-          - item:
-            name: OEDI
-            homepage_url: https://www.lfenergy.org/projects/oedi-new
-            logo: oedi.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-energy
-          - item:
-            name: OpenEEmeter
-            homepage_url: https://www.lfenergy.org/projects/openeemeter/
-            logo: openeemeter-color.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-energy
-          - item:
-            name: OperatorFabric
-            homepage_url: https://www.lfenergy.org/projects/operatorfabric/opfab
-            repo_url: https://github.com/opfab/operatorfabric-core
-            logo: operatorfabric-color.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-energy
-          - item:
-            name: PowSyBl
-            homepage_url: https://www.lfenergy.org/projects/powsybl
-            repo_url: https://github.com/powsybl/powsybl-core
-            logo: powsybl-color.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-energy
-          - item:
-            name: RIAPS
-            homepage_url: https://www.lfenergy.org/projects/riaps/
-            logo: riaps-color.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-energy
-      - subcategory:
-        name: Automotive Grade Linux
-        items:
-          - item:
-            name: Automotive Grade Linux
-            homepage_url: https://www.automotivelinux.org
-            repo_url: https://github.com/automotive-grade-linux/docs-sources
-            logo: automotivegradelinux.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-      - subcategory:
-        name: Civil Infrastructure Platform
-        items:
-          - item:
-            name: Civil Infrastructure Platform
-            homepage_url: https://www.cip-project.org
-            repo_url: https://github.com/cip-project/cip-kernel-sec
-            logo: civilinfrastructureplatform.svg
-            crunchbase: https://www.crunchbase.com/organization/civil-infrastructure-platform
-  - category:
-    name: Cloud Computing
-    subcategories:
-      - subcategory:
-        name: Cloud Native Computing Foundation
-        items:
-          - item:
-            name: Brigade
-            homepage_url: https://brigade.sh/
-            repo_url: https://github.com/brigadecore/brigade
-            logo: brigade.svg
-            twitter: https://twitter.com/brigadecore
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Buildpacks
-            homepage_url: https://buildpacks.io/
-            repo_url: https://github.com/buildpacks/pack
-            logo: buildpacks.svg
-            twitter: https://twitter.com/buildpacks_io
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Cloud Native Landscape
-            homepage_url: https://landscape.cncf.io/
-            repo_url: https://github.com/cncf/landscapeapp
-            logo: cloud-native-landscape.svg
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: CloudEvents
-            homepage_url: https://cloudevents.io/
-            repo_url: https://github.com/cloudevents/spec
-            logo: cloud-events.svg
-            twitter: https://twitter.com/cloudeventsio
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Container Network Interface (CNI)
-            homepage_url: https://github.com/containernetworking
-            repo_url: https://github.com/containernetworking/cni
-            logo: container-network-interface-cni.svg
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: containerd
-            homepage_url: https://containerd.io/
-            repo_url: https://github.com/containerd/containerd
-            logo: containerd.svg
-            twitter: https://twitter.com/containerd
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: CoreDNS
-            homepage_url: https://coredns.io/
-            repo_url: https://github.com/coredns/coredns
-            logo: core-dns.svg
-            twitter: https://twitter.com/corednsio
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Cortex (project)
-            homepage_url: https://github.com/cortexproject
-            repo_url: https://github.com/cortexproject/cortex
-            logo: cortex.svg
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: CRI-O
-            homepage_url: https://cri-o.io/
-            repo_url: https://github.com/cri-o/cri-o
-            logo: cri-o.svg
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Dragonfly
-            homepage_url: https://d7y.io/en-us/
-            repo_url: https://github.com/dragonflyoss/Dragonfly
-            logo: dragonfly.svg
-            twitter: https://twitter.com/dragonfly_oss
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Envoy
-            homepage_url: https://www.envoyproxy.io
-            repo_url: https://github.com/envoyproxy/envoy
-            logo: envoy.svg
-            twitter: https://twitter.com/envoyproxy
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: etcd
-            homepage_url: https://github.com/etcd-io
-            repo_url: https://github.com/etcd-io/etcd
-            logo: etcd.svg
-            twitter: https://twitter.com/etcdio
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Falco
-            homepage_url: https://falco.org/
-            repo_url: https://github.com/falcosecurity/falco
-            logo: falco.svg
-            twitter: https://twitter.com/falco_org
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Fluentd
-            homepage_url: https://www.fluentd.org/
-            repo_url: https://github.com/fluent/fluentd
-            logo: fluentd.svg
-            twitter: https://twitter.com/fluentd
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Flux
-            homepage_url: https://docs.fluxcd.io/en/latest/
-            repo_url: https://github.com/fluxcd/flux
-            logo: flux.svg
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: gRPC
-            homepage_url: https://grpc.io/
-            repo_url: https://github.com/grpc/grpc
-            logo: g-rpc.svg
-            twitter: https://twitter.com/grpcio
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Harbor
-            homepage_url: https://goharbor.io/
-            repo_url: https://github.com/goharbor/harbor
-            logo: harbor.svg
-            twitter: https://twitter.com/project_harbor
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Helm
-            homepage_url: https://helm.sh/
-            repo_url: https://github.com/helm/helm
-            logo: helm.svg
-            twitter: https://twitter.com/helmpack
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: in-toto
-            homepage_url: https://in-toto.io
-            repo_url: https://github.com/in-toto/in-toto
-            logo: in-toto.svg
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Jaeger
-            homepage_url: https://www.jaegertracing.io/
-            repo_url: https://github.com/jaegertracing/jaeger
-            logo: jaeger.svg
-            twitter: https://twitter.com/JaegerTracing
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: kind
-            description: kind creates local multi-node Kubernetes clusters using Docker container nodes.
-            homepage_url: https://github.com/kubernetes-sigs/kind
-            repo_url: https://github.com/kubernetes-sigs/kind
-            logo: kind.svg
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: kops
-            description: kops is open source, community-maintained tooling for production-grade kubernetes cluster installation, management and upgrades.
-            homepage_url: https://github.com/kubernetes/kops
-            repo_url: https://github.com/kubernetes/kops
-            logo: kops.svg
-            twitter: https://twitter.com/k8sops
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Kubeadm
-            description: >-
-              Kubeadm is a tool built to provide best-practice "fast paths" for creating Kubernetes clusters. It performs the actions necessary to get a minimum
-              viable, secure cluster up and running in a user friendly way.
-            homepage_url: https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/
-            repo_url: https://github.com/kubernetes/kubeadm
-            logo: kubeadm.svg
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: KubeEdge
-            homepage_url: https://kubeedge.io/en/
-            repo_url: https://github.com/kubeedge/kubeedge
-            logo: kube-edge.svg
-            twitter: https://twitter.com/KubeEdge
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Kubernetes
-            description: Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications
-            homepage_url: https://kubernetes.io/
-            repo_url: https://github.com/kubernetes/kubernetes
-            logo: kubernetes.svg
-            twitter: https://twitter.com/kubernetesio
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Kubespray
-            description: Deploy a Production Ready Kubernetes Cluster
-            homepage_url: https://kubespray.io/
-            repo_url: https://github.com/kubernetes-sigs/kubespray
-            logo: kubespray.svg
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: KubeVirt
-            homepage_url: https://kubevirt.io/
-            repo_url: https://github.com/kubevirt/kubevirt
-            logo: kube-virt.svg
-            twitter: https://twitter.com/kubevirt
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Linkerd
-            homepage_url: https://linkerd.io/
-            repo_url: https://github.com/linkerd/linkerd2
-            logo: linkerd.svg
-            twitter: https://twitter.com/linkerd
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Longhorn
-            homepage_url: https://github.com/longhorn/longhorn
-            repo_url: https://github.com/longhorn/longhorn
-            logo: longhorn.svg
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: minikube
-            description: minikube runs a local Kubernetes cluster on macOS, Linux, and Windows.
-            homepage_url: https://minikube.sigs.k8s.io
-            repo_url: https://github.com/kubernetes/minikube
-            logo: minikube.svg
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: NATS
-            homepage_url: https://nats.io/
-            repo_url: https://github.com/nats-io/nats-server
-            url_for_bestpractices: https://github.com/nats-io
-            logo: nats.svg
-            twitter: https://twitter.com/nats_io
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Network Service Mesh
-            homepage_url: https://networkservicemesh.io/
-            repo_url: https://github.com/networkservicemesh/networkservicemesh
-            logo: network-service-mesh.svg
-            twitter: https://twitter.com/nservicemesh
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Notary
-            homepage_url: https://github.com/notaryproject/notary
-            repo_url: https://github.com/notaryproject/notary
-            logo: notary.svg
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Open Policy Agent (OPA)
-            homepage_url: https://www.openpolicyagent.org/
-            repo_url: https://github.com/open-policy-agent/opa
-            logo: open-policy-agent-opa.svg
-            twitter: https://twitter.com/openpolicyagent
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: OpenEBS
-            homepage_url: https://www.openebs.io/
-            repo_url: https://github.com/openebs/openebs
-            logo: open-ebs.svg
-            twitter: https://twitter.com/openebs
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: OpenMetrics
-            homepage_url: https://openmetrics.io/
-            repo_url: https://github.com/OpenObservability/OpenMetrics
-            logo: open-metrics.svg
-            twitter: https://twitter.com/OpenMetricsIO
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: OpenTelemetry
-            homepage_url: https://opentelemetry.io/
-            repo_url: https://github.com/open-telemetry/opentelemetry-specification
-            logo: open-telemetry.svg
-            twitter: https://twitter.com/opentelemetry
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: OpenTracing
-            homepage_url: https://opentracing.io/
-            repo_url: https://github.com/opentracing/opentracing-go
-            logo: open-tracing.svg
-            twitter: https://twitter.com/opentracing
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Prometheus
-            homepage_url: https://prometheus.io/
-            repo_url: https://github.com/prometheus/prometheus
-            logo: prometheus.svg
-            twitter: https://twitter.com/PrometheusIO
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Rook
-            homepage_url: https://rook.io/
-            repo_url: https://github.com/rook/rook
-            logo: rook.svg
-            twitter: https://twitter.com/rook_io
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: SPIFFE
-            homepage_url: https://spiffe.io/
-            repo_url: https://github.com/spiffe/spiffe
-            logo: spiffe.svg
-            twitter: https://twitter.com/spiffeio
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: SPIRE
-            homepage_url: https://spiffe.io/spire/
-            repo_url: https://github.com/spiffe/spire
-            logo: spire.svg
-            twitter: https://twitter.com/spiffeio
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Strimzi
-            homepage_url: https://strimzi.io/
-            repo_url: https://github.com/strimzi/strimzi-kafka-operator
-            logo: strimzi.svg
-            twitter: https://twitter.com/strimziio
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Telepresence
-            homepage_url: https://www.telepresence.io/
-            repo_url: https://github.com/telepresenceio/telepresence
-            logo: telepresence.svg
-            twitter: https://twitter.com/telepresenceio
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Thanos
-            homepage_url: https://thanos.io/
-            repo_url: https://github.com/thanos-io/thanos
-            logo: thanos.svg
-            twitter: https://twitter.com/ThanosMetrics
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: The Update Framework (TUF)
-            homepage_url: https://theupdateframework.github.io/
-            repo_url: https://github.com/theupdateframework/python-tuf
-            logo: the-update-framework-tuf.svg
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: TiKV
-            homepage_url: https://github.com/tikv/tikv
-            repo_url: https://github.com/tikv/tikv
-            logo: ti-kv.svg
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Virtual Kubelet
-            homepage_url: https://github.com/virtual-kubelet
-            repo_url: https://github.com/virtual-kubelet/virtual-kubelet
-            logo: virtual-kubelet.svg
-            twitter: https://twitter.com/virtualkubelet
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Vitess
-            homepage_url: https://vitess.io/
-            repo_url: https://github.com/vitessio/vitess
-            logo: vitess.svg
-            twitter: https://twitter.com/vitessio
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-      - subcategory:
-        name: Standards
-        items:
-          - item:
-            name: OACA
-            homepage_url: https://oaca-project.github.io/
-            logo: oaca.svg
+            name: Alpha-Omega Foundation
+            homepage_url: https://alpha-omega.dev/
+            logo: alpha-omega.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
-            name: Open Container Initiative
-            homepage_url: https://www.opencontainers.org
-            repo_url: https://github.com/opencontainers/runc
-            logo: opencontainerinitiative-color.svg
+            name: Camara Fund
+            homepage_url: https://camaraproject.org/
+            logo: camara.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: rkt
-            homepage_url: https://github.com/rkt/rkt
-            repo_url: https://github.com/rkt/rkt
-            logo: rkt.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-  - category:
-    name: Development and Tooling
-    subcategories:
-      - subcategory:
-        name: OpenJS Foundation
-        items:
-          - item:
-            name: AMP
-            homepage_url: https://amp.dev/
-            repo_url: https://github.com/ampproject/amphtml
-            logo: amp.svg
-            twitter: https://twitter.com/AMPhtml
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: Appium
-            homepage_url: https://appium.io/
-            repo_url: https://github.com/appium/appium
-            logo: appium.svg
-            twitter: https://twitter.com/AppiumDevs
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: Architect
-            homepage_url: https://arc.codes/docs/en/get-started/quickstart
-            repo_url: https://github.com/architect/functions
-            logo: architect.svg
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: Dojo
-            homepage_url: https://dojo.io/
-            repo_url: https://github.com/dojo/framework
-            logo: dojo.svg
-            twitter: https://twitter.com/dojo
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: Electron
-            homepage_url: https://www.electronjs.org/
-            repo_url: https://github.com/electron/electron
-            logo: electron.svg
-            twitter: https://twitter.com/electronjs
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: ESLint
-            homepage_url: https://eslint.org/
-            repo_url: https://github.com/eslint/eslint
-            logo: es-lint.svg
-            twitter: https://twitter.com/geteslint
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: Esprima
-            homepage_url: https://esprima.org/
-            repo_url: https://github.com/jquery/esprima
-            logo: esprima.svg
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: Express
-            homepage_url: https://expressjs.com/
-            repo_url: https://github.com/expressjs/express
-            logo: express.svg
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: Fastify
-            homepage_url: https://www.fastify.io/
-            repo_url: https://github.com/fastify/fastify
-            logo: fastify.svg
-            twitter: https://twitter.com/fastifyjs
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: Globalize
-            homepage_url: https://github.com/globalizejs/globalize
-            repo_url: https://github.com/globalizejs/globalize
-            logo: globalize.svg
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: Grunt
-            homepage_url: https://gruntjs.com/
-            repo_url: https://github.com/gruntjs/grunt
-            logo: grunt.svg
-            twitter: https://twitter.com/gruntjs
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: HospitalRun
-            homepage_url: https://hospitalrun.io/
-            repo_url: https://github.com/HospitalRun/hospitalrun-frontend
-            logo: hospital-run.svg
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: Interledger
-            homepage_url: https://interledger.org/
-            repo_url: https://github.com/interledger/rfcs
-            logo: interledger.svg
-            twitter: https://twitter.com/interledger
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: Intern
-            homepage_url: https://theintern.io/
-            repo_url: https://github.com/theintern/intern
-            logo: intern.svg
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: Jerryscript
-            homepage_url: https://jerryscript.net/
-            repo_url: https://github.com/jerryscript-project/jerryscript
-            logo: jerryscript.svg
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: jQuery
-            homepage_url: https://jquery.com/
-            repo_url: https://github.com/jquery/jquery
-            logo: j-query.svg
-            twitter: https://twitter.com/jquery
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: libuv
-            homepage_url: https://libuv.org/
-            repo_url: https://github.com/libuv/libuv
-            logo: libuv.svg
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: Lodash
-            homepage_url: https://lodash.com/
-            repo_url: https://github.com/lodash/lodash
-            logo: lodash.svg
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: Marko
-            homepage_url: https://markojs.com/
-            repo_url: https://github.com/marko-js/marko
-            logo: marko.svg
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: Messageformat
-            homepage_url: https://messageformat.github.io/messageformat/
-            repo_url: https://github.com/messageformat/messageformat
-            logo: messageformat.svg
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: Mocha
-            homepage_url: https://mochajs.org/
-            repo_url: https://github.com/mochajs/mocha
-            logo: mocha.svg
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: Moment.js
-            homepage_url: https://momentjs.com/
-            repo_url: https://github.com/moment/moment
-            logo: moment-js.svg
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: Node-RED
-            homepage_url: https://nodered.org/
-            repo_url: https://github.com/node-red/node-red
-            logo: node-red.svg
-            twitter: https://twitter.com/nodered
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: Node.js
-            homepage_url: https://nodejs.org/en/
-            repo_url: https://github.com/nodejs/node
-            logo: node-js.svg
-            twitter: https://twitter.com/nodejs
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: nvm
-            homepage_url: https://github.com/nvm-sh/nvm
-            repo_url: https://github.com/nvm-sh/nvm
-            logo: nvm.svg
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: PEP
-            homepage_url: https://github.com/jquery-archive/PEP
-            repo_url: https://github.com/jquery-archive/PEP
-            logo: pep.svg
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: QUnit
-            homepage_url: https://qunitjs.com/
-            repo_url: https://github.com/qunitjs/qunit
-            logo: q-unit.svg
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: WebdriverIO
-            homepage_url: https://webdriver.io/
-            repo_url: https://github.com/webdriverio/webdriverio
-            logo: webdriverio.svg
-            twitter: https://twitter.com/webdriverio
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: Webhint.io
-            homepage_url: https://webhint.io/
-            repo_url: https://github.com/webhintio/hint
-            logo: webhint-io.svg
-            twitter: https://twitter.com/webhintio
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-          - item:
-            name: webpack
-            homepage_url: https://webpack.js.org/
-            repo_url: https://github.com/webpack/webpack
-            logo: webpack.svg
-            twitter: https://twitter.com/webpack
-            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
-      - subcategory:
-        name: CD Foundation
-        items:
           - item:
             name: CD Foundation
             homepage_url: https://cd.foundation/
@@ -680,71 +29,21 @@ landscape:
             twitter: https://twitter.com/cdeliveryfdn
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
-            name: CDEvents
-            homepage_url: https://cdevents.dev/
-            repo_url: https://github.com/cdevents/spec
-            logo: cdevents.svg
-            twitter: https://twitter.com/_cdevents
-            crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
-          - item:
-            name: Jenkins
-            homepage_url: https://jenkins.io/
-            repo_url: https://github.com/jenkinsci/jenkins
-            logo: jenkins.svg
-            twitter: https://twitter.com/jenkinsci
+            name: Ceph Foundation
+            homepage_url: https://ceph.com/en/foundation
+            repo_url: https://github.com/ceph/ceph
+            logo: ceph.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
-            name: Jenkins X
-            homepage_url: https://jenkins-x.io/
-            repo_url: https://github.com/jenkins-x/jx
-            logo: jenkins-x.svg
-            twitter: https://twitter.com/jenkinsxio
+            name: Chips Alliance
+            homepage_url: https://chipsalliance.org/
+            logo: chips-alliance.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
-            name: Ortelius
-            homepage_url: https://ortelius.io/
-            repo_url: https://github.com/ortelius/ortelius
-            logo: ortelius.svg
-            twitter: https://twitter.com/OrteliusOs
-            crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
-          - item:
-            name: Pyrsia
-            homepage_url: https://pyrsia.io/
-            repo_url: https://github.com/pyrsia/pyrsia
-            logo: pyrsia.svg
-            twitter: https://twitter.com/pyrsiaoss
-            crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
-          - item:
-            name: Screwdriver.cd
-            homepage_url: https://screwdriver.cd/
-            repo_url: https://github.com/screwdriver-cd/screwdriver
-            logo: screwdriver-cd.svg
-            twitter: https://twitter.com/screwdrivercd
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: Shipwright
-            homepage_url: https://shipwright.io
-            repo_url: https://github.com/shipwright-io/community
-            logo: shipwright.svg
-            twitter: https://twitter.com/shipwrightio
-            crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
-          - item:
-            name: Spinnaker
-            homepage_url: https://www.spinnaker.io/
-            repo_url: https://github.com/spinnaker/spinnaker
-            logo: spinnaker.svg
-            twitter: https://twitter.com/spinnakerio
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: Tekton
-            homepage_url: https://tekton.dev/
-            repo_url: https://github.com/tektoncd/pipeline
-            logo: tekton.svg
-            twitter: https://twitter.com/tektoncd
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-      - subcategory:
-        name: Other
-        items:
+            name: Civil Infrastructure Platform
+            homepage_url: https://www.cip-project.org
+            logo: civilinfrastructureplatform.svg
+            crunchbase: https://www.crunchbase.com/organization/civil-infrastructure-platform
           - item:
             name: Cloud Foundry
             homepage_url: https://www.cloudfoundry.org
@@ -752,35 +51,31 @@ landscape:
             logo: cloudfoundry.svg
             crunchbase: https://www.crunchbase.com/organization/cloud-foundry
           - item:
-            name: Mapzen
-            homepage_url: https://www.mapzen.com/
-            repo_url: https://github.com/mapzen/write-the-docs-tutorial
-            logo: mapzen-logo-dark.svg
+            name: Cloud Native Computing Foundation (CNCF)
+            homepage_url: https://cncf.io/
+            logo: cloud_native_computing_foundation.svg
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          - item:
+            name: Confidential Computing Consortium (CCC)
+            homepage_url: https://confidentialcomputing.io/
+            logo: ccc.svg
+            crunchbase: https://www.crunchbase.com/organization/confidential-computing-consortium
+          - item:
+            name: DPDK
+            homepage_url: https://www.dpdk.org
+            repo_url: https://github.com/DPDK/dpdk
+            logo: dpdk.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
-            name: OpenAPI Initiative
-            homepage_url: https://www.openapis.org
-            repo_url: https://github.com/OAI/OpenAPI-Specification
-            logo: openapiinitiative.svg
+            name: ELISA
+            homepage_url: https://elisa.tech
+            logo: elisa.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
-            name: osquery
-            homepage_url: https://osquery.io/
-            repo_url: https://github.com/osquery/osquery
-            logo: osquery.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: TARS
-            homepage_url: https://github.com/tarscloud
-            repo_url: https://github.com/TarsCloud/Tars
-            logo: tars.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-  - category:
-    name: Data, Analytics, and AI
-    subcategories:
-      - subcategory:
-        name: Hyperledger
-        items:
+            name: FINOS (The Fintech Open Source Foundation)
+            homepage_url: https://www.finos.org/
+            logo: finos.svg
+            crunchbase: https://www.crunchbase.com/organization/finos-foundation
           - item:
             name: Hyperledger
             description: >-
@@ -791,672 +86,45 @@ landscape:
             logo: hyperledger-color.svg
             crunchbase: https://www.crunchbase.com/organization/hyperledger-2
           - item:
-            name: Hyperledger Aries
-            homepage_url: https://www.hyperledger.org/use/aries
-            repo_url: https://github.com/hyperledger/aries
-            logo: hyperledger-aries.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-          - item:
-            name: Hyperledger Avalon
-            homepage_url: https://www.hyperledger.org/use/avalon
-            repo_url: https://github.com/hyperledger/avalon
-            logo: hyperledger-avalon.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-          - item:
-            name: Hyperledger Besu
-            homepage_url: https://www.hyperledger.org/use/besu
-            repo_url: https://github.com/hyperledger/besu
-            logo: hyperledger-besu.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-          - item:
-            name: Hyperledger Burrow
-            homepage_url: https://www.hyperledger.org/project/hyperledger-burrow
-            repo_url: https://github.com/hyperledger/burrow
-            logo: hyperledger-burrow.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-          - item:
-            name: Hyperledger Cactus
-            homepage_url: https://www.hyperledger.org/use/cactus
-            repo_url: https://github.com/hyperledger/cactus
-            logo: hyperledger-cactus.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-          - item:
-            name: Hyperledger Caliper
-            homepage_url: https://www.hyperledger.org/use/caliper
-            repo_url: https://github.com/hyperledger/caliper
-            logo: hyperledger-caliper.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-          - item:
-            name: Hyperledger Cello
-            homepage_url: https://www.hyperledger.org/use/cello
-            repo_url: https://github.com/hyperledger/cello
-            logo: hyperledger-cello.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-          - item:
-            name: Hyperledger Explorer
-            homepage_url: https://www.hyperledger.org/use/explorer
-            repo_url: https://github.com/hyperledger/blockchain-explorer
-            logo: hyperledger-explorer.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-          - item:
-            name: Hyperledger Fabric
-            homepage_url: https://www.hyperledger.org/use/fabric
-            repo_url: https://github.com/hyperledger/fabric
-            logo: hyperledger-fabric.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-          - item:
-            name: Hyperledger Grid
-            homepage_url: https://www.hyperledger.org/use/grid
-            repo_url: https://github.com/hyperledger/grid
-            logo: Hyperledger_Grid_Logo_Color_Color.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-          - item:
-            name: Hyperledger Indy
-            homepage_url: https://www.hyperledger.org/use/hyperledger-indy
-            repo_url: https://github.com/hyperledger/indy-sdk
-            logo: hyperledger-indy.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-          - item:
-            name: Hyperledger Iroha
-            homepage_url: https://www.hyperledger.org/use/iroha
-            repo_url: https://github.com/hyperledger/iroha
-            logo: hyperledger-iroha.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-          - item:
-            name: Hyperledger Quilt
-            homepage_url: https://www.hyperledger.org/use/quilt
-            repo_url: https://github.com/hyperledger/quilt
-            logo: hyperledger-quilt.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-          - item:
-            name: Hyperledger Sawtooth
-            homepage_url: https://www.hyperledger.org/use/sawtooth
-            repo_url: https://github.com/hyperledger/sawtooth-core
-            logo: hyperledger-sawtooth.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-          - item:
-            name: Hyperledger Transact
-            homepage_url: https://www.hyperledger.org/use/transact
-            repo_url: https://github.com/hyperledger/transact
-            logo: Hyperledger_Transact_Logo_Color.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-          - item:
-            name: Hyperledger Ursa
-            homepage_url: https://www.hyperledger.org/use/ursa
-            repo_url: https://github.com/hyperledger/ursa
-            logo: hyperledger-ursa.svg
-            crunchbase: https://www.crunchbase.com/organization/hyperledger-2
-      - subcategory:
-        name: LF AI & Data
-        items:
-          - item:
-            name: Acumos
-            homepage_url: https://www.acumos.org/
-            repo_url: https://github.com/acumos/documentation
-            logo: acumos.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: Adlik
-            homepage_url: https://github.com/Adlik/Adlik
-            repo_url: https://github.com/Adlik/Adlik
-            logo: adlik.svg
-            twitter: null
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: Adversarial Robustness Toolkit
-            homepage_url: https://developer.ibm.com/open/projects/adversarial-robustness-toolbox/
-            repo_url: https://github.com/Trusted-AI/adversarial-robustness-toolbox
-            logo: art.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: AI Explainability 360 Toolkit
-            homepage_url: http://aix360.mybluemix.net
-            repo_url: https://github.com/Trusted-AI/AIX360
-            logo: aix360.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: AI Fairness 360 Toolkit
-            homepage_url: https://developer.ibm.com/open/projects/ai-fairness-360/
-            repo_url: https://github.com/Trusted-AI/AIF360
-            logo: aif360.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: Amundsen
-            homepage_url: https://www.amundsen.io/
-            repo_url: https://github.com/amundsen-io/amundsen
-            logo: amundsen.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: Angel-ML
-            homepage_url: https://github.com/Angel-ML/angel
-            repo_url: https://github.com/Angel-ML/angel
-            logo: angel-ml.svg
-            twitter: null
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: Artigraph
-            homepage_url: https://github.com/artigraph/
-            repo_url: https://github.com/artigraph/artigraph
-            logo: artigraph.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: DataPractices
-            homepage_url: https://datapractices.org/
-            repo_url: https://github.com/datapractices/data-practices-site
-            logo: datapractices.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: Datashim
-            homepage_url: https://github.com/datashim-io/datashim
-            repo_url: https://github.com/datashim-io/datashim
-            logo: datashim.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: DELTA
-            homepage_url: https://delta-didi.readthedocs.io/en/latest
-            repo_url: https://github.com/Delta-ML/delta
-            logo: delta.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: Egeria
-            homepage_url: https://egeria.odpi.org/
-            repo_url: https://github.com/odpi/egeria
-            additional_repos:
-              - repo_url: https://github.com/odpi/data-governance
-              - repo_url: https://github.com/odpi/egeria
-              - repo_url: https://github.com/odpi/egeria-api-mocks
-              - repo_url: https://github.com/odpi/egeria-connector-crux
-              - repo_url: https://github.com/odpi/egeria-connector-hadoop-ecosystem
-              - repo_url: https://github.com/odpi/egeria-connector-ibm-information-server
-              - repo_url: https://github.com/odpi/egeria-connector-sas-viya
-              - repo_url: https://github.com/odpi/egeria-database-connectors
-              - repo_url: https://github.com/odpi/egeria-dev-projects
-              - repo_url: https://github.com/odpi/egeria-js-commons
-              - repo_url: https://github.com/odpi/egeria-k8s-operator
-              - repo_url: https://github.com/odpi/egeria-palisade
-              - repo_url: https://github.com/odpi/egeria-react-ui
-              - repo_url: https://github.com/odpi/egeria-samples
-              - repo_url: https://github.com/odpi/egeria-ui
-              - repo_url: https://github.com/odpi/happi-graph
-            logo: egeria.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: Elastic Deep Learning (EDL)
-            homepage_url: https://www.paddlepaddle.org.cn
-            repo_url: https://github.com/elasticdeeplearning/edl
-            logo: elastic-deep-learning-edl.svg
-            twitter: null
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: Feast
-            homepage_url: https://feast.dev/
-            repo_url: https://github.com/feast-dev/feast
-            logo: feast.svg
-            twitter: null
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: Flyte
-            homepage_url: https://flyte.org
-            repo_url: https://github.com/flyteorg/flyte
-            logo: flyte.svg
-            twitter: https://twitter.com/flyteorg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: ForestFlow
-            homepage_url: https://forestflow.ai
-            repo_url: https://github.com/ForestFlow/ForestFlow
-            logo: forest-flow.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: Horovod
-            homepage_url: https://eng.uber.com/horovod/
-            repo_url: https://github.com/horovod/horovod
-            logo: horovod.svg
-            twitter: null
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: JanusGraph
-            homepage_url: https://janusgraph.org/
-            repo_url: https://github.com/JanusGraph/janusgraph
-            logo: janusgraph.svg
-            twitter: https://twitter.com/janusgraph
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: Kedro
-            homepage_url: https://kedro.readthedocs.io/en/stable
-            repo_url: https://github.com/quantumblacklabs/kedro
-            logo: kedro.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: Kompute
-            homepage_url: https://kompute.cc
-            repo_url: https://github.com/KomputeProject/kompute
-            logo: kompute.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: KServe
-            homepage_url: https://kserve.io
-            repo_url: https://github.com/kserve/kserve
-            logo: kserve.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: Ludwig
-            homepage_url: https://ludwig-ai.github.io/ludwig-docs/
-            repo_url: https://github.com/ludwig-ai/ludwig
-            logo: ludwig.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: Machine Learning eXchange
-            homepage_url: https://ml-exchange.org/
-            repo_url: https://github.com/machine-learning-exchange/mlx
-            logo: mlx.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: Marquez
-            homepage_url: https://marquezproject.github.io/marquez
-            repo_url: https://github.com/MarquezProject/marquez
-            logo: marquez.svg
-            twitter: https://twitter.com/MarquezProject
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: Milvus
-            homepage_url: https://milvus.io
-            repo_url: https://github.com/milvus-io/milvus
-            logo: milvus.svg
-            twitter: https://twitter.com/milvusio
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: NNStreamer
-            homepage_url: https://github.com/nnstreamer/nnstreamer
-            repo_url: https://github.com/nnstreamer/nnstreamer
-            logo: nn-streamer.svg
-            twitter: https://twitter.com/NnStreamer
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: ONNX
-            homepage_url: https://onnx.ai/
-            repo_url: https://github.com/onnx/onnx
-            logo: onnx.svg
-            twitter: https://twitter.com/onnxai
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: OpenBytes
-            homepage_url: https://openbytes.io/
-            repo_url: https://github.com/Project-OpenBytes/OpenBytes
-            logo: openbytes.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: OpenDS4All
-            homepage_url: https://github.com/odpi/OpenDS4All
-            repo_url: https://github.com/odpi/OpenDS4All
-            logo: opends4all.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: OpenLineage
-            homepage_url: https://github.com/OpenLineage
-            repo_url: https://github.com/OpenLineage/OpenLineage
-            logo: openlineage.svg
-            twitter: https://twitter.com/OpenLineage
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: Pyro
-            homepage_url: http://pyro.ai/
-            repo_url: https://github.com/pyro-ppl/pyro
-            logo: pyro.svg
-            twitter: null
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: RosaeNLG
-            homepage_url: https://rosaenlg.org
-            repo_url: https://github.com/RosaeNLG/rosaenlg
-            logo: rosaenlg.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: SOAJS
-            homepage_url: https://www.soajs.org/
-            repo_url: https://github.com/soajs/soajs
-            logo: soajs.svg
-            twitter: https://twitter.com/soajsorg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: sparklyr
-            homepage_url: https://sparklyr.ai
-            repo_url: https://github.com/sparklyr/sparklyr
-            logo: sparklyr.svg
-            twitter: null
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: Substra
-            homepage_url: https://github.com/Substra/substra
-            repo_url: https://github.com/Substra/substra
-            logo: substra.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: TonY
-            homepage_url: https://github.com/linkedin/TonY
-            repo_url: https://github.com/linkedin/TonY
-            logo: tony.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-      - subcategory:
-        name: Other
-        items:
-          - item:
-            name: Community Data License Agreement (CDLA)
-            homepage_url: https://cdla.dev
-            repo_url: https://github.com/lfai/CDLA
-            logo: cdla.svg
+            name: InterUSS Platform Fund
+            homepage_url: https://interussplatform.org/
+            logo: interuss.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
-            name: Federated AI Ecosystem
-            homepage_url: https://www.fedai.org/
-            repo_url: https://github.com/FederatedAI/FATE
-            logo: FederatedAIEcosystem.svg
+            name: LF AI & Data
+            homepage_url: https://lfaidata.foundation/
+            logo: lf-ai-foundation.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: LF Connectivity
+            homepage_url: https://lfconnectivity.dev/
+            logo: lf-connectivity.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: OpenSDS
-            homepage_url: https://sodafoundation.io/wp-content/uploads/2021/03/cn.png
-            repo_url: https://github.com/sodafoundation/api
-            logo: opensds.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: Presto
-            homepage_url: https://prestodb.io/
-            repo_url: https://github.com/prestodb/presto
-            logo: presto.svg
-            crunchbase: https://www.crunchbase.com/organization/presto-software-foundation
-          - item:
-            name: R Consortium
-            homepage_url: https://www.r-consortium.org
-            repo_url: https://github.com/RConsortium/isc
-            logo: rconsortium.svg
-            crunchbase: https://www.crunchbase.com/organization/the-r-consortium
-          - item:
-            name: RethinkDB
-            homepage_url: https://www.rethinkdb.com
-            repo_url: https://github.com/rethinkdb/rethinkdb
-            logo: rethinkdb.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-  - category:
-    name: Other
-    subcategories:
-      - subcategory:
-        name: Other
-        items:
-          - item:
-            name: Chips Alliance
-            homepage_url: https://chipsalliance.org/
-            logo: chips-alliance.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: Code Aurora
-            homepage_url: https://www.codeaurora.org
-            logo: codeaurora.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: Let’s Encrypt
-            homepage_url: https://letsencrypt.org
-            repo_url: https://github.com/letsencrypt/boulder
-            logo: let-s-encrypt.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: OpenBMC
-            homepage_url: https://www.openbmc.org
-            repo_url: https://github.com/openbmc/openbmc
-            logo: open-bmc.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: Sound Open Firmware
-            homepage_url: https://www.sofproject.org/
-            repo_url: https://github.com/thesofproject/sof
-            logo: sound-open-firmware.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-      - subcategory:
-        name: Accord Project
-        items:
-          - item:
-            name: Accord Project
-            homepage_url: https://www.accordproject.org/
-            repo_url: https://github.com/accordproject/techdocs
-            logo: accord-project.svg
-            crunchbase: https://www.crunchbase.com/organization/accord-project
-          - item:
-            name: Cicero
-            homepage_url: https://www.accordproject.org/projects/cicero
-            repo_url: https://github.com/accordproject/cicero
-            logo: cicero.svg
-            crunchbase: https://www.crunchbase.com/organization/accord-project
-          - item:
-            name: Concerto
-            homepage_url: https://www.accordproject.org/projects/concerto
-            repo_url: https://github.com/accordproject/concerto
-            logo: concerto.svg
-            crunchbase: https://www.crunchbase.com/organization/accord-project
-          - item:
-            name: Ergo
-            homepage_url: https://www.accordproject.org/projects/ergo
-            repo_url: https://github.com/accordproject/ergo
-            logo: ergo.svg
-            crunchbase: https://www.crunchbase.com/organization/accord-project
-  - category:
-    name: Infrastructure
-    subcategories:
-      - subcategory:
-        name: LF Edge
-        items:
-          - item:
-            name: Akraino Edge Stack
-            homepage_url: https://www.lfedge.org/projects/akraino
-            repo_url: https://github.com/akraino-edge-stack/icn-daaas
-            logo: akrainoedgestack.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-edge
-          - item:
-            name: Baetyl
-            homepage_url: https://baetyl.io/en/
-            repo_url: https://github.com/baetyl/baetyl
-            logo: baetyl.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-edge
-          - item:
-            name: Edge Virtualization Engine (EVE)
-            homepage_url: https://www.lfedge.org/projects/eve
-            repo_url: https://github.com/lf-edge/eve
-            logo: edge-virtualization-engine-eve.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-edge
-          - item:
-            name: EdgeX Foundry
-            homepage_url: https://www.edgexfoundry.org
-            repo_url: https://github.com/edgexfoundry/edgex-go
-            logo: edge-x-foundry.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-edge
-          - item:
-            name: Fledge
-            homepage_url: https://www.lfedge.org/projects/fledge
-            repo_url: https://github.com/fledge-iot/fledge
-            logo: fledge.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-edge
-          - item:
-            name: Home Edge
-            homepage_url: https://www.lfedge.org/projects/homeedge
-            repo_url: https://github.com/lf-edge/edge-home-orchestration-go
-            logo: home-edge.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-edge
           - item:
             name: LF Edge
             homepage_url: https://www.lfedge.org
             logo: lf-edge.svg
             crunchbase: https://www.crunchbase.com/organization/lf-edge
           - item:
-            name: Open Glossary of Edge Computing
-            homepage_url: https://www.lfedge.org/openglossary
-            repo_url: https://github.com/State-of-the-Edge/glossary
-            logo: a85a65a853_logo-1.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-edge
-      - subcategory:
-        name: LF Networking
-        items:
-          - item:
-            name: FD.io
-            homepage_url: https://fd.io
-            repo_url: https://github.com/FDio/vpp
-            logo: fdio.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
-          - item:
             name: LF Networking
             homepage_url: https://www.lfnetworking.org/
             logo: lfnetworking-color.svg
             crunchbase: https://www.crunchbase.com/organization/lf-networking
           - item:
-            name: Open Network Automation Platform
-            homepage_url: https://www.onap.org
-            repo_url: https://github.com/onap/integration
-            logo: onap.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
-          - item:
-            name: OpenDaylight
-            homepage_url: https://www.opendaylight.org
-            repo_url: https://github.com/opendaylight/opflex
-            logo: opendaylight.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
-          - item:
-            name: OpenSwitch
-            homepage_url: https://www.openswitch.net
-            repo_url: https://github.com/open-switch/opx-tools
-            logo: openswitch.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
-          - item:
-            name: OPNFV
-            homepage_url: https://www.opnfv.org
-            repo_url: https://github.com/opnfv/releng
-            logo: opnfv.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
-          - item:
-            name: PNDA
-            homepage_url: http://pnda.io
-            repo_url: https://github.com/pndaproject/pnda
-            logo: pnda.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
-          - item:
-            name: SNAS.io
-            homepage_url: https://www.snas.io
-            repo_url: https://github.com/SNAS/openbmp
-            logo: snas-io.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-networking
-          - item:
-            name: Tungsten Fabric
-            homepage_url: https://tungsten.io/
-            repo_url: https://github.com/tungstenfabric/tf-devstack
-            logo: tungstenfabric.svg
-            crunchbase: https://www.crunchbase.com/organization/tungsten-fabric
-      - subcategory:
-        name: Other Networking
-        items:
-          - item:
-            name: Danos
-            homepage_url: https://www.danosproject.org/
-            repo_url: https://github.com/danos/base-files
-            logo: danos.svg
+            name: Magma Fund
+            homepage_url: https://magmacore.dev/
+            logo: magma-fund.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
-            name: DPDK
-            homepage_url: https://www.dpdk.org
-            repo_url: https://github.com/DPDK/dpdk
-            logo: dpdk.svg
+            name: OS-Climate
+            homepage_url: https://www.os-climate.org/
+            logo: os-climate.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
-            name: FRRouting
-            homepage_url: https://frrouting.org
-            repo_url: https://github.com/FRRouting/frr
-            logo: frr.svg
+            name: Open 3D Foundation
+            homepage_url: http://o3d.foundation/
+            logo: o3de.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: IO Visor Project
-            homepage_url: https://www.iovisor.org
-            repo_url: https://github.com/iovisor/bpftrace
-            logo: iovisor.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: Open Security Controller
-            homepage_url: https://www.opensecuritycontroller.org/
-            repo_url: https://github.com/opensecuritycontroller/osc-core
-            logo: opensecuritycontroller.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: Open vSwitch
-            homepage_url: http://openvswitch.org
-            repo_url: https://github.com/openvswitch/ovs
-            logo: openvswitch.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-      - subcategory:
-        name: Embedded and IOT
-        items:
-          - item:
-            name: ACRN
-            homepage_url: https://projectacrn.org
-            repo_url: https://github.com/projectacrn/acrn-hypervisor
-            logo: ACRN.svg
-            crunchbase: https://www.crunchbase.com/organization/project-acrn
-          - item:
-            name: Dronecode
-            homepage_url: https://www.dronecode.org
-            repo_url: https://github.com/Dronecode/Technical-Steering-Committee
-            logo: dronecode.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: IoTivity
-            homepage_url: https://www.iotivity.org
-            repo_url: https://github.com/iotivity/iotivity
-            logo: iotivity.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: RISC-V
-            homepage_url: https://riscv.org/about/history
-            repo_url: https://github.com/riscvarchive/riscv-software-list
-            logo: riscv.svg
-            crunchbase: https://www.crunchbase.com/organization/risc-v
-          - item:
-            name: Tizen
-            homepage_url: https://www.tizen.org
-            repo_url: https://github.com/TizenTeam/tizen-distro
-            logo: tizen.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: Zephyr Project
-            homepage_url: https://www.zephyrproject.org
-            repo_url: https://github.com/zephyrproject-rtos/zephyr
-            logo: zephyrproject.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-      - subcategory:
-        name: Open Mainframe Project
-        items:
-          - item:
-            name: ADE
-            homepage_url: http://ade.openmainframeproject.org
-            repo_url: https://github.com/openmainframeproject/ade
-            logo: ade.svg
-            crunchbase: https://www.crunchbase.com/organization/open-mainframe-project
-          - item:
-            name: Ambitus
-            homepage_url: https://github.com/ambitus
-            repo_url: https://github.com/ambitus/ambitus
-            logo: ambitus.svg
-            crunchbase: https://www.crunchbase.com/organization/open-mainframe-project
-          - item:
-            name: Atom language syntax highlighting for z/VM
-            homepage_url: https://atom.io/users/openmainframeproject
-            repo_url: https://github.com/openmainframeproject/atompkg-languages-zvm
-            logo: atom-language-syntax-highlighting-for-z-vm.svg
-            crunchbase: https://www.crunchbase.com/organization/open-mainframe-project
-          - item:
-            name: Feilong
-            homepage_url: https://www.openmainframeproject.org/projects/feilong
-            repo_url: https://github.com/openmainframeproject/feilong
-            logo: feilong.svg
-            crunchbase: https://www.crunchbase.com/organization/open-mainframe-project
-          - item:
-            name: Mentorship
-            homepage_url: https://www.openmainframeproject.org/projects/mentorship-program
-            repo_url: https://github.com/openmainframeproject-internship/resources
-            logo: mentorship.svg
-            crunchbase: https://www.crunchbase.com/organization/open-mainframe-project
           - item:
             name: Open Mainframe Project
             homepage_url: https://www.openmainframeproject.org
@@ -1464,81 +132,69 @@ landscape:
             logo: openmainframeproject.svg
             crunchbase: https://www.crunchbase.com/organization/open-mainframe-project
           - item:
-            name: Polycephaly
-            homepage_url: https://github.com/openmainframeproject/polycephaly
-            repo_url: https://github.com/openmainframeproject/polycephaly
-            logo: polycephaly.svg
-            crunchbase: https://www.crunchbase.com/organization/open-mainframe-project
-          - item:
-            name: TerseDecompress
-            homepage_url: https://www.openmainframeproject.org/projects/tersedecompress
-            repo_url: https://github.com/openmainframeproject/tersedecompress
-            logo: terse-decompress.svg
-            crunchbase: https://www.crunchbase.com/organization/open-mainframe-project
-          - item:
-            name: Zorow
-            homepage_url: https://www.openmainframeproject.org/projects/zorow
-            repo_url: https://github.com/openmainframeproject/zorow
-            logo: zorow.svg
-            crunchbase: https://www.crunchbase.com/organization/open-mainframe-project
-          - item:
-            name: Zowe
-            description: Zowe is an open source framework for leveraging data and applications in z/OS from modern applications and tools.
-            homepage_url: https://www.zowe.org
-            repo_url: https://github.com/zowe/api-layer
-            url_for_bestpractices: https://github.com/zowe/zlc
-            logo: zowe.svg
-            crunchbase: https://www.crunchbase.com/organization/open-mainframe-project
-      - subcategory:
-        name: Linux
-        items:
-          - item:
-            name: Carrier Grade Linux
-            homepage_url: https://wiki.linuxfoundation.org/cgl/start
-            logo: carrier-grade-linux-01.svg
+            name: Open Source Security Foundation (OpenSSF)
+            homepage_url: https://openssf.org/
+            logo: openssf.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
-            name: Core Embedded Linux Project
-            homepage_url: https://wiki.linuxfoundation.org/celp/start
-            logo: CELP.svg
+            name: Open Voice Network
+            homepage_url: https://openvoicenetwork.org/
+            logo: open-voice-network.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
-            name: cregit
-            homepage_url: https://cregit.linuxsources.org
-            repo_url: https://github.com/cregit/cregit
-            logo: cregit.svg
+            name: OpenAPI Initiative
+            homepage_url: https://www.openapis.org
+            repo_url: https://github.com/OAI/OpenAPI-Specification
+            logo: openapiinitiative.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
-            name: ELISA
-            homepage_url: https://elisa.tech
-            logo: elisa.svg
+            name: OpenHPC
+            homepage_url: http://openhpc.community
+            repo_url: https://github.com/openhpc/ohpc
+            logo: openhpc.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
-            name: Linux
-            homepage_url: https://www.kernel.org
-            repo_url: https://github.com/torvalds/linux
-            logo: Tux.svg
+            name: openIDL
+            homepage_url: https://openidl.org/
+            logo: openidl.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
-            name: Linux Standard Base (LSB)
-            homepage_url: https://wiki.linuxfoundation.org/lsb/start
-            logo: lsb-color.svg
+            name: OpenJS Foundation
+            homepage_url: https://openjsf.org/
+            logo: openjsfoundation-color.svg
+            crunchbase: https://www.crunchbase.com/organization/open-js-foundation
+          - item:
+            name: OpenWallet Foundation
+            homepage_url: https://openwallet.foundation
+            logo: openwalletfoundation.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
-            name: LinuxBoot
-            homepage_url: https://www.linuxboot.org/
-            logo: linuxboot.svg
+            name: The Presto Foundation
+            homepage_url: https://prestodb.io/
+            repo_url: https://github.com/prestodb/presto
+            logo: presto.svg
+            crunchbase: https://www.crunchbase.com/organization/presto-software-foundation
+          - item:
+            name: PyTorch Foundation
+            homepage_url: https://pytorch.org
+            logo: pytorch.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
-            name: Long-Term Support Initiative (LTSI)
-            homepage_url: https://ltsi.linuxfoundation.org/
-            logo: LTSI.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            name: R Consortium
+            homepage_url: https://www.r-consortium.org
+            repo_url: https://github.com/RConsortium/isc
+            logo: rconsortium.svg
+            crunchbase: https://www.crunchbase.com/organization/the-r-consortium
           - item:
-            name: Open Printing
-            homepage_url: https://openprinting.github.io
-            repo_url: https://github.com/OpenPrinting/cups-filters
-            logo: openprinting.svg
+            name: RISC-V
+            homepage_url: https://riscv.org/about/history
+            repo_url: https://github.com/riscvarchive/riscv-software-list
+            logo: riscv.svg
+            crunchbase: https://www.crunchbase.com/organization/risc-v
+          - item:
+            name: RISE Project
+            homepage_url: https://riseproject.dev/
+            logo: rise.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
             name: Real-Time Linux
@@ -1546,143 +202,42 @@ landscape:
             logo: realtimelinux.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
+            name: SODA Foundation
+            homepage_url: https://sodafoundation.io/
+            logo: soda-foundation.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+          - item:
+            name: SONiC Fund
+            homepage_url: https://www.sonicfoundation.dev
+            logo: sonicfund.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+          - item:
+            name: Sylva Fund
+            logo: sylva.svg
+            homepage_url: https://sylvaproject.org/
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+          - item:
+            name: TARS
+            homepage_url: https://github.com/tarscloud
+            repo_url: https://github.com/TarsCloud/Tars
+            logo: tars.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+          - item:
+            name: TLA+ Foundation
+            homepage_url: https://foundation.tlapl.us/
+            logo: TLA+_Foundation.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+          - item:
             name: Yocto Project
             homepage_url: https://www.yoctoproject.org
             repo_url: https://github.com/jku/poky
             logo: yocto.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
-      - subcategory:
-        name: Storage
-        items:
           - item:
-            name: Ceph Foundation
-            homepage_url: https://ceph.com/en/foundation
-            repo_url: https://github.com/ceph/ceph
-            logo: ceph.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: Xen Project
-            homepage_url: https://www.xenproject.org
-            repo_url: https://github.com/xen-project/xen
-            logo: xenproject.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-      - subcategory:
-        name: HPC
-        items:
-          - item:
-            name: OpenHPC
-            homepage_url: http://openhpc.community
-            repo_url: https://github.com/openhpc/ohpc
-            logo: openhpc.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-      - subcategory:
-        name: Messaging
-        items:
-          - item:
-            name: OpenMAMA
-            homepage_url: https://openmama.org
-            repo_url: https://github.com/finos/OpenMAMA
-            logo: openmama.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: OpenMessaging
-            homepage_url: https://openmessaging.cloud
-            repo_url: https://github.com/openmessaging/specification
-            logo: open-messaging.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-  - category:
-    name: Community and Compliance
-    subcategories:
-      - subcategory:
-        name: Metrics
-        items:
-          - item:
-            name: CHAOSS
-            homepage_url: https://chaoss.community
-            repo_url: https://github.com/chaoss/metrics
-            logo: Chaoss.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: Core Infrastructure Initiative
-            homepage_url: https://www.coreinfrastructure.org
-            repo_url: https://github.com/coreinfrastructure/best-practices-badge
-            logo: coreinfrastructureinitiative.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: DiaMon Workgroup
-            homepage_url: https://diamon.org
-            logo: diamonworkgroup-color.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-      - subcategory:
-        name: Automated Compliance
-        items:
-          - item:
-            name: FOSSology
-            homepage_url: https://www.fossology.org
-            repo_url: https://github.com/fossology/fossology
-            logo: fossology.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: Software Package Data Exchange
-            homepage_url: https://spdx.dev
-            repo_url: https://github.com/spdx/spdx-spec
-            logo: spdx-color.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-      - subcategory:
-        name: Programs
-        items:
-          - item:
-            name: Open Accessibility (A11y) Group
-            homepage_url: https://wiki.linuxfoundation.org/accessibility/start
-            repo_url: https://github.com/a11yproject/a11yproject.com
-            logo: open-accessibility-a11y-group.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: OpenChain Project
-            homepage_url: https://www.openchainproject.org
-            repo_url: https://github.com/openchain/openchain
-            logo: openchain.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: TODO Group (project)
-            homepage_url: https://todogroup.org
-            repo_url: https://github.com/todogroup/todogroup.org
-            logo: todo-group.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-  - category:
-    name: Standards
-    subcategories:
-      - subcategory:
-        name: Joint Development Foundation
-        items:
-          - item:
-            name: 3MF
-            homepage_url: https://3mf.io
-            repo_url: https://github.com/3MFConsortium/lib3mf
-            logo: 3MF.svg
-            crunchbase: https://www.crunchbase.com/organization/3mf-consortium
-          - item:
-            name: Alliance For Open Media
-            homepage_url: https://aomedia.org
-            repo_url: https://github.com/mozilla/aom
-            logo: aomedia.svg
-            crunchbase: https://www.crunchbase.com/organization/alliance-for-open-media
-          - item:
-            name: DIF
-            homepage_url: https://identity.foundation/
-            repo_url: https://github.com/decentralized-identity/sidetree
-            logo: dif-logo.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: GraphQL
-            homepage_url: https://graphql.org/foundation
-            repo_url: https://github.com/graphql/graphql-spec
-            logo: graph-ql.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: Joint Development Foundation
-            homepage_url: https://www.jointdevelopment.org
-            logo: jointdevelopmentfoundation.svg
+            name: Zephyr Project
+            homepage_url: https://www.zephyrproject.org
+            repo_url: https://github.com/zephyrproject-rtos/zephyr
+            logo: zephyrproject.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
   - category:
     name: LF Members
