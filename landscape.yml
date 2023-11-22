@@ -116,11 +116,6 @@ landscape:
             logo: magma-fund.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
-            name: OS-Climate
-            homepage_url: https://www.os-climate.org/
-            logo: os-climate.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
             name: Open 3D Foundation
             homepage_url: http://o3d.foundation/
             logo: o3de.svg
@@ -169,11 +164,10 @@ landscape:
             logo: openwalletfoundation.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
-            name: The Presto Foundation
-            homepage_url: https://prestodb.io/
-            repo_url: https://github.com/prestodb/presto
-            logo: presto.svg
-            crunchbase: https://www.crunchbase.com/organization/presto-software-foundation
+            name: OS-Climate
+            homepage_url: https://www.os-climate.org/
+            logo: os-climate.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
             name: PyTorch Foundation
             homepage_url: https://pytorch.org
@@ -186,6 +180,11 @@ landscape:
             logo: rconsortium.svg
             crunchbase: https://www.crunchbase.com/organization/the-r-consortium
           - item:
+            name: Real-Time Linux
+            homepage_url: https://wiki.linuxfoundation.org/realtime/start
+            logo: realtimelinux.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+          - item:
             name: RISC-V
             homepage_url: https://riscv.org/about/history
             repo_url: https://github.com/riscvarchive/riscv-software-list
@@ -195,11 +194,6 @@ landscape:
             name: RISE Project
             homepage_url: https://riseproject.dev/
             logo: rise.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: Real-Time Linux
-            homepage_url: https://wiki.linuxfoundation.org/realtime/start
-            logo: realtimelinux.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
             name: SODA Foundation
@@ -213,8 +207,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
             name: Sylva Fund
-            logo: sylva.svg
             homepage_url: https://sylvaproject.org/
+            logo: sylva.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
             name: TARS
@@ -222,6 +216,12 @@ landscape:
             repo_url: https://github.com/TarsCloud/Tars
             logo: tars.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
+          - item:
+            name: The Presto Foundation
+            homepage_url: https://prestodb.io/
+            repo_url: https://github.com/prestodb/presto
+            logo: presto.svg
+            crunchbase: https://www.crunchbase.com/organization/presto-software-foundation
           - item:
             name: TLA+ Foundation
             homepage_url: https://foundation.tlapl.us/
