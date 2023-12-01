@@ -4058,7 +4058,7 @@ landscape:
                   acquiree: Cynora
               parents: []
               ticker: 005930.KS
-              funding: 0
+              funding: 6400000007
               stockExchange: krx
               company_type: For Profit
               industries:
@@ -4174,9 +4174,9 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-18T19:18:16.000Z
           - item:
-            name: VMware, Inc.
+            name: VMware LLC
             homepage_url: https://vmware.com/
-            logo: vmware_inc.svg
+            logo: vmware_llc.svg
             crunchbase: https://www.crunchbase.com/organization/vmware
             joined: '2016-01-01'
             crunchbase_data:
@@ -4309,7 +4309,7 @@ landscape:
             yahoo_finance_data:
               effective_ticker: VMW
             image_data:
-              fileName: v-mware-inc.svg
+              fileName: v-mware-llc.svg
               hash: ifx1u+sPs/VHqYgRJStdCPMD/zPTbeYPF0Su4jO56Fw=
             best_practice_data:
               badge: false
@@ -13256,7 +13256,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/smartx/
               acquisitions: []
               parents: []
-              funding: 112100000
+              funding: 67100000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -25590,7 +25590,7 @@ landscape:
                   acquiree: ITAgents interactive software solutions GmbH
                 - date: '2013-04-30'
                   acquiree: myON-ID Media
-                - date: '2013-05-01'
+                - date: '2013-04-30'
                   acquiree: secure.me
                 - date: '2013-09-24'
                   acquiree: Jumpshot
@@ -31705,7 +31705,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/keylesstech
               acquisitions: []
               parents: []
-              funding: 20000000
+              funding: 26000000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -36839,11 +36839,25 @@ landscape:
             name: N3XGEN Smart Information Technology EST
             homepage_url: https://n3xgen.io/
             logo: n3xgen_smart_information_technology_est.svg
-            organization:
-              name: N3XGEN Smart Information Technology EST
+            crunchbase: https://www.crunchbase.com/organization/n3xgen-io
+            joined: '2023-10-01'
             crunchbase_data:
-              name: N3XGEN Smart Information Technology EST
+              name: N3XGEN.io
+              description: 'N3XGEN.io: Revolutionizing cloud integration with our beyond 12-factor iPaaS platform. Unleash the power of agility and innovation.'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://n3xgen.io/
+              city: Dubai
+              region: Dubai
+              country: United Arab Emirates
+              twitter: https://twitter.com/n3xgensmartinfo
+              linkedin: null
+              acquisitions: []
               parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Software
             image_data:
               fileName: n3-xgen-smart-information-technology-est.svg
               hash: rgncJThy14YIV8wqyv+HDfHd/ghQdDd6JuidQleJOfg=
@@ -38249,6 +38263,8 @@ landscape:
                   acquiree: Amber Networks
                 - date: '2003-04-22'
                   acquiree: Eizel Technologies
+                - date: '2005-10-06'
+                  acquiree: Alphapur
                 - date: '2006-02-10'
                   acquiree: Intellisync
                 - date: '2006-08-08'
@@ -38326,8 +38342,9 @@ landscape:
                 - date: '2020-02-19'
                   acquiree: Elenion Technologies
               parents: []
+              ticker: NOKI
               funding: 868070947
-              stockExchange: hel
+              stockExchange: bvb
               company_type: For Profit
               industries:
                 - Electronics
@@ -39119,21 +39136,20 @@ landscape:
             name: Ollama
             homepage_url: https://ollama.ai/
             logo: ollama.svg
-            crunchbase: https://www.crunchbase.com/organization/infra-technologies-inc
+            crunchbase: https://www.crunchbase.com/organization/ollama
             crunchbase_data:
-              name: Infra
-              description: Infra manages access to infrastructure such as Kubernetes, with support for more infrastructure resources coming soon.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://infrahq.com
-              city: Toronto
-              region: Ontario
-              country: Canada
-              twitter: https://twitter.com/infrahq
-              linkedin: https://www.linkedin.com/company/infrahq
+              name: Ollama
+              description: Get up and running with large language models locally.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://github.com/jmorganca/ollama
+              city: ' N/A'
+              region: ' N/A'
+              country: ' N/A'
+              twitter: https://twitter.com/jmorgan
+              linkedin: https://www.linkedin.com/company/ollama/
               acquisitions: []
               parents: []
-              funding: 0
               stockExchange: null
               company_type: For Profit
               industries: []
@@ -39143,8 +39159,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-03-06T19:34:19.000Z
           - item:
             name: Ondat
             homepage_url: https://ondat.io/
@@ -40106,8 +40120,8 @@ landscape:
             crunchbase_data:
               name: Paladin Cloud
               description: Open source, Security-as-Code platform for developers and security teams to identify and eliminate risks in your clouds.
-              num_employees_min: null
-              num_employees_max: null
+              num_employees_min: 11
+              num_employees_max: 50
               homepage: https://paladincloud.io
               city: Piscataway
               region: New Jersey
@@ -40587,11 +40601,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/pepperdata
             crunchbase_data:
               name: Pepperdata
-              description: Pepperdata products provide observability and continuous tuning for the big data analytics stack.
+              description: Pepperdata provides real-time, automated cost optimization for Amazon EMR & EKS with no manual tuning and no application changes
               num_employees_min: 11
               num_employees_max: 50
               homepage: http://pepperdata.com
-              city: Santa Clara
+              city: Sunnyvale
               region: California
               country: United States
               twitter: http://twitter.com/pepperdata
@@ -40602,12 +40616,11 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
-                - Application Performance Management
                 - Big Data
-                - Computer
                 - Enterprise Software
                 - Information Technology
                 - Open Source
+                - SaaS
                 - Software
               kind: funding
             image_data:
@@ -43875,7 +43888,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/robusta-dev
             crunchbase_data:
               name: robusta.dev
-              description: Robusta is an Israeli startup with a highly acclaimed solution for monitoring cloud environments. It is trusted by hundreds of companies.
+              description: Robusta.dev is the Israeli startup that empowers thousands of developers to troubleshoot apps on Kubernetes with automation and AI
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://home.robusta.dev/
@@ -48482,7 +48495,7 @@ landscape:
                   acquiree: Tock
               parents: []
               ticker: 8DT.F
-              funding: 578500000
+              funding: 678500000
               stockExchange: fra
               company_type: For Profit
               industries:
@@ -62781,7 +62794,7 @@ landscape:
               linkedin: https://www.linkedin.com/school/new-york-university
               acquisitions: []
               parents: []
-              funding: 26927189
+              funding: 26947142
               stockExchange: null
               company_type: ''
               industries:
@@ -67543,6 +67556,35 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T11:03:17.000Z
           - item:
+            name: Wikimedia Deutschland e. V.
+            homepage_url: https://wikimedia.de/
+            logo: wikimedia_deutschland_e_v.svg
+            crunchbase: https://www.crunchbase.com/organization/wikimedia-deutschland-e-v
+            crunchbase_data:
+              name: Wikimedia Deutschland e.V.
+              description: Wikimedia Deutschland is the German Wikimedia chapter, a non-profit organization founded to promote free knowledge.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: http://www.wikimedia.de/
+              city: Berlin
+              region: Berlin
+              country: Germany
+              twitter: https://www.twitter.com/wikimediade
+              linkedin: https://www.linkedin.com/company/wikimedia-deutschland-e-v-
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Internet
+                - Non Profit
+            image_data:
+              fileName: wikimedia-deutschland-e-v.svg
+              hash: wZv6XXWIxx/GIcz+A/al1rV2Fr3kHYihbKqlcXy1sGI=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Wikimedia Foundation, Inc.
             homepage_url: https://wikimedia.org/
             logo: wikimedia_foundation_inc.svg
@@ -67749,4 +67791,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-11-30T02:04:59.316Z
+updated_at: 2023-12-01T00:35:40.083Z
