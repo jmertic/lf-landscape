@@ -4058,7 +4058,7 @@ landscape:
                   acquiree: Cynora
               parents: []
               ticker: 005930.KS
-              funding: 6400000007
+              funding: 0
               stockExchange: krx
               company_type: For Profit
               industries:
@@ -4815,6 +4815,8 @@ landscape:
                   acquiree: Glamit
                 - date: '2021-10-19'
                   acquiree: Xoomworks
+                - date: '2021-10-28'
+                  acquiree: BCS Consulting
                 - date: '2021-10-28'
                   acquiree: Business Control Solutions
                 - date: '2021-11-09'
@@ -7480,6 +7482,21 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Adhara Limited
+            homepage_url: https://adhara.io/
+            logo: adhara_limited.svg
+            organization:
+              name: Adhara Limited
+            crunchbase_data:
+              name: Adhara Limited
+              parents: []
+            image_data:
+              fileName: adhara-limited.svg
+              hash: sG9tLkkq0pCBQVbSjutwLQJthg/XCz1t2exC8RJKqtk=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Adobe Inc.
             homepage_url: https://adobe.com/
             logo: adobe_inc.svg
@@ -10028,7 +10045,7 @@ landscape:
               kind: funding
             image_data:
               fileName: apollo-graph-ql.svg
-              hash: InACL6SQPgw5hOsHU4SB3w+FocwoonGl7M7ngGDvjcw=
+              hash: ELXGPuEHyxeWLxGgFrubD3gstKXP80Fsje27+TnTiOY=
             best_practice_data:
               badge: false
               percentage: null
@@ -15005,24 +15022,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T15:33:04.000Z
           - item:
-            name: Cape Inc.
-            homepage_url: https://capeprivacy.com/
-            logo: cape_inc.svg
-            twitter: https://twitter.com/capeprivacy
-            organization:
-              name: Cape Inc.
-            crunchbase_data:
-              name: Cape Inc.
-              parents: []
-            image_data:
-              fileName: cape-inc.svg
-              hash: I0GGNCdfEx3eVCn/PkEPMxcP+AIAe+Za0g3y9+WgVp0=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T23:24:00.000Z
-          - item:
             name: Capgemini
             homepage_url: https://capgemini.com/
             logo: capgemini.svg
@@ -17866,6 +17865,41 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T22:46:29.000Z
           - item:
+            name: Coder
+            homepage_url: https://coder.com/
+            logo: coder.svg
+            crunchbase: https://www.crunchbase.com/organization/coder
+            joined: '2023-12-01'
+            crunchbase_data:
+              name: Coder
+              description: Coder provides open-source tools and an enterprise platform that makes it easier to configure, secure, and scale development environments.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://coder.com/
+              city: Austin
+              region: Texas
+              country: United States
+              twitter: https://twitter.com/CoderHQ
+              linkedin: https://www.linkedin.com/company/coderhq
+              acquisitions: []
+              parents: []
+              funding: 47803428
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Developer Platform
+                - Developer Tools
+                - Enterprise Software
+                - Software
+              kind: funding
+            image_data:
+              fileName: coder.svg
+              hash: mH62cmAEgWXyllusdYHWzHpXrgiONI4A4KlxfH5l1tw=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Codethink
             homepage_url: https://codethink.co.uk/
             logo: codethink.svg
@@ -19870,82 +19904,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T00:39:56.000Z
-          - item:
-            name: CVS Health
-            homepage_url: https://cvshealth.com/
-            logo: cvs_health.svg
-            crunchbase: https://www.crunchbase.com/organization/cvs-caremark
-            crunchbase_data:
-              name: CVS Health
-              description: CVS Health is a health solutions company that provides an integrated healthcare services to its members.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://cvshealth.com
-              city: Woonsocket
-              region: Rhode Island
-              country: United States
-              twitter: https://twitter.com/CVSHealth
-              linkedin: https://www.linkedin.com/company/cvs-health
-              acquisitions:
-                - date: '1998-03-31'
-                  acquiree: Arbor Drugs
-                - date: '2000-07-05'
-                  acquiree: Stadtlander Pharmacy
-                - date: '2000-07-06'
-                  acquiree: Stadtlander Drug Company
-                - date: '2004-04-05'
-                  acquiree: Eckerd
-                - date: '2006-07-13'
-                  acquiree: MinuteClinic
-                - date: '2008-08-12'
-                  acquiree: Longs Drug Stores
-                - date: '2008-10-20'
-                  acquiree: RxAmerica
-                - date: '2009-12-01'
-                  acquiree: Generation Health
-                - date: '2010-12-01'
-                  acquiree: Universal American - Medicare Part D Business
-                - date: '2013-03-18'
-                  acquiree: Novologix
-                - date: '2013-11-27'
-                  acquiree: Coram Specialty Infusion
-                - date: '2014-07-14'
-                  acquiree: Navarro Discount Pharmacy
-                - date: '2015-05-21'
-                  acquiree: Omnicare
-                - date: '2015-06-15'
-                  acquiree: TargetPharmacy
-                - date: '2017-12-03'
-                  acquiree: aetna
-                - date: '2018-05-08'
-                  acquiree: EntrustRx
-                - date: '2019-12-02'
-                  acquiree: IlliniCare Health
-                - date: '2022-09-05'
-                  acquiree: Signify Health
-                - date: '2023-01-11'
-                  acquiree: Oak Street Health
-              parents: []
-              ticker: CVS
-              funding: 0
-              stockExchange: nyse
-              company_type: For Profit
-              industries:
-                - Health Care
-                - Medical
-                - Pharmaceutical
-                - Retail
-                - Sales
-            yahoo_finance_data:
-              effective_ticker: CVS
-            image_data:
-              fileName: cvs-health.svg
-              hash: NpDLUbvOQEZQpebZxyyW15WXSUD53xPm8FHtnF/FBT0=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-03-16T18:24:00.000Z
           - item:
             name: CyberArk Software Ltd
             homepage_url: https://cyberark.com/
@@ -24193,6 +24151,36 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-04T10:19:43.000Z
           - item:
+            name: Exostellar
+            homepage_url: https://exostellar.io/
+            logo: exostellar.svg
+            crunchbase: https://www.crunchbase.com/organization/exotanium
+            joined: '2023-12-01'
+            crunchbase_data:
+              name: Exostellar
+              description: We help enterprise companies achieve cloud optimizations and cost reductions without service interruptions.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://exostellar.io
+              city: Ithaca
+              region: New York
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/exotanium/
+              acquisitions: []
+              parents: []
+              funding: 34005967
+              stockExchange: null
+              company_type: For Profit
+              industries: []
+              kind: funding
+            image_data:
+              fileName: exostellar.svg
+              hash: ioyiDimxgo5nD72YQFej2Nwq1LgnUwh7ilpCWTwnDEU=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Exotanium Inc.
             homepage_url: https://exotanium.io/
             logo: exotanium_inc.svg
@@ -24718,42 +24706,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T14:58:00.000Z
-          - item:
-            name: Firetail
-            homepage_url: https://firetail.io/
-            logo: firetail.svg
-            twitter: https://twitter.com/FireTailio
-            crunchbase: https://www.crunchbase.com/organization/firetail
-            joined: '2022-12-01'
-            crunchbase_data:
-              name: Firetail
-              description: FireTail is bringing a new approach to API security - security through code.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.firetail.io/
-              city: Mclean
-              region: Virginia
-              country: United States
-              twitter: null
-              linkedin: https://www.linkedin.com/company/firetailio/
-              acquisitions: []
-              parents: []
-              funding: 5000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Developer APIs
-                - Information Technology
-                - Software
-              kind: funding
-            image_data:
-              fileName: firetail.svg
-              hash: rfyF9J3aA4YFJKNUrTusk52oDk9JtoLC6is8SB//nSw=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: null
           - item:
             name: Fisher-Rosemount Systems, Inc., an Emerson Company
             homepage_url: https://emerson.com/
@@ -26269,40 +26221,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T23:12:25.000Z
-          - item:
-            name: Globo
-            homepage_url: https://globo.com/
-            logo: globo.svg
-            twitter: https://twitter.com/globonoticias
-            crunchbase: https://www.crunchbase.com/organization/organiza-es-globo
-            joined: '2018-12-01'
-            crunchbase_data:
-              name: Globo.com
-              description: Globo.com is a mass media group that offers intelligence and know-how in strategy creation and the development of digital solutions.
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: http://globo.com
-              city: Rio De Janeiro
-              region: Rio de Janeiro
-              country: Brazil
-              twitter: https://twitter.com/globocom
-              linkedin: https://www.linkedin.com/company/globo-com/about/
-              acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/grupo-globo
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Internet
-                - News
-            image_data:
-              fileName: globo.svg
-              hash: ROb5HHZBYAIDpB3qiRl86tjaFk2mXQjI9mX59WVtqDw=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2008-11-06T19:58:30.000Z
           - item:
             name: GoDaddy Operating Company, LLC
             homepage_url: https://godaddy.com/
@@ -31427,6 +31345,45 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-18T19:03:03.000Z
           - item:
+            name: Kapeta Inc
+            homepage_url: https://kapeta.com/
+            logo: kapeta_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/kapeta
+            joined: '2023-12-01'
+            crunchbase_data:
+              name: Kapeta
+              description: Kapeta redefines how software is built - accelerating and improving every part of the development and deployment life cycle
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://kapeta.com
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/kapeta/
+              acquisitions: []
+              parents: []
+              funding: 1000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence (AI)
+                - Cloud Security
+                - Developer Platform
+                - Developer Tools
+                - Machine Learning
+                - Open Source
+                - PaaS
+                - SaaS
+                - Software
+              kind: funding
+            image_data:
+              fileName: kapeta-inc.svg
+              hash: RLsAIwmzCxEXO5edq39PzORDfTjzbw2jfzHMlR0wKpI=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Kasten, Inc.
             homepage_url: https://kasten.io/
             logo: kasten_inc.svg
@@ -33575,6 +33532,34 @@ landscape:
             image_data:
               fileName: last9-inc.svg
               hash: k37tM9O5X99ZNBebwv/43fixbPXkC30e/Z6IuhratPg=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Launchnodes
+            homepage_url: https://launchnodes.com/
+            logo: launchnodes.svg
+            crunchbase: https://www.crunchbase.com/organization/launchnodes
+            crunchbase_data:
+              name: Launchnodes
+              description: Launchnodes exists to make Ethereum (ETH) staking easy, secure and decentralised for as many stakeholders as possible
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.launchnodes.com/
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: https://twitter.com/launchnodes/status/1427547097243525120
+              linkedin: https://www.linkedin.com/company/launchnodes
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - FinTech
+            image_data:
+              fileName: launchnodes.svg
+              hash: Uhw78l4cn2ADsqD4KQa0jmn7yBBZy1PaGTlhQ2z4i68=
             best_practice_data:
               badge: false
               percentage: null
@@ -37138,85 +37123,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: NCC Group
-            homepage_url: https://nccgroup.trust/
-            logo: ncc_group.svg
-            twitter: https://twitter.com/NCCGroupplc
-            crunchbase: https://www.crunchbase.com/organization/ncc-group
-            crunchbase_data:
-              name: NCC Group
-              description: NCC Group exists to make the world safer and more secure.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: https://www.nccgroup.com
-              city: Manchester
-              region: Manchester
-              country: United Kingdom
-              twitter: http://twitter.com/nccgroupplc
-              linkedin: https://www.linkedin.com/company/ncc-group
-              acquisitions:
-                - date: '2006-07-07'
-                  acquiree: SourceHarbor
-                - date: '2007-01-23'
-                  acquiree: NCC Group Performance Testing
-                - date: '2007-08-01'
-                  acquiree: SecureTest
-                - date: '2008-01-23'
-                  acquiree: Escrow Europe Holding
-                - date: '2008-11-28'
-                  acquiree: Next Generation Security Software
-                - date: '2009-05-01'
-                  acquiree: Escrow Europe Switzerland
-                - date: '2010-03-19'
-                  acquiree: Meridian Services International
-                - date: '2010-04-23'
-                  acquiree: SDLC Solutions
-                - date: '2010-10-10'
-                  acquiree: iSEC Partners
-                - date: '2011-08-05'
-                  acquiree: Axzona Ltd.
-                - date: '2012-08-02'
-                  acquiree: Matasano Security
-                - date: '2012-08-20'
-                  acquiree: Intrepidus Group
-                - date: '2013-06-13'
-                  acquiree: Accumuli Security
-                - date: '2014-05-01'
-                  acquiree: FortConsult
-                - date: '2015-01-20'
-                  acquiree: The Open Registry Group
-                - date: '2015-03-25'
-                  acquiree: Accumuli Security
-                - date: '2015-11-20'
-                  acquiree: Fox - IT Holding
-                - date: '2016-09-29'
-                  acquiree: Payment Software Company, Inc.
-                - date: '2016-11-11'
-                  acquiree: Virtual Security Research
-                - date: '2021-05-13'
-                  acquiree: Iron Mountain-Intellectual Property Management
-              parents: []
-              ticker: NCC.L
-              stockExchange: lse
-              company_type: For Profit
-              industries:
-                - Consulting
-                - Cyber Security
-                - Human Computer Interaction
-                - Information Technology
-                - Network Security
-                - Software
-            yahoo_finance_data:
-              effective_ticker: NCC.L
-            image_data:
-              fileName: ncc-group.svg
-              hash: miROLnK4DXn8cPjltIdjXBy39vHtttIefMu4bYNZFgo=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-21T08:54:14.000Z
-          - item:
             name: ndustrial
             homepage_url: https://ndustrial.io/
             logo: ndustrial.svg
@@ -37252,6 +37158,39 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T19:13:03.000Z
+          - item:
+            name: NearForm Ltd
+            homepage_url: https://nearform.com/
+            logo: nearform_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/nearform
+            crunchbase_data:
+              name: NearForm
+              description: NearForm is a software consultancy, that enables its clients to deliver real and lasting business impact through design and technology.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: http://www.nearform.com
+              city: Waterford
+              region: Waterford
+              country: Ireland
+              twitter: http://twitter.com/nearform
+              linkedin: https://www.linkedin.com/company/nearform
+              acquisitions:
+                - date: '2023-10-10'
+                  acquiree: Formidable
+              parents: []
+              funding: 0
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Consulting
+                - Enterprise Software
+                - Software
+            image_data:
+              fileName: near-form-ltd.svg
+              hash: eh6dHUYMp24Br/rlJzI5hhxxkKKOobzpi4WfwAEC9X8=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Nearmap Australia Pty Ltd
             homepage_url: https://nearmap.com/
@@ -39137,6 +39076,7 @@ landscape:
             homepage_url: https://ollama.ai/
             logo: ollama.svg
             crunchbase: https://www.crunchbase.com/organization/ollama
+            joined: '2022-11-01'
             crunchbase_data:
               name: Ollama
               description: Get up and running with large language models locally.
@@ -41238,6 +41178,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T07:27:25.000Z
           - item:
+            name: Pluxee
+            homepage_url: https://pluxeegroup.com/
+            logo: pluxee.svg
+            organization:
+              name: Pluxee
+            crunchbase_data:
+              name: Pluxee
+              parents: []
+            image_data:
+              fileName: pluxee.svg
+              hash: vsfUto2ryzD0WlPlfJWDKLQWRykVPiAQBNlSD78tZlk=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: PLVision Corporation
             homepage_url: https://plvision.eu/
             logo: plvision_corporation.svg
@@ -41752,41 +41707,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T15:00:01.000Z
-          - item:
-            name: Privado
-            homepage_url: https://privado.ai/
-            logo: privado.svg
-            twitter: https://twitter.com/PrivadoHQ
-            crunchbase: https://www.crunchbase.com/organization/privado
-            joined: '2022-12-01'
-            crunchbase_data:
-              name: Privado
-              description: Privado is a software company that builds tools for the simplification of data privacy compliance.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://www.privado.ai/
-              city: Dover
-              region: Delaware
-              country: United States
-              twitter: https://twitter.com/ai_privado
-              linkedin: https://www.linkedin.com/company/privado-ai/
-              acquisitions: []
-              parents: []
-              funding: 17500000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Privacy
-                - Software
-              kind: funding
-            image_data:
-              fileName: privado.svg
-              hash: z2CC3PQtSF10wZ7hLy2P2R7ilEiY/K44mRM+GuOW+VI=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-06T08:41:40.000Z
           - item:
             name: Prodigy Education
             homepage_url: https://prodigygame.com/
@@ -42924,6 +42844,41 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-03-20T19:01:53.000Z
           - item:
+            name: Raincoat
+            homepage_url: https://raincoat.com/
+            logo: raincoat.svg
+            crunchbase: https://www.crunchbase.com/organization/raincoat
+            joined: '2023-12-01'
+            crunchbase_data:
+              name: Raincoat
+              description: Democratizing access to financial resilience in the face of natural disasters.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.raincoat.com
+              city: San Juan
+              region: NA - Puerto Rico
+              country: Puerto Rico
+              twitter: null
+              linkedin: https://www.linkedin.com/company/teamraincoat
+              acquisitions: []
+              parents: []
+              funding: 11275000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - FinTech
+                - Financial Services
+                - InsurTech
+                - Insurance
+                - Software
+              kind: funding
+            image_data:
+              fileName: raincoat.svg
+              hash: uXbv6rbBMXhjEuM2jZf2Gh6ESUmL4lBTUDr1L9j9Bdw=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Raintank, Inc. – Grafana Labs
             homepage_url: https://grafana.com/
             logo: raintank_inc__grafana_labs.svg
@@ -43248,37 +43203,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T21:02:26.000Z
-          - item:
-            name: Red Date (Hong Kong) Technology Limited
-            homepage_url: https://bsnbase.io/
-            logo: red_date_hong_kong_technology_limited.svg
-            crunchbase: https://www.crunchbase.com/organization/red-date-technology
-            crunchbase_data:
-              name: Red Date Technology
-              description: Red Date Technology one of the four founding members of the Blockchain-based Service Network (BSN).
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: https://www.reddatetech.com/
-              city: Hong Kong
-              region: Hong Kong Island
-              country: Hong Kong
-              twitter: https://twitter.com/bsnbase
-              linkedin: https://www.linkedin.com/company/reddatetech/mycompany/
-              acquisitions: []
-              parents: []
-              funding: 30000000
-              stockExchange: null
-              company_type: For Profit
-              industries: []
-              kind: funding
-            image_data:
-              fileName: red-date-hong-kong-technology-limited.svg
-              hash: +tuvN4TBS66i+ci70ATdKvc0QWVgrB7BMg8mTYtzwLU=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-14T08:33:54.000Z
           - item:
             name: Red Kubes BV
             homepage_url: https://redkubes.com/
@@ -44871,6 +44795,40 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T17:39:00.000Z
+          - item:
+            name: Sath Inc
+            homepage_url: https://sath.com/
+            logo: sath_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/sath-inc
+            joined: '2023-12-01'
+            crunchbase_data:
+              name: Sath
+              description: Focused on cybersecurity, Sath built IDHub, a low-code IAM platform. Instantly on/off-board user accounts/permissions, to apps & platforms.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://sath.com
+              city: Schaumburg
+              region: Illinois
+              country: United States
+              twitter: https://www.twitter.com/sathinc
+              linkedin: https://www.linkedin.com/company/sath-technologies-inc
+              acquisitions: []
+              parents: []
+              funding: 400000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Compliance
+                - Cyber Security
+                - Identity Management
+                - Information Technology
+              kind: funding
+            image_data:
+              fileName: sath-inc.svg
+              hash: AVNspDx+i/wlp8xdz/H7eyTDjwUFJ8ztaCY27UOqMhc=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Sauce Labs Inc
             homepage_url: https://saucelabs.com/
@@ -47870,6 +47828,40 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-01-18T17:16:41.000Z
           - item:
+            name: Southworks
+            homepage_url: https://southworks.com/
+            logo: southworks.svg
+            crunchbase: https://www.crunchbase.com/organization/southworks
+            joined: '2023-12-01'
+            crunchbase_data:
+              name: SOUTHWORKS
+              description: SOUTHWORKS is the pioneer of Development on Demand, the new model for nearshore software development.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: http://southworks.com
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: https://www.twitter.com/southworks
+              linkedin: https://www.linkedin.com/company/southworks
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence (AI)
+                - Cloud Computing
+                - Cloud Data Services
+                - Information Technology
+                - Software
+                - Software Engineering
+            image_data:
+              fileName: southworks.svg
+              hash: apTE7NaeQfkUgMjRIa3pkCw1tvgTru5Dl6AsVGxB4nA=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Spacelift, Inc.
             homepage_url: https://spacelift.io/
             logo: spacelift_inc.svg
@@ -48849,50 +48841,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T11:13:43.000Z
-          - item:
-            name: Sterlite Technologies Limited
-            homepage_url: https://stl.tech/
-            stock_ticker: null
-            logo: sterlite_technologies_limited.svg
-            twitter: https://twitter.com/STL_Tech
-            crunchbase: https://www.crunchbase.com/organization/sterlite-technologies-ltd-
-            crunchbase_data:
-              name: STL
-              description: STL is an Indian manufacturer of optical fibers, telecommunication cables and power transmission conductors.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: https://www.stl.tech
-              city: Pune
-              region: Maharashtra
-              country: India
-              twitter: https://twitter.com/STL_tech
-              linkedin: https://www.linkedin.com/company/sterlite-technologies-ltd-
-              acquisitions:
-                - date: '2015-09-23'
-                  acquiree: Elitecore Technologies
-                - date: '2018-07-06'
-                  acquiree: Metallurgica Bresciana
-                - date: '2019-09-25'
-                  acquiree: Impact Data Solutions
-                - date: '2021-07-22'
-                  acquiree: Clearcomm Group
-              parents: []
-              ticker: STRTECH.NS
-              stockExchange: nse
-              company_type: For Profit
-              industries:
-                - Internet
-                - Manufacturing
-                - Optical Communication
-                - Telecommunications
-            image_data:
-              fileName: sterlite-technologies-limited.svg
-              hash: 9DC8Qmgru5fIgR/9Di7L9qKnVu7wgrpnGDQmzqi4Baw=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T14:53:53.000Z
           - item:
             name: Sternum
             homepage_url: https://sternumiot.com/
@@ -50705,10 +50653,10 @@ landscape:
                 - date: '2016-01-01'
                   acquiree: Olivetti
                 - date: '2016-10-28'
-                  acquiree: Noverca
-                - date: '2019-10-31'
-                  acquiree: Noverca
-                - date: '2020-05-27'
+                  acquiree: Nòverca
+                - date: '2020-05-25'
+                  acquiree: Noovle
+                - date: '2020-05-25'
                   acquiree: Noovle
                 - date: '2023-04-21'
                   acquiree: TS-WAY
@@ -50875,80 +50823,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T21:18:45.000Z
-          - item:
-            name: Temenos
-            homepage_url: https://temenos.com/
-            logo: temenos.svg
-            crunchbase: https://www.crunchbase.com/organization/temenos
-            joined: '2022-12-01'
-            crunchbase_data:
-              name: Temenos
-              description: Temenos Group is a market leading provider of banking software systems.
-              num_employees_min: 5001
-              num_employees_max: 10000
-              homepage: http://www.temenos.com
-              city: Geneva
-              region: Geneve
-              country: Switzerland
-              twitter: http://twitter.com/Temenos
-              linkedin: https://www.linkedin.com/company/temenos
-              acquisitions:
-                - date: '2001-09-18'
-                  acquiree: Integrated Core Technologies Participations S.A.
-                - date: '2006-01-30'
-                  acquiree: TLC Risk Solutions
-                - date: '2007-03-12'
-                  acquiree: ACTIS.BSP Germany GmbH
-                - date: '2008-07-03'
-                  acquiree: Financial Objects
-                - date: '2008-11-03'
-                  acquiree: Lydian Associates Ltd.
-                - date: '2010-01-05'
-                  acquiree: Viveo Group SAS
-                - date: '2010-05-14'
-                  acquiree: FE-Mobile Ltd.
-                - date: '2010-10-18'
-                  acquiree: Odyssey Financial Technologies
-                - date: '2011-07-27'
-                  acquiree: Primisyn
-                - date: '2012-09-20'
-                  acquiree: edge IPK
-                - date: '2013-03-22'
-                  acquiree: TriNovus
-                - date: '2015-02-10'
-                  acquiree: Akcelerant
-                - date: '2015-03-04'
-                  acquiree: Multifonds
-                - date: '2017-02-14'
-                  acquiree: Rubik
-                - date: '2018-12-12'
-                  acquiree: Avoka
-                - date: '2019-02-20'
-                  acquiree: Htrunk Software Solutions
-                - date: '2019-07-17'
-                  acquiree: Logical Glue
-                - date: '2019-08-28'
-                  acquiree: Kony
-              parents: []
-              ticker: TEMN.SW
-              funding: 217188281
-              stockExchange: swx
-              company_type: For Profit
-              industries:
-                - Apps
-                - Banking
-                - Finance
-                - Software
-            yahoo_finance_data:
-              effective_ticker: TEMN.SW
-            image_data:
-              fileName: temenos.svg
-              hash: 2NpVsY83mE3PqM8u/+2i4ANQXXS9RWVvo1UJo2zMHas=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-21T10:58:08.000Z
           - item:
             name: Temporal Technologies Inc
             homepage_url: https://temporal.io/
@@ -54198,6 +54072,60 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-13T01:00:02.000Z
+          - item:
+            name: veritone
+            homepage_url: https://veritone.com/
+            logo: veritone.svg
+            crunchbase: https://www.crunchbase.com/organization/veritone
+            crunchbase_data:
+              name: Veritone
+              description: Veritone has created a future-proof AI platform that comprehends and transforms multiple forms of data to create actionable intelligence.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: https://www.veritone.com
+              city: Denver
+              region: Colorado
+              country: United States
+              twitter: https://twitter.com/veritoneinc
+              linkedin: https://www.linkedin.com/company/veritone-inc-
+              acquisitions:
+                - date: '2018-08-13'
+                  acquiree: Performance Bridge
+                - date: '2018-08-13'
+                  acquiree: Wazee Digital
+                - date: '2018-09-10'
+                  acquiree: Machine Box
+                - date: '2021-07-22'
+                  acquiree: PandoLogic (formerly RealMatch)
+                - date: '2022-06-16'
+                  acquiree: VocaliD
+                - date: '2022-10-13'
+                  acquiree: Vision Semantics
+                - date: '2023-05-31'
+                  acquiree: Broadbean
+              parents: []
+              ticker: VERI
+              funding: 392775000
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence (AI)
+                - Asset Management
+                - CivicTech
+                - GovTech
+                - Information Technology
+                - Machine Learning
+                - Search Engine
+                - Speech Recognition
+                - Visual Search
+            yahoo_finance_data:
+              effective_ticker: VERI
+            image_data:
+              fileName: veritone.svg
+              hash: M6UBNPhAvnSUFtRqKXDlYpx+D4BxF7ggKSwvC1WVyTc=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Verizon Corporate Services
             homepage_url: https://verizon.com/
@@ -58283,8 +58211,8 @@ landscape:
             crunchbase_data:
               name: Colorado Department of Public Health & Environment
               description: CDPHE's mission is to protect and improve the health of Colorado's people and the quality of its environment.
-              num_employees_min: null
-              num_employees_max: null
+              num_employees_min: 1001
+              num_employees_max: 5000
               homepage: https://www.colorado.gov/cdphe
               city: Denver
               region: Colorado
@@ -64399,6 +64327,34 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T06:06:18.000Z
           - item:
+            name: RIKEN Center for Computational Science
+            homepage_url: https://r-ccs.riken.jp/
+            logo: riken_center_for_computational_science.svg
+            crunchbase: https://www.crunchbase.com/organization/riken
+            crunchbase_data:
+              name: Riken
+              description: Riken is a Japanese research institution that provides high-quality research in a diverse range of scientific disciplines.
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: http://www.riken.jp/en/
+              city: Saitama
+              region: Saitama
+              country: Japan
+              twitter: http://twitter.com/riken_en
+              linkedin: https://www.linkedin.com/company/riken
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Communities
+            image_data:
+              fileName: riken-center-for-computational-science.svg
+              hash: 5pXDLANPkG6bSZMPKlc/burWXxExc0FKgPMpvZ2ID2c=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: RIOS
             homepage_url: https://rioslab.org/
             logo: rios.svg
@@ -67791,4 +67747,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-12-01T02:02:14.443Z
+updated_at: 2023-12-02T00:32:51.171Z
