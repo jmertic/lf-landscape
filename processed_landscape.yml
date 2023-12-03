@@ -4174,9 +4174,9 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-18T19:18:16.000Z
           - item:
-            name: VMware LLC
+            name: VMware by Broadcom
             homepage_url: https://vmware.com/
-            logo: vmware_llc.svg
+            logo: vmware_by_broadcom.svg
             crunchbase: https://www.crunchbase.com/organization/vmware
             joined: '2016-01-01'
             crunchbase_data:
@@ -4309,7 +4309,7 @@ landscape:
             yahoo_finance_data:
               effective_ticker: VMW
             image_data:
-              fileName: v-mware-llc.svg
+              fileName: v-mware-by-broadcom.svg
               hash: ifx1u+sPs/VHqYgRJStdCPMD/zPTbeYPF0Su4jO56Fw=
             best_practice_data:
               badge: false
@@ -10429,45 +10429,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T17:09:12.000Z
           - item:
-            name: Argonaut
-            homepage_url: https://argonaut.dev/
-            logo: argonaut.svg
-            twitter: https://twitter.com/Argonaut_Dev
-            crunchbase: https://www.crunchbase.com/organization/argonaut-862d
-            joined: '2022-02-01'
-            crunchbase_data:
-              name: WarpBuild
-              description: Faster, cheaper Github runners and AI powered software delivery insights
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://www.warpbuild.com/
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: https://twitter.com/warpbuilds
-              linkedin: https://www.linkedin.com/company/warpbuild/
-              acquisitions: []
-              parents: []
-              funding: 1500000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Infrastructure
-                - Developer Platform
-                - Generative AI
-                - Productivity Tools
-                - SaaS
-                - Software
-              kind: funding
-            image_data:
-              fileName: argonaut.svg
-              hash: miV0aRV4VHiEO+hAgFWLuudlwBY2sb7MoxvsYIAavN0=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-21T07:01:21.000Z
-          - item:
             name: ARIMA
             homepage_url: https://arima.eu/
             logo: arima.svg
@@ -10741,6 +10702,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-19T16:05:45.000Z
           - item:
+            name: Arrcus
+            homepage_url: https://arrcus.com/
+            logo: arrcus.svg
+            organization:
+              name: Arrcus
+            crunchbase_data:
+              name: Arrcus
+              parents: []
+            image_data:
+              fileName: arrcus.svg
+              hash: 3CXoDCNcEq5kAtgEVk/Fhxq+UlSiFKv0cbK/YEVWcnE=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Arrikto, Inc.
             homepage_url: https://arrikto.com/
             logo: arrikto_inc.svg
@@ -10778,6 +10754,40 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-03-20T03:59:59.000Z
+          - item:
+            name: Aruba SpA
+            homepage_url: https://aruba.it/
+            logo: aruba_spa.svg
+            crunchbase: https://www.crunchbase.com/organization/aruba-3823
+            joined: '2023-12-01'
+            crunchbase_data:
+              name: Aruba S.p.A.
+              description: Aruba S.p.A., is the leading company in Italy for data center, web hosting, email, certified email (PEC) and domain registration services.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: https://www.aruba.it/
+              city: Ponte San Pietro
+              region: Lombardia
+              country: Italy
+              twitter: https://www.twitter.com/arubait
+              linkedin: https://www.linkedin.com/company/aruba-s-p-a-/
+              acquisitions:
+                - date: '2016-11-14'
+                  acquiree: Swite
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Email
+                - Information Technology
+                - Telecommunications
+                - Web Hosting
+            image_data:
+              fileName: aruba-sp-a.svg
+              hash: 79DTj7OSiQCwDG4NO9gcQQjldNo7i3QeEmNxK4eaZRc=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Ascensio System SIA
             homepage_url: https://onlyoffice.com/
@@ -33705,6 +33715,21 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Leminnov
+            homepage_url: https://leminnov.com/
+            logo: leminnov.svg
+            organization:
+              name: Leminnov
+            crunchbase_data:
+              name: Leminnov
+              parents: []
+            image_data:
+              fileName: leminnov.svg
+              hash: xOmtqTSFke98vr2dG9kbqXFpyhakMFF1+/T2Z4Lv0vI=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Lenovo (Beijing) Co., Ltd
             homepage_url: https://lenovo.com.cn/
             logo: lenovo_beijing_co_ltd.svg
@@ -51062,6 +51087,7 @@ landscape:
             name: TestifySec
             homepage_url: https://testifysec.com/
             logo: testifysec.svg
+            twitter: https://twitter.com/testifysec
             crunchbase: https://www.crunchbase.com/organization/testifysec
             joined: '2023-08-01'
             crunchbase_data:
@@ -54546,6 +54572,8 @@ landscape:
                   acquiree: BelCompany BV
                 - date: '2011-12-01'
                   acquiree: Bluefish Communications
+                - date: '2012-01-01'
+                  acquiree: Fonomat
                 - date: '2012-04-23'
                   acquiree: Cable & Wireless Worldwide
                 - date: '2012-10-01'
@@ -67747,4 +67775,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2023-12-02T01:58:32.229Z
+updated_at: 2023-12-03T00:34:46.909Z
