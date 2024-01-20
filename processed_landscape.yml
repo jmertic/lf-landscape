@@ -9562,7 +9562,7 @@ landscape:
             logo: apollo_graphql.svg
             crunchbase: https://www.crunchbase.com/organization/apollo-3
             crunchbase_data:
-              name: Apollo
+              name: Apollo GraphQL
               description: Apollo helps engineering teams build unified graphs to accelerate application development and deliver better, more cohesive experiences.
               num_employees_min: 101
               num_employees_max: 250
@@ -17218,6 +17218,8 @@ landscape:
                   acquiree: Malema
                 - date: '2023-10-04'
                   acquiree: FW Murphy
+                - date: '2024-01-17'
+                  acquiree: Transchem
               parents: []
               ticker: DOV
               stockExchange: nyse
@@ -26535,7 +26537,7 @@ landscape:
                 - date: '2015-02-09'
                   acquiree: Voltage Security
                 - date: '2015-03-02'
-                  acquiree: Aruba Networks
+                  acquiree: HPE Aruba Networking
                 - date: '2016-07-04'
                   acquiree: DAVID Vision Systems
                 - date: '2016-09-12'
@@ -44039,25 +44041,31 @@ landscape:
             twitter: https://twitter.com/SoftBank
             crunchbase: https://www.crunchbase.com/organization/softbank-corp
             crunchbase_data:
-              name: SoftBank Corp.
-              description: SoftBank is a provider of mobile and fixed-line communication and internet connection services.
+              name: SoftBank
+              description: SoftBank provides wireless communication services such as mobile phones.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: https://www.softbank.jp/
+              homepage: https://www.softbank.jp
               city: Minato
               region: Chiba
               country: Japan
-              twitter: https://twitter.com/softbank
-              linkedin: https://www.linkedin.com/company/softbank-mobile/
+              twitter: https://twitter.com/SoftBank
+              linkedin: https://www.linkedin.com/company/softbank-mobile
               acquisitions:
                 - date: '2023-12-05'
                   acquiree: Cubic Telecom
               parents: []
-              stockExchange: null
+              ticker: 9434.T
+              stockExchange: tyo
               company_type: For Profit
               industries:
                 - Information and Communications Technology (ICT)
                 - Internet
+                - Mobile Devices
+                - Telecommunications
+                - Wireless
+            yahoo_finance_data:
+              effective_ticker: 9434.T
             image_data:
               fileName: soft-bank-corp.svg
               hash: Io+gbcT2JCl134Tw+rb1/oiYsITKXH8FrT9GzDWjt9c=
@@ -45408,7 +45416,7 @@ landscape:
             joined: '2023-11-01'
             crunchbase_data:
               name: Stateful
-              description: Stateful makes a SaaS for eng teams to collaborate around code/infra built on their markdown powered runbook toolchain - Runme (runme.dev)
+              description: Stateful makes operational markdown docs efficient to search, reliable to run (runme.dev) and seamless to collaboratively troubleshoot.
               num_employees_min: 1
               num_employees_max: 10
               homepage: https://stateful.com
@@ -64484,4 +64492,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-01-19T02:00:55.751Z
+updated_at: 2024-01-20T00:38:18.375Z
