@@ -7900,11 +7900,17 @@ landscape:
               linkedin: https://www.linkedin.com/company/aisin_2
               acquisitions: []
               parents: []
-              stockExchange: null
+              ticker: 7259.T
+              stockExchange: tyo
               company_type: For Profit
               industries:
+                - Automotive
                 - Energy
                 - Manufacturing
+                - Navigation
+                - Service Industry
+            yahoo_finance_data:
+              effective_ticker: 7259.T
             image_data:
               fileName: aisin-corporation.svg
               hash: saseKV79A4bhisHyZuqtbYghUvLr3wwTAlB+dTQ5B0s=
@@ -9825,34 +9831,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-03-09T18:47:18.000Z
-          - item:
-            name: ArcherOS Cloud Software Co., Ltd.
-            homepage_url: https://archeros.com/
-            logo: archeros_cloud_software_co_ltd.svg
-            crunchbase: https://www.crunchbase.com/organization/archeros-software
-            joined: '2021-02-01'
-            crunchbase_data:
-              name: ArcherOS Software
-              description: IT infrastructure platform of high performance, availability and efficiency. Easy to install and maintain with full range of cloud services.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: https://www.archeros.com/
-              city: Xiamen
-              region: Fujian
-              country: China
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries: []
-            image_data:
-              fileName: archer-os-cloud-software-co-ltd.svg
-              hash: D69+W3Fx7RQE57d7m+s0a+kk5OX8RYK8nOMQe9VpjBk=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: Arcontech Group PLC
             homepage_url: https://arcontech.com/
@@ -14995,38 +14973,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T06:07:01.000Z
           - item:
-            name: Chengdu Yuan Lai Yun Zhi Technologies Inc.
-            homepage_url: https://miaoyun.net.cn/
-            logo: chengdu_yuan_lai_yun_zhi_technologies_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/miaoyun
-            joined: '2018-08-01'
-            crunchbase_data:
-              name: MiaoYun
-              description: MiaoYun provides enterprise-ready container management and AIOps platform
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: http://miaoyun.io
-              city: Chengdu
-              region: Sichuan
-              country: China
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-                - Information Services
-                - Information Technology
-                - Software
-            image_data:
-              fileName: chengdu-yuan-lai-yun-zhi-technologies-inc.svg
-              hash: y6oUMYzym2qaZC7laZSip3NYDiGp7mKq3cGbox+EpFA=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: China Mobile Communication Company Ltd
             homepage_url: https://chinamobileltd.com/
             logo: china_mobile_communication_company_ltd.svg
@@ -17638,38 +17584,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: Container Solutions BV
-            homepage_url: https://container-solutions.com/
-            logo: container_solutions_bv.svg
-            crunchbase: https://www.crunchbase.com/organization/container-solutions
-            joined: '2016-01-01'
-            crunchbase_data:
-              name: Container Solutions
-              description: Container Solutions specialises in helping customers to shorten the time it takes to deploy, rollback.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: http://container-solutions.com
-              city: Amsterdam
-              region: Noord-Holland
-              country: The Netherlands
-              twitter: https://twitter.com/containersoluti
-              linkedin: https://www.linkedin.com/company/container-solutions
-              acquisitions: []
-              parents: []
-              funding: 0
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Information Technology
-            image_data:
-              fileName: container-solutions-bv.svg
-              hash: UhkZRKBxEQQnkDm/TGRCokpzBHuXZssAVmQdwrNJVhE=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-21T11:30:00.000Z
           - item:
             name: Contrast Security
             homepage_url: https://contrastsecurity.com/
@@ -37637,6 +37551,33 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-03-28T16:01:34.000Z
           - item:
+            name: Pelanor
+            homepage_url: https://pelanor.io/
+            logo: pelanor.svg
+            crunchbase: https://www.crunchbase.com/organization/pelanor
+            crunchbase_data:
+              name: Pelanor
+              description: Pelanor revolutionizes cost management in cloud computing.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.pelanor.io/
+              city: Tel Aviv
+              region: Tel Aviv
+              country: Israel
+              twitter: null
+              linkedin: https://www.linkedin.com/company/pelanor/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
+            image_data:
+              fileName: pelanor.svg
+              hash: 66kv9Fd0NeT5qSToeAhmfysAMld4S2MBNkG3J4QLcuY=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Peloton Interactive
             homepage_url: https://onepeloton.com/
             logo: peloton_interactive.svg
@@ -41047,6 +40988,8 @@ landscape:
               company_type: For Profit
               industries:
                 - Analytics
+                - Business Intelligence
+                - Credit
                 - Enterprise Software
                 - Finance
                 - Financial Services
@@ -42897,45 +42840,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: ShiftLeft
-            homepage_url: https://shiftleft.io/
-            logo: shiftleft.svg
-            twitter: https://twitter.com/QwietAI
-            crunchbase: https://www.crunchbase.com/organization/shiftleft
-            crunchbase_data:
-              name: ShiftLeft
-              description: ShiftLeft delivers a new model for protecting cloud or data center hosted software.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: https://www.shiftleft.io/
-              city: Santa Clara
-              region: California
-              country: United States
-              twitter: https://twitter.com/shiftleftinc
-              linkedin: https://www.linkedin.com/company/shiftleft
-              acquisitions: []
-              parents: []
-              funding: 58300000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Security
-                - Cyber Security
-                - Developer Tools
-                - Information Services
-                - Information Technology
-                - Security
-                - Software
-              kind: funding
-            image_data:
-              fileName: shift-left.svg
-              hash: +a2cgaXkvS6YfqIaOnSumu623vn1X6CNEJqa8lIs/a4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T23:57:15.000Z
           - item:
             name: ShineSoft Co. Ltd.
             homepage_url: https://shinesoft.co.jp/
@@ -64491,4 +64395,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-01-20T01:58:32.544Z
+updated_at: 2024-01-21T00:43:25.231Z
