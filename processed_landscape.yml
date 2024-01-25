@@ -847,22 +847,24 @@ landscape:
             logo: lf-edge.svg
             crunchbase: https://www.crunchbase.com/organization/lf-edge
             crunchbase_data:
-              name: LF Edge
-              description: LF Edge is builds an open source framework for the edge.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: https://www.lfedge.org
+              name: Linux Foundation Edge
+              description: Linux Foundation Edge is an umbrella organization that aims to establish an open, interoperable framework.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.lfedge.org/
               city: San Francisco
               region: California
               country: United States
               twitter: https://twitter.com/lf_edge
-              linkedin: null
+              linkedin: https://www.linkedin.com/company/lf-edge/
               acquisitions: []
               parents:
                 - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
               company_type: For Profit
               industries:
+                - Cloud Computing
+                - Information Technology
                 - Open Source
                 - Software
             image_data:
@@ -7549,7 +7551,6 @@ landscape:
             homepage_url: https://aerospike.com/
             logo: aerospike.svg
             crunchbase: https://www.crunchbase.com/organization/aerospike
-            joined: '2020-03-01'
             crunchbase_data:
               name: Aerospike
               description: Aerospike is an information technology company that specializes in real-time NoSQL data solutions for any scale.
@@ -8554,7 +8555,8 @@ landscape:
                   acquiree: ICM Airport Technics
                 - date: '2022-03-31'
                   acquiree: Kambr
-              parents: []
+              parents:
+                - https://www.crunchbase.com/organization/amadeus
               ticker: AMS.MC
               stockExchange: bme
               company_type: For Profit
@@ -11093,6 +11095,8 @@ landscape:
                   acquiree: Moxion
                 - date: '2022-02-04'
                   acquiree: Prodsmart
+                - date: '2022-03-24'
+                  acquiree: The Wild
                 - date: '2023-03-21'
                   acquiree: UNIFI Labs
                 - date: '2023-10-22'
@@ -11106,7 +11110,9 @@ landscape:
                 - 3D Technology
                 - Architecture
                 - Construction
+                - Manufacturing
                 - Software
+                - Software Engineering
             yahoo_finance_data:
               effective_ticker: ADSK
             image_data:
@@ -14101,7 +14107,7 @@ landscape:
             joined: '2021-08-01'
             crunchbase_data:
               name: Calyptia
-              description: Collect, process and route all of your data, with security & performance in mind.
+              description: Calyptia collects process and route all of your data, with security & performance in mind.
               num_employees_min: 1
               num_employees_max: 10
               homepage: https://www.calyptia.com/
@@ -15202,9 +15208,11 @@ landscape:
               country: United States
               twitter: https://twitter.com/chronosphereio
               linkedin: https://www.linkedin.com/company/chronosphereio
-              acquisitions: []
+              acquisitions:
+                - date: '2024-01-22'
+                  acquiree: Calyptia
               parents: []
-              funding: 342474000
+              funding: 347474000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -18735,10 +18743,11 @@ landscape:
               city: Frankfurt
               region: Hessen
               country: Germany
-              twitter: null
+              twitter: https://twitter.com/dfine_next
               linkedin: https://www.linkedin.com/company/d-fine/
               acquisitions: []
-              parents: []
+              parents:
+                - https://www.crunchbase.com/organization/d-fine
               stockExchange: null
               company_type: For Profit
               industries:
@@ -19223,24 +19232,27 @@ landscape:
             joined: '2023-11-01'
             crunchbase_data:
               name: De Novo
-              description: De Novo is a technology company providing a wide array of IT services.
-              num_employees_min: 51
-              num_employees_max: 100
+              description: De Novo is a Ukrainian provider of IaaS and data center services
+              num_employees_min: 101
+              num_employees_max: 250
               homepage: https://denovo.ua
               city: Kyiv
               region: Kyyiv
               country: Ukraine
               twitter: null
-              linkedin: https://www.linkedin.com/company/407560
+              linkedin: https://www.linkedin.com/company/de-novo
               acquisitions: []
               parents: []
               funding: 3500000
               stockExchange: null
               company_type: For Profit
               industries:
+                - Cloud Computing
+                - Cloud Data Services
+                - Cloud Infrastructure
+                - Cloud Storage
                 - Enterprise Software
-                - Information Services
-                - Information Technology
+                - Private Cloud
               kind: funding
             image_data:
               fileName: de-novo-llc.svg
@@ -19527,6 +19539,8 @@ landscape:
                   acquiree: Skale-5
                 - date: '2023-08-03'
                   acquiree: ParaFlare
+                - date: '2024-01-22'
+                  acquiree: Giant Machines
               parents: []
               stockExchange: null
               company_type: For Profit
@@ -35661,7 +35675,7 @@ landscape:
                 - date: '2007-12-04'
                   acquiree: Avvenu
                 - date: '2008-01-28'
-                  acquiree: Qt Software
+                  acquiree: The Qt Company
                 - date: '2008-06-05'
                   acquiree: Trolltech
                 - date: '2008-06-23'
@@ -35683,7 +35697,7 @@ landscape:
                 - date: '2010-04-09'
                   acquiree: MetaCarta
                 - date: '2010-07-19'
-                  acquiree: Motorola Wireless
+                  acquiree: Motorola
                 - date: '2010-08-20'
                   acquiree: Motally
                 - date: '2011-01-05'
@@ -37952,7 +37966,8 @@ landscape:
               twitter: https://www.twitter.com/pingcap
               linkedin: https://www.linkedin.com/company/pingcap/
               acquisitions: []
-              parents: []
+              parents:
+                - https://www.crunchbase.com/organization/pingcap
               funding: 341600000
               stockExchange: null
               company_type: For Profit
@@ -38380,7 +38395,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/polar-signals
               acquisitions: []
               parents: []
-              funding: 3994963
+              funding: 10774936
               stockExchange: null
               company_type: For Profit
               industries:
@@ -38804,7 +38819,7 @@ landscape:
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.progressive.com
-              city: Bay Village
+              city: Cuyahoga Falls
               region: Ohio
               country: United States
               twitter: http://twitter.com/progressive
@@ -42947,7 +42962,7 @@ landscape:
             joined: '2021-07-01'
             crunchbase_data:
               name: Shoreline.io
-              description: Shoreline's AI engine identifies incident patterns and generates runbooks that debug and repair your software.
+              description: Shoreline.io is a cloud reliability company focused on real-time automation and control for cloud operations teams.
               num_employees_min: 51
               num_employees_max: 100
               homepage: https://shoreline.io/
@@ -51304,6 +51319,10 @@ landscape:
               latest_tweet_date: 2023-04-21T09:00:01.000Z
           - item:
             name: Web3 Labs
+            description: >-
+              Web3 Labs is a leading blockchain technology firm specialising in decentralised infrastructure solutions. We offer a suite of products and
+              services that provide customers with core infrastructure for their network. This encompasses Chainlens, the blockchain, development and analytics
+              platform, as well as Hyperledger Besu Support and integrations with existing systems.
             homepage_url: https://web3labs.com/
             logo: web3_labs.svg
             crunchbase: https://www.crunchbase.com/organization/web3-labs
@@ -52431,42 +52450,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T08:58:20.000Z
           - item:
-            name: Zelarsoft LLC
-            homepage_url: https://zelarsoft.com/
-            logo: zelarsoft_llc.svg
-            twitter: https://twitter.com/zelarsoft
-            crunchbase: https://www.crunchbase.com/organization/zelarsoft
-            joined: '2022-04-01'
-            crunchbase_data:
-              name: Zelarsoft
-              description: Zelarsoft is an IT company that specializes in DevOps, cloud-native consulting, product engineering, data integration, and analytics.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: https://www.zelarsoft.com
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: null
-              linkedin: https://www.linkedin.com/company/zelarsoft
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Analytics
-                - Data Integration
-                - DevOps
-                - Information Technology
-                - Software
-            image_data:
-              fileName: zelarsoft-llc.svg
-              hash: gG6K//DVrYEsFgcn8PEu677BvBfCmN77stZp8btrB2s=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T05:41:14.000Z
-          - item:
             name: Zenduty
             homepage_url: https://zenduty.com/
             logo: zenduty.svg
@@ -52631,8 +52614,14 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
+                - Advertising
+                - Business Development
+                - Business Information Systems
+                - Consulting
+                - IT Management
                 - Information Technology
                 - Internet
+                - Professional Services
                 - Software
             image_data:
               fileName: zoi.svg
@@ -56333,7 +56322,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/fraunhofer-gesellschaft
               acquisitions: []
               parents: []
-              funding: 1318968
+              funding: 2418108
               stockExchange: null
               company_type: For Profit
               industries:
@@ -60387,11 +60376,12 @@ landscape:
               linkedin: https://www.linkedin.com/edu/penn-state-university-19318
               acquisitions: []
               parents: []
-              funding: 13400000
+              funding: 14593927
               stockExchange: null
               company_type: For Profit
               industries:
                 - Education
+                - Higher Education
                 - Training
                 - Universities
               kind: funding
@@ -60421,11 +60411,12 @@ landscape:
               linkedin: https://www.linkedin.com/edu/penn-state-university-19318
               acquisitions: []
               parents: []
-              funding: 13400000
+              funding: 14593927
               stockExchange: null
               company_type: For Profit
               industries:
                 - Education
+                - Higher Education
                 - Training
                 - Universities
               kind: funding
@@ -64397,4 +64388,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-01-23T02:00:25.937Z
+updated_at: 2024-01-25T00:45:13.793Z
