@@ -14013,7 +14013,7 @@ landscape:
               kind: funding
             image_data:
               fileName: bytedance-inc.svg
-              hash: Qz76EzoGrK/11hdVDSZeO8mcr+rkwoUNopSI7a3hFxI=
+              hash: oJ7ldNFe1DCl6iEUDGE8bQ6gWq78L9RkV9aUBHjUcG4=
             best_practice_data:
               badge: false
               percentage: null
@@ -45980,6 +45980,7 @@ landscape:
               acquisitions: []
               parents: []
               ticker: SMCI
+              funding: 0
               stockExchange: nasdaq
               company_type: For Profit
               industries:
@@ -63770,12 +63771,14 @@ landscape:
                   acquiree: Susquehanna Health
                 - date: '2023-01-16'
                   acquiree: Sports Surgery Clinic
-              parents: []
+              parents:
+                - https://www.crunchbase.com/organization/upmc
               stockExchange: null
               company_type: For Profit
               industries:
                 - Biotechnology
                 - Health Care
+                - Hospital
                 - Medical
             image_data:
               fileName: upmc-enterprises.svg
@@ -64400,4 +64403,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-01-27T01:58:03.961Z
+updated_at: 2024-01-28T00:41:39.245Z
