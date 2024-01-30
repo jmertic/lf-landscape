@@ -5598,7 +5598,7 @@ landscape:
                 - date: '2005-12-27'
                   acquiree: Phatbits
                 - date: '2005-12-31'
-                  acquiree: allPAY
+                  acquiree: Allpay
                 - date: '2005-12-31'
                   acquiree: bruNET
                 - date: '2006-01-01'
@@ -25369,6 +25369,8 @@ landscape:
               acquisitions:
                 - date: '2020-08-05'
                   acquiree: Drone.io
+                - date: '2021-11-01'
+                  acquiree: ZeroNorth
                 - date: '2022-03-22'
                   acquiree: ChaosNative
                 - date: '2023-01-23'
@@ -28845,7 +28847,7 @@ landscape:
                   acquiree: Avionyx
               parents: []
               ticker: JOBY
-              funding: 2005770000
+              funding: 1980770000
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -33257,9 +33259,11 @@ landscape:
               linkedin: https://www.linkedin.com/company/merly-ai/
               acquisitions: []
               parents: []
+              funding: 6825998
               stockExchange: null
               company_type: For Profit
               industries: []
+              kind: funding
             image_data:
               fileName: merly-inc.svg
               hash: qKPcZ4IARUiSB4xmYaEdBpc896f4uQjFJ0KYIAcY1yo=
@@ -39621,7 +39625,8 @@ landscape:
                   acquiree: Bright Skies GmbH
                 - date: '2022-01-18'
                   acquiree: Just Analytics
-              parents: []
+              parents:
+                - https://www.crunchbase.com/organization/rackspace
               ticker: RXT
               funding: 17800000
               stockExchange: nasdaq
@@ -39631,6 +39636,7 @@ landscape:
                 - Cloud Computing
                 - Cloud Infrastructure
                 - IaaS
+                - Information Technology
             yahoo_finance_data:
               effective_ticker: RXT
             image_data:
@@ -45980,7 +45986,6 @@ landscape:
               acquisitions: []
               parents: []
               ticker: SMCI
-              funding: 0
               stockExchange: nasdaq
               company_type: For Profit
               industries:
@@ -64403,4 +64408,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-01-29T01:59:37.793Z
+updated_at: 2024-01-30T00:42:20.182Z
