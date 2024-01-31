@@ -14090,6 +14090,9 @@ landscape:
               stockExchange: null
               company_type: Non Profit
               industries:
+                - SaaS
+                - Telecommunications
+                - Virtual Reality
                 - Web Hosting
             image_data:
               fileName: cable-television-laboratories-inc.svg
@@ -16590,45 +16593,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T11:49:21.000Z
-          - item:
-            name: Cloudthread
-            homepage_url: https://cloudthread.io/
-            logo: cloudthread.svg
-            twitter: https://twitter.com/_Cloudthread_
-            crunchbase: https://www.crunchbase.com/organization/cloudthread
-            crunchbase_data:
-              name: Cloudthread
-              description: Cloudthread is a cloud cost observability platform to eliminate cloud waste, track savings, engage engineers, and activate Cloud FinOps
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://cloudthread.io
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: https://twitter.com/_cloudthread_
-              linkedin: https://www.linkedin.com/company/cloudthread
-              acquisitions: []
-              parents: []
-              funding: 3125000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Analytics
-                - Cloud Computing
-                - Cloud Infrastructure
-                - Cloud Management
-                - Data Visualization
-                - SaaS
-                - Software
-              kind: funding
-            image_data:
-              fileName: cloudthread.svg
-              hash: /I+Ud7o/8LeoxzQ4ruPTtBfqgFZXdnwusp9qJFOZLPM=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-03-09T16:00:00.000Z
           - item:
             name: CloudZero
             homepage_url: https://cloudzero.com/
@@ -19541,6 +19505,8 @@ landscape:
                   acquiree: ParaFlare
                 - date: '2024-01-22'
                   acquiree: Giant Machines
+                - date: '2024-01-29'
+                  acquiree: Flow
               parents: []
               stockExchange: null
               company_type: For Profit
@@ -20795,6 +20761,8 @@ landscape:
                   acquiree: SpectX
                 - date: '2023-07-31'
                   acquiree: Rookout
+                - date: '2024-01-29'
+                  acquiree: Runecast Solutions
               parents: []
               ticker: DT
               funding: 21900000
@@ -31921,7 +31889,8 @@ landscape:
                   acquiree: Sikorsky Aircraft
                 - date: '2020-10-09'
                   acquiree: i3
-              parents: []
+              parents:
+                - https://www.crunchbase.com/organization/lockheed-martin
               ticker: LMT
               funding: 62016440
               stockExchange: nyse
@@ -45463,6 +45432,40 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T11:13:43.000Z
           - item:
+            name: Sternum
+            homepage_url: https://sternumiot.com/
+            logo: sternum.svg
+            twitter: https://twitter.com/SternumIoT
+            crunchbase: https://www.crunchbase.com/organization/sternum
+            crunchbase_data:
+              name: Sternum
+              description: Sternum's patented technology shifts the paradigm on how organizations develop, protect and manage IoT, IoMT and IIoT devices.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.sternumiot.com/
+              city: Tel Aviv
+              region: Tel Aviv
+              country: Israel
+              twitter: null
+              linkedin: https://www.linkedin.com/company/sternum
+              acquisitions: []
+              parents: []
+              funding: 36000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cyber Security
+                - Data Visualization
+                - Internet of Things
+                - Software
+              kind: funding
+            image_data:
+              fileName: sternum.svg
+              hash: ias+YAP8SDOP2ZJEtQlcXwixjiHlbfOeYtu9d9C575s=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: STMicroelectronics International N.V.
             homepage_url: https://st.com/
             logo: stmicroelectronics_international_nv.svg
@@ -45745,43 +45748,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: StreamNative
-            homepage_url: https://streamnative.io/
-            logo: streamnative.svg
-            crunchbase: https://www.crunchbase.com/organization/streamnative
-            joined: '2020-01-01'
-            crunchbase_data:
-              name: StreamNative
-              description: StreamNative offers an streaming platform based on Apache Pulsar that enables companies to access enterprise data as real-time streams.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: https://streamnative.io
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: https://twitter.com/streamnativeio
-              linkedin: https://www.linkedin.com/company/streamnative
-              acquisitions: []
-              parents: []
-              funding: 29700000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Big Data
-                - Cloud Data Services
-                - Enterprise Software
-                - Open Source
-                - Software
-              kind: funding
-            image_data:
-              fileName: stream-native.svg
-              hash: hiQ49y1L3ojMwwgDP+Kmc+iau/SRKOWbMWBekEaWAnM=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T16:22:01.000Z
           - item:
             name: Structsure, LLC
             homepage_url: https://structsure.com/
@@ -64408,4 +64374,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-01-30T02:01:56.806Z
+updated_at: 2024-01-31T00:40:26.833Z
