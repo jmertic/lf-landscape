@@ -7312,7 +7312,7 @@ landscape:
                 - date: '2019-01-23'
                   acquiree: Allegorithmic
                 - date: '2019-12-06'
-                  acquiree: Oculus Medium
+                  acquiree: Oculus
                 - date: '2020-11-09'
                   acquiree: Workfront
                 - date: '2021-08-19'
@@ -7342,64 +7342,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T22:45:31.000Z
-          - item:
-            name: Adtran Networks Se
-            homepage_url: https://advaoptical.com/
-            logo: adtran_networks_se.svg
-            crunchbase: https://www.crunchbase.com/organization/adva-optical-networking
-            crunchbase_data:
-              name: ADVA
-              description: ADVA offers telecommunications infrastructure solutions.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: https://www.adva.com
-              city: Martinsried
-              region: Bayern
-              country: Germany
-              twitter: http://twitter.com/ADVAOpticalNews
-              linkedin: https://www.linkedin.com/company/adva-optical-networking
-              acquisitions:
-                - date: '2004-09-17'
-                  acquiree: Metro Packet Systems
-                - date: '2005-10-17'
-                  acquiree: Covaro Networks
-                - date: '2006-06-05'
-                  acquiree: Movaz Networks
-                - date: '2007-06-01'
-                  acquiree: Gryfsoft
-                - date: '2013-01-02'
-                  acquiree: ADVA Optical Networking Israel
-                - date: '2013-02-14'
-                  acquiree: Biran High Tech Advisors
-                - date: '2014-03-11'
-                  acquiree: Oscilloquartz SA
-                - date: '2015-11-27'
-                  acquiree: FiSEC
-                - date: '2016-01-13'
-                  acquiree: Overture Networks
-                - date: '2017-07-02'
-                  acquiree: MRV Communications
-              parents:
-                - https://www.crunchbase.com/organization/swatch-group
-              ticker: UHR.SW
-              funding: 3000000
-              stockExchange: otcqb
-              company_type: For Profit
-              industries:
-                - Hardware
-                - Network Hardware
-                - Software
-                - Telecommunications
-            yahoo_finance_data:
-              effective_ticker: UHR.SW
-            image_data:
-              fileName: adtran-networks-se.svg
-              hash: N+8bBqGGx16rqeunw86xkmAz6ngyiIO1OcSv+vqUG2s=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-12T09:11:00.000Z
           - item:
             name: Adusoft - Adam Nowaczyk
             homepage_url: https://codenarrator.ai/
@@ -8505,9 +8447,10 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-02-08T10:39:42.000Z
           - item:
-            name: Amadeus IT Group, S.A.
+            name: Amadeus SAS
             homepage_url: https://amadeus.com/
-            logo: amadeus_it_group_sa.svg
+            logo: amadeus_sas.svg
+            twitter: https://twitter.com/AmadeusITGroup
             crunchbase: https://www.crunchbase.com/organization/amadeus
             crunchbase_data:
               name: Amadeus
@@ -8570,7 +8513,7 @@ landscape:
             yahoo_finance_data:
               effective_ticker: AMS.MC
             image_data:
-              fileName: amadeus-it-group-s-a.svg
+              fileName: amadeus-sas.svg
               hash: 4xcImtvSRR00/a/5XwHst9NkY9ChJtrvqlZNNfmN9aQ=
             best_practice_data:
               badge: false
@@ -8661,10 +8604,13 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
+                - Computer
                 - Consulting
                 - DevOps
                 - Information Services
                 - Information Technology
+                - Internet
+                - Service Industry
                 - Software
                 - Web Development
             yahoo_finance_data:
@@ -10459,6 +10405,8 @@ landscape:
               stockExchange: nyse
               company_type: For Profit
               industries:
+                - Collaboration
+                - Communications Infrastructure
                 - Mobile
                 - Service Industry
                 - Telecommunications
@@ -11101,6 +11049,8 @@ landscape:
                   acquiree: UNIFI Labs
                 - date: '2023-10-22'
                   acquiree: FlexSim
+                - date: '2024-01-24'
+                  acquiree: Payapps
               parents: []
               ticker: ADSK
               funding: 0
@@ -14013,7 +13963,7 @@ landscape:
               kind: funding
             image_data:
               fileName: bytedance-inc.svg
-              hash: oJ7ldNFe1DCl6iEUDGE8bQ6gWq78L9RkV9aUBHjUcG4=
+              hash: sEvVEMgUpdaTkTdfMz6w51cueyzW3lD+KCajpylgGOc=
             best_practice_data:
               badge: false
               percentage: null
@@ -14949,7 +14899,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/checkmarx
             crunchbase_data:
               name: Checkmarx
-              description: Checkmarx is a global leader in application security.
+              description: Checkmarx provides application security testing products and services to enterprise organizations.
               num_employees_min: 501
               num_employees_max: 1000
               homepage: http://www.checkmarx.com
@@ -15234,6 +15184,76 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T16:15:00.000Z
+          - item:
+            name: Ciena Canada, ULC
+            homepage_url: https://ciena.com/
+            logo: ciena_canada_ulc.svg
+            twitter: https://twitter.com/Ciena
+            crunchbase: https://www.crunchbase.com/organization/ciena
+            crunchbase_data:
+              name: Ciena
+              description: Ciena collaborates with customers to unlock the strategic potential of their networks and and change the way they perform and compete.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.ciena.com
+              city: Linthicum Heights
+              region: Maryland
+              country: United States
+              twitter: http://twitter.com/Ciena
+              linkedin: https://www.linkedin.com/company/ciena
+              acquisitions:
+                - date: '1997-12-01'
+                  acquiree: Astracom
+                - date: '1999-03-01'
+                  acquiree: Lightera
+                - date: '2000-12-20'
+                  acquiree: Cyras Systems
+                - date: '2002-06-21'
+                  acquiree: ONI Systems
+                - date: '2003-04-14'
+                  acquiree: Wavesmith Networks
+                - date: '2003-08-22'
+                  acquiree: Akara
+                - date: '2004-02-19'
+                  acquiree: Catena Networks
+                - date: '2004-02-19'
+                  acquiree: Internet Photonics
+                - date: '2007-09-18'
+                  acquiree: PhyFlex Networks
+                - date: '2008-01-22'
+                  acquiree: World Wide Packets
+                - date: '2015-05-04'
+                  acquiree: Cyan
+                - date: '2018-05-31'
+                  acquiree: Packet Design
+                - date: '2018-09-05'
+                  acquiree: DonRiver
+                - date: '2019-10-03'
+                  acquiree: Centina Systems
+                - date: '2021-09-02'
+                  acquiree: Vyatta
+                - date: '2022-11-22'
+                  acquiree: Benu Networks
+                - date: '2022-11-22'
+                  acquiree: Tibit Communications
+              parents: []
+              ticker: CIEN
+              funding: 0
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Collaboration
+                - Delivery
+                - Software
+                - Telecommunications
+            yahoo_finance_data:
+              effective_ticker: CIEN
+            image_data:
+              fileName: ciena-canada-ulc.svg
+              hash: 91hKgFgCUDI71cJk0/kjQ3ET2VFRwk3R81i9nqZ7qB4=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Cinemo GmbH
             homepage_url: https://cinemo.com/
@@ -22245,6 +22265,146 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T11:17:00.000Z
+          - item:
+            name: Ernst & Young Global Limited
+            homepage_url: https://ey.com/
+            logo: ernst__young_global_limited.svg
+            twitter: https://twitter.com/EYnews
+            crunchbase: https://www.crunchbase.com/organization/ernst-young
+            crunchbase_data:
+              name: Ernst & Young
+              description: Ernst & Young is a provider of assurance, tax, transaction, and advisory services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.ey.com
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: http://twitter.com/EYnews
+              linkedin: https://www.linkedin.com/company/ernstandyoung
+              acquisitions:
+                - date: '1989-01-01'
+                  acquiree: Arthur Young & Co.
+                - date: '2001-02-01'
+                  acquiree: Securax Security Services
+                - date: '2009-03-30'
+                  acquiree: EnteGreat
+                - date: '2011-05-31'
+                  acquiree: Cataphora
+                - date: '2013-09-18'
+                  acquiree: Greenwich Consulting
+                - date: '2014-07-21'
+                  acquiree: The Parthenon Group
+                - date: '2015-07-20'
+                  acquiree: Mycroft Inc.
+                - date: '2015-08-17'
+                  acquiree: Seren
+                - date: '2015-11-30'
+                  acquiree: NorthPoint Digital
+                - date: '2016-04-27'
+                  acquiree: Tasman Consulting
+                - date: '2016-07-13'
+                  acquiree: Innovalue Management
+                - date: '2016-08-02'
+                  acquiree: EY Society
+                - date: '2016-10-16'
+                  acquiree: MillionYou
+                - date: '2017-01-17'
+                  acquiree: CogniStreamer
+                - date: '2017-02-23'
+                  acquiree: TaxChat
+                - date: '2017-06-05'
+                  acquiree: Open Windows IDENTITY
+                - date: '2017-07-25'
+                  acquiree: etventure
+                - date: '2017-08-07'
+                  acquiree: Brightree Solutions
+                - date: '2017-11-22'
+                  acquiree: Applix
+                - date: '2017-11-30'
+                  acquiree: E-STET
+                - date: '2018-01-06'
+                  acquiree: DKM Economic Consultants
+                - date: '2018-01-10'
+                  acquiree: Aspect Security
+                - date: '2018-01-31'
+                  acquiree: Citizen, Inc.
+                - date: '2018-02-08'
+                  acquiree: ENTG
+                - date: '2018-03-22'
+                  acquiree: Sonoma Partners
+                - date: '2018-08-07'
+                  acquiree: Riverview Law
+                - date: '2018-11-01'
+                  acquiree: NogginLabs, Inc.
+                - date: '2018-11-05'
+                  acquiree: Halo Management Consulting
+                - date: '2018-11-16'
+                  acquiree: Adelphi Digital Consulting Group
+                - date: '2019-01-29'
+                  acquiree: Plaut IT Australia
+                - date: '2019-04-03'
+                  acquiree: Pangea3
+                - date: '2019-07-25'
+                  acquiree: C Centric Solutions Pvt. Ltd
+                - date: '2019-09-17'
+                  acquiree: ElevatedPrompt
+                - date: '2019-11-11'
+                  acquiree: Aleron
+                - date: '2020-11-06'
+                  acquiree: IDMSense
+                - date: '2020-11-14'
+                  acquiree: Spotmentor Technologies
+                - date: '2020-11-23'
+                  acquiree: Zilker Technology
+                - date: '2021-02-03'
+                  acquiree: Frank Hirth-Tax advisory and compliance business
+                - date: '2021-05-10'
+                  acquiree: Pythagoras Communications
+                - date: '2021-05-25'
+                  acquiree: SuMO IT Solutions
+                - date: '2021-07-30'
+                  acquiree: SecureWorx
+                - date: '2021-08-16'
+                  acquiree: Seaton Partners
+                - date: '2022-03-31'
+                  acquiree: Client Solutions
+                - date: '2022-04-12'
+                  acquiree: Blackdot
+                - date: '2022-04-25'
+                  acquiree: Gensquared
+                - date: '2022-08-01'
+                  acquiree: Digital Detox
+                - date: '2022-08-01'
+                  acquiree: Q4 Associates
+                - date: '2022-08-16'
+                  acquiree: Cambria Solutions
+                - date: '2022-10-10'
+                  acquiree: Red Moki
+                - date: '2022-11-21'
+                  acquiree: Bridge Business Consulting
+                - date: '2022-12-19'
+                  acquiree: ifb group
+                - date: '2023-01-13'
+                  acquiree: eBorn Consulting
+                - date: '2023-03-21'
+                  acquiree: adameo
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Accounting
+                - Advice
+                - Business Intelligence
+                - Consulting
+                - Financial Services
+                - Professional Services
+            image_data:
+              fileName: ernst-young-global-limited.svg
+              hash: sWnjRkY2vW5duNG1Hgy3sU7I/WV1ilnuAKPrBDUkxos=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: esatus AG
             homepage_url: https://esatus.com/
@@ -49022,11 +49182,30 @@ landscape:
             name: Treyee
             homepage_url: https://treyee.io/
             logo: treyee.svg
-            organization:
-              name: Treyee
+            crunchbase: https://www.crunchbase.com/organization/treyee
             crunchbase_data:
               name: Treyee
+              description: We are a Latin American technology consulting company with a multicultural mindset offering our services worldwide.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://treyee.io
+              city: Panama City
+              region: Panama
+              country: Panama
+              twitter: https://twitter.com/_treyee
+              linkedin: https://www.linkedin.com/company/treyee
+              acquisitions: []
               parents: []
+              funding: 35000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Consulting
+                - Information Technology
+                - Professional Services
+                - Software
+                - Web Development
+              kind: funding
             image_data:
               fileName: treyee.svg
               hash: pNBUm3oi777Btarx8wzAKezJskVhQtQi2IGfOD1YhPE=
@@ -58448,8 +58627,8 @@ landscape:
             crunchbase_data:
               name: Linnaeus University
               description: Linnaeus University is a school in Växjö.
-              num_employees_min: null
-              num_employees_max: null
+              num_employees_min: 1001
+              num_employees_max: 5000
               homepage: http://www.lnu.se
               city: Växjö
               region: Kronobergs Lan
@@ -58459,8 +58638,11 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
-              company_type: ''
-              industries: []
+              company_type: For Profit
+              industries:
+                - Education
+                - Training
+                - Universities
             image_data:
               fileName: linnaeus-university.svg
               hash: FUxMq6/C8yKivV6IMMqTl3hkCd1C1PYxRGGgNY/hUTo=
@@ -61863,22 +62045,27 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/tecnalia
             crunchbase_data:
               name: Tecnalia
-              description: Technological and scientific development
-              num_employees_min: null
-              num_employees_max: null
-              homepage: https://www.tecnalia.com/en/
-              city: Bilbao
+              description: Tecnalia offers applied research, innovation, technology, sustainable construction, energy, environment, ICT, health, & technology services.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: https://www.tecnalia.com/
+              city: Donostia-san Sebastián
               region: Pais Vasco
               country: Spain
-              twitter: http://twitter.com/tecnalia
+              twitter: https://twitter.com/tecnalia
               linkedin: https://www.linkedin.com/company/tecnalia-research-&-innovation/
               acquisitions: []
               parents: []
               stockExchange: null
               company_type: For Profit
               industries:
+                - Chemical Engineering
                 - Clean Energy
+                - Energy
+                - Environmental Consulting
                 - Information and Communications Technology (ICT)
+                - Manufacturing
+                - Sustainability
                 - Transportation
             image_data:
               fileName: tecnalia-corporation.svg
@@ -64374,4 +64561,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-01-31T01:59:39.202Z
+updated_at: 2024-02-01T00:38:35.615Z
