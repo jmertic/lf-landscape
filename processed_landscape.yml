@@ -4493,8 +4493,6 @@ landscape:
                   acquiree: Northstream
                 - date: '2019-08-12'
                   acquiree: Insitum
-                - date: '2019-08-15'
-                  acquiree: Analytics8
                 - date: '2019-08-19'
                   acquiree: Parker Fitzgerald
                 - date: '2019-08-27'
@@ -8497,6 +8495,8 @@ landscape:
                   acquiree: ICM Airport Technics
                 - date: '2022-03-31'
                   acquiree: Kambr
+                - date: '2024-01-31'
+                  acquiree: Vision-Box
               parents:
                 - https://www.crunchbase.com/organization/amadeus
               ticker: AMS.MC
@@ -9589,11 +9589,25 @@ landscape:
             name: appCD
             homepage_url: https://appcd.io/
             logo: appcd.svg
-            organization:
-              name: appCD
+            crunchbase: https://www.crunchbase.com/organization/appcd
             crunchbase_data:
               name: appCD
+              description: Generative Infrastructure from Code
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://appcd.com/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/appcd_io
+              linkedin: https://www.linkedin.com/company/appcd
+              acquisitions: []
               parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Technology
+                - Software
             image_data:
               fileName: app-cd.svg
               hash: lAMYw+DE+dexG4VR2T5YN4B4aVze8TK5nOS1PWG0uds=
@@ -17158,6 +17172,8 @@ landscape:
                   acquiree: FW Murphy
                 - date: '2024-01-17'
                   acquiree: Transchem
+                - date: '2024-01-31'
+                  acquiree: Bulloch Technologies
               parents: []
               ticker: DOV
               stockExchange: nyse
@@ -20327,9 +20343,9 @@ landscape:
                 - date: '2023-07-07'
                   acquiree: Paperspace
               parents: []
-              ticker: OSU.F
+              ticker: DOCN
               funding: 491275418
-              stockExchange: fra
+              stockExchange: nyse
               company_type: For Profit
               industries:
                 - Cloud Computing
@@ -20338,7 +20354,7 @@ landscape:
                 - Virtualization
                 - Web Hosting
             yahoo_finance_data:
-              effective_ticker: OSU.F
+              effective_ticker: DOCN
             image_data:
               fileName: digital-ocean.svg
               hash: Dkhwj6PDhU/lsXh70wAV/7BpkW0QLt1ElgNZtAFmH8U=
@@ -22997,14 +23013,16 @@ landscape:
                   acquiree: eMoney Advisor
                 - date: '2023-01-10'
                   acquiree: Shoobx
-              parents: []
+              parents:
+                - https://www.crunchbase.com/organization/fidelity-investments
               funding: 144325000
               stockExchange: null
-              company_type: ''
+              company_type: For Profit
               industries:
                 - Asset Management
                 - Finance
                 - Financial Services
+                - Retirement
                 - Wealth Management
               kind: funding
             image_data:
@@ -25524,44 +25542,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-18T21:55:00.000Z
           - item:
-            name: Harpoon Corp
-            homepage_url: https://harpooncorp.io/
-            logo: harpoon_corp.svg
-            crunchbase: https://www.crunchbase.com/organization/harpoon
-            crunchbase_data:
-              name: harpoon
-              description: harpoon is a No Code Kubernetes platform
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://harpoon.io
-              city: San Diego
-              region: California
-              country: United States
-              twitter: https://twitter.com/harpoon51585536
-              linkedin: https://www.linkedin.com/company/harpooncorp/
-              acquisitions: []
-              parents: []
-              funding: 0
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-                - Developer Tools
-                - Enterprise Software
-                - SaaS
-                - Software
-                - Virtualization
-                - Web Apps
-                - Web Development
-            image_data:
-              fileName: harpoon-corp.svg
-              hash: W4ZexgjeJ/kJOwC8aX17r77Z1YTyyslJtQMbaPtqhns=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-01-16T19:03:53.000Z
-          - item:
             name: Hartford Financial Services Group Inc.
             homepage_url: https://thehartford.com/
             logo: hartford_financial_services_group_inc.svg
@@ -27510,37 +27490,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T13:00:00.000Z
           - item:
-            name: Imperas Software Ltd
-            homepage_url: https://imperas.com/
-            logo: imperas_software_ltd.svg
-            twitter: https://twitter.com/ImperasSoftware
-            crunchbase: https://www.crunchbase.com/organization/imperas
-            crunchbase_data:
-              name: Imperas
-              description: Imperas is revolutionizing the development of embedded software and systems.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: http://www.imperas.com
-              city: Palo Alto
-              region: California
-              country: United States
-              twitter: https://www.twitter.com/imperassoftware
-              linkedin: https://www.linkedin.com/company/imperas
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Software
-            image_data:
-              fileName: imperas-software-ltd.svg
-              hash: zIq6+OtHFTPkOSeKb3FC9sEAnQkcXYpDNaiv6yDe+vM=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-02-27T20:17:18.000Z
-          - item:
             name: Indeed, Inc.
             homepage_url: https://indeed.com/
             logo: indeed_inc.svg
@@ -27708,41 +27657,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T08:04:14.000Z
-          - item:
-            name: InfinyOn Inc
-            homepage_url: https://infinyon.com/
-            logo: infinyon_inc.svg
-            twitter: https://twitter.com/InfinyOn
-            crunchbase: https://www.crunchbase.com/organization/infinyon
-            crunchbase_data:
-              name: InfinyOn
-              description: InfinyOn is a programmable data streaming platform that manages data movement between users, services, and locations.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.infinyon.com
-              city: Santa Clara
-              region: California
-              country: United States
-              twitter: https://twitter.com/infinyon
-              linkedin: https://www.linkedin.com/company/infinyon
-              acquisitions: []
-              parents: []
-              funding: 6570000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Database
-                - Information Technology
-                - Software
-              kind: funding
-            image_data:
-              fileName: infiny-on-inc.svg
-              hash: yL2Ur3G92jiNApk3bthmnBGAEbrMdnd4fhBUq6tZ/x4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T14:56:04.000Z
           - item:
             name: InfluxData Inc
             homepage_url: https://influxdata.com/
@@ -29180,7 +29094,7 @@ landscape:
                   acquiree: WiteSand
               parents: []
               ticker: JNPR
-              funding: 38677847
+              funding: 43004920
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -41496,35 +41410,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-18T15:42:42.000Z
           - item:
-            name: Saltware
-            homepage_url: https://saltware.co.kr/
-            logo: saltware.svg
-            crunchbase: https://www.crunchbase.com/organization/saltware
-            crunchbase_data:
-              name: Saltware
-              description: Saltware provide professional service for IT infrastructure, Enterprise Portal and Cloud Consulting Service.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: http://www.saltware.co.kr
-              city: Seoul
-              region: Seoul-t'ukpyolsi
-              country: South Korea
-              twitter: null
-              linkedin: https://www.linkedin.com/company/saltware/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Information Services
-                - Information Technology
-            image_data:
-              fileName: saltware.svg
-              hash: fdOHJrk8zWFJN1zN93LevjiNIQMVvAde6cpVSrJtOs8=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Sanborn
             homepage_url: https://sanborn.com/
             logo: sanborn.svg
@@ -48659,42 +48544,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T17:13:58.000Z
           - item:
-            name: Timesys Corporation
-            homepage_url: https://timesys.com/
-            logo: timesys_corporation.svg
-            crunchbase: https://www.crunchbase.com/organization/timesys-corporation
-            crunchbase_data:
-              name: Timesys Corporation
-              description: Timesys builds, secures, and maintains open source embedded software platforms.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: http://www.timesys.com/
-              city: Pittsburgh
-              region: Pennsylvania
-              country: United States
-              twitter: https://twitter.com/Timesys
-              linkedin: https://www.linkedin.com/company/timesys-corporation/
-              acquisitions: []
-              parents: []
-              funding: 29500000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cyber Security
-                - Embedded Software
-                - Enterprise Software
-                - Information Technology
-                - Software
-              kind: funding
-            image_data:
-              fileName: timesys--corporation.svg
-              hash: ULnMJ2y09eJoDecDPMcD3JDg3EIEKFkYKaYRNN/MF3I=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-01T17:15:12.000Z
-          - item:
             name: Timspirit
             homepage_url: https://timspirit.fr/
             logo: timspirit.svg
@@ -48726,39 +48575,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2018-05-31T08:58:12.000Z
-          - item:
-            name: TL Consulting Group
-            homepage_url: https://tlconsulting.com.au/
-            logo: tl_consulting_group.svg
-            twitter: https://twitter.com/testlogistics
-            crunchbase: https://www.crunchbase.com/organization/tl-consulting-group
-            joined: '2022-04-01'
-            crunchbase_data:
-              name: TL Consulting Group
-              description: We accelerate your cloud native journey and future proof your business by harnessing the power of Kubernetes, multi-cloud, and DevSecOps.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: https://tlconsulting.com.au/
-              city: Sydney
-              region: New South Wales
-              country: Australia
-              twitter: null
-              linkedin: https://www.linkedin.com/company/tl-consulting-group/?originalSubdomain=au
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Information Services
-                - Information Technology
-            image_data:
-              fileName: tl-consulting-group.svg
-              hash: NOO0QFv2CARyUSktCE7ALMv7VegWRh+PQMF6tngbNi0=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2015-08-12T02:14:01.000Z
           - item:
             name: TmaxCloud
             homepage_url: https://tmax.co.kr/
@@ -64558,4 +64374,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-02-01T01:58:16.042Z
+updated_at: 2024-02-02T00:40:22.007Z
