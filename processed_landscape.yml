@@ -2441,7 +2441,7 @@ landscape:
                 - date: '2011-09-07'
                   acquiree: BlueArc
                 - date: '2011-10-07'
-                  acquiree: Hirel
+                  acquiree: Hitachi Hi-Rel Power Electronics
                 - date: '2012-09-24'
                   acquiree: Cofio Software
                 - date: '2012-10-30'
@@ -6621,6 +6621,21 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2018-02-15T09:32:49.000Z
+          - item:
+            name: 45Drives
+            homepage_url: https://45drives.com/
+            logo: 45drives.svg
+            organization:
+              name: 45Drives
+            crunchbase_data:
+              name: 45Drives
+              parents: []
+            image_data:
+              fileName: 45-drives.svg
+              hash: hm8Z+i4BvoPicJPYRCA1YYROn8HlzcQY9rqh9W8xyZg=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: 6WIND S.A.
             homepage_url: https://6wind.com/
@@ -17972,7 +17987,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/corsha
             crunchbase_data:
               name: Corsha
-              description: Corsha is an API identity and access management platform that secures machine-to-machine communication and adds automated MFA to APIs.
+              description: Corsha is the Identity Provider for Machines that allows you to securely connect your machines, move data, and automate with confidence
               num_employees_min: 11
               num_employees_max: 50
               homepage: http://www.corsha.com
@@ -17991,6 +18006,7 @@ landscape:
                 - Cyber Security
                 - DevOps
                 - IT Infrastructure
+                - Industrial Automation
                 - SaaS
                 - Security
               kind: funding
@@ -64621,4 +64637,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-02-04T03:36:28.121Z
+updated_at: 2024-02-05T02:18:38.422Z
