@@ -4063,7 +4063,9 @@ landscape:
                 - Electronics
                 - Manufacturing
                 - Mobile
+                - Mobile Apps
                 - Mobile Devices
+                - Mobile Payments
                 - Software
             yahoo_finance_data:
               effective_ticker: 005930.KS
@@ -6077,6 +6079,8 @@ landscape:
                   acquiree: Alter
                 - date: '2023-02-27'
                   acquiree: Photomath
+                - date: '2023-12-19'
+                  acquiree: Equalum
               parents:
                 - https://www.crunchbase.com/organization/alphabet
               ticker: GOOG
@@ -13932,72 +13936,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Bytedance Inc.
-            homepage_url: https://bytedance.com/
-            logo: bytedance_inc.svg
-            twitter: https://twitter.com/BytedanceTalk
-            crunchbase: https://www.crunchbase.com/organization/bytedance
-            crunchbase_data:
-              name: ByteDance
-              description: ByteDance is an internet technology company that operates creative content platforms.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://bytedance.com
-              city: Beijing
-              region: Beijing
-              country: China
-              twitter: https://www.twitter.com/bytedancetalk
-              linkedin: https://www.linkedin.com/company/bytedance
-              acquisitions:
-                - date: '2016-08-16'
-                  acquiree: Xigua Shipin
-                - date: '2017-11-08'
-                  acquiree: News Republic
-                - date: '2018-01-22'
-                  acquiree: Bcy.net
-                - date: '2019-03-18'
-                  acquiree: Mokun Technology
-                - date: '2019-04-29'
-                  acquiree: Terark
-                - date: '2020-01-10'
-                  acquiree: LevelupAI
-                - date: '2020-05-20'
-                  acquiree: Baikemy.com
-                - date: '2020-08-19'
-                  acquiree: Caicloud
-                - date: '2020-09-04'
-                  acquiree: Wuhan Hezhong Yibao Technology
-                - date: '2021-04-15'
-                  acquiree: Com4Loves
-                - date: '2021-08-30'
-                  acquiree: Pico Interactive
-                - date: '2022-03-21'
-                  acquiree: Hipacloud
-                - date: '2022-08-09'
-                  acquiree: Amcare Women's and Children's Hospital
-                - date: '2022-12-07'
-                  acquiree: Mushu Information
-                - date: '2023-03-13'
-                  acquiree: Yanxuan Technology
-              parents: []
-              funding: 9505000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Content
-                - Data Mining
-                - Internet
-                - Social Media
-              kind: funding
-            image_data:
-              fileName: bytedance-inc.svg
-              hash: sEvVEMgUpdaTkTdfMz6w51cueyzW3lD+KCajpylgGOc=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-10-20T04:00:37.000Z
-          - item:
             name: bytesatwork
             homepage_url: https://bytesatwork.io/
             logo: bytesatwork.svg
@@ -17647,41 +17585,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T00:27:31.000Z
-          - item:
-            name: Control Plane Corporation
-            homepage_url: https://controlplane.com/
-            logo: control_plane_corporation.svg
-            twitter: https://twitter.com/controlplane1
-            crunchbase: https://www.crunchbase.com/organization/control-plane
-            crunchbase_data:
-              name: Control Plane Corporation
-              description: Cloud native internal developer platform.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.controlplane.com
-              city: Santa Rosa
-              region: California
-              country: United States
-              twitter: null
-              linkedin: https://www.linkedin.com/company/control-plane-corporation/
-              acquisitions: []
-              parents: []
-              funding: 19070999
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Data Services
-                - Cloud Infrastructure
-                - Software
-              kind: funding
-            image_data:
-              fileName: control-plane-corporation.svg
-              hash: QwdBTINHumd0g6LN01O/lyWRpH8RfkADZprNx1yr7/E=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-03-01T14:50:34.000Z
           - item:
             name: Control-Plane.io
             homepage_url: https://control-plane.io/
@@ -23047,9 +22950,9 @@ landscape:
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: https://www.fidelity.com
-              city: Boston
-              region: Massachusetts
-              country: United States
+              city: ' N/A'
+              region: ' N/A'
+              country: ' N/A'
               twitter: https://www.twitter.com/Fidelity
               linkedin: https://www.linkedin.com/company/fidelity-investments
               acquisitions:
@@ -44808,48 +44711,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T17:29:25.000Z
           - item:
-            name: SphereEx
-            homepage_url: https://sphere-ex.com/
-            logo: sphereex.svg
-            crunchbase: https://www.crunchbase.com/organization/sphereex
-            joined: '2022-05-01'
-            crunchbase_data:
-              name: SphereEx
-              description: SphereEx is a database software provider that builds distributed data infrastructures with the help of cloud and big data technologies.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: http://sphere-ex.com
-              city: Beijing
-              region: Beijing
-              country: China
-              twitter: https://twitter.com/Sphere_Ex
-              linkedin: https://www.linkedin.com/company/sphere-ex
-              acquisitions: []
-              parents: []
-              funding: 10000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Analytics
-                - Cloud Computing
-                - Cloud Data Services
-                - Cloud Infrastructure
-                - Cloud Management
-                - Cloud Storage
-                - Database
-                - PaaS
-                - SaaS
-                - Software
-              kind: funding
-            image_data:
-              fileName: sphere-ex.svg
-              hash: q3CVtqTiknWVs8dkjimy0PgQqD1d1xzSIOc0mGTf/I0=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-18T14:23:09.000Z
-          - item:
             name: Spirent Communications Inc
             homepage_url: https://spirent.com/
             logo: spirent_communications_inc.svg
@@ -47804,9 +47665,11 @@ landscape:
               linkedin: https://www.linkedin.com/company/testifysec/
               acquisitions: []
               parents: []
+              funding: 6400000
               stockExchange: null
               company_type: For Profit
               industries: []
+              kind: funding
             image_data:
               fileName: testify-sec.svg
               hash: w7M2qU/caMaW4kVH44hUJ6vpj8CzKqyicVQcNxp0aqM=
@@ -48006,7 +47869,7 @@ landscape:
                   acquiree: National Semiconductor
               parents: []
               ticker: TXN
-              funding: 5300000000
+              funding: 8300000000
               stockExchange: nasdaq
               company_type: For Profit
               industries:
@@ -51794,7 +51657,7 @@ landscape:
               description: Wing Cloud is a cloud-oriented programming language
               num_employees_min: 11
               num_employees_max: 50
-              homepage: https://www.wing.cloud/
+              homepage: https://www.wing.cloud
               city: Wilmington
               region: Delaware
               country: United States
@@ -52005,39 +51868,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-19T12:58:57.000Z
           - item:
-            name: Wowjoy Technology
-            homepage_url: https://wowjoy.cn/
-            logo: wowjoy_technology.svg
-            crunchbase: https://www.crunchbase.com/organization/wowjoy-technology
-            joined: '2022-02-01'
-            crunchbase_data:
-              name: WOWJOY TECHNOLOGY
-              description: WOWJOY TECHNOLOGY is a provider of data-driven medical services.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: https://www.wowjoy.cn/
-              city: Hangzhou
-              region: Zhejiang
-              country: China
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              funding: 25516454
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Health Care
-                - Internet
-                - Medical
-              kind: funding
-            image_data:
-              fileName: wowjoy-technology.svg
-              hash: GQFmxuXBhaWgMh2QQ0dwF38V+vA7KLlpU7M2JcRaraU=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: WSO2 LLC.
             homepage_url: https://wso2.com/
             logo: wso2_llc.svg
@@ -52140,39 +51970,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: Xcalibyte
-            homepage_url: https://xcalibyte.com/
-            logo: xcalibyte.svg
-            twitter: https://twitter.com/xcalibyte_hk
-            crunchbase: https://www.crunchbase.com/organization/xcalibyte
-            crunchbase_data:
-              name: Xcalibyte
-              description: Xcalibyte substantially enhances productivity with tools that are accurate, informative, reliable and easy to use for developers.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://xcalibyte.com
-              city: Wan Chai
-              region: Hong Kong Island
-              country: Hong Kong
-              twitter: null
-              linkedin: https://www.linkedin.com/company/xcalibyte
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Information Technology
-                - Productivity Tools
-                - Software
-            image_data:
-              fileName: xcalibyte.svg
-              hash: 0DsKczuKFjVkZx9Bn+2SY1i6wjirMi1mhD9RjFTvAxg=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-08-11T14:13:39.000Z
           - item:
             name: xFlow Research.com
             homepage_url: https://xflowresearch.com/
@@ -64652,4 +64449,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-02-06T03:39:54.544Z
+updated_at: 2024-02-07T02:14:36.728Z
