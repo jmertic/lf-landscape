@@ -3855,7 +3855,12 @@ landscape:
               stockExchange: nasdaq
               company_type: For Profit
               industries:
+                - Artificial Intelligence (AI)
+                - Generative AI
+                - Machine Learning
                 - Manufacturing
+                - Natural Language Processing
+                - Predictive Analytics
                 - Software
                 - Telecommunications
                 - Wireless
@@ -21984,7 +21989,7 @@ landscape:
                 - date: '2023-04-19'
                   acquiree: Aquiris
               parents: []
-              funding: 6360000000
+              funding: 7860000000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -22913,7 +22918,7 @@ landscape:
                   acquiree: Shoobx
               parents:
                 - https://www.crunchbase.com/organization/fidelity-investments
-              funding: 144325000
+              funding: 149325000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -23450,8 +23455,8 @@ landscape:
             crunchbase_data:
               name: FreedomFi
               description: FreedomFi build cost efficient PrivateLTE networks using commodity hardware, open source software and CBRS shared spectrum.
-              num_employees_min: null
-              num_employees_max: null
+              num_employees_min: 11
+              num_employees_max: 50
               homepage: https://freedomfi.com
               city: Los Gatos
               region: California
@@ -24249,7 +24254,7 @@ landscape:
               latest_tweet_date: 2023-04-21T02:10:06.000Z
           - item:
             name: GitLab Inc.
-            homepage_url: https://gitlab.com/
+            homepage_url: https://about.gitlab.com/
             logo: gitlab_inc.svg
             crunchbase: https://www.crunchbase.com/organization/gitlab-com
             joined: '2017-07-01'
@@ -30287,6 +30292,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-18T14:32:00.000Z
           - item:
+            name: Kudelski IoT
+            homepage_url: https://kudelski-iot.com/
+            logo: kudelski_iot.svg
+            organization:
+              name: Kudelski IoT
+            crunchbase_data:
+              name: Kudelski IoT
+              parents: []
+            image_data:
+              fileName: kudelski-io-t.svg
+              hash: G/KV9wB6y/PY+eIgEMbs7INMMc5zZRIHBqHNR9mIksA=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: KUKA Deutschland GmbH
             homepage_url: https://kuka.com/
             logo: kuka_deutschland_gmbh.svg
@@ -35091,24 +35111,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Nevexis
-            homepage_url: https://costimize.io/
-            logo: nevexis.svg
-            twitter: https://twitter.com/CostimizeIo
-            organization:
-              name: Nevexis
-            crunchbase_data:
-              name: Nevexis
-              parents: []
-            image_data:
-              fileName: nevexis.svg
-              hash: 0N+g5/3XgBDEk2ElFBqdVHbfzrhAZFCD5GjBFtoYOtk=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-08-16T14:25:22.000Z
-          - item:
             name: New H3C Technologies Co., Ltd
             homepage_url: https://h3c.com/
             logo: new_h3c_technologies_co_ltd.svg
@@ -36523,6 +36525,7 @@ landscape:
               industries:
                 - Cloud Computing
                 - IaaS
+                - Private Cloud
                 - Virtualization
             image_data:
               fileName: open-nebula.svg
@@ -37156,37 +37159,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-19T08:00:00.000Z
           - item:
-            name: Ozone Cloud Inc.
-            homepage_url: https://ozone.one/
-            logo: ozone_cloud_inc.svg
-            twitter: https://twitter.com/ozone_cloud
-            crunchbase: https://www.crunchbase.com/organization/ozone-cd
-            crunchbase_data:
-              name: Ozone
-              description: Development teams can now automate Kubernetes application delivery end-to-end.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://ozone.one
-              city: Dubai
-              region: Dubai
-              country: United Arab Emirates
-              twitter: https://twitter.com/ozonecdf
-              linkedin: https://www.linkedin.com/company/ozone
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Software
-            image_data:
-              fileName: ozone-cloud-inc.svg
-              hash: DumR7J9hYfxtjkiaCplyzfEAv9yx8xcGn+CURggdPB4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-18T14:15:17.000Z
-          - item:
             name: P0 Security
             homepage_url: https://p0.dev/
             logo: p0_security.svg
@@ -37467,7 +37439,7 @@ landscape:
               industries: []
             image_data:
               fileName: pcp-consulting.svg
-              hash: ssAciJ4xN8wUgAy+h7SjqouqCzyVIFjriFIleKtFzd4=
+              hash: EC5uzvmXC0tVAAbCMdYazc0hDpcLUlWmxIEStpcI4dw=
             best_practice_data:
               badge: false
               percentage: null
@@ -40158,36 +40130,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Rego Consulting
-            homepage_url: https://regoconsulting.com/
-            logo: rego_consulting.svg
-            crunchbase: https://www.crunchbase.com/organization/rego-consulting
-            crunchbase_data:
-              name: Rego Consulting
-              description: Rego Consulting the leading PPM services provider has helped hundreds of organizations achieve a higher return on their PPM.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: http://regoconsulting.com/
-              city: Centerville
-              region: Utah
-              country: United States
-              twitter: https://twitter.com/regoconsulting
-              linkedin: https://www.linkedin.com/company/rego-consulting
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Information Technology
-            image_data:
-              fileName: rego-consulting.svg
-              hash: 04bWpeyuVqdlrwWF8K0jkMMkIU6qCFkZvgSUUaY0CtQ=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-04-28T18:00:00.000Z
-          - item:
             name: Release Technologies, Inc.
             homepage_url: https://releasehub.com/
             logo: release_technologies_inc.svg
@@ -41538,6 +41480,21 @@ landscape:
             image_data:
               fileName: sap.svg
               hash: adOvLDK9PxKhDjelm+R8KSWkBaKSFp/Kj9EbcflrQXY=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: SAPEON
+            homepage_url: https://sapeon.com/
+            logo: sapeon.svg
+            organization:
+              name: SAPEON
+            crunchbase_data:
+              name: SAPEON
+              parents: []
+            image_data:
+              fileName: sapeon.svg
+              hash: vusD5HCVqW0BK7lgHCqr5cXl+2lKXV8D8chAuV+fAbY=
             best_practice_data:
               badge: false
               percentage: null
@@ -42921,6 +42878,7 @@ landscape:
               company_type: For Profit
               industries:
                 - Cloud Computing
+                - DevOps
                 - Developer Tools
                 - Software
               kind: funding
@@ -52197,7 +52155,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/zededaedge/
               acquisitions: []
               parents: []
-              funding: 174803698
+              funding: 129484000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -55778,7 +55736,7 @@ landscape:
             twitter: https://twitter.com/EPFL_en
             crunchbase: https://www.crunchbase.com/organization/epfl
             crunchbase_data:
-              name: École Polytechnique Fédérale de Lausanne
+              name: Federal Polytechnic School of Lausanne
               description: EPFL is a cosmopolitan technical university in Europe with students, professors, and staff from over 120 nations.
               num_employees_min: 1001
               num_employees_max: 5000
@@ -64343,4 +64301,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-02-08T03:35:18.943Z
+updated_at: 2024-02-09T02:18:26.237Z
