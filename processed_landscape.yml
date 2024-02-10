@@ -6582,8 +6582,8 @@ landscape:
             crunchbase_data:
               name: 3-shake
               description: 3-shake is a technology company that promotes data analysis, adtech platform, and automation of areas with high technical difficulty.
-              num_employees_min: 51
-              num_employees_max: 100
+              num_employees_min: 101
+              num_employees_max: 250
               homepage: https://www.3-shake.com
               city: Tokyo
               region: Tokyo
@@ -11279,41 +11279,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T22:00:19.000Z
-          - item:
-            name: Avanza Innovations IT Solutions LLC
-            homepage_url: https://avanzainnovations.com/
-            logo: avanza_innovations_it_solutions_llc.svg
-            crunchbase: https://www.crunchbase.com/organization/avanza-innovations
-            crunchbase_data:
-              name: Avanza Innovations
-              description: Blockchain, Artificial Intelligence, Robotic Process Automation, & Smart City Enablement
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: https://avanzainnovations.com/
-              city: Dubai
-              region: Dubai
-              country: United Arab Emirates
-              twitter: https://twitter.com/avanza_ai
-              linkedin: https://www.linkedin.com/company/avanza-innovations
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Artificial Intelligence (AI)
-                - Blockchain
-                - Information Technology
-                - Robotic Process Automation (RPA)
-                - Smart Cities
-                - Software
-            image_data:
-              fileName: avanza-innovations-it-solutions-llc.svg
-              hash: IWhdMpgZTqnedcrfGRhobpl6uSdFoCN9I0zwg6TuBSs=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-12T04:07:43.000Z
           - item:
             name: Avesha
             homepage_url: https://avesha.io/
@@ -23455,8 +23420,8 @@ landscape:
             crunchbase_data:
               name: FreedomFi
               description: FreedomFi build cost efficient PrivateLTE networks using commodity hardware, open source software and CBRS shared spectrum.
-              num_employees_min: 11
-              num_employees_max: 50
+              num_employees_min: null
+              num_employees_max: null
               homepage: https://freedomfi.com
               city: Los Gatos
               region: California
@@ -32210,7 +32175,7 @@ landscape:
               percentage: null
           - item:
             name: LY Corporation
-            homepage_url: https://www.lycorp.co.jp/ja/
+            homepage_url: https://lycorp.co.jp/
             logo: ly_corporation.svg
             twitter: https://twitter.com/Yahoo_JAPAN_PR
             crunchbase: https://www.crunchbase.com/organization/ly-corporation
@@ -37159,6 +37124,35 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-19T08:00:00.000Z
           - item:
+            name: Ozone Cloud Inc.
+            homepage_url: https://ozone.one/
+            logo: ozone_cloud_inc.svg
+            twitter: https://twitter.com/ozone_cloud
+            crunchbase: https://www.crunchbase.com/organization/ozone-cd
+            crunchbase_data:
+              name: Ozone
+              description: Development teams can now automate Kubernetes application delivery end-to-end.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://ozone.one
+              city: Dubai
+              region: Dubai
+              country: United Arab Emirates
+              twitter: https://twitter.com/ozonecdf
+              linkedin: https://www.linkedin.com/company/ozone
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Software
+            image_data:
+              fileName: ozone-cloud-inc.svg
+              hash: DumR7J9hYfxtjkiaCplyzfEAv9yx8xcGn+CURggdPB4=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: P0 Security
             homepage_url: https://p0.dev/
             logo: p0_security.svg
@@ -39366,8 +39360,8 @@ landscape:
             crunchbase_data:
               name: Qubex
               description: Qubex provides a Kubernetes scaling solution for enterprises. Ensuring resiliency against volatile traffic without over-provisioning.
-              num_employees_min: 1
-              num_employees_max: 10
+              num_employees_min: 11
+              num_employees_max: 50
               homepage: https://www.qubex.ai
               city: Tel Aviv
               region: Tel Aviv
@@ -39376,9 +39370,12 @@ landscape:
               linkedin: https://www.linkedin.com/company/qubex-ai/
               acquisitions: []
               parents: []
+              funding: 0
               stockExchange: null
-              company_type: ''
-              industries: []
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Cloud Management
             image_data:
               fileName: qubex.svg
               hash: 2lIvEc6QaW34lUyWGTmMHl4NE87JL2sHDYE4MKU8D20=
@@ -44024,6 +44021,8 @@ landscape:
                   acquiree: Beniva
                 - date: '2024-01-03'
                   acquiree: Novis Euforia
+                - date: '2024-02-01'
+                  acquiree: Medalsoft
               parents: []
               ticker: SWON.SW
               funding: 0
@@ -49327,6 +49326,8 @@ landscape:
                   acquiree: Western Bancorp
                 - date: '2006-09-01'
                   acquiree: Vail Banks
+                - date: '2012-11-27'
+                  acquiree: FSV Payment Systems
                 - date: '2013-09-10'
                   acquiree: Syncada
                 - date: '2021-08-12'
@@ -64301,4 +64302,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-02-09T03:37:02.971Z
+updated_at: 2024-02-10T02:17:24.688Z
