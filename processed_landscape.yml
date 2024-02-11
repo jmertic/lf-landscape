@@ -22883,7 +22883,7 @@ landscape:
                   acquiree: Shoobx
               parents:
                 - https://www.crunchbase.com/organization/fidelity-investments
-              funding: 149325000
+              funding: 166825000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -24524,6 +24524,8 @@ landscape:
                   acquiree: USI Holding
                 - date: '2007-03-11'
                   acquiree: Mellon Ventures
+                - date: '2010-02-01'
+                  acquiree: Metro International Trade Services
                 - date: '2015-04-23'
                   acquiree: Pacific Global Advisors
                 - date: '2015-11-02'
@@ -35033,6 +35035,22 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T10:34:49.000Z
           - item:
+            name: NETSIA Inc.
+            homepage_url: https://netsia.com/
+            logo: netsia_inc.svg
+            twitter: https://twitter.com/IncNetsia
+            organization:
+              name: NETSIA Inc.
+            crunchbase_data:
+              name: NETSIA Inc.
+              parents: []
+            image_data:
+              fileName: netsia-inc.svg
+              hash: 9G/gKrTJhwNRPBGdrT4iwYlAR9B2Vtw+Z43PwT+wMCs=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: NeuReality Ltd
             homepage_url: https://neureality.ai/
             logo: neureality_ltd.svg
@@ -40260,46 +40278,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T13:04:22.000Z
           - item:
-            name: Ribbon Communications Operating Company, Inc.
-            homepage_url: https://ribboncommunications.com/
-            logo: ribbon_communications_operating_company_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/ribbon-communications
-            crunchbase_data:
-              name: Ribbon Communications
-              description: 'Ribbon Communications is a company with two decades of leadership in real-time communications. '
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: https://ribboncommunications.com/
-              city: Westford
-              region: Massachusetts
-              country: United States
-              twitter: https://twitter.com/ribboncomm
-              linkedin: https://www.linkedin.com/company/ribbon-communications/
-              acquisitions:
-                - date: '2018-06-25'
-                  acquiree: Edgewater Networks
-                - date: '2019-02-04'
-                  acquiree: Anova Data
-                - date: '2019-11-14'
-                  acquiree: ECI Telecom
-              parents: []
-              ticker: RBBN
-              funding: 105400000
-              stockExchange: nasdaq
-              company_type: For Profit
-              industries:
-                - Telecommunications
-            yahoo_finance_data:
-              effective_ticker: RBBN
-            image_data:
-              fileName: ribbon-communications-operating-company-inc.svg
-              hash: 0NB2hoCXBxZpE3MWAtynYeFXV9ZbdLnU+vPv62WlaZU=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T13:31:01.000Z
-          - item:
             name: Ricoh Company, Ltd.
             homepage_url: https://ricoh.com/
             logo: ricoh_company_ltd.svg
@@ -40754,7 +40732,7 @@ landscape:
               effective_ticker: ROK
             image_data:
               fileName: rockwell-automation.svg
-              hash: ilSlaqvAmrHotWHJvlBpY/dl+vqIFHWxhZ1LwAcyyYc=
+              hash: 5oBh8KJHifN39lK0r3oPjG2E9MUgm+hJ/hLLdtaiPxs=
             best_practice_data:
               badge: false
               percentage: null
@@ -64302,4 +64280,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-02-10T03:36:09.858Z
+updated_at: 2024-02-11T02:17:15.989Z
