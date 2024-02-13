@@ -7351,9 +7351,13 @@ landscape:
               industries:
                 - Consulting
                 - Enterprise Software
+                - Graphic Design
                 - Image Recognition
                 - Photo Editing
                 - SaaS
+                - Software
+                - UX Design
+                - Web Design
             yahoo_finance_data:
               effective_ticker: ADBE
             image_data:
@@ -20999,12 +21003,12 @@ landscape:
               description: Edgeless Systems builds confidential computing technology that turns the public cloud into your private cloud.
               num_employees_min: 11
               num_employees_max: 50
-              homepage: https://www.edgeless.systems/
+              homepage: https://www.edgeless.systems
               city: Bochum
               region: Nordrhein-Westfalen
               country: Germany
               twitter: https://twitter.com/EdgelessSystems
-              linkedin: https://www.linkedin.com/company/edgeless-systems/about/
+              linkedin: https://www.linkedin.com/company/edgeless-systems
               acquisitions: []
               parents: []
               funding: 6757669
@@ -35697,8 +35701,8 @@ landscape:
             crunchbase_data:
               name: Northflank
               description: The comprehensive developer platform to build and scale microservices, jobs and managed databases.
-              num_employees_min: 1
-              num_employees_max: 10
+              num_employees_min: 11
+              num_employees_max: 50
               homepage: https://northflank.com/
               city: London
               region: England
@@ -36508,6 +36512,7 @@ landscape:
               industries:
                 - Cloud Computing
                 - IaaS
+                - Open Source
                 - Private Cloud
                 - Virtualization
             image_data:
@@ -39110,8 +39115,8 @@ landscape:
             crunchbase_data:
               name: Pure Storage
               description: "Pure Storage\_is an\_all-flash enterprise storage company that enables broad deployment of flash in data centers."
-              num_employees_min: 1001
-              num_employees_max: 5000
+              num_employees_min: 5001
+              num_employees_max: 10000
               homepage: http://www.purestorage.com
               city: Santa Clara
               region: California
@@ -41518,6 +41523,8 @@ landscape:
                   acquiree: IDeaS
                 - date: '2010-06-23'
                   acquiree: Memex
+                - date: '2010-07-16'
+                  acquiree: Vision Systems & Technology
                 - date: '2011-02-22'
                   acquiree: Assetlink
                 - date: '2012-02-21'
@@ -47227,14 +47234,14 @@ landscape:
             crunchbase_data:
               name: Tenable
               description: Tenable helps organizations to understand and reduce their cybersecurity risk across the full range of modern computing assets.
-              num_employees_min: 501
-              num_employees_max: 1000
+              num_employees_min: 1001
+              num_employees_max: 5000
               homepage: http://www.tenable.com
               city: Columbia
               region: Maryland
               country: United States
               twitter: http://twitter.com/TenableSecurity
-              linkedin: https://www.linkedin.com/company/tenableinc/
+              linkedin: https://www.linkedin.com/company/tenableinc
               acquisitions:
                 - date: '2016-10-26'
                   acquiree: FlawCheck
@@ -49387,7 +49394,6 @@ landscape:
               industries:
                 - Logistics
                 - Mobile Apps
-                - Public Transportation
                 - Ride Sharing
                 - Software
                 - Transportation
@@ -60368,8 +60374,8 @@ landscape:
             crunchbase_data:
               name: Princeton University
               description: Princeton University is a private Ivy League university that offers a variety of master’s degrees and Ph. D.s.
-              num_employees_min: 5001
-              num_employees_max: 10000
+              num_employees_min: 1001
+              num_employees_max: 5000
               homepage: http://www.princeton.edu
               city: Princeton
               region: New Jersey
@@ -60486,8 +60492,8 @@ landscape:
             crunchbase_data:
               name: Government of British Columbia
               description: Government of British Columbia is helping citizens access government services through the internet.
-              num_employees_min: 1001
-              num_employees_max: 5000
+              num_employees_min: 10001
+              num_employees_max: 1000000
               homepage: https://www2.gov.bc.ca/gov/content/home
               city: Victoria
               region: British Columbia
@@ -64310,4 +64316,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-02-12T03:36:15.193Z
+updated_at: 2024-02-13T02:18:31.307Z
