@@ -6216,6 +6216,8 @@ landscape:
                   acquiree: Panthronics
                 - date: '2023-08-09'
                   acquiree: Sequans Communications
+                - date: '2024-02-14'
+                  acquiree: Altium
               parents: []
               ticker: 6723.T
               funding: 0
@@ -9034,7 +9036,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/continuum-analytics
             crunchbase_data:
               name: Anaconda
-              description: Anaconda is a data science platform and the foundation of modern machine learning.
+              description: Anaconda delivers transformative value across the AI stack through a unified portfolio of innovative AI tools and technologies.
               num_employees_min: 101
               num_employees_max: 250
               homepage: https://www.anaconda.com
@@ -9254,7 +9256,7 @@ landscape:
                 - date: '2021-11-09'
                   acquiree: Pileus
               parents: []
-              funding: 64500000
+              funding: 65500000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -17640,6 +17642,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-02-15T00:06:38.000Z
           - item:
+            name: COPILOT TRAVEL Inc
+            homepage_url: https://copilottravel.com/
+            logo: copilot_travel_inc.svg
+            organization:
+              name: COPILOT TRAVEL Inc
+            crunchbase_data:
+              name: COPILOT TRAVEL Inc
+              parents: []
+            image_data:
+              fileName: copilot-travel-inc.svg
+              hash: 0Rni17zNNBDrKEBYXP0ksVyvEtObzHGi07PNJk4eDKU=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: CORE 24/7 LLP
             homepage_url: https://core247.io/
             logo: core_247_llp.svg
@@ -23899,8 +23916,8 @@ landscape:
             crunchbase_data:
               name: Genvid Technologies
               description: Genvid Technologies is a software company that provides interactive livestreaming technologies and services for MILEs.
-              num_employees_min: 51
-              num_employees_max: 100
+              num_employees_min: 101
+              num_employees_max: 250
               homepage: http://www.genvidtech.com
               city: New York
               region: New York
@@ -32813,8 +32830,8 @@ landscape:
             crunchbase_data:
               name: MegazoneCloud
               description: Megazone Cloud is cloud optimization startup with enterprise hosting and ITSM system experience.
-              num_employees_min: 501
-              num_employees_max: 1000
+              num_employees_min: 1001
+              num_employees_max: 5000
               homepage: https://www.megazone.com/us/
               city: Seoul
               region: Seoul-t'ukpyolsi
@@ -32989,24 +33006,21 @@ landscape:
               latest_tweet_date: 2023-04-20T14:41:57.000Z
           - item:
             name: Mercedes-Benz Tech Innovation GmbH
-            homepage_url: https://mercedes-benz.com/
+            homepage_url: https://www.mercedes-benz-techinnovation.com/
             logo: mercedes-benz_tech_innovation_gmbh.svg
-            twitter: https://twitter.com/mercedesbenz_ti
-            crunchbase: https://www.crunchbase.com/organization/mercedes-benz
+            crunchbase: https://www.crunchbase.com/organization/daimler-tss
             crunchbase_data:
-              name: Mercedes Benz
-              description: Mercedes-Benz USA manufactures sedans, coupes, SUVs and wagons, convertibles and roadsters, hybrid and electric cars, and car accessories.
+              name: Mercedes-Benz Tech Innovation
+              description: '100 % Tech Company, 100 % Mercedes-Benz: As a subsidiary, we develop software solutions exclusively for Mercedes-Benz.'
               num_employees_min: 1001
               num_employees_max: 5000
-              homepage: http://www.mercedes-benz.com
-              city: Atlanta
-              region: Georgia
-              country: United States
-              twitter: https://twitter.com/mercedesbenz
-              linkedin: https://www.linkedin.com/company/mercedes-benz-usa/
-              acquisitions:
-                - date: '2016-07-14'
-                  acquiree: FlightCar
+              homepage: https://www.mercedes-benz-techinnovation.com
+              city: Ulm
+              region: Baden-Wurttemberg
+              country: Germany
+              twitter: null
+              linkedin: https://www.linkedin.com/company/mercedes-benz-tech-innovation/
+              acquisitions: []
               parents:
                 - https://www.crunchbase.com/organization/daimler
               ticker: MBG.DE
@@ -33015,10 +33029,10 @@ landscape:
               company_type: For Profit
               industries:
                 - Automotive
-                - Car Sharing
-                - Manufacturing
-                - Product Design
-                - Recreational Vehicles
+                - Information Technology
+                - Sales
+                - Security
+                - Software
             yahoo_finance_data:
               effective_ticker: MBG.DE
             image_data:
@@ -33027,8 +33041,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-06T09:57:15.000Z
           - item:
             name: Merly Inc
             homepage_url: https://merly.ai/
@@ -34136,8 +34148,8 @@ landscape:
             crunchbase_data:
               name: MyFitnessPal
               description: MyFitnessPal is a health smartphone app that tracks nutrition, exercise, and diet.
-              num_employees_min: 11
-              num_employees_max: 50
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: https://www.myfitnesspal.com/
               city: San Francisco
               region: California
@@ -37145,8 +37157,8 @@ landscape:
             crunchbase_data:
               name: Palo Alto Networks
               description: Palo Alto Networks is a cybersecurity company that offers cybersecurity solutions for organizations.
-              num_employees_min: 5001
-              num_employees_max: 10000
+              num_employees_min: 10001
+              num_employees_max: 1000000
               homepage: http://www.paloaltonetworks.com
               city: Santa Clara
               region: California
@@ -41974,7 +41986,7 @@ landscape:
               description: SDAX is a globally connected platform offering private markets investment opportunities.
               num_employees_min: 11
               num_employees_max: 50
-              homepage: https://www.sdax.co/
+              homepage: https://www.sdax.co
               city: Singapore
               region: Central Region
               country: Singapore
@@ -46614,7 +46626,7 @@ landscape:
                 - Software
             image_data:
               fileName: taikun-cloud-a-s.svg
-              hash: tRpTwLspZQJNIaVgd76IuA6pG3CJRU9EPOkMUGg23+o=
+              hash: 834ELGQzfxG/GAJfB5ZvdD75ky+n5L+CVc6Q4eNBpd0=
             best_practice_data:
               badge: false
               percentage: null
@@ -47084,7 +47096,7 @@ landscape:
                   acquiree: Start.Ca
               parents: []
               ticker: TU
-              funding: 2281000000
+              funding: 3618244029
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -64212,4 +64224,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-02-15T03:36:47.872Z
+updated_at: 2024-02-16T02:20:35.355Z
