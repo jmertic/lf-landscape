@@ -3313,7 +3313,7 @@ landscape:
                   acquiree: Fungible
               parents: []
               ticker: MSFT
-              funding: 1000000
+              funding: 26000000
               stockExchange: nasdaq
               company_type: For Profit
               industries:
@@ -8331,41 +8331,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T16:10:01.000Z
           - item:
-            name: Allwinner Technology, Co. Ltd.
-            homepage_url: https://allwinnertech.com/
-            logo: allwinner_technology_co_ltd.svg
-            twitter: https://twitter.com/AllwinnerTech
-            crunchbase: https://www.crunchbase.com/organization/allwinner-technology
-            crunchbase_data:
-              name: Allwinner Technology
-              description: Allwinner Technology is a leading fabless design company dedicated to smart application processor SoCs and smart analog ICs.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: http://www.allwinnertech.com/
-              city: Zhuhai
-              region: Guangdong
-              country: China
-              twitter: https://twitter.com/allwinnertech
-              linkedin: https://www.linkedin.com/company/allwinner-technology/
-              acquisitions: []
-              parents: []
-              ticker: 300458.SZ
-              stockExchange: szse
-              company_type: For Profit
-              industries:
-                - Semiconductor
-                - Software
-            yahoo_finance_data:
-              effective_ticker: 300458.SZ
-            image_data:
-              fileName: allwinner-technology-co-ltd.svg
-              hash: Sn0HDiY8fsyCkMA743QbJKJ+d5tbVBC+pdOQr3ZSU7Q=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2016-07-09T12:55:53.000Z
-          - item:
             name: Alpha Business Solutions Private Limited
             homepage_url: https://alphabsolutions.com/
             logo: alpha_business_solutions_private_limited.svg
@@ -11271,7 +11236,7 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/microsoft
               ticker: MSFT
-              funding: 1000000
+              funding: 26000000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -12035,6 +12000,8 @@ landscape:
                   acquiree: Marshall & Ilsley
                 - date: '2014-01-29'
                   acquiree: F&C Asset Management
+                - date: '2018-10-01'
+                  acquiree: KGS-Alpha Capital Markets
                 - date: '2020-01-22'
                   acquiree: Clearpool Group
                 - date: '2021-12-20'
@@ -33291,73 +33258,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Micro Focus International plc
-            homepage_url: https://microfocus.com/
-            logo: micro_focus_international_plc.svg
-            twitter: https://twitter.com/MicroFocus
-            crunchbase: https://www.crunchbase.com/organization/micro-focus
-            crunchbase_data:
-              name: Micro Focus
-              description: Micro Focus is an enterprise software company.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://www.microfocus.com
-              city: Newbury
-              region: West Berkshire
-              country: United Kingdom
-              twitter: https://twitter.com/microfocus
-              linkedin: https://www.linkedin.com/company/micro-focus
-              acquisitions:
-                - date: '1998-09-25'
-                  acquiree: Intersolv, Inc.
-                - date: '2006-11-06'
-                  acquiree: HAL Knowledge Solutions
-                - date: '2008-05-05'
-                  acquiree: NetManage
-                - date: '2009-05-06'
-                  acquiree: Borland
-                - date: '2013-12-01'
-                  acquiree: AccuRev
-                - date: '2014-09-15'
-                  acquiree: Attachmate
-                - date: '2015-07-22'
-                  acquiree: Authasas
-                - date: '2016-03-22'
-                  acquiree: Serena Software
-                - date: '2016-09-08'
-                  acquiree: Hewlett Packard Enterprise Software
-                - date: '2016-10-04'
-                  acquiree: GWAVA
-                - date: '2017-12-19'
-                  acquiree: COBOL-IT
-                - date: '2018-09-01'
-                  acquiree: Covertix
-                - date: '2019-02-15'
-                  acquiree: Interset
-                - date: '2020-07-13'
-                  acquiree: ATAR Labs
-              parents: []
-              ticker: MCRO.L
-              stockExchange: lse
-              company_type: For Profit
-              industries:
-                - Data Center
-                - Data Management
-                - Enterprise Software
-                - Information Technology
-                - Security
-                - Software
-            yahoo_finance_data:
-              effective_ticker: MCRO.L
-            image_data:
-              fileName: micro-focus-international-plc.svg
-              hash: TNZ1KU3ar+tECJsxMhhND1TyHsgXbgyBmpynHlRDxiE=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-21T08:32:01.000Z
-          - item:
             name: Microchip Technology Inc.
             homepage_url: https://microchip.com/
             logo: microchip_technology_inc.svg
@@ -35465,7 +35365,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/nodeshiftcloud/
               acquisitions: []
               parents: []
-              funding: 0
+              funding: 3200000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -35473,6 +35373,7 @@ landscape:
                 - Information Technology
                 - Internet
                 - Web3
+              kind: funding
             image_data:
               fileName: node-shift.svg
               hash: mMoedlDdnyB97byNCHMu4JGYFSmme9/G/9yHqet7rq0=
@@ -36800,15 +36701,15 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/orkes
             crunchbase_data:
               name: Orkes
-              description: Orkes is a cloud hosted, fully managed version of Netflix Conductor
+              description: Orkes is a microservices and workflow orchestration platform.
               num_employees_min: 11
               num_employees_max: 50
-              homepage: https://orkes.io/
+              homepage: https://orkes.io
               city: Cupertino
               region: California
               country: United States
               twitter: https://twitter.com/orkesio
-              linkedin: https://www.linkedin.com/company/orkes-inc/
+              linkedin: https://www.linkedin.com/company/orkes-inc
               acquisitions: []
               parents: []
               funding: 29300000
@@ -46128,7 +46029,7 @@ landscape:
               acquisitions: []
               parents: []
               ticker: SYM
-              funding: 405000000
+              funding: 810000000
               stockExchange: nasdaq
               company_type: For Profit
               industries:
@@ -57128,7 +57029,7 @@ landscape:
                   acquiree: Fungible
               parents: []
               ticker: MSFT
-              funding: 1000000
+              funding: 26000000
               stockExchange: nasdaq
               company_type: For Profit
               industries:
@@ -64309,4 +64210,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-02-22T03:40:51.160Z
+updated_at: 2024-02-23T02:22:39.323Z
