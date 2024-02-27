@@ -40,7 +40,7 @@ landscape:
                 - name: Python
                   value: 1471
                   color: '#3572A5'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;2;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;5;1;0;0;0;1;1;0;0;0;0;0;1;0;0;0;2;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;2;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;4;2;0;0;0;0;1;1;0;0;0;0;0;1;0;0;2;0;0
               firstWeek: 2023-03-05Z
               stars: 12
               license: Creative Commons Attribution 4.0 International
@@ -170,7 +170,7 @@ landscape:
                 - Open Source
             github_data:
               languages: []
-              contributions: 0;8;0;0;1;2;0;0;0;0;0;2;0;0;1;0;0;1;2;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;6;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;2
+              contributions: 0;8;0;0;3;0;0;0;0;0;0;2;0;0;1;0;1;0;2;0;2;1;0;0;0;0;0;0;0;0;0;0;0;0;5;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;2
               firstWeek: 2023-03-05Z
               stars: 28
               license: Apache License 2.0
@@ -226,7 +226,7 @@ landscape:
             github_data:
               languages:
                 - name: C++
-                  value: 47496876
+                  value: 47497868
                   color: '#f34b7d'
                 - name: Python
                   value: 10686744
@@ -299,18 +299,18 @@ landscape:
                 - name: SWIG
                   value: 951
               contributions: >-
-                140;158;122;114;155;145;85;81;93;102;117;150;168;108;123;128;110;95;91;134;97;135;142;124;123;133;101;123;135;182;160;145;140;136;79;180;165;164;115;125;97;124;83;38;70;85;113;110;112;85;94;70
+                125;169;101;124;154;139;83;84;93;111;115;178;130;124;111;125;115;94;91;137;106;125;147;118;131;133;82;150;122;186;164;153;117;136;90;197;137;167;123;112;111;110;74;42;80;79;114;130;100;99;83;60
               firstWeek: 2023-03-05Z
-              stars: 12973
+              stars: 12976
               license: Other
               description: 'Ceph is a distributed object, block, and file storage platform '
-              latest_commit_date: '2024-02-23T22:47:42Z'
-              latest_commit_link: /ceph/ceph/commit/fa5ef874acc11118181856bee21976f870b523c7
+              latest_commit_date: '2024-02-26T23:26:00Z'
+              latest_commit_link: /ceph/ceph/commit/66b21ca59eefd9fb59ff3b6f109fcd01e9e6c371
               contributors_count: 1852
               contributors_link: https://github.com/ceph/ceph/graphs/contributors
             repos:
               - url: https://github.com/ceph/ceph
-                stars: 12973
+                stars: 12976
             github_start_commit_data:
               start_commit_link: /ceph/ceph/commit/7091d44931086985a26cca2d263e307ad2f82001
               start_date: '2001-04-28T22:22:35Z'
@@ -426,7 +426,7 @@ landscape:
                   value: 8248
                   color: '#89e051'
               contributions: >-
-                42;35;27;28;43;31;28;54;24;6;67;37;70;23;65;36;40;28;20;59;35;36;36;27;44;39;42;55;55;30;17;28;77;34;39;35;59;38;49;29;63;32;29;10;33;39;44;44;31;48;36;19
+                45;27;30;37;35;27;45;40;21;13;67;37;65;33;54;35;43;28;21;59;39;34;30;30;44;45;33;56;60;26;23;23;74;39;42;29;63;35;61;19;64;35;19;11;34;45;49;37;27;49;41;11
               firstWeek: 2023-03-05Z
               stars: 284
               license: Apache License 2.0
@@ -584,9 +584,9 @@ landscape:
                   value: 219
                   color: '#701516'
               contributions: >-
-                38;68;71;49;20;41;51;45;50;16;21;83;109;67;141;129;66;62;62;40;34;15;24;71;35;50;17;60;61;91;85;45;75;90;200;99;71;48;32;24;89;69;19;3;30;17;53;49;38;40;26;8
+                45;73;69;46;15;53;40;56;36;22;17;97;97;76;142;118;68;72;53;35;36;21;16;79;31;47;20;58;63;92;87;59;67;85;198;98;78;45;27;31;108;41;16;3;34;21;47;49;39;39;28;4
               firstWeek: 2023-03-05Z
-              stars: 2941
+              stars: 2946
               license: Unknown License
               description: Data Plane Development Kit
               latest_commit_date: '2024-02-22T07:10:35Z'
@@ -595,7 +595,7 @@ landscape:
               contributors_link: https://github.com/DPDK/dpdk/graphs/contributors
             repos:
               - url: https://github.com/DPDK/dpdk
-                stars: 2941
+                stars: 2946
             github_start_commit_data:
               start_commit_link: /DPDK/dpdk/commit/0c9a540ed217764aefc5cb645f3cafd4f9e79765
               start_date: '2013-03-01T14:33:00Z'
@@ -1018,7 +1018,7 @@ landscape:
                 - name: Shell
                   value: 1027
                   color: '#89e051'
-              contributions: 5;0;0;2;0;0;1;0;0;1;0;0;1;2;0;0;0;0;1;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;3;1;0;0;0;8;4;1;0;0;0;0;0;0;0;0;9;1
+              contributions: 5;0;0;2;0;0;1;0;0;1;0;0;1;2;0;0;0;1;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;3;0;0;0;0;8;5;0;0;0;0;0;0;0;0;9;0;1
               firstWeek: 2023-03-05Z
               stars: 38
               license: Creative Commons Attribution 4.0 International
@@ -1164,20 +1164,20 @@ landscape:
                 - name: HTML
                   value: 671
                   color: '#e34c26'
-              contributions: 3;1;2;1;1;0;1;2;1;0;2;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;3;0;2;2;1;8;3;2;2;2;3;0;0;3;6;6;2;17;8;7;5
+              contributions: 4;0;2;1;1;0;1;2;1;0;2;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;3;0;4;0;3;6;4;1;2;2;3;0;0;3;6;6;3;16;9;8;5
               firstWeek: 2023-03-05Z
-              stars: 27916
+              stars: 27919
               license: Apache License 2.0
               description: The OpenAPI Specification Repository
-              latest_commit_date: '2024-02-22T17:40:25Z'
-              latest_commit_link: /OAI/OpenAPI-Specification/commit/bd2fb876109c7e2c8cf9fa943746b2c77a9fe6f1
+              latest_commit_date: '2024-02-26T21:12:32Z'
+              latest_commit_link: /OAI/OpenAPI-Specification/commit/6f386968654fd483720aba0177e618e87a5d612d
               release_date: '2021-02-16T19:33:45Z'
               release_link: https://github.com/OAI/OpenAPI-Specification/releases
               contributors_count: 226
               contributors_link: https://github.com/OAI/OpenAPI-Specification/graphs/contributors
             repos:
               - url: https://github.com/OAI/OpenAPI-Specification
-                stars: 27916
+                stars: 27919
             github_start_commit_data:
               start_commit_link: /OAI/OpenAPI-Specification/commit/58b6b48d26031158146cbc4603806401744b0238
               start_date: '2014-03-03T16:54:09Z'
@@ -1231,7 +1231,7 @@ landscape:
                   value: 1766148
                   color: '#f34b7d'
                 - name: Shell
-                  value: 635603
+                  value: 635620
                   color: '#89e051'
                 - name: Python
                   value: 626273
@@ -1271,20 +1271,20 @@ landscape:
                 - name: Forth
                   value: 114
                   color: '#341708'
-              contributions: 13;0;18;14;24;1;0;79;6;12;2;3;1;1;1;2;5;6;5;14;5;5;5;5;7;6;0;47;3;7;7;5;1;3;2;1;1;0;0;0;0;3;0;0;0;0;0;0;0;0;0;38
+              contributions: 10;2;18;14;22;1;2;81;4;11;3;1;1;1;1;2;5;6;10;9;7;3;5;5;12;1;0;49;1;8;6;5;3;1;3;1;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;48
               firstWeek: 2023-03-05Z
-              stars: 805
+              stars: 806
               license: Apache License 2.0
               description: OpenHPC Integration, Packaging, and Test Repo
-              latest_commit_date: '2024-02-25T18:14:56Z'
-              latest_commit_link: /openhpc/ohpc/commit/6da5dcb2f9162f505c3e249043d8105b4c6d6a29
+              latest_commit_date: '2024-02-26T20:26:53Z'
+              latest_commit_link: /openhpc/ohpc/commit/a15ee0efcd331cbd37afa5971ada0d2b28411ee5
               release_date: '2023-11-09T15:27:50Z'
               release_link: https://github.com/openhpc/ohpc/releases
               contributors_count: 74
               contributors_link: https://github.com/openhpc/ohpc/graphs/contributors
             repos:
               - url: https://github.com/openhpc/ohpc
-                stars: 805
+                stars: 806
             github_start_commit_data:
               start_commit_link: /openhpc/ohpc/commit/71a85044aaa0177fba0ba780dbfa7ea2b47b096c
               start_date: '2014-11-07T23:48:17Z'
@@ -1800,9 +1800,9 @@ landscape:
                 - name: C++
                   value: 46728
                   color: '#f34b7d'
-              contributions: 0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;3;0;0;4;0;1;3;0;1;0;0;0;0;0;0;0;0;0;0;0;3;0;0;1
+              contributions: 0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;3;0;0;4;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;1
               firstWeek: 2023-03-05Z
-              stars: 9741
+              stars: 9740
               license: BSD 3-Clause "New" or "Revised" License
               description: >-
                 Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented
@@ -1815,7 +1815,7 @@ landscape:
               contributors_link: https://github.com/TarsCloud/Tars/graphs/contributors
             repos:
               - url: https://github.com/TarsCloud/Tars
-                stars: 9741
+                stars: 9740
             github_start_commit_data:
               start_commit_link: /TarsCloud/Tars/commit/2101e43d79d5b6817c2ba2d5e43293ae1e3e9f6e
               start_date: '2017-01-18T08:19:06Z'
@@ -1857,7 +1857,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 56517128
+                  value: 56662407
                   color: '#b07219'
                 - name: C++
                   value: 1131714
@@ -1880,7 +1880,7 @@ landscape:
                   value: 33088
                   color: '#e34c26'
                 - name: ANTLR
-                  value: 31704
+                  value: 32733
                   color: '#9DC3FF'
                 - name: CSS
                   value: 28971
@@ -1904,18 +1904,18 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                22;26;27;34;28;23;42;32;26;49;37;35;27;26;48;24;29;33;29;43;39;35;43;32;31;39;44;35;39;28;34;33;44;27;37;33;25;33;15;22;22;25;26;13;15;25;27;41;29;15;26;16
+                18;26;28;32;34;20;40;37;23;46;45;29;24;31;44;24;38;24;37;40;40;36;42;34;28;45;41;36;41;25;34;32;49;24;37;35;23;32;14;26;20;24;25;11;15;28;34;38;24;14;27;16
               firstWeek: 2023-03-05Z
-              stars: 15440
+              stars: 15445
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2024-02-24T07:06:37Z'
-              latest_commit_link: /prestodb/presto/commit/dccb5a437f82958aeb314abaab3b654f575a14a2
+              latest_commit_date: '2024-02-27T00:05:12Z'
+              latest_commit_link: /prestodb/presto/commit/269727183dd58f55e5c3041c92e1544dcf17ea8a
               contributors_count: 856
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 15440
+                stars: 15445
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -2112,18 +2112,18 @@ landscape:
             github_data:
               languages:
                 - name: C
-                  value: 66104613
+                  value: 66238268
                   color: '#555555'
                 - name: Python
-                  value: 3307178
+                  value: 3307204
                   color: '#3572A5'
                 - name: CMake
-                  value: 2022553
+                  value: 2023635
                 - name: Assembly
                   value: 485619
                   color: '#6E4C13'
                 - name: Shell
-                  value: 457781
+                  value: 464171
                   color: '#89e051'
                 - name: Perl
                   value: 216445
@@ -2172,20 +2172,20 @@ landscape:
                   value: 110
                   color: '#C1F12E'
               contributions: >-
-                279;337;324;325;266;313;262;265;271;236;281;304;287;292;310;236;311;233;293;250;381;246;295;270;233;281;326;337;325;337;457;339;361;289;301;300;324;404;357;369;341;243;245;105;224;269;309;252;211;110;109;40
+                300;314;340;311;262;304;267;287;244;256;268;317;258;335;282;262;293;225;290;282;344;246;310;252;242;295;309;362;333;349;438;358;339;293;307;295;331;401;345;381;345;227;215;112;260;283;306;271;214;147;121;44
               firstWeek: 2023-03-05Z
-              stars: 9251
+              stars: 9257
               license: Apache License 2.0
               description: Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
-              latest_commit_date: '2024-02-26T01:56:40Z'
-              latest_commit_link: /zephyrproject-rtos/zephyr/commit/074152a03db97238a8abf42c2e425a5da71abb2d
+              latest_commit_date: '2024-02-26T20:39:30Z'
+              latest_commit_link: /zephyrproject-rtos/zephyr/commit/f0b975032a68c2da38c34f01b836edb5e9e62b12
               release_date: '2024-02-24T04:23:14Z'
               release_link: https://github.com/zephyrproject-rtos/zephyr/releases
-              contributors_count: 2401
+              contributors_count: 2408
               contributors_link: https://github.com/zephyrproject-rtos/zephyr/graphs/contributors
             repos:
               - url: https://github.com/zephyrproject-rtos/zephyr
-                stars: 9251
+                stars: 9257
             github_start_commit_data:
               start_commit_link: /zephyrproject-rtos/zephyr/commit/8ddf82cf70dc6f951ab477f325dee0efde3ec589
               start_date: '2015-04-10T23:44:37Z'
@@ -2207,7 +2207,6 @@ landscape:
             name: Ericsson
             homepage_url: https://ericsson.com/
             logo: ericsson.svg
-            twitter: https://twitter.com/ericsson
             crunchbase: https://www.crunchbase.com/organization/ericsson
             joined: '2018-12-01'
             crunchbase_data:
@@ -2328,7 +2327,6 @@ landscape:
             homepage_url: https://fujitsu.com/
             stock_ticker: null
             logo: fujitsu_limited.svg
-            twitter: https://twitter.com/Fujitsu_Global
             crunchbase: https://www.crunchbase.com/organization/fujitsu
             joined: '2016-01-01'
             crunchbase_data:
@@ -2482,7 +2480,6 @@ landscape:
             name: Huawei Technologies Co., Ltd
             homepage_url: https://huawei.com/
             logo: huawei_technologies_co_ltd.svg
-            twitter: https://twitter.com/Huawei
             crunchbase: https://www.crunchbase.com/organization/huawei
             crunchbase_data:
               name: Huawei Technologies
@@ -2535,7 +2532,6 @@ landscape:
             name: Intel Corporation
             homepage_url: https://intel.com/
             logo: intel_corporation.svg
-            twitter: https://twitter.com/intel
             crunchbase: https://www.crunchbase.com/organization/intel
             crunchbase_data:
               name: Intel
@@ -2792,7 +2788,6 @@ landscape:
             name: Microsoft Corporation
             homepage_url: https://microsoft.com/
             logo: microsoft_corporation.svg
-            twitter: https://twitter.com/Microsoft
             crunchbase: https://www.crunchbase.com/organization/microsoft
             crunchbase_data:
               name: Microsoft
@@ -5447,7 +5442,6 @@ landscape:
             name: Dell Technologies
             homepage_url: https://delltechnologies.com/
             logo: dell_technologies.svg
-            twitter: https://twitter.com/Dell
             crunchbase: https://www.crunchbase.com/organization/dell
             joined: '2017-01-01'
             crunchbase_data:
@@ -6704,7 +6698,6 @@ landscape:
             name: A10 Networks
             homepage_url: https://a10networks.com/
             logo: a10_networks.svg
-            twitter: https://twitter.com/A10Networks
             crunchbase: https://www.crunchbase.com/organization/a10-networks
             crunchbase_data:
               name: A10 Networks
@@ -6746,7 +6739,6 @@ landscape:
             name: Aarna Networks
             homepage_url: https://aarnanetworks.com/
             logo: aarna_networks.svg
-            twitter: https://twitter.com/aarnanetworks
             crunchbase: https://www.crunchbase.com/organization/aarna-networks
             crunchbase_data:
               name: Aarna Networks
@@ -9876,7 +9868,6 @@ landscape:
             name: Arista Networks, Inc.
             homepage_url: https://arista.com/
             logo: arista_networks_inc.svg
-            twitter: https://twitter.com/AristaNetworks
             crunchbase: https://www.crunchbase.com/organization/arista-networks
             crunchbase_data:
               name: Arista Networks
@@ -12986,7 +12977,6 @@ landscape:
             name: Block, Inc.
             homepage_url: https://block.xyz/
             logo: block_inc.svg
-            twitter: https://twitter.com/blocks
             crunchbase: https://www.crunchbase.com/organization/square
             crunchbase_data:
               name: Block, Inc.
@@ -14266,7 +14256,6 @@ landscape:
             name: Canonical Group Limited
             homepage_url: https://canonical.com/
             logo: canonical_group_limited.svg
-            twitter: https://twitter.com/Canonical
             crunchbase: https://www.crunchbase.com/organization/canonical-ltd
             joined: '2017-01-01'
             crunchbase_data:
@@ -15195,7 +15184,6 @@ landscape:
             homepage_url: https://chinatelecom.cn/
             stock_ticker: null
             logo: china_telecommunications_corporation.svg
-            twitter: https://twitter.com/chinateleglobal
             crunchbase: https://www.crunchbase.com/organization/china-telecom-corporation
             crunchbase_data:
               name: China Telecom
@@ -16655,7 +16643,6 @@ landscape:
             name: CloudOps Inc.
             homepage_url: https://cloudops.com/
             logo: cloudops_inc.svg
-            twitter: https://twitter.com/CloudOps_
             crunchbase: https://www.crunchbase.com/organization/cloudops
             joined: '2018-03-01'
             crunchbase_data:
@@ -17767,7 +17754,6 @@ landscape:
             name: Control-Plane.io
             homepage_url: https://control-plane.io/
             logo: control-planeio.svg
-            twitter: https://twitter.com/controlplaneio
             crunchbase: https://www.crunchbase.com/organization/controlplane
             joined: '2019-02-01'
             crunchbase_data:
@@ -19526,7 +19512,6 @@ landscape:
             name: Defense Unicorns
             homepage_url: https://defenseunicorns.com/
             logo: defense_unicorns.svg
-            twitter: https://twitter.com/DefenseUnicorns
             crunchbase: https://www.crunchbase.com/organization/defense-unicorns
             joined: '2023-01-01'
             crunchbase_data:
@@ -20122,7 +20107,6 @@ landscape:
             name: Deutsche Telekom AG
             homepage_url: https://telekom.com/
             logo: deutsche_telekom_ag.svg
-            twitter: https://twitter.com/deutschetelekom
             crunchbase: https://www.crunchbase.com/organization/deutsche-telekom
             crunchbase_data:
               name: Deutsche Telekom
@@ -29277,7 +29261,6 @@ landscape:
             name: Juniper Networks, Inc.
             homepage_url: https://juniper.net/
             logo: juniper_networks_inc.svg
-            twitter: https://twitter.com/JuniperNetworks
             crunchbase: https://www.crunchbase.com/organization/juniper-networks
             joined: '2020-08-01'
             crunchbase_data:
@@ -32965,7 +32948,6 @@ landscape:
             name: MATRIXX Software
             homepage_url: https://matrixx.com/
             logo: matrixx_software.svg
-            twitter: https://twitter.com/MATRIXX_SW
             crunchbase: https://www.crunchbase.com/organization/matrixx-software
             joined: '2022-05-01'
             crunchbase_data:
@@ -34132,7 +34114,6 @@ landscape:
             name: Mirantis, Inc.
             homepage_url: https://mirantis.com/
             logo: mirantis_inc.svg
-            twitter: https://twitter.com/MirantisIT
             crunchbase: https://www.crunchbase.com/organization/mirantis
             joined: '2016-08-01'
             crunchbase_data:
@@ -35930,7 +35911,6 @@ landscape:
             homepage_url: https://nokia.com/
             stock_ticker: NOK
             logo: nokia_corporation.svg
-            twitter: https://twitter.com/nokia
             crunchbase: https://www.crunchbase.com/organization/nokia
             joined: '2018-03-12'
             crunchbase_data:
@@ -37131,7 +37111,6 @@ landscape:
             name: Orange SA
             homepage_url: https://orange.com/
             logo: orange_sa.svg
-            twitter: https://twitter.com/orange
             crunchbase: https://www.crunchbase.com/organization/orange
             crunchbase_data:
               name: Orange
@@ -37807,7 +37786,6 @@ landscape:
             name: Paramount Software Solutions Inc.
             homepage_url: https://paramountsoft.net/
             logo: paramount_software_solutions_inc.svg
-            twitter: https://twitter.com/Paramount_GA
             crunchbase: https://www.crunchbase.com/organization/paramount-software-solutions-inc
             crunchbase_data:
               name: Paramount Software Solutions, Inc
@@ -41102,7 +41080,6 @@ landscape:
             name: Robin Systems, Inc
             homepage_url: https://robin.io/
             logo: robin_systems_inc.svg
-            twitter: https://twitter.com/Robin4K8S
             crunchbase: https://www.crunchbase.com/organization/robin-systems
             joined: '2018-08-01'
             crunchbase_data:
@@ -44372,7 +44349,6 @@ landscape:
             name: Snyk Limited
             homepage_url: https://snyk.io/
             logo: snyk_limited.svg
-            twitter: https://twitter.com/snyksec
             crunchbase: https://www.crunchbase.com/organization/snyk
             joined: '2019-08-01'
             crunchbase_data:
@@ -45527,7 +45503,6 @@ landscape:
             homepage_url: https://sprint.com/
             stock_ticker: null
             logo: sprint_corporation.svg
-            twitter: https://twitter.com/TMobile
             crunchbase: https://www.crunchbase.com/organization/t-mobile
             crunchbase_data:
               name: T-Mobile
@@ -47467,7 +47442,6 @@ landscape:
             name: Tata Communications Limited
             homepage_url: https://tatacommunications.com/
             logo: tata_communications_limited.svg
-            twitter: https://twitter.com/tata_comm
             crunchbase: https://www.crunchbase.com/organization/tata-communications
             crunchbase_data:
               name: Tata Communications
@@ -52176,7 +52150,6 @@ landscape:
             name: Wind River Systems, Inc.
             homepage_url: https://windriver.com/
             logo: wind_river_systems_inc.svg
-            twitter: https://twitter.com/WindRiver
             crunchbase: https://www.crunchbase.com/organization/wind-river
             crunchbase_data:
               name: Wind River
@@ -53202,7 +53175,6 @@ landscape:
             name: ZTE Corporation
             homepage_url: https://zte.com.cn/
             logo: zte_corporation.svg
-            twitter: https://twitter.com/ZTEPress
             crunchbase: https://www.crunchbase.com/organization/zte-corporation
             crunchbase_data:
               name: ZTE
@@ -55452,7 +55424,6 @@ landscape:
             name: CPQD
             homepage_url: https://cpqd.com.br/
             logo: cpqd.svg
-            twitter: https://twitter.com/cpqd
             crunchbase: https://www.crunchbase.com/organization/cpqd
             crunchbase_data:
               name: CPQD
@@ -60489,7 +60460,6 @@ landscape:
             name: Open Networking Foundation
             homepage_url: https://opennetworking.org/
             logo: open_networking_foundation.svg
-            twitter: https://twitter.com/ONF_SDN
             crunchbase: https://www.crunchbase.com/organization/open-networking-foundation
             crunchbase_data:
               name: Open Networking Foundation
@@ -61025,7 +60995,6 @@ landscape:
             name: Penn State
             homepage_url: https://psu.edu/
             logo: penn_state.svg
-            twitter: https://twitter.com/penn_state
             crunchbase: https://www.crunchbase.com/organization/pennsylvania-state-university-main-campus
             crunchbase_data:
               name: Penn State University
@@ -61754,7 +61723,6 @@ landscape:
             name: Rust Foundation
             homepage_url: https://rustfoundation.org/
             logo: rust_foundation.svg
-            twitter: https://twitter.com/rustlang
             crunchbase: https://www.crunchbase.com/organization/rust
             crunchbase_data:
               name: Rust
@@ -63172,7 +63140,6 @@ landscape:
             name: Trinity College Dublin
             homepage_url: https://tcd.ie/
             logo: trinity_college_dublin.svg
-            twitter: https://twitter.com/tcddublin
             crunchbase: https://www.crunchbase.com/organization/trinity-college-dublin
             crunchbase_data:
               name: Trinity College, Dublin
@@ -63940,7 +63907,6 @@ landscape:
             name: University of New Hampshire
             homepage_url: https://unh.edu/
             logo: university_of_new_hampshire.svg
-            twitter: https://twitter.com/UofNH
             crunchbase: https://www.crunchbase.com/organization/university-of-new-hampshire
             crunchbase_data:
               name: University of New Hampshire
@@ -64200,7 +64166,6 @@ landscape:
             name: University of Surrey
             homepage_url: https://surrey.ac.uk/
             logo: university_of_surrey.svg
-            twitter: https://twitter.com/UniOfSurrey
             crunchbase: https://www.crunchbase.com/organization/university-of-surrey
             crunchbase_data:
               name: University of Surrey
@@ -65112,4 +65077,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-02-27T02:23:18.910Z
+updated_at: 2024-02-27T03:43:59.134Z
