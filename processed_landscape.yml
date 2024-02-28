@@ -3958,7 +3958,7 @@ landscape:
               effective_ticker: IBM
             image_data:
               fileName: red-hat-inc.svg
-              hash: YgiVPws6NHW8nPRghq7ooqbMAwREbnKytDEM6TKgVZE=
+              hash: lfMRK7hbdSTLsCBR8EEZqpkrpodll4voFn6SQz0DIsY=
             best_practice_data:
               badge: false
               percentage: null
@@ -12681,6 +12681,7 @@ landscape:
             name: Bell Canada
             homepage_url: https://bell.net/
             logo: bell_canada.svg
+            twitter: https://twitter.com/Bell
             crunchbase: https://www.crunchbase.com/organization/bell-net
             crunchbase_data:
               name: Bell Net
@@ -15049,37 +15050,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Chengdu Yuan Lai Yun Zhi Technologies Inc.
-            homepage_url: https://miaoyun.net.cn/
-            logo: chengdu_yuan_lai_yun_zhi_technologies_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/miaoyun
-            crunchbase_data:
-              name: MiaoYun
-              description: MiaoYun provides enterprise-ready container management and AIOps platform
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: http://miaoyun.io
-              city: Chengdu
-              region: Sichuan
-              country: China
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-                - Information Services
-                - Information Technology
-                - Software
-            image_data:
-              fileName: chengdu-yuan-lai-yun-zhi-technologies-inc.svg
-              hash: y6oUMYzym2qaZC7laZSip3NYDiGp7mKq3cGbox+EpFA=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: China Mobile Communication Company Ltd
             homepage_url: https://chinamobileltd.com/
             logo: china_mobile_communication_company_ltd.svg
@@ -16869,7 +16839,7 @@ landscape:
             joined: '2017-10-01'
             crunchbase_data:
               name: Codefresh
-              description: The World's Most Powerful CI/CD Platform
+              description: Codefresh is a trusted platform for cloud-native apps.
               num_employees_min: 51
               num_employees_max: 100
               homepage: https://www.codefresh.io/
@@ -20268,6 +20238,7 @@ landscape:
             name: Dhiway Networks Private Limited
             homepage_url: https://dhiway.com/
             logo: dhiway_networks_private_limited.svg
+            twitter: https://twitter.com/dhiwaynetworks
             crunchbase: https://www.crunchbase.com/organization/dhiway
             crunchbase_data:
               name: dhiway
@@ -21609,6 +21580,7 @@ landscape:
             name: Electricity Maps
             homepage_url: https://electricitymap.org/
             logo: electricity_maps.svg
+            twitter: https://twitter.com/ElectricityMaps
             crunchbase: https://www.crunchbase.com/organization/electricitymap
             crunchbase_data:
               name: Electricity Maps
@@ -23401,6 +23373,7 @@ landscape:
             name: Firecell
             homepage_url: https://firecell.io/
             logo: firecell.svg
+            twitter: https://twitter.com/firecellP5G
             organization:
               name: Firecell
             crunchbase_data:
@@ -29046,8 +29019,8 @@ landscape:
             crunchbase_data:
               name: JFrog
               description: JFrog provides software developers with a binary repository management solution.
-              num_employees_min: 501
-              num_employees_max: 1000
+              num_employees_min: 1001
+              num_employees_max: 5000
               homepage: http://www.jfrog.com
               city: Sunnyvale
               region: California
@@ -32689,9 +32662,9 @@ landscape:
             twitter_data:
               latest_tweet_date: 2017-10-13T11:35:03.000Z
           - item:
-            name: Man Technology
+            name: Mantech Solution
             homepage_url: https://mantech.co.kr/
-            logo: man_technology.svg
+            logo: mantech_solution.svg
             crunchbase: https://www.crunchbase.com/organization/man-technology
             crunchbase_data:
               name: Man Technology
@@ -32713,7 +32686,7 @@ landscape:
                 - Information Technology
                 - PaaS
             image_data:
-              fileName: man-technology.svg
+              fileName: mantech-solution.svg
               hash: wuTgbT3ZLOYUg5hl+JDDnTNzXekwges8L+yCtOYsvd8=
             best_practice_data:
               badge: false
@@ -33689,6 +33662,7 @@ landscape:
             name: Micro Focus International plc
             homepage_url: https://microfocus.com/
             logo: micro_focus_international_plc.svg
+            twitter: https://twitter.com/MicroFocus
             crunchbase: https://www.crunchbase.com/organization/micro-focus
             crunchbase_data:
               name: Micro Focus
@@ -35387,8 +35361,8 @@ landscape:
             crunchbase_data:
               name: Nethopper.io
               description: Nethopper.io offers an enterprise, cloud-native DevOps PaaS for modern applications works with all clouds and Kubernetes (includes IaC)
-              num_employees_min: 1
-              num_employees_max: 10
+              num_employees_min: 11
+              num_employees_max: 50
               homepage: https://www.nethopper.io
               city: Boston
               region: Massachusetts
@@ -36538,6 +36512,8 @@ landscape:
               acquisitions:
                 - date: '2022-01-31'
                   acquiree: Dist
+                - date: '2024-02-26'
+                  acquiree: Codefresh
               parents: []
               funding: 172500000
               stockExchange: null
@@ -36708,44 +36684,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: Ondat
-            homepage_url: https://ondat.io/
-            logo: ondat.svg
-            crunchbase: https://www.crunchbase.com/organization/storageos
-            joined: '2016-05-01'
-            crunchbase_data:
-              name: Ondat
-              description: Ondat supports your freedom with industry-leading levels of data performance, resilience, security, and scale.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.ondat.io/
-              city: London
-              region: England
-              country: United Kingdom
-              twitter: https://twitter.com/ondat_io
-              linkedin: https://www.linkedin.com/company/ondat
-              acquisitions: []
-              parents: []
-              funding: 20000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-                - Cloud Storage
-                - Data Storage
-                - Database
-                - Enterprise Software
-                - Software
-              kind: funding
-            image_data:
-              fileName: ondat.svg
-              hash: efTmkYzr/4TQ+VQXfk8/Xz2sD0whueyPcgPEeMqTM8w=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-03-02T13:42:27.000Z
           - item:
             name: OnGres
             homepage_url: https://ongres.com/
@@ -37831,6 +37769,7 @@ landscape:
             name: PayPal Holdings, Inc.
             homepage_url: https://paypal.com/
             logo: paypal_holdings_inc.svg
+            twitter: https://twitter.com/PayPal
             crunchbase: https://www.crunchbase.com/organization/paypal
             crunchbase_data:
               name: PayPal
@@ -40281,40 +40220,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T11:15:05.000Z
           - item:
-            name: Randoli
-            homepage_url: https://randoli.ca/
-            logo: randoli.svg
-            twitter: https://twitter.com/randoli_ca
-            crunchbase: https://www.crunchbase.com/organization/randoli
-            joined: '2022-12-01'
-            crunchbase_data:
-              name: Randoli
-              description: Randoli is a cloud-native products and services company that helps customers simplify application development and deployment on Kubernetes
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://randoli.io
-              city: Toronto
-              region: Ontario
-              country: Canada
-              twitter: https://www.twitter.com/randoli_inc
-              linkedin: https://www.linkedin.com/company/randoli
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Apps
-                - Information Technology
-                - Software
-            image_data:
-              fileName: randoli.svg
-              hash: lhfeo2mN2iR/3qkQtL5fWpNg8JQHSrT14WIhhC2HsEM=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-12-16T14:14:00.000Z
-          - item:
             name: RapidAPI
             homepage_url: https://rapidapi.com/
             logo: rapidapi.svg
@@ -41923,7 +41828,6 @@ landscape:
             name: SAP
             homepage_url: https://sap.com/
             logo: sap.svg
-            twitter: https://twitter.com/sapopensource
             crunchbase: https://www.crunchbase.com/organization/sap
             joined: '2017-10-01'
             crunchbase_data:
@@ -43946,6 +43850,7 @@ landscape:
             name: SIMBA Chain
             homepage_url: https://simbachain.com/
             logo: simba_chain.svg
+            twitter: https://twitter.com/SIMBAchain
             crunchbase: https://www.crunchbase.com/organization/simba-chain
             crunchbase_data:
               name: SIMBA Chain
@@ -45183,45 +45088,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T17:29:25.000Z
-          - item:
-            name: SphereEx
-            homepage_url: https://sphere-ex.com/
-            logo: sphereex.svg
-            crunchbase: https://www.crunchbase.com/organization/sphereex
-            crunchbase_data:
-              name: SphereEx
-              description: SphereEx is a database software provider that builds distributed data infrastructures with the help of cloud and big data technologies.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: http://sphere-ex.com
-              city: Beijing
-              region: Beijing
-              country: China
-              twitter: https://twitter.com/Sphere_Ex
-              linkedin: https://www.linkedin.com/company/sphere-ex
-              acquisitions: []
-              parents: []
-              funding: 10000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Analytics
-                - Cloud Computing
-                - Cloud Data Services
-                - Cloud Infrastructure
-                - Cloud Management
-                - Cloud Storage
-                - Database
-                - PaaS
-                - SaaS
-                - Software
-              kind: funding
-            image_data:
-              fileName: sphere-ex.svg
-              hash: q3CVtqTiknWVs8dkjimy0PgQqD1d1xzSIOc0mGTf/I0=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: Spirent Communications Inc
             homepage_url: https://spirent.com/
@@ -52525,6 +52391,7 @@ landscape:
             name: Xcalibyte
             homepage_url: https://xcalibyte.com/
             logo: xcalibyte.svg
+            twitter: https://twitter.com/xcalibyte_hk
             organization:
               name: Xcalibyte
             crunchbase_data:
@@ -52540,6 +52407,7 @@ landscape:
             name: Xevo Inc.
             homepage_url: https://xevo.com/
             logo: xevo_inc.svg
+            twitter: https://twitter.com/XevoInc
             crunchbase: https://www.crunchbase.com/organization/xevoinc
             crunchbase_data:
               name: Xevo
@@ -57354,6 +57222,21 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T10:30:18.000Z
+          - item:
+            name: Guangdong Digital Industry Research Institute
+            homepage_url: https://joinnow_weibo.com/
+            logo: guangdong_digital_industry_research_institute.svg
+            organization:
+              name: Guangdong Digital Industry Research Institute
+            crunchbase_data:
+              name: Guangdong Digital Industry Research Institute
+              parents: []
+            image_data:
+              fileName: guangdong-digital-industry-research-institute.svg
+              hash: DkFGJHaS+T+oSQoFyYAVKy+1n2/2IHRL5O3uFLvvUEo=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Health Service Executive Ireland
             homepage_url: https://hse.ie/eng
@@ -65077,4 +64960,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-02-27T03:43:59.134Z
+updated_at: 2024-02-28T02:26:24.447Z
