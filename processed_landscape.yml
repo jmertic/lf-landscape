@@ -4822,6 +4822,8 @@ landscape:
                   acquiree: GemSeek
                 - date: '2024-02-28'
                   acquiree: Mindcurv
+                - date: '2024-02-29'
+                  acquiree: Jixie
               parents: []
               ticker: CSA.F
               funding: 6000000
@@ -7156,8 +7158,8 @@ landscape:
             crunchbase_data:
               name: Adfolks
               description: Adfolks is a Cloud-Native engineering firm brings a wealth of expertise in developing bespoke, agile technology solutions.
-              num_employees_min: 11
-              num_employees_max: 50
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: https://www.adfolks.com/
               city: Dubai
               region: Dubai
@@ -7837,8 +7839,8 @@ landscape:
             crunchbase_data:
               name: Airwayz
               description: Airwayz is a provider of management system for unmanned traffic management (UTM) and drone fleets.
-              num_employees_min: 1
-              num_employees_max: 10
+              num_employees_min: 11
+              num_employees_max: 50
               homepage: https://www.airwayz.co
               city: Tel Aviv
               region: Tel Aviv
@@ -10375,7 +10377,7 @@ landscape:
                   acquiree: FiberTower
                 - date: '2017-06-02'
                   acquiree: Vyatta
-                - date: '2018-06-25'
+                - date: '2018-06-19'
                   acquiree: AppNexus
                 - date: '2018-07-10'
                   acquiree: AT&T CyberSecurity
@@ -16298,9 +16300,9 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T19:55:46.000Z
           - item:
-            name: CloudFerro Sp. z o.o.
+            name: CloudFerro S.A.
             homepage_url: https://cloudferro.com/
-            logo: cloudferro_sp_z_oo.svg
+            logo: cloudferro_sa.svg
             twitter: https://twitter.com/CloudFerro
             crunchbase: https://www.crunchbase.com/organization/cloudferro
             crunchbase_data:
@@ -16325,7 +16327,7 @@ landscape:
                 - Information Technology
               kind: funding
             image_data:
-              fileName: cloud-ferro-sp-z-o-o.svg
+              fileName: cloud-ferro-s-a.svg
               hash: OFLGV/LXSLOXtKa2/IJ1pc6CiLoeh4BkF5LRJFngqpo=
             best_practice_data:
               badge: false
@@ -23299,8 +23301,8 @@ landscape:
             crunchbase_data:
               name: FireHydrant
               description: FireHydrant is an incident management tool that helps companies recover from IT disasters more quickly.
-              num_employees_min: 11
-              num_employees_max: 50
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: https://www.firehydrant.io
               city: New York
               region: New York
@@ -26267,6 +26269,7 @@ landscape:
                   acquiree: HLS Hard-Line Solutions Inc.
               parents: []
               ticker: HEXA-B
+              funding: 200000
               stockExchange: cph
               company_type: For Profit
               industries:
@@ -37332,8 +37335,8 @@ landscape:
             crunchbase_data:
               name: Otterize
               description: Otterize offers intent based service-to-service access control for cloud-native teams.
-              num_employees_min: 1
-              num_employees_max: 10
+              num_employees_min: 11
+              num_employees_max: 50
               homepage: https://www.otterize.com
               city: Dover
               region: Delaware
@@ -44687,8 +44690,8 @@ landscape:
             crunchbase_data:
               name: Sonatus
               description: Sonatus provides in-vehicle and cloud software that enables automotive companies to achieve the full promise of software-defined vehicles.
-              num_employees_min: 51
-              num_employees_max: 100
+              num_employees_min: 101
+              num_employees_max: 250
               homepage: https://sonatus.com
               city: Sunnyvale
               region: California
@@ -47795,8 +47798,8 @@ landscape:
             crunchbase_data:
               name: Tenstorrent
               description: Tenstorrent is a computing company that develops processors designed to help in faster training and adaptability to future algorithms.
-              num_employees_min: 101
-              num_employees_max: 250
+              num_employees_min: 251
+              num_employees_max: 500
               homepage: http://tenstorrent.com
               city: Toronto
               region: Ontario
@@ -55901,8 +55904,8 @@ landscape:
             crunchbase_data:
               name: EPRI
               description: Electric Power Research Institute, or EPRI, conducts research on issues related to the electric power industry.
-              num_employees_min: 501
-              num_employees_max: 1000
+              num_employees_min: 1001
+              num_employees_max: 5000
               homepage: http://www.epri.com
               city: Palo Alto
               region: California
@@ -64866,4 +64869,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-03-01T03:44:14.354Z
+updated_at: 2024-03-02T02:25:35.917Z
