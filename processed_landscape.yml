@@ -4808,6 +4808,8 @@ landscape:
                   acquiree: Vocatus
                 - date: '2023-12-17'
                   acquiree: Redkite
+                - date: '2023-12-21'
+                  acquiree: Jixie
                 - date: '2023-12-22'
                   acquiree: Customer Management IT
                 - date: '2023-12-22'
@@ -4824,10 +4826,10 @@ landscape:
                   acquiree: GemSeek
                 - date: '2024-02-28'
                   acquiree: Mindcurv
-                - date: '2024-02-29'
-                  acquiree: Jixie
                 - date: '2024-03-03'
                   acquiree: The Lumery
+                - date: '2024-03-05'
+                  acquiree: Udacity
               parents: []
               ticker: CSA.F
               funding: 6000000
@@ -6420,8 +6422,8 @@ landscape:
             crunchbase_data:
               name: 0Chain
               description: 0Chain is a blockchain-secure data protection platform - near-impossible to breach, reduces liability, audit, and dispute resolution costs.
-              num_employees_min: 1
-              num_employees_max: 10
+              num_employees_min: 11
+              num_employees_max: 50
               homepage: https://0chain.net
               city: Cupertino
               region: California
@@ -7193,8 +7195,8 @@ landscape:
             crunchbase_data:
               name: Adhara
               description: Real time global liquidity management, FX and international payments on CBDCs and tokenized money for banks and central banks
-              num_employees_min: 11
-              num_employees_max: 50
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: https://adhara.io
               city: London
               region: England
@@ -9584,11 +9586,13 @@ landscape:
               linkedin: https://www.linkedin.com/company/appcd
               acquisitions: []
               parents: []
+              funding: 6000000
               stockExchange: null
               company_type: For Profit
               industries:
                 - Information Technology
                 - Software
+              kind: funding
             image_data:
               fileName: app-cd.svg
               hash: lAMYw+DE+dexG4VR2T5YN4B4aVze8TK5nOS1PWG0uds=
@@ -12644,6 +12648,44 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Bhuma
+            homepage_url: https://bhuma.dev/
+            logo: bhuma.svg
+            crunchbase: https://www.crunchbase.com/organization/kleeen-software
+            crunchbase_data:
+              name: Kleeen Software
+              description: No-code platform using AI and best practices to create UI design, UX workflows, and front-end code
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://kleeen.software
+              city: San Jose
+              region: California
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/kleeen-software/
+              acquisitions: []
+              parents: []
+              funding: 5300000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence (AI)
+                - Developer Platform
+                - Developer Tools
+                - Human Computer Interaction
+                - Information Technology
+                - Product Design
+                - Software
+                - UX Design
+                - Web Development
+              kind: funding
+            image_data:
+              fileName: bhuma.svg
+              hash: VnytNQ2DfQCNjk+4IdHDs8bh6NdkNRT8btO6EeJMii0=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Binario Etico
             homepage_url: https://binarioetico.it/
             logo: binario_etico.svg
@@ -12786,6 +12828,7 @@ landscape:
                   acquiree: Global Infrastructure Partners
               parents: []
               ticker: BLK
+              funding: 3000000000
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -18093,6 +18136,8 @@ landscape:
                   acquiree: Reposify
                 - date: '2023-09-19'
                   acquiree: Bionic
+                - date: '2024-03-05'
+                  acquiree: Flow Security
               parents: []
               ticker: CRWD
               funding: 1235600000
@@ -18568,7 +18613,9 @@ landscape:
               country: Israel
               twitter: https://twitter.com/CycodeHQ
               linkedin: https://www.linkedin.com/company/cycode
-              acquisitions: []
+              acquisitions:
+                - date: '2024-03-05'
+                  acquiree: Bearer
               parents: []
               funding: 80600000
               stockExchange: null
@@ -23856,7 +23903,7 @@ landscape:
             name: Gcore
             homepage_url: https://gcore.com/
             logo: gcore.svg
-            twitter: https://twitter.com/gcore_labs
+            twitter: null
             crunchbase: https://www.crunchbase.com/organization/g-core-labs
             crunchbase_data:
               name: Gcore
@@ -24224,8 +24271,8 @@ landscape:
             crunchbase_data:
               name: German Edge Cloud
               description: German Edge Cloud (GEC) specializes in innovative edge and cloud solutions.
-              num_employees_min: 51
-              num_employees_max: 100
+              num_employees_min: 101
+              num_employees_max: 250
               homepage: https://www.gec.io
               city: Eschborn
               region: Hessen
@@ -26704,6 +26751,7 @@ landscape:
                   acquiree: Qianhai Financial Holdings
               parents: []
               ticker: HSBA.L
+              funding: 2750000000
               stockExchange: lse
               company_type: For Profit
               industries:
@@ -28116,9 +28164,9 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Inspur Group
+            name: Inspur Cloud Information Technology Co.
             homepage_url: https://inspur.com/
-            logo: inspur_group.svg
+            logo: inspur_cloud_information_technology_co.svg
             twitter: https://twitter.com/InspurCorp
             crunchbase: https://www.crunchbase.com/organization/inspur-group
             crunchbase_data:
@@ -28147,7 +28195,7 @@ landscape:
             yahoo_finance_data:
               effective_ticker: 000977.SZ
             image_data:
-              fileName: inspur-group.svg
+              fileName: inspur-cloud-information-technology-co.svg
               hash: +VAvno+LIAnL4vgRx16LL37KrgSAQ7rvpiz9hBVQasY=
             best_practice_data:
               badge: false
@@ -29491,7 +29539,7 @@ landscape:
                   acquiree: Creed
               parents: []
               ticker: KER.PA
-              funding: 5123719482
+              funding: 7023180469
               stockExchange: epa
               company_type: For Profit
               industries:
@@ -33091,6 +33139,8 @@ landscape:
                   acquiree: SCM Connections
                 - date: '2023-01-23'
                   acquiree: Iguazio
+                - date: '2024-03-04'
+                  acquiree: Strategic Estimating Systems
               parents: []
               stockExchange: null
               company_type: For Profit
@@ -50558,8 +50608,8 @@ landscape:
             crunchbase_data:
               name: Utilidata
               description: Utilidata is a technology company bringing open source distributed AI to the edge of the electric grid to accelerate decarbonization.
-              num_employees_min: 11
-              num_employees_max: 50
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: http://www.utilidata.com
               city: Providence
               region: Rhode Island
@@ -50853,8 +50903,8 @@ landscape:
             crunchbase_data:
               name: Veea
               description: Veea is an IoT-based integrated communication platform.
-              num_employees_min: 101
-              num_employees_max: 250
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: https://www.veea.com/
               city: New York
               region: New York
@@ -51990,8 +52040,8 @@ landscape:
             crunchbase_data:
               name: WEVR
               description: WEVR is a developer of a technology platform used to offer virtual reality content.
-              num_employees_min: 51
-              num_employees_max: 100
+              num_employees_min: 11
+              num_employees_max: 50
               homepage: http://wevr.com/
               city: Venice
               region: California
@@ -55977,8 +56027,8 @@ landscape:
             crunchbase_data:
               name: Eclipse Foundation
               description: The Eclipse Foundation provides individuals and organizations with a commercially focused environment for open source software innovation.
-              num_employees_min: 11
-              num_employees_max: 50
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: http://eclipse.org
               city: Ottawa
               region: Ontario
@@ -65148,4 +65198,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-03-06T02:26:20.914Z
+updated_at: 2024-03-07T02:26:26.858Z
