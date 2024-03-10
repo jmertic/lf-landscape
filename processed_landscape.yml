@@ -14589,14 +14589,12 @@ landscape:
                 - date: '2018-06-01'
                   acquiree: Antelink
               parents: []
-              ticker: CAS.PA
               funding: 12500000
-              stockExchange: epa
+              stockExchange: null
               company_type: For Profit
               industries:
                 - Software
-            yahoo_finance_data:
-              effective_ticker: CAS.PA
+              kind: funding
             image_data:
               fileName: cast.svg
               hash: ZAK8wqmM6vSYK+n9akU6MzncOuXdqVOuzF7Lwi2mFPo=
@@ -15686,7 +15684,9 @@ landscape:
               country: United Kingdom
               twitter: https://twitter.com/civocloud
               linkedin: https://www.linkedin.com/company/10043787
-              acquisitions: []
+              acquisitions:
+                - date: '2024-03-05'
+                  acquiree: Kubefirst
               parents: []
               funding: 2763669
               stockExchange: null
@@ -15767,43 +15767,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T06:03:06.000Z
-          - item:
-            name: Cleartrace
-            homepage_url: https://cleartrace.io/
-            logo: cleartrace.svg
-            crunchbase: https://www.crunchbase.com/organization/cleartrace
-            crunchbase_data:
-              name: ClearTrace
-              description: ClearTrace is a software company that provides automated energy and carbon accounting for investors, enterprises, and real estate owners.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://cleartrace.io
-              city: Austin
-              region: Texas
-              country: United States
-              twitter: https://twitter.com/cleartrace_io
-              linkedin: https://www.linkedin.com/company/cleartracetech
-              acquisitions: []
-              parents: []
-              funding: 24000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Energy
-                - Environmental Consulting
-                - Information Technology
-                - Internet of Things
-                - Renewable Energy
-                - Software
-              kind: funding
-            image_data:
-              fileName: cleartrace.svg
-              hash: VfTb5nm/F39ksMebhml/07nwNWzXojfbBkbTrVSHRnI=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-17T13:21:53.000Z
           - item:
             name: Clockwork.io
             homepage_url: https://clockwork.io/
@@ -19377,7 +19340,7 @@ landscape:
             joined: '2023-01-01'
             crunchbase_data:
               name: Defense Unicorns
-              description: Defense Unicorns builds National Security capabilities using open source continuous delivery solutions for air gap and secure environments
+              description: Defense Unicorns is a software startup that provides open-source software and AI capabilities for National Security systems.
               num_employees_min: 101
               num_employees_max: 250
               homepage: https://www.defenseunicorns.com
@@ -23973,7 +23936,6 @@ landscape:
             name: Gcore
             homepage_url: https://gcore.com/
             logo: gcore.svg
-            twitter: null
             crunchbase: https://www.crunchbase.com/organization/g-core-labs
             crunchbase_data:
               name: Gcore
@@ -34472,6 +34434,34 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-18T06:00:41.000Z
           - item:
+            name: MoonLight Marketing
+            homepage_url: https://moonlightmarketing.io/
+            logo: moonlight_marketing.svg
+            crunchbase: https://www.crunchbase.com/organization/moonlight-marketing
+            crunchbase_data:
+              name: MoonLight Marketing
+              description: Marketing can be complicated. MoonLight makes it simple.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://moonlightmarketing.io/
+              city: The Woodlands
+              region: Texas
+              country: United States
+              twitter: https://twitter.com/sara_e_davila
+              linkedin: https://www.linkedin.com/company/moonlightmarketing-io/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Marketing
+            image_data:
+              fileName: moon-light-marketing.svg
+              hash: vB/UCl8CSy7lC2Jq6oEbtpjEcjdOvhWjjUysczhaEeI=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Morgan Stanley
             homepage_url: https://morganstanley.com/
             logo: morgan_stanley.svg
@@ -35041,7 +35031,7 @@ landscape:
                 - Financial Services
             image_data:
               fileName: nat-west.svg
-              hash: ub/gU8bRzqE63bS6uT9diO+HHgnbh3MV13+en5j3E1I=
+              hash: JGDbtLPJAkOPOKYc4GRKBKib1LpYthPpaw0e5G+IInM=
             best_practice_data:
               badge: false
               percentage: null
@@ -35824,6 +35814,8 @@ landscape:
               acquisitions:
                 - date: '2015-02-27'
                   acquiree: Optos
+                - date: '2024-03-07'
+                  acquiree: RED Digital Cinema
               parents: []
               ticker: 7731.T
               stockExchange: tyo
@@ -43151,7 +43143,7 @@ landscape:
                 - date: '2022-11-29'
                   acquiree: Codecov
               parents: []
-              funding: 217001000
+              funding: 217000000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -43826,6 +43818,8 @@ landscape:
                   acquiree: Insight EDA
                 - date: '2023-12-05'
                   acquiree: Bunt Planet
+                - date: '2024-02-20'
+                  acquiree: Inspekto
               parents: []
               ticker: SIE.DE
               funding: 5178048063
@@ -44132,6 +44126,8 @@ landscape:
                   acquiree: Agero
                 - date: '2017-04-27'
                   acquiree: Automatic
+                - date: '2017-05-25'
+                  acquiree: SiriusXM Canada
                 - date: '2018-09-24'
                   acquiree: Pandora
                 - date: '2020-06-17'
@@ -45029,8 +45025,8 @@ landscape:
             crunchbase_data:
               name: Sonatype
               description: Sonatype is the developer-friendly full-spectrum software supply chain management platform helps organizations and software developers.
-              num_employees_min: 251
-              num_employees_max: 500
+              num_employees_min: 501
+              num_employees_max: 1000
               homepage: http://www.sonatype.com
               city: Fulton
               region: Maryland
@@ -50736,6 +50732,22 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T19:13:23.000Z
           - item:
+            name: USU GMBH
+            homepage_url: https://usu.com/
+            logo: usu_gmbh.svg
+            twitter: https://twitter.com/USUSolutions
+            organization:
+              name: USU GMBH
+            crunchbase_data:
+              name: USU GMBH
+              parents: []
+            image_data:
+              fileName: usu-gmbh.svg
+              hash: IzlAwMzdl9c1/blJH+wkD5VKxkON1YO9lrDtc4j2yoU=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Utilidata
             homepage_url: https://utilidata.com/
             logo: utilidata.svg
@@ -54278,6 +54290,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-02-14T04:02:21.000Z
           - item:
+            name: BNDES
+            homepage_url: https://bndes.gov.br/
+            logo: bndes.svg
+            organization:
+              name: BNDES
+            crunchbase_data:
+              name: BNDES
+              parents: []
+            image_data:
+              fileName: bndes.svg
+              hash: AVvFA2S9i+JiM9A1cmLNbnDLzKvrwaidwDXi0QcXTU4=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Boavizta
             homepage_url: https://boavizta.org/
             logo: boavizta.svg
@@ -57243,6 +57270,35 @@ landscape:
             image_data:
               fileName: gesellschaft-f-r-informatik-e-v.svg
               hash: kZy5uJw5jbDDmzZG3seKp75caFpQ99Zh9R5y8kwqlb4=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: GIM UEMOA
+            homepage_url: https://gim-uemoa.org/
+            logo: gim_uemoa.svg
+            crunchbase: https://www.crunchbase.com/organization/gim-uemoa
+            crunchbase_data:
+              name: GIM-UEMOA
+              description: GIM-UEMOA is an interbank banking group.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: http://www.gim-uemoa.org/en
+              city: Dakar
+              region: Dakar
+              country: Senegal
+              twitter: null
+              linkedin: https://www.linkedin.com/company/gim-uemoa-officiel
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Banking
+                - Financial Services
+            image_data:
+              fileName: gim-uemoa.svg
+              hash: viQTO/J+NPmEWzkPYyUMkGP9MKyy+n9SecyKGvghHT4=
             best_practice_data:
               badge: false
               percentage: null
@@ -65341,4 +65397,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-03-08T03:44:50.192Z
+updated_at: 2024-03-10T02:40:32.647Z
