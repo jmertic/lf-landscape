@@ -7918,8 +7918,8 @@ landscape:
             crunchbase_data:
               name: Aiven
               description: Aiven is a technology-driven company that enables businesses to manage an open-source data infrastructure in the cloud.
-              num_employees_min: 251
-              num_employees_max: 500
+              num_employees_min: 501
+              num_employees_max: 1000
               homepage: https://aiven.io
               city: Helsinki
               region: Southern Finland
@@ -14588,7 +14588,7 @@ landscape:
               region: New York
               country: United States
               twitter: https://twitter.com/SW_Intelligence
-              linkedin: https://www.linkedin.com/company/cast/
+              linkedin: null
               acquisitions:
                 - date: '2018-06-01'
                   acquiree: Antelink
@@ -19163,6 +19163,36 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T20:16:29.000Z
           - item:
+            name: Daytona Platforms Inc.
+            homepage_url: https://daytona.io/
+            logo: daytona_platforms_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/daytona-4480
+            crunchbase_data:
+              name: Daytona
+              description: Daytona is the enterprise-grade GitHub Codespaces alternative for managing self-hosted, secure and standardized development environments.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.daytona.io/
+              city: New York
+              region: New York
+              country: United States
+              twitter: https://twitter.com/daytonaio
+              linkedin: https://www.linkedin.com/company/daytonaio/
+              acquisitions: []
+              parents: []
+              funding: 2000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Web Development
+              kind: funding
+            image_data:
+              fileName: daytona-platforms-inc.svg
+              hash: GOsnGTBRFxNF9GLbWucpzfFl6s1sVf0qEQQS+X2xjvw=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: DB Systel GmbH
             homepage_url: https://dbsystel.de/
             logo: db_systel_gmbh.svg
@@ -21108,8 +21138,8 @@ landscape:
             crunchbase_data:
               name: Edgecore Networks
               description: Edge-Core Networks provided networking solutions and a range of carrier-grade and enterprise-level networking equipment and services.
-              num_employees_min: 101
-              num_employees_max: 250
+              num_employees_min: 1001
+              num_employees_max: 5000
               homepage: http://www.edge-core.com
               city: Irvine
               region: California
@@ -30709,7 +30739,7 @@ landscape:
               kind: funding
             image_data:
               fileName: kusari-inc.svg
-              hash: SZ2FPAOhvwGgRZkH1x9gFAChvroYClf+UXdn/WgrL/s=
+              hash: 2JQgfd8Lbt/HuaURy47/rabkmrZEtmiOU8bw3J769Vk=
             best_practice_data:
               badge: false
               percentage: null
@@ -32341,8 +32371,8 @@ landscape:
             crunchbase_data:
               name: London Stock Exchange
               description: London Stock Exchange is an online marketplace that enables stock brokers and traders to buy and sell stocks, bonds, and other securities.
-              num_employees_min: 501
-              num_employees_max: 1000
+              num_employees_min: 10001
+              num_employees_max: 1000000
               homepage: http://www.londonstockexchange.com
               city: London
               region: England
@@ -42952,8 +42982,8 @@ landscape:
             crunchbase_data:
               name: Second Front Systems
               description: Second Front Systems accelerates the delivery of software-as-a-service (SaaS) solutions to the government.
-              num_employees_min: 11
-              num_employees_max: 50
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: https://secondfront.com
               city: Wilmington
               region: Delaware
@@ -45816,14 +45846,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/stackgenie
             joined: '2021-11-01'
             crunchbase_data:
-              name: stackgenie
-              description: We believe in the power of Data & Cloud
-              num_employees_min: null
-              num_employees_max: null
+              name: Stackgenie
+              description: Empowering businesses with bespoke Kubernetes and cloud-native strategies to accelerate innovation.
+              num_employees_min: 11
+              num_employees_max: 50
               homepage: https://www.stackgenie.io/
-              city: London
-              region: England
-              country: United Kingdom
+              city: New York
+              region: New York
+              country: United States
               twitter: https://twitter.com/stackgenie_io
               linkedin: https://www.linkedin.com/company/stackgenie/
               acquisitions: []
@@ -45831,7 +45861,12 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
+                - Consulting
+                - DevOps
+                - Information Technology
+                - Professional Services
                 - Smart Contracts
+                - Software
             image_data:
               fileName: stackgenie.svg
               hash: +pBRZWoHM3XZDeIU521cL7b8XFtdLitvQYaCvuSBpIU=
@@ -65403,4 +65438,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-03-12T04:01:02.789Z
+updated_at: 2024-03-13T02:38:24.664Z
