@@ -7386,8 +7386,6 @@ landscape:
                   acquiree: Marketo
                 - date: '2019-01-23'
                   acquiree: Allegorithmic
-                - date: '2019-12-06'
-                  acquiree: Oculus
                 - date: '2020-11-09'
                   acquiree: Workfront
                 - date: '2021-08-19'
@@ -8949,8 +8947,8 @@ landscape:
             crunchbase_data:
               name: Amundi Private Equity Funds
               description: Amundi Private Equity Funds, an Amundi asset management subsidiary, specialises in private equity and unlisted infrastructure investments.
-              num_employees_min: 1001
-              num_employees_max: 5000
+              num_employees_min: 5001
+              num_employees_max: 10000
               homepage: http://www.amundi.com
               city: Paris
               region: Ile-de-France
@@ -11159,39 +11157,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T22:00:19.000Z
-          - item:
-            name: Avanza Innovations IT Solutions LLC
-            homepage_url: https://avanzainnovations.com/
-            logo: avanza_innovations_it_solutions_llc.svg
-            crunchbase: https://www.crunchbase.com/organization/avanza-innovations
-            crunchbase_data:
-              name: Avanza Innovations
-              description: Blockchain, Artificial Intelligence, Robotic Process Automation, & Smart City Enablement
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: https://avanzainnovations.com/
-              city: Dubai
-              region: Dubai
-              country: United Arab Emirates
-              twitter: https://twitter.com/avanza_ai
-              linkedin: https://www.linkedin.com/company/avanza-innovations
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Artificial Intelligence (AI)
-                - Blockchain
-                - Information Technology
-                - Robotic Process Automation (RPA)
-                - Smart Cities
-                - Software
-            image_data:
-              fileName: avanza-innovations-it-solutions-llc.svg
-              hash: IWhdMpgZTqnedcrfGRhobpl6uSdFoCN9I0zwg6TuBSs=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: Avesha
             homepage_url: https://avesha.io/
@@ -18531,6 +18496,8 @@ landscape:
                   acquiree: Vaultive
                 - date: '2020-05-13'
                   acquiree: Idaptive
+                - date: '2022-03-01'
+                  acquiree: aapi Inc.
               parents: []
               ticker: CYBR
               funding: 570500000
@@ -20122,39 +20089,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T09:00:01.000Z
-          - item:
-            name: Dhiway Networks Private Limited
-            homepage_url: https://dhiway.com/
-            logo: dhiway_networks_private_limited.svg
-            twitter: https://twitter.com/dhiwaynetworks
-            crunchbase: https://www.crunchbase.com/organization/dhiway
-            crunchbase_data:
-              name: dhiway
-              description: Enabling enterprises & governments to solve key challenges through population-scale blockchain technology
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.dhiway.com
-              city: Bangalore
-              region: Karnataka
-              country: India
-              twitter: https://twitter.com/dhiwaynetworks/
-              linkedin: https://www.linkedin.com/company/dhiway/
-              acquisitions: []
-              parents: []
-              funding: 1000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Blockchain
-                - Cryptocurrency
-                - FinTech
-              kind: funding
-            image_data:
-              fileName: dhiway-networks-private-limited.svg
-              hash: JHvExAhk4YORoHPiP30HXXzAjRuox6YEcIo1AQcMf0Q=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: Diagrid
             homepage_url: https://diagrid.io/
@@ -22942,6 +22876,43 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-02-15T14:38:49.000Z
           - item:
+            name: Ezurio
+            homepage_url: https://www.ezurio.com/
+            logo: ezurio.svg
+            twitter: https://twitter.com/LairdConnect
+            crunchbase: https://www.crunchbase.com/organization/laird-connectivity
+            crunchbase_data:
+              name: Laird Connectivity
+              description: Laird Connectivity is an IoT platform specializing in wireless product testing and approvals for Worldwide.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: https://www.lairdconnect.com/
+              city: Akron
+              region: Ohio
+              country: United States
+              twitter: https://twitter.com/lairdconnect
+              linkedin: https://www.linkedin.com/company/lairdconnectivity
+              acquisitions:
+                - date: '2022-12-08'
+                  acquiree: Boundary Devices
+              parents: []
+              funding: 0
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Electronics
+                - Internet of Things
+                - Telecommunications
+                - Wireless
+            image_data:
+              fileName: ezurio.svg
+              hash: /5kOokLS8xDE4U0oNS/AZnLnmw6D7QONKiRwsYk9chQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2023-04-17T18:08:36.000Z
+          - item:
             name: F5, Inc.
             homepage_url: https://f5.com/
             logo: f5_inc.svg
@@ -25149,8 +25120,8 @@ landscape:
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://greptime.com
-              city: Seattle
-              region: Washington
+              city: Sunnyvale
+              region: California
               country: United States
               twitter: https://twitter.com/greptime
               linkedin: https://www.linkedin.com/company/greptime-inc/
@@ -27745,7 +27716,7 @@ landscape:
               kind: funding
             image_data:
               fileName: indicio.svg
-              hash: fipSQf4aAZ9L3+wB91GOHstJwfT/zguXoquEBoPaMHA=
+              hash: NVHjvzrSzV4MlqDSuxGGR9G/vpOwa9Sjbxayu3HJTNY=
             best_practice_data:
               badge: false
               percentage: null
@@ -31295,42 +31266,42 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Laird Connectivity, Inc
-            homepage_url: https://lairdconnect.com/
-            logo: laird_connectivity_inc.svg
-            twitter: https://twitter.com/LairdConnect
-            crunchbase: https://www.crunchbase.com/organization/laird-connectivity
+            name: Lacework
+            homepage_url: https://lacework.com/
+            logo: lacework.svg
+            twitter: https://twitter.com/Lacework
+            crunchbase: https://www.crunchbase.com/organization/lacework
             crunchbase_data:
-              name: Laird Connectivity
-              description: Laird Connectivity is an IoT platform specializing in wireless product testing and approvals for Worldwide.
+              name: Lacework
+              description: Lacework is a cloud security services provider that automates cloud security at scale so customers can innovate with speed and safety.
               num_employees_min: 1001
               num_employees_max: 5000
-              homepage: https://www.lairdconnect.com/
-              city: Akron
-              region: Ohio
+              homepage: https://www.lacework.com
+              city: Mountain View
+              region: California
               country: United States
-              twitter: https://twitter.com/lairdconnect
-              linkedin: https://www.linkedin.com/company/lairdconnectivity
+              twitter: https://twitter.com/lacework
+              linkedin: https://www.linkedin.com/company/lacework
               acquisitions:
-                - date: '2022-12-08'
-                  acquiree: Boundary Devices
+                - date: '2021-11-11'
+                  acquiree: Soluble
               parents: []
-              funding: 0
+              funding: 1899000000
               stockExchange: null
               company_type: For Profit
               industries:
-                - Electronics
-                - Internet of Things
-                - Telecommunications
-                - Wireless
+                - Cloud Security
+                - Compliance
+                - Cyber Security
+                - Developer Tools
+                - Software
+              kind: funding
             image_data:
-              fileName: laird-connectivity-inc.svg
-              hash: /5kOokLS8xDE4U0oNS/AZnLnmw6D7QONKiRwsYk9chQ=
+              fileName: lacework.svg
+              hash: eyJ7cIPQzsFxKwPl3eYJUxWkPrjMn/HNEooebfRgJns=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-17T18:08:36.000Z
           - item:
             name: Lantronix Inc.
             homepage_url: https://lantronix.com/
@@ -35396,8 +35367,8 @@ landscape:
             crunchbase_data:
               name: Netdata
               description: Monitor your servers, containers, and applications, in high-resolution and in real-time.
-              num_employees_min: 11
-              num_employees_max: 50
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: https://www.netdata.cloud
               city: San Francisco
               region: California
@@ -40143,7 +40114,7 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/rackspace
               ticker: RXT
-              funding: 17800000
+              funding: 292800000
               stockExchange: nasdaq
               company_type: For Profit
               industries:
@@ -46242,8 +46213,8 @@ landscape:
             crunchbase_data:
               name: StorPool
               description: StorPool is the fastest software-defined block storage used by public and private cloud builders, enterprises, MSPs, hosting providers.
-              num_employees_min: 11
-              num_employees_max: 50
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: https://www.storpool.com
               city: Sofia
               region: Grad Sofiya
@@ -54341,7 +54312,7 @@ landscape:
               parents: []
             image_data:
               fileName: bndes.svg
-              hash: AVvFA2S9i+JiM9A1cmLNbnDLzKvrwaidwDXi0QcXTU4=
+              hash: qVLwbvIyzAxRiS2dWkYD5TKmBBMx4QRiRCmNnCWqEKc=
             best_practice_data:
               badge: false
               percentage: null
@@ -61608,8 +61579,8 @@ landscape:
             logo: purdue_university.svg
             crunchbase: https://www.crunchbase.com/organization/purdue-university
             crunchbase_data:
-              name: Purdue University College of Engineering
-              description: Purdue University College of Engineering provides engineeering programmes.
+              name: Purdue University
+              description: Purdue University
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://purdue.edu
@@ -61622,7 +61593,7 @@ landscape:
                 - date: '2017-04-27'
                   acquiree: Kaplan University
               parents: []
-              funding: 24358245
+              funding: 24858245
               stockExchange: null
               company_type: ''
               industries:
@@ -64206,8 +64177,8 @@ landscape:
             crunchbase_data:
               name: University of New Brunswick
               description: The University of New Brunswick (UNB) is one of Canada's oldest English-language universities.
-              num_employees_min: 1
-              num_employees_max: 10
+              num_employees_min: 1001
+              num_employees_max: 5000
               homepage: http://www.unb.ca
               city: Fredericton
               region: New Brunswick
@@ -64671,8 +64642,8 @@ landscape:
             crunchbase_data:
               name: University of Waterloo
               description: University of Waterloo is a public research university that operates colleges which offer undergraduate and graduate programs.
-              num_employees_min: 5001
-              num_employees_max: 10000
+              num_employees_min: 1001
+              num_employees_max: 5000
               homepage: https://uwaterloo.ca
               city: Waterloo
               region: Ontario
@@ -65438,4 +65409,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-03-13T04:00:45.466Z
+updated_at: 2024-03-14T02:40:32.169Z
