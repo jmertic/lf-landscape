@@ -1581,8 +1581,8 @@ landscape:
             crunchbase_data:
               name: RISC-V International
               description: RISC-V is an open standard Instruction Set Architecture (ISA) enabling a new era of processor innovation through open collaboration
-              num_employees_min: null
-              num_employees_max: null
+              num_employees_min: 11
+              num_employees_max: 50
               homepage: https://riscv.org/
               city: San Francisco
               region: California
@@ -4835,6 +4835,8 @@ landscape:
                   acquiree: Udacity
                 - date: '2024-03-18'
                   acquiree: ARHS Developments
+                - date: '2024-03-19'
+                  acquiree: Flo Group
               parents: []
               ticker: CSA.F
               funding: 6000000
@@ -9610,8 +9612,8 @@ landscape:
             crunchbase_data:
               name: AppsCode
               description: Cloud Native Data Platform
-              num_employees_min: 1
-              num_employees_max: 10
+              num_employees_min: 11
+              num_employees_max: 50
               homepage: https://appscode.com
               city: Las Vegas
               region: Nevada
@@ -18574,8 +18576,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cycode
             joined: '2022-04-01'
             crunchbase_data:
-              name: Cycode
-              description: The first source code control, detection, and response solution for visibility and protection across code repositories.
+              name: Cycode | Complete ASPM
+              description: Cycode's complete ASPM platform provides Peace of Mind to its customers without slowing down the business -- delivering safe code, faster!
               num_employees_min: 101
               num_employees_max: 250
               homepage: https://cycode.com/
@@ -18822,6 +18824,8 @@ landscape:
                   acquiree: Arcion
                 - date: '2024-01-30'
                   acquiree: Einblick
+                - date: '2024-03-19'
+                  acquiree: Lilac AI
               parents: []
               funding: 4181559082
               stockExchange: null
@@ -23073,8 +23077,8 @@ landscape:
             crunchbase_data:
               name: Fermyon Technologies
               description: Fermyon Technologies is a software development company that pioneers the next wave of cloud computing.
-              num_employees_min: 1
-              num_employees_max: 10
+              num_employees_min: 11
+              num_employees_max: 50
               homepage: https://fermyon.com
               city: Longmont
               region: Colorado
@@ -25118,8 +25122,8 @@ landscape:
             crunchbase_data:
               name: greymatter.io
               description: greymatter.io uses the service mesh ecosystem to create connected intelligence and intervention for next-gen modern infrastructure.
-              num_employees_min: 11
-              num_employees_max: 50
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: https://greymatter.io
               city: Alexandria
               region: Virginia
@@ -28646,8 +28650,8 @@ landscape:
             crunchbase_data:
               name: Input Output
               description: Input Output is a technology company committed to using peer-to-peer innovations to provide financial services.
-              num_employees_min: 101
-              num_employees_max: 250
+              num_employees_min: 251
+              num_employees_max: 500
               homepage: https://iohk.io/
               city: Hong Kong
               region: Hong Kong Island
@@ -29968,8 +29972,8 @@ landscape:
             crunchbase_data:
               name: Komodor
               description: Komodor tracks changes and alerts across the Kubernetes stack and analyzes their effect.
-              num_employees_min: 1
-              num_employees_max: 10
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: https://komodor.com/
               city: Tel Aviv-yafo
               region: Tel Aviv
@@ -35489,7 +35493,7 @@ landscape:
             joined: '2022-07-01'
             crunchbase_data:
               name: Nethopper.io
-              description: Nethopper.io offers an enterprise, cloud-native DevOps PaaS for modern applications works with all clouds and Kubernetes (includes IaC)
+              description: Nethopper allows enterprises/MSPs to jumpstart platform engineering w/ KAOPS, a cloud native, GitOps-based platform framework for their IDPs
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://www.nethopper.io
@@ -35503,9 +35507,12 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
+                - Cloud Management
                 - DevOps
+                - Developer Platform
                 - SaaS
                 - Software
+                - Software Engineering
             image_data:
               fileName: nethopper-llc.svg
               hash: TKWFNGnUVyZ7pKEzzy4bPVrB5Er3lqbu2iZ48W02YRM=
@@ -35992,8 +35999,8 @@ landscape:
               city: San Francisco
               region: California
               country: United States
-              twitter: https://twitter.com/dewebservices
-              linkedin: https://www.linkedin.com/company/nodeshiftcloud/
+              twitter: https://twitter.com/nodeshiftcloud
+              linkedin: https://www.linkedin.com/company/nodeshift/
               acquisitions: []
               parents: []
               funding: 3200000
@@ -39056,6 +39063,8 @@ landscape:
                   acquiree: Infogix
                 - date: '2021-06-14'
                   acquiree: Winshuttle
+                - date: '2021-11-04'
+                  acquiree: Anchor Point
                 - date: '2021-12-08'
                   acquiree: CEDAR CX Technologies
                 - date: '2021-12-08'
@@ -61858,8 +61867,8 @@ landscape:
             crunchbase_data:
               name: RISC-V International
               description: RISC-V is an open standard Instruction Set Architecture (ISA) enabling a new era of processor innovation through open collaboration
-              num_employees_min: null
-              num_employees_max: null
+              num_employees_min: 11
+              num_employees_max: 50
               homepage: https://riscv.org/
               city: San Francisco
               region: California
@@ -64572,7 +64581,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/university-of-waterloo
             crunchbase_data:
               name: University of Waterloo
-              description: Univeristy
+              description: is a public research university that operates colleges which offer undergraduate and graduate programs.
               num_employees_min: 1001
               num_employees_max: 5000
               homepage: https://uwaterloo.ca
@@ -65340,4 +65349,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-03-19T04:03:15.321Z
+updated_at: 2024-03-21T02:24:41.312Z
