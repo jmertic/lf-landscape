@@ -18264,26 +18264,27 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/ctrlstack
             joined: '2023-06-01'
             crunchbase_data:
-              name: CtrlStack
-              description: CtrlStack is a software development company that solves a problem that every DevOps engineer faces.
+              name: QueryPal
+              description: Buried in Repeat Questions? QueryPal is an AI Chatbot that automatically answers questions in Slack and MS Teams, using past chat/docs.
               num_employees_min: 11
               num_employees_max: 50
-              homepage: https://www.ctrlstack.com
+              homepage: https://www.querypal.com
               city: San Francisco
               region: California
               country: United States
-              twitter: https://twitter.com/ctrlstackhq
-              linkedin: https://www.linkedin.com/company/ctrlstack
+              twitter: https://twitter.com/querypal
+              linkedin: https://www.linkedin.com/company/querypal
               acquisitions: []
               parents: []
               funding: 5200000
               stockExchange: null
               company_type: For Profit
               industries:
-                - DevOps
+                - Collaboration
                 - Information Services
                 - Information Technology
                 - Internet
+                - Productivity Tools
                 - Software
               kind: funding
             image_data:
@@ -24492,6 +24493,8 @@ landscape:
                   acquiree: UnReview
                 - date: '2021-12-14'
                   acquiree: Opstrace
+                - date: '2024-03-20'
+                  acquiree: Oxeye Security
               parents: []
               ticker: GTLB
               funding: 413500000
@@ -29551,7 +29554,7 @@ landscape:
                   acquiree: Creed
               parents: []
               ticker: KER.PA
-              funding: 7023180469
+              funding: 7023500084
               stockExchange: epa
               company_type: For Profit
               industries:
@@ -33293,7 +33296,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/mediconcen/
               acquisitions: []
               parents: []
-              funding: 6849115
+              funding: 6848238
               stockExchange: null
               company_type: For Profit
               industries:
@@ -37900,6 +37903,39 @@ landscape:
             image_data:
               fileName: parsolvo.svg
               hash: y8UDjlESQr5dplBVGtg8vpVqyp+Dfh1wYViI54GiMFM=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Patchstack OÜ
+            homepage_url: https://patchstack.com/
+            logo: patchstack_ou.svg
+            crunchbase: https://www.crunchbase.com/organization/webarx
+            joined: '2023-11-15'
+            crunchbase_data:
+              name: Patchstack
+              description: Patchstack is a website security and monitoring platform.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://patchstack.com
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: https://twitter.com/webarx_security
+              linkedin: https://www.linkedin.com/company/webarx/
+              acquisitions: []
+              parents: []
+              funding: 2160040
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cyber Security
+                - Open Source
+                - Web Apps
+              kind: funding
+            image_data:
+              fileName: patchstack-o.svg
+              hash: cx59VyYDC1+WQM+nwf7xqMTHZnr2cJBRbTXw035mAvQ=
             best_practice_data:
               badge: false
               percentage: null
@@ -47172,6 +47208,8 @@ landscape:
                   acquiree: PikeTec
                 - date: '2024-01-16'
                   acquiree: ANSYS
+                - date: '2024-03-20'
+                  acquiree: Intrinsic ID
               parents: []
               ticker: SNPS
               funding: 0
@@ -47818,7 +47856,7 @@ landscape:
                   acquiree: Vita IT
               parents: []
               ticker: TEF
-              funding: 4910528745
+              funding: 4914028872
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -47897,7 +47935,7 @@ landscape:
                   acquiree: Start.Ca
               parents: []
               ticker: TU
-              funding: 3618244029
+              funding: 3618690240
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -62882,7 +62920,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/the-alan-turing-institute
               acquisitions: []
               parents: []
-              funding: 126877791
+              funding: 127043333
               stockExchange: null
               company_type: ''
               industries:
@@ -65349,4 +65387,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-03-21T03:45:11.945Z
+updated_at: 2024-03-22T02:23:46.105Z
