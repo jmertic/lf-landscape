@@ -19155,6 +19155,39 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-19T13:35:20.000Z
           - item:
+            name: DBOS
+            homepage_url: https://dbos.dev/
+            logo: dbos.svg
+            crunchbase: https://www.crunchbase.com/organization/dbos-inc
+            crunchbase_data:
+              name: DBOS, Inc.
+              description: Software development technology, cloud-native,
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.dbos.dev/
+              city: Cambridge
+              region: Massachusetts
+              country: United States
+              twitter: https://twitter.com/DBOS_Inc
+              linkedin: https://www.linkedin.com/company/dbos-inc/
+              acquisitions: []
+              parents: []
+              funding: 8500000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Database
+                - Operating Systems
+                - Software Engineering
+              kind: funding
+            image_data:
+              fileName: dbos.svg
+              hash: iU8/lgyXuHvhVNBOrGonypl4f3hJtQVPu/snFS8Y1v0=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: De Novo LLC
             homepage_url: https://denovo.ua/
             logo: de_novo_llc.svg
@@ -20661,8 +20694,8 @@ landscape:
             crunchbase_data:
               name: Drimaes
               description: Drimaes providers automotive software platform intended to offer in-vehicle infotainment services.
-              num_employees_min: 1
-              num_employees_max: 10
+              num_employees_min: 101
+              num_employees_max: 250
               homepage: http://www.drimaes.com
               city: Daegu
               region: Taegu-jikhalsi
@@ -22034,6 +22067,8 @@ landscape:
                   acquiree: Optiva Media
                 - date: '2022-01-28'
                   acquiree: ENGINIETY
+                - date: '2024-03-26'
+                  acquiree: Vates
               parents: []
               ticker: EPAM
               funding: 75000000
@@ -65359,4 +65394,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-03-27T03:47:52.759Z
+updated_at: 2024-03-28T02:26:34.566Z
