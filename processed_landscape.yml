@@ -7572,7 +7572,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/aembit
             crunchbase_data:
               name: Aembit
-              description: Aembit develops an identity platform allowing DevOps and security to manage, enforce, and audit access between federated workloads.
+              description: Aembit Workload Identity and Access Management (IAM) makes workload access automated, secure, and governed, without burdening developers.
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://aembit.io/
@@ -9071,8 +9071,8 @@ landscape:
             crunchbase_data:
               name: Analog Devices
               description: 'Analog Devices (NYSE: ADI) defines innovation and excellence in signal processing. ADI''s analog, mixed-signal, and digital signal'
-              num_employees_min: 5001
-              num_employees_max: 10000
+              num_employees_min: 10001
+              num_employees_max: 1000000
               homepage: http://www.analog.com
               city: Norwood
               region: Massachusetts
@@ -28793,8 +28793,8 @@ landscape:
             crunchbase_data:
               name: IOTech
               description: IOTech’s aim is to be a leader in the global Edge/Fog IoT platform market through a productized open source business model.
-              num_employees_min: 11
-              num_employees_max: 50
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: http://www.iotechsys.com
               city: Newcastle Upon Tyne
               region: Newcastle upon Tyne
@@ -35436,8 +35436,6 @@ landscape:
                   acquiree: Animal Logic
                 - date: '2022-10-31'
                   acquiree: Spry Fox
-                - date: '2024-03-27'
-                  acquiree: THINKIN
               parents: []
               ticker: NFLX
               funding: 5007714724
@@ -35992,6 +35990,21 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T09:00:02.000Z
+          - item:
+            name: Nissan Motor Co., Ltd.
+            homepage_url: https://nissan.com/
+            logo: nissan_motor_co_ltd.svg
+            organization:
+              name: Nissan Motor Co., Ltd.
+            crunchbase_data:
+              name: Nissan Motor Co., Ltd.
+              parents: []
+            image_data:
+              fileName: nissan-motor-co-ltd.svg
+              hash: ftM6lu6YEJNlnfl8fFmxUWF5lbssbCceNWOo8qGtcTU=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: NodeShift
             homepage_url: https://nodeshift.com/
@@ -43898,6 +43911,8 @@ landscape:
                   acquiree: Bunt Planet
                 - date: '2024-02-20'
                   acquiree: Inspekto
+                - date: '2024-03-21'
+                  acquiree: Industrial drive technology - ebm-papst
               parents: []
               ticker: SIE.DE
               funding: 5178048063
@@ -51501,7 +51516,9 @@ landscape:
               country: United States
               twitter: https://twitter.com/Virtasant
               linkedin: https://www.linkedin.com/company/virtasant/mycompany/
-              acquisitions: []
+              acquisitions:
+                - date: '2024-03-26'
+                  acquiree: Gigster
               parents: []
               stockExchange: null
               company_type: For Profit
@@ -61733,7 +61750,7 @@ landscape:
               latest_tweet_date: 2023-04-20T20:03:14.000Z
           - item:
             name: Research Institutes of Sweden
-            homepage_url: https://ri.se/sv
+            homepage_url: https://ri.se/
             logo: research_institutes_of_sweden.svg
             twitter: https://twitter.com/RISEsweden
             crunchbase: https://www.crunchbase.com/organization/rise-8
@@ -64155,7 +64172,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/university-of-new-brunswick
               acquisitions: []
               parents: []
-              funding: 22200000
+              funding: 22219500
               stockExchange: null
               company_type: ''
               industries:
@@ -65377,4 +65394,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-03-29T03:48:37.268Z
+updated_at: 2024-03-30T02:27:21.825Z
