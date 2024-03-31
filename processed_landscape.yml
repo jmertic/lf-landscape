@@ -14395,7 +14395,7 @@ landscape:
               region: Virginia
               country: United States
               twitter: http://twitter.com/CapitalOne
-              linkedin: https://www.linkedin.com/company/capital-one/
+              linkedin: https://www.linkedin.com/company/capital-one
               acquisitions:
                 - date: '1998-07-01'
                   acquiree: Summit Acceptance Corp.
@@ -23488,41 +23488,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Fortanix
-            homepage_url: https://fortanix.com/
-            logo: fortanix.svg
-            crunchbase: https://www.crunchbase.com/organization/fortanix
-            crunchbase_data:
-              name: Fortanix
-              description: Fortanix is a data-first, multicloud security company that delivers data protection solutions using runtime encryption.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: https://www.fortanix.com
-              city: Mountain View
-              region: California
-              country: United States
-              twitter: https://twitter.com/fortanix
-              linkedin: https://www.linkedin.com/company/fortanix
-              acquisitions: []
-              parents: []
-              funding: 135250000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Computer
-                - Cyber Security
-                - SaaS
-                - Security
-              kind: funding
-            image_data:
-              fileName: fortanix.svg
-              hash: 1RTDqpkrzwRqi7izyjU27BFgQc3dh21r14gXFIf2RsQ=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T16:00:01.000Z
-          - item:
             name: FOSSA
             homepage_url: https://fossa.io/
             logo: fossa.svg
@@ -31876,8 +31841,8 @@ landscape:
             crunchbase_data:
               name: Lightrun
               description: Lightrun is a startup that makes it easier for developers to debug their production code.
-              num_employees_min: 11
-              num_employees_max: 50
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: https://lightrun.com/
               city: Tel Aviv
               region: Tel Aviv
@@ -33761,6 +33726,79 @@ landscape:
             image_data:
               fileName: micas-networks-inc.svg
               hash: L9j2MKOzxeTbdxnN6dN2bwofTvsjmo2NuoN+t2oW20U=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Michelin
+            homepage_url: https://michelin.com/
+            logo: michelin.svg
+            crunchbase: https://www.crunchbase.com/organization/michelin-2
+            crunchbase_data:
+              name: Michelin
+              description: Michelin is a tire company dedicated to sustainably improve the mobility of goods and people by manufacturing and marketing.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.michelin.com/
+              city: Clermont-ferrand
+              region: Auvergne
+              country: France
+              twitter: https://twitter.com/MichelinTyres
+              linkedin: https://www.linkedin.com/company/michelin
+              acquisitions:
+                - date: '2008-02-25'
+                  acquiree: Tigar Tyres
+                - date: '2014-06-09'
+                  acquiree: Sascar
+                - date: '2015-05-06'
+                  acquiree: Blackcircles.com
+                - date: '2015-08-14'
+                  acquiree: Meyer Lissendorf Group
+                - date: '2016-01-11'
+                  acquiree: Bookatable
+                - date: '2016-08-26'
+                  acquiree: Levorin
+                - date: '2016-12-21'
+                  acquiree: Restaurantes.com
+                - date: '2017-01-25'
+                  acquiree: Editions Mondéos
+                - date: '2017-06-14'
+                  acquiree: NexTraq
+                - date: '2017-11-13'
+                  acquiree: Teleflow SAS
+                - date: '2017-11-14'
+                  acquiree: PTG Reifendruckregelsysteme GmbH
+                - date: '2018-01-15'
+                  acquiree: Tructyre
+                - date: '2018-07-12'
+                  acquiree: Camso
+                - date: '2019-01-22'
+                  acquiree: PT Multistrada Arah Sarana
+                - date: '2019-05-16'
+                  acquiree: Masternaut UK
+                - date: '2019-11-19'
+                  acquiree: Tablet
+                - date: '2021-08-25'
+                  acquiree: Allopneus
+                - date: '2021-10-01'
+                  acquiree: Fenner Precision Polymers
+                - date: '2022-07-12'
+                  acquiree: RoadBotics by Michelin
+                - date: '2023-09-27'
+                  acquiree: Flex Composite Group
+              parents: []
+              ticker: MGDDF
+              stockExchange: otcpink
+              company_type: For Profit
+              industries:
+                - Automotive
+                - Consumer Goods
+                - Manufacturing
+            yahoo_finance_data:
+              effective_ticker: MGDDF
+            image_data:
+              fileName: michelin.svg
+              hash: Kzhr3GOKOVialCNOQvJlE2ryOFf1ObCW/rNPoux9ZPE=
             best_practice_data:
               badge: false
               percentage: null
@@ -35992,13 +36030,34 @@ landscape:
               latest_tweet_date: 2023-04-21T09:00:02.000Z
           - item:
             name: Nissan Motor Co., Ltd.
-            homepage_url: https://nissan.com/
+            homepage_url: https://nissan-global.com/
             logo: nissan_motor_co_ltd.svg
-            organization:
-              name: Nissan Motor Co., Ltd.
+            crunchbase: https://www.crunchbase.com/organization/nissan-motor
             crunchbase_data:
-              name: Nissan Motor Co., Ltd.
+              name: Nissan Motor
+              description: Nissan is a multinational automobile manufacturer that sells its cars under the Nissan, Infiniti, and Datsun brands.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.nissan-global.com/EN/
+              city: Yokohama-shi
+              region: Kanagawa
+              country: Japan
+              twitter: https://twitter.com/NissanJP
+              linkedin: https://www.linkedin.com/company/nissan-motor-corporation
+              acquisitions:
+                - date: '2022-09-07'
+                  acquiree: Vehicle Energy Japan
               parents: []
+              ticker: 7201.T
+              funding: 1456006756
+              stockExchange: tyo
+              company_type: For Profit
+              industries:
+                - Automotive
+                - Manufacturing
+                - Transportation
+            yahoo_finance_data:
+              effective_ticker: 7201.T
             image_data:
               fileName: nissan-motor-co-ltd.svg
               hash: ftM6lu6YEJNlnfl8fFmxUWF5lbssbCceNWOo8qGtcTU=
@@ -40803,8 +40862,8 @@ landscape:
             crunchbase_data:
               name: Release
               description: Release simplifies development by making the creation of environments easy.
-              num_employees_min: 1
-              num_employees_max: 10
+              num_employees_min: 11
+              num_employees_max: 50
               homepage: https://release.com/
               city: San Francisco
               region: California
@@ -45088,8 +45147,8 @@ landscape:
             crunchbase_data:
               name: Soramitsu
               description: Fintech company based in Tokyo, specializing in blockchain technology. Main contributor to Hyperledger Iroha.
-              num_employees_min: 1
-              num_employees_max: 10
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: http://www.soramitsu.co.jp
               city: Tokyo
               region: Tokyo
@@ -65394,4 +65453,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-03-30T03:48:36.071Z
+updated_at: 2024-03-31T02:28:25.411Z
