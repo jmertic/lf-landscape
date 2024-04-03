@@ -4838,6 +4838,8 @@ landscape:
                   acquiree: ARHS Developments
                 - date: '2024-03-19'
                   acquiree: Flo Group
+                - date: '2024-04-02'
+                  acquiree: Intellera Consulting
               parents: []
               ticker: CSA.F
               funding: 6000000
@@ -6421,41 +6423,6 @@ landscape:
       - subcategory:
         name: Silver
         items:
-          - item:
-            name: 0Chain
-            homepage_url: https://0chain.net/
-            logo: 0chain.svg
-            twitter: https://twitter.com/zus_network
-            crunchbase: https://www.crunchbase.com/organization/0chain
-            crunchbase_data:
-              name: 0Chain
-              description: 0Chain is a blockchain-secure data protection platform - near-impossible to breach, reduces liability, audit, and dispute resolution costs.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://0chain.net
-              city: Cupertino
-              region: California
-              country: United States
-              twitter: https://twitter.com/0chain
-              linkedin: https://www.linkedin.com/company/0chain
-              acquisitions: []
-              parents: []
-              funding: 5850000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Blockchain
-                - Cyber Security
-                - Data Storage
-              kind: funding
-            image_data:
-              fileName: 0-chain.svg
-              hash: RHi9tOlpt16af6WLQGJ0baJsZXHU7nSCZNWBau+Vqh4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T15:51:28.000Z
           - item:
             name: 1NCE GmbH
             homepage_url: https://1nce.com/
@@ -8300,6 +8267,39 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Alien6
+            homepage_url: https://alien6.com/
+            logo: alien6.svg
+            crunchbase: https://www.crunchbase.com/organization/alien6
+            crunchbase_data:
+              name: Alien6
+              description: Alien6 is a consultancy and software editor
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: http://www.alien6.com
+              city: Enghien-les-bains
+              region: Ile-de-France
+              country: France
+              twitter: https://twitter.com/__alien6
+              linkedin: https://www.linkedin.com/company/alien6/
+              acquisitions: []
+              parents: []
+              funding: 170609
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence (AI)
+                - Cloud Computing
+                - Consulting
+                - Software
+              kind: funding
+            image_data:
+              fileName: alien6.svg
+              hash: DwHjSpB7jBeU0cWILV2YpXlv/jEF5PWoRP6Ra362yks=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Allegro Cloud
             homepage_url: https://allegrocloud.io/
             logo: allegro_cloud.svg
@@ -9269,6 +9269,111 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-13T18:04:01.000Z
           - item:
+            name: Ansys
+            homepage_url: https://ansys.com/
+            logo: ansys.svg
+            twitter: https://twitter.com/ANSYS
+            crunchbase: https://www.crunchbase.com/organization/ansys
+            crunchbase_data:
+              name: ANSYS
+              description: ANSYS develops engineering simulation software used to predict how product designs will behave and how manufacturing processes will operate.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.ansys.com
+              city: Canonsburg
+              region: Pennsylvania
+              country: United States
+              twitter: https://twitter.com/ansys
+              linkedin: https://www.linkedin.com/company/ansys-inc
+              acquisitions:
+                - date: '2000-07-30'
+                  acquiree: ICEM CFD Engineering
+                - date: '2001-11-14'
+                  acquiree: CADOE
+                - date: '2003-02-14'
+                  acquiree: CFX
+                - date: '2005-02-01'
+                  acquiree: Century Dynamics
+                - date: '2006-02-16'
+                  acquiree: ANSYS Fluent
+                - date: '2006-02-16'
+                  acquiree: Aavid Thermalloy
+                - date: '2008-04-01'
+                  acquiree: Ansoft Corp.
+                - date: '2011-06-30'
+                  acquiree: Apache Design Solutions
+                - date: '2012-08-01'
+                  acquiree: Esterel Technologies
+                - date: '2013-04-02'
+                  acquiree: Evolutionary Engineering AG
+                - date: '2014-01-03'
+                  acquiree: Reaction Design
+                - date: '2014-05-01'
+                  acquiree: SpaceClaim
+                - date: '2015-02-04'
+                  acquiree: Newmerical Technologies International
+                - date: '2015-06-08'
+                  acquiree: Gear Design Solutions
+                - date: '2015-09-02'
+                  acquiree: Delcross Technologies
+                - date: '2016-11-03'
+                  acquiree: KPIT medini Technologies AG
+                - date: '2017-07-11'
+                  acquiree: Computational Engineering International
+                - date: '2017-07-14'
+                  acquiree: Profitek SA Industrial Communications
+                - date: '2017-11-15'
+                  acquiree: 3DSIM
+                - date: '2018-03-22'
+                  acquiree: Optis World
+                - date: '2019-01-22'
+                  acquiree: Granta Design
+                - date: '2019-01-22'
+                  acquiree: Helic
+                - date: '2019-05-01'
+                  acquiree: DfR Solutions
+                - date: '2019-09-13'
+                  acquiree: Livermore Software Technology Corporation (LSTC)
+                - date: '2019-10-25'
+                  acquiree: Dynardo
+                - date: '2020-03-05'
+                  acquiree: Lumerical
+                - date: '2020-10-26'
+                  acquiree: Analytical Graphics
+                - date: '2021-05-17'
+                  acquiree: Phoenix Integration Inc
+                - date: '2021-08-30'
+                  acquiree: ZEMAX
+                - date: '2022-04-13'
+                  acquiree: OnScale
+                - date: '2022-05-04'
+                  acquiree: Motor Design
+                - date: '2022-10-11'
+                  acquiree: CR Technologies
+                - date: '2023-01-03'
+                  acquiree: Rocky DEM
+                - date: '2023-05-16'
+                  acquiree: Diakopto
+              parents: []
+              ticker: ANSS
+              funding: 206770400
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Enterprise Software
+                - Information Services
+                - Information Technology
+                - Simulation
+                - Software
+            yahoo_finance_data:
+              effective_ticker: ANSS
+            image_data:
+              fileName: ansys.svg
+              hash: Lygt+muFMM4iOSAXAAZRtHfDx0pSBG+TYVNCnDvzBiU=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Ant Group Co., Ltd.
             homepage_url: https://antgroup.com/
             logo: ant_group_co_ltd.svg
@@ -9402,8 +9507,8 @@ landscape:
             crunchbase_data:
               name: AOE
               description: AOE develops digital ecommerce platform solutions based on open source technology.
-              num_employees_min: 251
-              num_employees_max: 500
+              num_employees_min: 101
+              num_employees_max: 250
               homepage: http://www.aoe.com
               city: Wiesbaden
               region: Hessen
@@ -10145,38 +10250,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T08:38:54.000Z
-          - item:
-            name: aserto
-            homepage_url: https://aserto.com/
-            logo: aserto.svg
-            crunchbase: https://www.crunchbase.com/organization/aserto-2995
-            crunchbase_data:
-              name: Aserto
-              description: Aserto enables SaaS application developers to roll out enterprise-ready permissions and RBAC through its modern authorization platform.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.aserto.com
-              city: Seattle
-              region: Washington
-              country: United States
-              twitter: http://twitter.com/aserto_com
-              linkedin: https://www.linkedin.com/company/aserto-com
-              acquisitions: []
-              parents: []
-              funding: 5100000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - SaaS
-              kind: funding
-            image_data:
-              fileName: aserto.svg
-              hash: sPw18CkLpsf0pam+ae9yAAZ0m8UvkSjnPRc9DYtOx8c=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T15:10:00.000Z
           - item:
             name: Aspen Technology, Inc.
             homepage_url: https://aspentech.com/
@@ -14724,6 +14797,56 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T20:04:35.000Z
           - item:
+            name: Celestica International LP, by its General Partner,Celestica International GP Inc
+            homepage_url: https://celestica.com/
+            logo: celestica_international_lp_by_its_general_partnercelestica_international_gp_inc.svg
+            twitter: https://twitter.com/Celestica_Inc
+            crunchbase: https://www.crunchbase.com/organization/celestica
+            crunchbase_data:
+              name: Celestica
+              description: Celestica provides design, manufacturing, and supply chain solutions to a multitude of industries.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.celestica.com
+              city: Toronto
+              region: Ontario
+              country: Canada
+              twitter: https://www.twitter.com/celestica_inc
+              linkedin: https://www.linkedin.com/company/celestica
+              acquisitions:
+                - date: '1998-12-31'
+                  acquiree: International Manufacturing Services
+                - date: '2010-01-07'
+                  acquiree: Web Panel Solutions
+                - date: '2010-07-23'
+                  acquiree: AlliedPanels Entwicklungs- und Produktions
+                - date: '2012-07-27'
+                  acquiree: D&H Manufacturing
+                - date: '2018-01-24'
+                  acquiree: Atrenne Integrated Solutions
+                - date: '2018-10-10'
+                  acquiree: Impakt
+                - date: '2021-09-21'
+                  acquiree: PCI Ltd.
+              parents: []
+              ticker: CTW.F
+              funding: 809200000
+              stockExchange: fra
+              company_type: For Profit
+              industries:
+                - Electronics
+                - Manufacturing
+                - Product Design
+                - Supply Chain Management
+            yahoo_finance_data:
+              effective_ticker: CTW.F
+            image_data:
+              fileName: celestica-international-lp-by-its-general-partner-celestica-international-gp-inc.svg
+              hash: YzMkxA59WCf7zDtsCa9nfT4CfQFrWagPPQgpILRTMog=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Cerbos
             homepage_url: https://cerbos.dev/
             logo: cerbos.svg
@@ -14825,6 +14948,34 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T07:00:09.000Z
+          - item:
+            name: Chainloop
+            homepage_url: https://chainloop.dev/
+            logo: chainloop.svg
+            crunchbase: https://www.crunchbase.com/organization/chainloop
+            crunchbase_data:
+              name: Chainloop.dev
+              description: Chainloop is a software supply chain attestation solution that both developers and security operations professionals love.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://chainloop.dev
+              city: Seville
+              region: Andalucia
+              country: Spain
+              twitter: null
+              linkedin: https://www.linkedin.com/company/chainloop-dev
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Software
+            image_data:
+              fileName: chainloop.svg
+              hash: eNBBh5+g9FNmxQJqxX+bjOlqD8lHVyLwT4y1pxpNqIg=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Chainyard
             homepage_url: https://chainyard.com/
@@ -16506,6 +16657,22 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-01-12T17:52:52.000Z
+          - item:
+            name: CloudSaver
+            homepage_url: https://cloudsaver.com/
+            logo: cloudsaver.svg
+            twitter: https://twitter.com/Cloud_Saver
+            organization:
+              name: CloudSaver
+            crunchbase_data:
+              name: CloudSaver
+              parents: []
+            image_data:
+              fileName: cloud-saver.svg
+              hash: qI9LWpVj29qub7GO66Jeaq7N4xLD6pPkaT3yS3ywAfY=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Cloudsmith Ltd
             homepage_url: https://cloudsmith.com/
@@ -20337,6 +20504,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-12T12:25:29.000Z
           - item:
+            name: DigitalFish Inc
+            homepage_url: https://digitalfish.com/
+            logo: digitalfish_inc.svg
+            organization:
+              name: DigitalFish Inc
+            crunchbase_data:
+              name: DigitalFish Inc
+              parents: []
+            image_data:
+              fileName: digital-fish-inc.svg
+              hash: dgMhGsp+QySzzGNESDJPxGCzSFDjITqgwMZf/ZMM400=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: DigitalOcean
             homepage_url: https://digitalocean.com/
             logo: digitalocean.svg
@@ -20537,8 +20719,8 @@ landscape:
             crunchbase_data:
               name: Docker
               description: Docker’s platform helps millions of developers efficiently and collaboratively build, share, and run applications.
-              num_employees_min: 101
-              num_employees_max: 250
+              num_employees_min: 251
+              num_employees_max: 500
               homepage: https://www.docker.com
               city: Palo Alto
               region: California
@@ -23535,7 +23717,7 @@ landscape:
               description: FossID is a software composition analysis tool that scans code for open source licenses and vulnerabilities.
               num_employees_min: 11
               num_employees_max: 50
-              homepage: http://fossid.com/
+              homepage: http://www.fossid.com
               city: Stockholm
               region: Stockholms Lan
               country: Sweden
@@ -23550,7 +23732,6 @@ landscape:
                 - Open Source
                 - Security
                 - Software
-                - Telecommunications
             image_data:
               fileName: foss-id.svg
               hash: Y0DUQKiTshNjCdQyFH09kfqOZMRqdxqs1IdTe+o/WtA=
@@ -31450,7 +31631,7 @@ landscape:
               effective_ticker: LTI.NS
             image_data:
               fileName: larsen-toubro-infotech-ltd.svg
-              hash: Ytqa6AcgTOwF1xiaHl+zFyHineF1xt7xCD+4t9e8a2E=
+              hash: gfN8rzexeVgA7UYhJy1/LhD1msqcnIlk/bDv+fxK2rs=
             best_practice_data:
               badge: false
               percentage: null
@@ -31728,7 +31909,7 @@ landscape:
                   acquiree: PLTS
               parents: []
               ticker: 0992.HK
-              funding: 850025000
+              funding: 1350025000
               stockExchange: hkg
               company_type: For Profit
               industries:
@@ -31833,6 +32014,21 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T15:01:54.000Z
+          - item:
+            name: Lightmatter
+            homepage_url: https://lightmatter.co/
+            logo: lightmatter.svg
+            organization:
+              name: Lightmatter
+            crunchbase_data:
+              name: Lightmatter
+              parents: []
+            image_data:
+              fileName: lightmatter.svg
+              hash: hgi3dPGPh6XwlZPtHDan9tyDn+8z1YHSb1HA3EUP5Us=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Lightrun Ltd
             homepage_url: https://lightrun.com/
@@ -32917,38 +33113,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T22:36:16.000Z
           - item:
-            name: Materna Information & Communications SE
-            homepage_url: https://materna.de/
-            logo: materna_information__communications_se.svg
-            twitter: https://twitter.com/Materna_SE
-            crunchbase: https://www.crunchbase.com/organization/materna-gmbh
-            crunchbase_data:
-              name: Materna
-              description: Materna is one of the leading IT consulting companies in the information and communications technology sector.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: https://www.materna.de/
-              city: Dortmund
-              region: Nordrhein-Westfalen
-              country: Germany
-              twitter: https://twitter.com/materna_fi
-              linkedin: https://www.linkedin.com/company/materna-information-communications-se
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Communications Infrastructure
-                - Information Technology
-            image_data:
-              fileName: materna-information-communications-se.svg
-              hash: /3ZlyjCRmIFR3jQvNIZZjLNy6C4sHZ6vM13IoEXz1Ls=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-03-30T16:35:54.000Z
-          - item:
             name: Matrix I.T CloudZone LTD
             homepage_url: https://cloudzone.io/
             logo: matrix_it_cloudzone_ltd.svg
@@ -33202,9 +33366,9 @@ landscape:
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.mckinsey.com
-              city: Vienna
-              region: Wien
-              country: Austria
+              city: New York
+              region: New York
+              country: United States
               twitter: http://twitter.com/McKinsey
               linkedin: https://www.linkedin.com/company/mckinsey/
               acquisitions:
@@ -34583,7 +34747,7 @@ landscape:
                 - Marketing
             image_data:
               fileName: moon-light-marketing.svg
-              hash: vB/UCl8CSy7lC2Jq6oEbtpjEcjdOvhWjjUysczhaEeI=
+              hash: vv01no3EMqYS7hfDXfmy9uAvwh9tlAMviuQHVPtqNr0=
             best_practice_data:
               badge: false
               percentage: null
@@ -35114,6 +35278,58 @@ landscape:
             image_data:
               fileName: navimentum-information-system-co-ltd.svg
               hash: gZoAcEaJ2mMzoA+8DlaVbfhMIPgHQvzDzQQvOc+nsvg=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: NAVIS-AMS
+            homepage_url: https://navis-ams.com/
+            logo: navis-ams.svg
+            organization:
+              name: NAVIS-AMS
+            crunchbase_data:
+              name: NAVIS-AMS
+              parents: []
+            image_data:
+              fileName: navis-ams.svg
+              hash: y746Og7/RuIBxZ1agLOpTlwzLuoCJbS8avN11lJkpXo=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: NDrive Navigation Systems SA
+            homepage_url: https://ndrive.com/
+            logo: ndrive_navigation_systems_sa.svg
+            twitter: https://twitter.com/NDrive
+            crunchbase: https://www.crunchbase.com/organization/ndrive
+            crunchbase_data:
+              name: NDrive
+              description: NDrive empowers innovation. Every day millions of people around the world use NDrive GPS products and maps.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: https://ndrive.com
+              city: Leça Do Balio
+              region: Porto
+              country: Portugal
+              twitter: http://twitter.com/ndrive
+              linkedin: https://www.linkedin.com/company/ndrive/
+              acquisitions: []
+              parents: []
+              funding: 0
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Apps
+                - GPS
+                - Location Based Services
+                - Mapping Services
+                - Mobile Apps
+                - Navigation
+                - SaaS
+                - Software
+            image_data:
+              fileName: n-drive-navigation-systems-sa.svg
+              hash: 8mZvyKBdXfx7jeKOf75+iaFsYLpnhKz/dmUyVOrEhK8=
             best_practice_data:
               badge: false
               percentage: null
@@ -38044,88 +38260,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: PayPal Holdings, Inc.
-            homepage_url: https://paypal.com/
-            logo: paypal_holdings_inc.svg
-            twitter: https://twitter.com/PayPal
-            crunchbase: https://www.crunchbase.com/organization/paypal
-            crunchbase_data:
-              name: PayPal
-              description: PayPal is a financial service company that provides online payment solutions to its users worldwide.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://www.paypal.com/home
-              city: San Jose
-              region: California
-              country: United States
-              twitter: https://twitter.com/paypal
-              linkedin: https://www.linkedin.com/company/paypal
-              acquisitions:
-                - date: '2000-03-01'
-                  acquiree: Confinity
-                - date: '2008-01-28'
-                  acquiree: Fraud Sciences
-                - date: '2011-04-28'
-                  acquiree: FigCard
-                - date: '2012-07-17'
-                  acquiree: card.io
-                - date: '2013-03-12'
-                  acquiree: Duff Research LLC
-                - date: '2013-04-13'
-                  acquiree: IronPearl
-                - date: '2013-09-26'
-                  acquiree: Braintree
-                - date: '2013-12-17'
-                  acquiree: StackMob
-                - date: '2015-03-02'
-                  acquiree: Paydiant
-                - date: '2015-03-05'
-                  acquiree: CyActive
-                - date: '2015-07-02'
-                  acquiree: Xoom
-                - date: '2015-08-19'
-                  acquiree: Modest Inc
-                - date: '2017-02-14'
-                  acquiree: TIO Networks
-                - date: '2017-08-10'
-                  acquiree: Swift Financial
-                - date: '2018-05-17'
-                  acquiree: iZettle
-                - date: '2018-05-29'
-                  acquiree: Jetlore
-                - date: '2018-06-19'
-                  acquiree: Hyperwallet
-                - date: '2018-06-21'
-                  acquiree: Simility
-                - date: '2019-10-01'
-                  acquiree: gopay
-                - date: '2019-11-20'
-                  acquiree: Honey
-                - date: '2021-03-08'
-                  acquiree: Curv
-                - date: '2021-05-13'
-                  acquiree: Happy Returns
-                - date: '2021-09-07'
-                  acquiree: Paidy
-              parents: []
-              ticker: PYPL
-              funding: 5216000000
-              stockExchange: nasdaq
-              company_type: For Profit
-              industries:
-                - E-Commerce Platforms
-                - FinTech
-                - Mobile Payments
-                - Transaction Processing
-            yahoo_finance_data:
-              effective_ticker: PYPL
-            image_data:
-              fileName: pay-pal-holdings-inc.svg
-              hash: 5Qam8UpPl58fdznDhmVdRDh3/Vc1A9NdH4EPWUwFN38=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: PBG Consulting
             homepage_url: https://pbgconsult.com/
             logo: pbg_consulting.svg
@@ -39016,6 +39150,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T10:10:08.000Z
           - item:
+            name: Polygon Labs Services (Switzerland) AG
+            homepage_url: https://polygon.technology/
+            logo: polygon_labs_services_switzerland_ag.svg
+            organization:
+              name: Polygon Labs Services (Switzerland) AG
+            crunchbase_data:
+              name: Polygon Labs Services (Switzerland) AG
+              parents: []
+            image_data:
+              fileName: polygon-labs-services-switzerland-ag.svg
+              hash: GqrnR0ax1zn9D2JQbnpiRyRMrNN4WYJthH7ExoXNT3o=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Port
             homepage_url: https://getport.io/
             logo: port.svg
@@ -39467,6 +39616,89 @@ landscape:
             image_data:
               fileName: proofcraft-pty-ltd.svg
               hash: rtfIXtKUkZRvs9Aw1hX117b+HGoF9LaU4X5CHhjS5nM=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: ProSiebenSat.1 Tech Solutions GmbH
+            homepage_url: https://prosiebensat1.com/
+            logo: prosiebensat1_tech_solutions_gmbh.svg
+            twitter: https://twitter.com/P7S1Group
+            crunchbase: https://www.crunchbase.com/organization/prosiebensat1
+            crunchbase_data:
+              name: ProSiebenSat.1 Media
+              description: ProSiebenSat.1 Media SE is a mass media company operating television, radio stations and print businesses.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: https://www.prosiebensat1.com
+              city: Unterföhring
+              region: Bayern
+              country: Germany
+              twitter: https://twitter.com/p7s1group
+              linkedin: https://www.linkedin.com/company/prosiebensat1-media-se/
+              acquisitions:
+                - date: '2011-06-09'
+                  acquiree: 'Burda: ic'
+                - date: '2012-04-05'
+                  acquiree: Booming
+                - date: '2012-05-25'
+                  acquiree: Preis24
+                - date: '2012-07-05'
+                  acquiree: tropo GmbH
+                - date: '2013-09-12'
+                  acquiree: ferien.de
+                - date: '2013-09-12'
+                  acquiree: weg.de
+                - date: '2014-02-27'
+                  acquiree: Aeria Games GmbH
+                - date: '2015-03-18'
+                  acquiree: Amorelie
+                - date: '2015-03-18'
+                  acquiree: Flaconi
+                - date: '2015-05-27'
+                  acquiree: RapidApe
+                - date: '2015-06-26'
+                  acquiree: Verivox Holdings Ltd.
+                - date: '2015-06-30'
+                  acquiree: Virtual Minds
+                - date: '2015-06-30'
+                  acquiree: Yieldlab AG
+                - date: '2015-07-10'
+                  acquiree: Studio71
+                - date: '2015-07-29'
+                  acquiree: SMARTSTREAM TV
+                - date: '2015-10-12'
+                  acquiree: Etraveli
+                - date: '2016-05-19'
+                  acquiree: Stylight
+                - date: '2016-08-17'
+                  acquiree: WindStar Medical GmbH
+                - date: '2016-09-05'
+                  acquiree: Parship
+                - date: '2017-06-21'
+                  acquiree: Jochen Schweizer Events
+                - date: '2017-12-05'
+                  acquiree: esome advertising technologies
+                - date: '2018-10-28'
+                  acquiree: eHarmony
+                - date: '2022-09-13'
+                  acquiree: Joyn GmbH
+              parents:
+                - https://www.crunchbase.com/organization/gruppo-mediaset
+              ticker: PSM.F
+              funding: 0
+              stockExchange: fra
+              company_type: For Profit
+              industries:
+                - Advertising
+                - Broadcasting
+                - Media and Entertainment
+                - Music
+            yahoo_finance_data:
+              effective_ticker: PSM.F
+            image_data:
+              fileName: pro-sieben-sat-1-tech-solutions-gmb-h.svg
+              hash: J6aSAordtqbH4TjgLjHHhuWbguoZunMARjkTaQGj4WQ=
             best_practice_data:
               badge: false
               percentage: null
@@ -42432,6 +42664,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T11:24:28.000Z
           - item:
+            name: Scalar
+            homepage_url: https://scalar.com/
+            logo: scalar.svg
+            organization:
+              name: Scalar
+            crunchbase_data:
+              name: Scalar
+              parents: []
+            image_data:
+              fileName: scalar.svg
+              hash: 0KiBHe9LIPkfd8H5202BArK8Sz+7ielZQeLE6nvo0ug=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: ScaleOps
             homepage_url: https://scaleops.com/
             logo: scaleops.svg
@@ -43122,6 +43369,43 @@ landscape:
             image_data:
               fileName: secondfront.svg
               hash: ENFYzIdR6llMFQJn4/D6JFqF7IFuWMHcjOuQaTZ4kSk=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Sedai
+            homepage_url: https://sedai.io/
+            logo: sedai.svg
+            twitter: https://twitter.com/sedai_io
+            crunchbase: https://www.crunchbase.com/organization/sedai
+            crunchbase_data:
+              name: Sedai
+              description: Sedai delivers AI-powered cloud cost optimization and performance tuning for cloud teams to maximize savings and improve customer experience
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.sedai.io/
+              city: Pleasanton
+              region: California
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/sedai
+              acquisitions: []
+              parents: []
+              funding: 18500000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Cloud Management
+                - DevOps
+                - Developer Tools
+                - Information Technology
+                - SaaS
+                - Software
+              kind: funding
+            image_data:
+              fileName: sedai.svg
+              hash: xP1xK2eto0W7haHMQuF/MgrdMefJ5rbhVGrAnejxyvg=
             best_practice_data:
               badge: false
               percentage: null
@@ -44590,6 +44874,37 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T23:48:18.000Z
+          - item:
+            name: Socionext Inc.
+            homepage_url: https://www.socionext.com/en/
+            logo: socionext_inc.svg
+            twitter: https://twitter.com/SocionextJapan
+            crunchbase: https://www.crunchbase.com/organization/socionext
+            crunchbase_data:
+              name: Socionext
+              description: Socionext is a global enterprise that designs, develops and delivers System-on-Chips to customers worldwide.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.socionext.com/en/
+              city: Yokohama
+              region: Kanagawa
+              country: Japan
+              twitter: https://www.twitter.com/socionextjapan
+              linkedin: https://www.linkedin.com/company/socionextinc/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Enterprise
+                - Manufacturing
+                - Semiconductor
+            image_data:
+              fileName: socionext-inc.svg
+              hash: ld+NK7i2EWaEGkXGRZXPYOgMmGcT0lA6+6+0A3iCSK4=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Société Générale
             homepage_url: https://societegenerale.com/
@@ -46129,6 +46444,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-18T15:12:06.000Z
           - item:
+            name: Stelia
+            homepage_url: https://stelia.io/
+            logo: stelia.svg
+            organization:
+              name: Stelia
+            crunchbase_data:
+              name: Stelia
+              parents: []
+            image_data:
+              fileName: stelia.svg
+              hash: cDj7bcY8Zu8B+tAhbAz6AOxlqkuxA4lJZ7xfaDmJETs=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Stellate
             homepage_url: https://graphcdn.io/
             logo: stellate.svg
@@ -46146,6 +46476,21 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T11:13:43.000Z
+          - item:
+            name: StepSecurity
+            homepage_url: https://stepsecurity.io/
+            logo: stepsecurity.svg
+            organization:
+              name: StepSecurity
+            crunchbase_data:
+              name: StepSecurity
+              parents: []
+            image_data:
+              fileName: step-security.svg
+              hash: wxrt0yNl9/ca7MQZgFD3JpYjXIFkW7jojRTQlsxvnII=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Sternum
             homepage_url: https://sternumiot.com/
@@ -46472,7 +46817,7 @@ landscape:
             joined: '2020-07-01'
             crunchbase_data:
               name: Brain Technologies
-              description: Brain Technologies develops an artificial intelligence-powered search engine platform to reinvent human-computer interaction.
+              description: Brain builds computers that think. It invents new technologies and design metaphors that allow computers to become an extension of our minds
               num_employees_min: 101
               num_employees_max: 250
               homepage: http://brain.ai/
@@ -46590,8 +46935,8 @@ landscape:
             crunchbase_data:
               name: Supermicro
               description: Supermicro is a global leader in high-performance, high-efficiency server technology and innovation.
-              num_employees_min: 1001
-              num_employees_max: 5000
+              num_employees_min: 5001
+              num_employees_max: 10000
               homepage: http://www.supermicro.com
               city: San Jose
               region: California
@@ -50635,6 +50980,39 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T14:00:48.000Z
           - item:
+            name: Unryo Inc
+            homepage_url: https://unryo.com/
+            logo: unryo_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/unryo
+            crunchbase_data:
+              name: UNRYO
+              description: Industry's First Hybrid Multi-Cloud Monitoring Platform
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://www.unryo.com
+              city: Montréal
+              region: Quebec
+              country: Canada
+              twitter: null
+              linkedin: https://www.linkedin.com/company/unryo
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Infrastructure
+                - Enterprise Software
+                - Information Technology
+                - Predictive Analytics
+                - SaaS
+                - Software
+            image_data:
+              fileName: unryo-inc.svg
+              hash: rt4siYqUL7/qHPBtxkO4SBTzUasnF/BfQXAwz1DZlXc=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: unSkript, Inc.
             homepage_url: https://unskript.com/
             logo: unskript_inc.svg
@@ -53218,7 +53596,7 @@ landscape:
             joined: '2023-12-01'
             crunchbase_data:
               name: Zesty.co
-              description: Zesty enables Dynamic Cloud Infrastructure that instantly adapts to your changing business needs.
+              description: Leading cloud infrastructure optimization platform helping leading organization minimize cloud waste and maximize innovation.
               num_employees_min: 101
               num_employees_max: 250
               homepage: https://zesty.co
@@ -55227,6 +55605,37 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T07:00:18.000Z
+          - item:
+            name: Centre for Development of Advanced Computing
+            homepage_url: https://cdac.in/
+            logo: centre_for_development_of_advanced_computing.svg
+            twitter: https://twitter.com/cdacindia
+            crunchbase: https://www.crunchbase.com/organization/centre-for-development-of-advanced-computing
+            crunchbase_data:
+              name: Centre for Development of Advanced Computing
+              description: Centre for Development of Advanced Computing is a school in Pune.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.cdac.in/
+              city: Pune
+              region: Maharashtra
+              country: India
+              twitter: http://twitter.com/cdacindia
+              linkedin: https://www.linkedin.com/company/cdac/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Computer Vision
+                - Education
+                - Software
+            image_data:
+              fileName: centre-for-development-of-advanced-computing.svg
+              hash: JllDqE2m3TXzQh5h2pGmdDAiDkCXubKqbquTrVKO6/0=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: ChainHub Foundation
             homepage_url: https://chainhub.foundation/
@@ -65453,4 +65862,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-04-02T03:48:26.681Z
+updated_at: 2024-04-03T02:29:06.717Z
