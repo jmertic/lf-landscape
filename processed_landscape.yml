@@ -7068,6 +7068,35 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T23:00:55.000Z
           - item:
+            name: Ada Logics
+            homepage_url: https://adalogics.com/
+            logo: ada_logics.svg
+            crunchbase: https://www.crunchbase.com/organization/ada-logistics
+            crunchbase_data:
+              name: Ada Logistics
+              description: Ada Logistics provides truckload services.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://adalogistics.com/
+              city: Ada
+              region: Michigan
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/ada-logistics-corp
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Logistics
+                - Transportation
+            image_data:
+              fileName: ada-logics.svg
+              hash: tjtkJYW2v7wm+mF72ZtxFibVuzkakES4OsFwWUHx20s=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Adaptech Group
             homepage_url: https://adaptechgroup.com/
             logo: adaptech_group.svg
@@ -10695,6 +10724,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T20:26:53.000Z
           - item:
+            name: Atym
+            homepage_url: https://atym.io/
+            logo: atym.svg
+            organization:
+              name: Atym
+            crunchbase_data:
+              name: Atym
+              parents: []
+            image_data:
+              fileName: atym.svg
+              hash: vGZoEgLcNJI/Ax1e7oa79mRBUWstjy/rL9aGSQyUlrE=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Audiokinetic Inc.
             homepage_url: https://audiokinetic.com/
             logo: audiokinetic_inc.svg
@@ -13093,7 +13137,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/bloombase
             crunchbase_data:
               name: Bloombase
-              description: Bloombase is the intelligent storage firewall company
+              description: Bloombase is an intelligent storage firewall company
               num_employees_min: 51
               num_employees_max: 100
               homepage: https://www.bloombase.com
@@ -27400,8 +27444,8 @@ landscape:
             crunchbase_data:
               name: iExec
               description: iExec provides blockchain based decentralized cloud computing platform.
-              num_employees_min: 11
-              num_employees_max: 50
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: http://iex.ec/
               city: Lyon
               region: Rhone-Alpes
@@ -31700,40 +31744,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: Lawrence Livermore National Laboratory (LLNL)
-            homepage_url: https://llnl.gov/
-            logo: lawrence_livermore_national_laboratory_llnl.svg
-            crunchbase: https://www.crunchbase.com/organization/lawrence-livermore-national-laboratory
-            crunchbase_data:
-              name: Lawrence Livermore National Laboratory
-              description: Lawrence Livermore National Laboratory, a national security laboratory, provides transformational solutions to national security challenges.
-              num_employees_min: 5001
-              num_employees_max: 10000
-              homepage: http://www.llnl.gov
-              city: Livermore
-              region: California
-              country: United States
-              twitter: http://twitter.com/Livermore_Lab
-              linkedin: https://www.linkedin.com/company/4994
-              acquisitions: []
-              parents: []
-              funding: 11400000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Information Technology
-                - Market Research
-                - Security
-              kind: funding
-            image_data:
-              fileName: lawrence-livermore-national-laboratory-llnl.svg
-              hash: LxTMVAK6YwJBLAwo6y19rhXj+lP8g0SSnugyASgPQys=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T15:58:13.000Z
           - item:
             name: Leaseweb Global B.V.
             homepage_url: https://leaseweb.com/
@@ -39743,42 +39753,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-07T17:18:23.000Z
-          - item:
-            name: proteanTecs
-            homepage_url: https://proteantecs.com/
-            logo: proteantecs.svg
-            crunchbase: https://www.crunchbase.com/organization/proteantecs
-            crunchbase_data:
-              name: proteanTecs
-              description: proteanTecs provides deep data analytics on a cloud-based platform to monitor the health and performance of advanced electronics.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: https://www.proteantecs.com/
-              city: Haifa
-              region: Hefa
-              country: Israel
-              twitter: https://twitter.com/ProteanTecs
-              linkedin: https://www.linkedin.com/company/proteantecs/
-              acquisitions: []
-              parents: []
-              funding: 192000005
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Analytics
-                - Artificial Intelligence (AI)
-                - Electronics
-                - Semiconductor
-                - Software
-              kind: funding
-            image_data:
-              fileName: protean-tecs.svg
-              hash: oxgOp8i4KpG1nlE69MhjDsimjQyG3vGAcsuslXhKQwM=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T16:00:48.000Z
           - item:
             name: PTV Group
             homepage_url: https://ptvgroup.com/
@@ -47834,6 +47808,8 @@ landscape:
                   acquiree: OneWelcome
                 - date: '2023-07-25'
                   acquiree: Imperva
+                - date: '2024-04-02'
+                  acquiree: Cobham Aerospace Communications
               parents: []
               ticker: HO.PA
               stockExchange: epa
@@ -48955,6 +48931,8 @@ landscape:
                   acquiree: OneWelcome
                 - date: '2023-07-25'
                   acquiree: Imperva
+                - date: '2024-04-02'
+                  acquiree: Cobham Aerospace Communications
               parents: []
               ticker: HO.PA
               stockExchange: epa
@@ -52388,54 +52366,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T09:42:49.000Z
-          - item:
-            name: Wayfair
-            homepage_url: https://wayfair.com/
-            logo: wayfair.svg
-            twitter: https://twitter.com/Wayfair
-            crunchbase: https://www.crunchbase.com/organization/wayfair
-            joined: '2022-04-27'
-            crunchbase_data:
-              name: Wayfair
-              description: Wayfair is an online retailer that offers a wide range and selection of home products.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://www.wayfair.com
-              city: Boston
-              region: Massachusetts
-              country: United States
-              twitter: https://twitter.com/wayfair
-              linkedin: https://www.linkedin.com/company/wayfair
-              acquisitions:
-                - date: '2011-09-20'
-                  acquiree: buyster
-                - date: '2013-08-02'
-                  acquiree: DwellStudio
-                - date: '2015-05-21'
-                  acquiree: CustomMade
-                - date: '2016-08-30'
-                  acquiree: TrumpIt
-              parents: []
-              ticker: W
-              funding: 2278000000
-              stockExchange: nyse
-              company_type: For Profit
-              industries:
-                - Consumer Goods
-                - E-Commerce
-                - Furniture
-                - Home Decor
-                - Retail
-            yahoo_finance_data:
-              effective_ticker: W
-            image_data:
-              fileName: wayfair.svg
-              hash: ccSp7ZHe26k6QPMWkJyl13vxwmOWN1pY+ADTbP+tsbY=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T22:20:34.000Z
           - item:
             name: Web3 Labs
             description: >-
@@ -59710,6 +59640,41 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T00:29:00.000Z
           - item:
+            name: Lawrence Livermore National Laboratory (LLNL)
+            homepage_url: https://llnl.gov/
+            logo: lawrence_livermore_national_laboratory_llnl.svg
+            twitter: https://twitter.com/Livermore_Lab
+            crunchbase: https://www.crunchbase.com/organization/lawrence-livermore-national-laboratory
+            crunchbase_data:
+              name: Lawrence Livermore National Laboratory
+              description: Lawrence Livermore National Laboratory, a national security laboratory, provides transformational solutions to national security challenges.
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: http://www.llnl.gov
+              city: Livermore
+              region: California
+              country: United States
+              twitter: http://twitter.com/Livermore_Lab
+              linkedin: https://www.linkedin.com/company/4994
+              acquisitions: []
+              parents: []
+              funding: 11400000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Technology
+                - Market Research
+                - Security
+              kind: funding
+            image_data:
+              fileName: lawrence-livermore-national-laboratory-llnl.svg
+              hash: LxTMVAK6YwJBLAwo6y19rhXj+lP8g0SSnugyASgPQys=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2023-04-20T15:58:13.000Z
+          - item:
             name: Learning Economy, Inc.
             homepage_url: https://learningeconomy.io/
             logo: learning_economy_inc.svg
@@ -65861,4 +65826,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-04-03T03:51:44.729Z
+updated_at: 2024-04-04T02:26:20.182Z
