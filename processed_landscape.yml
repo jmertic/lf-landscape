@@ -7629,7 +7629,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/aerospike
             crunchbase_data:
               name: Aerospike
-              description: Aerospike is an information technology company that specializes in real-time NoSQL data solutions for any scale.
+              description: Aerospike is a NoSQL database designed for real-time and mission-critical applications.
               num_employees_min: 51
               num_employees_max: 100
               homepage: http://www.aerospike.com
@@ -7642,17 +7642,15 @@ landscape:
                 - date: '2012-08-28'
                   acquiree: AlchemyDB
               parents: []
-              funding: 132000000
+              funding: 241000000
               stockExchange: null
               company_type: For Profit
               industries:
                 - Analytics
-                - Auctions
                 - Big Data
                 - Database
                 - Real Time
                 - Software
-                - Transaction Processing
               kind: funding
             image_data:
               fileName: aerospike.svg
@@ -9713,41 +9711,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-19T18:37:39.000Z
-          - item:
-            name: Apono
-            homepage_url: https://apono.io/
-            logo: apono.svg
-            crunchbase: https://www.crunchbase.com/organization/apono
-            joined: '2022-12-01'
-            crunchbase_data:
-              name: Apono
-              description: Apono helps companies become secure and compliant while maintaining their productivity and agility.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://www.apono.io/
-              city: Wilmington
-              region: Delaware
-              country: United States
-              twitter: https://twitter.com/Apono_official
-              linkedin: https://www.linkedin.com/company/aponoio/
-              acquisitions: []
-              parents: []
-              funding: 5000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cyber Security
-                - Information Technology
-                - Software
-              kind: funding
-            image_data:
-              fileName: apono.svg
-              hash: pKwLhjYzCa9H2GRFd/4p3lob68R+ylByYtsmCgbwLOs=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-01-15T15:40:41.000Z
           - item:
             name: appCD
             homepage_url: https://appcd.io/
@@ -18092,7 +18055,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/corsha
               acquisitions: []
               parents: []
-              funding: 14901000
+              funding: 16700000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -20392,8 +20355,8 @@ landscape:
             crunchbase_data:
               name: Diamanti
               description: Diamanti is the technology leader in bare-metal container infrastructure, purpose-built for modern cloud and open-source environments.
-              num_employees_min: 101
-              num_employees_max: 250
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: https://www.diamanti.com/
               city: San Jose
               region: California
@@ -26343,7 +26306,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/hexagon
             crunchbase_data:
               name: Hexagon
-              description: Hexagon is a global provider of information technologies that drive productivity and quality.
+              description: Hexagon is a provider of information technologies that drive productivity and quality.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.hexagon.com
@@ -26523,6 +26486,8 @@ landscape:
                   acquiree: CADS Additive
                 - date: '2023-07-12'
                   acquiree: HLS Hard-Line Solutions Inc.
+                - date: '2024-04-04'
+                  acquiree: Itus Digital
               parents: []
               ticker: HEXA-B
               funding: 200000
@@ -46792,9 +46757,9 @@ landscape:
             crunchbase_data:
               name: Brain Technologies
               description: Brain builds computers that think. It invents new technologies and design metaphors that allow computers to become an extension of our minds
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: http://brain.ai/
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://brain.ai
               city: San Mateo
               region: California
               country: United States
@@ -47396,6 +47361,8 @@ landscape:
                   acquiree: Citihub Digital
                 - date: '2020-12-11'
                   acquiree: Attra
+                - date: '2024-04-04'
+                  acquiree: Dreamix
               parents: []
               stockExchange: null
               company_type: For Profit
@@ -65825,4 +65792,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-04-04T03:48:54.134Z
+updated_at: 2024-04-05T02:27:19.361Z
