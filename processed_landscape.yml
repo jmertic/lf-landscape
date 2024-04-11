@@ -3863,10 +3863,6 @@ landscape:
               industries:
                 - Artificial Intelligence (AI)
                 - Generative AI
-                - Machine Learning
-                - Manufacturing
-                - Natural Language Processing
-                - Predictive Analytics
                 - Software
                 - Telecommunications
                 - Wireless
@@ -8620,6 +8616,8 @@ landscape:
                   acquiree: Vision-Box
                 - date: '2024-03-11'
                   acquiree: Voxel
+                - date: '2024-04-08'
+                  acquiree: Vision-Box
               parents:
                 - https://www.crunchbase.com/organization/amadeus
               ticker: AMS.MC
@@ -11105,7 +11103,6 @@ landscape:
                 - Architecture
                 - Construction
                 - Manufacturing
-                - Software
                 - Software Engineering
             yahoo_finance_data:
               effective_ticker: ADSK
@@ -27524,8 +27521,8 @@ landscape:
             crunchbase_data:
               name: IDnow
               description: IDnow is a technology startup that provides advanced machine-learning technology for its Identity Verification-as-a-Service platform.
-              num_employees_min: 501
-              num_employees_max: 1000
+              num_employees_min: 251
+              num_employees_max: 500
               homepage: https://www.idnow.io
               city: Munich
               region: Bayern
@@ -30744,16 +30741,16 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/ksoc-labs-inc
             joined: '2022-02-01'
             crunchbase_data:
-              name: KSOC Labs
-              description: KSOC is an event-driven SaaS platform that remediates Kubernetes security risks and enforces least-privileged access control.
+              name: Rad Security
+              description: Rad Security is an organization focused on Behavioral Cloud Native Threat Detection and Response
               num_employees_min: 11
               num_employees_max: 50
-              homepage: https://www.ksoc.com
+              homepage: https://rad.security/
               city: San Francisco
               region: California
               country: United States
-              twitter: https://twitter.com/ksoclabs
-              linkedin: https://www.linkedin.com/company/ksoc-labs
+              twitter: https://twitter.com/RADSecurity_
+              linkedin: https://www.linkedin.com/company/76253716/admin/feed/posts/
               acquisitions: []
               parents: []
               funding: 6650000
@@ -30771,8 +30768,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T18:27:07.000Z
           - item:
             name: kt NexR
             homepage_url: https://ktnexr.com/
@@ -33894,16 +33889,16 @@ landscape:
             logo: memphisdev_dba_stretch_inc.svg
             crunchbase: https://www.crunchbase.com/organization/memphis-dev
             crunchbase_data:
-              name: Memphis.dev
-              description: Accelerate Development of Real-time Applications using Memphis.dev Event Streaming Platform
+              name: Superstream
+              description: Improve And Optimize Your Kafka In Literally Minutes
               num_employees_min: 11
               num_employees_max: 50
-              homepage: https://www.memphis.dev/
+              homepage: https://superstream.ai/
               city: Tel Aviv-yafo
               region: Tel Aviv
               country: Israel
-              twitter: https://twitter.com/Memphis_Dev
-              linkedin: https://www.linkedin.com/company/memphis-dev/
+              twitter: null
+              linkedin: null
               acquisitions: []
               parents: []
               funding: 5500000
@@ -33920,8 +33915,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T10:03:00.000Z
           - item:
             name: MemVerge
             homepage_url: https://memverge.com/
@@ -51392,11 +51385,9 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
+                - Cloud Computing
                 - Cloud Infrastructure
-                - Enterprise Software
-                - Information Technology
-                - Predictive Analytics
-                - SaaS
+                - Machine Learning
                 - Software
             image_data:
               fileName: unryo-inc.svg
@@ -66576,4 +66567,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-04-10T03:52:55.989Z
+updated_at: 2024-04-11T02:26:21.677Z
