@@ -3853,6 +3853,8 @@ landscape:
                   acquiree: Cellwize
                 - date: '2023-05-08'
                   acquiree: Autotalks
+                - date: '2024-04-10'
+                  acquiree: Foundries.io
               parents: []
               ticker: QCOM
               funding: 0
@@ -4838,6 +4840,8 @@ landscape:
                   acquiree: CLIMB
                 - date: '2024-04-08'
                   acquiree: Axis Corporate
+                - date: '2024-04-10'
+                  acquiree: UNLIMITED
               parents: []
               ticker: CSA.F
               funding: 6000000
@@ -21267,6 +21271,8 @@ landscape:
                   acquiree: 3PM Shield
                 - date: '2023-05-15'
                   acquiree: Certilogo
+                - date: '2024-04-10'
+                  acquiree: Goldin Auctions
               parents: []
               ticker: EBAY
               funding: 1156700000
@@ -25466,6 +25472,21 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-03-29T18:52:03.000Z
+          - item:
+            name: Greenpixie
+            homepage_url: https://greenpixie.com/
+            logo: greenpixie.svg
+            organization:
+              name: Greenpixie
+            crunchbase_data:
+              name: Greenpixie
+              parents: []
+            image_data:
+              fileName: greenpixie.svg
+              hash: d3WltcdLNbbwH79+RlhkInU6pVXEu+1XcY1so+tlPn8=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Greptime HK Limited
             homepage_url: https://greptime.com/
@@ -30736,6 +30757,7 @@ landscape:
             name: KSOC
             homepage_url: https://ksoc.com/
             logo: ksoc.svg
+            twitter: https://twitter.com/ksoclabs
             crunchbase: https://www.crunchbase.com/organization/ksoc-labs-inc
             joined: '2022-02-01'
             crunchbase_data:
@@ -33885,6 +33907,7 @@ landscape:
             name: Memphis.dev dba Stretch, Inc.
             homepage_url: https://memphis.dev/
             logo: memphisdev_dba_stretch_inc.svg
+            twitter: https://twitter.com/Memphis_Dev
             crunchbase: https://www.crunchbase.com/organization/memphis-dev
             crunchbase_data:
               name: Superstream
@@ -35401,13 +35424,13 @@ landscape:
             joined: '2023-10-01'
             crunchbase_data:
               name: N3XGEN.io
-              description: 'N3XGEN.io: Revolutionizing cloud integration with our beyond 12-factor iPaaS platform. Unleash the power of agility and innovation.'
+              description: 'N3XGEN.io: Revolutionizing cloud integration with AI Powered "i + Paas". Integrates data, automates workflows, enriches insights.'
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://n3xgen.io/
-              city: Dubai
-              region: Dubai
-              country: United Arab Emirates
+              city: Manassas
+              region: Virginia
+              country: United States
               twitter: https://twitter.com/n3xgensmartinfo
               linkedin: null
               acquisitions: []
@@ -36773,6 +36796,42 @@ landscape:
             image_data:
               fileName: nomoko.svg
               hash: MJEwktsRMXyaAn8cHDPdiMT4qg90xMqJ/5BDUJuYnz0=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: nops.io
+            homepage_url: https://nops.io/
+            logo: nopsio.svg
+            twitter: https://twitter.com/nopsio
+            crunchbase: https://www.crunchbase.com/organization/nops-inc
+            crunchbase_data:
+              name: nOps
+              description: nOps is a cloud cost optimization platform for AWS.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: https://www.nops.io/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://www.twitter.com/nopsio
+              linkedin: https://www.linkedin.com/company/nops/
+              acquisitions: []
+              parents: []
+              funding: 9500000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - Cloud Infrastructure
+                - Cloud Security
+                - Compliance
+                - SaaS
+                - Software
+              kind: funding
+            image_data:
+              fileName: nops-io.svg
+              hash: 8WrL13S5zu1yYB9ouXArQHZsCQgZf8qfZQYDom1789c=
             best_practice_data:
               badge: false
               percentage: null
@@ -40507,8 +40566,8 @@ landscape:
             crunchbase_data:
               name: QingCloud
               description: QingCloud is a cloud computing platform that provides IaaS-based flexible cloud services.
-              num_employees_min: 501
-              num_employees_max: 1000
+              num_employees_min: 251
+              num_employees_max: 500
               homepage: http://qingcloud.com
               city: Beijing
               region: Beijing
@@ -40948,9 +41007,11 @@ landscape:
               linkedin: https://www.linkedin.com/company/raft-tech
               acquisitions: []
               parents: []
+              funding: 60000000
               stockExchange: null
               company_type: For Profit
               industries: []
+              kind: funding
             image_data:
               fileName: raft.svg
               hash: jcAKiBNBJc8l6TJd4TZJiUd9SUAvoG4kFpjdXQIzjjs=
@@ -44960,6 +45021,62 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T10:25:49.000Z
           - item:
+            name: SK Telecom
+            homepage_url: https://sktelecom.com/
+            logo: sk_telecom.svg
+            twitter: https://twitter.com/SKtelecom
+            crunchbase: https://www.crunchbase.com/organization/sktelecom
+            crunchbase_data:
+              name: SK Telecom
+              description: SK Telecom focuses on developing innovative telecommunications technologies for the mobile lifestyle.
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: http://www.sktelecom.com
+              city: Seoul
+              region: Seoul-t'ukpyolsi
+              country: South Korea
+              twitter: http://www.twitter.com/SKtelecom
+              linkedin: https://www.linkedin.com/company/sk-telecom
+              acquisitions:
+                - date: '2003-08-05'
+                  acquiree: Cyworld
+                - date: '2006-01-01'
+                  acquiree: Korea Thrunet Co
+                - date: '2007-12-03'
+                  acquiree: Hanaro Telecom
+                - date: '2008-09-23'
+                  acquiree: SK Broadband
+                - date: '2009-10-12'
+                  acquiree: Hana Card
+                - date: '2014-06-03'
+                  acquiree: iRiver Ltd
+                - date: '2014-09-27'
+                  acquiree: Shopkick
+                - date: '2015-11-01'
+                  acquiree: LG HelloVision
+                - date: '2018-02-26'
+                  acquiree: ID Quantique
+                - date: '2018-05-08'
+                  acquiree: SK Shielders
+              parents:
+                - https://www.crunchbase.com/organization/sk-group
+                - https://www.crunchbase.com/organization/sk-holdings
+              ticker: SKM
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence (AI)
+                - Mobile Apps
+                - Telecommunications
+            yahoo_finance_data:
+              effective_ticker: SKM
+            image_data:
+              fileName: sk-telecom.svg
+              hash: 8ZonxEl1MGhpb4Xx6fmn/9+CYwc3eybUaDJFE66qsXM=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Skyloud
             homepage_url: https://skyloud.fr/
             logo: skyloud.svg
@@ -47446,8 +47563,8 @@ landscape:
             crunchbase_data:
               name: Bocloud
               description: BoCloud provides professional cloud computing services for enterprise customers, focusing on PaaS technology.
-              num_employees_min: 501
-              num_employees_max: 1000
+              num_employees_min: 101
+              num_employees_max: 250
               homepage: http://www.bocloud.com.cn
               city: Suzhou
               region: Jiangsu
@@ -54648,9 +54765,10 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Argonne National Labs
+            name: Argonne National Laboratory
             homepage_url: https://anl.gov/
-            logo: argonne_national_labs.svg
+            logo: argonne_national_laboratory.svg
+            twitter: https://twitter.com/argonne
             crunchbase: https://www.crunchbase.com/organization/argonne-national-laboratory
             crunchbase_data:
               name: Argonne National Laboratory
@@ -54674,7 +54792,7 @@ landscape:
                 - Social Impact
               kind: funding
             image_data:
-              fileName: argonne-national-labs.svg
+              fileName: argonne-national-laboratory.svg
               hash: il1HzOjpsoy3vJRdqrKEfNbiZnJ/ocLTaZKiGrzmvnw=
             best_practice_data:
               badge: false
@@ -65957,6 +66075,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T21:12:37.000Z
           - item:
+            name: USP - Universidade de São Paulo
+            homepage_url: https://usp.br/
+            logo: usp_-_universidade_de_sao_paulo.svg
+            organization:
+              name: USP - Universidade de São Paulo
+            crunchbase_data:
+              name: USP - Universidade de São Paulo
+              parents: []
+            image_data:
+              fileName: usp-universidade-de-s-o-paulo.svg
+              hash: tJC7Q0xSzPqYtdjE6owtUVA8qJrnO25+0jjIZw9KCkM=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Vanderbilt University
             homepage_url: https://vanderbilt.edu/
             logo: vanderbilt_university.svg
@@ -66565,4 +66698,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-04-11T03:53:09.633Z
+updated_at: 2024-04-12T02:30:44.389Z
