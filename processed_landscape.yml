@@ -3853,7 +3853,7 @@ landscape:
                   acquiree: Cellwize
                 - date: '2023-05-08'
                   acquiree: Autotalks
-                - date: '2024-04-10'
+                - date: '2024-04-09'
                   acquiree: Foundries.io
               parents: []
               ticker: QCOM
@@ -14607,7 +14607,7 @@ landscape:
               parents: []
             image_data:
               fileName: cariad-se.svg
-              hash: WbUu3ws7WO56MV7+kcGrgzSbvIARi4uLc4RreJay6Kw=
+              hash: jvJAwshuoPxLUG+fE/4btAwYNQJpb2vqa0ldiuwgg7Q=
             best_practice_data:
               badge: false
               percentage: null
@@ -34145,8 +34145,8 @@ landscape:
             crunchbase_data:
               name: Mia-Platform
               description: Mia-Platform is a cloud-native Platform Builder that enables organizations to build and orchestrate their Internal Developer Platforms (IDP)
-              num_employees_min: 101
-              num_employees_max: 250
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: https://mia-platform.eu/
               city: Milan
               region: Lombardia
@@ -34375,6 +34375,8 @@ landscape:
                   acquiree: Tekron
                 - date: '2020-10-21'
                   acquiree: LegUp Computing
+                - date: '2024-04-11'
+                  acquiree: VSI
               parents: []
               ticker: MCHP
               funding: 937000
@@ -39693,8 +39695,8 @@ landscape:
             crunchbase_data:
               name: Postman
               description: Postman is the collaboration platform for API development.
-              num_employees_min: 501
-              num_employees_max: 1000
+              num_employees_min: 1001
+              num_employees_max: 5000
               homepage: https://www.postman.com
               city: San Francisco
               region: California
@@ -39704,6 +39706,8 @@ landscape:
               acquisitions:
                 - date: '2023-07-19'
                   acquiree: Akita Software
+                - date: '2024-04-11'
+                  acquiree: Orbit
               parents: []
               funding: 433000000
               stockExchange: null
@@ -48559,6 +48563,8 @@ landscape:
                   acquiree: Com Tec
                 - date: '2022-03-12'
                   acquiree: Thirdware Solution
+                - date: '2024-02-20'
+                  acquiree: Orchid Cybertech Services
               parents: []
               stockExchange: null
               company_type: For Profit
@@ -51484,7 +51490,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/unryo
             crunchbase_data:
               name: UNRYO
-              description: Industry's First Hybrid Multi-Cloud Observability Platform
+              description: 'Observability and cross-layer topology correlation on top of CNCF ecosystem: Prometheus, Influx, Kubernetes, Elastic, networks and 5G.'
               num_employees_min: 11
               num_employees_max: 50
               homepage: http://www.unryo.com
@@ -65088,6 +65094,39 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T13:17:27.000Z
           - item:
+            name: University of British Columbia
+            homepage_url: https://ubc.ca/
+            logo: university_of_british_columbia.svg
+            twitter: https://twitter.com/UBC
+            crunchbase: https://www.crunchbase.com/organization/university-of-british-columbia
+            crunchbase_data:
+              name: University of British Columbia
+              description: University of British Columbia is a public research university located in British Columbia, Canada.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.ubc.ca/
+              city: Vancouver
+              region: British Columbia
+              country: Canada
+              twitter: http://twitter.com/ubcaplaceofmind
+              linkedin: https://www.linkedin.com/edu/the-university-of-british-columbia-10802
+              acquisitions: []
+              parents: []
+              funding: 9748642
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Civil Engineering
+                - Education
+                - Universities
+              kind: funding
+            image_data:
+              fileName: university-of-british-columbia.svg
+              hash: kd9/MQJxZWvBldiGoX/BruqF389ppfnqCU0/P3M11Ew=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: University of California
             homepage_url: https://ucanr.edu/
             logo: university_of_california.svg
@@ -66695,4 +66734,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-04-12T03:58:02.323Z
+updated_at: 2024-04-13T02:27:18.087Z
