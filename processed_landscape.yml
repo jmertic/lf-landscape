@@ -6473,8 +6473,8 @@ landscape:
             crunchbase_data:
               name: 1Password
               description: 1Password operates as a password manager for documents, credit card information, and addresses.
-              num_employees_min: 501
-              num_employees_max: 1000
+              num_employees_min: 1001
+              num_employees_max: 5000
               homepage: https://1password.com
               city: Toronto
               region: Ontario
@@ -16329,45 +16329,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-18T14:46:49.000Z
           - item:
-            name: CloudCover Pte. Ltd.
-            homepage_url: https://cldcvr.com/
-            logo: cloudcover_pte_ltd.svg
-            crunchbase: https://www.crunchbase.com/organization/cloudcover-inc
-            joined: '2020-06-01'
-            crunchbase_data:
-              name: CloudCover
-              description: CloudCover is a cloud-native product and services company that delivers for high-growth startups and agile enterprises.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: http://cldcvr.com
-              city: Singapore
-              region: Central Region
-              country: Singapore
-              twitter: https://twitter.com/cldcvr
-              linkedin: https://www.linkedin.com/company/cldcvr
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Big Data
-                - Cloud Computing
-                - Cloud Infrastructure
-                - Cloud Management
-                - Consulting
-                - Developer APIs
-                - Information Technology
-                - Management Consulting
-                - Software
-            image_data:
-              fileName: cloud-cover-pte-ltd.svg
-              hash: Oe2emo622yhL0S80Ys5GPU3nKximLU4o+tBK+2TMPFg=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-03-31T03:41:48.000Z
-          - item:
             name: Cloudera, Inc.
             homepage_url: https://cloudera.com/
             stock_ticker: null
@@ -17526,6 +17487,8 @@ landscape:
               acquisitions:
                 - date: '2019-09-04'
                   acquiree: Hedvig
+                - date: '2024-04-16'
+                  acquiree: Appranix
               parents: []
               ticker: CVLT
               funding: 0
@@ -27856,33 +27819,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T13:54:05.000Z
           - item:
-            name: IGNW
-            homepage_url: https://ignw.io/
-            logo: ignw.svg
-            crunchbase: https://www.crunchbase.com/organization/ignw
-            crunchbase_data:
-              name: IGNW
-              description: IGNW is focused on improving your organizational outcomes, whether you need us behind the scenes or on the front lines
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: https://www.ignw.io/
-              city: Portland
-              region: Oregon
-              country: United States
-              twitter: https://twitter.com/IGNW__
-              linkedin: https://www.linkedin.com/company/ignw/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries: []
-            image_data:
-              fileName: ignw.svg
-              hash: gXxWmSdHM0j2gz7Xg9rOngLV59GwhlzyD62Dm0bv3yk=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: IITS Consulting
             homepage_url: https://iits-consulting.de/
             logo: iits_consulting.svg
@@ -34032,7 +33968,7 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/daimler
               ticker: MBG.DE
-              funding: 1369439572
+              funding: 1435335615
               stockExchange: null
               company_type: For Profit
               industries:
@@ -35059,7 +34995,7 @@ landscape:
                 - Marketing
             image_data:
               fileName: moon-light-marketing.svg
-              hash: vv01no3EMqYS7hfDXfmy9uAvwh9tlAMviuQHVPtqNr0=
+              hash: t67Ohi+kPNkBny6uWpg45X/WShpiaJDoIjNB1PBDlJ0=
             best_practice_data:
               badge: false
               percentage: null
@@ -41290,6 +41226,21 @@ landscape:
             image_data:
               fileName: re-cinq.svg
               hash: LIOyEIRhKDEFu1Eo6gwL12jVQ3ZL1CUoQYE8h0mUPHM=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: RealTheory Inc
+            homepage_url: https://realtheory.io/
+            logo: realtheory_inc.svg
+            organization:
+              name: RealTheory Inc
+            crunchbase_data:
+              name: RealTheory Inc
+              parents: []
+            image_data:
+              fileName: real-theory-inc.svg
+              hash: wTrA0Eu2bP3oZu1CKWjYAHHL+33SsmLqk5csEdfSp1k=
             best_practice_data:
               badge: false
               percentage: null
@@ -48434,6 +48385,53 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-19T09:03:00.000Z
           - item:
+            name: Tangoe US , Inc.
+            homepage_url: https://tangoe.com/
+            logo: tangoe_us__inc.svg
+            crunchbase: https://www.crunchbase.com/organization/tangoe
+            crunchbase_data:
+              name: Tangoe
+              description: Tangoe provides connection lifecycle management software and related services to enterprises and service providers worldwide.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.tangoe.com
+              city: Orange
+              region: Connecticut
+              country: United States
+              twitter: http://twitter.com/Tangoe
+              linkedin: https://www.linkedin.com/company/tangoe
+              acquisitions:
+                - date: '2007-03-15'
+                  acquiree: Traq Wireless
+                - date: '2008-08-05'
+                  acquiree: Information Strategies Group
+                - date: '2009-01-15'
+                  acquiree: InterNoded
+                - date: '2011-12-19'
+                  acquiree: ProfitLine
+                - date: '2012-01-11'
+                  acquiree: Anomalous Networks
+                - date: '2012-02-21'
+                  acquiree: ttMobiles
+                - date: '2018-11-30'
+                  acquiree: MOBI Wireless Management
+              parents: []
+              funding: 29950000
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Communications Infrastructure
+                - Enterprise Software
+                - Service Industry
+                - Software
+              kind: funding
+            image_data:
+              fileName: tangoe-us-inc.svg
+              hash: Ibpwl3ZtD6pkEdp2CuWIVS7cRW7kRQbmFdcnssFCQIE=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Tassets Inc
             homepage_url: https://tassets.com/
             logo: tassets_inc.svg
@@ -51312,38 +51310,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T09:38:46.000Z
           - item:
-            name: Uffizzi
-            homepage_url: https://uffizzi.com/
-            logo: uffizzi.svg
-            crunchbase: https://www.crunchbase.com/organization/uffizzi
-            joined: '2022-01-01'
-            crunchbase_data:
-              name: Uffizzi
-              description: Uffizzi is an open-source engine for creating and managing lightweight, ephemeral preview environments for APIs and full-stack applications.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://uffizzi.com/
-              city: Nashville
-              region: Tennessee
-              country: United States
-              twitter: https://twitter.com/Uffizzi_
-              linkedin: https://www.linkedin.com/company/uffizzi-cloud/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Information Technology
-                - Software
-            image_data:
-              fileName: uffizzi.svg
-              hash: 5X3PDqW4mSmt4osKusGxe8U2dVO1bQcaIsFh+mmwYSA=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T20:03:23.000Z
-          - item:
             name: Ultraviolet Consult DOO
             homepage_url: https://ultraviolet.rs/
             logo: ultraviolet_consult_doo.svg
@@ -51502,6 +51468,21 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T20:14:46.000Z
+          - item:
+            name: Unlocked Networks Inc.
+            homepage_url: https://unlockednetworks.com/
+            logo: unlocked_networks_inc.svg
+            organization:
+              name: Unlocked Networks Inc.
+            crunchbase_data:
+              name: Unlocked Networks Inc.
+              parents: []
+            image_data:
+              fileName: unlocked-networks-inc.svg
+              hash: lAvP0CsVe4AxJdvOp9hfc6zJ6uxk8tTicGxglr/i4ug=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Unravel
             homepage_url: https://unraveldata.com/
@@ -53525,6 +53506,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-19T12:58:57.000Z
           - item:
+            name: Worley Limited
+            homepage_url: https://worley.com/
+            logo: worley_limited.svg
+            organization:
+              name: Worley Limited
+            crunchbase_data:
+              name: Worley Limited
+              parents: []
+            image_data:
+              fileName: worley-limited.svg
+              hash: OL56yP2gl24dnDj8fnYOnigXcTjA+/gu+oS6vUkA3fs=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: WPP plc
             homepage_url: https://wpp.com/
             logo: wpp_plc.svg
@@ -53776,6 +53772,22 @@ landscape:
             image_data:
               fileName: xig-xog.svg
               hash: 5rZxrrvcQC/sRe1Oe39OJEEkW3KAEQ9LwnM4eEkEN20=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Xosphere
+            homepage_url: https://xosphere.io/
+            logo: xosphere.svg
+            twitter: https://twitter.com/XosphereInc
+            organization:
+              name: Xosphere
+            crunchbase_data:
+              name: Xosphere
+              parents: []
+            image_data:
+              fileName: xosphere.svg
+              hash: ICarVg4Fs2dA+o8+drEJHLI3telTB7NwNIdJgyH9RgA=
             best_practice_data:
               badge: false
               percentage: null
@@ -57531,7 +57543,7 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
-              company_type: For Profit
+              company_type: ''
               industries:
                 - Education
                 - Higher Education
@@ -57923,7 +57935,7 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
-              company_type: For Profit
+              company_type: ''
               industries:
                 - Alumni
                 - Education
@@ -59384,6 +59396,22 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Infotics Institute Of Technology
+            homepage_url: https://infotics.edu.pk/
+            logo: infotics_institute_of_technology.svg
+            twitter: https://twitter.com/InfoticsInst
+            organization:
+              name: Infotics Institute Of Technology
+            crunchbase_data:
+              name: Infotics Institute Of Technology
+              parents: []
+            image_data:
+              fileName: infotics-institute-of-technology.svg
+              hash: vKy4yng26A5fgvcm1AE8BzH4mg5/knF2+cRLI/hw15k=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Infrastructure Masons
             homepage_url: https://imasons.org/
             logo: infrastructure_masons.svg
@@ -60308,6 +60336,34 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T07:41:23.000Z
           - item:
+            name: Kutztown University of Pennsylvania
+            homepage_url: https://kutztown.edu/
+            logo: kutztown_university_of_pennsylvania.svg
+            twitter: https://twitter.com/KutztownU
+            crunchbase: https://www.crunchbase.com/organization/kutztown-university-of-pennsylvania
+            crunchbase_data:
+              name: Kutztown University of Pennsylvania
+              description: Kutztown University of Pennsylvania is a school in Kutztown.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: http://www.kutztown.edu/
+              city: Kutztown
+              region: Pennsylvania
+              country: United States
+              twitter: http://twitter.com/KutztownU
+              linkedin: https://www.linkedin.com/company/kutztown-university
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
+            image_data:
+              fileName: kutztown-university-of-pennsylvania.svg
+              hash: 866Y2Fc7NXvv1OQrd57UI6/4SsjtvE5H7LO8dVbX2lE=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Laboratory for Innovation Science at Harvard
             homepage_url: https://lish.harvard.edu/
             logo: laboratory_for_innovation_science_at_harvard.svg
@@ -60445,7 +60501,7 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
-              company_type: For Profit
+              company_type: ''
               industries:
                 - Education
                 - Training
@@ -62175,6 +62231,38 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: OpenID Foundation
+            homepage_url: https://openid.org/
+            logo: openid_foundation.svg
+            twitter: https://twitter.com/openid
+            crunchbase: https://www.crunchbase.com/organization/openid-foundation
+            crunchbase_data:
+              name: OpenID Foundation
+              description: The OpenID Foundation is a non-profit organization that manages the efforts to increase adoption of the OpenID standard across the web.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: http://openid.net
+              city: San Ramon
+              region: California
+              country: United States
+              twitter: http://twitter.com/openid
+              linkedin: https://www.linkedin.com/company/openid-foundation
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Identity Management
+                - Non Profit
+                - Public Relations
+                - Security
+            image_data:
+              fileName: open-id-foundation.svg
+              hash: sl59yKbMFYoGES+bW9qEswcHjv2uN3ebDZPiPllcUk0=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: OpenPOWER Foundation
             homepage_url: https://openpowerfoundation.org/
             logo: openpower_foundation.svg
@@ -62371,7 +62459,7 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
-              company_type: For Profit
+              company_type: ''
               industries:
                 - Education
                 - Knowledge Management
@@ -63338,7 +63426,7 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
-              company_type: For Profit
+              company_type: ''
               industries:
                 - Education
             image_data:
@@ -63860,6 +63948,22 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T18:41:38.000Z
+          - item:
+            name: State of Rhode Island Department of Business Regulation
+            homepage_url: https://dbr.ri.gov/
+            logo: state_of_rhode_island_department_of_business_regulation.svg
+            twitter: https://twitter.com/rigov
+            organization:
+              name: State of Rhode Island Department of Business Regulation
+            crunchbase_data:
+              name: State of Rhode Island Department of Business Regulation
+              parents: []
+            image_data:
+              fileName: state-of-rhode-island-department-of-business-regulation.svg
+              hash: 5TeRVOo76FI/jlgvqClNH/i8f5VheTHKjztb1YBOZ5E=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Statnett
             homepage_url: https://statnett.no/
@@ -64881,7 +64985,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/university-of-california-at-san-diego
               acquisitions: []
               parents: []
-              funding: 24639724
+              funding: 31989724
               stockExchange: null
               company_type: ''
               industries:
@@ -65320,6 +65424,21 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-19T13:06:37.000Z
+          - item:
+            name: University Of Kragujevac
+            homepage_url: https://kg.ac.rs/
+            logo: university_of_kragujevac.svg
+            organization:
+              name: University Of Kragujevac
+            crunchbase_data:
+              name: University Of Kragujevac
+              parents: []
+            image_data:
+              fileName: university-of-kragujevac.svg
+              hash: WmQ+SLIgnEuXEMQ75spmdeZMq2INXnW/7hzEhNk0elc=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: University of Limerick
             homepage_url: https://ul.ie/
@@ -66788,4 +66907,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-04-17T04:10:33.441Z
+updated_at: 2024-04-18T02:43:36.239Z
