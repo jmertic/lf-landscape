@@ -9445,8 +9445,8 @@ landscape:
             crunchbase_data:
               name: Ant Group
               description: Ant Group strives to enable all consumers and small businesses to have equal access to financial and other services through technology.
-              num_employees_min: 5001
-              num_employees_max: 10000
+              num_employees_min: 10001
+              num_employees_max: 1000000
               homepage: https://www.antgroup.com
               city: Hangzhou
               region: Zhejiang
@@ -23464,9 +23464,9 @@ landscape:
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: https://www.fidelity.com
-              city: ' N/A'
-              region: ' N/A'
-              country: ' N/A'
+              city: Boston
+              region: Massachusetts
+              country: United States
               twitter: https://www.twitter.com/Fidelity
               linkedin: https://www.linkedin.com/company/fidelity-investments
               acquisitions:
@@ -23546,7 +23546,9 @@ landscape:
               country: Israel
               twitter: https://twitter.com/finout_io
               linkedin: https://linkedin.com/company/finout-io
-              acquisitions: []
+              acquisitions:
+                - date: '2024-04-02'
+                  acquiree: Cloudthread
               parents: []
               funding: 18500000
               stockExchange: null
@@ -28321,6 +28323,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2012-02-27T18:36:36.000Z
           - item:
+            name: Information Security
+            homepage_url: https://infoseccorp.com/
+            logo: information_security.svg
+            organization:
+              name: Information Security
+            crunchbase_data:
+              name: Information Security
+              parents: []
+            image_data:
+              fileName: information-security.svg
+              hash: axoOWqvhF7+iqgy70OmVrXQWhGTzGZhfTJDXe+gol2c=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Infosys Limited
             homepage_url: https://infosys.com/
             stock_ticker: null
@@ -28382,6 +28399,8 @@ landscape:
                   acquiree: Base Life Science
                 - date: '2024-01-11'
                   acquiree: Insemi Technology
+                - date: '2024-04-18'
+                  acquiree: in-tech
               parents: []
               ticker: INFY
               funding: 200000000
@@ -33214,6 +33233,40 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-19T18:45:38.000Z
+          - item:
+            name: Maryville Consulting Group
+            homepage_url: https://maryville.com/
+            logo: maryville_consulting_group.svg
+            twitter: https://twitter.com/WeAreMCG
+            crunchbase: https://www.crunchbase.com/organization/maryville-technologies
+            crunchbase_data:
+              name: Maryville Consulting Group
+              description: Maryville Technologies is a enterprise management, information technology infrastructure, applications deployment and integration.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: https://www.maryville.com
+              city: St Louis
+              region: Missouri
+              country: United States
+              twitter: https://twitter.com/WeAreMCG
+              linkedin: https://www.linkedin.com/company/maryville-consulting-group
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Consulting
+                - IT Infrastructure
+                - IT Management
+                - Information Technology
+                - Robotics
+                - Software
+            image_data:
+              fileName: maryville-consulting-group.svg
+              hash: +RbrcInJdLQPT9NXig0BGSPL/OL3YOd7bwDpn74QnR4=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Massdriver Inc
             homepage_url: https://massdriver.cloud/
@@ -45758,36 +45811,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: SOLIZE Corporation
-            homepage_url: https://solize.com/en/
-            logo: solize_corporation.svg
-            twitter: https://twitter.com/SolizeC
-            crunchbase: https://www.crunchbase.com/organization/solize
-            crunchbase_data:
-              name: SOLIZE
-              description: SOLIZE  is a company to Innovate value creation through the engineering of wisdom and technology
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: https://www.solize.com/
-              city: Tokyo
-              region: Tokyo
-              country: Japan
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Information Services
-                - Information Technology
-            image_data:
-              fileName: solize-corporation.svg
-              hash: qKBKqeixci/UYjkUGnruLZMsB+fWbtTU4OgNI3UqbFA=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Solo.io, Inc.
             homepage_url: https://solo.io/
             logo: soloio_inc.svg
@@ -51127,21 +51150,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T09:40:13.000Z
-          - item:
-            name: tykelab srl
-            homepage_url: https://tykelab.it/
-            logo: tykelab_srl.svg
-            organization:
-              name: tykelab srl
-            crunchbase_data:
-              name: tykelab srl
-              parents: []
-            image_data:
-              fileName: tykelab-srl.svg
-              hash: EIuaOXzx8c1o7svxaemuQoXg78DsItrVmVisshiugsE=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: U.S. Bank
             homepage_url: https://usbank.com/
@@ -66297,6 +66305,22 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Value Stream Management Consortium
+            homepage_url: https://vsmconsortium.org/
+            logo: value_stream_management_consortium.svg
+            twitter: https://twitter.com/VSMConsortium
+            organization:
+              name: Value Stream Management Consortium
+            crunchbase_data:
+              name: Value Stream Management Consortium
+              parents: []
+            image_data:
+              fileName: value-stream-management-consortium.svg
+              hash: uU88maF5GH4e1b9djFSZSCI/n477wqhy+qj4O8QkILQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Vanderbilt University
             homepage_url: https://vanderbilt.edu/
             logo: vanderbilt_university.svg
@@ -66905,4 +66929,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-04-18T04:11:52.126Z
+updated_at: 2024-04-19T02:45:43.481Z
