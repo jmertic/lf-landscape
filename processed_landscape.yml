@@ -10466,7 +10466,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/at-t
             crunchbase_data:
               name: AT&T
-              description: AT&T is a telecommunications company.
+              description: AT&T is a telecommunications company that provides wireless communications, internet services, digital television, and more.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: https://www.att.com
@@ -13625,39 +13625,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: BoxBoat Technologies
-            homepage_url: https://boxboat.com/
-            logo: boxboat_technologies.svg
-            crunchbase: https://www.crunchbase.com/organization/boxboat-technologies-llc
-            joined: '2018-08-01'
-            crunchbase_data:
-              name: BoxBoat Technologies
-              description: 'BoxBoat is a services company specializing in Containers, DevOps, Continuous Delivery, and Cloud Migration engagements. '
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: http://www.boxboat.com
-              city: Bethesda
-              region: Maryland
-              country: United States
-              twitter: https://twitter.com/boxboat
-              linkedin: https://www.linkedin.com/company/boxboat/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - DevOps
-                - Information Technology
-                - Software
-            image_data:
-              fileName: box-boat-technologies.svg
-              hash: aPmwII1UTsUUzGACz1LwDAmgiO6d8LxGNd+7JI3CJUc=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-03-16T16:27:38.000Z
-          - item:
             name: Bright Machines, Inc.
             homepage_url: https://brightmachines.com/
             logo: bright_machines_inc.svg
@@ -15261,33 +15228,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2015-01-29T02:41:22.000Z
-          - item:
-            name: China Telecom Cloud Technology Co., Ltd
-            homepage_url: https://ctyun.cn/
-            logo: china_telecom_cloud_technology_co_ltd.svg
-            crunchbase: https://www.crunchbase.com/organization/china-telecom-cloud-technology
-            crunchbase_data:
-              name: China Telecom Cloud Technology Co., Ltd.
-              description: Provides all-round support and services, full-process technical support, and helps you easily access the cloud, safely and secure.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: https://www.ctyun.cn/
-              city: Beijing
-              region: Beijing
-              country: China
-              twitter: null
-              linkedin: https://www.linkedin.com/company/ctyun/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries: []
-            image_data:
-              fileName: china-telecom-cloud-technology-co-ltd.svg
-              hash: rEs0NnOlHEKuelv9cRTCqbbNrHcqFkZgPp88PnNj+Mo=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: China Telecommunications Corporation
             homepage_url: https://chinatelecom.cn/
@@ -22777,6 +22717,8 @@ landscape:
                   acquiree: eBorn Consulting
                 - date: '2023-03-21'
                   acquiree: adameo
+                - date: '2024-04-23'
+                  acquiree: denkstatt
               parents: []
               stockExchange: null
               company_type: For Profit
@@ -31603,6 +31545,8 @@ landscape:
                   acquiree: webMethods
                 - date: '2024-03-20'
                   acquiree: Pliant.io
+                - date: '2024-04-24'
+                  acquiree: HashiCorp
               parents: []
               ticker: IBM
               stockExchange: nyse
@@ -31694,7 +31638,7 @@ landscape:
               kind: funding
             image_data:
               fileName: lablup-inc.svg
-              hash: bDZ1QWdPdy5kEy6C4R29aXLBzwP0XY8VjwYQAqueEDA=
+              hash: TAOJa8Ls1D2SqXrO+wgq5XTnaJnbKaCpuEMenq8NWtc=
             best_practice_data:
               badge: false
               percentage: null
@@ -37210,6 +37154,10 @@ landscape:
                   acquiree: Animatico
                 - date: '2023-02-01'
                   acquiree: OmniML
+                - date: '2023-04-25'
+                  acquiree: Deci AI
+                - date: '2024-04-24'
+                  acquiree: Run:AI
               parents: []
               ticker: NVDA
               funding: 4095000000
@@ -55851,6 +55799,8 @@ landscape:
                   acquiree: webMethods
                 - date: '2024-03-20'
                   acquiree: Pliant.io
+                - date: '2024-04-24'
+                  acquiree: HashiCorp
               parents: []
               ticker: IBM
               stockExchange: nyse
@@ -66922,4 +66872,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-04-25T03:56:07.115Z
+updated_at: 2024-04-26T02:42:32.951Z
