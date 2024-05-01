@@ -19673,6 +19673,8 @@ landscape:
                   acquiree: Giant Machines
                 - date: '2024-01-29'
                   acquiree: Flow
+                - date: '2024-04-29'
+                  acquiree: Gryphon Scientific
               parents: []
               stockExchange: null
               company_type: For Profit
@@ -22723,6 +22725,8 @@ landscape:
                   acquiree: adameo
                 - date: '2024-04-23'
                   acquiree: denkstatt
+                - date: '2024-04-26'
+                  acquiree: Nuvalence
               parents: []
               stockExchange: null
               company_type: For Profit
@@ -63332,6 +63336,34 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-03-29T11:09:31.000Z
           - item:
+            name: Sabancı University
+            homepage_url: https://sabanciuniv.edu/
+            logo: sabanc_university.svg
+            twitter: https://twitter.com/sabanciu
+            crunchbase: https://www.crunchbase.com/organization/sabanci-university
+            crunchbase_data:
+              name: Sabanci University
+              description: Sabanci University is a private Turkish University.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: http://www.sabanciuniv.edu/
+              city: Istanbul
+              region: Istanbul
+              country: Turkey
+              twitter: http://twitter.com/sabanciu
+              linkedin: https://www.linkedin.com/company/sabanci-university
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
+            image_data:
+              fileName: sabanc-university.svg
+              hash: DMSvP1+Wylt7JIhAXY/gf8y/oVxDU9t2Gq1zjkX2mNU=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: SAFECode
             homepage_url: https://safecode.org/
             logo: safecode.svg
@@ -64216,7 +64248,35 @@ landscape:
               parents: []
             image_data:
               fileName: test-account.svg
-              hash: T9/eMv903ahYa2QwWO1IakHaiYr3eoNVoKheRobo3A4=
+              hash: +MPWY1VBIsEDov2hUn0D5bWCMrNm8lext2sgRxrG6X4=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Thapar Institute Of Engineering And Technology
+            homepage_url: https://thapar.edu/
+            logo: thapar_institute_of_engineering_and_technology.svg
+            twitter: https://twitter.com/alumni_thapar
+            crunchbase: https://www.crunchbase.com/organization/thapar-university
+            crunchbase_data:
+              name: Thapar University
+              description: Thapar University facilitates undergraduate, graduate, and postgraduate programs related to technology and engineering.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: http://www.thapar.edu/
+              city: Patiala
+              region: Punjab
+              country: India
+              twitter: null
+              linkedin: https://www.linkedin.com/company/tietofficial
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
+            image_data:
+              fileName: thapar-institute-of-engineering-and-technology.svg
+              hash: l3LbtbMX+1rI2weXH0xVME8DtaKap6ASMd1mW3cflwk=
             best_practice_data:
               badge: false
               percentage: null
@@ -65055,6 +65115,21 @@ landscape:
             image_data:
               fileName: universidad-de-burgos.svg
               hash: fAblX5tgEn+5w/w3tYHxcn/u4worcz1f8Oo6LziK0oI=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Universidad Quindío
+            homepage_url: https://uniquindio.edu.co/
+            logo: universidad_quindio.svg
+            organization:
+              name: Universidad Quindío
+            crunchbase_data:
+              name: Universidad Quindío
+              parents: []
+            image_data:
+              fileName: universidad-quind-o.svg
+              hash: Cdzo2yvGI+rhOHHs2b9DXWbR9+7NiF6uS3OfzkOa+j4=
             best_practice_data:
               badge: false
               percentage: null
@@ -66880,4 +66955,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-04-30T04:11:47.240Z
+updated_at: 2024-05-01T02:45:42.214Z
