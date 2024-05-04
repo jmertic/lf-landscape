@@ -8,7 +8,12 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - uses: Amwam/issue-comment-action@v1.3.1
+      - name: Harden Runner
+        uses: step-security/harden-runner@a4aa98b93cab29d9b1101a6143fb8bce00e2eac4 # v2.7.1
+        with:
+          egress-policy: audit
+
+      - uses: Amwam/issue-comment-action@04d3936db1a2fc02f86cad9db71cf24006019c4d # v1.3.1
         if: ${{ github.event.issue.pull_request && contains(github.event.issue.labels.*.name, 'daily-update') }}
         with:
           keywords: '["Deploy preview for *lf-landscape* ready"]'
