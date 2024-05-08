@@ -13373,7 +13373,7 @@ landscape:
                   acquiree: HIFI
               parents: []
               ticker: SQ
-              funding: 601166807
+              funding: 2601166807
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -18867,7 +18867,7 @@ landscape:
                 - date: '2023-01-11'
                   acquiree: Oak Street Health
                 - date: '2024-04-30'
-                  acquiree: Hella Group
+                  acquiree: Hella+Health
               parents: []
               ticker: CVS
               funding: 0
@@ -21924,9 +21924,11 @@ landscape:
               linkedin: https://www.linkedin.com/company/electricitymaps
               acquisitions: []
               parents: []
+              funding: 5385250
               stockExchange: null
               company_type: For Profit
               industries: []
+              kind: funding
             image_data:
               fileName: electricity-maps.svg
               hash: NxnlYaFOfPLjpoM4on0GvC8LeEJoxvB0I2/94NpCzkY=
@@ -45164,8 +45166,8 @@ landscape:
             crunchbase_data:
               name: SiFive
               description: SiFive is a platform offering open-source semiconductor technology and software automation.
-              num_employees_min: 251
-              num_employees_max: 500
+              num_employees_min: 501
+              num_employees_max: 1000
               homepage: https://www.sifive.com
               city: San Mateo
               region: California
@@ -51414,8 +51416,8 @@ landscape:
             crunchbase_data:
               name: Truepic
               description: Truepic is a visual media platform used in bolstering the value of authentic photos and videos and evaluate their trustworthiness.
-              num_employees_min: 11
-              num_employees_max: 50
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: http://truepic.com
               city: San Diego
               region: California
@@ -67629,4 +67631,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-05-07T04:14:36.596Z
+updated_at: 2024-05-08T02:47:16.458Z
