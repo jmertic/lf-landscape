@@ -353,6 +353,12 @@ landscape:
             twitter: https://twitter.com/Google
             crunchbase: https://www.crunchbase.com/organization/google
           - item:
+            name: Honda Motor Co., Ltd.
+            homepage_url: https://honda.com/
+            logo: honda_motor_co_ltd.svg
+            twitter: https://twitter.com/Honda
+            crunchbase: https://www.crunchbase.com/organization/honda-automobiles
+          - item:
             name: Panasonic Holdings Corporation
             homepage_url: https://holdings.panasonic/jp
             logo: panasonic_holdings_corporation.svg
@@ -3734,6 +3740,12 @@ landscape:
             logo: intercloud.svg
             crunchbase: https://www.crunchbase.com/organization/intercloud
           - item:
+            name: Internet Initiative Japan
+            homepage_url: https://iij.ad.jp/
+            logo: internet_initiative_japan.svg
+            organization:
+              name: Internet Initiative Japan
+          - item:
             name: Interop.io
             homepage_url: https://interop.io/
             logo: interopio.svg
@@ -5043,10 +5055,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/open-source-consulting
             joined: '2020-04-01'
           - item:
-            name: OPENFLAME INC.
-            homepage_url: https://openfla.me/
-            logo: openflame_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/openflame-inc
+            name: OpenAI Inc
+            homepage_url: https://www.openai.com/
+            logo: openai_inc.svg
+            organization:
+              name: OpenAI Inc
           - item:
             name: OpenMetal.io
             homepage_url: https://openmetal.io/
@@ -8803,6 +8816,12 @@ landscape:
             logo: living_open_source_foundation.svg
             organization:
               name: Living Open Source Foundation
+          - item:
+            name: Los Alamos National Laboratory
+            homepage_url: https://lanl.gov/
+            logo: los_alamos_national_laboratory.svg
+            twitter: https://twitter.com/LosAlamosNatLab
+            crunchbase: https://www.crunchbase.com/organization/los-alamos-national-laboratory
           - item:
             name: LTSI
             homepage_url: https://ltsi.linuxfoundation.org/
