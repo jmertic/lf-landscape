@@ -21001,7 +21001,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/doit-international
             crunchbase_data:
               name: DoiT
-              description: DoiT develops the technology and expertise needed to solve both essential and complex cloud challenges.
+              description: DoiT provides intelligent technology and multicloud expertise to save cloud-driven organizations time and money.
               num_employees_min: 501
               num_employees_max: 1000
               homepage: https://www.doit.com
@@ -25486,6 +25486,8 @@ landscape:
                   acquiree: NN Investment Partners
                 - date: '2021-09-15'
                   acquiree: GreenSky
+                - date: '2023-01-11'
+                  acquiree: Cprime
               parents: []
               ticker: GS
               stockExchange: nyse
@@ -54951,6 +54953,22 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T00:29:00.000Z
           - item:
+            name: (NUST) National University of Science & Technology
+            homepage_url: https://nust.ac.zw/
+            logo: nust_national_university_of_science__technology.svg
+            twitter: https://twitter.com/nustzim
+            organization:
+              name: (NUST) National University of Science & Technology
+            crunchbase_data:
+              name: (NUST) National University of Science & Technology
+              parents: []
+            image_data:
+              fileName: nust-national-university-of-science-technology.svg
+              hash: +ETnw5+c3g8enKpPA+wZ+f1ct7ZKH5xjKYWftoFGQz4=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: A.P.S.P
             homepage_url: https://apsp.com/
             logo: apsp.svg
@@ -67696,4 +67714,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-05-09T04:14:04.955Z
+updated_at: 2024-05-10T02:44:19.887Z
