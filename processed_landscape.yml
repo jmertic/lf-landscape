@@ -6382,6 +6382,42 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T11:28:32.000Z
           - item:
+            name: Honda Motor Co., Ltd.
+            homepage_url: https://honda.com/
+            logo: honda_motor_co_ltd.svg
+            twitter: https://twitter.com/Honda
+            crunchbase: https://www.crunchbase.com/organization/honda-automobiles
+            crunchbase_data:
+              name: Honda Motor
+              description: Honda Motor is a Japanese public multinational corporation primarily known as a manufacturer of automobiles and motorcycles.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.honda.co.jp
+              city: Tokyo
+              region: Tokyo
+              country: Japan
+              twitter: https://twitter.com/hondajp
+              linkedin: https://www.linkedin.com/company/honda
+              acquisitions:
+                - date: '2019-02-27'
+                  acquiree: ubitricity
+              parents: []
+              ticker: HMCN
+              stockExchange: bmv
+              company_type: For Profit
+              industries:
+                - Automotive
+                - Machinery Manufacturing
+                - Manufacturing
+            yahoo_finance_data:
+              effective_ticker: HMCN
+            image_data:
+              fileName: honda-motor-co-ltd.svg
+              hash: MPIHq32ZsXri4K3ykAMMpfuxKD8XFAUJILmqsn3aH7U=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Panasonic Holdings Corporation
             homepage_url: https://holdings.panasonic/jp
             logo: panasonic_holdings_corporation.svg
@@ -29142,6 +29178,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-19T09:00:01.000Z
           - item:
+            name: Internet Initiative Japan
+            homepage_url: https://iij.ad.jp/
+            logo: internet_initiative_japan.svg
+            organization:
+              name: Internet Initiative Japan
+            crunchbase_data:
+              name: Internet Initiative Japan
+              parents: []
+            image_data:
+              fileName: internet-initiative-japan.svg
+              hash: mJnG+tsIAq5NtbO9hoQnJZ8aINVAdXk+dmGhQXPP72E=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Interop.io
             homepage_url: https://interop.io/
             logo: interopio.svg
@@ -29312,8 +29363,8 @@ landscape:
             crunchbase_data:
               name: inVia Robotics
               description: InVia Robotics provides next-generation robotics warehouse automation solutions for e-commerce distribution centers and supply chains.
-              num_employees_min: 1
-              num_employees_max: 10
+              num_employees_min: 11
+              num_employees_max: 50
               homepage: http://www.inviarobotics.com
               city: Westlake Village
               region: California
@@ -38015,29 +38066,17 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: OPENFLAME INC.
-            homepage_url: https://openfla.me/
-            logo: openflame_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/openflame-inc
+            name: OpenAI Inc
+            homepage_url: https://www.openai.com/
+            logo: openai_inc.svg
+            organization:
+              name: OpenAI Inc
             crunchbase_data:
-              name: OPENFLAME INC.
-              description: Provides all the tools you need to develop a highly scalable system from API to UI and run it anywhere.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://www.openfla.me/
-              city: New York
-              region: New York
-              country: United States
-              twitter: null
-              linkedin: null
-              acquisitions: []
+              name: OpenAI Inc
               parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries: []
             image_data:
-              fileName: openflame-inc.svg
-              hash: kn86uimE9OKUq8JXMR4cHkd6K/+g/yoQgt7uDoW1nks=
+              fileName: open-ai-inc.svg
+              hash: Wii2N//N6eJfysV5C3rCT7qj/VkflVBi7CxgIWGOQAo=
             best_practice_data:
               badge: false
               percentage: null
@@ -61139,6 +61178,36 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Los Alamos National Laboratory
+            homepage_url: https://lanl.gov/
+            logo: los_alamos_national_laboratory.svg
+            twitter: https://twitter.com/LosAlamosNatLab
+            crunchbase: https://www.crunchbase.com/organization/los-alamos-national-laboratory
+            crunchbase_data:
+              name: Los Alamos National Laboratory
+              description: Los Alamos National Laboratory, a multidisciplinary research institution engaged in strategic science on behalf of national security, is
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: http://www.lanl.gov
+              city: Los Alamos
+              region: New Mexico
+              country: United States
+              twitter: http://twitter.com/LosAlamosNatLab
+              linkedin: https://www.linkedin.com/company/5327
+              acquisitions: []
+              parents: []
+              funding: 0
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Security
+            image_data:
+              fileName: los-alamos-national-laboratory.svg
+              hash: OQG1fEYEPDGoiujbsUd/HWI3og9U3oL/soP61QM1aDE=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: LTSI
             homepage_url: https://ltsi.linuxfoundation.org/
             logo: ltsi.svg
@@ -67714,4 +67783,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-05-10T04:13:08.780Z
+updated_at: 2024-05-11T02:42:47.224Z
