@@ -23649,6 +23649,55 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T16:33:52.000Z
           - item:
+            name: Fastly
+            homepage_url: https://fastly.com/
+            logo: fastly.svg
+            twitter: https://twitter.com/fastly
+            crunchbase: https://www.crunchbase.com/organization/fastly
+            crunchbase_data:
+              name: Fastly
+              description: Fastly helps digital businesses keep pace with their customer expectations by delivering secure and online experiences.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.fastly.com
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: http://twitter.com/Fastly
+              linkedin: https://www.linkedin.com/company/fastly
+              acquisitions:
+                - date: '2014-04-17'
+                  acquiree: CDN Sumo
+                - date: '2020-08-27'
+                  acquiree: Signal Sciences
+                - date: '2022-03-30'
+                  acquiree: Fanout
+                - date: '2022-05-19'
+                  acquiree: Glitch
+                - date: '2023-08-17'
+                  acquiree: Domainr
+              parents: []
+              ticker: FSLY
+              funding: 219000000
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Cloud Data Services
+                - Cloud Infrastructure
+                - Cloud Security
+                - Content Delivery Network
+                - Enterprise Software
+                - Security
+                - Software
+            yahoo_finance_data:
+              effective_ticker: FSLY
+            image_data:
+              fileName: fastly.svg
+              hash: NIfwZZgonCVjq3w1EtyIS6snsQa2UapRffL3D8mPQdM=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Fathom Radiant
             homepage_url: https://fathomradiant.co/
             logo: fathom_radiant.svg
@@ -49606,7 +49655,7 @@ landscape:
             joined: '2019-07-01'
             crunchbase_data:
               name: TeraSky
-              description: TeraSky, a global solution integrator of multi-cloud, cloud-native, and modern IT innovative technology solutions.
+              description: A global Innovative Digital Solutions and Cloud Services Provider
               num_employees_min: 101
               num_employees_max: 250
               homepage: http://www.terasky.com/
@@ -67680,4 +67729,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-05-12T04:10:19.895Z
+updated_at: 2024-05-13T02:44:44.425Z
