@@ -14927,7 +14927,7 @@ landscape:
               region: New York
               country: United States
               twitter: https://twitter.com/SW_Intelligence
-              linkedin: null
+              linkedin: https://www.linkedin.com/company/cast
               acquisitions:
                 - date: '2018-06-01'
                   acquiree: Antelink
@@ -26305,7 +26305,7 @@ landscape:
                 - date: '2024-01-16'
                   acquiree: Armory
               parents: []
-              funding: 425000000
+              funding: 575000000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -34995,8 +34995,8 @@ landscape:
             crunchbase_data:
               name: Midokura
               description: MIDOKURA is a Sony Group company that delivers innovative solutions to power the Edge AI revolution in IoT.
-              num_employees_min: 11
-              num_employees_max: 50
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: http://www.midokura.com/
               city: Tokyo
               region: Tokyo
@@ -36101,7 +36101,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/ndustrial-io
               acquisitions: []
               parents: []
-              funding: 7700000
+              funding: 26200000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -43892,7 +43892,7 @@ landscape:
                 - Information Technology
             image_data:
               fileName: schwarz-it-gmb-h-co-kg.svg
-              hash: SN+48fPc3DhPjxYTN6CY/Lpl3XghP+fXhGzfkn65hiY=
+              hash: shfr5qTo73ckpXJyN/k+36lONQhBPcOHgauyzvz46I8=
             best_practice_data:
               badge: false
               percentage: null
@@ -48443,6 +48443,8 @@ landscape:
                   acquiree: Attra
                 - date: '2024-04-04'
                   acquiree: Dreamix
+                - date: '2024-05-13'
+                  acquiree: iGreenData
               parents: []
               stockExchange: null
               company_type: For Profit
@@ -51760,6 +51762,8 @@ landscape:
                   acquiree: Autocab
                 - date: '2021-02-02'
                   acquiree: Drizly
+                - date: '2024-05-13'
+                  acquiree: Foodpanda
               parents: []
               ticker: UBER
               funding: 25212450000
@@ -62237,7 +62241,7 @@ landscape:
               linkedin: https://www.linkedin.com/school/5274
               acquisitions: []
               parents: []
-              funding: 76939867
+              funding: 77939867
               stockExchange: null
               company_type: ''
               industries:
@@ -65764,7 +65768,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/university-of-california-at-san-diego
               acquisitions: []
               parents: []
-              funding: 31989724
+              funding: 32989724
               stockExchange: null
               company_type: ''
               industries:
@@ -66295,6 +66299,39 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T10:01:00.000Z
+          - item:
+            name: University of Maryland
+            homepage_url: https://umd.edu/
+            logo: university_of_maryland.svg
+            twitter: https://twitter.com/UofMaryland
+            crunchbase: https://www.crunchbase.com/organization/university-of-maryland
+            crunchbase_data:
+              name: University of Maryland
+              description: The University of Maryland is a public research university and is the flagship institution of the University System of Maryland.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.umd.edu/
+              city: College Park
+              region: Maryland
+              country: United States
+              twitter: http://twitter.com/UofMaryland
+              linkedin: https://www.linkedin.com/school/university-of-maryland/
+              acquisitions: []
+              parents: []
+              funding: 219387217
+              stockExchange: null
+              company_type: ''
+              industries:
+                - EdTech
+                - Education
+                - Universities
+              kind: funding
+            image_data:
+              fileName: university-of-maryland.svg
+              hash: VNjoaZnhaXYwqSLZ1EErkIoTfvmhlCLHxrcAMEkRkSI=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: University of Maryland Global Campus
             homepage_url: https://umgc.edu/
@@ -67732,4 +67769,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-05-14T04:14:22.378Z
+updated_at: 2024-05-15T02:47:24.476Z
