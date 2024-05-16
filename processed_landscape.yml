@@ -7399,25 +7399,26 @@ landscape:
             name: Ada Logics
             homepage_url: https://adalogics.com/
             logo: ada_logics.svg
-            crunchbase: https://www.crunchbase.com/organization/ada-logistics
+            crunchbase: https://www.crunchbase.com/organization/ada-logics
             crunchbase_data:
-              name: Ada Logistics
-              description: Ada Logistics provides truckload services.
+              name: Ada Logics
+              description: Software security company. Specializes in vulnerability analysis services, tool development and research efforts.
               num_employees_min: 11
               num_employees_max: 50
-              homepage: https://adalogistics.com/
-              city: Ada
-              region: Michigan
-              country: United States
+              homepage: https://adalogics.com
+              city: London
+              region: England
+              country: United Kingdom
               twitter: null
-              linkedin: https://www.linkedin.com/company/ada-logistics-corp
+              linkedin: null
               acquisitions: []
               parents: []
               stockExchange: null
               company_type: For Profit
               industries:
-                - Logistics
-                - Transportation
+                - Cyber Security
+                - Information Technology
+                - Software
             image_data:
               fileName: ada-logics.svg
               hash: tjtkJYW2v7wm+mF72ZtxFibVuzkakES4OsFwWUHx20s=
@@ -12888,6 +12889,39 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Beijing Tenxcloud Technology Co. Ltd.
+            homepage_url: https://tenxcloud.com/
+            logo: beijing_tenxcloud_technology_co_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/tenxcloud
+            joined: '2017-03-01'
+            crunchbase_data:
+              name: TenxCloud
+              description: TenxCloud is a provider of container cloud platforms and solutions.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.tenxcloud.com/
+              city: Beijing
+              region: Beijing
+              country: China
+              twitter: null
+              linkedin: https://www.linkedin.com/company/%E6%97%B6%E9%80%9F%E4%BA%91
+              acquisitions: []
+              parents: []
+              funding: 0
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Computer
+                - Information Technology
+                - Internet
+                - Software
+            image_data:
+              fileName: beijing-tenxcloud-technology-co-ltd.svg
+              hash: 6D7D72F3jw+aLm8TKMYeQuaV3crlbDy5Xi+s396QxD0=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Beijing Tongtech Co., Ltd.
             homepage_url: https://tongtech.com/
             logo: beijing_tongtech_co_ltd.svg
@@ -14922,7 +14956,7 @@ landscape:
               description: Software Intelligence Automated
               num_employees_min: 251
               num_employees_max: 500
-              homepage: http://www.castsoftware.com/
+              homepage: https://www.castsoftware.com/
               city: New York
               region: New York
               country: United States
@@ -15244,8 +15278,8 @@ landscape:
             crunchbase_data:
               name: Chainguard
               description: Chainguard enables developers to ship secure software by default.
-              num_employees_min: 11
-              num_employees_max: 50
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: https://chainguard.dev
               city: Kirkland
               region: Washington
@@ -26078,7 +26112,7 @@ landscape:
               kind: funding
             image_data:
               fileName: hangzhou-emq-technologies.svg
-              hash: IBFDq7D/xHmJOvv556tM66jh4CdYX8dsipIHuGajMRs=
+              hash: yqDTZR0/uqRUUtOdvqZX0BQ3KMVPxQn5DaZC7sbt9Qo=
             best_practice_data:
               badge: false
               percentage: null
@@ -41728,9 +41762,8 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
-                - Consulting
                 - Information Technology
-                - Professional Services
+                - SaaS
                 - Software
               kind: funding
             image_data:
@@ -49615,39 +49648,6 @@ landscape:
             image_data:
               fileName: tenstorrent.svg
               hash: tB18Z6c2mYYjrsMEjjnVwhll7Cc5Q5DcjN+nLIDXOko=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: TenxCloud
-            homepage_url: https://tenxcloud.com/
-            logo: tenxcloud.svg
-            crunchbase: https://www.crunchbase.com/organization/tenxcloud
-            joined: '2017-03-01'
-            crunchbase_data:
-              name: TenxCloud
-              description: TenxCloud is a provider of container cloud platforms and solutions.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.tenxcloud.com/
-              city: Beijing
-              region: Beijing
-              country: China
-              twitter: null
-              linkedin: https://www.linkedin.com/company/%E6%97%B6%E9%80%9F%E4%BA%91
-              acquisitions: []
-              parents: []
-              funding: 0
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Computer
-                - Information Technology
-                - Internet
-                - Software
-            image_data:
-              fileName: tenx-cloud.svg
-              hash: 6D7D72F3jw+aLm8TKMYeQuaV3crlbDy5Xi+s396QxD0=
             best_practice_data:
               badge: false
               percentage: null
@@ -67768,4 +67768,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-05-15T04:16:41.181Z
+updated_at: 2024-05-16T02:42:32.998Z
