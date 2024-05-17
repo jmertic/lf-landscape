@@ -23257,8 +23257,8 @@ landscape:
             crunchbase_data:
               name: Esperanto Technologies
               description: Esperanto Technologies develops massively parallel, energy-efficient chips for Generative AI based on the open standard RISC-V ISA
-              num_employees_min: 101
-              num_employees_max: 250
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: https://www.esperanto.ai/
               city: Mountain View
               region: California
@@ -26629,8 +26629,8 @@ landscape:
             crunchbase_data:
               name: Helium
               description: Helium is an internet-of-things developer platform for building the network and transferring IoT device data.
-              num_employees_min: 101
-              num_employees_max: 250
+              num_employees_min: 11
+              num_employees_max: 50
               homepage: https://www.helium.com
               city: San Francisco
               region: California
@@ -26828,6 +26828,8 @@ landscape:
                   acquiree: Quality Ltda
                 - date: '2002-10-04'
                   acquiree: MIRAI S.R.L
+                - date: '2004-02-07'
+                  acquiree: Sheffield Measurement
                 - date: '2004-03-09'
                   acquiree: Korea ErFa Systems Eng - Business
                 - date: '2004-04-21'
@@ -33445,6 +33447,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-03-21T17:45:28.000Z
           - item:
+            name: LucidPoint, Inc.
+            homepage_url: https://lucidpoint.io/
+            logo: lucidpoint_inc.svg
+            organization:
+              name: LucidPoint, Inc.
+            crunchbase_data:
+              name: LucidPoint, Inc.
+              parents: []
+            image_data:
+              fileName: lucid-point-inc.svg
+              hash: RMxpg2YDWw/4nNEWX0pg/fyj3yEaGaGnwd16sG+/4qY=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Lumigo Ltd
             homepage_url: https://lumigo.io/
             logo: lumigo_ltd.svg
@@ -39403,6 +39420,21 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-03-22T13:02:00.000Z
+          - item:
+            name: Peridio
+            homepage_url: https://peridio.com/
+            logo: peridio.svg
+            organization:
+              name: Peridio
+            crunchbase_data:
+              name: Peridio
+              parents: []
+            image_data:
+              fileName: peridio.svg
+              hash: T7/4OG+wKjpcbpidhXeKNk8IL8Tyu9vBagCX8pIszIc=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Permit.io
             homepage_url: https://permit.io/
@@ -50777,62 +50809,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T10:39:09.000Z
           - item:
-            name: TomTom International B.V.
-            homepage_url: https://tomtom.com/
-            logo: tomtom_international_bv.svg
-            crunchbase: https://www.crunchbase.com/organization/tomtom-international
-            crunchbase_data:
-              name: TomTom
-              description: TomTom is a digital mapping and routing company that focuses on car navigation.
-              num_employees_min: 5001
-              num_employees_max: 10000
-              homepage: http://www.tomtom.com/?Lid=4
-              city: Amsterdam
-              region: Noord-Holland
-              country: The Netherlands
-              twitter: https://twitter.com/TomTom
-              linkedin: https://www.linkedin.com/company/tomtom
-              acquisitions:
-                - date: '2005-08-24'
-                  acquiree: Datafactory
-                - date: '2006-01-12'
-                  acquiree: Applied Generics
-                - date: '2007-06-21'
-                  acquiree: Horizon Navigation
-                - date: '2007-07-23'
-                  acquiree: Tele Atlas
-                - date: '2009-12-02'
-                  acquiree: ilocal International
-                - date: '2013-08-01'
-                  acquiree: Coordina
-                - date: '2014-12-02'
-                  acquiree: FleetLogic
-                - date: '2016-01-03'
-                  acquiree: Finder
-                - date: '2017-01-18'
-                  acquiree: Autonomos GmbH
-              parents: []
-              ticker: TMOAF
-              funding: 602290665
-              stockExchange: otcpink
-              company_type: For Profit
-              industries:
-                - Hardware
-                - Location Based Services
-                - Mapping Services
-                - Navigation
-                - Software
-            yahoo_finance_data:
-              effective_ticker: TMOAF
-            image_data:
-              fileName: tom-tom-international-b-v.svg
-              hash: NXPijnCNQXL0u2q8v8bMzUDySHrdk/8zR/Fz/EmSxko=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-21T09:13:58.000Z
-          - item:
             name: ToposWare Inc.
             homepage_url: https://toposware.com/
             logo: toposware_inc.svg
@@ -52075,42 +52051,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: unSkript, Inc.
-            homepage_url: https://unskript.com/
-            logo: unskript_inc.svg
-            twitter: https://twitter.com/UnSkript
-            crunchbase: https://www.crunchbase.com/organization/unskript-inc
-            joined: '2022-07-01'
-            crunchbase_data:
-              name: unSkript, Inc
-              description: An Open, Interactive and Intelligent Cloud Ops Automation Platform
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://unskript.com/
-              city: Los Altos Hills
-              region: California
-              country: United States
-              twitter: null
-              linkedin: https://www.linkedin.com/company/unskript-inc/
-              acquisitions: []
-              parents: []
-              funding: 3750000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Artificial Intelligence (AI)
-                - Cloud Management
-                - DevOps
-              kind: funding
-            image_data:
-              fileName: un-skript-inc.svg
-              hash: YxXR4T5m9IMOqZi8LY/Pa8obSCqSTV5vW1QLoJFb6KE=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-10T14:02:56.000Z
           - item:
             name: Upbound, Inc.
             homepage_url: https://upbound.io/
@@ -55305,7 +55245,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/american-red-cross
               acquisitions: []
               parents: []
-              funding: 42312500
+              funding: 42412500
               stockExchange: null
               company_type: Non Profit
               industries:
@@ -67768,4 +67708,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-05-16T04:11:53.296Z
+updated_at: 2024-05-17T02:44:35.998Z
