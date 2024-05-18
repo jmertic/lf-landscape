@@ -5089,6 +5089,10 @@ landscape:
                   acquiree: UNLIMITED
                 - date: '2024-05-02'
                   acquiree: parsionate
+                - date: '2024-05-16'
+                  acquiree: NEUTRAL Japan
+                - date: '2024-05-16'
+                  acquiree: Open Stream
               parents: []
               ticker: CSA.F
               funding: 6000000
@@ -19542,8 +19546,8 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
+                - Artificial Intelligence (AI)
                 - Data Management
-                - Generative AI
                 - Information Technology
                 - Open Source
                 - Software
@@ -38956,6 +38960,8 @@ landscape:
                   acquiree: Dig Security
                 - date: '2023-11-06'
                   acquiree: Talon Cyber Security
+                - date: '2024-05-15'
+                  acquiree: IBM _ QRadar software-as-a-service
               parents: []
               ticker: PANW
               funding: 65000000
@@ -43328,9 +43334,10 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: SAP
+            name: SAP SE
             homepage_url: https://sap.com/
-            logo: sap.svg
+            logo: sap_se.svg
+            twitter: https://twitter.com/SAP
             crunchbase: https://www.crunchbase.com/organization/sap
             joined: '2017-10-01'
             crunchbase_data:
@@ -43463,7 +43470,7 @@ landscape:
             yahoo_finance_data:
               effective_ticker: SAP
             image_data:
-              fileName: sap.svg
+              fileName: sap-se.svg
               hash: adOvLDK9PxKhDjelm+R8KSWkBaKSFp/Kj9EbcflrQXY=
             best_practice_data:
               badge: false
@@ -50808,6 +50815,61 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T10:39:09.000Z
+          - item:
+            name: TomTom International B.V.
+            homepage_url: https://tomtom.com/
+            logo: tomtom_international_bv.svg
+            twitter: https://twitter.com/TomTom
+            crunchbase: https://www.crunchbase.com/organization/tomtom-international
+            crunchbase_data:
+              name: TomTom
+              description: TomTom is a digital mapping and routing company that focuses on car navigation.
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: http://www.tomtom.com/?Lid=4
+              city: Amsterdam
+              region: Noord-Holland
+              country: The Netherlands
+              twitter: https://twitter.com/TomTom
+              linkedin: https://www.linkedin.com/company/tomtom
+              acquisitions:
+                - date: '2005-08-24'
+                  acquiree: Datafactory
+                - date: '2006-01-12'
+                  acquiree: Applied Generics
+                - date: '2007-06-21'
+                  acquiree: Horizon Navigation
+                - date: '2007-07-23'
+                  acquiree: Tele Atlas
+                - date: '2009-12-02'
+                  acquiree: ilocal International
+                - date: '2013-08-01'
+                  acquiree: Coordina
+                - date: '2014-12-02'
+                  acquiree: FleetLogic
+                - date: '2016-01-03'
+                  acquiree: Finder
+                - date: '2017-01-18'
+                  acquiree: Autonomos GmbH
+              parents: []
+              ticker: TMOAF
+              funding: 602290665
+              stockExchange: otcpink
+              company_type: For Profit
+              industries:
+                - Hardware
+                - Location Based Services
+                - Mapping Services
+                - Navigation
+                - Software
+            yahoo_finance_data:
+              effective_ticker: TMOAF
+            image_data:
+              fileName: tom-tom-international-b-v.svg
+              hash: NXPijnCNQXL0u2q8v8bMzUDySHrdk/8zR/Fz/EmSxko=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: ToposWare Inc.
             homepage_url: https://toposware.com/
@@ -60933,7 +60995,7 @@ landscape:
               kind: funding
             image_data:
               fileName: laboratory-for-innovation-science-at-harvard.svg
-              hash: H6absCPa2Bg7bwYjruDNFJTTmTD3ZV9hYpVPTYF4iTI=
+              hash: z0SwtzEvMJ2qCI+LSLz0d8ajtrd8nlXvgbdD5zYzd3o=
             best_practice_data:
               badge: false
               percentage: null
@@ -63662,7 +63724,7 @@ landscape:
               linkedin: https://www.linkedin.com/edu/university-of-michigan-18633
               acquisitions: []
               parents: []
-              funding: 290082652
+              funding: 305082652
               stockExchange: null
               company_type: ''
               industries:
@@ -64050,7 +64112,7 @@ landscape:
                 - Non Profit
             image_data:
               fileName: safe-code.svg
-              hash: T9/eMv903ahYa2QwWO1IakHaiYr3eoNVoKheRobo3A4=
+              hash: 4SpCJtyifzMqF5iXOphpzWwhlINJB3ySrg+Q2Q4p0d4=
             best_practice_data:
               badge: false
               percentage: null
@@ -66323,7 +66385,7 @@ landscape:
               linkedin: https://www.linkedin.com/edu/university-of-michigan-18633
               acquisitions: []
               parents: []
-              funding: 290082652
+              funding: 305082652
               stockExchange: null
               company_type: ''
               industries:
@@ -67708,4 +67770,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-05-17T04:14:05.421Z
+updated_at: 2024-05-18T02:44:45.744Z
