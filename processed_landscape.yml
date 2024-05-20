@@ -40,7 +40,7 @@ landscape:
                 - name: Python
                   value: 1737
                   color: '#3572A5'
-              contributions: 2;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;5;1;0;0;0;1;1;0;0;0;0;0;1;0;0;0;2;0;1;1;4;0;0;1;0;0;0;0;1;0
+              contributions: 2;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;5;1;0;0;0;1;1;0;0;0;0;0;1;0;0;0;2;0;1;1;4;0;0;1;0;0;0;1;0;0
               firstWeek: 2023-05-28Z
               stars: 18
               license: Creative Commons Attribution 4.0 International
@@ -226,15 +226,15 @@ landscape:
             github_data:
               languages:
                 - name: C++
-                  value: 48552879
+                  value: 48554893
                   color: '#f34b7d'
                 - name: Python
-                  value: 11375699
+                  value: 11375862
                   color: '#3572A5'
                 - name: Raku
                   value: 4171290
                 - name: C
-                  value: 3295483
+                  value: 3295450
                   color: '#555555'
                 - name: TypeScript
                   value: 3043243
@@ -243,7 +243,7 @@ landscape:
                   value: 2240741
                   color: '#89e051'
                 - name: CMake
-                  value: 860449
+                  value: 861163
                 - name: HTML
                   value: 757947
                   color: '#e34c26'
@@ -299,18 +299,18 @@ landscape:
                 - name: SWIG
                   value: 951
               contributions: >-
-                172;109;122;137;110;99;99;132;105;138;142;137;125;138;103;118;149;183;169;151;140;146;82;171;199;165;142;129;124;148;120;35;91;108;138;134;168;140;162;136;160;168;135;153;146;120;131;116;112;126;82;86
+                171;109;126;134;114;101;95;136;98;140;147;130;126;138;105;126;138;184;171;150;145;140;84;202;173;177;125;138;115;159;106;43;85;118;130;141;174;139;154;130;167;163;139;156;139;122;129;125;112;122;89;86
               firstWeek: 2023-05-28Z
-              stars: 13317
+              stars: 13319
               license: Other
               description: 'Ceph is a distributed object, block, and file storage platform '
-              latest_commit_date: '2024-05-18T20:30:29Z'
-              latest_commit_link: /ceph/ceph/commit/b6f5f455c1fa77ab4e6c6a1b39dee6f143448291
+              latest_commit_date: '2024-05-19T13:56:02Z'
+              latest_commit_link: /ceph/ceph/commit/5e689efb374f7a6b69f2afe689641b62a797d701
               contributors_count: 1878
               contributors_link: https://github.com/ceph/ceph/graphs/contributors
             repos:
               - url: https://github.com/ceph/ceph
-                stars: 13317
+                stars: 13319
             github_start_commit_data:
               start_commit_link: /ceph/ceph/commit/7091d44931086985a26cca2d263e307ad2f82001
               start_date: '2001-04-28T22:22:35Z'
@@ -428,7 +428,7 @@ landscape:
               contributions: >-
                 70;23;65;36;40;28;20;59;35;36;36;27;44;39;42;55;55;30;17;28;77;34;39;35;59;38;49;29;63;32;29;10;33;39;44;44;31;48;36;34;41;64;31;41;27;23;42;80;21;25;28;5
               firstWeek: 2023-05-28Z
-              stars: 289
+              stars: 290
               license: Apache License 2.0
               description: The canonical open source deployment manifest for Cloud Foundry
               latest_commit_date: '2024-05-14T10:57:32Z'
@@ -439,7 +439,7 @@ landscape:
               contributors_link: https://github.com/cloudfoundry/cf-deployment/graphs/contributors
             repos:
               - url: https://github.com/cloudfoundry/cf-deployment
-                stars: 289
+                stars: 290
             github_start_commit_data:
               start_commit_link: /cloudfoundry/cf-deployment/commit/e0f03da4ec5298e4095aa12ca0c4f275cf7d4301
               start_date: '2015-08-13T18:54:32Z'
@@ -587,9 +587,9 @@ landscape:
                   value: 219
                   color: '#701516'
               contributions: >-
-                101;60;125;129;64;64;62;39;36;15;24;71;35;48;20;56;65;91;85;38;81;92;189;109;72;54;36;28;90;70;22;3;28;24;55;57;41;51;34;61;134;82;109;19;10;0;0;4;0;2;1;4
+                102;58;125;129;66;62;63;40;34;15;24;71;35;50;18;60;61;91;85;45;75;91;200;99;71;55;35;28;90;70;22;3;33;19;55;57;41;51;44;52;158;57;109;19;10;0;0;4;0;2;1;4
               firstWeek: 2023-05-28Z
-              stars: 3102
+              stars: 3104
               license: Unknown License
               description: Data Plane Development Kit
               latest_commit_date: '2024-05-17T16:59:16Z'
@@ -598,7 +598,7 @@ landscape:
               contributors_link: https://github.com/DPDK/dpdk/graphs/contributors
             repos:
               - url: https://github.com/DPDK/dpdk
-                stars: 3102
+                stars: 3104
             github_start_commit_data:
               start_commit_link: /DPDK/dpdk/commit/0c9a540ed217764aefc5cb645f3cafd4f9e79765
               start_date: '2013-03-01T14:33:00Z'
@@ -1021,7 +1021,7 @@ landscape:
                 - name: Shell
                   value: 1027
                   color: '#89e051'
-              contributions: 1;2;0;0;0;0;1;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;3;1;0;0;0;8;4;1;0;0;0;0;0;0;0;0;9;1;0;1;3;0;0;0;1;0;0;0;1;0
+              contributions: 1;2;0;0;0;0;1;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;3;1;0;0;0;8;4;1;0;0;0;0;0;0;0;0;9;1;0;1;3;0;0;0;1;0;0;0;1;0
               firstWeek: 2023-05-28Z
               stars: 39
               license: Creative Commons Attribution 4.0 International
@@ -1169,9 +1169,9 @@ landscape:
                 - name: HTML
                   value: 671
                   color: '#e34c26'
-              contributions: 0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;3;0;2;2;1;8;3;2;2;2;3;0;0;3;6;4;4;18;8;7;6;3;8;2;10;7;1;1;10;9;5;18;4
+              contributions: 0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;3;0;2;2;1;8;3;2;2;2;3;0;0;3;6;6;2;18;8;7;6;4;7;2;10;7;1;3;8;10;4;18;4
               firstWeek: 2023-05-28Z
-              stars: 28342
+              stars: 28344
               license: Apache License 2.0
               description: The OpenAPI Specification Repository
               latest_commit_date: '2024-05-16T16:57:15Z'
@@ -1182,7 +1182,7 @@ landscape:
               contributors_link: https://github.com/OAI/OpenAPI-Specification/graphs/contributors
             repos:
               - url: https://github.com/OAI/OpenAPI-Specification
-                stars: 28342
+                stars: 28344
             github_start_commit_data:
               start_commit_link: /OAI/OpenAPI-Specification/commit/58b6b48d26031158146cbc4603806401744b0238
               start_date: '2014-03-03T16:54:09Z'
@@ -1276,7 +1276,7 @@ landscape:
                 - name: Forth
                   value: 114
                   color: '#341708'
-              contributions: 1;1;1;2;5;5;6;14;5;6;6;4;7;8;0;18;32;5;13;6;1;3;4;2;5;0;1;0;3;3;0;0;0;0;0;0;0;0;0;34;34;17;16;19;2;4;2;2;8;2;0;1
+              contributions: 1;1;1;2;5;6;5;14;6;5;6;5;8;6;0;47;3;7;11;6;1;3;4;5;2;0;1;0;3;3;0;0;0;0;0;0;0;0;0;38;31;21;16;14;2;4;2;2;8;2;0;1
               firstWeek: 2023-05-28Z
               stars: 830
               license: Apache License 2.0
@@ -1909,18 +1909,18 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                27;26;49;23;30;32;30;41;41;33;45;32;31;40;47;35;38;30;33;35;41;29;38;33;25;32;16;22;23;24;24;15;14;26;29;42;28;19;37;28;33;38;30;52;33;33;54;38;16;29;24;23
+                27;26;49;24;29;33;29;43;40;35;43;32;31;40;47;35;39;29;34;33;44;27;37;33;25;33;15;22;23;25;26;13;15;25;28;43;29;18;36;28;33;38;31;52;35;32;53;38;15;30;24;23
               firstWeek: 2023-05-28Z
-              stars: 15626
+              stars: 15629
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2024-05-18T22:38:38Z'
-              latest_commit_link: /prestodb/presto/commit/c6ffb83184cd2e81e7697ed3fae57b67b3b76982
-              contributors_count: 872
+              latest_commit_date: '2024-05-19T03:09:24Z'
+              latest_commit_link: /prestodb/presto/commit/665f62bbe906e14bf3453cff3b9cf9e3381b7040
+              contributors_count: 873
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 15626
+                stars: 15629
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -2120,7 +2120,7 @@ landscape:
                   value: 69458797
                   color: '#555555'
                 - name: Python
-                  value: 3552918
+                  value: 3533343
                   color: '#3572A5'
                 - name: CMake
                   value: 2164502
@@ -2180,20 +2180,20 @@ landscape:
                   value: 110
                   color: '#C1F12E'
               contributions: >-
-                297;296;306;252;310;223;306;247;392;246;296;282;231;289;331;309;364;340;457;347;364;291;309;304;341;409;355;388;352;274;272;118;227;304;350;294;366;254;229;252;217;284;483;387;264;234;254;243;288;220;232;128
+                288;292;312;239;316;233;294;260;382;251;297;274;235;288;327;341;330;340;460;347;365;291;304;307;340;412;365;374;355;269;273;118;238;297;359;299;351;255;240;246;211;309;463;383;270;226;249;256;292;208;230;127
               firstWeek: 2023-05-28Z
-              stars: 9752
+              stars: 9759
               license: Apache License 2.0
               description: Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
-              latest_commit_date: '2024-05-18T16:20:05Z'
-              latest_commit_link: /zephyrproject-rtos/zephyr/commit/7046c9030e7020f6ce416e7061bd1fd7f9b553b8
+              latest_commit_date: '2024-05-19T07:57:33Z'
+              latest_commit_link: /zephyrproject-rtos/zephyr/commit/34c84eccec0508b16f5001b20fa369f387d856df
               release_date: '2024-03-01T22:49:48Z'
               release_link: https://github.com/zephyrproject-rtos/zephyr/releases
               contributors_count: 2556
               contributors_link: https://github.com/zephyrproject-rtos/zephyr/graphs/contributors
             repos:
               - url: https://github.com/zephyrproject-rtos/zephyr
-                stars: 9752
+                stars: 9759
             github_start_commit_data:
               start_commit_link: /zephyrproject-rtos/zephyr/commit/8ddf82cf70dc6f951ab477f325dee0efde3ec589
               start_date: '2015-04-10T23:44:37Z'
@@ -24362,7 +24362,6 @@ landscape:
             name: FUJIFILM Corporation
             homepage_url: https://fujifilm.com/
             logo: fujifilm_corporation.svg
-            twitter: https://twitter.com/fujifilm
             crunchbase: https://www.crunchbase.com/organization/fujifilm
             crunchbase_data:
               name: Fujifilm
@@ -25751,7 +25750,6 @@ landscape:
             name: Graphcore
             homepage_url: https://graphcore.ai/
             logo: graphcore.svg
-            twitter: https://twitter.com/graphcoreai
             crunchbase: https://www.crunchbase.com/organization/graphcore
             crunchbase_data:
               name: Graphcore
@@ -43975,7 +43973,6 @@ landscape:
             name: Science Applications International Corporation
             homepage_url: https://saic.com/
             logo: science_applications_international_corporation.svg
-            twitter: https://twitter.com/SAICinc
             crunchbase: https://www.crunchbase.com/organization/saic
             crunchbase_data:
               name: SAIC
@@ -67927,4 +67924,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-05-20T02:46:29.817Z
+updated_at: 2024-05-20T04:16:04.408Z
