@@ -5093,6 +5093,8 @@ landscape:
                   acquiree: NEUTRAL Japan
                 - date: '2024-05-16'
                   acquiree: Open Stream
+                - date: '2024-05-21'
+                  acquiree: Partners in Performance
               parents: []
               ticker: CSA.F
               funding: 6000000
@@ -11431,6 +11433,8 @@ landscape:
                   acquiree: Payapps
                 - date: '2024-02-05'
                   acquiree: PIX System
+                - date: '2024-05-21'
+                  acquiree: Wonder Dynamics
               parents: []
               ticker: ADSK
               funding: 0
@@ -14914,6 +14918,39 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T11:04:10.000Z
+          - item:
+            name: CAST
+            homepage_url: https://castsoftware.com/
+            logo: cast.svg
+            twitter: https://twitter.com/OnQuality
+            crunchbase: https://www.crunchbase.com/organization/cast-2
+            crunchbase_data:
+              name: CAST
+              description: Software Intelligence Automated
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: https://www.castsoftware.com/
+              city: New York
+              region: New York
+              country: United States
+              twitter: https://twitter.com/SW_Intelligence
+              linkedin: https://www.linkedin.com/company/cast
+              acquisitions:
+                - date: '2018-06-01'
+                  acquiree: Antelink
+              parents: []
+              funding: 12500000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Software
+              kind: funding
+            image_data:
+              fileName: cast.svg
+              hash: ZAK8wqmM6vSYK+n9akU6MzncOuXdqVOuzF7Lwi2mFPo=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Cast AI Group, Inc.
             homepage_url: https://cast.ai/
@@ -39230,7 +39267,7 @@ landscape:
                   acquiree: Aiqudo
               parents: []
               ticker: PTON
-              funding: 1869707000
+              funding: 2169707000
               stockExchange: nasdaq
               company_type: For Profit
               industries:
@@ -39952,21 +39989,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T07:27:25.000Z
-          - item:
-            name: Pluxee
-            homepage_url: https://pluxeegroup.com/
-            logo: pluxee.svg
-            organization:
-              name: Pluxee
-            crunchbase_data:
-              name: Pluxee
-              parents: []
-            image_data:
-              fileName: pluxee.svg
-              hash: vsfUto2ryzD0WlPlfJWDKLQWRykVPiAQBNlSD78tZlk=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: PLVision Corporation
             homepage_url: https://plvision.eu/
@@ -50567,7 +50589,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/thundersoft
               acquisitions:
                 - date: '2016-12-19'
-                  acquiree: Rightware Oy
+                  acquiree: Rightware
                 - date: '2018-03-29'
                   acquiree: MM Solutions
               parents: []
@@ -67926,4 +67948,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-05-22T04:13:34.282Z
+updated_at: 2024-05-23T02:44:39.778Z
