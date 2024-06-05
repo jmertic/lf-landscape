@@ -4432,7 +4432,7 @@ landscape:
             homepage_url: https://accenture.com/
             logo: accenture_global_solutions_limited.svg
             twitter: https://twitter.com/Accenture
-            crunchbase: https://www.crunchbase.com/organization/organization/accenture
+            crunchbase: https://www.crunchbase.com/organization/accenture
             crunchbase_data:
               name: Accenture
               description: Accenture is a professional services company, providing services and solutions in strategy, consulting, digital, technology and operations.
@@ -32607,6 +32607,39 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: LayerZero Labs Ltd.
+            homepage_url: https://layerzero.network/
+            logo: layerzero_labs_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/layerzero-labs
+            crunchbase_data:
+              name: LayerZero Labs
+              description: LayerZero Labs is a blockchain messaging protocol developer that allows decentralized applications build across multiple blockchains.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: https://layerzero.network
+              city: Vancouver
+              region: British Columbia
+              country: Canada
+              twitter: https://www.twitter.com/LayerZero_Labs
+              linkedin: https://www.linkedin.com/company/layerzerolabs
+              acquisitions: []
+              parents: []
+              funding: 293299986
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Apps
+                - Blockchain
+                - Cryptocurrency
+                - Software
+              kind: funding
+            image_data:
+              fileName: layer-zero-labs-ltd.svg
+              hash: d1j+mmPKHMWMdDyDTbOATo6bbwo5DCSGsdm+M15QpJM=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Leading Point
             homepage_url: https://leadingpoint.io/
             logo: leading_point.svg
@@ -34653,7 +34686,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/memphis-dev
             crunchbase_data:
               name: Superstream
-              description: Improve And Optimize Your Kafka In Literally Minutes
+              description: Improve And Optimize Your Kafka In Minutes
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://superstream.ai/
@@ -39572,25 +39605,28 @@ landscape:
             homepage_url: https://percepio.com/
             logo: percepio_ab.svg
             twitter: https://twitter.com/percepio
-            crunchbase: https://www.crunchbase.com/organization/percepio/people
+            crunchbase: https://www.crunchbase.com/organization/percepio
             crunchbase_data:
-              name: People+
-              description: People+ helps sales, business development and recruiting professionals make better decisions by making business information more objective.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: http://getpeopleplus.com
-              city: Berkeley
-              region: California
-              country: United States
-              twitter: http://twitter.com/PeoplePlus
-              linkedin: null
+              name: Percepio
+              description: Percepio is accelerate embedded software development through leading trace visualization tools for RTOS and Linux.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: http://percepio.com
+              city: Västerås
+              region: Vastmanlands Lan
+              country: Sweden
+              twitter: https://www.twitter.com/percepio
+              linkedin: https://www.linkedin.com/company/341077
               acquisitions: []
               parents: []
+              funding: 2359402
               stockExchange: null
               company_type: For Profit
               industries:
-                - Business Intelligence
-                - Mobile
+                - Computer
+                - Information Technology
+                - Software
+              kind: funding
             image_data:
               fileName: percepio-ab.svg
               hash: RUwN8nt/hJYgxXsWydRe07nEhesFej6OO9iaKL15XRM=
@@ -45247,6 +45283,8 @@ landscape:
                   acquiree: Remix
                 - date: '2024-05-10'
                   acquiree: Peel
+                - date: '2024-06-03'
+                  acquiree: Checkout Blocks
               parents: []
               ticker: SHOP
               funding: 122250000
@@ -47626,23 +47664,24 @@ landscape:
             joined: '2021-03-01'
             crunchbase_data:
               name: Stacklet
-              description: Stacklet is a cloud governance company that provides operational efficiencies.
-              num_employees_min: 1
-              num_employees_max: 10
+              description: Stacklet is a cloud governance platform that helps companies manage security, operations, cost, and asset visibility in the cloud.
+              num_employees_min: 11
+              num_employees_max: 50
               homepage: https://stacklet.io/
               city: Arlington
               region: Virginia
               country: United States
-              twitter: null
+              twitter: https://x.com/stackletio
               linkedin: https://www.linkedin.com/company/stacklet/about/
               acquisitions: []
               parents: []
-              funding: 22000000
+              funding: 36500000
               stockExchange: null
               company_type: For Profit
               industries:
                 - Cloud Computing
-                - Software
+                - Cloud Data Services
+                - Cloud Management
               kind: funding
             image_data:
               fileName: stacklet.svg
@@ -54819,6 +54858,7 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
+                - Artificial Intelligence (AI)
                 - Cloud Computing
                 - Cloud Data Services
                 - Open Source
@@ -57836,24 +57876,27 @@ landscape:
             homepage_url: https://digitalgreen.org/
             logo: digital_green.svg
             twitter: https://twitter.com/digitalgreenorg
-            crunchbase: https://www.crunchbase.com/organization/digital-green/timeline
+            crunchbase: https://www.crunchbase.com/organization/digital-green
             crunchbase_data:
-              name: Timeline
-              description: The news is the short tail of a very long string of events.Timeline weaves those events into rich, compelling stories.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: http://timeline.com/
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: https://twitter.com/timeline_now
-              linkedin: https://www.linkedin.com/company/timeline-com
+              name: Digital Green
+              description: To integrate innovative technology with global development efforts to improve human well being.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: http://www.digitalgreen.org/
+              city: New Delhi
+              region: Delhi
+              country: India
+              twitter: https://twitter.com/digitalgreenorg
+              linkedin: https://www.linkedin.com/company/619071
               acquisitions: []
               parents: []
+              funding: 1300000
               stockExchange: null
               company_type: For Profit
               industries:
-                - Social Media
+                - Commercial Real Estate
+                - Information and Communications Technology (ICT)
+              kind: funding
             image_data:
               fileName: digital-green.svg
               hash: Csqo8vYraZoWw85IAclnrRXmEtG5t3jlGOpY5fZYvxA=
@@ -64962,24 +65005,27 @@ landscape:
             homepage_url: https://sollers.edu/
             logo: sollers_college.svg
             twitter: https://twitter.com/SollersEdu
-            crunchbase: https://www.crunchbase.com/organization/sollers/timeline
+            crunchbase: https://www.crunchbase.com/organization/sollers
             crunchbase_data:
-              name: Timeline
-              description: The news is the short tail of a very long string of events.Timeline weaves those events into rich, compelling stories.
+              name: Sollers
+              description: Sollers is a leading institution specialized in clinical research associate and drug safety training.
               num_employees_min: 11
               num_employees_max: 50
-              homepage: http://timeline.com/
-              city: San Francisco
-              region: California
+              homepage: http://sollers.edu/
+              city: Edison
+              region: New Jersey
               country: United States
-              twitter: https://twitter.com/timeline_now
-              linkedin: https://www.linkedin.com/company/timeline-com
+              twitter: https://www.twitter.com/sollersedu
+              linkedin: https://www.linkedin.com/company/clinical-research-academy-of-america/
               acquisitions: []
               parents: []
               stockExchange: null
               company_type: For Profit
               industries:
-                - Social Media
+                - Biotechnology
+                - Education
+                - Medical
+                - Pharmaceutical
             image_data:
               fileName: sollers-college.svg
               hash: EAQ/9h+5YQXVHztEDKacpoPNeAaHOERIfbJFzZLMeds=
@@ -68225,4 +68271,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-06-04T03:53:15.815Z
+updated_at: 2024-06-05T02:51:14.093Z
