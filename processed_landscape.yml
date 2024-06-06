@@ -6791,7 +6791,7 @@ landscape:
               kind: funding
             image_data:
               fileName: 1-password.svg
-              hash: ecUK2RXyKtw1wv5VZ65+BuGCVbjpK21Yh5vZ/fdxjc4=
+              hash: YKXmYzizlHshyJYCa7kl0Pjxz3BZuX6K7/9/W/RAWC8=
             best_practice_data:
               badge: false
               percentage: null
@@ -15129,7 +15129,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cast-2
             crunchbase_data:
               name: CAST
-              description: Instant X-rays of your applications
+              description: Software Intelligence for Digital Leaders
               num_employees_min: 251
               num_employees_max: 500
               homepage: https://www.castsoftware.com/
@@ -15142,12 +15142,10 @@ landscape:
                 - date: '2018-06-01'
                   acquiree: Antelink
               parents: []
-              funding: 12500000
               stockExchange: null
               company_type: For Profit
               industries:
                 - Software
-              kind: funding
             image_data:
               fileName: cast.svg
               hash: ZAK8wqmM6vSYK+n9akU6MzncOuXdqVOuzF7Lwi2mFPo=
@@ -19489,6 +19487,8 @@ landscape:
                   acquiree: Einblick
                 - date: '2024-03-19'
                   acquiree: Lilac AI
+                - date: '2024-06-04'
+                  acquiree: Tabular
               parents: []
               funding: 3997000000
               stockExchange: null
@@ -35696,6 +35696,53 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-03-29T21:42:18.000Z
           - item:
+            name: Molex
+            homepage_url: https://molex.com/
+            logo: molex.svg
+            twitter: https://twitter.com/MolexConnectors
+            crunchbase: https://www.crunchbase.com/organization/molex
+            crunchbase_data:
+              name: Molex
+              description: Molex is a supplier of electronic interconnects.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.molex.com
+              city: Lisle
+              region: Illinois
+              country: United States
+              twitter: http://twitter.com/MolexConnectors
+              linkedin: https://www.linkedin.com/company/molex
+              acquisitions:
+                - date: '2004-09-15'
+                  acquiree: INCEP Technologies
+                - date: '2016-04-07'
+                  acquiree: Interconnect Systems
+                - date: '2016-08-17'
+                  acquiree: Phillips-Medisize
+                - date: '2018-05-14'
+                  acquiree: BittWare
+                - date: '2018-09-28'
+                  acquiree: Laird Connectivity
+                - date: '2020-12-17'
+                  acquiree: Fiberguide Industries
+              parents:
+                - https://www.crunchbase.com/organization/koch-industries
+                - https://www.crunchbase.com/organization/koch-real-estate-investments
+              funding: 754758298
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Electronics
+                - Logistics
+                - Manufacturing
+              kind: funding
+            image_data:
+              fileName: molex.svg
+              hash: RYTAJcpVym9DgSI7Lt25jS2qywsYOzZu/lTEoHfBT9Y=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Moment Technologies, Inc.
             homepage_url: https://moment.dev/
             logo: moment_technologies_inc.svg
@@ -39604,7 +39651,6 @@ landscape:
             name: Percepio AB
             homepage_url: https://percepio.com/
             logo: percepio_ab.svg
-            twitter: https://twitter.com/percepio
             crunchbase: https://www.crunchbase.com/organization/percepio
             crunchbase_data:
               name: Percepio
@@ -43764,6 +43810,8 @@ landscape:
                   acquiree: Askdata
                 - date: '2023-09-07'
                   acquiree: LeanIX
+                - date: '2024-06-04'
+                  acquiree: WalkMe
               parents: []
               ticker: SAP
               funding: 1301371240
@@ -46754,45 +46802,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T20:00:20.000Z
           - item:
-            name: Sonar
-            homepage_url: https://sonarsource.com/
-            logo: sonar.svg
-            twitter: https://twitter.com/SonarSource
-            crunchbase: https://www.crunchbase.com/organization/sonarsource
-            joined: '2023-04-01'
-            crunchbase_data:
-              name: SonarSource
-              description: SonarSource provides open-source and commercial code analyzers to help developers manage code quality.
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: http://sonarsource.com
-              city: Geneva
-              region: Geneve
-              country: Switzerland
-              twitter: https://www.twitter.com/sonarsource
-              linkedin: https://www.linkedin.com/company/sonarsource
-              acquisitions:
-                - date: '2020-05-14'
-                  acquiree: RIPS Technologies
-              parents: []
-              funding: 457000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cyber Security
-                - Developer Tools
-                - Open Source
-                - Software
-              kind: funding
-            image_data:
-              fileName: sonar.svg
-              hash: 96l8yieuqQ2dBEqjs5JLUym+Bxa1qEVNWn/dOu3UyA8=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T20:18:17.000Z
-          - item:
             name: Sonatus, Inc.
             homepage_url: https://sonatus.com/
             logo: sonatus_inc.svg
@@ -47659,7 +47668,6 @@ landscape:
             name: Stacklet
             homepage_url: https://stacklet.io/
             logo: stacklet.svg
-            twitter: https://twitter.com/stackletio
             crunchbase: https://www.crunchbase.com/organization/stacklet
             joined: '2021-03-01'
             crunchbase_data:
@@ -47689,8 +47697,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-19T13:26:50.000Z
           - item:
             name: Stacklok
             homepage_url: https://stacklok.com/
@@ -55635,7 +55641,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/american-red-cross
               acquisitions: []
               parents: []
-              funding: 42412500
+              funding: 42432500
               stockExchange: null
               company_type: Non Profit
               industries:
@@ -57875,7 +57881,6 @@ landscape:
             name: Digital Green
             homepage_url: https://digitalgreen.org/
             logo: digital_green.svg
-            twitter: https://twitter.com/digitalgreenorg
             crunchbase: https://www.crunchbase.com/organization/digital-green
             crunchbase_data:
               name: Digital Green
@@ -65502,7 +65507,7 @@ landscape:
               parents: []
             image_data:
               fileName: test-account.svg
-              hash: T9/eMv903ahYa2QwWO1IakHaiYr3eoNVoKheRobo3A4=
+              hash: +MPWY1VBIsEDov2hUn0D5bWCMrNm8lext2sgRxrG6X4=
             best_practice_data:
               badge: false
               percentage: null
@@ -68271,4 +68276,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-06-05T02:51:14.093Z
+updated_at: 2024-06-06T02:19:36.669Z
