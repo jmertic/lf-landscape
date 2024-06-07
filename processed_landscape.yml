@@ -6367,6 +6367,8 @@ landscape:
                   acquiree: Photomath
                 - date: '2023-12-19'
                   acquiree: Equalum
+                - date: '2024-06-05'
+                  acquiree: Cameyo
               parents:
                 - https://www.crunchbase.com/organization/alphabet
               ticker: GOOG
@@ -6558,39 +6560,23 @@ landscape:
             homepage_url: https://sony.com/
             logo: sony_group_corporation.svg
             twitter: https://twitter.com/SonyGroupGlobal
-            crunchbase: https://www.crunchbase.com/organization/sony-electronics
+            crunchbase: https://www.crunchbase.com/organization/sony-group-corporation
             crunchbase_data:
-              name: Sony Electronics
-              description: Sony Electronics (SEL) is the U.S. sales and marketing arm of Sony’s global electronics business. It is a leading provider of audio/video
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.sony.com
-              city: Paramus
-              region: New Jersey
-              country: United States
-              twitter: http://twitter.com/SonyElectronics
-              linkedin: https://www.linkedin.com/company/sony-electronics-professional-solutions-of-america
-              acquisitions:
-                - date: '2017-04-23'
-                  acquiree: Crispin Corporation
-              parents:
-                - https://www.crunchbase.com/organization/sony-mobile-communications
-                - https://www.crunchbase.com/organization/sony
-                - https://www.crunchbase.com/organization/sony-biz-networks-corporation
-                - https://www.crunchbase.com/organization/so-net
-              ticker: SNEJF
-              funding: 0
+              name: Sony Group Corporation
+              description: Sony Group Corporation commonly known as Sony is a Japanese multinational conglomerate corporation headquartered in Tokyo, Japan.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://www.sony.com/en/
+              city: Tokyo
+              region: Tokyo
+              country: Japan
+              twitter: https://twitter.com/SonyGroupGlobal?s=20
+              linkedin: https://www.linkedin.com/company/sony/
+              acquisitions: []
+              parents: []
               stockExchange: null
               company_type: For Profit
-              industries:
-                - Consumer Electronics
-                - Consumer Goods
-                - Digital Signage
-                - Electronics
-                - Manufacturing
-                - Video
-            yahoo_finance_data:
-              effective_ticker: SNEJF
+              industries: []
             image_data:
               fileName: sony-group-corporation.svg
               hash: LgTBieN4eTDYfj0TGmcvRVxN9Fq0hC5HnmMpt79QaLg=
@@ -16853,6 +16839,8 @@ landscape:
                   acquiree: Cazena
                 - date: '2021-06-01'
                   acquiree: Datacoral
+                - date: '2024-06-03'
+                  acquiree: Verta
               parents: []
               ticker: CLDR
               funding: 1041000000
@@ -27385,7 +27373,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/honeycomb.io
               acquisitions: []
               parents: []
-              funding: 148900000
+              funding: 146900000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -28422,42 +28410,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-10-25T10:30:47.000Z
           - item:
-            name: IKEA Marketing & Communication AB
-            homepage_url: https://ikea.com/
-            logo: ikea_marketing__communication_ab.svg
-            twitter: https://twitter.com/IKEA
-            crunchbase: https://www.crunchbase.com/organization/ikea-systems
-            crunchbase_data:
-              name: IKEA
-              description: IKEA Systems offers a wide range of well-designed, functional home furnishing products.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.ikea.com/
-              city: Delft
-              region: Zuid-Holland
-              country: The Netherlands
-              twitter: https://twitter.com/IKEAUSA
-              linkedin: https://www.linkedin.com/company/2743/
-              acquisitions:
-                - date: '2017-09-28'
-                  acquiree: Taskrabbit
-                - date: '2020-04-02'
-                  acquiree: Geomagical Labs
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Furniture
-                - Home Decor
-                - Retail
-                - Shopping
-            image_data:
-              fileName: ikea-marketing-communication-ab.svg
-              hash: 9tObHAkgaoYE0N8oDTE6RjGW44T0zjAF1z1PrrTEKQQ=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: ILKI FRANCE
             homepage_url: https://ilki.fr/
             logo: ilki_france.svg
@@ -29404,6 +29356,41 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Inter IKEA Systems B.V.
+            homepage_url: https://inter.ikea.com/
+            logo: inter_ikea_systems_bv.svg
+            crunchbase: https://www.crunchbase.com/organization/ikea-systems
+            crunchbase_data:
+              name: IKEA
+              description: IKEA Systems offers a wide range of well-designed, functional home furnishing products.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.ikea.com/
+              city: Delft
+              region: Zuid-Holland
+              country: The Netherlands
+              twitter: https://twitter.com/IKEAUSA
+              linkedin: https://www.linkedin.com/company/2743/
+              acquisitions:
+                - date: '2017-09-28'
+                  acquiree: Taskrabbit
+                - date: '2020-04-02'
+                  acquiree: Geomagical Labs
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Furniture
+                - Home Decor
+                - Retail
+                - Shopping
+            image_data:
+              fileName: inter-ikea-systems-b-v.svg
+              hash: 9tObHAkgaoYE0N8oDTE6RjGW44T0zjAF1z1PrrTEKQQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: InterCloud
             homepage_url: https://intercloud.com/
             logo: intercloud.svg
@@ -30127,6 +30114,8 @@ landscape:
                   acquiree: Uber Elevate
                 - date: '2022-05-18'
                   acquiree: Avionyx
+                - date: '2024-06-04'
+                  acquiree: Xwing - Autonomy Division
               parents: []
               ticker: JOBY
               funding: 1980770000
@@ -35666,7 +35655,7 @@ landscape:
             joined: '2022-02-01'
             crunchbase_data:
               name: mogenius
-              description: mogenius is a Virtual DevOps platform that provides automated cloud enivorments for software developments
+              description: mogenius is a Kubernetes Operations Platform that helps teams to deploy and manage applications on Kubernetes easily.
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://mogenius.com
@@ -53963,7 +53952,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/wevr/
               acquisitions: []
               parents: []
-              funding: 38750000
+              funding: 42250000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -60791,11 +60780,28 @@ landscape:
             name: InternLM
             homepage_url: https://internlm.org/
             logo: internlm.svg
-            organization:
-              name: InternLM
+            crunchbase: https://www.crunchbase.com/organization/shanghai-ai-innovation
             crunchbase_data:
-              name: InternLM
+              name: Shanghai AI Innovation
+              description: Shanghai AI Innovation (SAII) develops artificial intelligence software for the e-commerce industry.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: null
+              city: Shanghai
+              region: Shanghai
+              country: China
+              twitter: null
+              linkedin: null
+              acquisitions: []
               parents: []
+              funding: 9000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence (AI)
+                - E-Commerce
+                - Software
+              kind: funding
             image_data:
               fileName: intern-lm.svg
               hash: WXCYUo67or33lpMrQ0JS7Dyg1k9hlXQMHUN/AA47Ghs=
@@ -66525,7 +66531,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/4171
               acquisitions: []
               parents: []
-              funding: 1705148
+              funding: 1759419
               stockExchange: null
               company_type: ''
               industries:
@@ -68275,4 +68281,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-06-06T03:52:08.899Z
+updated_at: 2024-06-07T02:53:21.765Z
