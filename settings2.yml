@@ -67,12 +67,6 @@ categories:
       - Gold
       - Silver
       - Associate
-      #  - name: Projects
-      #subcategories:
-      #   - All
-  - name: PMO Managed
-    subcategories:
-      - All
 
 # Colors (optional)
 #
@@ -183,9 +177,6 @@ grid_items_size: small
 #       - <CATEGORY2_NAME>
 #
 groups:
-  - name: Umbrellas
-    categories:
-      - Project Group
   - name: Members
     categories:
       - LF Members
@@ -197,7 +188,13 @@ groups:
       - Industry
   - name: Technology Sectors
     categories:
-      - Technology Sectors
+      - Technology Sector
+  - name: PMO Managed Projects
+    categories:
+      - PMO Managed
+  - name: Umbrellas
+    categories:
+      - Project Group
 
 # Header (optional)
 #

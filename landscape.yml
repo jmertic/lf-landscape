@@ -1,5 +1,14 @@
 landscape:
   - category:
+    name: Industry
+    subcategories: []
+  - category:
+    name: Technology Sector
+    subcategories: []
+  - category:
+    name: Project Group
+    subcategories: []
+  - category:
     name: PMO Managed
     subcategories:
       - subcategory:
@@ -376,10 +385,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/renesas-electronics-corporation
           - item:
             name: Sony Group Corporation
-            homepage_url: https://sony.com/
+            homepage_url: https://sony.com/en/
             logo: sony_group_corporation.svg
             twitter: https://twitter.com/SonyGroupGlobal
-            crunchbase: https://www.crunchbase.com/organization/sony-electronics
+            crunchbase: https://www.crunchbase.com/organization/sony-group-corporation
           - item:
             name: Toshiba Corporation
             homepage_url: https://toshiba.com/
@@ -418,8 +427,7 @@ landscape:
             homepage_url: https://1password.com/
             logo: 1password.svg
             twitter: https://twitter.com/1Password
-            organization:
-              name: 1Password
+            crunchbase: https://www.crunchbase.com/organization/1password
           - item:
             name: 23 Technologies GmbH
             homepage_url: https://23technologies.cloud/
@@ -857,6 +865,12 @@ landscape:
             twitter: https://twitter.com/AndesDigital
             crunchbase: https://www.crunchbase.com/organization/andes-digital
           - item:
+            name: Animal Logic Pty Ltd
+            homepage_url: https://animallogic.com/
+            logo: animal_logic_pty_ltd.svg
+            twitter: https://twitter.com/animallogic
+            crunchbase: https://www.crunchbase.com/organization/animal-logic
+          - item:
             name: Anjuna Security, Inc.
             homepage_url: https://anjuna.io/
             logo: anjuna_security_inc.svg
@@ -977,6 +991,12 @@ landscape:
             twitter: https://twitter.com/ArcheraAi
             organization:
               name: Archera
+          - item:
+            name: Arcjet
+            homepage_url: https://arcjet.com/
+            logo: arcjet.svg
+            organization:
+              name: Arcjet
           - item:
             name: Arcontech Group PLC
             homepage_url: https://arcontech.com/
@@ -2653,6 +2673,11 @@ landscape:
             twitter: https://twitter.com/BytedanceTalk
             crunchbase: https://www.crunchbase.com/organization/bytedance
           - item:
+            name: Draftt
+            homepage_url: https://draftt.io/
+            logo: draftt.svg
+            crunchbase: https://www.crunchbase.com/organization/draftt
+          - item:
             name: Dragonflydb
             homepage_url: https://dragonflydb.io/
             logo: dragonflydb.svg
@@ -3661,12 +3686,6 @@ landscape:
             organization:
               name: IITS Consulting
           - item:
-            name: IKEA Marketing & Communication AB
-            homepage_url: https://ikea.com/
-            logo: ikea_marketing_communication_ab.svg
-            twitter: https://twitter.com/IKEA
-            crunchbase: https://www.crunchbase.com/organization/ikea-systems
-          - item:
             name: ILKI FRANCE
             homepage_url: https://ilki.fr/
             logo: ilki_france.svg
@@ -3839,6 +3858,11 @@ landscape:
             logo: intercloud.svg
             twitter: https://twitter.com/theintercloud
             crunchbase: https://www.crunchbase.com/organization/intercloud
+          - item:
+            name: Inter IKEA Systems B.V.
+            homepage_url: https://inter.ikea.com/
+            logo: inter_ikea_systems_b_v.svg
+            crunchbase: https://www.crunchbase.com/organization/ikea-systems
           - item:
             name: Internet Initiative Japan
             homepage_url: https://iij.ad.jp/
@@ -4104,6 +4128,12 @@ landscape:
             logo: kitware.svg
             twitter: https://twitter.com/Kitware
             crunchbase: https://www.crunchbase.com/organization/kitware
+          - item:
+            name: Kiwimoore
+            homepage_url: https://kiwimoore.com/
+            logo: kiwimoore.svg
+            organization:
+              name: Kiwimoore
           - item:
             name: Kloia Software and Consulting Ltd
             homepage_url: https://kloia.com/
@@ -5067,13 +5097,6 @@ landscape:
             twitter: https://twitter.com/nokia
             crunchbase: https://www.crunchbase.com/organization/nokia
           - item:
-            name: Nomoko
-            homepage_url: https://nomoko.world/
-            logo: nomoko.svg
-            twitter: https://twitter.com/nomoko_world
-            organization:
-              name: Nomoko
-          - item:
             name: nops.io
             homepage_url: https://nops.io/
             logo: nops.svg
@@ -5957,6 +5980,11 @@ landscape:
             twitter: https://twitter.com/ricoh
             crunchbase: https://www.crunchbase.com/organization/ricoh
           - item:
+            name: Rig
+            homepage_url: https://rig.dev/
+            logo: rig.svg
+            crunchbase: https://www.crunchbase.com/organization/rig-dev
+          - item:
             name: Ripple Labs Inc.
             homepage_url: https://ripple.com/
             logo: ripple_labs_inc.svg
@@ -6559,12 +6587,6 @@ landscape:
             logo: solo_io_inc.svg
             twitter: https://twitter.com/soloio_inc
             crunchbase: https://www.crunchbase.com/organization/solo-io
-          - item:
-            name: Sonar
-            homepage_url: https://sonarsource.com/
-            logo: sonar.svg
-            twitter: https://twitter.com/SonarSource
-            crunchbase: https://www.crunchbase.com/organization/sonarsource
           - item:
             name: Sonatus, Inc.
             homepage_url: https://sonatus.com/
@@ -7476,6 +7498,12 @@ landscape:
             twitter: https://twitter.com/vaxowave
             crunchbase: https://www.crunchbase.com/organization/vaxowave
           - item:
+            name: VDURA
+            homepage_url: https://vdura.com/
+            logo: vdura.svg
+            organization:
+              name: VDURA
+          - item:
             name: Veea Inc.
             homepage_url: https://veea.com/
             logo: veea_inc.svg
@@ -7658,6 +7686,12 @@ landscape:
             logo: western_digital_corporation.svg
             twitter: https://twitter.com/westerndigital
             crunchbase: https://www.crunchbase.com/organization/western-digital-capital
+          - item:
+            name: Wētā FX Limited
+            homepage_url: https://wetafx.co.nz/
+            logo: weta_fx_limited.svg
+            twitter: https://twitter.com/weta_digital
+            crunchbase: https://www.crunchbase.com/organization/weta-digital
           - item:
             name: Wevr
             homepage_url: https://wevr.com/
@@ -7901,6 +7935,12 @@ landscape:
             logo: aais_american_association_of_insurance_services.svg
             twitter: https://twitter.com/AAISConnect
             crunchbase: https://www.crunchbase.com/organization/american-association-of-insurance-services
+          - item:
+            name: Abater Foundation
+            homepage_url: https://abater.io/
+            logo: abater_foundation.svg
+            organization:
+              name: Abater Foundation
           - item:
             name: Acurast
             homepage_url: https://acurast.com/
@@ -10549,7 +10589,7 @@ landscape:
             name: Volta Foundation
             homepage_url: https://volta.foundation/
             logo: volta_foundation.svg
-            crunchbase: https://www.crunchbase.com/organization/volta
+            crunchbase: https://www.crunchbase.com/organization/volta-foundation
           - item:
             name: Wall Street Blockchain Alliance
             homepage_url: https://wsba.co/
@@ -10779,7 +10819,8 @@ landscape:
             name: Adversarial Robustness Toolbox
             homepage_url: https://adversarial-robustness-toolbox.org/
             logo: adversarial_robustness_toolbox.svg
-            description:
+            description: Adversarial Robustness Toolbox (ART) provides tools that enable developers and researchers to evaluate, defend, certify and verify Machine
+              Learning models and applications against the adversarial threats.
             second_path:
               - Project Group / LF AI & Data
               - Industry / Cross-Industry
@@ -11334,7 +11375,7 @@ landscape:
               name: Brigade
           - item:
             name: Broadband Fund
-            homepage_url: https://www.opennetworking.org/
+            homepage_url: https://lfbroadband.org/
             logo: broadband_fund.svg
             description: The Broadband Fund supports the Broadband Project.
             second_path:
@@ -14813,8 +14854,8 @@ landscape:
             homepage_url: https://lakesoul.io/
             logo: lakesoul.svg
             repo_url: https://github.com/lakesoul-io
-            description: 'The mission of the Project is to develop an end-to-end, realtime and cloud native Lakehouse framework with fast data ingestion, concurrent
-              update and incremental data analytics on cloud storages for both BI and AI applications. '
+            description: The mission of the Project is to develop an end-to-end, realtime and cloud native Lakehouse framework with fast data ingestion, concurrent
+              update and incremental data analytics on cloud storages for both BI and AI applications.
             second_path:
               - Project Group / LF AI & Data
               - Technology Sector / Cross-Technology
@@ -18654,6 +18695,18 @@ landscape:
               - Technology Sector / Open Hardware
             organization:
               name: Sustainable & Scalable Infrastructure Alliance Fund
+          - item:
+            name: Sylva Fund
+            homepage_url: https://sylvaproject.org/
+            logo: sylva_fund.svg
+            description: 'To release a cloud software framework tailored for telco and edge requirements that addresses the technical challenges of the infrastructure
+              layer of this ecosystem. To develop a reference implementation of the cloud software framework and create a validation program for such implementations
+              with Europe Requirements. '
+            second_path:
+              - Project Group / Linux Foundation Europe
+              - Technology Sector / Networking & Edge
+            organization:
+              name: Sylva Fund
           - item:
             name: Symphony BDK Java
             homepage_url: https://symphony-bdk-java.finos.org/
