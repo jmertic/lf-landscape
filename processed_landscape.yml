@@ -34128,14 +34128,14 @@ landscape:
               num_employees_min: 1
               num_employees_max: 10
               homepage: https://massdriver.cloud
-              city: Pasadena
+              city: Los Angeles
               region: California
               country: United States
               twitter: https://twitter.com/massdriver
               linkedin: https://linkedin.com/company/massdriver
               acquisitions: []
               parents: []
-              funding: 8000000
+              funding: 8500000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -38379,20 +38379,23 @@ landscape:
             joined: '2022-11-01'
             crunchbase_data:
               name: Ollama
-              description: Get up and running with large language models locally.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: https://github.com/jmorganca/ollama
-              city: ' N/A'
-              region: ' N/A'
-              country: ' N/A'
-              twitter: https://twitter.com/jmorgan
+              description: Ollama is a software firm that develops local inference platform designed to run large language models.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://ollama.com/
+              city: Toronto
+              region: Ontario
+              country: Canada
+              twitter: https://x.com/ollama
               linkedin: https://www.linkedin.com/company/ollama/
               acquisitions: []
               parents: []
               stockExchange: null
               company_type: For Profit
-              industries: []
+              industries:
+                - Developer Platform
+                - Infrastructure
+                - Software
             image_data:
               fileName: ollama.svg
               hash: PA6+bnDfU6hBYU6CZTkWkJnZC0Oiisq2m+Ex7872BE0=
@@ -67947,11 +67950,29 @@ landscape:
             name: Volta Foundation
             homepage_url: https://volta.foundation/
             logo: volta_foundation.svg
-            organization:
-              name: Volta Foundation
+            crunchbase: https://www.crunchbase.com/organization/volta-foundation
             crunchbase_data:
               name: Volta Foundation
+              description: The Volta Foundation is a non-profit serving the battery ecosystem.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://volta.foundation
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/volta-foundation/
+              acquisitions: []
               parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Association
+                - CleanTech
+                - Electric Vehicle
+                - Energy Storage
+                - Non Profit
+                - Renewable Energy
             image_data:
               fileName: volta-foundation.svg
               hash: wtTCL5I24WxFAGW41fRFaXC6e+IDpnKP7gMLHSmJzZk=
@@ -68425,4 +68446,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-06-08T04:03:16.164Z
+updated_at: 2024-06-09T02:53:35.916Z
