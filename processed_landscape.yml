@@ -9495,9 +9495,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/continuum-analytics
             crunchbase_data:
               name: Anaconda
-              description: Anaconda delivers transformative value across the AI stack through a unified portfolio of innovative AI tools and technologies.
-              num_employees_min: 101
-              num_employees_max: 250
+              description: Anaconda's platform provides access to the foundational open-source Python packages used in modern AI, data science and machine learning.
+              num_employees_min: 251
+              num_employees_max: 500
               homepage: https://www.anaconda.com
               city: Austin
               region: Texas
@@ -9507,6 +9507,8 @@ landscape:
               acquisitions:
                 - date: '2022-06-22'
                   acquiree: PythonAnywhere
+                - date: '2023-05-04'
+                  acquiree: EduBlocks
               parents: []
               funding: 83000000
               stockExchange: null
@@ -10159,7 +10161,7 @@ landscape:
                 - date: '2014-10-07'
                   acquiree: FathomDB
               parents: []
-              funding: 183200000
+              funding: 152000000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -10431,14 +10433,30 @@ landscape:
             name: Arcjet
             homepage_url: https://arcjet.com/
             logo: arcjet.svg
-            organization:
-              name: Arcjet
+            crunchbase: https://www.crunchbase.com/organization/arcjet
             crunchbase_data:
               name: Arcjet
+              description: Security layer for JS. Rate limiting, bot protection, email validation, and defense against common attacks.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://arcjet.com
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://x.com/arcjethq
+              linkedin: https://www.linkedin.com/company/arcjet/
+              acquisitions: []
               parents: []
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Cyber Security
+                - Developer Tools
+                - Infrastructure
+                - Security
             image_data:
               fileName: arcjet.svg
-              hash: OFgSSk74JEdAuGmttbzqfJiWZ/idwBwZPXpyzI9RNQ8=
+              hash: jL5gu+92gsQmzwCazdiGPj9beMl/lc6/wBmOeKjtOCE=
             best_practice_data:
               badge: false
               percentage: null
@@ -11310,22 +11328,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-02-20T17:18:57.000Z
-          - item:
-            name: AUSY Technologies Germany AG
-            homepage_url: https://ausy-technologies.de/
-            logo: ausy_technologies_germany_ag.svg
-            twitter: https://twitter.com/AUSY_Germany
-            organization:
-              name: AUSY Technologies Germany AG
-            crunchbase_data:
-              name: AUSY Technologies Germany AG
-              parents: []
-            image_data:
-              fileName: ausy-technologies-germany-ag.svg
-              hash: JslmX1WtZPo7dgQgwoSWl7RWWcjU37XANZAvhUXdlhM=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: Authzed
             homepage_url: https://authzed.com/
@@ -18347,44 +18349,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: CoolIT Systems Inc.
-            homepage_url: https://coolitsystems.com/
-            logo: coolit_systems_inc.svg
-            twitter: https://twitter.com/CoolITSystems
-            crunchbase: https://www.crunchbase.com/organization/coolit-systems
-            crunchbase_data:
-              name: CoolIT Systems
-              description: CoolIT Systems is engaged in the design and manufacture of electronic cooling systems and system integration services.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: http://www.coolitsystems.com
-              city: Calgary
-              region: Alberta
-              country: Canada
-              twitter: http://twitter.com/coolitsystems
-              linkedin: https://www.linkedin.com/company/coolit-systems-inc.
-              acquisitions:
-                - date: '2009-04-27'
-                  acquiree: Delphi Thermal Liquid Cooling
-              parents: []
-              funding: 10000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Computer
-                - Data Center
-                - Hardware
-                - Manufacturing
-              kind: funding
-            image_data:
-              fileName: cool-it-systems-inc.svg
-              hash: wib958cStiDQItz80Ud2yNBnBQj2Qlo+xgcG0XApuFI=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-02-15T00:06:38.000Z
-          - item:
             name: COPILOT TRAVEL Inc
             homepage_url: https://copilottravel.com/
             logo: copilot_travel_inc.svg
@@ -19937,6 +19901,36 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: DeeperThanBlue Ltd
+            homepage_url: https://deeperthanblue.co.uk/
+            logo: deeperthanblue_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/deeper-than-blue
+            crunchbase_data:
+              name: Deeper Than Blue
+              description: Deeper Than Blue is an IT firm that specializes in the field of app modernization, software testing, process management, e-commerce & cloud.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.deeperthanblue.co.uk/
+              city: Sheffield
+              region: Sheffield
+              country: United Kingdom
+              twitter: https://twitter.com/deeperthanblue1
+              linkedin: https://www.linkedin.com/company/deeperthanblue/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - E-Commerce
+                - Information Technology
+                - Software
+            image_data:
+              fileName: deeper-than-blue-ltd.svg
+              hash: SqkydTsonME3TCjCZ55bCKUVprno5qhBOD0uvLvoK0o=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Deepfactor
             homepage_url: https://deepfactor.io/
             logo: deepfactor.svg
@@ -21445,7 +21439,7 @@ landscape:
                 - Enterprise Software
             image_data:
               fileName: draftt.svg
-              hash: GWrnjuM13uF4ZsS57Ss1Qca2+zHeU+qA5TKbG16/M0A=
+              hash: Ne4IXwFX/6FNDuQ6HGKYgXUUqCkZIktNJqpVUJKCxr8=
             best_practice_data:
               badge: false
               percentage: null
@@ -25092,7 +25086,7 @@ landscape:
                   acquiree: Nexus Controls
               parents: []
               ticker: GE
-              funding: 8292694839
+              funding: 8293094839
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -32909,7 +32903,7 @@ landscape:
                 - date: '2016-10-06'
                   acquiree: Fujitsu - PC business
                 - date: '2022-06-14'
-                  acquiree: PLTS
+                  acquiree: Lenovo PCCW Solutions
               parents: []
               ticker: 0992.HK
               funding: 1350025000
@@ -41705,6 +41699,21 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Quilyx
+            homepage_url: https://quilyx.com/
+            logo: quilyx.svg
+            organization:
+              name: Quilyx
+            crunchbase_data:
+              name: Quilyx
+              parents: []
+            image_data:
+              fileName: quilyx.svg
+              hash: THRpaqsrXDMpy/3aA13CzerkjlYvtd8FV09VaHJZI+k=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Qumulo
             homepage_url: https://qumulo.com/
             logo: qumulo.svg
@@ -42103,6 +42112,22 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T11:15:05.000Z
+          - item:
+            name: Randstad Digital Germany AG
+            homepage_url: https://randstaddigital.de/
+            logo: randstad_digital_germany_ag.svg
+            twitter: https://twitter.com/AUSY_Germany
+            organization:
+              name: Randstad Digital Germany AG
+            crunchbase_data:
+              name: Randstad Digital Germany AG
+              parents: []
+            image_data:
+              fileName: randstad-digital-germany-ag.svg
+              hash: JslmX1WtZPo7dgQgwoSWl7RWWcjU37XANZAvhUXdlhM=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: RapidAPI
             homepage_url: https://rapidapi.com/
@@ -58398,7 +58423,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/epri/
               acquisitions: []
               parents: []
-              funding: 14699667
+              funding: 16099667
               stockExchange: null
               company_type: For Profit
               industries:
@@ -63883,7 +63908,7 @@ landscape:
               linkedin: https://www.linkedin.com/edu/penn-state-university-19318
               acquisitions: []
               parents: []
-              funding: 14593927
+              funding: 15409927
               stockExchange: null
               company_type: ''
               industries:
@@ -63918,7 +63943,7 @@ landscape:
               linkedin: https://www.linkedin.com/edu/penn-state-university-19318
               acquisitions: []
               parents: []
-              funding: 14593927
+              funding: 15409927
               stockExchange: null
               company_type: ''
               industries:
@@ -65745,7 +65770,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/the-alan-turing-institute
               acquisitions: []
               parents: []
-              funding: 127043333
+              funding: 130991276
               stockExchange: null
               company_type: ''
               industries:
@@ -68482,4 +68507,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-06-11T02:54:28.533Z
+updated_at: 2024-06-12T02:28:45.007Z
