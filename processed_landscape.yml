@@ -37949,7 +37949,7 @@ landscape:
             joined: '2018-08-01'
             crunchbase_data:
               name: Nutanix
-              description: "Nutanix is a\_virtualized datacenter platform that provides disruptive datacenter infrastructure solutions for business applications."
+              description: Nutanix is a platform that makes managing applications and data across different cloud services easier for businesses.
               num_employees_min: 5001
               num_employees_max: 10000
               homepage: http://www.nutanix.com
@@ -41281,6 +41281,8 @@ landscape:
                   acquiree: Bizon
                 - date: '2023-03-30'
                   acquiree: Practia
+                - date: '2024-06-05'
+                  acquiree: Downtown Paris
               parents: []
               ticker: PUB.PA
               stockExchange: epa
@@ -42637,21 +42639,23 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/restate-5a05
             crunchbase_data:
               name: Restate
-              description: Easily build workflows, event-driven applications, and distributed services in a fault-tolerant manner with durable async/await.
+              description: Restate build workflows, event-driven applications, and distributed services in a fault-tolerant manner with durable async/await.
               num_employees_min: null
               num_employees_max: null
               homepage: https://restate.dev/
-              city: ' N/A'
-              region: ' N/A'
-              country: ' N/A'
+              city: Berlin
+              region: Berlin
+              country: Germany
               twitter: null
-              linkedin: null
+              linkedin: https://www.linkedin.com/company/restatedev/about/
               acquisitions: []
               parents: []
+              funding: 7000000
               stockExchange: null
               company_type: ''
               industries:
                 - Software
+              kind: funding
             image_data:
               fileName: restate.svg
               hash: 3VpSrZdXGREzw20udBfZN0k5cgekOLx4YErzhc8/JfI=
@@ -43686,16 +43690,11 @@ landscape:
               stockExchange: nyse
               company_type: For Profit
               industries:
-                - Apps
                 - CRM
                 - Cloud Computing
-                - Enterprise Software
-                - Information Technology
-                - Mobile Apps
                 - SaaS
                 - Sales Enablement
                 - Software
-                - iOS
             yahoo_finance_data:
               effective_ticker: CRM
             image_data:
@@ -53163,7 +53162,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/ventana-micro-systems
             crunchbase_data:
               name: Ventana Micro Systems
-              description: Ventana Micro Systems is operates in stealth mode.
+              description: Ventana delivers high-performance RISC-V CPUs with extensible instruction sets for cloud, data center, 5G, AI, and automotive markets.
               num_employees_min: 51
               num_employees_max: 100
               homepage: https://www.ventanamicro.com/
@@ -54276,7 +54275,7 @@ landscape:
                 - date: '2016-04-04'
                   acquiree: Arynga
                 - date: '2020-01-16'
-                  acquiree: Star Lab Corp.
+                  acquiree: Star Lab
                 - date: '2021-09-20'
                   acquiree: Particle Design
               parents: []
@@ -57428,6 +57427,21 @@ landscape:
             image_data:
               fileName: code-from-finland.svg
               hash: SzoFrvGJRpl5v2h1KT3nOP8H8OOHPJkGIaNQa/fiaCg=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: CodeDay
+            homepage_url: https://codeday.org/
+            logo: codeday.svg
+            organization:
+              name: CodeDay
+            crunchbase_data:
+              name: CodeDay
+              parents: []
+            image_data:
+              fileName: code-day.svg
+              hash: R5HSoOz5wjLe+HRAjzwsKQQfiWyF2z0cz5C4Ur19Eyg=
             best_practice_data:
               badge: false
               percentage: null
@@ -68507,4 +68521,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-06-12T04:02:00.107Z
+updated_at: 2024-06-13T02:52:31.153Z
