@@ -31565,6 +31565,40 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: KTrust
+            homepage_url: https://ktrust.io/
+            logo: ktrust.svg
+            crunchbase: https://www.crunchbase.com/organization/ktrust-ltd
+            crunchbase_data:
+              name: KTrust
+              description: Continuous Threat Exposure Management for Kubernetes Environments
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://ktrust.io
+              city: Tel Aviv
+              region: Tel Aviv
+              country: Israel
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              funding: 5300000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Infrastructure
+                - Cloud Security
+                - Cyber Security
+                - Enterprise Software
+                - Information Technology
+              kind: funding
+            image_data:
+              fileName: k-trust.svg
+              hash: vuqvY1FsXYiAbWpOPo+YYrsS9ppD6OmC4x+D7ZmM+rA=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: KubeOps GmbH
             homepage_url: https://kubeops.net/
             logo: kubeops_gmbh.svg
@@ -41579,11 +41613,23 @@ landscape:
             name: Quality Cloud Corp.
             homepage_url: https://qualitycloud.com/
             logo: quality_cloud_corp.svg
-            organization:
-              name: Quality Cloud Corp.
+            crunchbase: https://www.crunchbase.com/organization/quality-cloud
             crunchbase_data:
-              name: Quality Cloud Corp.
+              name: Quality Cloud
+              description: Quality Cloud combines open source technology and wisdom to make cloud technology accessible.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://qualitycloud.com
+              city: Tokyo
+              region: Tokyo
+              country: Japan
+              twitter: null
+              linkedin: https://www.linkedin.com/company/qualitycloudbd/
+              acquisitions: []
               parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
             image_data:
               fileName: quality-cloud-corp.svg
               hash: i/ugZ9kChRZrc4y6wYGL+OYA+d97WTruNCD64yqKeos=
@@ -68498,4 +68544,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-06-15T02:52:17.544Z
+updated_at: 2024-06-16T02:29:33.667Z
