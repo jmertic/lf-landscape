@@ -12388,6 +12388,7 @@ landscape:
               acquisitions: []
               parents: []
               ticker: CIB
+              funding: 800000000
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -14364,7 +14365,6 @@ landscape:
                   acquiree: Cloudreach
               parents: []
               ticker: AEXAF
-              funding: 748027878
               stockExchange: otcpink
               company_type: For Profit
               industries:
@@ -21415,18 +21415,23 @@ landscape:
               city: Tel Aviv
               region: Tel Aviv
               country: Israel
-              twitter: null
+              twitter: https://x.com/draftt_io
               linkedin: https://www.linkedin.com/company/draftt/
               acquisitions: []
               parents: []
               stockExchange: null
               company_type: For Profit
               industries:
+                - Artificial Intelligence (AI)
                 - Cyber Security
                 - DevOps
                 - Developer Platform
                 - Developer Tools
                 - Enterprise Software
+                - Generative AI
+                - Information Technology
+                - Predictive Analytics
+                - SaaS
             image_data:
               fileName: draftt.svg
               hash: Ne4IXwFX/6FNDuQ6HGKYgXUUqCkZIktNJqpVUJKCxr8=
@@ -27261,6 +27266,8 @@ landscape:
                   acquiree: Itus Digital
                 - date: '2024-04-23'
                   acquiree: Xwatch Safety Solutions
+                - date: '2024-06-18'
+                  acquiree: Voyansi
               parents: []
               ticker: HEXA-B
               funding: 200000
@@ -29090,39 +29097,6 @@ landscape:
             image_data:
               fileName: inframappa.svg
               hash: XKwMIllQXd2l01nkUXON92jb2KBS7+YspZ5s+a6OdZ4=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Inigo
-            homepage_url: https://inigo.io/
-            logo: inigo.svg
-            crunchbase: https://www.crunchbase.com/organization/inigo-a1d0
-            crunchbase_data:
-              name: Inigo
-              description: Inigo is a graphQL API security and management platform.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://inigo.io
-              city: Palo Alto
-              region: California
-              country: United States
-              twitter: null
-              linkedin: https://www.linkedin.com/company/inigo
-              acquisitions: []
-              parents: []
-              funding: 4500000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Developer APIs
-                - Developer Tools
-                - Enterprise Software
-                - Software
-              kind: funding
-            image_data:
-              fileName: inigo.svg
-              hash: 4n9LgtZpOEOi6KcUDKmHWMc+hAdCpxQjMavDcVprvto=
             best_practice_data:
               badge: false
               percentage: null
@@ -48682,6 +48656,8 @@ landscape:
                   acquiree: Rancher Labs
                 - date: '2021-10-28'
                   acquiree: NeuVector
+                - date: '2024-06-18'
+                  acquiree: StackState
               parents: []
               ticker: SUSE.F
               stockExchange: fra
@@ -50211,7 +50187,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/tenstorrent-inc.
               acquisitions: []
               parents: []
-              funding: 334549999
+              funding: 634549999
               stockExchange: null
               company_type: For Profit
               industries:
@@ -68546,4 +68522,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-06-18T04:03:23.306Z
+updated_at: 2024-06-19T02:53:37.416Z
