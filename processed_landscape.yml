@@ -6537,6 +6537,8 @@ landscape:
                   acquiree: Panthronics
                 - date: '2023-08-09'
                   acquiree: Sequans Communications
+                - date: '2024-01-11'
+                  acquiree: Transphorm
                 - date: '2024-02-14'
                   acquiree: Altium
               parents: []
@@ -15369,7 +15371,7 @@ landscape:
                   acquiree: PCI Ltd.
               parents: []
               ticker: CTW.F
-              funding: 809200000
+              funding: 1902688132
               stockExchange: fra
               company_type: For Profit
               industries:
@@ -32980,7 +32982,7 @@ landscape:
               latest_tweet_date: 2023-04-20T20:10:42.000Z
           - item:
             name: Lightbend Inc
-            homepage_url: https://lightbend.com/
+            homepage_url: https://lightbend.com/akka
             logo: lightbend_inc.svg
             crunchbase: https://www.crunchbase.com/organization/typesafe
             crunchbase_data:
@@ -38414,12 +38416,14 @@ landscape:
               linkedin: https://www.linkedin.com/company/ollama/
               acquisitions: []
               parents: []
+              funding: 500000
               stockExchange: null
               company_type: For Profit
               industries:
                 - Developer Platform
                 - Infrastructure
                 - Software
+              kind: funding
             image_data:
               fileName: ollama.svg
               hash: PA6+bnDfU6hBYU6CZTkWkJnZC0Oiisq2m+Ex7872BE0=
@@ -40025,11 +40029,11 @@ landscape:
             joined: '2021-06-01'
             crunchbase_data:
               name: PingCAP
-              description: PingCAP is a developer of an open-source, distributed SQL database for real-time analytics.
+              description: PingCAP is a developer of an open-source, distributed SQL database for scalable transaction processing and real-time analytics.
               num_employees_min: 251
               num_employees_max: 500
               homepage: https://pingcap.com
-              city: San Mateo
+              city: Sunnyvale
               region: California
               country: United States
               twitter: https://www.twitter.com/pingcap
@@ -40037,11 +40041,11 @@ landscape:
               acquisitions: []
               parents:
                 - https://www.crunchbase.com/organization/pingcap
-              funding: 341600000
+              funding: 641600000
               stockExchange: null
               company_type: For Profit
               industries:
-                - Big Data
+                - Cloud Data Services
                 - Database
                 - Open Source
                 - Software
@@ -41983,21 +41987,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-03-27T19:40:09.000Z
           - item:
-            name: RADTONICS
-            homepage_url: https://radtonics.com/
-            logo: radtonics.svg
-            organization:
-              name: RADTONICS
-            crunchbase_data:
-              name: RADTONICS
-              parents: []
-            image_data:
-              fileName: radtonics.svg
-              hash: ONvQFu9oSlP9lFgof11I0LMY05J8f4WIvIwydh0GAQE=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Rafay Systems, Inc.
             homepage_url: https://rafay.co/
             logo: rafay_systems_inc.svg
@@ -42778,7 +42767,7 @@ landscape:
                   acquiree: ECI Telecom
               parents: []
               ticker: RBBN
-              funding: 105400000
+              funding: 490400000
               stockExchange: nasdaq
               company_type: For Profit
               industries:
@@ -45251,33 +45240,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Shanghai HFtech Co. LTD
-            homepage_url: https://hftech.com/
-            logo: shanghai_hftech_co_ltd.svg
-            crunchbase: https://www.crunchbase.com/organization/shanghai-hftech
-            crunchbase_data:
-              name: Shanghai HFtech
-              description: Provides information system integration and software development, monitoring and data analysis services.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.hftech.com/
-              city: Shanghai
-              region: Shanghai
-              country: China
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries: []
-            image_data:
-              fileName: shanghai-h-ftech-co-ltd.svg
-              hash: E3++ZEtt7pTSx6eg/ytzb7JPcivfJGpK8Whx6pPMPEE=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Shanghai Mandao Technology Co., LTD
             homepage_url: https://mandao-tech.com/
             logo: shanghai_mandao_technology_co_ltd.svg
@@ -46564,63 +46526,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: Société Générale
-            homepage_url: https://societegenerale.com/
-            logo: societe_generale.svg
-            twitter: https://twitter.com/SocGen_US
-            crunchbase: https://www.crunchbase.com/organization/societe-generale
-            crunchbase_data:
-              name: Societe Generale
-              description: Societe Generale is a financial services organization that offers retail, corporate, and investment banking services.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://www.societegenerale.com
-              city: Paris
-              region: Ile-de-France
-              country: France
-              twitter: https://twitter.com/societegenerale
-              linkedin: https://www.linkedin.com/company/societe-generale
-              acquisitions:
-                - date: '2014-05-07'
-                  acquiree: Newedge Group
-                - date: '2014-12-01'
-                  acquiree: Carrera
-                - date: '2016-07-06'
-                  acquiree: Kleinwort Benson
-                - date: '2018-06-21'
-                  acquiree: Lumo
-                - date: '2018-07-03'
-                  acquiree: Commerzbank - Equity Markets & Commodities (EMC) business
-                - date: '2018-09-27'
-                  acquiree: Treezor
-                - date: '2020-06-30'
-                  acquiree: Shine.fr
-                - date: '2020-12-14'
-                  acquiree: Reezocar
-                - date: '2022-09-30'
-                  acquiree: PayXpert
-              parents: []
-              ticker: GLE
-              funding: 85837524
-              stockExchange: fwb
-              company_type: For Profit
-              industries:
-                - Asset Management
-                - Banking
-                - Financial Services
-                - Insurance
-                - Personal Finance
-            yahoo_finance_data:
-              effective_ticker: GLE
-            image_data:
-              fileName: soci-t-g-n-rale.svg
-              hash: jwAm6HDPjKsv9AEmxFYN8xNQtVtcFMQh4799Ks+yxzk=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-03-22T19:58:53.000Z
           - item:
             name: Socket
             homepage_url: https://socket.dev/
@@ -49623,6 +49528,7 @@ landscape:
                   acquiree: Kaleyra
               parents: []
               ticker: TATACOMM.NS
+              funding: 250247866
               stockExchange: nse
               company_type: For Profit
               industries:
@@ -68526,4 +68432,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-06-21T02:52:37.826Z
+updated_at: 2024-06-22T02:29:26.591Z
