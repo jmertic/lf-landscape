@@ -10035,36 +10035,41 @@ landscape:
             name: Apica
             homepage_url: https://www.apica.io/
             logo: apica.svg
-            crunchbase: https://www.crunchbase.com/organization/logiq
+            crunchbase: https://www.crunchbase.com/organization/apica
             crunchbase_data:
-              name: Logiq.ai
-              description: Logiq.ai is a data platform for engineering teams.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://logiq.ai/
-              city: San Jose
-              region: California
-              country: United States
-              twitter: https://twitter.com/logiq_ai
-              linkedin: https://www.linkedin.com/company/logiq-ai/
-              acquisitions: []
+              name: Apica
+              description: Apica delivers data management and observability services to Enterprises via the platform Apica Ascent.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: https://www.apica.io
+              city: Stockholm
+              region: Stockholms Lan
+              country: Sweden
+              twitter: http://twitter.com/apica
+              linkedin: https://www.linkedin.com/company/apica-ab
+              acquisitions:
+                - date: '2012-06-07'
+                  acquiree: Proxy Sniffer
+                - date: '2023-08-16'
+                  acquiree: Logiq.ai
+                - date: '2024-02-04'
+                  acquiree: Circonus
               parents: []
-              funding: 1800000
+              funding: 51989952
               stockExchange: null
               company_type: For Profit
               industries:
-                - Artificial Intelligence (AI)
-                - Big Data
-                - Database
+                - Cloud Computing
+                - Enterprise Software
+                - Mobile
+                - Software
               kind: funding
             image_data:
               fileName: apica.svg
-              hash: H40Dkgn99xE5o+oUZG594ZSzgGSrJO1nyhxGzE8/X7M=
+              hash: usG/KcXv3S80CkKC7ZP+KNM6ECrMR0rbwXLn19rIAGo=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-21T06:21:56.000Z
           - item:
             name: APIIDA AG
             homepage_url: https://apiida.com/
@@ -11314,8 +11319,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/authzed
             joined: '2022-08-01'
             crunchbase_data:
-              name: authzed
-              description: 'Creators of SpiceDB: open-source permissions database inspired by Google''s Zanzibar'
+              name: AuthZed
+              description: AuthZed is a permissions systems provider that helps organizations build fast, secure, and scalable authorization services for applications.
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://authzed.com
@@ -18854,7 +18859,7 @@ landscape:
               description: Buried in Repeat Questions? QueryPal is an AI Chatbot that automatically answers questions in Slack and MS Teams, using past chat/docs.
               num_employees_min: 11
               num_employees_max: 50
-              homepage: https://www.querypal.com
+              homepage: https://querypal.chat/
               city: San Francisco
               region: California
               country: United States
@@ -25287,38 +25292,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-17T13:12:17.000Z
-          - item:
-            name: German Edge Cloud GmbH
-            homepage_url: https://gec.io/
-            logo: german_edge_cloud_gmbh.svg
-            crunchbase: https://www.crunchbase.com/organization/innovo-cloud
-            joined: '2019-01-01'
-            crunchbase_data:
-              name: German Edge Cloud
-              description: German Edge Cloud (GEC) specializes in innovative edge and cloud solutions.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: https://www.gec.io
-              city: Eschborn
-              region: Hessen
-              country: Germany
-              twitter: https://twitter.com/germanedgecloud
-              linkedin: https://www.linkedin.com/company/german-edge-cloud/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Information Technology
-                - SaaS
-            image_data:
-              fileName: german-edge-cloud-gmb-h.svg
-              hash: GAT/x6PGqVLBe3VzZn+/bJydBhN4MDYyQcb4qvucg9Y=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-01-13T14:31:46.000Z
           - item:
             name: Giant Swarm GmbH
             homepage_url: https://giantswarm.io/
@@ -37579,7 +37552,7 @@ landscape:
             joined: '2018-03-12'
             crunchbase_data:
               name: Nokia
-              description: Nokia is a Finnish multinational communications corporation engaged in the manufacturing of mobile devices and network infrastructure.
+              description: Nokia is a multinational communications corporation that manufactures mobile devices and network infrastructure.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.nokia.com
@@ -37697,6 +37670,8 @@ landscape:
                   acquiree: Elenion Technologies
                 - date: '2023-12-12'
                   acquiree: Fenix Group
+                - date: '2024-06-27'
+                  acquiree: Infinera
               parents: []
               ticker: NOKI
               funding: 868070947
@@ -52250,9 +52225,9 @@ landscape:
                 - date: '2023-03-19'
                   acquiree: Credit Suisse
               parents: []
-              ticker: UBS
-              funding: 4750000000
-              stockExchange: nyse
+              ticker: UBSG.SW
+              funding: 6628589448
+              stockExchange: swx
               company_type: For Profit
               industries:
                 - Asset Management
@@ -52263,7 +52238,7 @@ landscape:
                 - Venture Capital
                 - Wealth Management
             yahoo_finance_data:
-              effective_ticker: UBS
+              effective_ticker: UBSG.SW
             image_data:
               fileName: ubs-ag.svg
               hash: DCJ7PQ6XNh6omq9MZUxTOBf9Btf9frW1fp+bgX7o8zE=
@@ -67913,9 +67888,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/volta-foundation
             crunchbase_data:
               name: Volta Foundation
-              description: The Volta Foundation is a non-profit serving the battery ecosystem.
-              num_employees_min: 11
-              num_employees_max: 50
+              description: Volta Foundation is a leading professional association dedicated to advancing the battery ecosystem globally.
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: http://volta.foundation
               city: San Francisco
               region: California
@@ -67928,6 +67903,8 @@ landscape:
               company_type: Non Profit
               industries:
                 - Association
+                - Battery
+                - Clean Energy
                 - CleanTech
                 - Electric Vehicle
                 - Energy Storage
@@ -68406,4 +68383,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-06-28T03:57:39.134Z
+updated_at: 2024-06-29T02:55:25.892Z
