@@ -1229,12 +1229,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/bank-of-montreal
             joined: '2022-01-25'
           - item:
-            name: Bank of New York Mellon
-            homepage_url: https://bnymellon.com/
-            logo: bank_of_new_york_mellon.svg
-            twitter: https://twitter.com/BNYMellon
-            crunchbase: https://www.crunchbase.com/organization/bnymellon
-          - item:
             name: Bankware Global
             homepage_url: https://bankwareglobal.com/platforms/cloud.php
             logo: bankware_global.svg
@@ -1449,6 +1443,12 @@ landscape:
             logo: bnp_paribas.svg
             twitter: https://twitter.com/BNPParibas
             crunchbase: https://www.crunchbase.com/organization/bnp-paribas-private-equity
+          - item:
+            name: BNY
+            homepage_url: https://bnymellon.com/
+            logo: bny.svg
+            twitter: https://twitter.com/BNYMellon
+            crunchbase: https://www.crunchbase.com/organization/bnymellon
           - item:
             name: Boeing
             homepage_url: https://boeing.com/
@@ -3755,6 +3755,12 @@ landscape:
             logo: intuit_inc.svg
             crunchbase: https://www.crunchbase.com/organization/intuit
             joined: '2018-02-01'
+          - item:
+            name: Invary
+            homepage_url: https://invary.com/
+            logo: invary.svg
+            organization:
+              name: Invary
           - item:
             name: Invia
             homepage_url: https://invia.com.au/
