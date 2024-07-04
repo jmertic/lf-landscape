@@ -12446,59 +12446,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T01:23:10.000Z
           - item:
-            name: Bank of New York Mellon
-            homepage_url: https://bnymellon.com/
-            logo: bank_of_new_york_mellon.svg
-            twitter: https://twitter.com/BNYMellon
-            crunchbase: https://www.crunchbase.com/organization/bnymellon
-            crunchbase_data:
-              name: BNY
-              description: BNY is a global financial services company overseeing nearly $50 trillion in assets — managing it, moving it and keeping it safe.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.bnymellon.com
-              city: New York
-              region: New York
-              country: United States
-              twitter: http://twitter.com/bnymellon
-              linkedin: https://www.linkedin.com/company/bny-mellon
-              acquisitions:
-                - date: '2009-08-12'
-                  acquiree: Insight Investment
-                - date: '2010-02-02'
-                  acquiree: PNC Global Investment Servicing
-                - date: '2010-07-01'
-                  acquiree: Albridge
-                - date: '2010-09-01'
-                  acquiree: I3 Advisors
-                - date: '2015-01-05'
-                  acquiree: Cutwater Asset Management
-                - date: '2016-04-26'
-                  acquiree: DBV-X
-                - date: '2021-07-08'
-                  acquiree: The Milestone Group
-              parents: []
-              ticker: BK
-              funding: 1948000000
-              stockExchange: nyse
-              company_type: For Profit
-              industries:
-                - Asset Management
-                - Banking
-                - Finance
-                - Financial Services
-                - Wealth Management
-            yahoo_finance_data:
-              effective_ticker: BK
-            image_data:
-              fileName: bank-of-new-york-mellon.svg
-              hash: /SzIqHsoeJtv7rT80dK16xT3g60Qnn2fhU3h8KQH8AE=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-18T11:00:57.000Z
-          - item:
             name: Bankware Global
             homepage_url: https://bankwareglobal.com/platforms/cloud.php
             logo: bankware_global.svg
@@ -13699,6 +13646,59 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T08:00:08.000Z
+          - item:
+            name: BNY
+            homepage_url: https://bnymellon.com/
+            logo: bny.svg
+            twitter: https://twitter.com/BNYMellon
+            crunchbase: https://www.crunchbase.com/organization/bnymellon
+            crunchbase_data:
+              name: BNY
+              description: BNY is a global financial services company overseeing nearly $50 trillion in assets — managing it, moving it and keeping it safe.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.bnymellon.com
+              city: New York
+              region: New York
+              country: United States
+              twitter: http://twitter.com/bnymellon
+              linkedin: https://www.linkedin.com/company/bny-mellon
+              acquisitions:
+                - date: '2009-08-12'
+                  acquiree: Insight Investment
+                - date: '2010-02-02'
+                  acquiree: PNC Global Investment Servicing
+                - date: '2010-07-01'
+                  acquiree: Albridge
+                - date: '2010-09-01'
+                  acquiree: I3 Advisors
+                - date: '2015-01-05'
+                  acquiree: Cutwater Asset Management
+                - date: '2016-04-26'
+                  acquiree: DBV-X
+                - date: '2021-07-08'
+                  acquiree: The Milestone Group
+              parents: []
+              ticker: BK
+              funding: 1948000000
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Asset Management
+                - Banking
+                - Finance
+                - Financial Services
+                - Wealth Management
+            yahoo_finance_data:
+              effective_ticker: BK
+            image_data:
+              fileName: bny.svg
+              hash: /SzIqHsoeJtv7rT80dK16xT3g60Qnn2fhU3h8KQH8AE=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2023-04-18T11:00:57.000Z
           - item:
             name: Boeing
             homepage_url: https://boeing.com/
@@ -21031,9 +21031,9 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/double-negative
             crunchbase_data:
               name: DNEG
-              description: DNEG is a visual effects, animation and stereo conversion companies for feature film and television, with studios.
-              num_employees_min: 5001
-              num_employees_max: 10000
+              description: DNEG provides visual effects, animation, and stereo conversion services for the feature film and television industry.
+              num_employees_min: 1001
+              num_employees_max: 5000
               homepage: http://www.dneg.com
               city: London
               region: England
@@ -21042,10 +21042,12 @@ landscape:
               linkedin: https://www.linkedin.com/company/dnegvfx
               acquisitions: []
               parents: []
-              funding: 650000000
+              funding: 850000000
               stockExchange: null
               company_type: For Profit
               industries:
+                - Advertising
+                - Digital Entertainment
                 - Film
                 - Motion Capture
               kind: funding
@@ -24072,7 +24074,7 @@ landscape:
                 - Manufacturing
             image_data:
               fileName: fisher-rosemount-systems-inc-an-emerson-company.svg
-              hash: m3MRgtN95INh40jH7mqZfCiFZtyFjV1yiePeWiAIZGg=
+              hash: J40+QVPvCmEGAsvh8ObJr0GRmDIBLjJoKVKJU3nwdjU=
             best_practice_data:
               badge: false
               percentage: null
@@ -29621,6 +29623,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T20:48:34.000Z
           - item:
+            name: Invary
+            homepage_url: https://invary.com/
+            logo: invary.svg
+            organization:
+              name: Invary
+            crunchbase_data:
+              name: Invary
+              parents: []
+            image_data:
+              fileName: invary.svg
+              hash: YkCjFFR6rkA2AW7xmmoFsPiOz8NEEFJYSsoDuMjfL4I=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Invia
             homepage_url: https://invia.com.au/
             logo: invia.svg
@@ -32909,6 +32926,8 @@ landscape:
                   acquiree: Cybellum
                 - date: '2022-06-27'
                   acquiree: AppleMango
+                - date: '2024-07-03'
+                  acquiree: Athom
               parents: []
               ticker: 066570.KS
               funding: 800000082
@@ -66836,7 +66855,6 @@ landscape:
             name: University of Delaware
             homepage_url: https://udel.edu/
             logo: university_of_delaware.svg
-            twitter: https://twitter.com/UDelaware
             crunchbase: https://www.crunchbase.com/organization/university-of-delaware-2
             crunchbase_data:
               name: University of Delaware
@@ -68557,4 +68575,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-07-03T02:53:13.968Z
+updated_at: 2024-07-04T02:35:46.283Z
