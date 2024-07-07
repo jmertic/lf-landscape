@@ -10630,11 +10630,28 @@ landscape:
             name: ARTELYS
             homepage_url: https://artelys.com/
             logo: artelys.svg
-            organization:
-              name: ARTELYS
+            crunchbase: https://www.crunchbase.com/organization/artelys
             crunchbase_data:
-              name: ARTELYS
+              name: Artelys France
+              description: Artelys France is a company specializing in optimization, decision-making and modelling.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: https://www.artelys.com/
+              city: Paris
+              region: Ile-de-France
+              country: France
+              twitter: https://twitter.com/_artelys
+              linkedin: https://www.linkedin.com/company/artelys/
+              acquisitions: []
               parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Automotive
+                - Consulting
+                - Energy
+                - Information Technology
+                - Software
             image_data:
               fileName: artelys.svg
               hash: UXLr7Lt3JAnj8Srmw3zAtfUMLBCdEzYOK4qpnvJrUy4=
@@ -58762,11 +58779,27 @@ landscape:
             homepage_url: https://energytag.org/
             logo: energytag.svg
             twitter: https://twitter.com/energy_tag
-            organization:
-              name: EnergyTag
+            crunchbase: https://www.crunchbase.com/organization/energytag
             crunchbase_data:
               name: EnergyTag
+              description: EnergyTag is creating a standard for hourly certificates that allow energy users to verify the source of their electricity.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.energytag.org/
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: https://twitter.com/energy_tag
+              linkedin: https://www.linkedin.com/company/energy-tag/
+              acquisitions: []
               parents: []
+              funding: 144861
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Energy
+                - Energy Management
+              kind: funding
             image_data:
               fileName: energy-tag.svg
               hash: zKzbDurLuHqfouhONjqZmNTQLOv35TerqNur6r7qRiw=
@@ -64019,6 +64052,36 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T04:12:26.000Z
           - item:
+            name: Pengcheng Laboratory
+            homepage_url: https://pcl.ac.cn/
+            logo: pengcheng_laboratory.svg
+            crunchbase: https://www.crunchbase.com/organization/peng-cheng-laboratory/technology
+            crunchbase_data:
+              name: Technology
+              description: Technology is the result of accumulated knowledge and application of skills.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://technologynewsupdatesnows.blogspot.com
+              city: Victoria
+              region: Espirito Santo
+              country: Brazil
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Consulting
+                - Information Technology
+                - Software
+            image_data:
+              fileName: pengcheng-laboratory.svg
+              hash: ruPEmXtDKhxoEmZHc/I1BRVB261tL5EsT2pysBECwbI=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Penn State
             homepage_url: https://psu.edu/
             logo: penn_state.svg
@@ -65847,6 +65910,42 @@ landscape:
             image_data:
               fileName: test-account.svg
               hash: T9/eMv903ahYa2QwWO1IakHaiYr3eoNVoKheRobo3A4=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Texas A&M University
+            homepage_url: https://tamu.edu/
+            logo: texas_am_university.svg
+            twitter: https://twitter.com/TAMU
+            crunchbase: https://www.crunchbase.com/organization/texas-a-m-university
+            crunchbase_data:
+              name: Texas A&M University
+              description: Texas A&M University is a coeducational public research university located in College Station, Texas.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.tamu.edu/
+              city: College Station
+              region: Texas
+              country: United States
+              twitter: http://twitter.com/tamu
+              linkedin: https://www.linkedin.com/school/texas-a&m-university/
+              acquisitions: []
+              parents: []
+              funding: 38814406
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Agriculture
+                - Education
+                - Higher Education
+                - Life Science
+                - Natural Resources
+                - Universities
+              kind: funding
+            image_data:
+              fileName: texas-a-m-university.svg
+              hash: VbXRyqmti1xDIQQW+klkAZ4VhRlO1oyMeQHC6VgQyKg=
             best_practice_data:
               badge: false
               percentage: null
@@ -68078,6 +68177,21 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: velammal college of engineering and technology
+            homepage_url: https://vcet.ac.in/
+            logo: velammal_college_of_engineering_and_technology.svg
+            organization:
+              name: velammal college of engineering and technology
+            crunchbase_data:
+              name: velammal college of engineering and technology
+              parents: []
+            image_data:
+              fileName: velammal-college-of-engineering-and-technology.svg
+              hash: fE3CfXnGNFAi79sx2I0G0PjY5zya35bdwGd9+L1g3ZI=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Vilnius Gediminas Technical University
             homepage_url: https://vgtu.it/
             logo: vilnius_gediminas_technical_university.svg
@@ -68304,11 +68418,28 @@ landscape:
             homepage_url: https://watttime.org/
             logo: watttime_corporation.svg
             twitter: https://twitter.com/wattTime
-            organization:
-              name: WattTime Corporation
+            crunchbase: https://www.crunchbase.com/organization/watt-time
             crunchbase_data:
-              name: WattTime Corporation
+              name: Watt Time
+              description: Watt Time builds technologies that enable electronic devices to automatically sync the times they use power to moments of clean energy.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://watttime.org/
+              city: Oakland
+              region: California
+              country: United States
+              twitter: https://twitter.com/wattTime
+              linkedin: https://www.linkedin.com/company/watttime/
+              acquisitions: []
               parents: []
+              funding: 2200000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Clean Energy
+                - Energy
+                - Renewable Energy
+              kind: funding
             image_data:
               fileName: watt-time-corporation.svg
               hash: nt+jpv5UYHDGk+RembJttXmLj06jIwkIYMTwv1Ojoao=
@@ -68669,4 +68800,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-07-06T04:11:29.540Z
+updated_at: 2024-07-07T02:53:45.778Z
