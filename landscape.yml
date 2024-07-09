@@ -391,6 +391,11 @@ landscape:
         name: Silver
         items:
           - item:
+            name: '"PS Internet Company" LLP'
+            homepage_url: https://ps.kz/
+            logo: ps_internet_company_llp.svg
+            crunchbase: https://www.crunchbase.com/organization/ps-internet-company
+          - item:
             name: 1NCE GmbH
             homepage_url: https://1nce.com/
             logo: 1nce_gmbh.svg
@@ -1325,11 +1330,6 @@ landscape:
             homepage_url: https://tongtech.com/
             logo: beijing_tongtech_co_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/tongtech
-          - item:
-            name: Beijing Truth Technology Co., Ltd.
-            homepage_url: https://truthso.com/
-            logo: beijing_truth_technology_co_ltd.svg
-            crunchbase: https://www.crunchbase.com/organization/truth-technology
           - item:
             name: Beijing VNET Broad Band Data Center Co., Ltd.
             homepage_url: https://vnet.com/
@@ -3174,13 +3174,6 @@ landscape:
             twitter: https://twitter.com/GXC_io
             crunchbase: https://www.crunchbase.com/organization/genxcomm
           - item:
-            name: GENXT
-            homepage_url: https://genxt.network/
-            logo: genxt.svg
-            twitter: https://twitter.com/genxtnetwork
-            organization:
-              name: GENXT
-          - item:
             name: Giant Swarm GmbH
             homepage_url: https://giantswarm.io/
             logo: giant_swarm_gmbh.svg
@@ -4859,8 +4852,8 @@ landscape:
             name: Neural Magic
             homepage_url: https://neuralmagic.com/
             logo: neural_magic.svg
-            organization:
-              name: Neural Magic
+            twitter: https://twitter.com/neuralmagic
+            crunchbase: https://www.crunchbase.com/organization/neuralmagic
           - item:
             name: NeuReality Ltd
             homepage_url: https://neureality.ai/
@@ -5555,11 +5548,6 @@ landscape:
             logo: proximaops_llc.svg
             organization:
               name: ProximaOps LLC
-          - item:
-            name: PS Cloud Services
-            homepage_url: https://ps.kz/
-            logo: ps_cloud_services.svg
-            crunchbase: https://www.crunchbase.com/organization/ps-internet-company
           - item:
             name: PTV Group
             homepage_url: https://ptvgroup.com/
@@ -7516,8 +7504,7 @@ landscape:
             name: WIIT AG
             homepage_url: https://wiit.cloud/
             logo: wiit_ag.svg
-            organization:
-              name: WIIT AG
+            crunchbase: https://www.crunchbase.com/organization/myloc-managed-it-ag
           - item:
             name: Wind River Systems, Inc.
             homepage_url: https://windriver.com/
@@ -8126,6 +8113,12 @@ landscape:
             homepage_url: https://cpqd.com.br/
             logo: cpqd.svg
             crunchbase: https://www.crunchbase.com/organization/cpqd
+          - item:
+            name: CREST
+            homepage_url: https://crest-approved.org/
+            logo: crest.svg
+            organization:
+              name: CREST
           - item:
             name: CRESYM
             homepage_url: https://cresym.eu/
@@ -8896,6 +8889,12 @@ landscape:
             homepage_url: https://lish.harvard.edu/
             logo: laboratory_for_innovation_science_at_harvard.svg
             crunchbase: https://www.crunchbase.com/organization/harvard-university
+          - item:
+            name: Lane Community College
+            homepage_url: https://lanecc.edu/
+            logo: lane_community_college.svg
+            organization:
+              name: Lane Community College
           - item:
             name: Lawrence Livermore National Laboratory (LLNL)
             homepage_url: https://llnl.gov/
@@ -9730,6 +9729,12 @@ landscape:
             homepage_url: https://switch.ch/
             logo: switch.svg
             crunchbase: https://www.crunchbase.com/organization/switch-4
+          - item:
+            name: Sykehuspartner HF
+            homepage_url: https://sykehuspartner.no/
+            logo: sykehuspartner_hf.svg
+            organization:
+              name: Sykehuspartner HF
           - item:
             name: Technical University of Applied Sciences Regensburg
             homepage_url: https://oth-regensburg.de/
