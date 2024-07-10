@@ -6676,6 +6676,36 @@ landscape:
         name: Silver
         items:
           - item:
+            name: '"PS Internet Company" LLP'
+            homepage_url: https://ps.kz/
+            logo: ps_internet_company_llp.svg
+            crunchbase: https://www.crunchbase.com/organization/ps-internet-company
+            crunchbase_data:
+              name: PS Internet Company
+              description: PS Internet Company offers web hosting, SSL, website builder and domain registration services.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://ps.kz
+              city: Almaty
+              region: Almaty City
+              country: Kazakhstan
+              twitter: https://twitter.com/pskz_company
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Domain Registrar
+                - Internet
+                - Web Hosting
+            image_data:
+              fileName: ps-internet-company-llp.svg
+              hash: w5eb4ljwTvSgKcwURACAH9E46f0zKJH8ktxsitQ8LkM=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: 1NCE GmbH
             homepage_url: https://1nce.com/
             logo: 1nce_gmbh.svg
@@ -9484,8 +9514,8 @@ landscape:
             crunchbase_data:
               name: Andes Digital
               description: Consulting company dedicated to enable customers with Open Source projects technologies, focused on small and medium enterprises.
-              num_employees_min: 1
-              num_employees_max: 10
+              num_employees_min: 11
+              num_employees_max: 50
               homepage: https://www.andesdigital.com/
               city: Santiago
               region: Region Metropolitana
@@ -12936,38 +12966,6 @@ landscape:
             image_data:
               fileName: beijing-tongtech-co-ltd.svg
               hash: /Sz2LCP3ZTqpvnSaL9M/NWLz/gXp3QYIdlzWW/JrR4c=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Beijing Truth Technology Co., Ltd.
-            homepage_url: https://truthso.com/
-            logo: beijing_truth_technology_co_ltd.svg
-            crunchbase: https://www.crunchbase.com/organization/truth-technology
-            crunchbase_data:
-              name: Truth Technology
-              description: Truth Technology is a technology company with a computational jurisprudence practise.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: http://www.truthso.com
-              city: Beijing
-              region: Beijing
-              country: China
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              funding: 3427143
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Big Data
-                - Information Technology
-                - Internet
-              kind: funding
-            image_data:
-              fileName: beijing-truth-technology-co-ltd.svg
-              hash: 70mfSBL49ez6tEoGuwBx7hhZz6bv9bHshh43CDHwviI=
             best_practice_data:
               badge: false
               percentage: null
@@ -25249,24 +25247,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-14T16:39:01.000Z
           - item:
-            name: GENXT
-            homepage_url: https://genxt.network/
-            logo: genxt.svg
-            twitter: https://twitter.com/genxtnetwork
-            organization:
-              name: GENXT
-            crunchbase_data:
-              name: GENXT
-              parents: []
-            image_data:
-              fileName: genxt.svg
-              hash: nxL/FrPlfhdZrcoQ24pSjje92+V8g2damxd/q2+UsvM=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-17T13:12:17.000Z
-          - item:
             name: Giant Swarm GmbH
             homepage_url: https://giantswarm.io/
             logo: giant_swarm_gmbh.svg
@@ -37140,11 +37120,30 @@ landscape:
             name: Neural Magic
             homepage_url: https://neuralmagic.com/
             logo: neural_magic.svg
-            organization:
-              name: Neural Magic
+            twitter: https://twitter.com/neuralmagic
+            crunchbase: https://www.crunchbase.com/organization/neuralmagic
             crunchbase_data:
               name: Neural Magic
+              description: Neural Magic provides high-performance inference serving solutions for deploying leading open-source LLMs on CPU and GPU infrastructure.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: http://neuralmagic.com/
+              city: Somerville
+              region: Massachusetts
+              country: United States
+              twitter: https://twitter.com/neuralmagic
+              linkedin: https://www.linkedin.com/company/neural-magic/
+              acquisitions: []
               parents: []
+              funding: 50000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence (AI)
+                - Information Technology
+                - Machine Learning
+                - Software
+              kind: funding
             image_data:
               fileName: neural-magic.svg
               hash: QZedbvKkFysB+dig01e+9JVamCbvd7siqOqadhG/gOQ=
@@ -41239,36 +41238,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: PS Cloud Services
-            homepage_url: https://ps.kz/
-            logo: ps_cloud_services.svg
-            crunchbase: https://www.crunchbase.com/organization/ps-internet-company
-            crunchbase_data:
-              name: PS Internet Company
-              description: PS Internet Company offers web hosting, SSL, website builder and domain registration services.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: https://ps.kz
-              city: Almaty
-              region: Almaty City
-              country: Kazakhstan
-              twitter: https://twitter.com/pskz_company
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Domain Registrar
-                - Internet
-                - Web Hosting
-            image_data:
-              fileName: ps-cloud-services.svg
-              hash: w5eb4ljwTvSgKcwURACAH9E46f0zKJH8ktxsitQ8LkM=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: PTV Group
             homepage_url: https://ptvgroup.com/
             logo: ptv_group.svg
@@ -44016,6 +43985,8 @@ landscape:
               acquisitions:
                 - date: '2022-09-14'
                   acquiree: Applied Geographics
+                - date: '2024-07-09'
+                  acquiree: VeriDaaS
               parents: []
               stockExchange: null
               company_type: For Profit
@@ -49833,7 +49804,7 @@ landscape:
               effective_ticker: TCS.NS
             image_data:
               fileName: tata-consultancy-services-limited.svg
-              hash: gcuEkNL4WVt7KPsuzGrSzgIecvrx+x6Om/31hQopFg4=
+              hash: oXt9AEblYdM+QkiOBMnsNJo7R7k1wv7MIp89/8UzNnw=
             best_practice_data:
               badge: false
               percentage: null
@@ -54405,11 +54376,32 @@ landscape:
             name: WIIT AG
             homepage_url: https://wiit.cloud/
             logo: wiit_ag.svg
-            organization:
-              name: WIIT AG
+            crunchbase: https://www.crunchbase.com/organization/myloc-managed-it-ag
             crunchbase_data:
               name: WIIT AG
-              parents: []
+              description: WIIT AG is a provider of innovative technology solutions in the areas of hosted private and hybrid cloud for business-critical applications.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: 'https://wiit.cloud/de '
+              city: Düsseldorf
+              region: Nordrhein-Westfalen
+              country: Germany
+              twitter: null
+              linkedin: null
+              acquisitions:
+                - date: '2021-07-29'
+                  acquiree: MIVITEC
+                - date: '2022-09-02'
+                  acquiree: Lansol
+                - date: '2023-01-16'
+                  acquiree: Global Access
+              parents:
+                - https://www.crunchbase.com/organization/wiit-spa
+              funding: 0
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Technology
             image_data:
               fileName: wiit-ag.svg
               hash: Ow0yDVpbr0A7zhGKtjqQBULFytuk61YqxgoUKvUZNa4=
@@ -57867,6 +57859,21 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T14:41:27.000Z
+          - item:
+            name: CREST
+            homepage_url: https://crest-approved.org/
+            logo: crest.svg
+            organization:
+              name: CREST
+            crunchbase_data:
+              name: CREST
+              parents: []
+            image_data:
+              fileName: crest.svg
+              hash: Kre4eX/pn/MPGYSRNVOSVLPSqG5cq7A4z0yQXEJfySQ=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: CRESYM
             homepage_url: https://cresym.eu/
@@ -61824,6 +61831,21 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T00:29:00.000Z
+          - item:
+            name: Lane Community College
+            homepage_url: https://lanecc.edu/
+            logo: lane_community_college.svg
+            organization:
+              name: Lane Community College
+            crunchbase_data:
+              name: Lane Community College
+              parents: []
+            image_data:
+              fileName: lane-community-college.svg
+              hash: XGCkyrJnnS75WrmblaAkOGuj1pFc8Yjjw9QlK+kWBVc=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Lawrence Livermore National Laboratory (LLNL)
             homepage_url: https://llnl.gov/
@@ -65783,6 +65805,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-14T06:59:59.000Z
           - item:
+            name: Sykehuspartner HF
+            homepage_url: https://sykehuspartner.no/
+            logo: sykehuspartner_hf.svg
+            organization:
+              name: Sykehuspartner HF
+            crunchbase_data:
+              name: Sykehuspartner HF
+              parents: []
+            image_data:
+              fileName: sykehuspartner-hf.svg
+              hash: 6gF+KM4IlKWQQJQGndWDCE5VEjTyIlDNjdm+o4lpZ64=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Technical University of Applied Sciences Regensburg
             homepage_url: https://oth-regensburg.de/
             logo: technical_university_of_applied_sciences_regensburg.svg
@@ -68608,12 +68645,7 @@ landscape:
               funding: 158980000
               stockExchange: null
               company_type: Non Profit
-              industries:
-                - Developer Tools
-                - Education
-                - Non Profit
-                - Open Source
-                - Semantic Search
+              industries: []
               kind: funding
             image_data:
               fileName: wikimedia-foundation-inc.svg
@@ -68830,4 +68862,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-07-09T02:56:28.298Z
+updated_at: 2024-07-10T02:43:47.650Z
