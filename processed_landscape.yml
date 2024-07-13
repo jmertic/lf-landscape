@@ -7810,7 +7810,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/amd
             crunchbase_data:
               name: AMD
-              description: Advanced Micro Devices (AMD) is a semiconductor company that designs and develops graphics units, processors, and media solutions.
+              description: Advanced Micro Devices is a semiconductor company that designs and develops graphics units, processors, and media solutions.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.amd.com
@@ -7838,6 +7838,8 @@ landscape:
                   acquiree: Mipsology
                 - date: '2023-10-10'
                   acquiree: Nod
+                - date: '2024-07-10'
+                  acquiree: Silo.AI
               parents: []
               ticker: AMD
               funding: 0
@@ -11247,8 +11249,8 @@ landscape:
             crunchbase_data:
               name: Audiokinetic
               description: Audiokinetic is the leading global provider of cross-platform audio solutions for the interactive media and gaming industries.
-              num_employees_min: 11
-              num_employees_max: 50
+              num_employees_min: 101
+              num_employees_max: 250
               homepage: https://www.audiokinetic.com/
               city: Montréal
               region: Quebec
@@ -16853,7 +16855,6 @@ landscape:
                 - date: '2024-06-03'
                   acquiree: Verta
               parents: []
-              ticker: CLDR
               funding: 1041000000
               stockExchange: nyse
               company_type: For Profit
@@ -17653,7 +17654,7 @@ landscape:
                   acquiree: One River Digital Asset Management
               parents: []
               ticker: 1COIN.MI
-              funding: 1778684825
+              funding: 1853684825
               stockExchange: bit
               company_type: For Profit
               industries:
@@ -17912,8 +17913,6 @@ landscape:
                   acquiree: Wilco Electronic Systems - cable TV Business
                 - date: '2018-09-22'
                   acquiree: Sky UK
-                - date: '2018-10-12'
-                  acquiree: Sky
                 - date: '2019-03-04'
                   acquiree: BluVector Inc.
                 - date: '2019-05-01'
@@ -22611,7 +22610,7 @@ landscape:
               kind: funding
             image_data:
               fileName: env0.svg
-              hash: 2fwnToCQPxNzypvnvi4i93ysfpc6NNrKCELAOI11doY=
+              hash: NSOu+q79ICL8NFqZ4hOP1VxrlYz/r9ImAknXXuSzJE0=
             best_practice_data:
               badge: false
               percentage: null
@@ -23508,7 +23507,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/exein
               acquisitions: []
               parents: []
-              funding: 9285970
+              funding: 25583551
               stockExchange: null
               company_type: For Profit
               industries:
@@ -26602,7 +26601,7 @@ landscape:
                   acquiree: Propelo
                 - date: '2023-03-01'
                   acquiree: OverOps
-                - date: '2024-01-16'
+                - date: '2024-01-11'
                   acquiree: Armory
                 - date: '2024-05-29'
                   acquiree: Split Software
@@ -27991,7 +27990,7 @@ landscape:
               acquisitions: []
               parents: []
               ticker: 012330.KS
-              funding: 940000000
+              funding: 972600000
               stockExchange: krx
               company_type: For Profit
               industries:
@@ -30881,6 +30880,8 @@ landscape:
                   acquiree: Scalable Network Technologies
                 - date: '2023-02-23'
                   acquiree: ClioSoft
+                - date: '2024-06-27'
+                  acquiree: Anapico
               parents: []
               ticker: KEYS
               funding: 0
@@ -40128,8 +40129,7 @@ landscape:
               twitter: https://www.twitter.com/pingcap
               linkedin: https://www.linkedin.com/company/pingcap/
               acquisitions: []
-              parents:
-                - https://www.crunchbase.com/organization/pingcap
+              parents: []
               funding: 641600000
               stockExchange: null
               company_type: For Profit
@@ -47486,7 +47486,6 @@ landscape:
                 - date: '2022-11-08'
                   acquiree: TwinWave
               parents: []
-              ticker: SPLK
               funding: 2440000000
               stockExchange: bmv
               company_type: For Profit
@@ -47495,8 +47494,7 @@ landscape:
                 - Information Technology
                 - Intelligent Systems
                 - Real Time
-            yahoo_finance_data:
-              effective_ticker: SPLK
+              kind: funding
             image_data:
               fileName: splunk-inc.svg
               hash: w8Ej0jxrBgLI0+DJ1kSjKeMFDO82RtoUI/fyZtHVcS8=
@@ -54353,31 +54351,29 @@ landscape:
             name: WIIT AG
             homepage_url: https://wiit.cloud/
             logo: wiit_ag.svg
-            crunchbase: https://www.crunchbase.com/organization/myloc-managed-it-ag
+            crunchbase: https://www.crunchbase.com/organization/wiit-spa
             crunchbase_data:
-              name: WIIT AG
-              description: WIIT AG is a provider of innovative technology solutions in the areas of hosted private and hybrid cloud for business-critical applications.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: 'https://wiit.cloud/de '
-              city: Düsseldorf
-              region: Nordrhein-Westfalen
-              country: Germany
-              twitter: null
-              linkedin: null
+              name: Wiit SpA
+              description: Wiit SpA is a critical applications, cybersecurity, technology migration, business continuity and disaster recovery services provider.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://www.wiit.it
+              city: Milan
+              region: Lombardia
+              country: Italy
+              twitter: https://twitter.com/wiit_spa
+              linkedin: https://www.linkedin.com/company/wiit/
               acquisitions:
-                - date: '2021-07-29'
-                  acquiree: MIVITEC
-                - date: '2022-09-02'
-                  acquiree: Lansol
-                - date: '2023-01-16'
-                  acquiree: Global Access
-              parents:
-                - https://www.crunchbase.com/organization/wiit-spa
+                - date: '2022-02-15'
+                  acquiree: ERPTech
+              parents: []
               funding: 0
               stockExchange: null
               company_type: For Profit
               industries:
+                - Consulting
+                - Cyber Security
+                - Information Services
                 - Information Technology
             image_data:
               fileName: wiit-ag.svg
@@ -64464,7 +64460,7 @@ landscape:
                 - date: '2017-04-27'
                   acquiree: Kaplan University
               parents: []
-              funding: 24858245
+              funding: 31058245
               stockExchange: null
               company_type: ''
               industries:
@@ -67565,6 +67561,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/university-of-new-south-wales
               acquisitions: []
               parents: []
+              funding: 6372922
               stockExchange: null
               company_type: ''
               industries:
@@ -67572,6 +67569,7 @@ landscape:
                 - Higher Education
                 - Medical
                 - Universities
+              kind: funding
             image_data:
               fileName: university-of-new-south-wales.svg
               hash: fU4nU3ao+YKE/TgAgEvRTnYq0rGieulsOOgKJATG5Is=
@@ -68841,4 +68839,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-07-11T02:55:37.885Z
+updated_at: 2024-07-13T02:53:32.335Z
