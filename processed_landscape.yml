@@ -2312,7 +2312,7 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/investor-ab
               ticker: ERIC
-              funding: 1589786687
+              funding: 1699001704
               stockExchange: nasdaq
               company_type: For Profit
               industries:
@@ -10587,12 +10587,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cyber-armor
             crunchbase_data:
               name: ARMO
-              description: 'Creators of Kubescape: the first end-to-end open-source Kubernetes Security platform, made for DevOps.'
+              description: ARMO offers a runtime-powered, Kubernetes-driven, Cloud Security Platform
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://armosec.io
-              city: Jerusalem
-              region: Yerushalayim
+              city: Tel Aviv
+              region: Tel Aviv
               country: Israel
               twitter: https://twitter.com/armosec
               linkedin: https://www.linkedin.com/company/armosec/
@@ -12463,7 +12463,7 @@ landscape:
                   acquiree: Bank of The West
               parents: []
               ticker: BMO
-              funding: 6324393033
+              funding: 6524358197
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -21013,7 +21013,9 @@ landscape:
               country: United Kingdom
               twitter: https://twitter.com/dneg
               linkedin: https://www.linkedin.com/company/dnegvfx
-              acquisitions: []
+              acquisitions:
+                - date: '2024-07-12'
+                  acquiree: Prime Focus Technologies
               parents: []
               funding: 850000000
               stockExchange: null
@@ -22740,7 +22742,6 @@ landscape:
               industries:
                 - Consulting
                 - Enterprise Software
-                - Generative AI
                 - Information Technology
                 - Software
                 - Software Engineering
@@ -33873,9 +33874,9 @@ landscape:
               num_employees_min: 51
               num_employees_max: 100
               homepage: https://www.lumigo.io/
-              city: Tel Aviv
-              region: Tel Aviv
-              country: Israel
+              city: San Francisco
+              region: California
+              country: United States
               twitter: https://twitter.com/lumigo
               linkedin: https://www.linkedin.com/company/lumigo/
               acquisitions: []
@@ -54444,9 +54445,9 @@ landscape:
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://www.wing.cloud
-              city: Wilmington
-              region: Delaware
-              country: United States
+              city: Tel Aviv
+              region: Tel Aviv
+              country: Israel
               twitter: https://www.twitter.com/winglangio
               linkedin: https://www.linkedin.com/company/monadahq
               acquisitions: []
@@ -55934,7 +55935,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/american-red-cross
               acquisitions: []
               parents: []
-              funding: 42443300
+              funding: 43253300
               stockExchange: null
               company_type: Non Profit
               industries:
@@ -68856,4 +68857,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-07-15T04:28:03.787Z
+updated_at: 2024-07-16T02:40:35.667Z
