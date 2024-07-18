@@ -14267,7 +14267,7 @@ landscape:
                   acquiree: Cloudreach
               parents: []
               ticker: AEXAF
-              funding: 1824839
+              funding: 1819392105
               stockExchange: otcpink
               company_type: For Profit
               industries:
@@ -18959,7 +18959,7 @@ landscape:
                   acquiree: Signify Health
                 - date: '2023-01-11'
                   acquiree: Oak Street Health
-                - date: '2024-04-30'
+                - date: '2024-04-29'
                   acquiree: Hella+Health
               parents: []
               ticker: CVS
@@ -22265,21 +22265,6 @@ landscape:
             image_data:
               fileName: emlix-gmb-h.svg
               hash: uwxiVjdhfznZKZEMF8b8/L2zGlT+DNIHbqykHWwix2I=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Enakta Labs
-            homepage_url: https://enakta.com/
-            logo: enakta_labs.svg
-            organization:
-              name: Enakta Labs
-            crunchbase_data:
-              name: Enakta Labs
-              parents: []
-            image_data:
-              fileName: enakta-labs.svg
-              hash: KpLVd4PSfgBGsudkoAyorZQTPT4LZyUD2qARom5bjbg=
             best_practice_data:
               badge: false
               percentage: null
@@ -32675,7 +32660,6 @@ landscape:
                 - date: '2019-10-17'
                   acquiree: Powerupcloud Technologies
               parents: []
-              ticker: LTI.NS
               funding: 30000000
               stockExchange: nse
               company_type: For Profit
@@ -32685,8 +32669,7 @@ landscape:
                 - Information Technology
                 - Internet of Things
                 - Software
-            yahoo_finance_data:
-              effective_ticker: LTI.NS
+              kind: funding
             image_data:
               fileName: larsen-toubro-infotech-ltd.svg
               hash: gfN8rzexeVgA7UYhJy1/LhD1msqcnIlk/bDv+fxK2rs=
@@ -37996,6 +37979,8 @@ landscape:
                   acquiree: Verio
                 - date: '2010-07-15'
                   acquiree: Dimension Data
+                - date: '2012-09-17'
+                  acquiree: NTT Centerstance
                 - date: '2013-06-18'
                   acquiree: Solutionary
               parents: []
@@ -41605,28 +41590,24 @@ landscape:
             homepage_url: https://puzzle.ch/
             logo: puzzle_itc_gmbh.svg
             twitter: https://twitter.com/puzzleitc
-            crunchbase: https://www.crunchbase.com/organization/puzzle
+            crunchbase: https://www.crunchbase.com/organization/puzzle-itc
             joined: '2018-11-01'
             crunchbase_data:
-              name: Puzzel WoordenBoek
-              description: Verbeter je Wordfeud-vaardigheden met PuzzleWoordenBoek, een geavanceerde tool voor het genereren van puzzelwoordenboeken
+              name: Puzzle ITC
+              description: We develop open source solutions with Linux, Kubernetes, Ansible, Java, Ruby on Rails, JavaScript and UX.
               num_employees_min: 51
               num_employees_max: 100
-              homepage: https://puzzelwoordenboek.org/
-              city: Hoogeveen
-              region: Zuid-Holland
-              country: The Netherlands
+              homepage: https://www.puzzle.ch
+              city: Bern
+              region: Bern
+              country: Switzerland
               twitter: null
-              linkedin: null
+              linkedin: https://www.linkedin.com/company/puzzle-itc
               acquisitions: []
               parents: []
               stockExchange: null
-              company_type: For Profit
-              industries:
-                - Gaming
-                - Information Technology
-                - Online Games
-                - PC Games
+              company_type: ''
+              industries: []
             image_data:
               fileName: puzzle-itc-gmb-h.svg
               hash: IX0OWWdJjjRyTF0+oXi6XiHxhw1OTq/Td7zftJlkqGM=
@@ -56296,9 +56277,7 @@ landscape:
               country: United Kingdom
               twitter: https://twitter.com/bbccouk
               linkedin: https://www.linkedin.com/company/bbc/
-              acquisitions:
-                - date: '2024-05-29'
-                  acquiree: The Turkish Detective
+              acquisitions: []
               parents: []
               funding: 5683032
               stockExchange: null
@@ -66007,7 +65986,7 @@ landscape:
               parents: []
             image_data:
               fileName: test-account.svg
-              hash: T9/eMv903ahYa2QwWO1IakHaiYr3eoNVoKheRobo3A4=
+              hash: UTBSyBXO/PU/nk+/hAtJ7M+h5PIFfFf9hOliUfSa0VQ=
             best_practice_data:
               badge: false
               percentage: null
@@ -68894,4 +68873,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-07-17T02:55:24.639Z
+updated_at: 2024-07-18T02:20:43.327Z
