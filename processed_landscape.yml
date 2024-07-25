@@ -23744,9 +23744,9 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T14:58:00.000Z
           - item:
-            name: Fisher-Rosemount Systems, Inc., an Emerson Company
+            name: Fisher-Rosemount Systems, Inc.
             homepage_url: https://emerson.com/
-            logo: fisher-rosemount_systems_inc_an_emerson_company.svg
+            logo: fisher-rosemount_systems_inc.svg
             twitter: https://twitter.com/Emerson_News
             crunchbase: https://www.crunchbase.com/organization/emerson-electric
             crunchbase_data:
@@ -23770,7 +23770,7 @@ landscape:
                 - Industrial Automation
                 - Manufacturing
             image_data:
-              fileName: fisher-rosemount-systems-inc-an-emerson-company.svg
+              fileName: fisher-rosemount-systems-inc.svg
               hash: J40+QVPvCmEGAsvh8ObJr0GRmDIBLjJoKVKJU3nwdjU=
             best_practice_data:
               badge: false
@@ -24498,10 +24498,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/g-core-labs
             crunchbase_data:
               name: Gcore
-              description: Gcore is a leading global IT solutions provider.
+              description: Gcore is a cloud and edge computing company that offers content delivery, hosting, and security solutions for various businesses.
               num_employees_min: 501
               num_employees_max: 1000
-              homepage: https://gcore.com/
+              homepage: https://gcore.com
               city: Luxembourg
               region: Luxembourg
               country: Luxembourg
@@ -24515,9 +24515,12 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
-                - Information Technology
-                - Robotics
+                - Artificial Intelligence (AI)
+                - Cloud Data Services
+                - Content Delivery Network
+                - IaaS
                 - Software
+                - Web Hosting
               kind: funding
             image_data:
               fileName: gcore.svg
@@ -27613,6 +27616,21 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T15:53:10.000Z
+          - item:
+            name: Hunan Mango Innocreative Technology Co., Ltd
+            homepage_url: https://cloud.mg.xyz/
+            logo: hunan_mango_innocreative_technology_co_ltd.svg
+            organization:
+              name: Hunan Mango Innocreative Technology Co., Ltd
+            crunchbase_data:
+              name: Hunan Mango Innocreative Technology Co., Ltd
+              parents: []
+            image_data:
+              fileName: hunan-mango-innocreative-technology-co-ltd.svg
+              hash: ekFvlAHYbdo9JsUnkLWLIaTBc10lnaAEJmJ2j7PN1U4=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Hushmesh
             homepage_url: https://hushmesh.com/
@@ -47483,45 +47501,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T14:01:15.000Z
           - item:
-            name: Spydra Technologies Pvt Ltd
-            homepage_url: https://spydra.app/
-            logo: spydra_technologies_pvt_ltd.svg
-            crunchbase: https://www.crunchbase.com/organization/spydra
-            crunchbase_data:
-              name: Spydra
-              description: Scalable Web 3 Service & Infrastructure Provider | Blockchain Technology Solutions for Your Business on SPYDRA.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.spydra.app/
-              city: Austin
-              region: Texas
-              country: United States
-              twitter: https://twitter.com/spydra_io
-              linkedin: https://www.linkedin.com/company/spydra/
-              acquisitions: []
-              parents: []
-              funding: 3000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Banking
-                - Blockchain
-                - Enterprise Software
-                - FinTech
-                - Manufacturing
-                - Retail
-                - SaaS
-                - Supply Chain Management
-              kind: funding
-            image_data:
-              fileName: spydra-technologies-pvt-ltd.svg
-              hash: 1ZgsNgynx8hFENrI3in7Z5V5VN/D8+1J0zOLAkQM7JM=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-21T10:22:32.000Z
-          - item:
             name: Squarespace, Inc.
             homepage_url: https://squarespace.com/
             logo: squarespace_inc.svg
@@ -67301,7 +67280,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/university-of-new-south-wales
               acquisitions: []
               parents: []
-              funding: 23812214
+              funding: 29794730
               stockExchange: null
               company_type: ''
               industries:
@@ -68579,4 +68558,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-07-24T04:13:32.763Z
+updated_at: 2024-07-25T02:57:20.272Z
