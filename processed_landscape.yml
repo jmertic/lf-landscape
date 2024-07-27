@@ -2648,10 +2648,10 @@ landscape:
                   acquiree: Cilk
                 - date: '2009-08-19'
                   acquiree: RapidMind
-                - date: '2010-02-01'
-                  acquiree: Infineon Technologies
                 - date: '2010-08-19'
                   acquiree: McAfee
+                - date: '2010-08-30'
+                  acquiree: Infineon’s Wireless Solutions Business
                 - date: '2010-11-15'
                   acquiree: CognoVision
                 - date: '2011-03-14'
@@ -6389,11 +6389,7 @@ landscape:
               stockExchange: nasdaq
               company_type: For Profit
               industries:
-                - Advertising
-                - Collaboration
-                - Enterprise Software
                 - Information Technology
-                - Search Engine
             yahoo_finance_data:
               effective_ticker: GOOG
             image_data:
@@ -11708,7 +11704,6 @@ landscape:
                 - date: '2020-08-25'
                   acquiree: OSIsoft
               parents: []
-              ticker: AVV.L
               stockExchange: lse
               company_type: For Profit
               industries:
@@ -11720,8 +11715,6 @@ landscape:
                 - Information Technology
                 - Simulation
                 - Software
-            yahoo_finance_data:
-              effective_ticker: AVV.L
             image_data:
               fileName: aveva-group.svg
               hash: xMsVvFD7G4oCdbRZhN+4SBwDSFCeRDqRjhQWE34k2Yg=
@@ -15271,7 +15264,7 @@ landscape:
             joined: '2022-06-01'
             crunchbase_data:
               name: Chainguard
-              description: Chainguard enables developers to ship secure software by default.
+              description: Chainguard is an open source software that develops software security, supply chain security, and risk mitigation solutions.
               num_employees_min: 51
               num_employees_max: 100
               homepage: https://chainguard.dev
@@ -15279,7 +15272,7 @@ landscape:
               region: Washington
               country: United States
               twitter: https://twitter.com/chainguard_dev
-              linkedin: https://www.linkedin.com/company/chainguard-dev/
+              linkedin: https://www.linkedin.com/company/chainguard-dev
               acquisitions: []
               parents: []
               funding: 256000000
@@ -24743,7 +24736,6 @@ landscape:
                 - date: '2022-03-24'
                   acquiree: SecureKey Technologies
               parents: []
-              ticker: AVST.L
               funding: 100000000
               stockExchange: lse
               company_type: For Profit
@@ -25804,7 +25796,7 @@ landscape:
             joined: '2017-10-01'
             crunchbase_data:
               name: Teleport
-              description: Teleport access plane consolidates connectivity, authentication, authorization, and audit into a single platform.
+              description: Teleport is the easiest, most secure way to access and protect all your infrastructure.
               num_employees_min: 101
               num_employees_max: 250
               homepage: http://goteleport.com/
@@ -28312,7 +28304,7 @@ landscape:
                 - date: '2013-08-01'
                   acquiree: Posedge
               parents: []
-              funding: 19838151
+              funding: 119838151
               stockExchange: lse
               company_type: For Profit
               industries:
@@ -33061,103 +33053,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: LinkedIn Corporation
-            homepage_url: https://linkedin.com/
-            logo: linkedin_corporation.svg
-            twitter: https://twitter.com/LinkedIn
-            crunchbase: https://www.crunchbase.com/organization/linkedin
-            crunchbase_data:
-              name: LinkedIn
-              description: LinkedIn is a professional networking site that allows its members to create business connections, search jobs, and find potential clients.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://linkedin.com
-              city: Sunnyvale
-              region: California
-              country: United States
-              twitter: http://www.twitter.com/linkedin
-              linkedin: https://www.linkedin.com/company/linkedin
-              acquisitions:
-                - date: '2010-08-04'
-                  acquiree: mSpoke
-                - date: '2010-09-22'
-                  acquiree: ChoiceVendor
-                - date: '2011-01-26'
-                  acquiree: CardMunch
-                - date: '2011-10-05'
-                  acquiree: Connected
-                - date: '2011-10-11'
-                  acquiree: IndexTank
-                - date: '2012-02-07'
-                  acquiree: Rapportive
-                - date: '2012-05-03'
-                  acquiree: SlideShare
-                - date: '2013-04-13'
-                  acquiree: Pulse
-                - date: '2014-02-07'
-                  acquiree: Bright.com
-                - date: '2014-07-14'
-                  acquiree: Newsle
-                - date: '2014-07-22'
-                  acquiree: Bizo
-                - date: '2014-11-13'
-                  acquiree: We Created It
-                - date: '2015-03-16'
-                  acquiree: Careerify
-                - date: '2015-04-02'
-                  acquiree: Fishing.io
-                - date: '2015-04-09'
-                  acquiree: Lynda
-                - date: '2015-08-27'
-                  acquiree: Fliptop
-                - date: '2016-02-04'
-                  acquiree: Connectifier
-                - date: '2016-05-05'
-                  acquiree: Run Hop
-                - date: '2016-07-26'
-                  acquiree: PointDrive
-                - date: '2017-06-02'
-                  acquiree: Heighten
-                - date: '2018-10-08'
-                  acquiree: Glint
-                - date: '2018-12-01'
-                  acquiree: Sendbloom
-                - date: '2019-05-28'
-                  acquiree: Drawbridge
-                - date: '2020-04-23'
-                  acquiree: UpCounsel
-                - date: '2021-08-02'
-                  acquiree: Jumprope
-                - date: '2022-02-28'
-                  acquiree: Oribi
-                - date: '2022-03-29'
-                  acquiree: Paddle HR
-                - date: '2022-06-28'
-                  acquiree: EduBrite Systems
-              parents:
-                - https://www.crunchbase.com/organization/microsoft
-              ticker: MSFT
-              funding: 154800000
-              stockExchange: nyse
-              company_type: For Profit
-              industries:
-                - Mortgage
-                - Professional Networking
-                - Recruiting
-                - Social Media
-                - Social Recruiting
-                - Web3
-            yahoo_finance_data:
-              effective_ticker: MSFT
-            image_data:
-              fileName: linked-in-corporation.svg
-              hash: /nRLAC5jEBj5BuHTo/GmGQdcX5uvFKg40xlXFvlhOTU=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-11-08T00:06:52.000Z
           - item:
             name: Linutronix GmbH
             homepage_url: https://linutronix.de/
@@ -67578,7 +67473,7 @@ landscape:
               linkedin: https://www.linkedin.com/school/university-of-washington
               acquisitions: []
               parents: []
-              funding: 123895289
+              funding: 173895289
               stockExchange: null
               company_type: ''
               industries:
@@ -67612,7 +67507,7 @@ landscape:
               linkedin: https://www.linkedin.com/school/university-of-washington
               acquisitions: []
               parents: []
-              funding: 123895289
+              funding: 173895289
               stockExchange: null
               company_type: ''
               industries:
@@ -68560,4 +68455,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-07-26T04:13:27.283Z
+updated_at: 2024-07-27T02:55:19.115Z
