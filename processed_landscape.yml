@@ -40,7 +40,7 @@ landscape:
                 - name: Python
                   value: 1737
                   color: '#3572A5'
-              contributions: 0;0;0;0;0;0;0;0;0;0;1;0;5;1;0;0;0;1;1;0;0;0;0;0;1;0;0;0;2;0;1;1;4;0;0;1;0;0;0;1;0;0;1;1;0;0;0;0;2;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;1;4;2;0;0;0;0;1;1;0;0;0;0;0;1;0;0;2;0;0;2;4;0;0;0;1;0;0;0;1;0;0;1;1;0;0;0;0;2;0;0;0
               firstWeek: 2023-08-06Z
               stars: 18
               license: Creative Commons Attribution 4.0 International
@@ -170,7 +170,7 @@ landscape:
                 - Open Source
             github_data:
               languages: []
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;6;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;5;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
               firstWeek: 2023-08-06Z
               stars: 29
               license: Apache License 2.0
@@ -226,7 +226,7 @@ landscape:
             github_data:
               languages:
                 - name: C++
-                  value: 49011039
+                  value: 49010151
                   color: '#f34b7d'
                 - name: Python
                   value: 11715925
@@ -299,18 +299,18 @@ landscape:
                 - name: SWIG
                   value: 951
               contributions: >-
-                148;133;126;138;105;127;141;187;172;154;146;140;85;205;178;179;126;138;116;159;109;43;86;121;134;145;180;148;166;133;180;178;151;175;149;137;142;148;128;179;171;127;135;97;122;115;129;118;117;107;103;84
+                154;126;133;141;83;155;129;191;174;163;122;141;99;218;152;180;136;125;130;148;93;47;98;117;135;164;172;157;159;128;184;175;161;174;134;144;141;158;118;183;174;114;133;100;124;118;122;127;108;120;94;72
               firstWeek: 2023-08-06Z
-              stars: 13606
+              stars: 13615
               license: Other
               description: 'Ceph is a distributed object, block, and file storage platform '
-              latest_commit_date: '2024-07-28T17:33:01Z'
-              latest_commit_link: /ceph/ceph/commit/2fa0e43b7e714df9811f87cbc5bf862ac503483c
+              latest_commit_date: '2024-07-29T17:56:34Z'
+              latest_commit_link: /ceph/ceph/commit/0ab5214c94d24ba4c0231add2931c74300263af3
               contributors_count: 1908
               contributors_link: https://github.com/ceph/ceph/graphs/contributors
             repos:
               - url: https://github.com/ceph/ceph
-                stars: 13606
+                stars: 13615
             github_start_commit_data:
               start_commit_link: /ceph/ceph/commit/7091d44931086985a26cca2d263e307ad2f82001
               start_date: '2001-04-28T22:22:35Z'
@@ -426,14 +426,14 @@ landscape:
                   value: 8272
                   color: '#89e051'
               contributions: >-
-                36;27;44;39;42;55;55;30;17;28;77;34;39;35;59;38;49;29;63;32;29;10;33;39;44;44;31;48;36;34;41;64;31;41;27;23;42;80;21;25;28;27;48;23;30;15;12;14;33;18;63;31
+                30;30;44;45;33;56;60;26;23;23;74;39;42;29;63;35;61;19;64;35;19;11;34;45;49;37;27;49;42;31;37;68;34;42;18;33;44;68;28;21;25;27;49;25;29;18;9;16;28;18;78;18
               firstWeek: 2023-08-06Z
               stars: 294
               license: Apache License 2.0
               description: The canonical open source deployment manifest for Cloud Foundry
-              latest_commit_date: '2024-07-26T11:38:34Z'
-              latest_commit_link: /cloudfoundry/cf-deployment/commit/2893dec3cb0afaab310f8f23b235969f21c9cd28
-              release_date: '2024-07-26T11:40:29Z'
+              latest_commit_date: '2024-07-29T19:55:39Z'
+              latest_commit_link: /cloudfoundry/cf-deployment/commit/b5ab0ec60b763697774448634e026c156311464f
+              release_date: '2024-07-29T19:56:42Z'
               release_link: https://github.com/cloudfoundry/cf-deployment/releases
               contributors_count: 329
               contributors_link: https://github.com/cloudfoundry/cf-deployment/graphs/contributors
@@ -556,16 +556,16 @@ landscape:
             github_data:
               languages:
                 - name: C
-                  value: 78255596
+                  value: 78257538
                   color: '#555555'
                 - name: Python
-                  value: 537158
+                  value: 541337
                   color: '#3572A5'
                 - name: Meson
                   value: 340091
                   color: '#007800'
                 - name: Shell
-                  value: 83076
+                  value: 82999
                   color: '#89e051'
                 - name: C++
                   value: 27836
@@ -587,14 +587,14 @@ landscape:
                   value: 219
                   color: '#701516'
               contributions: >-
-                24;71;35;50;18;60;61;91;85;45;75;91;200;100;71;55;36;28;90;70;22;3;33;19;56;57;41;51;44;53;158;65;116;31;22;16;10;34;9;14;22;15;26;71;83;31;123;227;81;45;52;12
+                16;79;31;47;21;58;63;92;87;59;67;86;198;99;81;50;30;35;109;44;17;3;37;25;49;57;42;53;44;83;132;67;108;31;23;17;11;33;7;29;8;16;34;61;92;29;166;192;78;40;55;14
               firstWeek: 2023-08-06Z
               stars: 3207
               license: Unknown License
               description: Data Plane Development Kit
-              latest_commit_date: '2024-07-23T22:47:25Z'
-              latest_commit_link: /DPDK/dpdk/commit/82c47f005b9a0a1e3a649664b7713443d18abe43
-              contributors_count: 1288
+              latest_commit_date: '2024-07-29T21:09:55Z'
+              latest_commit_link: /DPDK/dpdk/commit/4b5abe7ec1ed2d43a285599bbba23f62ac049d8f
+              contributors_count: 1290
               contributors_link: https://github.com/DPDK/dpdk/graphs/contributors
             repos:
               - url: https://github.com/DPDK/dpdk
@@ -716,7 +716,7 @@ landscape:
               languages: []
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2023-08-06Z
-              stars: 3704
+              stars: 3703
               license: Unknown License
               description: Hyperledger is a Collaborative Project at The Linux Foundation.
               latest_commit_date: '2022-01-29T08:31:11Z'
@@ -725,7 +725,7 @@ landscape:
               contributors_link: https://github.com/hyperledger/hyperledger/graphs/contributors
             repos:
               - url: https://github.com/hyperledger/hyperledger
-                stars: 3704
+                stars: 3703
             github_start_commit_data:
               start_commit_link: /hyperledger/hyperledger/commit/ecff04651462846f62087270fea765f2236bca66
               start_date: '2015-11-03T22:32:18Z'
@@ -1021,7 +1021,7 @@ landscape:
                 - name: Shell
                   value: 1027
                   color: '#89e051'
-              contributions: 1;0;0;0;1;0;0;0;0;0;0;0;3;1;0;0;0;8;4;1;0;0;0;0;0;0;0;0;9;1;0;1;3;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;1;0;2
+              contributions: 1;0;0;0;1;0;0;0;0;0;0;1;3;0;0;0;0;8;5;0;0;0;0;0;0;0;0;9;0;1;1;2;1;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;1;0;2
               firstWeek: 2023-08-06Z
               stars: 42
               license: Creative Commons Attribution 4.0 International
@@ -1169,9 +1169,9 @@ landscape:
                 - name: HTML
                   value: 671
                   color: '#e34c26'
-              contributions: 0;0;1;0;0;0;0;0;0;3;0;2;2;1;8;3;2;2;2;3;0;0;3;6;6;2;18;8;7;6;4;7;2;10;7;1;3;8;10;4;18;5;1;1;5;2;0;2;7;17;7;13
+              contributions: 0;0;1;0;0;0;0;0;0;3;0;4;0;3;6;4;1;2;2;3;0;0;3;6;6;3;17;9;8;6;3;8;2;10;5;1;4;8;11;17;3;5;1;3;5;0;0;2;8;19;7;10
               firstWeek: 2023-08-06Z
-              stars: 28640
+              stars: 28645
               license: Apache License 2.0
               description: The OpenAPI Specification Repository
               latest_commit_date: '2024-07-25T16:57:52Z'
@@ -1182,7 +1182,7 @@ landscape:
               contributors_link: https://github.com/OAI/OpenAPI-Specification/graphs/contributors
             repos:
               - url: https://github.com/OAI/OpenAPI-Specification
-                stars: 28640
+                stars: 28645
             github_start_commit_data:
               start_commit_link: /OAI/OpenAPI-Specification/commit/58b6b48d26031158146cbc4603806401744b0238
               start_date: '2014-03-03T16:54:09Z'
@@ -1276,13 +1276,13 @@ landscape:
                 - name: Forth
                   value: 114
                   color: '#341708'
-              contributions: 6;5;8;6;0;47;3;7;11;6;1;3;4;5;2;0;1;0;3;3;0;0;0;0;0;0;0;0;0;38;31;21;16;14;2;4;2;2;8;2;0;6;0;1;5;3;0;0;0;0;0;4
+              contributions: 5;5;13;1;0;49;1;8;10;6;3;1;5;6;0;0;1;0;3;3;0;0;0;0;0;0;0;0;0;50;24;20;17;9;5;2;3;0;10;0;0;6;1;0;5;3;0;0;0;0;0;5
               firstWeek: 2023-08-06Z
               stars: 845
               license: Apache License 2.0
               description: OpenHPC Integration, Packaging, and Test Repo
-              latest_commit_date: '2024-07-26T13:31:30Z'
-              latest_commit_link: /openhpc/ohpc/commit/c4d9240842b2261e99c1b3d0a45f1f0d6af8002c
+              latest_commit_date: '2024-07-29T12:44:52Z'
+              latest_commit_link: /openhpc/ohpc/commit/a105f66ba7a18eaa9bebb560a9f45d05852ffc82
               release_date: '2024-05-07T13:05:26Z'
               release_link: https://github.com/openhpc/ohpc/releases
               contributors_count: 78
@@ -1805,7 +1805,7 @@ landscape:
                 - name: C++
                   value: 46728
                   color: '#f34b7d'
-              contributions: 0;1;0;1;0;0;3;0;0;4;0;1;3;0;1;0;0;0;0;0;0;0;0;0;0;0;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 0;1;0;1;0;0;3;0;0;4;0;3;1;1;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2023-08-06Z
               stars: 9780
               license: BSD 3-Clause "New" or "Revised" License
@@ -1862,10 +1862,10 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 58323111
+                  value: 58336894
                   color: '#b07219'
                 - name: C++
-                  value: 1243428
+                  value: 1244277
                   color: '#f34b7d'
                 - name: JavaScript
                   value: 1096303
@@ -1909,13 +1909,13 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                43;32;31;40;47;35;39;29;34;33;44;27;37;33;25;33;15;22;23;25;26;13;15;25;28;43;30;18;36;28;34;39;32;52;38;34;54;39;17;36;31;43;31;39;48;30;29;24;14;26;32;15
+                42;34;28;45;41;36;41;26;34;32;49;24;37;35;23;32;14;26;21;24;25;11;15;28;36;39;25;18;38;30;33;37;32;59;32;36;60;29;21;35;32;36;35;42;51;25;27;22;15;34;25;16
               firstWeek: 2023-08-06Z
               stars: 15803
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2024-07-26T23:21:13Z'
-              latest_commit_link: /prestodb/presto/commit/a1152bf58284048a7a9f4267236c777a92b8712e
+              latest_commit_date: '2024-07-29T22:28:21Z'
+              latest_commit_link: /prestodb/presto/commit/5e9baaf8b57a801a860cb9f23512b2ac7a815249
               contributors_count: 884
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
@@ -2117,13 +2117,13 @@ landscape:
             github_data:
               languages:
                 - name: C
-                  value: 72158256
+                  value: 72251926
                   color: '#555555'
                 - name: Python
                   value: 3678884
                   color: '#3572A5'
                 - name: CMake
-                  value: 2235770
+                  value: 2237195
                 - name: Shell
                   value: 482301
                   color: '#89e051'
@@ -2180,20 +2180,20 @@ landscape:
                   value: 110
                   color: '#C1F12E'
               contributions: >-
-                308;274;235;293;332;341;331;340;460;350;373;291;306;311;342;416;366;375;356;272;278;119;241;316;366;319;370;274;262;272;230;343;487;421;291;250;285;277;367;295;378;470;409;343;364;321;273;262;246;156;150;57
+                322;254;247;304;315;365;340;351;441;369;351;296;311;306;349;413;352;388;366;244;246;116;282;324;360;333;376;258;274;244;258;356;476;409;259;274;288;288;372;312;407;448;398;336;370;338;254;271;230;139;143;46
               firstWeek: 2023-08-06Z
-              stars: 10198
+              stars: 10207
               license: Apache License 2.0
               description: Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
-              latest_commit_date: '2024-07-28T04:31:52Z'
-              latest_commit_link: /zephyrproject-rtos/zephyr/commit/988e4cf77094fcabaf9a10ad94102d1e4522d0f6
+              latest_commit_date: '2024-07-29T12:30:04Z'
+              latest_commit_link: /zephyrproject-rtos/zephyr/commit/3bcaa6f8d63136ffc2ae37b6e77ee4e1cda6964f
               release_date: '2024-07-26T13:59:09Z'
               release_link: https://github.com/zephyrproject-rtos/zephyr/releases
-              contributors_count: 2666
+              contributors_count: 2668
               contributors_link: https://github.com/zephyrproject-rtos/zephyr/graphs/contributors
             repos:
               - url: https://github.com/zephyrproject-rtos/zephyr
-                stars: 10198
+                stars: 10207
             github_start_commit_data:
               start_commit_link: /zephyrproject-rtos/zephyr/commit/8ddf82cf70dc6f951ab477f325dee0efde3ec589
               start_date: '2015-04-10T23:44:37Z'
@@ -68458,4 +68458,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-07-30T02:38:16.621Z
+updated_at: 2024-07-30T04:09:13.272Z
