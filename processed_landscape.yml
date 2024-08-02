@@ -7920,6 +7920,43 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Aerospike
+            homepage_url: https://aerospike.com/
+            logo: aerospike.svg
+            twitter: https://twitter.com/aerospikedb
+            crunchbase: https://www.crunchbase.com/organization/aerospike
+            crunchbase_data:
+              name: Aerospike
+              description: Aerospike is a NoSQL database designed for real-time and mission-critical applications.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: http://www.aerospike.com
+              city: Mountain View
+              region: California
+              country: United States
+              twitter: https://twitter.com/aerospikedb
+              linkedin: https://www.linkedin.com/company/2696852
+              acquisitions:
+                - date: '2012-08-28'
+                  acquiree: AlchemyDB
+              parents: []
+              funding: 241000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Analytics
+                - Big Data
+                - Database
+                - Real Time
+                - Software
+              kind: funding
+            image_data:
+              fileName: aerospike.svg
+              hash: /ZtNGUyUoO7anzyeRfFdS1mmkc4JKy0zZfDVsNq32Vc=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Affinidi Pte Ltd
             homepage_url: https://affinidi.com/
             logo: affinidi_pte_ltd.svg
@@ -10277,7 +10314,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/arcjet
             crunchbase_data:
               name: Arcjet
-              description: Security layer for JS. Rate limiting, bot protection, email validation, and defense against common attacks.
+              description: Bot detection. Rate limiting. Email validation. Attack protection. Data redaction.
               num_employees_min: 1
               num_employees_max: 10
               homepage: https://arcjet.com
@@ -13756,6 +13793,8 @@ landscape:
                   acquiree: Paladin Technologies
                 - date: '2023-09-04'
                   acquiree: TSI Semiconductors
+                - date: '2024-07-23'
+                  acquiree: Johnson Controls - Residential and Light Commercial HVAC Businesses
               parents: []
               stockExchange: null
               company_type: For Profit
@@ -18857,41 +18896,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: CYSEC SA
-            homepage_url: https://cysec.com/
-            logo: cysec_sa.svg
-            twitter: https://twitter.com/cysecsystems
-            crunchbase: https://www.crunchbase.com/organization/cysec
-            crunchbase_data:
-              name: CYSEC
-              description: CYSEC is a cyber security provider
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: http://cysec.com
-              city: Lausanne
-              region: Vaud
-              country: Switzerland
-              twitter: https://www.twitter.com/cysec_com
-              linkedin: https://www.linkedin.com/company/cysecsystems/
-              acquisitions: []
-              parents: []
-              funding: 8521976
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cyber Security
-                - Information Technology
-                - Security
-              kind: funding
-            image_data:
-              fileName: cysec-sa.svg
-              hash: NzfG4NzYjWsIbwX96HrtAgfSZKlR7p4Mf9JfY/x7Ta4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T20:18:43.000Z
-          - item:
             name: d-Fine GmbH
             homepage_url: https://d-fine.com/
             logo: d-fine_gmbh.svg
@@ -23990,8 +23994,8 @@ landscape:
             crunchbase_data:
               name: FreedomFi
               description: FreedomFi build cost efficient PrivateLTE networks using commodity hardware, open source software and CBRS shared spectrum.
-              num_employees_min: 1
-              num_employees_max: 10
+              num_employees_min: 11
+              num_employees_max: 50
               homepage: https://freedomfi.com
               city: Los Gatos
               region: California
@@ -25761,7 +25765,7 @@ landscape:
               kind: funding
             image_data:
               fileName: gravitational-inc.svg
-              hash: uYtKCKS4sgCTNIKJvY9+j4YbvJIntNwscJvTUP65bCU=
+              hash: knM+TP86Su35fB7andOelIx2opV8DWp77kH/JTUTirk=
             best_practice_data:
               badge: false
               percentage: null
@@ -40242,7 +40246,7 @@ landscape:
               kind: funding
             image_data:
               fileName: port.svg
-              hash: uD9g9OOF5e/Js8D3rAr4ZTdwULI7xzJWmGBodOFtou4=
+              hash: hftLMXdJ/aaB4TQ5T0GijCw5z2oRXh94cDdEuleqtrk=
             best_practice_data:
               badge: false
               percentage: null
@@ -57438,7 +57442,7 @@ landscape:
                 - date: '2015-08-28'
                   acquiree: NICTA
               parents: []
-              funding: 77889163
+              funding: 82724223
               stockExchange: null
               company_type: For Profit
               industries:
@@ -67123,7 +67127,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/university-of-new-south-wales
               acquisitions: []
               parents: []
-              funding: 68479949
+              funding: 71612144
               stockExchange: null
               company_type: ''
               industries:
@@ -68401,4 +68405,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-08-01T04:11:57.727Z
+updated_at: 2024-08-02T02:55:23.150Z
