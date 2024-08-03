@@ -2783,6 +2783,7 @@ landscape:
               company_type: For Profit
               industries:
                 - Artificial Intelligence (AI)
+                - Hardware
                 - Information Technology
                 - Product Design
                 - Semiconductor
@@ -4980,8 +4981,6 @@ landscape:
                   acquiree: Blackcomb Consultants
                 - date: '2022-11-15'
                   acquiree: ALBERT
-                - date: '2022-12-01'
-                  acquiree: fiftyfive5
                 - date: '2023-01-05'
                   acquiree: 6point6
                 - date: '2023-01-05'
@@ -5108,6 +5107,8 @@ landscape:
                   acquiree: Logic Information Systems
                 - date: '2024-07-22'
                   acquiree: CAMELOT Management Consultants
+                - date: '2024-08-02'
+                  acquiree: Boslan
               parents: []
               ticker: CSA.F
               funding: 6000000
@@ -7773,34 +7774,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Adusoft - Adam Nowaczyk
-            homepage_url: https://codenarrator.ai/
-            logo: adusoft_-_adam_nowaczyk.svg
-            crunchbase: https://www.crunchbase.com/organization/code-narrator
-            joined: '2023-08-01'
-            crunchbase_data:
-              name: Code Narrator
-              description: Code Narrator accelerates code search, enabling swift identification of specific features and functions within your project.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://codenarrator.ai/
-              city: Gdansk
-              region: Pomorskie
-              country: Poland
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: ''
-              industries: []
-            image_data:
-              fileName: adusoft-adam-nowaczyk.svg
-              hash: qWpWqQb16Ynp5jGET9DP2TUNuEG88hQnuGpHMw0Y6Pk=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Advanced Micro Devices (AMD)
             homepage_url: https://amd.com/
             logo: advanced_micro_devices_amd.svg
@@ -9296,36 +9269,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-19T21:58:26.000Z
-          - item:
-            name: amplication
-            homepage_url: https://amplication.com/
-            logo: amplication.svg
-            crunchbase: https://www.crunchbase.com/organization/amplication
-            crunchbase_data:
-              name: Amplication
-              description: Open Source Low-Code Application Development Platform
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://amplication.com/
-              city: Tel Aviv
-              region: Tel Aviv
-              country: Israel
-              twitter: https://twitter.com/amplication
-              linkedin: https://www.linkedin.com/company/amplication
-              acquisitions: []
-              parents: []
-              funding: 6600000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Software
-              kind: funding
-            image_data:
-              fileName: amplication.svg
-              hash: 91+KkdLn+0Dl3+W6yt7GJMWR414dAXw5gHiAQg/M+kc=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: Amundi Asset Management
             homepage_url: https://amundi.com/
@@ -11149,6 +11092,38 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T20:26:53.000Z
           - item:
+            name: Atolio, Inc.
+            homepage_url: https://atolio.com/
+            logo: atolio_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/atolio
+            crunchbase_data:
+              name: Atolio
+              description: How enterprises use LLMs to find answers privately and securely.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.atolio.com/
+              city: Denver
+              region: Colorado
+              country: United States
+              twitter: https://twitter.com/atolio
+              linkedin: https://www.linkedin.com/company/atolio
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Big Data
+                - Enterprise Software
+                - IT Infrastructure
+                - Productivity Tools
+                - Search Engine
+            image_data:
+              fileName: atolio-inc.svg
+              hash: yLTn6HcbsLSX/Pdi3plarYK6fgBNayh9BgtwlpsFGR4=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Atym
             homepage_url: https://atym.io/
             logo: atym.svg
@@ -12160,38 +12135,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T13:25:05.000Z
           - item:
-            name: Axoflow
-            homepage_url: https://axoflow.com/
-            logo: axoflow.svg
-            crunchbase: https://www.crunchbase.com/organization/axoflow
-            joined: '2023-08-01'
-            crunchbase_data:
-              name: Axoflow
-              description: Optimize Your Observability Supply Chain
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://axoflow.com
-              city: New York
-              region: New York
-              country: United States
-              twitter: https://twitter.com/AxoFlowIO
-              linkedin: https://www.linkedin.com/company/axoflow/
-              acquisitions: []
-              parents: []
-              funding: 2500000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cyber Security
-                - Information Technology
-              kind: funding
-            image_data:
-              fileName: axoflow.svg
-              hash: QsL7vnsQfjXDl/VNTBDJOEYJ/ROmSx4cgqgU+LtV7d8=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: b-nova Schweiz GmbH
             homepage_url: https://b-nova.com/
             logo: b-nova_schweiz_gmbh.svg
@@ -12674,21 +12617,6 @@ landscape:
             image_data:
               fileName: beijing-dosec-technology-co-ltd.svg
               hash: jqEjcWZmYff3kAj0AqJoUv1APxLHaMu1V7XzgzPirT0=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Beijing Huijun Technology Co. Ltd. (JD Cloud)
-            homepage_url: https://jdcloud.com/
-            logo: beijing_huijun_technology_co_ltd_jd_cloud.svg
-            organization:
-              name: Beijing Huijun Technology Co. Ltd. (JD Cloud)
-            crunchbase_data:
-              name: Beijing Huijun Technology Co. Ltd. (JD Cloud)
-              parents: []
-            image_data:
-              fileName: beijing-huijun-technology-co-ltd-jd-cloud.svg
-              hash: p2+hdZmKN38UnRXNMK33Cry7t7Gv8ZSOxoN/MzZqZXw=
             best_practice_data:
               badge: false
               percentage: null
@@ -13239,41 +13167,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-03-22T20:22:38.000Z
-          - item:
-            name: BlockLabs
-            homepage_url: https://blocklabs.eu/
-            logo: blocklabs.svg
-            crunchbase: https://www.crunchbase.com/organization/blocklabs-b424
-            crunchbase_data:
-              name: BlockLabs
-              description: BlockLabs provides end-to-end digital product development solutions for companies of any size and stage.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://blocklabs.eu/
-              city: Gdansk
-              region: Pomorskie
-              country: Poland
-              twitter: https://twitter.com/blocklabsteam
-              linkedin: https://www.linkedin.com/company/blocklabsteam/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Artificial Intelligence (AI)
-                - Blockchain
-                - Consulting
-                - FinTech
-                - Gaming
-                - Information Technology
-                - Software
-                - Web Development
-            image_data:
-              fileName: block-labs.svg
-              hash: Kji2vZn4801FwWh1F73jYZvm1qurLvazkbCxLfy2mo8=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: Bloombase, Inc.
             homepage_url: https://bloombase.com/
@@ -14477,6 +14370,21 @@ landscape:
             image_data:
               fileName: cadence-design-systems-inc.svg
               hash: lxpK9atZZdfErD+mxRLmsqXyCVd6iZ97djo2umcfn0E=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Caligra
+            homepage_url: https://caligra.com/
+            logo: caligra.svg
+            organization:
+              name: Caligra
+            crunchbase_data:
+              name: Caligra
+              parents: []
+            image_data:
+              fileName: caligra.svg
+              hash: irSi+PZD8Pb24i2NGlGZ5C/xfgSZchIquHm5IDHmfl4=
             best_practice_data:
               badge: false
               percentage: null
@@ -16945,6 +16853,39 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-12-14T02:44:44.000Z
           - item:
+            name: Cloudoor
+            homepage_url: https://cloudoor.com/
+            logo: cloudoor.svg
+            crunchbase: https://www.crunchbase.com/organization/cno
+            crunchbase_data:
+              name: Cloudoor
+              description: Quickly build the software your customers love
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://cloudoor.com/
+              city: Los Angeles
+              region: California
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/cloudoor
+              acquisitions: []
+              parents: []
+              funding: 220000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Enterprise Software
+                - Information Technology
+                - SaaS
+                - Software
+              kind: funding
+            image_data:
+              fileName: cloudoor.svg
+              hash: Tkgr88N5nZ3HsHNPYABxHCEP+0GlecenFXdrVEUgeqE=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: CloudOps Inc.
             homepage_url: https://cloudops.com/
             logo: cloudops_inc.svg
@@ -17684,6 +17625,21 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T20:31:50.000Z
+          - item:
+            name: CoMira Solutions Inc
+            homepage_url: https://comira-inc.com/
+            logo: comira_solutions_inc.svg
+            organization:
+              name: CoMira Solutions Inc
+            crunchbase_data:
+              name: CoMira Solutions Inc
+              parents: []
+            image_data:
+              fileName: co-mira-solutions-inc.svg
+              hash: SK5khmk2Cv8k3uyHfhqYn3HfIAJyy2kM4EaxULL9y38=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: ComplianceCow
             homepage_url: https://compliancecow.com/
@@ -19047,61 +19003,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-19T21:39:27.000Z
-          - item:
-            name: Databricks Inc.
-            homepage_url: https://databricks.com/
-            logo: databricks_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/databricks
-            crunchbase_data:
-              name: Databricks
-              description: Databricks is an AI cloud data platform that interacts with corporate information stored in the public cloud.
-              num_employees_min: 5001
-              num_employees_max: 10000
-              homepage: https://databricks.com
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: http://www.twitter.com/databricks
-              linkedin: https://www.linkedin.com/company/databricks
-              acquisitions:
-                - date: '2020-06-24'
-                  acquiree: Redash
-                - date: '2021-10-06'
-                  acquiree: 8080 Labs
-                - date: '2022-04-25'
-                  acquiree: Cortex Labs
-                - date: '2022-10-13'
-                  acquiree: DataJoy Inc.
-                - date: '2023-05-03'
-                  acquiree: Okera
-                - date: '2023-06-26'
-                  acquiree: MosaicML
-                - date: '2023-10-23'
-                  acquiree: Arcion
-                - date: '2024-01-30'
-                  acquiree: Einblick
-                - date: '2024-03-19'
-                  acquiree: Lilac AI
-                - date: '2024-06-04'
-                  acquiree: Tabular
-              parents: []
-              funding: 3997000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Analytics
-                - Artificial Intelligence (AI)
-                - Information Technology
-                - Machine Learning
-              kind: funding
-            image_data:
-              fileName: databricks-inc.svg
-              hash: CWv5zzm+SaX9L4RNPAOZzyuEXNTkyV8gKO1dDnoyx98=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T19:22:01.000Z
           - item:
             name: DataCore Software
             homepage_url: https://datacore.com/
@@ -24599,6 +24500,21 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: GE HealthCare
+            homepage_url: https://gehealthcare.com/
+            logo: ge_healthcare.svg
+            organization:
+              name: GE HealthCare
+            crunchbase_data:
+              name: GE HealthCare
+              parents: []
+            image_data:
+              fileName: ge-health-care.svg
+              hash: eYwlkRLrlYkz5WOzNC0A7vPLa/U3tb8kvEHIIDo2nT4=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: GEICO
             homepage_url: https://geico.com/
             logo: geico.svg
@@ -25608,6 +25524,60 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T22:30:00.000Z
+          - item:
+            name: Grab Holdings Inc.
+            homepage_url: https://grab.com/
+            logo: grab_holdings_inc.svg
+            twitter: https://twitter.com/GrabSG
+            crunchbase: https://www.crunchbase.com/organization/grabtaxi
+            crunchbase_data:
+              name: Grab
+              description: Grab is an mobile application that provides taxi, payment, lending, and insurance services.
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: https://www.grab.com
+              city: Singapore
+              region: Central Region
+              country: Singapore
+              twitter: https://twitter.com/grabsg
+              linkedin: https://www.linkedin.com/company/grabapp
+              acquisitions:
+                - date: '2017-02-14'
+                  acquiree: Kudo
+                - date: '2018-01-17'
+                  acquiree: iKaaz
+                - date: '2020-02-04'
+                  acquiree: Bento
+                - date: '2021-10-04'
+                  acquiree: OVO
+                - date: '2021-12-14'
+                  acquiree: Jaya Grocer
+                - date: '2022-08-04'
+                  acquiree: Move it
+                - date: '2023-07-20'
+                  acquiree: Trans Cab Services
+                - date: '2024-07-22'
+                  acquiree: Chope
+              parents: []
+              ticker: GRAB
+              funding: 16522750000
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Apps
+                - Food Delivery
+                - InsurTech
+                - Ride Sharing
+                - Taxi Service
+                - Transportation
+            yahoo_finance_data:
+              effective_ticker: GRAB
+            image_data:
+              fileName: grab-holdings-inc.svg
+              hash: v1Kj/QiTi7y/vGmqBsTeQ2qLUjHsAlqqVJknLotF1bQ=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Grafbase
             homepage_url: https://grafbase.com/
@@ -27020,6 +26990,59 @@ landscape:
             image_data:
               fileName: highway9-networks.svg
               hash: WEF6A4wbFtcNWuLe+m2xBDWELylq7qnCiw79HE5nA24=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Hon Hai Precision Industry Co., Ltd.
+            homepage_url: https://foxconn.com/
+            logo: hon_hai_precision_industry_co_ltd.svg
+            twitter: https://twitter.com/FoxconnSlave
+            crunchbase: https://www.crunchbase.com/organization/foxconn-technology-group
+            crunchbase_data:
+              name: Foxconn Technology Group
+              description: Foxconn Technology Group is an electronics contract manufacturing company.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.foxconn.com
+              city: Taipei
+              region: T'ai-pei
+              country: Taiwan
+              twitter: https://twitter.com/foxconnoficial
+              linkedin: https://www.linkedin.com/company/foxconn
+              acquisitions:
+                - date: '2007-01-01'
+                  acquiree: Ennoconn Corp
+                - date: '2016-02-27'
+                  acquiree: SoftBank Capital
+                - date: '2016-03-30'
+                  acquiree: Sharp
+                - date: '2016-04-13'
+                  acquiree: TeleEye
+                - date: '2016-05-26'
+                  acquiree: SMART
+                - date: '2017-05-25'
+                  acquiree: flnet.com
+                - date: '2018-08-22'
+                  acquiree: Moran Cognitive Technology
+                - date: '2019-12-01'
+                  acquiree: Sonder Design
+              parents: []
+              ticker: HHPD.L
+              funding: 20000000
+              stockExchange: lse
+              company_type: For Profit
+              industries:
+                - Electronics
+                - Hardware
+                - Information Technology
+                - Manufacturing
+                - Software
+            yahoo_finance_data:
+              effective_ticker: HHPD.L
+            image_data:
+              fileName: hon-hai-precision-industry-co-ltd.svg
+              hash: IJCdPir2Q28kxjE8LG4agRWJ4ZTzCaFf/IUhgLv1Tx4=
             best_practice_data:
               badge: false
               percentage: null
@@ -29746,6 +29769,55 @@ landscape:
             image_data:
               fileName: japan-securities-clearing-corporation-jscc.svg
               hash: W7xuoVRmiDoOfnL0VojsebdxLR5S/5kC65k7zOkzg9Y=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: JD.com, Inc.
+            homepage_url: https://jd.com/
+            logo: jdcom_inc.svg
+            twitter: https://twitter.com/JD_Corporate
+            crunchbase: https://www.crunchbase.com/organization/jd-com
+            crunchbase_data:
+              name: JD.com
+              description: JD.com is an internet company and online consumer electronics retailer in China.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://corporate.jd.com
+              city: Beijing
+              region: Beijing
+              country: China
+              twitter: https://twitter.com/JD_Corporate
+              linkedin: https://www.linkedin.com/company/jd.com
+              acquisitions:
+                - date: '2012-10-23'
+                  acquiree: Chinabank Payments
+                - date: '2014-03-10'
+                  acquiree: Paipai
+                - date: '2015-06-17'
+                  acquiree: New Money
+                - date: '2016-06-21'
+                  acquiree: Yihaodian
+                - date: '2020-08-12'
+                  acquiree: JD 5 Star Electric Company
+                - date: '2021-09-05'
+                  acquiree: China Logistics Property Holdings
+              parents: []
+              ticker: JD.VI
+              funding: 7058000000
+              stockExchange: vie
+              company_type: For Profit
+              industries:
+                - E-Commerce
+                - Internet
+                - Logistics
+                - Marketplace
+                - Retail
+            yahoo_finance_data:
+              effective_ticker: JD.VI
+            image_data:
+              fileName: jd-com-inc.svg
+              hash: XMEMrIY/TXW2+cLGH/T9/6MLB9nPRGWVpccpYD+XIHs=
             best_practice_data:
               badge: false
               percentage: null
@@ -34969,6 +35041,44 @@ landscape:
             image_data:
               fileName: microchip-technology-inc.svg
               hash: OnjIIoDeDFjxwpiR9y02GmG4MIJ/cPj5ihI0DHWmmw4=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: MicroEJ
+            homepage_url: https://microej.com/
+            logo: microej.svg
+            twitter: https://twitter.com/microej
+            crunchbase: https://www.crunchbase.com/organization/microej
+            crunchbase_data:
+              name: MicroEJ
+              description: 'MicroEJ brings the Smart into Smart Things. Fast. Sustainable. Secure. Low-Footprint. Cost-Effective. #PoweredByMicroEJ'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://www.microej.com/
+              city: Cambridge
+              region: Massachusetts
+              country: United States
+              twitter: https://www.twitter.com/microej
+              linkedin: https://www.linkedin.com/company/microej
+              acquisitions: []
+              parents: []
+              funding: 10000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Consumer Electronics
+                - Manufacturing
+                - Medical Device
+                - Robotics
+                - Smart Building
+                - Smart Cities
+                - Smart Home
+                - Software
+              kind: funding
+            image_data:
+              fileName: micro-ej.svg
+              hash: P+2NDDgACXq9VaY/dF9nrXoickbBr82ldI+XirYbBY4=
             best_practice_data:
               badge: false
               percentage: null
@@ -41331,36 +41441,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Qleet - The Application Orchestration Platform
-            homepage_url: https://qleet.io/
-            logo: qleet_-_the_application_orchestration_platform.svg
-            crunchbase: https://www.crunchbase.com/organization/qleet
-            crunchbase_data:
-              name: Qleet
-              description: Qleet provides applications with a cost and performance-optimized environment in the cloud.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://www.qleet.io
-              city: Tampa
-              region: Florida
-              country: United States
-              twitter: null
-              linkedin: https://www.linkedin.com/company/qleet
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Developer Platform
-                - Open Source
-                - Software
-            image_data:
-              fileName: qleet-the-application-orchestration-platform.svg
-              hash: 3fFjwaoBykkXNu3UlUW8UW/sN8nr2c/HK9KvUYJoOVw=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Quali
             homepage_url: https://quali.com/
             logo: quali.svg
@@ -45317,6 +45397,75 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T16:30:28.000Z
           - item:
+            name: Shutterstock, Inc.
+            homepage_url: https://shutterstock.com/
+            logo: shutterstock_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/shutterstock
+            crunchbase_data:
+              name: Shutterstock
+              description: Shutterstock offers an online platform that enables its users to find and buy images, vectors, videos, and music.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://shutterstock.com
+              city: New York
+              region: New York
+              country: United States
+              twitter: http://twitter.com/shutterstock
+              linkedin: https://www.linkedin.com/company/shutterstock
+              acquisitions:
+                - date: '2009-09-23'
+                  acquiree: Bigstock
+                - date: '2014-03-03'
+                  acquiree: Webdam by Bynder
+                - date: '2015-01-15'
+                  acquiree: Premiumbeat.com
+                - date: '2015-01-15'
+                  acquiree: Rex Features
+                - date: '2017-06-27'
+                  acquiree: Flashstock Technology
+                - date: '2020-11-11'
+                  acquiree: Amper Music
+                - date: '2021-01-26'
+                  acquiree: TurboSquid
+                - date: '2021-07-27'
+                  acquiree: Pattern89
+                - date: '2021-07-27'
+                  acquiree: Shotzr
+                - date: '2021-07-27'
+                  acquiree: datasine
+                - date: '2021-09-07'
+                  acquiree: PicMonkey
+                - date: '2022-05-11'
+                  acquiree: Pond5
+                - date: '2022-05-31'
+                  acquiree: Splash News
+                - date: '2023-05-23'
+                  acquiree: Giphy
+                - date: '2024-02-01'
+                  acquiree: backgrid
+                - date: '2024-05-02'
+                  acquiree: Envato
+              parents:
+                - https://www.crunchbase.com/organization/shutterstock
+              ticker: SSTK
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence (AI)
+                - Intelligent Systems
+                - Music
+                - Photography
+                - Software
+                - Video
+            yahoo_finance_data:
+              effective_ticker: SSTK
+            image_data:
+              fileName: shutterstock-inc.svg
+              hash: Ur30pJ6b9mwYnk/VJOOtwd8TAy1Y3OW7aCgWPglc0Os=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: SICPA SA
             homepage_url: https://sicpa.com/
             logo: sicpa_sa.svg
@@ -49217,6 +49366,37 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Taplytics
+            homepage_url: https://devcycle.com/
+            logo: taplytics.svg
+            crunchbase: https://www.crunchbase.com/organization/devcycle
+            crunchbase_data:
+              name: DevCycle
+              description: DevCycle is a Feature Flag Management platform built for developers.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://devcycle.com/
+              city: Toronto
+              region: Ontario
+              country: Canada
+              twitter: https://twitter.com/DevCycleHQ
+              linkedin: https://www.linkedin.com/company/devcyclehq/
+              acquisitions:
+                - date: '2023-03-06'
+                  acquiree: Battlesnake
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Technology
+                - Software
+            image_data:
+              fileName: taplytics.svg
+              hash: x1najr0SFN17BokTBP8JzwtcpM3IvIKos/Sp7fQoWAc=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Tassets Inc
             homepage_url: https://tassets.com/
             logo: tassets_inc.svg
@@ -51772,6 +51952,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-19T17:04:42.000Z
           - item:
+            name: Trustwise
+            homepage_url: https://trustwise.ai/
+            logo: trustwise.svg
+            organization:
+              name: Trustwise
+            crunchbase_data:
+              name: Trustwise
+              parents: []
+            image_data:
+              fileName: trustwise.svg
+              hash: Hxlmo397zX2HleeRrOG+RofZK45WLSscqOt83NkbWEY=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Turk Telekomünikasyon A.S.
             homepage_url: https://turktelekom.com.tr/
             logo: turk_telekomunikasyon_as.svg
@@ -53353,8 +53548,6 @@ landscape:
                   acquiree: Liberty Global
                 - date: '2019-11-18'
                   acquiree: GrandCentrix
-                - date: '2020-03-31'
-                  acquiree: Infrastrutture Wireless Italiane
                 - date: '2022-10-03'
                   acquiree: Nowo
               parents: []
@@ -53656,41 +53849,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: Wegmans Food Markets
-            homepage_url: https://wegmans.com/
-            logo: wegmans_food_markets.svg
-            twitter: https://twitter.com/Wegmans
-            crunchbase: https://www.crunchbase.com/organization/wegmans
-            crunchbase_data:
-              name: Wegmans Food Markets
-              description: Wegmans offers an online platform that enables its users to find recipes, information, and tips about dieting.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.wegmans.com
-              city: New York
-              region: New York
-              country: United States
-              twitter: http://twitter.com/wegmans
-              linkedin: https://www.linkedin.com/company/wegmans-food-markets
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Apps
-                - E-Commerce
-                - Food and Beverage
-                - Hospitality
-                - Social Media
-            image_data:
-              fileName: wegmans-food-markets.svg
-              hash: 5hQ66atA0BZuZQztZa7UsDNvPVaRe8EKCNv6M5e1tjk=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-19T15:56:38.000Z
           - item:
             name: Wellington Management Company, LLP
             homepage_url: https://wellington.com/
@@ -55736,6 +55894,21 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-03-22T12:15:06.000Z
+          - item:
+            name: Ayodo.org
+            homepage_url: https://ayodo.org/
+            logo: ayodoorg.svg
+            organization:
+              name: Ayodo.org
+            crunchbase_data:
+              name: Ayodo.org
+              parents: []
+            image_data:
+              fileName: ayodo-org.svg
+              hash: km/lBiR4N/N75EjEh72OLkin8HLID+cVvnHzWDlzfsk=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: baai
             homepage_url: https://baai.ac.cn/
@@ -65516,7 +65689,7 @@ landscape:
               parents: []
             image_data:
               fileName: test-account.svg
-              hash: UTBSyBXO/PU/nk+/hAtJ7M+h5PIFfFf9hOliUfSa0VQ=
+              hash: T9/eMv903ahYa2QwWO1IakHaiYr3eoNVoKheRobo3A4=
             best_practice_data:
               badge: false
               percentage: null
@@ -68404,4 +68577,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-08-02T04:25:54.471Z
+updated_at: 2024-08-03T02:41:56.816Z
