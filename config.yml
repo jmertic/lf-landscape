@@ -1,4 +1,3 @@
-landscapeName: lf
 landscapeMemberClasses:
    - name: Platinum Membership
      category: Platinum
@@ -19,4 +18,8 @@ landscapeProjectsSubcategories:
     category: All
 landscapefile: landscape.yml
 projectsDefaultCrunchbase: https://www.crunchbase.com/organization/linux-foundation
+projectsAddTechnologySector: true
+projectsAddIndustrySector: true
+projectsAddPMOManagedStatus: true
+projectsAddParentProject: true
 missingcsvfile: missing.csv
