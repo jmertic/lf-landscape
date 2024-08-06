@@ -8019,7 +8019,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/aia-group
             crunchbase_data:
               name: AIA Group
-              description: AIA Group Limited and its subsidiaries comprise the largest independent publicly listed pan-Asian life insurance group.
+              description: AIA Group is a life insurance group that helps individuals and businesses meet financial needs by providing various insurance solutions.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.aia.com/
@@ -8038,6 +8038,7 @@ landscape:
               stockExchange: hkg
               company_type: For Profit
               industries:
+                - Financial Services
                 - Health Insurance
                 - Insurance
                 - Wealth Management
@@ -15217,14 +15218,14 @@ landscape:
             logo: chainloop.svg
             crunchbase: https://www.crunchbase.com/organization/chainloop
             crunchbase_data:
-              name: Chainloop.dev
-              description: Chainloop is a software supply chain attestation solution that both developers and security operations professionals love.
+              name: Chainloop
+              description: The Control Plane for Trusted Software Delivery. Build and deliver trusted software faster.
               num_employees_min: 1
               num_employees_max: 10
               homepage: https://chainloop.dev
-              city: Seville
-              region: Andalucia
-              country: Spain
+              city: Dover
+              region: Delaware
+              country: United States
               twitter: null
               linkedin: https://www.linkedin.com/company/chainloop-dev
               acquisitions: []
@@ -15232,7 +15233,12 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
-                - Software
+                - Cloud Security
+                - DevOps
+                - Developer Tools
+                - Enterprise Software
+                - Open Source
+                - Security
             image_data:
               fileName: chainloop.svg
               hash: eNBBh5+g9FNmxQJqxX+bjOlqD8lHVyLwT4y1pxpNqIg=
@@ -23761,7 +23767,9 @@ landscape:
               country: United States
               twitter: https://twitter.com/getfossa
               linkedin: https://www.linkedin.com/company/fossa/
-              acquisitions: []
+              acquisitions:
+                - date: '2024-08-01'
+                  acquiree: StackShare
               parents: []
               funding: 38399979
               stockExchange: null
@@ -43585,6 +43593,8 @@ landscape:
                   acquiree: Airkit
                 - date: '2023-12-18'
                   acquiree: Spiff
+                - date: '2024-08-02'
+                  acquiree: PredictSpring
               parents: []
               ticker: CRM
               funding: 65375124
@@ -63356,8 +63366,8 @@ landscape:
             crunchbase_data:
               name: Open Web Application Security Project
               description: The Open Web Application Security Project is a non-profit organization focused on improving the security of software.
-              num_employees_min: 10001
-              num_employees_max: 1000000
+              num_employees_min: 1
+              num_employees_max: 10
               homepage: http://www.owasp.org
               city: Bel Air
               region: Maryland
@@ -68572,4 +68582,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-08-05T04:14:23.273Z
+updated_at: 2024-08-06T02:55:40.273Z
