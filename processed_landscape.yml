@@ -2430,14 +2430,14 @@ landscape:
             joined: '2023-03-01'
             crunchbase_data:
               name: Hitachi
-              description: Hitachi is engaged in the manufacture and sale of electronic and electrical products worldwide.
+              description: Hitachi is a manufacturing industry that offers electronic and electrical product design, production, and distribution services.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://www.hitachi.com
+              homepage: https://www.hitachi.com
               city: Tokyo
               region: Tokyo
               country: Japan
-              twitter: https://twitter.com/HitachiGlobal
+              twitter: https://x.com/Hitachi
               linkedin: https://www.linkedin.com/company/hitachi
               acquisitions:
                 - date: '2007-02-05'
@@ -12490,37 +12490,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: Beechwoods Software, Inc.
-            homepage_url: https://beechwoods.com/
-            logo: beechwoods_software_inc.svg
-            twitter: https://twitter.com/BeechSoft
-            crunchbase: https://www.crunchbase.com/organization/beechwood-acquisitions
-            crunchbase_data:
-              name: Beechwood Acquisitions
-              description: Beechwood Acquisitions is a real estate development company
-              num_employees_min: null
-              num_employees_max: null
-              homepage: http://hayshadeitsch.com/
-              city: Dallas
-              region: Texas
-              country: United States
-              twitter: https://www.twitter.com/hayshadeitsch1
-              linkedin: https://www.linkedin.com/in/haysha-deitsch-38b8b78
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Real Estate
-            image_data:
-              fileName: beechwoods-software-inc.svg
-              hash: a7DDDb91cIuERWI9irWhuNeSzXfnRJpf6vtoetRVRVI=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-08-29T13:56:03.000Z
           - item:
             name: Beijing Baolande Software Corporation
             homepage_url: https://bessystem.com/
@@ -22697,8 +22666,6 @@ landscape:
                   acquiree: Bridge Business Consulting
                 - date: '2022-12-19'
                   acquiree: ifb group
-                - date: '2023-01-13'
-                  acquiree: eBorn Consulting
                 - date: '2023-03-21'
                   acquiree: adameo
                 - date: '2024-04-23'
@@ -30505,7 +30472,7 @@ landscape:
                 - date: '2011-07-04'
                   acquiree: Sowind Group
                 - date: '2011-11-08'
-                  acquiree: Brioni S p A
+                  acquiree: Brioni
                 - date: '2012-12-10'
                   acquiree: Qeelin
                 - date: '2012-12-11'
@@ -32571,7 +32538,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/leaseweb
             crunchbase_data:
               name: Leaseweb
-              description: Leaseweb is a cloud hosting provider offering advanced infrastructure solutions for a global market.
+              description: Leaseweb is a cloud hosting provider that offers infrastructure solutions for global market.
               num_employees_min: 501
               num_employees_max: 1000
               homepage: http://www.leaseweb.com
@@ -40779,7 +40746,7 @@ landscape:
             logo: progressive_insurance.svg
             crunchbase: https://www.crunchbase.com/organization/the-progressive-corporation
             crunchbase_data:
-              name: The Progressive Corporation
+              name: Progressive
               description: Progressive is a place where innovation and collaboration are a way of life. Each of our employees has a role in our success and together.
               num_employees_min: 10001
               num_employees_max: 1000000
@@ -43593,7 +43560,7 @@ landscape:
                   acquiree: Airkit
                 - date: '2023-12-18'
                   acquiree: Spiff
-                - date: '2024-08-02'
+                - date: '2024-08-01'
                   acquiree: PredictSpring
               parents: []
               ticker: CRM
@@ -44098,9 +44065,9 @@ landscape:
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://scaleops.com
-              city: Tel Aviv
-              region: Tel Aviv
-              country: Israel
+              city: New York
+              region: New York
+              country: United States
               twitter: null
               linkedin: https://www.linkedin.com/company/scaleops-sh
               acquisitions: []
@@ -44110,9 +44077,7 @@ landscape:
               company_type: For Profit
               industries:
                 - Cloud Computing
-                - Computer Vision
                 - DevOps
-                - Enterprise Resource Planning (ERP)
                 - Software Engineering
               kind: funding
             image_data:
@@ -55655,7 +55620,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/american-red-cross
               acquisitions: []
               parents: []
-              funding: 43253300
+              funding: 43255300
               stockExchange: null
               company_type: Non Profit
               industries:
@@ -62830,6 +62795,21 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: NYDesign
+            homepage_url: https://nydesign.org/
+            logo: nydesign.svg
+            organization:
+              name: NYDesign
+            crunchbase_data:
+              name: NYDesign
+              parents: []
+            image_data:
+              fileName: ny-design.svg
+              hash: SsS5zdbmF35afzpwWSL8U6arDLuzUZH/wykgYYndq6U=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Oak Ridge National Laboratory
             homepage_url: https://ornl.gov/
             logo: oak_ridge_national_laboratory.svg
@@ -63957,7 +63937,7 @@ landscape:
               linkedin: https://www.linkedin.com/school/portland-state-university
               acquisitions: []
               parents: []
-              funding: 7207330
+              funding: 9107330
               stockExchange: null
               company_type: ''
               industries:
@@ -68582,4 +68562,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-08-06T02:55:40.273Z
+updated_at: 2024-08-07T02:31:31.294Z
