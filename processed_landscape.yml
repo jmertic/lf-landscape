@@ -2389,8 +2389,6 @@ landscape:
                   acquiree: TrueNet Communications
                 - date: '2016-08-01'
                   acquiree: Symfoni ESM
-                - date: '2021-04-01'
-                  acquiree: Versor
                 - date: '2022-02-01'
                   acquiree: oobe
                 - date: '2022-09-19'
@@ -2426,6 +2424,7 @@ landscape:
             name: Hitachi, Ltd.
             homepage_url: https://hitachi.com/
             logo: hitachi_ltd.svg
+            twitter: https://twitter.com/HitachiGlobal
             crunchbase: https://www.crunchbase.com/organization/hitachi
             joined: '2023-03-01'
             crunchbase_data:
@@ -4871,8 +4870,6 @@ landscape:
                   acquiree: Industrie&Co
                 - date: '2021-06-01'
                   acquiree: Nell'Armonia
-                - date: '2021-06-02'
-                  acquiree: Entropia
                 - date: '2021-06-14'
                   acquiree: Umlaut
                 - date: '2021-06-15'
@@ -4965,8 +4962,6 @@ landscape:
                   acquiree: Tenbu
                 - date: '2022-08-02'
                   acquiree: Sentia
-                - date: '2022-08-08'
-                  acquiree: Romp
                 - date: '2022-08-09'
                   acquiree: YSC Consulting
                 - date: '2022-09-01'
@@ -30019,6 +30014,8 @@ landscape:
                   acquiree: InstaMed
                 - date: '2020-12-28'
                   acquiree: cxLoyalty Group-Global Loyalty business
+                - date: '2021-06-17'
+                  acquiree: Nutmeg
                 - date: '2021-09-09'
                   acquiree: The Infatuation
                 - date: '2021-09-21'
@@ -30027,6 +30024,8 @@ landscape:
                   acquiree: FROSCH
                 - date: '2022-03-01'
                   acquiree: J.P. Morgan Workplace Solutions
+                - date: '2022-07-01'
+                  acquiree: Figg
                 - date: '2023-03-22'
                   acquiree: Aumni
                 - date: '2023-05-01'
@@ -38291,37 +38290,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: OnGres
-            homepage_url: https://ongres.com/
-            logo: ongres.svg
-            twitter: https://twitter.com/ongresinc
-            crunchbase: https://www.crunchbase.com/organization/ongres
-            joined: '2022-01-01'
-            crunchbase_data:
-              name: OnGres
-              description: OnGres specializes in infrastructure, consulting, professional services and R&D.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: https://www.ongres.com
-              city: Madrid
-              region: Madrid
-              country: Spain
-              twitter: null
-              linkedin: https://www.linkedin.com/company/ongres/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries: []
-            image_data:
-              fileName: on-gres.svg
-              hash: i5WzSaFJsYAHdZ8Hut+2JFxZdikyY6OtFLKqvc3uDHI=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-01-29T22:36:37.000Z
           - item:
             name: Opaque Systems Inc.
             homepage_url: https://opaque.co/
@@ -53820,6 +53788,39 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Wegmans Food Markets
+            homepage_url: https://wegmans.com/
+            logo: wegmans_food_markets.svg
+            twitter: https://twitter.com/Wegmans
+            crunchbase: https://www.crunchbase.com/organization/wegmans
+            crunchbase_data:
+              name: Wegmans Food Markets
+              description: Wegmans offers an online platform that enables its users to find recipes, information, and tips about dieting.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.wegmans.com
+              city: New York
+              region: New York
+              country: United States
+              twitter: http://twitter.com/wegmans
+              linkedin: https://www.linkedin.com/company/wegmans-food-markets
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Apps
+                - E-Commerce
+                - Food and Beverage
+                - Hospitality
+                - Social Media
+            image_data:
+              fileName: wegmans-food-markets.svg
+              hash: 5hQ66atA0BZuZQztZa7UsDNvPVaRe8EKCNv6M5e1tjk=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Wellington Management Company, LLP
             homepage_url: https://wellington.com/
             logo: wellington_management_company_llp.svg
@@ -54343,6 +54344,78 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-19T12:58:57.000Z
+          - item:
+            name: Workday, Inc.
+            homepage_url: https://workday.com/
+            logo: workday_inc.svg
+            twitter: https://twitter.com/Workday
+            crunchbase: https://www.crunchbase.com/organization/workday
+            crunchbase_data:
+              name: Workday
+              description: Workday provides SaaS-based enterprise solutions for a company's human resources and financial management activities.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.workday.com
+              city: Pleasanton
+              region: California
+              country: United States
+              twitter: http://twitter.com/Workday
+              linkedin: https://www.linkedin.com/company/workday
+              acquisitions:
+                - date: '2008-02-06'
+                  acquiree: Cape Clear Software
+                - date: '2014-02-27'
+                  acquiree: Identified
+                - date: '2015-04-25'
+                  acquiree: GridCraft
+                - date: '2015-07-14'
+                  acquiree: Upshot
+                - date: '2015-09-29'
+                  acquiree: MediaCore
+                - date: '2016-06-30'
+                  acquiree: Zaption
+                - date: '2016-07-21'
+                  acquiree: Platfora
+                - date: '2017-07-24'
+                  acquiree: Pattern
+                - date: '2018-01-16'
+                  acquiree: SkipFlag
+                - date: '2018-06-08'
+                  acquiree: Rallyteam
+                - date: '2018-06-11'
+                  acquiree: Workday Adaptive Planning
+                - date: '2018-07-17'
+                  acquiree: Stories
+                - date: '2019-07-18'
+                  acquiree: Trusted Key
+                - date: '2019-11-04'
+                  acquiree: Scout RFP
+                - date: '2021-01-28'
+                  acquiree: Peakon
+                - date: '2021-09-08'
+                  acquiree: Zimit
+                - date: '2021-11-18'
+                  acquiree: VNDLY
+                - date: '2024-02-26'
+                  acquiree: HiredScore
+              parents: []
+              ticker: WDAY
+              funding: 230550000
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Enterprise Software
+                - Human Resources
+                - SaaS
+                - Software
+            yahoo_finance_data:
+              effective_ticker: WDAY
+            image_data:
+              fileName: workday-inc.svg
+              hash: sp2AwCg8FpAzULtGeaj2N35J7D/0Ur9eHftriYdiLus=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: WorldTech IT LLC
             homepage_url: https://wtit.com/
@@ -55527,6 +55600,21 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T10:01:09.000Z
+          - item:
+            name: Aleph Zero Foundation
+            homepage_url: https://alephzero.org/
+            logo: aleph_zero_foundation.svg
+            organization:
+              name: Aleph Zero Foundation
+            crunchbase_data:
+              name: Aleph Zero Foundation
+              parents: []
+            image_data:
+              fileName: aleph-zero-foundation.svg
+              hash: ki1U5FC1JoHBCBTrZroPfGoc+swFWvlUVuhpID27V8w=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Alliance of Blockchain Industry, Z-park
             homepage_url: https://zgc-blockchain.cn/
@@ -63227,6 +63315,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T16:43:08.000Z
           - item:
+            name: Open Solutions For Government
+            homepage_url: https://ogov.org/
+            logo: open_solutions_for_government.svg
+            organization:
+              name: Open Solutions For Government
+            crunchbase_data:
+              name: Open Solutions For Government
+              parents: []
+            image_data:
+              fileName: open-solutions-for-government.svg
+              hash: MasenARMlOvIM1bdm+hiQq51uY3ITxfhLfcF2K/iVZo=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Open Source Business Alliance - Bundesverband für digitale Souveränität e.V.
             homepage_url: https://osb-alliance.com/
             logo: open_source_business_alliance_-_bundesverband_fur_digitale_souveranitat_ev.svg
@@ -68562,4 +68665,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-08-07T04:02:29.527Z
+updated_at: 2024-08-08T02:27:47.370Z
