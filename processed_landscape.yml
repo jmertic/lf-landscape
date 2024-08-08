@@ -40,7 +40,7 @@ landscape:
                 - name: Python
                   value: 1737
                   color: '#3572A5'
-              contributions: 0;0;0;0;0;0;0;0;0;1;0;5;1;0;0;0;1;1;0;0;0;0;0;1;0;0;0;2;0;1;1;4;0;0;1;0;0;0;1;0;0;1;1;0;0;0;0;2;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;1;0;4;2;0;0;0;1;1;0;0;0;0;0;1;0;0;0;2;0;0;2;4;0;0;0;1;0;0;0;1;0;0;2;0;0;0;0;1;1;0;0;0;1
               firstWeek: 2023-08-13Z
               stars: 18
               license: Creative Commons Attribution 4.0 International
@@ -170,7 +170,7 @@ landscape:
                 - Open Source
             github_data:
               languages: []
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;6;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;6;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
               firstWeek: 2023-08-13Z
               stars: 29
               license: Apache License 2.0
@@ -226,10 +226,10 @@ landscape:
             github_data:
               languages:
                 - name: C++
-                  value: 49268967
+                  value: 49387826
                   color: '#f34b7d'
                 - name: Python
-                  value: 11748158
+                  value: 11786504
                   color: '#3572A5'
                 - name: Raku
                   value: 4171290
@@ -237,13 +237,13 @@ landscape:
                   value: 3338150
                   color: '#555555'
                 - name: TypeScript
-                  value: 3280418
+                  value: 3280396
                   color: '#2b7489'
                 - name: Shell
-                  value: 2259178
+                  value: 2277166
                   color: '#89e051'
                 - name: CMake
-                  value: 869061
+                  value: 869154
                 - name: HTML
                   value: 846780
                   color: '#e34c26'
@@ -265,7 +265,7 @@ landscape:
                   value: 96808
                   color: '#5B2063'
                 - name: SCSS
-                  value: 53931
+                  value: 54092
                 - name: Assembly
                   value: 52156
                   color: '#6E4C13'
@@ -299,18 +299,18 @@ landscape:
                 - name: SWIG
                   value: 951
               contributions: >-
-                133;126;138;106;127;141;187;172;154;146;141;85;206;178;179;126;138;116;159;110;43;86;122;134;145;180;148;166;133;180;178;151;175;149;137;144;149;129;180;171;130;136;97;124;116;133;122;128;111;114;97;64
+                126;145;120;93;154;148;191;174;140;110;142;125;217;138;184;136;121;155;132;58;55;126;122;138;206;153;167;169;146;174;160;186;166;137;135;147;148;151;160;166;129;128;100;128;126;139;134;128;104;119;92;73
               firstWeek: 2023-08-13Z
-              stars: 13654
+              stars: 13666
               license: Other
               description: 'Ceph is a distributed object, block, and file storage platform '
-              latest_commit_date: '2024-08-04T15:14:49Z'
-              latest_commit_link: /ceph/ceph/commit/93ef537d2bb6d0c4eb0443bb47a842ef98f1e3a1
-              contributors_count: 1909
+              latest_commit_date: '2024-08-08T02:04:46Z'
+              latest_commit_link: /ceph/ceph/commit/2c0ea2779b2228c8e3bcf5b58dd5d77b239b1a85
+              contributors_count: 1915
               contributors_link: https://github.com/ceph/ceph/graphs/contributors
             repos:
               - url: https://github.com/ceph/ceph
-                stars: 13654
+                stars: 13666
             github_start_commit_data:
               start_commit_link: /ceph/ceph/commit/7091d44931086985a26cca2d263e307ad2f82001
               start_date: '2001-04-28T22:22:35Z'
@@ -426,7 +426,7 @@ landscape:
                   value: 8272
                   color: '#89e051'
               contributions: >-
-                27;44;39;42;55;55;30;17;28;77;34;39;35;59;38;49;29;63;32;29;10;33;39;44;44;31;48;36;34;41;64;31;41;27;23;42;80;21;25;28;27;48;23;30;15;12;14;33;18;64;41;49
+                35;48;48;34;70;36;17;22;82;15;51;43;39;52;30;54;45;41;34;18;30;24;40;45;44;33;43;45;40;28;68;36;37;12;28;86;28;36;29;16;41;35;28;22;13;11;34;17;42;53;59;8
               firstWeek: 2023-08-13Z
               stars: 294
               license: Apache License 2.0
@@ -587,9 +587,9 @@ landscape:
                   value: 219
                   color: '#701516'
               contributions: >-
-                71;35;50;18;60;61;91;85;45;75;91;200;100;71;55;36;28;90;70;22;3;33;20;56;57;41;51;44;54;158;65;116;31;22;16;10;36;9;15;22;15;26;71;84;31;123;227;81;46;56;24;8
+                86;42;22;21;88;105;49;78;66;65;93;200;79;78;44;38;59;85;33;10;22;24;54;33;57;51;43;60;80;134;100;55;26;24;10;20;25;8;32;16;18;39;76;72;118;226;82;49;54;31;12;0
               firstWeek: 2023-08-13Z
-              stars: 3214
+              stars: 3223
               license: Unknown License
               description: Data Plane Development Kit
               latest_commit_date: '2024-07-31T16:48:32Z'
@@ -598,7 +598,7 @@ landscape:
               contributors_link: https://github.com/DPDK/dpdk/graphs/contributors
             repos:
               - url: https://github.com/DPDK/dpdk
-                stars: 3214
+                stars: 3223
             github_start_commit_data:
               start_commit_link: /DPDK/dpdk/commit/0c9a540ed217764aefc5cb645f3cafd4f9e79765
               start_date: '2013-03-01T14:33:00Z'
@@ -1021,7 +1021,7 @@ landscape:
                 - name: Shell
                   value: 1027
                   color: '#89e051'
-              contributions: 0;0;0;1;0;0;0;0;0;0;0;3;1;0;0;0;8;4;1;0;0;0;0;0;0;0;0;9;1;0;1;3;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;1;0;2;0
+              contributions: 0;0;0;1;0;0;0;0;0;0;1;3;0;0;0;8;0;5;0;0;0;0;0;0;0;0;9;0;1;1;3;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;1;0;2;0;1
               firstWeek: 2023-08-13Z
               stars: 42
               license: Creative Commons Attribution 4.0 International
@@ -1153,7 +1153,7 @@ landscape:
             github_data:
               languages:
                 - name: Markdown
-                  value: 833166
+                  value: 842284
                 - name: JavaScript
                   value: 24781
                   color: '#f1e05a'
@@ -1169,20 +1169,20 @@ landscape:
                 - name: HTML
                   value: 671
                   color: '#e34c26'
-              contributions: 0;1;0;0;0;0;0;0;3;0;2;2;1;8;3;2;2;2;3;0;0;3;6;6;2;18;8;7;6;4;7;2;10;7;1;3;8;10;4;18;5;1;1;5;2;0;2;7;17;7;15;12
+              contributions: 0;1;0;0;0;0;0;0;3;1;3;0;4;5;5;0;2;2;3;0;1;6;3;6;14;6;11;8;3;7;4;7;5;5;1;4;9;12;16;4;3;1;3;5;0;2;0;12;19;9;10;14
               firstWeek: 2023-08-13Z
-              stars: 28666
+              stars: 28677
               license: Apache License 2.0
               description: The OpenAPI Specification Repository
-              latest_commit_date: '2024-08-02T16:48:50Z'
-              latest_commit_link: /OAI/OpenAPI-Specification/commit/ba055ca00cbd735dceef4ed7c9db024cd9bfcd1a
+              latest_commit_date: '2024-08-07T19:14:35Z'
+              latest_commit_link: /OAI/OpenAPI-Specification/commit/873d41d2cbe7603fec3fc7e5aae2a395280348f4
               release_date: '2021-02-16T19:33:45Z'
               release_link: https://github.com/OAI/OpenAPI-Specification/releases
               contributors_count: 232
               contributors_link: https://github.com/OAI/OpenAPI-Specification/graphs/contributors
             repos:
               - url: https://github.com/OAI/OpenAPI-Specification
-                stars: 28666
+                stars: 28677
             github_start_commit_data:
               start_commit_link: /OAI/OpenAPI-Specification/commit/58b6b48d26031158146cbc4603806401744b0238
               start_date: '2014-03-03T16:54:09Z'
@@ -1276,7 +1276,7 @@ landscape:
                 - name: Forth
                   value: 114
                   color: '#341708'
-              contributions: 5;8;6;0;47;3;7;11;6;1;3;4;5;2;0;1;0;3;3;0;0;0;0;0;0;0;0;0;38;31;21;16;14;2;4;2;2;8;2;0;6;0;1;6;3;0;0;0;0;0;4;4
+              contributions: 6;13;0;0;49;3;14;7;1;3;1;5;6;0;0;1;3;0;3;0;0;0;0;0;0;0;0;2;56;22;18;20;3;5;2;2;2;8;0;1;5;1;5;2;2;0;0;0;0;0;5;3
               firstWeek: 2023-08-13Z
               stars: 846
               license: Apache License 2.0
@@ -1601,7 +1601,7 @@ landscape:
               languages: []
               contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2023-08-13Z
-              stars: 455
+              stars: 456
               license: Unknown License
               description: The RISC-V software tools list, as seen on riscv.org
               latest_commit_date: '2021-03-26T23:56:21Z'
@@ -1610,7 +1610,7 @@ landscape:
               contributors_link: https://github.com/riscvarchive/riscv-software-list/graphs/contributors
             repos:
               - url: https://github.com/riscvarchive/riscv-software-list
-                stars: 455
+                stars: 456
             github_start_commit_data:
               start_commit_link: /riscv/riscv-software-list/commit/74971ab68ad60d1b6d6cf5796083b0fdfc4d0b10
               start_date: '2019-07-31T00:21:20Z'
@@ -1805,9 +1805,9 @@ landscape:
                 - name: C++
                   value: 46728
                   color: '#f34b7d'
-              contributions: 1;0;1;0;0;3;0;0;4;0;1;3;0;1;0;0;0;0;0;0;0;0;0;0;0;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              contributions: 1;0;1;0;0;3;0;0;4;0;4;0;1;0;0;0;0;0;0;0;0;0;0;0;0;3;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
               firstWeek: 2023-08-13Z
-              stars: 9780
+              stars: 9782
               license: BSD 3-Clause "New" or "Revised" License
               description: >-
                 Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented
@@ -1820,7 +1820,7 @@ landscape:
               contributors_link: https://github.com/TarsCloud/Tars/graphs/contributors
             repos:
               - url: https://github.com/TarsCloud/Tars
-                stars: 9780
+                stars: 9782
             github_start_commit_data:
               start_commit_link: /TarsCloud/Tars/commit/2101e43d79d5b6817c2ba2d5e43293ae1e3e9f6e
               start_date: '2017-01-18T08:19:06Z'
@@ -1862,7 +1862,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 58460183
+                  value: 58556862
                   color: '#b07219'
                 - name: C++
                   value: 1244078
@@ -1909,18 +1909,18 @@ landscape:
                   value: 85
                   color: '#dad8d8'
               contributions: >-
-                32;31;40;47;35;39;29;34;33;44;27;37;33;25;33;15;22;23;25;26;13;15;25;28;43;30;18;36;28;34;39;32;52;38;34;54;39;18;36;32;43;31;39;48;30;29;25;16;27;37;19;16
+                30;37;40;44;33;34;33;36;35;38;29;34;38;22;30;15;20;24;28;19;7;24;28;37;38;21;27;34;35;30;41;30;60;35;36;55;22;25;37;37;34;34;45;42;27;31;24;20;38;24;18;15
               firstWeek: 2023-08-13Z
-              stars: 15818
+              stars: 15824
               license: Apache License 2.0
               description: The official home of the Presto distributed SQL query engine for big data
-              latest_commit_date: '2024-08-04T22:03:25Z'
-              latest_commit_link: /prestodb/presto/commit/b94cca55abfb4a018116c017e2dbc8f3bf06d6c6
-              contributors_count: 886
+              latest_commit_date: '2024-08-07T21:00:38Z'
+              latest_commit_link: /prestodb/presto/commit/39e74ccfbf398edc41770c9240be26a897946b52
+              contributors_count: 887
               contributors_link: https://github.com/prestodb/presto/graphs/contributors
             repos:
               - url: https://github.com/prestodb/presto
-                stars: 15818
+                stars: 15824
             github_start_commit_data:
               start_commit_link: /prestodb/presto/commit/d0eb103a660125a53660a7ba2c95e9b8a4d8feb6
               start_date: '2012-08-08T19:58:34Z'
@@ -2117,18 +2117,18 @@ landscape:
             github_data:
               languages:
                 - name: C
-                  value: 72472472
+                  value: 73001539
                   color: '#555555'
                 - name: Python
-                  value: 3701974
+                  value: 3702451
                   color: '#3572A5'
                 - name: CMake
-                  value: 2240006
+                  value: 2253594
                 - name: Shell
-                  value: 489984
+                  value: 490036
                   color: '#89e051'
                 - name: Assembly
-                  value: 479247
+                  value: 479207
                   color: '#6E4C13'
                 - name: C++
                   value: 241694
@@ -2180,20 +2180,20 @@ landscape:
                   value: 110
                   color: '#C1F12E'
               contributions: >-
-                274;235;293;332;341;331;340;460;350;374;291;306;311;343;417;366;375;356;274;278;119;241;316;366;321;372;275;266;274;230;343;489;423;291;252;286;280;371;295;379;470;413;349;374;337;289;273;259;188;177;128;82
+                212;274;343;263;386;306;464;380;371;322;275;322;318;359;399;395;362;325;261;187;177;304;361;344;349;340;259;247;244;295;417;484;354;250;280;267;338;323;366;422;449;379;363;351;315;313;300;236;197;164;137;67
               firstWeek: 2023-08-13Z
-              stars: 10239
+              stars: 10253
               license: Apache License 2.0
               description: Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
-              latest_commit_date: '2024-08-04T21:25:01Z'
-              latest_commit_link: /zephyrproject-rtos/zephyr/commit/ed018f82f500b7819ce887dec486def35efcf098
+              latest_commit_date: '2024-08-07T23:04:26Z'
+              latest_commit_link: /zephyrproject-rtos/zephyr/commit/c44abdf5b7932b080f31e90cebbec07a8e092068
               release_date: '2024-07-26T13:59:09Z'
               release_link: https://github.com/zephyrproject-rtos/zephyr/releases
-              contributors_count: 2683
+              contributors_count: 2694
               contributors_link: https://github.com/zephyrproject-rtos/zephyr/graphs/contributors
             repos:
               - url: https://github.com/zephyrproject-rtos/zephyr
-                stars: 10239
+                stars: 10253
             github_start_commit_data:
               start_commit_link: /zephyrproject-rtos/zephyr/commit/8ddf82cf70dc6f951ab477f325dee0efde3ec589
               start_date: '2015-04-10T23:44:37Z'
@@ -2389,8 +2389,6 @@ landscape:
                   acquiree: TrueNet Communications
                 - date: '2016-08-01'
                   acquiree: Symfoni ESM
-                - date: '2021-04-01'
-                  acquiree: Versor
                 - date: '2022-02-01'
                   acquiree: oobe
                 - date: '2022-09-19'
@@ -2426,18 +2424,19 @@ landscape:
             name: Hitachi, Ltd.
             homepage_url: https://hitachi.com/
             logo: hitachi_ltd.svg
+            twitter: https://twitter.com/HitachiGlobal
             crunchbase: https://www.crunchbase.com/organization/hitachi
             joined: '2023-03-01'
             crunchbase_data:
               name: Hitachi
-              description: Hitachi is engaged in the manufacture and sale of electronic and electrical products worldwide.
+              description: Hitachi is a manufacturing industry that offers electronic and electrical product design, production, and distribution services.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://www.hitachi.com
+              homepage: https://www.hitachi.com
               city: Tokyo
               region: Tokyo
               country: Japan
-              twitter: https://twitter.com/HitachiGlobal
+              twitter: https://x.com/Hitachi
               linkedin: https://www.linkedin.com/company/hitachi
               acquisitions:
                 - date: '2007-02-05'
@@ -4871,8 +4870,6 @@ landscape:
                   acquiree: Industrie&Co
                 - date: '2021-06-01'
                   acquiree: Nell'Armonia
-                - date: '2021-06-02'
-                  acquiree: Entropia
                 - date: '2021-06-14'
                   acquiree: Umlaut
                 - date: '2021-06-15'
@@ -4965,8 +4962,6 @@ landscape:
                   acquiree: Tenbu
                 - date: '2022-08-02'
                   acquiree: Sentia
-                - date: '2022-08-08'
-                  acquiree: Romp
                 - date: '2022-08-09'
                   acquiree: YSC Consulting
                 - date: '2022-09-01'
@@ -8019,7 +8014,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/aia-group
             crunchbase_data:
               name: AIA Group
-              description: AIA Group Limited and its subsidiaries comprise the largest independent publicly listed pan-Asian life insurance group.
+              description: AIA Group is a life insurance group that helps individuals and businesses meet financial needs by providing various insurance solutions.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.aia.com/
@@ -8038,6 +8033,7 @@ landscape:
               stockExchange: hkg
               company_type: For Profit
               industries:
+                - Financial Services
                 - Health Insurance
                 - Insurance
                 - Wealth Management
@@ -12490,37 +12486,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Beechwoods Software, Inc.
-            homepage_url: https://beechwoods.com/
-            logo: beechwoods_software_inc.svg
-            twitter: https://twitter.com/BeechSoft
-            crunchbase: https://www.crunchbase.com/organization/beechwood-acquisitions
-            crunchbase_data:
-              name: Beechwood Acquisitions
-              description: Beechwood Acquisitions is a real estate development company
-              num_employees_min: null
-              num_employees_max: null
-              homepage: http://hayshadeitsch.com/
-              city: Dallas
-              region: Texas
-              country: United States
-              twitter: https://www.twitter.com/hayshadeitsch1
-              linkedin: https://www.linkedin.com/in/haysha-deitsch-38b8b78
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Real Estate
-            image_data:
-              fileName: beechwoods-software-inc.svg
-              hash: a7DDDb91cIuERWI9irWhuNeSzXfnRJpf6vtoetRVRVI=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-08-29T13:56:03.000Z
-          - item:
             name: Beijing Baolande Software Corporation
             homepage_url: https://bessystem.com/
             logo: beijing_baolande_software_corporation.svg
@@ -15217,14 +15182,14 @@ landscape:
             logo: chainloop.svg
             crunchbase: https://www.crunchbase.com/organization/chainloop
             crunchbase_data:
-              name: Chainloop.dev
-              description: Chainloop is a software supply chain attestation solution that both developers and security operations professionals love.
+              name: Chainloop
+              description: The Control Plane for Trusted Software Delivery. Build and deliver trusted software faster.
               num_employees_min: 1
               num_employees_max: 10
               homepage: https://chainloop.dev
-              city: Seville
-              region: Andalucia
-              country: Spain
+              city: Dover
+              region: Delaware
+              country: United States
               twitter: null
               linkedin: https://www.linkedin.com/company/chainloop-dev
               acquisitions: []
@@ -15232,7 +15197,12 @@ landscape:
               stockExchange: null
               company_type: For Profit
               industries:
-                - Software
+                - Cloud Security
+                - DevOps
+                - Developer Tools
+                - Enterprise Software
+                - Open Source
+                - Security
             image_data:
               fileName: chainloop.svg
               hash: eNBBh5+g9FNmxQJqxX+bjOlqD8lHVyLwT4y1pxpNqIg=
@@ -22691,8 +22661,6 @@ landscape:
                   acquiree: Bridge Business Consulting
                 - date: '2022-12-19'
                   acquiree: ifb group
-                - date: '2023-01-13'
-                  acquiree: eBorn Consulting
                 - date: '2023-03-21'
                   acquiree: adameo
                 - date: '2024-04-23'
@@ -23761,7 +23729,9 @@ landscape:
               country: United States
               twitter: https://twitter.com/getfossa
               linkedin: https://www.linkedin.com/company/fossa/
-              acquisitions: []
+              acquisitions:
+                - date: '2024-08-01'
+                  acquiree: StackShare
               parents: []
               funding: 38399979
               stockExchange: null
@@ -30044,6 +30014,8 @@ landscape:
                   acquiree: InstaMed
                 - date: '2020-12-28'
                   acquiree: cxLoyalty Group-Global Loyalty business
+                - date: '2021-06-17'
+                  acquiree: Nutmeg
                 - date: '2021-09-09'
                   acquiree: The Infatuation
                 - date: '2021-09-21'
@@ -30052,6 +30024,8 @@ landscape:
                   acquiree: FROSCH
                 - date: '2022-03-01'
                   acquiree: J.P. Morgan Workplace Solutions
+                - date: '2022-07-01'
+                  acquiree: Figg
                 - date: '2023-03-22'
                   acquiree: Aumni
                 - date: '2023-05-01'
@@ -30497,7 +30471,7 @@ landscape:
                 - date: '2011-07-04'
                   acquiree: Sowind Group
                 - date: '2011-11-08'
-                  acquiree: Brioni S p A
+                  acquiree: Brioni
                 - date: '2012-12-10'
                   acquiree: Qeelin
                 - date: '2012-12-11'
@@ -32563,7 +32537,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/leaseweb
             crunchbase_data:
               name: Leaseweb
-              description: Leaseweb is a cloud hosting provider offering advanced infrastructure solutions for a global market.
+              description: Leaseweb is a cloud hosting provider that offers infrastructure solutions for global market.
               num_employees_min: 501
               num_employees_max: 1000
               homepage: http://www.leaseweb.com
@@ -38317,37 +38291,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: OnGres
-            homepage_url: https://ongres.com/
-            logo: ongres.svg
-            twitter: https://twitter.com/ongresinc
-            crunchbase: https://www.crunchbase.com/organization/ongres
-            joined: '2022-01-01'
-            crunchbase_data:
-              name: OnGres
-              description: OnGres specializes in infrastructure, consulting, professional services and R&D.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: https://www.ongres.com
-              city: Madrid
-              region: Madrid
-              country: Spain
-              twitter: null
-              linkedin: https://www.linkedin.com/company/ongres/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries: []
-            image_data:
-              fileName: on-gres.svg
-              hash: i5WzSaFJsYAHdZ8Hut+2JFxZdikyY6OtFLKqvc3uDHI=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-01-29T22:36:37.000Z
-          - item:
             name: Opaque Systems Inc.
             homepage_url: https://opaque.co/
             logo: opaque_systems_inc.svg
@@ -40771,7 +40714,7 @@ landscape:
             logo: progressive_insurance.svg
             crunchbase: https://www.crunchbase.com/organization/the-progressive-corporation
             crunchbase_data:
-              name: The Progressive Corporation
+              name: Progressive
               description: Progressive is a place where innovation and collaboration are a way of life. Each of our employees has a role in our success and together.
               num_employees_min: 10001
               num_employees_max: 1000000
@@ -43585,6 +43528,8 @@ landscape:
                   acquiree: Airkit
                 - date: '2023-12-18'
                   acquiree: Spiff
+                - date: '2024-08-01'
+                  acquiree: PredictSpring
               parents: []
               ticker: CRM
               funding: 65375124
@@ -44088,9 +44033,9 @@ landscape:
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://scaleops.com
-              city: Tel Aviv
-              region: Tel Aviv
-              country: Israel
+              city: New York
+              region: New York
+              country: United States
               twitter: null
               linkedin: https://www.linkedin.com/company/scaleops-sh
               acquisitions: []
@@ -44100,9 +44045,7 @@ landscape:
               company_type: For Profit
               industries:
                 - Cloud Computing
-                - Computer Vision
                 - DevOps
-                - Enterprise Resource Planning (ERP)
                 - Software Engineering
               kind: funding
             image_data:
@@ -53845,6 +53788,39 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Wegmans Food Markets
+            homepage_url: https://wegmans.com/
+            logo: wegmans_food_markets.svg
+            twitter: https://twitter.com/Wegmans
+            crunchbase: https://www.crunchbase.com/organization/wegmans
+            crunchbase_data:
+              name: Wegmans Food Markets
+              description: Wegmans offers an online platform that enables its users to find recipes, information, and tips about dieting.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.wegmans.com
+              city: New York
+              region: New York
+              country: United States
+              twitter: http://twitter.com/wegmans
+              linkedin: https://www.linkedin.com/company/wegmans-food-markets
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Apps
+                - E-Commerce
+                - Food and Beverage
+                - Hospitality
+                - Social Media
+            image_data:
+              fileName: wegmans-food-markets.svg
+              hash: 5hQ66atA0BZuZQztZa7UsDNvPVaRe8EKCNv6M5e1tjk=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Wellington Management Company, LLP
             homepage_url: https://wellington.com/
             logo: wellington_management_company_llp.svg
@@ -54368,6 +54344,77 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-19T12:58:57.000Z
+          - item:
+            name: Workday, Inc.
+            homepage_url: https://workday.com/
+            logo: workday_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/workday
+            crunchbase_data:
+              name: Workday
+              description: Workday provides SaaS-based enterprise solutions for a company's human resources and financial management activities.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.workday.com
+              city: Pleasanton
+              region: California
+              country: United States
+              twitter: http://twitter.com/Workday
+              linkedin: https://www.linkedin.com/company/workday
+              acquisitions:
+                - date: '2008-02-06'
+                  acquiree: Cape Clear Software
+                - date: '2014-02-27'
+                  acquiree: Identified
+                - date: '2015-04-25'
+                  acquiree: GridCraft
+                - date: '2015-07-14'
+                  acquiree: Upshot
+                - date: '2015-09-29'
+                  acquiree: MediaCore
+                - date: '2016-06-30'
+                  acquiree: Zaption
+                - date: '2016-07-21'
+                  acquiree: Platfora
+                - date: '2017-07-24'
+                  acquiree: Pattern
+                - date: '2018-01-16'
+                  acquiree: SkipFlag
+                - date: '2018-06-08'
+                  acquiree: Rallyteam
+                - date: '2018-06-11'
+                  acquiree: Workday Adaptive Planning
+                - date: '2018-07-17'
+                  acquiree: Stories
+                - date: '2019-07-18'
+                  acquiree: Trusted Key
+                - date: '2019-11-04'
+                  acquiree: Scout RFP
+                - date: '2021-01-28'
+                  acquiree: Peakon
+                - date: '2021-09-08'
+                  acquiree: Zimit
+                - date: '2021-11-18'
+                  acquiree: VNDLY
+                - date: '2024-02-26'
+                  acquiree: HiredScore
+              parents: []
+              ticker: WDAY
+              funding: 230550000
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Enterprise Software
+                - Human Resources
+                - SaaS
+                - Software
+            yahoo_finance_data:
+              effective_ticker: WDAY
+            image_data:
+              fileName: workday-inc.svg
+              hash: sp2AwCg8FpAzULtGeaj2N35J7D/0Ur9eHftriYdiLus=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: WorldTech IT LLC
             homepage_url: https://wtit.com/
@@ -55553,6 +55600,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T10:01:09.000Z
           - item:
+            name: Aleph Zero Foundation
+            homepage_url: https://alephzero.org/
+            logo: aleph_zero_foundation.svg
+            organization:
+              name: Aleph Zero Foundation
+            crunchbase_data:
+              name: Aleph Zero Foundation
+              parents: []
+            image_data:
+              fileName: aleph-zero-foundation.svg
+              hash: ki1U5FC1JoHBCBTrZroPfGoc+swFWvlUVuhpID27V8w=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Alliance of Blockchain Industry, Z-park
             homepage_url: https://zgc-blockchain.cn/
             logo: alliance_of_blockchain_industry_z-park.svg
@@ -55645,7 +55707,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/american-red-cross
               acquisitions: []
               parents: []
-              funding: 43253300
+              funding: 43255300
               stockExchange: null
               company_type: Non Profit
               industries:
@@ -62820,6 +62882,21 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: NYDesign
+            homepage_url: https://nydesign.org/
+            logo: nydesign.svg
+            organization:
+              name: NYDesign
+            crunchbase_data:
+              name: NYDesign
+              parents: []
+            image_data:
+              fileName: ny-design.svg
+              hash: SsS5zdbmF35afzpwWSL8U6arDLuzUZH/wykgYYndq6U=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Oak Ridge National Laboratory
             homepage_url: https://ornl.gov/
             logo: oak_ridge_national_laboratory.svg
@@ -63237,6 +63314,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T16:43:08.000Z
           - item:
+            name: Open Solutions For Government
+            homepage_url: https://ogov.org/
+            logo: open_solutions_for_government.svg
+            organization:
+              name: Open Solutions For Government
+            crunchbase_data:
+              name: Open Solutions For Government
+              parents: []
+            image_data:
+              fileName: open-solutions-for-government.svg
+              hash: MasenARMlOvIM1bdm+hiQq51uY3ITxfhLfcF2K/iVZo=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Open Source Business Alliance - Bundesverband für digitale Souveränität e.V.
             homepage_url: https://osb-alliance.com/
             logo: open_source_business_alliance_-_bundesverband_fur_digitale_souveranitat_ev.svg
@@ -63356,8 +63448,8 @@ landscape:
             crunchbase_data:
               name: Open Web Application Security Project
               description: The Open Web Application Security Project is a non-profit organization focused on improving the security of software.
-              num_employees_min: 10001
-              num_employees_max: 1000000
+              num_employees_min: 1
+              num_employees_max: 10
               homepage: http://www.owasp.org
               city: Bel Air
               region: Maryland
@@ -63947,7 +64039,7 @@ landscape:
               linkedin: https://www.linkedin.com/school/portland-state-university
               acquisitions: []
               parents: []
-              funding: 7207330
+              funding: 9107330
               stockExchange: null
               company_type: ''
               industries:
@@ -68572,4 +68664,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-08-05T04:14:23.273Z
+updated_at: 2024-08-08T03:59:27.899Z
