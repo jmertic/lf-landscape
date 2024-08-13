@@ -20762,72 +20762,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T13:05:23.000Z
           - item:
-            name: Douyin Vision Co., Ltd.
-            homepage_url: https://bytedance.com/
-            logo: douyin_vision_co_ltd.svg
-            twitter: https://twitter.com/BytedanceTalk
-            crunchbase: https://www.crunchbase.com/organization/bytedance
-            crunchbase_data:
-              name: ByteDance
-              description: ByteDance is an internet technology company that operates creative content platforms.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://bytedance.com
-              city: Beijing
-              region: Beijing
-              country: China
-              twitter: https://www.twitter.com/bytedancetalk
-              linkedin: https://www.linkedin.com/company/bytedance
-              acquisitions:
-                - date: '2016-08-16'
-                  acquiree: Xigua Shipin
-                - date: '2017-11-08'
-                  acquiree: News Republic
-                - date: '2018-01-22'
-                  acquiree: Bcy.net
-                - date: '2019-03-18'
-                  acquiree: Mokun Technology
-                - date: '2019-04-29'
-                  acquiree: Terark
-                - date: '2020-01-10'
-                  acquiree: LevelupAI
-                - date: '2020-05-20'
-                  acquiree: Baikemy.com
-                - date: '2020-08-19'
-                  acquiree: Caicloud
-                - date: '2020-09-04'
-                  acquiree: Wuhan Hezhong Yibao Technology
-                - date: '2021-04-15'
-                  acquiree: Com4Loves
-                - date: '2021-08-30'
-                  acquiree: Pico Interactive
-                - date: '2022-03-21'
-                  acquiree: Hipacloud
-                - date: '2022-08-09'
-                  acquiree: Amcare Women's and Children's Hospital
-                - date: '2022-12-07'
-                  acquiree: Mushu Information
-                - date: '2023-03-13'
-                  acquiree: Yanxuan Technology
-                - date: '2024-05-13'
-                  acquiree: Oladance
-              parents: []
-              funding: 9505000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Content
-                - Data Mining
-                - Internet
-                - Social Media
-              kind: funding
-            image_data:
-              fileName: douyin-vision-co-ltd.svg
-              hash: sEvVEMgUpdaTkTdfMz6w51cueyzW3lD+KCajpylgGOc=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Draftt
             homepage_url: https://draftt.io/
             logo: draftt.svg
@@ -23714,6 +23648,21 @@ landscape:
             image_data:
               fileName: flexnode.svg
               hash: QP8cs8dc1wnlZeLTS7kjInKu4GQVMAf0IQX653Ks+Nw=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: flox
+            homepage_url: https://flox.dev/
+            logo: flox.svg
+            organization:
+              name: flox
+            crunchbase_data:
+              name: flox
+              parents: []
+            image_data:
+              fileName: flox.svg
+              hash: hM7hH6ryprQ54obD8KGRvNaEGSnffZU3/TzqnM3kCxk=
             best_practice_data:
               badge: false
               percentage: null
@@ -36665,7 +36614,7 @@ landscape:
                   acquiree: Spry Fox
               parents: []
               ticker: NFLX
-              funding: 5007714724
+              funding: 6807714724
               stockExchange: nasdaq
               company_type: For Profit
               industries:
@@ -48641,7 +48590,7 @@ landscape:
             joined: '2023-07-01'
             crunchbase_data:
               name: Symbotic
-              description: Symbotic is a global provider of integrated supply network automation solutions for warehouses and distribution centers.
+              description: Symbotic is a provider of integrated supply network automation solutions for warehouses and distribution centers.
               num_employees_min: 1001
               num_employees_max: 5000
               homepage: https://www.symbotic.com
@@ -48650,7 +48599,9 @@ landscape:
               country: United States
               twitter: http://twitter.com/symbotictweet
               linkedin: https://www.linkedin.com/company/202610
-              acquisitions: []
+              acquisitions:
+                - date: '2024-07-19'
+                  acquiree: Veo Robotics
               parents: []
               ticker: SYM
               funding: 810000000
@@ -53837,7 +53788,7 @@ landscape:
               acquisitions: []
               parents: []
               stockExchange: null
-              company_type: For Profit
+              company_type: ''
               industries:
                 - Advice
                 - Asset Management
@@ -67415,7 +67366,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/university-of-new-south-wales
               acquisitions: []
               parents: []
-              funding: 57352508
+              funding: 193552663
               stockExchange: null
               company_type: ''
               industries:
@@ -68692,4 +68643,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-08-12T02:50:14.586Z
+updated_at: 2024-08-13T02:32:43.236Z
