@@ -11448,6 +11448,8 @@ landscape:
                   acquiree: Wonder Dynamics
                 - date: '2024-06-24'
                   acquiree: Datum360
+                - date: '2024-08-06'
+                  acquiree: Golaem
               parents: []
               ticker: ADSK
               stockExchange: nasdaq
@@ -14928,6 +14930,41 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T00:04:01.000Z
+          - item:
+            name: Cathay Financial Holding Co., Ltd.
+            homepage_url: https://cathayholdings.com/
+            logo: cathay_financial_holding_co_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/cathay-financial-holding-co-ltd
+            crunchbase_data:
+              name: Cathay Financial Holding
+              description: The largest financial holding company in Taiwan and a leading provider of financial products and services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.cathayholdings.com/
+              city: Taipei
+              region: T'ai-pei
+              country: Taiwan
+              twitter: null
+              linkedin: https://www.linkedin.com/company/cathay-financial-holdings-co--ltd-
+              acquisitions:
+                - date: '2014-11-12'
+                  acquiree: Conning
+              parents: []
+              ticker: 2882.TW
+              stockExchange: tpe
+              company_type: For Profit
+              industries:
+                - FinTech
+                - Finance
+                - Financial Services
+            yahoo_finance_data:
+              effective_ticker: 2882.TW
+            image_data:
+              fileName: cathay-financial-holding-co-ltd.svg
+              hash: FTNntVfn+OCdCqTkTwQLIkuH9IUVoC4kVxPF0GdXa9Q=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: CECloud Computing Technology Co., Ltd
             homepage_url: https://cecloud.com/
@@ -23652,14 +23689,31 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: flox
+            name: Flox
             homepage_url: https://flox.dev/
             logo: flox.svg
-            organization:
-              name: flox
+            crunchbase: https://www.crunchbase.com/organization/flox-ea31
             crunchbase_data:
-              name: flox
+              name: Flox
+              description: Flox offers developers, platform engineers, and operators reproducible environments that span the enterprise SDLC. Bringing Nix to Work!
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://flox.dev/
+              city: New York
+              region: New York
+              country: United States
+              twitter: https://twitter.com/floxdevelopment
+              linkedin: https://www.linkedin.com/company/floxdev/
+              acquisitions: []
               parents: []
+              funding: 23921027
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Technology
+                - Management Information Systems
+                - Software
+              kind: funding
             image_data:
               fileName: flox.svg
               hash: hM7hH6ryprQ54obD8KGRvNaEGSnffZU3/TzqnM3kCxk=
@@ -50772,7 +50826,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/thoughtworks
             crunchbase_data:
               name: Thoughtworks
-              description: Leading global technology consultancy that integrates strategy, design and software engineering.
+              description: Thoughtworks is a technological firm that combines strategy, design, and software engineering.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.thoughtworks.com
@@ -51222,7 +51276,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/trace3
             crunchbase_data:
               name: Trace3
-              description: Trace3 empowers organizations to keep pace with the rapidly changing IT landscape by leveraging innovative technologies.
+              description: Trace3 is a technology consultancy that provides IT strategies, business transformation solutions, and services for the clients.
               num_employees_min: 1001
               num_employees_max: 5000
               homepage: http://trace3.com/
@@ -68643,4 +68697,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-08-13T04:04:34.546Z
+updated_at: 2024-08-14T02:49:33.016Z
