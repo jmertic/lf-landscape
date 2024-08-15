@@ -3565,7 +3565,7 @@ landscape:
                   acquiree: Fungible
               parents: []
               ticker: MSFT
-              funding: 1000000
+              funding: 2000000
               stockExchange: nasdaq
               company_type: For Profit
               industries:
@@ -4103,6 +4103,7 @@ landscape:
                   acquiree: Foundries.io
               parents: []
               ticker: QCOM
+              funding: 3500000
               stockExchange: nasdaq
               company_type: For Profit
               industries:
@@ -6386,7 +6387,11 @@ landscape:
               stockExchange: nasdaq
               company_type: For Profit
               industries:
-                - Information Technology
+                - Artificial Intelligence (AI)
+                - Cloud Computing
+                - Cloud Storage
+                - SEO
+                - Software
             yahoo_finance_data:
               effective_ticker: GOOG
             image_data:
@@ -11552,6 +11557,8 @@ landscape:
                   acquiree: Celergo
                 - date: '2021-11-18'
                   acquiree: Integrated Design
+                - date: '2023-01-18'
+                  acquiree: Securax Tech Solutions
                 - date: '2023-08-03'
                   acquiree: Sora
               parents: []
@@ -11618,7 +11625,7 @@ landscape:
               parents:
                 - https://www.crunchbase.com/organization/microsoft
               ticker: MSFT
-              funding: 1000000
+              funding: 2000000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -16098,7 +16105,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/10043787
               acquisitions:
                 - date: '2024-03-05'
-                  acquiree: Kubefirst
+                  acquiree: Konstruct Inc
               parents: []
               funding: 2763669
               stockExchange: null
@@ -17467,6 +17474,8 @@ landscape:
                   acquiree: Transchem
                 - date: '2024-01-31'
                   acquiree: Bulloch Technologies
+                - date: '2024-08-12'
+                  acquiree: SPS SGS Store
               parents: []
               ticker: DOV
               stockExchange: nyse
@@ -17649,6 +17658,21 @@ landscape:
             image_data:
               fileName: co-mira-solutions-inc.svg
               hash: SK5khmk2Cv8k3uyHfhqYn3HfIAJyy2kM4EaxULL9y38=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Common Tools
+            homepage_url: https://common.tools/
+            logo: common_tools.svg
+            organization:
+              name: Common Tools
+            crunchbase_data:
+              name: Common Tools
+              parents: []
+            image_data:
+              fileName: common-tools.svg
+              hash: kxK8LYBDKaSN8+Lk86MM79A7Sb6BRFBH1PUQuOpxBYE=
             best_practice_data:
               badge: false
               percentage: null
@@ -17984,6 +18008,21 @@ landscape:
             image_data:
               fileName: control-monkey.svg
               hash: dHljikIEIJwzD5X0EFdfkBi9xPDH7tNPrKz2vs176iI=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: ControlTheory
+            homepage_url: https://controltheory.com/
+            logo: controltheory.svg
+            organization:
+              name: ControlTheory
+            crunchbase_data:
+              name: ControlTheory
+              parents: []
+            image_data:
+              fileName: control-theory.svg
+              hash: EPGBIeYwwM/hua9ROQoDDBIc+qTNHI6DlLBcb7jawyQ=
             best_practice_data:
               badge: false
               percentage: null
@@ -21642,7 +21681,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/elektrobit-eb
               acquisitions:
                 - date: '2017-11-03'
-                  acquiree: Argus Cyber Security
+                  acquiree: PlaxidityX (Formerly Argus Cyber Security LTD.)
               parents: []
               stockExchange: null
               company_type: For Profit
@@ -24290,42 +24329,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: Gatsby Inc
-            homepage_url: https://gatsbyjs.org/
-            logo: gatsby_inc.svg
-            twitter: https://twitter.com/GatsbyJS
-            crunchbase: https://www.crunchbase.com/organization/gatsby-e828
-            crunchbase_data:
-              name: Gatsby
-              description: Gatsby is a Software-as-a-service open source web development tool and framework which is customizable and extensible for any purpose.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: https://www.gatsbyjs.com
-              city: Berkeley
-              region: California
-              country: United States
-              twitter: https://twitter.com/gatsbyjs
-              linkedin: https://www.linkedin.com/company/gatsbyjs/
-              acquisitions: []
-              parents: []
-              funding: 46800000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Internet
-                - SaaS
-                - Software
-                - Web Development
-              kind: funding
-            image_data:
-              fileName: gatsby-inc.svg
-              hash: lW8PuI6fB6UhW8V2dAxrFHUZ0YGBzO+gBl/4da0TOP8=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-17T20:53:17.000Z
           - item:
             name: Gcore
             homepage_url: https://gcore.com/
@@ -29898,7 +29901,7 @@ landscape:
               region: California
               country: United States
               twitter: http://twitter.com/jfrog
-              linkedin: https://www.linkedin.com/company/455737
+              linkedin: https://www.linkedin.com/company/jfrog-ltd
               acquisitions:
                 - date: '2016-11-17'
                   acquiree: Conan
@@ -39034,35 +39037,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-19T08:00:00.000Z
           - item:
-            name: Ozone Cloud Inc.
-            homepage_url: https://ozone.one/
-            logo: ozone_cloud_inc.svg
-            twitter: https://twitter.com/ozone_cloud
-            crunchbase: https://www.crunchbase.com/organization/ozone-cd
-            crunchbase_data:
-              name: Ozone
-              description: Development teams can now automate Kubernetes application delivery end-to-end.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://ozone.one
-              city: Dubai
-              region: Dubai
-              country: United Arab Emirates
-              twitter: https://twitter.com/ozonecdf
-              linkedin: https://www.linkedin.com/company/ozone
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Software
-            image_data:
-              fileName: ozone-cloud-inc.svg
-              hash: DumR7J9hYfxtjkiaCplyzfEAv9yx8xcGn+CURggdPB4=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: P0 Security
             homepage_url: https://p0.dev/
             logo: p0_security.svg
@@ -40713,7 +40687,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/the-progressive-corporation
             crunchbase_data:
               name: Progressive
-              description: Progressive is a place where innovation and collaboration are a way of life. Each of our employees has a role in our success and together.
+              description: Progressive is a personal and commercial auto insurance company that offers a wide range of insurance products.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.progressive.com
@@ -48560,6 +48534,38 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-13T09:56:12.000Z
           - item:
+            name: Svix
+            homepage_url: https://svix.com/
+            logo: svix.svg
+            crunchbase: https://www.crunchbase.com/organization/svix
+            crunchbase_data:
+              name: Svix
+              description: Svix is the webhooks-as-a-service platform that empowers companies of all sizes to send webhooks easily and reliably.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.svix.com
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/SvixHQ
+              linkedin: https://www.linkedin.com/company/svix
+              acquisitions: []
+              parents: []
+              funding: 13002000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Developer Tools
+                - Enterprise Software
+                - Information Technology
+              kind: funding
+            image_data:
+              fileName: svix.svg
+              hash: DkzlNsOif0qbM4JnVH9DrPv5uTA3m6RCO9lsQfZJ08k=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Swisscom
             homepage_url: https://swisscom.com/
             logo: swisscom.svg
@@ -49873,7 +49879,7 @@ landscape:
                   acquiree: Start.Ca
               parents: []
               ticker: TU
-              funding: 4318690240
+              funding: 4127540602
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -57898,6 +57904,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T12:42:39.000Z
           - item:
+            name: dianastaykova.org
+            homepage_url: https://dianastaykova.org/
+            logo: dianastaykovaorg.svg
+            organization:
+              name: dianastaykova.org
+            crunchbase_data:
+              name: dianastaykova.org
+              parents: []
+            image_data:
+              fileName: dianastaykova-org.svg
+              hash: JmkJayDk3or0RXPp7QKWjtVob4ZJBIms9WhLWGD+JDQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Die QRL Stiftung
             homepage_url: https://qrl.foundation/
             logo: die_qrl_stiftung.svg
@@ -60193,7 +60214,7 @@ landscape:
                   acquiree: Fungible
               parents: []
               ticker: MSFT
-              funding: 1000000
+              funding: 2000000
               stockExchange: nasdaq
               company_type: For Profit
               industries:
@@ -61634,7 +61655,7 @@ landscape:
               parents: []
             image_data:
               fileName: lane-community-college.svg
-              hash: XGCkyrJnnS75WrmblaAkOGuj1pFc8Yjjw9QlK+kWBVc=
+              hash: GG1WcWF67a9wQM/sIblBvhc/TRq1XDL/BXbkES/UE5o=
             best_practice_data:
               badge: false
               percentage: null
@@ -68697,4 +68718,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-08-14T04:21:09.984Z
+updated_at: 2024-08-15T02:49:40.735Z
