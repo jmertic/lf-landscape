@@ -14,7 +14,7 @@ jobs:
         with:
           egress-policy: audit
 
-      - uses: jmertic/lfx-landscape-tools@cd76f1898518a071394b3243d8197f3f396e3acd # main
+      - uses: jmertic/lfx-landscape-tools@a90b284fd843ce6ed6421c15ff5c229b8f27f9ae # main
         with:
           project_processing: skip
         env:
