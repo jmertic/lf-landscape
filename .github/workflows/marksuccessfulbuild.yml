@@ -17,7 +17,7 @@ jobs:
           egress-policy: audit
 
       - uses: Amwam/issue-comment-action@04d3936db1a2fc02f86cad9db71cf24006019c4d # v1.3.1
-        if: ${{ github.event.issue.pull_request && contains(github.event.issue.labels.*.name, 'daily-update') }}
+        if: ${{ github.event.issue.pull_request && contains(github.event.issue.labels.*.name, 'automated-build') }}
         with:
           keywords: '["Deploy preview for *lf-landscape* ready"]'
           labels: '["automerge"]'
