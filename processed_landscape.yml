@@ -9095,12 +9095,14 @@ landscape:
                   acquiree: Trans World Airlines
                 - date: '2015-10-01'
                   acquiree: US Airways
-              parents: []
+              parents:
+                - https://www.crunchbase.com/organization/american-airlines
               ticker: AAL
               funding: 1000000000
               stockExchange: nasdaq
               company_type: For Profit
               industries:
+                - Aerospace
                 - Automotive
                 - Transportation
                 - Travel
@@ -10207,37 +10209,19 @@ landscape:
             name: Aptum (member)
             homepage_url: https://aptum.com/
             logo: aptum.svg
-            crunchbase: https://www.crunchbase.com/organization/cloudops
-            crunchbase_data:
-              name: CloudOps
-              description: CloudOps is a consulting, managed services, and software firm specializing in open source, cloud native platforms, networking, and DevOps.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: http://cloudops.com
-              city: Montréal
-              region: Quebec
-              country: Canada
-              twitter: https://twitter.com/CloudOps_
+            organization:
+              name: Aptum
               linkedin: https://www.linkedin.com/company/cloudops
-              acquisitions: []
+            crunchbase_data:
+              name: Aptum
+              linkedin: https://www.linkedin.com/company/cloudops
               parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Architecture
-                - Cloud Computing
-                - Cloud Management
-                - DevOps
-                - Information Technology
-                - Software
             image_data:
               fileName: aptum-member.svg
               hash: uyHps9C6a0JbeIy2GWUhS8bqba/b/J7M4EM5YrMMsi8=
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-01-12T17:52:52.000Z
           - item:
             name: Aqua Security Software, Inc. (member)
             homepage_url: https://aquasec.com/
@@ -17890,34 +17874,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Container Solutions BV (member)
-            homepage_url: https://container-solutions.com/
-            logo: container_solutions_bv.svg
-            crunchbase: https://www.crunchbase.com/organization/container-solutions
-            crunchbase_data:
-              name: Container Solutions
-              description: Container Solutions specialises in helping customers to shorten the time it takes to deploy, rollback.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: http://container-solutions.com
-              city: Amsterdam
-              region: Noord-Holland
-              country: The Netherlands
-              twitter: https://twitter.com/containersoluti
-              linkedin: https://www.linkedin.com/company/container-solutions
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Information Technology
-            image_data:
-              fileName: container-solutions-bv-member.svg
-              hash: UhkZRKBxEQQnkDm/TGRCokpzBHuXZssAVmQdwrNJVhE=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Control-Plane.io (member)
             homepage_url: https://control-plane.io/
             logo: control_plane.svg
@@ -23033,7 +22989,7 @@ landscape:
               kind: funding
             image_data:
               fileName: evenkeel-inc-d-b-a-densify-member.svg
-              hash: D05HZFiA57JV0qMibSzoR3DTGhSCRLvfLSrwJuRIYds=
+              hash: bT4wqROiIEZhioo7P3IucQB0ozf2+6RlUHG9p6dkagw=
             best_practice_data:
               badge: false
               percentage: null
@@ -42211,7 +42167,7 @@ landscape:
                 - date: '2023-11-14'
                   acquiree: Asserts
               parents: []
-              funding: 535230000
+              funding: 805230000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -49590,40 +49546,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Tassets Inc (member)
-            homepage_url: https://tassets.com/
-            logo: tassets_inc.svg
-            twitter: https://twitter.com/RealtoApps
-            crunchbase: https://www.crunchbase.com/organization/tassets-e830
-            crunchbase_data:
-              name: TASSETS
-              description: TASSETS is an AI and blockchain platform that provides financial solutions and technology services for asset tokenization as a service.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.tassets.com
-              city: Santa Clara
-              region: California
-              country: United States
-              twitter: https://twitter.com/tassetsinc
-              linkedin: https://www.linkedin.com/company/tassets
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Artificial Intelligence (AI)
-                - Blockchain
-                - Financial Services
-                - Information Technology
-                - Payments
-                - Software
-            image_data:
-              fileName: tassets-inc-member.svg
-              hash: uVKDfPbFnSkTkF+s/gz+wOUchoHLp0ldQWZhNEHiL3Q=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Tata Communications Limited (member)
             homepage_url: https://tatacommunications.com/
             logo: tata_communications_limited.svg
@@ -50283,7 +50205,7 @@ landscape:
               kind: funding
             image_data:
               fileName: tenstorrent-member.svg
-              hash: mq4GwObUgl3NSPkeXk3bXPZLeDCfKbLGLrBE6gountg=
+              hash: TwtDuwIO29B2BgMuiHuAbbZ7Kv7cCUphaEJdXrvYTx0=
             best_practice_data:
               badge: false
               percentage: null
@@ -53803,41 +53725,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T09:06:59.000Z
           - item:
-            name: Wanclouds Inc. (member)
-            homepage_url: https://wanclouds.net/
-            logo: wanclouds_inc.svg
-            twitter: https://twitter.com/WanClouds
-            crunchbase: https://www.crunchbase.com/organization/wanclouds
-            crunchbase_data:
-              name: Wanclouds Inc.
-              description: Re-Imagining Multi-Cloud Migrations, Disaster Recovery, Visualization, and Compliance delivered as a Service
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: https://www.wanclouds.net/
-              city: Santa Clara
-              region: California
-              country: United States
-              twitter: https://twitter.com/WancloudsInc
-              linkedin: https://www.linkedin.com/company/wanclouds-inc
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-                - Cloud Infrastructure
-                - Cloud Management
-                - SaaS
-                - Software
-            image_data:
-              fileName: wanclouds-inc-member.svg
-              hash: a6mRpJCIaFKtSWXvA/A102hTPG9fjRn18cfgHDuPOOw=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2017-04-26T03:31:42.000Z
-          - item:
             name: Wargaming.net Limited (member)
             homepage_url: https://wargaming.net/
             logo: wargaming.svg
@@ -55391,6 +55278,35 @@ landscape:
             image_data:
               fileName: zoi-member.svg
               hash: XW767udSt/Nu2zfbtNDXvMfdB3UmpApN22RM+t7mBJ4=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Zoniqx Inc. (member)
+            homepage_url: https://zoniqx.com/
+            logo: zoniqx_inc.svg
+            twitter: https://twitter.com/RealtoApps
+            crunchbase: https://www.crunchbase.com/organization/zoniqx
+            crunchbase_data:
+              name: ZoniqX
+              description: Low-code platform that enables users to tokenize real-world assets
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://www.zoniqx.com/
+              city: Palo Alto
+              region: California
+              country: United States
+              twitter: https://twitter.com/zoniqxinc
+              linkedin: https://www.linkedin.com/company/zoniqx/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Financial Services
+            image_data:
+              fileName: zoniqx-inc-member.svg
+              hash: 5yZAsQDZGTKxoUWTRt8saUrNbIly7SKN/sBGSooQAiU=
             best_practice_data:
               badge: false
               percentage: null
@@ -62259,8 +62175,8 @@ landscape:
             crunchbase_data:
               name: Los Alamos National Laboratory
               description: Los Alamos National Laboratory, a multidisciplinary research institution engaged in strategic science on behalf of national security, is
-              num_employees_min: 5001
-              num_employees_max: 10000
+              num_employees_min: 10001
+              num_employees_max: 1000000
               homepage: http://www.lanl.gov
               city: Los Alamos
               region: New Mexico
@@ -65181,7 +65097,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/rochester-institute-of-technology
               acquisitions: []
               parents: []
-              funding: 5148635
+              funding: 8148635
               stockExchange: null
               company_type: ''
               industries:
@@ -69282,4 +69198,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-08-21T02:53:36.814Z
+updated_at: 2024-08-22T02:52:23.885Z
