@@ -5103,6 +5103,8 @@ landscape:
                   acquiree: CAMELOT Management Consultants
                 - date: '2024-08-02'
                   acquiree: Boslan
+                - date: '2024-08-27'
+                  acquiree: consus.health
               parents: []
               ticker: CSA.F
               funding: 6000000
@@ -6874,11 +6876,11 @@ landscape:
               description: 3-shake is a technology company that provides data analysis, adtech platform, security diagnostic, and process automation solutions.
               num_employees_min: 101
               num_employees_max: 250
-              homepage: https://www.3-shake.com
+              homepage: https://3-shake.com/
               city: Tokyo
               region: Tokyo
               country: Japan
-              twitter: https://twitter.com/3shake_inc
+              twitter: https://x.com/3shake_inc
               linkedin: https://www.linkedin.com/company/3-shake
               acquisitions: []
               parents: []
@@ -22786,25 +22788,23 @@ landscape:
             twitter: https://twitter.com/Densify
             crunchbase: https://www.crunchbase.com/organization/cirba-inc
             crunchbase_data:
-              name: Densify
-              description: Cost optimization and control for cloud and container infrastructure
+              name: Cirba
+              description: Patented VMware optimization technology acquired by Broadcom (AVGO)
               num_employees_min: 101
               num_employees_max: 250
-              homepage: https://www.densify.com
+              homepage: https://www.cirba.com
               city: Markham
               region: Ontario
               country: Canada
-              twitter: https://twitter.com/densify
-              linkedin: https://www.linkedin.com/company/densify
+              twitter: null
+              linkedin: null
               acquisitions: []
               parents: []
               funding: 38225000
               stockExchange: null
               company_type: For Profit
               industries:
-                - Cloud Infrastructure
                 - Computer
-                - DevOps
                 - Infrastructure
                 - Predictive Analytics
                 - Software
@@ -29105,7 +29105,7 @@ landscape:
               kind: funding
             image_data:
               fileName: intensivate-inc-member.svg
-              hash: pW7wDpGPKQk3oQ2w4/PMLpwhj/a+AftGnL3XD4El2dk=
+              hash: HrefNLbfy+LZY7TzeO0XHKqg4jDlKpS4JyVKO451wp4=
             best_practice_data:
               badge: false
               percentage: null
@@ -33590,21 +33590,24 @@ landscape:
             twitter: https://twitter.com/Yahoo_JAPAN_PR
             crunchbase: https://www.crunchbase.com/organization/ly-corporation
             crunchbase_data:
-              name: LY Corporation
-              description: LY Corporation provides various services, including "LINE" (communication app) and Yahoo! JAPAN (comprehensive Internet service).
-              num_employees_min: 5001
-              num_employees_max: 10000
+              name: LINE Yahoo
+              description: LINE Yahoo is an internet company that provides e-commerce and finance services for enterprises as well as offers advertising services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
               homepage: https://www.lycorp.co.jp/
               city: Tokyo
               region: Tokyo
               country: Japan
-              twitter: null
-              linkedin: null
+              twitter: https://x.com/lycorp_jp?lang=en
+              linkedin: https://www.linkedin.com/company/linecorp/
               acquisitions: []
               parents: []
               stockExchange: null
-              company_type: ''
-              industries: []
+              company_type: For Profit
+              industries:
+                - Advertising
+                - Business Information Systems
+                - Internet of Things
             image_data:
               fileName: ly-corporation-member.svg
               hash: D3K4VxyLKFcq3thLbhPvSlE7/jV2CvtHLmviZQ3D6xI=
@@ -41640,14 +41643,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/r3-cev
             crunchbase_data:
               name: R3
-              description: R3 is a financial innovation firm dedicated to the design and deployment of DLT to build the new operating system for financial services.
-              num_employees_min: 101
-              num_employees_max: 250
+              description: R3 is a financial innovation firm focusing on designing and implementing distributed ledger technology for modernizing financial services.
+              num_employees_min: 251
+              num_employees_max: 500
               homepage: http://r3.com
               city: New York
               region: New York
               country: United States
-              twitter: https://twitter.com/inside_r3
+              twitter: https://x.com/inside_r3
               linkedin: https://www.linkedin.com/company/r3cev-llc
               acquisitions:
                 - date: '2021-10-12'
@@ -41669,8 +41672,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-21T11:00:07.000Z
           - item:
             name: Rackner (member)
             homepage_url: https://rackner.com/
@@ -54036,9 +54037,9 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T00:00:56.000Z
           - item:
-            name: Wing Programming Language (member)
+            name: Wing Programming Language [Monada EBS LTD] (member)
             homepage_url: https://winglang.io/
-            logo: wing_programming_language.svg
+            logo: wing_programming_language_monada_ebs_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/wing-6186
             crunchbase_data:
               name: Wing Cloud
@@ -54069,7 +54070,7 @@ landscape:
                 - Software Engineering
               kind: funding
             image_data:
-              fileName: wing-programming-language-member.svg
+              fileName: wing-programming-language-monada-ebs-ltd-member.svg
               hash: aL27I45q2bluVIJ3ITS7TkLiYTVVc+7mLv3B/asR+EE=
             best_practice_data:
               badge: false
@@ -68995,4 +68996,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-08-27T04:12:23.234Z
+updated_at: 2024-08-28T02:49:41.457Z
