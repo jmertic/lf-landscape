@@ -10161,14 +10161,14 @@ landscape:
             crunchbase_data:
               name: Apptio
               description: Apptio is a provider of SaaS-based Technology Business Management (TBM) solutions for managing businesses in the IT field.
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: http://www.apptio.com
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: https://www.apptio.com/
               city: Bellevue
               region: Washington
               country: United States
-              twitter: http://twitter.com/apptio
-              linkedin: https://www.linkedin.com/company/apptio
+              twitter: https://x.com/apptio
+              linkedin: https://www.linkedin.com/company/apptio-an-ibm-company/
               acquisitions:
                 - date: '2012-12-12'
                   acquiree: Raveld
@@ -14915,9 +14915,9 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T20:04:35.000Z
           - item:
-            name: Celestica International LP, by its General Partner,Celestica International GP Inc (member)
+            name: Celestica (member)
             homepage_url: https://celestica.com/
-            logo: celestica_international_lp_by_its_general_partner_celestica_international_gp_inc.svg
+            logo: celestica.svg
             twitter: https://twitter.com/Celestica_Inc
             crunchbase: https://www.crunchbase.com/organization/celestica
             crunchbase_data:
@@ -14959,7 +14959,7 @@ landscape:
             yahoo_finance_data:
               effective_ticker: CTW.F
             image_data:
-              fileName: celestica-international-lp-by-its-general-partner-celestica-international-gp-inc-member.svg
+              fileName: celestica-member.svg
               hash: YzMkxA59WCf7zDtsCa9nfT4CfQFrWagPPQgpILRTMog=
             best_practice_data:
               badge: false
@@ -55580,34 +55580,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Alliance of Blockchain Industry, Z-park (member)
-            homepage_url: https://zgc-blockchain.cn/
-            logo: alliance_of_blockchain_industry_z_park.svg
-            crunchbase: https://www.crunchbase.com/organization/alliance-of-blockchain-industry-z-park
-            crunchbase_data:
-              name: Alliance of Blockchain Industry, Z-park
-              description: non-profit organization, voluntarily founded by 70 more founding members.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: http://zgc-blockchain.cn/
-              city: Beijing
-              region: Beijing
-              country: China
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: Non Profit
-              industries:
-                - Information Technology
-            image_data:
-              fileName: alliance-of-blockchain-industry-z-park-member.svg
-              hash: IoWlsgqA2QV8020bOruAxJvkRc+4k4w/vX3uPcNhTY0=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: AlmaLinux (member)
             homepage_url: https://almalinux.org/
             logo: almalinux.svg
@@ -55780,7 +55752,7 @@ landscape:
               linkedin: https://www.linkedin.com/school/arizona-state-university
               acquisitions: []
               parents: []
-              funding: 63368129
+              funding: 64368128
               stockExchange: null
               company_type: ''
               industries:
@@ -55796,41 +55768,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T00:00:54.000Z
-          - item:
-            name: Auburn University RFID Lab (member)
-            homepage_url: https://auburn.edu/
-            logo: auburn_university_rfid_lab.svg
-            twitter: https://twitter.com/AuburnU
-            crunchbase: https://www.crunchbase.com/organization/auburn-university
-            crunchbase_data:
-              name: Auburn University
-              description: Auburn University is an institute of higher learning that offers undergraduate and graduate courses.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://www.auburn.edu/
-              city: Auburn University
-              region: Alabama
-              country: United States
-              twitter: https://www.twitter.com/auburnu
-              linkedin: https://www.linkedin.com/school/auburn-university/
-              acquisitions: []
-              parents: []
-              funding: 25842253
-              stockExchange: null
-              company_type: ''
-              industries:
-                - Education
-                - Higher Education
-                - Universities
-              kind: funding
-            image_data:
-              fileName: auburn-university-rfid-lab-member.svg
-              hash: fY9/pPdxTv/VdmnBoD3fAmOr3E6WcDAvweVWXm0tJbQ=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T16:47:17.000Z
           - item:
             name: Australian Research Data Commons (member)
             homepage_url: https://ardc.edu.au/
@@ -56106,41 +56043,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-18T13:01:40.000Z
           - item:
-            name: Blockchain at Berkeley (member)
-            homepage_url: https://blockchain.berkeley.edu/
-            logo: blockchain_at_berkeley.svg
-            crunchbase: https://www.crunchbase.com/organization/university-of-california-berkeley
-            crunchbase_data:
-              name: University of California Berkeley
-              description: University of California Berkeley is a public institution for higher education.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.berkeley.edu
-              city: Berkeley
-              region: California
-              country: United States
-              twitter: https://www.twitter.com/UCBerkeley
-              linkedin: https://www.linkedin.com/school/uc-berkeley
-              acquisitions: []
-              parents: []
-              funding: 19707914
-              stockExchange: null
-              company_type: ''
-              industries:
-                - Continuing Education
-                - Education
-                - Higher Education
-                - Universities
-              kind: funding
-            image_data:
-              fileName: blockchain-at-berkeley-member.svg
-              hash: igEQU9DgLPWp5V4wvJHhsAVl6uVl2wQBBiX5wfngfs0=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T22:58:46.000Z
-          - item:
             name: Bluenumber (member)
             homepage_url: https://bluenumber.org/
             logo: bluenumber.svg
@@ -56287,35 +56189,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-04-29T07:04:07.000Z
-          - item:
-            name: Business School of Hunan University (member)
-            homepage_url: https://ibschool.hnu.edu.cn/
-            logo: business_school_of_hunan_university.svg
-            crunchbase: https://www.crunchbase.com/organization/hunanuniversity
-            crunchbase_data:
-              name: Hunan University
-              description: Hunan University is one of the oldest and most important national universities in China.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: http://www-en.hnu.edu.cn/
-              city: Changsha
-              region: Jiangsu
-              country: China
-              twitter: https://twitter.com/hunanuniv?lang=en
-              linkedin: https://www.linkedin.com/edu/hunan-university-11194
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: ''
-              industries: []
-            image_data:
-              fileName: business-school-of-hunan-university-member.svg
-              hash: IC/zTz25CS+1/BMetrasBRgQRJXTMHgYJt2mPw5qSVk=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-12-21T10:56:42.000Z
           - item:
             name: Call for Code (member)
             homepage_url: https://callforcode.org/
@@ -56831,41 +56704,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-19T15:07:05.000Z
-          - item:
-            name: Cambridge Centre for Alternative Finance (member)
-            homepage_url: https://jbs.cam.ac.uk/
-            logo: cambridge_centre_for_alternative_finance.svg
-            twitter: https://twitter.com/Cambridge_Uni
-            crunchbase: https://www.crunchbase.com/organization/university-of-cambridge
-            crunchbase_data:
-              name: University of Cambridge
-              description: The University of Cambridge is a public research university that offers a diverse range of undergraduate and graduate programs.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.cam.ac.uk
-              city: Cambridge
-              region: Cambridgeshire
-              country: United Kingdom
-              twitter: http://twitter.com/cambridge_uni
-              linkedin: https://www.linkedin.com/company/university-of-cambridge
-              acquisitions: []
-              parents: []
-              funding: 144148584
-              stockExchange: null
-              company_type: ''
-              industries:
-                - Education
-                - Higher Education
-                - Universities
-              kind: funding
-            image_data:
-              fileName: cambridge-centre-for-alternative-finance-member.svg
-              hash: DB72yLd4be0JGDtYaTpzbQOqHa1bieAmiHoaw3rKotk=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-21T10:44:09.000Z
           - item:
             name: Canada Health Infoway (member)
             homepage_url: https://infoway-inforoute.ca/
@@ -57504,37 +57342,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: Construction Blockchain Consortium (member)
-            homepage_url: https://constructionblockchain.org/
-            logo: construction_blockchain_consortium.svg
-            twitter: https://twitter.com/CBC_UCL
-            crunchbase: https://www.crunchbase.com/organization/construction-blockchain-consortium
-            crunchbase_data:
-              name: Construction Blockchain Consortium
-              description: CBC aims are to become the leading construction industries knowledge transfer consortium in collaboration with a premier university.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: https://www.constructionblockchain.org
-              city: London
-              region: England
-              country: United Kingdom
-              twitter: null
-              linkedin: https://www.linkedin.com/company/construction-blockchain
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Construction
-            image_data:
-              fileName: construction-blockchain-consortium-member.svg
-              hash: RTLtconT6l+bZhLZse+LFuyHDncCoOlPTi/2V0szjIo=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-06T12:44:08.000Z
           - item:
             name: Continuous Delivery Foundation (member)
             homepage_url: https://cd.foundation/
@@ -59342,35 +59149,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-19T17:15:02.000Z
           - item:
-            name: Fujian Blockchain Association (member)
-            homepage_url: https://fjchain.net/
-            logo: fujian_blockchain_association.svg
-            crunchbase: https://www.crunchbase.com/organization/fujian-blockchian-association
-            crunchbase_data:
-              name: Fujian Blockchian Association
-              description: Baas (blockchian as a service)
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.fjchain.net/
-              city: Xiamen
-              region: Fujian
-              country: China
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: Non Profit
-              industries:
-                - Information Technology
-                - Internet
-            image_data:
-              fileName: fujian-blockchain-association-member.svg
-              hash: RCnJS860m0tdTkwm8IMfi0Xg4AdeV1dH00fxh2jXvbs=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Galgotias University (member)
             homepage_url: https://galgotiasuniversity.edu.in/
             logo: galgotias_university.svg
@@ -59605,38 +59383,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-06T10:17:58.000Z
-          - item:
-            name: Government of Bermuda (member)
-            homepage_url: https://gov.bm/
-            logo: government_of_bermuda.svg
-            crunchbase: https://www.crunchbase.com/organization/government-of-bermuda
-            crunchbase_data:
-              name: Government of Bermuda
-              description: Government of Bermuda is a place to find government information and services.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: http://www.gov.bm/
-              city: Hamilton
-              region: Hamilton
-              country: Bermuda
-              twitter: https://twitter.com/BdaGovernment?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
-              linkedin: https://www.linkedin.com/company/the-government-of-bermuda/about/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: Non Profit
-              industries:
-                - GovTech
-                - Government
-                - Politics
-            image_data:
-              fileName: government-of-bermuda-member.svg
-              hash: +a0pYXVvCvm6RVJnbRTPle6f/HWYXsAlpQ7FtEGN8ss=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T18:38:24.000Z
           - item:
             name: GovTech Singapore (member)
             homepage_url: https://tech.gov.sg/
@@ -61226,7 +60972,7 @@ landscape:
               linkedin: https://www.linkedin.com/edu/school?id=50016&trk=edu-cp-title
               acquisitions: []
               parents: []
-              funding: 4511362
+              funding: 5511362
               stockExchange: null
               company_type: ''
               industries:
@@ -62860,7 +62606,7 @@ landscape:
               linkedin: https://www.linkedin.com/school/new-york-university
               acquisitions: []
               parents: []
-              funding: 27197142
+              funding: 28197142
               stockExchange: null
               company_type: ''
               industries:
@@ -64075,39 +63821,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-18T17:04:43.000Z
           - item:
-            name: Peking University (member)
-            homepage_url: https://pku.edu.cn/
-            logo: peking_university.svg
-            twitter: https://twitter.com/PKU1898
-            crunchbase: https://www.crunchbase.com/organization/peking-university
-            crunchbase_data:
-              name: Peking University
-              description: Peking University, is a major Chinese research university located in Beijing and a member of the C9 League.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.pku.edu.cn/
-              city: Beijing
-              region: Beijing
-              country: China
-              twitter: null
-              linkedin: https://www.linkedin.com/company/peking-university
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: ''
-              industries:
-                - Education
-                - Knowledge Management
-                - Universities
-            image_data:
-              fileName: peking-university-member.svg
-              hash: xw7r5i/o9CkgffrXfH06FFZXLZZZDDCBpCqN3DGSrWM=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-21T04:12:26.000Z
-          - item:
             name: Pengcheng Laboratory (member)
             homepage_url: https://pcl.ac.cn/
             logo: pengcheng_laboratory.svg
@@ -64222,41 +63935,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: Portland State University (member)
-            homepage_url: https://pdx.edu/
-            logo: portland_state_university.svg
-            twitter: https://twitter.com/Portland_State
-            crunchbase: https://www.crunchbase.com/organization/portland-state-university
-            crunchbase_data:
-              name: Portland State University
-              description: PSU is a public research university that offers in-person and online education courses for undergraduate and graduate programs.
-              num_employees_min: 5001
-              num_employees_max: 10000
-              homepage: http://www.pdx.edu
-              city: Portland
-              region: Oregon
-              country: United States
-              twitter: http://twitter.com/portland_state
-              linkedin: https://www.linkedin.com/school/portland-state-university
-              acquisitions: []
-              parents: []
-              funding: 9107330
-              stockExchange: null
-              company_type: ''
-              industries:
-                - EdTech
-                - Education
-                - Higher Education
-              kind: funding
-            image_data:
-              fileName: portland-state-university-member.svg
-              hash: tVqzdPut11B4TW+EggdU4X4bZCGt7IcjbhR7aF1m6o0=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T20:01:44.000Z
           - item:
             name: Pranveer Singh Institute Of Technology (member)
             homepage_url: https://psit.ac.in/
@@ -65792,36 +65470,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-19T08:42:21.000Z
           - item:
-            name: Sun Yat-sen University (member)
-            homepage_url: https://sysu.edu.cn/
-            logo: sun_yat_sen_university.svg
-            twitter: https://twitter.com/SunYatsen_Uni
-            crunchbase: https://www.crunchbase.com/organization/sun-yat-sen-university
-            crunchbase_data:
-              name: Sun Yat-sen University
-              description: Sun Yat-sen University is a public university in Guangdong, People's Republic of China.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.sysu.edu.cn/2012/en/index.htm
-              city: Guangzhou
-              region: Guangdong
-              country: China
-              twitter: null
-              linkedin: https://www.linkedin.com/edu/sun-yat-sen-university-11374
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: ''
-              industries:
-                - Education
-                - Universities
-            image_data:
-              fileName: sun-yat-sen-university-member.svg
-              hash: SwBJfghUwrnKLP6DnwJKZLmjIEE3xVgrZ9x14kTZSqo=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Sustainable Digital Infrastructure Alliance (SDIA) (member)
             homepage_url: https://sdialliance.org/
             logo: sustainable_digital_infrastructure_alliance_sdia.svg
@@ -66503,38 +66151,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-13T18:05:29.000Z
           - item:
-            name: The University of Hong Kong (member)
-            homepage_url: https://hku.hk/
-            logo: the_university_of_hong_kong.svg
-            twitter: https://twitter.com/HKUniversity
-            crunchbase: https://www.crunchbase.com/organization/the-university-of-hong-kong
-            crunchbase_data:
-              name: The University of Hong Kong
-              description: The University of Hong Kong, as a leading international institution of higher learning in Asia, strives to attract and nurture outstanding.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: http://www.hku.hk/
-              city: Hong Kong
-              region: Hong Kong Island
-              country: Hong Kong
-              twitter: https://twitter.com/hkuniversity
-              linkedin: https://www.linkedin.com/school/universityofhongkong
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: ''
-              industries:
-                - Education
-                - Universities
-            image_data:
-              fileName: the-university-of-hong-kong-member.svg
-              hash: AnuvyTrI8wndJ4jjSYogfMcD2//FgE2Dk6090doQIAc=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T07:21:55.000Z
-          - item:
             name: Thinkerland (member)
             homepage_url: https://thinkerland.org/
             logo: thinkerland.svg
@@ -66957,45 +66573,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: Universidad Tecnológica Nacional - Facultad Regional Córdoba (member)
-            homepage_url: https://frc.utn.edu.ar/
-            logo: universidad_tecnologica_nacional_facultad_regional_cordoba.svg
-            crunchbase: https://www.crunchbase.com/organization/national-technological-university
-            crunchbase_data:
-              name: National Technological University
-              description: National Technological University is the leading Engineering University in Argentina
-              num_employees_min: 251
-              num_employees_max: 500
-              homepage: https://www.utn.edu.ar/
-              city: Buenos Aires
-              region: Distrito Federal
-              country: Argentina
-              twitter: https://twitter.com/SomosLaSEU
-              linkedin: https://www.linkedin.com/company/universidad-tecnol-gica-nacional---facultad-regional-c-rdoba/
-              acquisitions: []
-              parents: []
-              funding: 20000000
-              stockExchange: null
-              company_type: ''
-              industries:
-                - Chemical Engineering
-                - Civil Engineering
-                - Education
-                - Higher Education
-                - Industrial Engineering
-                - Mechanical Engineering
-                - Software Engineering
-                - Universities
-              kind: funding
-            image_data:
-              fileName: universidad-tecnol-gica-nacional-facultad-regional-c-rdoba-member.svg
-              hash: ZSuUQ9dxiPJJKspy/kqOsWi+7fYxzzcOGuMEn5tFPc0=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-09-12T12:09:25.000Z
           - item:
             name: Universidade Federal Rural do Semi-Árido - Ufersa (member)
             homepage_url: https://ufersa.edu.br/
@@ -67667,37 +67244,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T05:43:30.000Z
           - item:
-            name: University of Nicosia (member)
-            homepage_url: https://unic.ac.cy/
-            logo: university_of_nicosia.svg
-            twitter: https://twitter.com/UNIC_ENG
-            crunchbase: https://www.crunchbase.com/organization/university-of-nicosia
-            crunchbase_data:
-              name: University of Nicosia
-              description: 'The University of Nicosia (UNIC) is considered the global leader in Digital Currencies and Blockchain education. '
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: http://www.unic.ac.cy
-              city: Nicosia
-              region: Nicosia
-              country: Cyprus
-              twitter: http://twitter.com/Uni_of_Nicosia
-              linkedin: https://www.linkedin.com/school/university-of-nicosia/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: ''
-              industries:
-                - Education
-            image_data:
-              fileName: university-of-nicosia-member.svg
-              hash: arUJvsSFv6gz99Z91r+5m6jtX1McbnVWViuRMWVISNs=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-21T07:07:21.000Z
-          - item:
             name: University of Rochester Medical Center (member)
             homepage_url: https://urmc.rochester.edu/
             logo: university_of_rochester_medical_center.svg
@@ -67730,36 +67276,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T20:52:00.000Z
-          - item:
-            name: University of Rome Tor Vergata (member)
-            homepage_url: https://uniroma2.it/
-            logo: university_of_rome_tor_vergata.svg
-            twitter: https://twitter.com/fb_uniroma2
-            crunchbase: https://www.crunchbase.com/organization/university-of-rome-tor-vergata
-            crunchbase_data:
-              name: University of Rome "Tor Vergata"
-              description: University of Rome Tor Vergata is a school in Rome.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: http://web.uniroma2.it/
-              city: Rome
-              region: Lazio
-              country: Italy
-              twitter: http://twitter.com/Uniroma2News
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: ''
-              industries: []
-            image_data:
-              fileName: university-of-rome-tor-vergata-member.svg
-              hash: O4+YX1qDYLX3bLWvYKYo6Bh5cDCW4+2JhAKW8Uz/n8M=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-19T13:49:31.000Z
           - item:
             name: University of Salento (member)
             homepage_url: https://unisalento.it/
@@ -68354,36 +67870,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Vilnius Gediminas Technical University (member)
-            homepage_url: https://vgtu.it/
-            logo: vilnius_gediminas_technical_university.svg
-            twitter: https://twitter.com/VGTU_university
-            crunchbase: https://www.crunchbase.com/organization/vilnius-gediminas-technical-university
-            crunchbase_data:
-              name: Vilnius Gediminas Technical University
-              description: Vilnius Gediminas Technical University is a school in Vilnius.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: http://www.vgtu.lt/en/
-              city: Vilnius
-              region: Vilniaus Apskritis
-              country: Lithuania
-              twitter: http://twitter.com/manovgtu
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: ''
-              industries: []
-            image_data:
-              fileName: vilnius-gediminas-technical-university-member.svg
-              hash: iA0X50yGU7+MG+IM58fGWpgkoV6Of+v0++i+YR0CkRY=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2017-10-17T07:36:10.000Z
-          - item:
             name: Virginia Bureau of Insurance (member)
             homepage_url: https://scc.virginia.gov/
             logo: virginia_bureau_of_insurance.svg
@@ -68916,36 +68402,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T22:19:48.000Z
           - item:
-            name: Zhejiang Block Chain Technology Application Association (member)
-            homepage_url: https://hzzbta.com/
-            logo: zhejiang_block_chain_technology_application_association.svg
-            twitter: https://twitter.com/dnx
-            crunchbase: https://www.crunchbase.com/organization/zhejiang-block-chain-technology-application-association
-            crunchbase_data:
-              name: Zhejiang Blockchain Technology Application Association
-              description: Blockchain Association
-              num_employees_min: null
-              num_employees_max: null
-              homepage: http://www.hzzbta.com/
-              city: Hangzhou
-              region: Zhejiang
-              country: China
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries: []
-            image_data:
-              fileName: zhejiang-block-chain-technology-application-association-member.svg
-              hash: H/sKjuh3cZmSnW8Fy0NFKjr6Kc84NAlrRxwYzKUGf5g=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-03-21T20:11:42.000Z
-          - item:
             name: Zhejiang University (member)
             homepage_url: https://zju.edu.cn/
             logo: zhejiang_university.svg
@@ -68977,4 +68433,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-08-30T02:49:27.156Z
+updated_at: 2024-08-31T02:48:14.013Z
