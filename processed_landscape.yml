@@ -13382,16 +13382,16 @@ landscape:
             twitter: https://twitter.com/Boeing
             crunchbase: https://www.crunchbase.com/organization/boeing-7321
             crunchbase_data:
-              name: Company
-              description: Company
+              name: Boeing
+              description: Boeing is an aerospace company that manufactures commercial jetliners, defense, space and security systems, and global services.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: null
+              homepage: http://www.boeing.com/
               city: Chicago
               region: Illinois
               country: United States
-              twitter: null
-              linkedin: null
+              twitter: https://twitter.com/Boeing?s=20&t=qSeHQufNeFK6FGMEsX--2w
+              linkedin: https://www.linkedin.com/company/boeing/
               acquisitions: []
               parents: []
               stockExchange: null
@@ -16146,7 +16146,7 @@ landscape:
               city: Tokyo
               region: Tokyo
               country: Japan
-              twitter: https://twitter.com/cloudace_jp
+              twitter: https://x.com/cloudace_jp
               linkedin: https://www.linkedin.com/company/cloud-ace
               acquisitions: []
               parents: []
@@ -16165,8 +16165,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-17T01:00:39.000Z
           - item:
             name: Cloud Kinetics (member)
             homepage_url: https://cloud-kinetics.com/
@@ -23631,8 +23629,8 @@ landscape:
             crunchbase_data:
               name: Finout
               description: The single source of truth for usage-based cost
-              num_employees_min: 11
-              num_employees_max: 50
+              num_employees_min: 51
+              num_employees_max: 100
               homepage: https://finout.io
               city: Tel Aviv
               region: Tel Aviv
@@ -36058,9 +36056,11 @@ landscape:
                   acquiree: kompany
                 - date: '2022-02-02'
                   acquiree: Global Credit Ratings
-              parents: []
+              parents:
+                - https://www.crunchbase.com/organization/moody-s-708b
               ticker: MCO
-              stockExchange: nyse
+              funding: 5487819
+              stockExchange: null
               company_type: For Profit
               industries:
                 - Analytics
@@ -68948,4 +68948,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-09-03T04:30:16.525Z
+updated_at: 2024-09-04T02:52:17.846Z
