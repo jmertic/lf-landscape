@@ -14158,7 +14158,7 @@ landscape:
               city: San Jose
               region: California
               country: United States
-              twitter: http://twitter.com/Cadence
+              twitter: https://x.com/Cadence
               linkedin: https://www.linkedin.com/company/cadence-design-systems
               acquisitions:
                 - date: '1989-01-01'
@@ -18681,15 +18681,15 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cybertrust
             crunchbase_data:
               name: Cybertrust
-              description: Cybertrust is a provider of a comprehensive security certification services to various public and private entities.
+              description: Cybertrust provides comprehensive security certification services to a variety of public and commercial institutions.
               num_employees_min: 251
               num_employees_max: 500
               homepage: https://www.cybertrust.co.jp/
               city: Tokyo
               region: Tokyo
               country: Japan
-              twitter: https://twitter.com/Cybertrust_JP/
-              linkedin: https://www.linkedin.com/company/サイバートラスト（株）
+              twitter: https://x.com/Cybertrust_JP/
+              linkedin: null
               acquisitions:
                 - date: '2004-09-21'
                   acquiree: Betrusted
@@ -18704,11 +18704,9 @@ landscape:
               stockExchange: tyo
               company_type: For Profit
               industries:
-                - Computer
                 - Network Security
                 - Risk Management
                 - Security
-                - Service Industry
             yahoo_finance_data:
               effective_ticker: 4498.T
             image_data:
@@ -20233,13 +20231,32 @@ landscape:
             name: Dfns (member)
             homepage_url: https://dfns.co/
             logo: dfns.svg
-            organization:
-              name: Dfns
-              linkedin: https://www.linkedin.com/company/dfnshq
+            crunchbase: https://www.crunchbase.com/organization/xkey
             crunchbase_data:
               name: Dfns
+              description: Wallet infrastructure for web3
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.dfns.co
+              city: Paris
+              region: Ile-de-France
+              country: France
+              twitter: https://twitter.com/dfnshq
               linkedin: https://www.linkedin.com/company/dfnshq
+              acquisitions: []
               parents: []
+              funding: 18995488
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Blockchain
+                - Cryptocurrency
+                - Cyber Security
+                - Developer Tools
+                - FinTech
+                - SaaS
+                - Web3
+              kind: funding
             image_data:
               fileName: dfns-member.svg
               hash: JEUMmaVvFjGwXvs7f/Sn+EtB3J3bpZUBSRk/iUFc4Fc=
@@ -22390,6 +22407,8 @@ landscape:
                   acquiree: Vates
                 - date: '2024-06-13'
                   acquiree: Odysseus Data Services
+                - date: '2024-09-04'
+                  acquiree: Neoris
               parents: []
               ticker: EPAM
               funding: 75000000
@@ -44004,6 +44023,8 @@ landscape:
                   acquiree: Spiff
                 - date: '2024-08-01'
                   acquiree: PredictSpring
+                - date: '2024-09-03'
+                  acquiree: TENYX
               parents: []
               ticker: CRM
               funding: 65375124
@@ -46052,7 +46073,7 @@ landscape:
                   acquiree: Industrial drive technology - ebm-papst
               parents: []
               ticker: SIE.DE
-              funding: 5178048063
+              funding: 5509700288
               stockExchange: etr
               company_type: For Profit
               industries:
@@ -51561,38 +51582,6 @@ landscape:
             image_data:
               fileName: tom-tom-international-b-v-member.svg
               hash: NXPijnCNQXL0u2q8v8bMzUDySHrdk/8zR/Fz/EmSxko=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: ToposWare Inc. (member)
-            homepage_url: https://toposware.com/
-            logo: toposware_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/toposware
-            crunchbase_data:
-              name: Toposware
-              description: Toposware develops a fully interoperable blockchain ecosystem powered by zero-knowledge proofs.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://toposware.com/
-              city: Boston
-              region: Massachusetts
-              country: United States
-              twitter: https://twitter.com/toposware
-              linkedin: https://www.linkedin.com/company/toposware/
-              acquisitions: []
-              parents: []
-              funding: 14075489
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Blockchain
-                - Information Technology
-                - Software
-              kind: funding
-            image_data:
-              fileName: topos-ware-inc-member.svg
-              hash: 6tUt64Uw1/gAtQt2Y4bxmV3G2YkuS9FHqyGKQ8ZzA1U=
             best_practice_data:
               badge: false
               percentage: null
@@ -68948,4 +68937,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-09-04T02:52:17.846Z
+updated_at: 2024-09-05T02:52:31.058Z
