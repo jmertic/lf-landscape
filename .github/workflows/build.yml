@@ -20,6 +20,3 @@ jobs:
           token: ${{ secrets.PAT }}
           repository: ${{ github.repository }}
           ref: ${{ github.ref }}
-      - name: Fix Red Hat logo
-        working-directory: ./landscape
-        run: cp images/red-hat-inc.svg hosted_logos/red_hat_inc.svg
