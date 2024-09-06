@@ -6752,6 +6752,23 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T10:00:00.000Z
           - item:
+            name: 1Nebula (member)
+            homepage_url: https://1nebula.com/
+            logo: 1nebula.svg
+            organization:
+              name: 1Nebula
+              linkedin: https://www.linkedin.com/company/nebula
+            crunchbase_data:
+              name: 1Nebula
+              linkedin: https://www.linkedin.com/company/nebula
+              parents: []
+            image_data:
+              fileName: 1-nebula-member.svg
+              hash: 8qAggWZfdrEg17iJWO6KuHHVbanPpInyoFXNySHiXdQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: 1Password (member)
             homepage_url: https://1password.com/
             logo: 1password.svg
@@ -17621,23 +17638,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Concourse Labs (member)
-            homepage_url: https://concourselabs.com/
-            logo: concourse_labs.svg
-            organization:
-              name: Concourse Labs
-              linkedin: https://www.linkedin.com/company/concourse-labs
-            crunchbase_data:
-              name: Concourse Labs
-              linkedin: https://www.linkedin.com/company/concourse-labs
-              parents: []
-            image_data:
-              fileName: concourse-labs-member.svg
-              hash: ChBKDSy7g96FkBGhqL89vI1hNMmhmznkB0Cctenz9w4=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: ConfidentialMind (member)
             homepage_url: https://confidentialmind.com/
             logo: confidentialmind.svg
@@ -18089,12 +18089,15 @@ landscape:
               linkedin: https://www.linkedin.com/company/cortexapp
               acquisitions: []
               parents: []
-              funding: 52650000
+              funding: 112650000
               stockExchange: null
               company_type: For Profit
               industries:
                 - Developer Platform
+                - Health Care
                 - Information Technology
+                - Mental Health
+                - Precision Medicine
                 - Productivity Tools
                 - Software
               kind: funding
@@ -18372,7 +18375,7 @@ landscape:
                 - Software
             image_data:
               fileName: crunchy-data-solutions-inc-member.svg
-              hash: vat5aZWezCk+8oPbc3qNk0xCO60pX7Azj2BZuMb/xX8=
+              hash: HSb2Qgba8s+Xoc0+PwjZcMxlhIoSTgOxmcJ3LasNAaw=
             best_practice_data:
               badge: false
               percentage: null
@@ -38508,14 +38511,29 @@ landscape:
             name: Okahu Inc (member)
             homepage_url: https://okahu.ai/
             logo: okahu_inc.svg
-            organization:
-              name: Okahu Inc
+            crunchbase: https://www.crunchbase.com/organization/okahu
             crunchbase_data:
-              name: Okahu Inc
+              name: Okahu
+              description: AI Observability as a service for LLM based apps in the cloud.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.okahu.ai
+              city: Redwood City
+              region: California
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/okahu
+              acquisitions: []
               parents: []
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Cloud Management
+                - Developer Tools
+                - Generative AI
             image_data:
               fileName: okahu-inc-member.svg
-              hash: Bk47skaA+fhnhhGg1RbJIOAMYc402SRIPZZhAcweto4=
+              hash: q7CqyTyW5OtnglXTIluf4t7piddgxBQVtuFbSE4N1QY=
             best_practice_data:
               badge: false
               percentage: null
@@ -40156,7 +40174,7 @@ landscape:
               parents: []
             image_data:
               fileName: pickford-member.svg
-              hash: tKvnZAJxO2Ebu7rVJ6FpvWtdZNyK5emgJA5hvy0Ah2g=
+              hash: uQlu5WKJE7CE+ldH9dnqonq6z7EfrhTsZZailnRVRGk=
             best_practice_data:
               badge: false
               percentage: null
@@ -53961,6 +53979,37 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T09:06:59.000Z
+          - item:
+            name: Wanchain (member)
+            homepage_url: https://wanchain.org/
+            logo: wanchain.svg
+            twitter: https://twitter.com/wanchain_org
+            crunchbase: https://www.crunchbase.com/organization/wanchain
+            crunchbase_data:
+              name: Wanchain
+              description: 'Wanchain is a unique public blockchain with inter-chain transactions and privacy protection. '
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: https://wanchain.org
+              city: Singapore
+              region: Central Region
+              country: Singapore
+              twitter: https://twitter.com/wanchain_org
+              linkedin: https://www.linkedin.com/company/13421502/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Blockchain
+                - Infrastructure
+                - Internet
+            image_data:
+              fileName: wanchain-member.svg
+              hash: YLY5Dx70nO4gMdvXOCOIVp/ShtIKNmf99t5F4CVoPX8=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Wargaming.net Limited (member)
             homepage_url: https://wargaming.net/
@@ -68937,4 +68986,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-09-05T02:52:31.058Z
+updated_at: 2024-09-06T02:52:21.122Z
