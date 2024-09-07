@@ -10065,15 +10065,15 @@ landscape:
             logo: appcd.svg
             crunchbase: https://www.crunchbase.com/organization/appcd
             crunchbase_data:
-              name: appCD
+              name: StackGen
               description: Generative Infrastructure from Code
               num_employees_min: 11
               num_employees_max: 50
-              homepage: https://appcd.com/
+              homepage: https://www.stackgen.com
               city: San Francisco
               region: California
               country: United States
-              twitter: https://twitter.com/appcd_io
+              twitter: https://x.com/stackgenai
               linkedin: https://www.linkedin.com/company/appcd
               acquisitions: []
               parents: []
@@ -11198,7 +11198,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/atolio
             crunchbase_data:
               name: Atolio
-              description: How enterprises use LLMs to find answers privately and securely.
+              description: The only AI-powered enterprise search engine that keeps your data in your cloud.
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://www.atolio.com/
@@ -13347,7 +13347,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/bnymellon
             crunchbase_data:
               name: BNY
-              description: BNY is a global financial services company overseeing nearly $50 trillion in assets — managing it, moving it and keeping it safe.
+              description: BNY is a financial services company.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.bnymellon.com
@@ -13371,6 +13371,8 @@ landscape:
                   acquiree: DBV-X
                 - date: '2021-07-08'
                   acquiree: The Milestone Group
+                - date: '2024-09-05'
+                  acquiree: Archer
               parents: []
               ticker: BK
               funding: 1948000000
@@ -27916,42 +27918,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T16:03:28.000Z
-          - item:
-            name: Hyundai Mobis Co., Ltd. (member)
-            homepage_url: https://mobis.co.kr/
-            logo: hyundai_mobis_co_ltd.svg
-            crunchbase: https://www.crunchbase.com/organization/hyundai-mobis
-            crunchbase_data:
-              name: Hyundai Mobis
-              description: Hyundai Mobis is a manufacturer and supplier of automotive parts.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://www.mobis.co.kr/kr/index.do
-              city: Seoul
-              region: Seoul-t'ukpyolsi
-              country: South Korea
-              twitter: https://twitter.com/global_mobis
-              linkedin: https://www.linkedin.com/company/hyundai-mobis
-              acquisitions: []
-              parents: []
-              ticker: 012330.KS
-              funding: 972600000
-              stockExchange: krx
-              company_type: For Profit
-              industries:
-                - Automotive
-                - Manufacturing
-                - Transportation
-            yahoo_finance_data:
-              effective_ticker: 012330.KS
-            image_data:
-              fileName: hyundai-mobis-co-ltd-member.svg
-              hash: mFX9groejk33p5Pgx0hha6LF+hqe/RMhCCOJrqooDmY=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-21T05:56:42.000Z
           - item:
             name: Hyundai Motor Group (member)
             homepage_url: https://hyundai.com/
@@ -44043,6 +44009,8 @@ landscape:
                   acquiree: PredictSpring
                 - date: '2024-09-03'
                   acquiree: TENYX
+                - date: '2024-09-05'
+                  acquiree: Own Company
               parents: []
               ticker: CRM
               funding: 65375124
@@ -53983,7 +53951,6 @@ landscape:
             name: Wanchain (member)
             homepage_url: https://wanchain.org/
             logo: wanchain.svg
-            twitter: https://twitter.com/wanchain_org
             crunchbase: https://www.crunchbase.com/organization/wanchain
             crunchbase_data:
               name: Wanchain
@@ -64693,7 +64660,7 @@ landscape:
                 - date: '2017-04-27'
                   acquiree: Kaplan University
               parents: []
-              funding: 31058245
+              funding: 65958245
               stockExchange: null
               company_type: ''
               industries:
@@ -68655,7 +68622,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/western-governors-university
             crunchbase_data:
               name: Western Governors University
-              description: Western Governors University is a school in Salt Lake City.
+              description: Western Governors University focuses on improving lives by creating pathways to opportunity for its students.
               num_employees_min: 5001
               num_employees_max: 10000
               homepage: http://www.wgu.edu/
@@ -68664,7 +68631,9 @@ landscape:
               country: United States
               twitter: http://twitter.com/wgu
               linkedin: https://www.linkedin.com/company/western-governors-university
-              acquisitions: []
+              acquisitions:
+                - date: '2024-09-05'
+                  acquiree: Craft Education System
               parents: []
               stockExchange: null
               company_type: ''
@@ -68986,4 +68955,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-09-06T02:52:21.122Z
+updated_at: 2024-09-07T02:53:24.440Z
