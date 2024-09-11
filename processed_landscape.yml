@@ -2392,8 +2392,6 @@ landscape:
                   acquiree: TrueNet Communications
                 - date: '2016-08-01'
                   acquiree: Symfoni ESM
-                - date: '2022-02-01'
-                  acquiree: oobe
                 - date: '2022-09-19'
                   acquiree: InPhySec
                 - date: '2023-09-04'
@@ -4208,7 +4206,7 @@ landscape:
               effective_ticker: IBM
             image_data:
               fileName: red-hat-inc-member.svg
-              hash: YgiVPws6NHW8nPRghq7ooqbMAwREbnKytDEM6TKgVZE=
+              hash: lfMRK7hbdSTLsCBR8EEZqpkrpodll4voFn6SQz0DIsY=
             best_practice_data:
               badge: false
               percentage: null
@@ -4283,7 +4281,7 @@ landscape:
                 - date: '2016-10-27'
                   acquiree: Tachyon
                 - date: '2016-11-14'
-                  acquiree: Harman International
+                  acquiree: Harman
                 - date: '2016-11-15'
                   acquiree: NewNet Communication Technologies
                 - date: '2016-11-23'
@@ -8148,9 +8146,9 @@ landscape:
                 - date: '2023-11-14'
                   acquiree: GamePlanner.AI
               parents: []
-              ticker: 0A8C.L
+              ticker: AIRB34
               funding: 6423132065
-              stockExchange: lse
+              stockExchange: bvmf
               company_type: For Profit
               industries:
                 - Hospitality
@@ -8160,7 +8158,7 @@ landscape:
                 - Travel
                 - Travel Accommodations
             yahoo_finance_data:
-              effective_ticker: 0A8C.L
+              effective_ticker: AIRB34
             image_data:
               fileName: airbnb-member.svg
               hash: 4F20c1Q9BUtSvVwgWbsEFrWSxXHpGqckq0ZlnqrzU9w=
@@ -9199,7 +9197,7 @@ landscape:
               description: American Megatrends develops and manufactures key hardware and software solutions for the global computer marketplace.
               num_employees_min: 1001
               num_employees_max: 5000
-              homepage: http://www.ami.com
+              homepage: https://www.ami.com
               city: Duluth
               region: Georgia
               country: United States
@@ -10063,6 +10061,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-19T18:37:39.000Z
           - item:
+            name: Apollo Infoways Private Limited (member)
+            homepage_url: https://mywatchdog.in/
+            logo: apollo_infoways_private_limited.svg
+            organization:
+              name: Apollo Infoways Private Limited
+            crunchbase_data:
+              name: Apollo Infoways Private Limited
+              parents: []
+            image_data:
+              fileName: apollo-infoways-private-limited-member.svg
+              hash: QIyEmbujTdpP81sS1/WuffuOqCabC8XxDzUMfsjAQTY=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: appCD (member)
             homepage_url: https://appcd.io/
             logo: appcd.svg
@@ -10377,6 +10390,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/arcjet/
               acquisitions: []
               parents: []
+              funding: 3600000
               stockExchange: null
               company_type: ''
               industries:
@@ -10384,6 +10398,7 @@ landscape:
                 - Developer Tools
                 - Infrastructure
                 - Security
+              kind: funding
             image_data:
               fileName: arcjet-member.svg
               hash: jL5gu+92gsQmzwCazdiGPj9beMl/lc6/wBmOeKjtOCE=
@@ -10703,6 +10718,23 @@ landscape:
             image_data:
               fileName: aruba-sp-a-member.svg
               hash: 8Y2Q1GTN667MOJUDTu/DkUU6t9AknfMI5BALWCqvzTU=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Aryn, Inc. (member)
+            homepage_url: https://aryn.ai/
+            logo: aryn_inc.svg
+            organization:
+              name: Aryn, Inc.
+              linkedin: https://www.linkedin.com/company/aryninc
+            crunchbase_data:
+              name: Aryn, Inc.
+              linkedin: https://www.linkedin.com/company/aryninc
+              parents: []
+            image_data:
+              fileName: aryn-inc-member.svg
+              hash: eDIDsetdHITAaPZGFdgq1dFZpgf619u68j3vWgX1pQU=
             best_practice_data:
               badge: false
               percentage: null
@@ -12137,6 +12169,24 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T13:25:05.000Z
+          - item:
+            name: AyanWorks Technology Solutions Pvt. Ltd. (member)
+            homepage_url: https://ayanworks.com/
+            logo: ayanworks_technology_solutions_pvt_ltd.svg
+            twitter: https://twitter.com/ayanworkstech
+            organization:
+              name: AyanWorks Technology Solutions Pvt. Ltd.
+              linkedin: https://www.linkedin.com/company/ayanworks
+            crunchbase_data:
+              name: AyanWorks Technology Solutions Pvt. Ltd.
+              linkedin: https://www.linkedin.com/company/ayanworks
+              parents: []
+            image_data:
+              fileName: ayan-works-technology-solutions-pvt-ltd-member.svg
+              hash: A3QC5p0rnqZoX7LyUkw5dsfzvw1C+P/8uhJIDSTF0Yw=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: b-nova Schweiz GmbH (member)
             homepage_url: https://b-nova.com/
@@ -20272,6 +20322,39 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Dhiway Networks Private Limited (member)
+            homepage_url: https://dhiway.com/
+            logo: dhiway_networks_private_limited.svg
+            twitter: https://twitter.com/dhiwaynetworks
+            crunchbase: https://www.crunchbase.com/organization/dhiway
+            crunchbase_data:
+              name: dhiway
+              description: Enabling enterprises & governments to solve key challenges through population-scale blockchain technology
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.dhiway.com
+              city: Bangalore
+              region: Karnataka
+              country: India
+              twitter: https://twitter.com/dhiwaynetworks/
+              linkedin: https://www.linkedin.com/company/dhiway/
+              acquisitions: []
+              parents: []
+              funding: 1000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Blockchain
+                - Cryptocurrency
+                - FinTech
+              kind: funding
+            image_data:
+              fileName: dhiway-networks-private-limited-member.svg
+              hash: N/mKz0GT2p/QLHBFHDl4NG/TQuppLnZqTUOak+BYwT0=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Diagrid (member)
             homepage_url: https://diagrid.io/
             logo: diagrid.svg
@@ -22512,6 +22595,21 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Epsio Labs LTD (member)
+            homepage_url: https://epsio.io/
+            logo: epsio_labs_ltd.svg
+            organization:
+              name: Epsio Labs LTD
+            crunchbase_data:
+              name: Epsio Labs LTD
+              parents: []
+            image_data:
+              fileName: epsio-labs-ltd-member.svg
+              hash: C+5D6AxIYZeT63DmCE/zafdYysYMo6uXRoDLMaARvqI=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Equifax Inc. (member)
             homepage_url: https://equifax.com/
             logo: equifax_inc.svg
@@ -22995,6 +23093,35 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T13:00:01.000Z
           - item:
+            name: European IT Consultancy EITCO GmbH (member)
+            homepage_url: https://eitco.de/
+            logo: european_it_consultancy_eitco_gmbh.svg
+            crunchbase: https://www.crunchbase.com/organization/eitco
+            crunchbase_data:
+              name: Eitco
+              description: Eitco is a full-service provider for IT-supported process optimization.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: https://www.eitco.de/
+              city: Berlin
+              region: Berlin
+              country: Germany
+              twitter: https://twitter.com/EITCO_NEWS
+              linkedin: https://www.linkedin.com/company/eitco
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Services
+                - Information Technology
+            image_data:
+              fileName: european-it-consultancy-eitco-gmb-h-member.svg
+              hash: 4vCdRjWS3454ca33D9CWd9+/cBS7VZ0v8qlM8BHCkrk=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Evenkeel Inc. d/b/a Densify (member)
             homepage_url: https://densify.com/
             logo: evenkeel_inc_d_b_a_densify.svg
@@ -23330,6 +23457,38 @@ landscape:
             image_data:
               fileName: facets-cloud-inc-member.svg
               hash: pDeB0m3gcnbYDNtFwK4ze4jX5QB25QXscFny9srCuM8=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Factory (member)
+            homepage_url: https://factory.ai/
+            logo: factory.svg
+            crunchbase: https://www.crunchbase.com/organization/factory-19d8
+            crunchbase_data:
+              name: Factory
+              description: Factory specializes in creating an AI-driven platform designed to streamline computer coding and software engineering processes.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.factory.ai/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://x.com/FactoryAI
+              linkedin: https://www.linkedin.com/company/factory-hq/
+              acquisitions: []
+              parents: []
+              funding: 20000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence (AI)
+                - Developer Tools
+                - Software Engineering
+              kind: funding
+            image_data:
+              fileName: factory-member.svg
+              hash: HhEvyi7QDbjeo7SdPxX2mLem3hDfN0UW1iKXI7oe/ls=
             best_practice_data:
               badge: false
               percentage: null
@@ -24041,13 +24200,28 @@ landscape:
             name: Fr0ntierX Inc (member)
             homepage_url: https://fr0ntierx.com/
             logo: fr0ntierx_inc.svg
-            organization:
-              name: Fr0ntierX Inc
-              linkedin: https://www.linkedin.com/company/fr0ntierx
+            crunchbase: https://www.crunchbase.com/organization/fr0ntierx
             crunchbase_data:
-              name: Fr0ntierX Inc
-              linkedin: https://www.linkedin.com/company/fr0ntierx
+              name: Fr0ntierX
+              description: Developer of a Software-as-a-Service platform designed to provide enterprises with intelligent data.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.fr0ntierx.com
+              city: New City
+              region: New York
+              country: United States
+              twitter: https://twitter.com/FR0NTIER_X
+              linkedin: https://www.linkedin.com/company/fr0ntierx/
+              acquisitions: []
               parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Blockchain
+                - Cyber Security
+                - Data Integration
+                - Enterprise Software
+                - Software
             image_data:
               fileName: fr0ntier-x-inc-member.svg
               hash: f6x5EZ3rS/qxG4EoI4HAg3Lt0quKrBmI8g5th0lEMjw=
@@ -31187,7 +31361,7 @@ landscape:
               kind: funding
             image_data:
               fileName: kloudfuse-inc-member.svg
-              hash: GbhQuJspDy5PG5oLLVgS68tquQuRsicZNoJFN6kfPc0=
+              hash: h+G5mn4dn4CV8ZMj7AnpOK5kWL2mQWPq7qxWB+Q64Ow=
             best_practice_data:
               badge: false
               percentage: null
@@ -38075,6 +38249,21 @@ landscape:
             twitter_data:
               latest_tweet_date: null
           - item:
+            name: nudgebee (member)
+            homepage_url: https://nudgebee.com/
+            logo: nudgebee.svg
+            organization:
+              name: nudgebee
+            crunchbase_data:
+              name: nudgebee
+              parents: []
+            image_data:
+              fileName: nudgebee-member.svg
+              hash: 5JyjDn2rntpG0oC9PtdYEJeQmigsFI7shXkxXLMHiuQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Numascale (member)
             homepage_url: https://numascale.com/
             logo: numascale.svg
@@ -38656,6 +38845,21 @@ landscape:
             image_data:
               fileName: omnistrate-member.svg
               hash: TPXkBg5JpzpYktDCbJEk66dmfCAo4UDPjhaN6TjhTno=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: oodle.ai (member)
+            homepage_url: https://oodle.ai/
+            logo: oodle.svg
+            organization:
+              name: oodle.ai
+            crunchbase_data:
+              name: oodle.ai
+              parents: []
+            image_data:
+              fileName: oodle-ai-member.svg
+              hash: UOy7tenKljS6TFX1HSUh9TNJh1Cgab2pxZrzLVefFWY=
             best_practice_data:
               badge: false
               percentage: null
@@ -40711,6 +40915,23 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T10:11:07.000Z
           - item:
+            name: Portal26 (member)
+            homepage_url: https://portal26.ai/
+            logo: portal26.svg
+            organization:
+              name: Portal26
+              linkedin: https://www.linkedin.com/company/titaniamlabs
+            crunchbase_data:
+              name: Portal26
+              linkedin: https://www.linkedin.com/company/titaniamlabs
+              parents: []
+            image_data:
+              fileName: portal26-member.svg
+              hash: tElPmW0st8BdgRUuBc1wMaZMaAT1Lz1GOF/uiagSgtE=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Posedio - Professional Cloud Consulting (member)
             homepage_url: https://posedio.com/
             logo: posedio_professional_cloud_consulting.svg
@@ -40952,6 +41173,23 @@ landscape:
             image_data:
               fileName: previder-member.svg
               hash: b0Jh0hYbLypb5ZdPJGGV3sC77QnydPJ9eJu3Ccta8B4=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Print2Block (member)
+            homepage_url: https://docchain.io/
+            logo: print2block.svg
+            organization:
+              name: Print2Block
+              linkedin: https://www.linkedin.com/company/docchain
+            crunchbase_data:
+              name: Print2Block
+              linkedin: https://www.linkedin.com/company/docchain
+              parents: []
+            image_data:
+              fileName: print2-block-member.svg
+              hash: bdYNFHPUtsBJIWCkVaOo/kKms06xDN7aNsEh4KztB8M=
             best_practice_data:
               badge: false
               percentage: null
@@ -42471,6 +42709,21 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T17:16:00.000Z
+          - item:
+            name: Rayls Foundation (member)
+            homepage_url: https://rayls.com/
+            logo: rayls_foundation.svg
+            organization:
+              name: Rayls Foundation
+            crunchbase_data:
+              name: Rayls Foundation
+              parents: []
+            image_data:
+              fileName: rayls-foundation-member.svg
+              hash: Hy4IeUIVCJoKZNQJ6W7zsFJbe/DwoayMxcqFTvZJ3/U=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: RBC Capital Markets, LLC (member)
             homepage_url: https://rbccm.com/
@@ -59577,6 +59830,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-13T07:47:23.000Z
           - item:
+            name: Fresno County Department of Public Works & Planning (member)
+            homepage_url: https://fresnocountyca.gov/
+            logo: fresno_county_department_of_public_works_planning.svg
+            organization:
+              name: Fresno County Department of Public Works & Planning
+            crunchbase_data:
+              name: Fresno County Department of Public Works & Planning
+              parents: []
+            image_data:
+              fileName: fresno-county-department-of-public-works-planning-member.svg
+              hash: wYghqNgswWDKm8XZoMzVSoSH7WVgslM0ShVXgrnB8sA=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Friedrich-Alexander-University (FAU) (member)
             homepage_url: https://fau.eu/
             logo: friedrich_alexander_university_fau.svg
@@ -65218,6 +65486,23 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Saegis Campus (member)
+            homepage_url: https://saegis.ac.lk/
+            logo: saegis_campus.svg
+            organization:
+              name: Saegis Campus
+              linkedin: https://www.linkedin.com/company/saegis-campus
+            crunchbase_data:
+              name: Saegis Campus
+              linkedin: https://www.linkedin.com/company/saegis-campus
+              parents: []
+            image_data:
+              fileName: saegis-campus-member.svg
+              hash: JWyAEld1dwFcY/D2Sy5jOstGYFq/xg0rCzpag+Ha3A8=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: SAFECode (member)
             homepage_url: https://safecode.org/
             logo: safecode.svg
@@ -68958,4 +69243,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-09-09T03:16:15.190Z
+updated_at: 2024-09-11T02:52:40.635Z
