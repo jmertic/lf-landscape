@@ -10093,7 +10093,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/appcd
               acquisitions: []
               parents: []
-              funding: 6000000
+              funding: 18300000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -10242,7 +10242,6 @@ landscape:
                 - date: '2023-01-09'
                   acquiree: Cloudwiry
               parents: []
-              ticker: APTI
               funding: 261000000
               stockExchange: nasdaq
               company_type: For Profit
@@ -10253,8 +10252,7 @@ landscape:
                 - Information Technology
                 - SaaS
                 - Software
-            yahoo_finance_data:
-              effective_ticker: APTI
+              kind: funding
             image_data:
               fileName: apptio-member.svg
               hash: VDA5s2baaWvpN8xfMPYIQcz68kgbTpfvd7w1sU1+IdA=
@@ -12184,6 +12182,38 @@ landscape:
             image_data:
               fileName: ayan-works-technology-solutions-pvt-ltd-member.svg
               hash: A3QC5p0rnqZoX7LyUkw5dsfzvw1C+P/8uhJIDSTF0Yw=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Azul Systems (member)
+            homepage_url: https://azulsystems.com/
+            logo: azul_systems.svg
+            twitter: https://twitter.com/AzulSystems
+            crunchbase: https://www.crunchbase.com/organization/azul-systems
+            crunchbase_data:
+              name: Azul Systems
+              description: Azul Systems is the industry’s only company exclusively focused on Java and the Java Virtual Machine.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: http://www.azul.com
+              city: Sunnyvale
+              region: California
+              country: United States
+              twitter: http://twitter.com/AzulSystems
+              linkedin: https://www.linkedin.com/company/azul-systems
+              acquisitions: []
+              parents: []
+              funding: 177700000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Enterprise Applications
+                - Software
+              kind: funding
+            image_data:
+              fileName: azul-systems-member.svg
+              hash: a3LWy75eJc/qXH6hfdVICzGfOsYa5eDF3t8xAMTVThs=
             best_practice_data:
               badge: false
               percentage: null
@@ -14614,7 +14644,7 @@ landscape:
                   acquiree: Empired
                 - date: '2021-09-14'
                   acquiree: VariQ
-                - date: '2022-05-15'
+                - date: '2022-05-16'
                   acquiree: Chappuis Halder & Co.
                 - date: '2022-06-01'
                   acquiree: Rufus Leonard
@@ -25553,6 +25583,8 @@ landscape:
                   acquiree: GUT
                 - date: '2023-12-28'
                   acquiree: Iteris Consultoria e Software
+                - date: '2024-09-10'
+                  acquiree: Blankfactor
               parents: []
               ticker: GLOB
               funding: 173000000
@@ -27097,6 +27129,7 @@ landscape:
                   acquiree: Morpheus Data
               parents: []
               ticker: HPE
+              funding: 1350000000
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -39662,7 +39695,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/p0-security/
               acquisitions: []
               parents: []
-              funding: 5000000
+              funding: 20000000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -45128,7 +45161,7 @@ landscape:
               linkedin: https://sg.linkedin.com/company/sdax
               acquisitions: []
               parents: []
-              funding: 17591116
+              funding: 67591116
               stockExchange: null
               company_type: For Profit
               industries:
@@ -47106,45 +47139,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T08:30:04.000Z
           - item:
-            name: Softchoice LP and Softchoice Corporation (member)
-            homepage_url: https://softchoice.com/
-            logo: softchoice_lp_and_softchoice_corporation.svg
-            crunchbase: https://www.crunchbase.com/organization/softchoice-corp
-            crunchbase_data:
-              name: Softchoice
-              description: Softchoice is one of North America's leading IT solutions & managed service providers.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: http://www.softchoice.com
-              city: Toronto
-              region: Ontario
-              country: Canada
-              twitter: http://twitter.com/softchoice
-              linkedin: https://www.linkedin.com/company/softchoice
-              acquisitions:
-                - date: '2007-10-01'
-                  acquiree: Software Plus
-                - date: '2011-11-03'
-                  acquiree: Unis Lumin
-              parents: []
-              ticker: SFTC
-              stockExchange: tsx
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-                - Collaboration
-                - Information Technology
-            yahoo_finance_data:
-              effective_ticker: SFTC
-            image_data:
-              fileName: softchoice-lp-and-softchoice-corporation-member.svg
-              hash: FvXBvFMnXmBCsfzVq1HXYVB3KmpQVjpi9QC9485bDzA=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T14:00:40.000Z
-          - item:
             name: Software Mind (member)
             homepage_url: https://softwaremind.com/
             logo: software_mind.svg
@@ -48331,7 +48325,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/stackwatch/
               acquisitions: []
               parents: []
-              funding: 30500000
+              funding: 30200000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -65752,6 +65746,39 @@ landscape:
             twitter_data:
               latest_tweet_date: 2015-05-21T11:10:15.000Z
           - item:
+            name: SERPRO (member)
+            homepage_url: https://serpro.gov.br/
+            logo: serpro.svg
+            twitter: https://twitter.com/SERPRO
+            crunchbase: https://www.crunchbase.com/organization/serpro
+            crunchbase_data:
+              name: SERPRO
+              description: Serpro Logistics is a logistics agency operating in the midwestern united states.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: http://www.serprologistics.com
+              city: Maryland Heights
+              region: Missouri
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/serpro-logistics
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Automotive
+                - Government
+                - Logistics
+                - Staffing Agency
+                - Transportation
+            image_data:
+              fileName: serpro-member.svg
+              hash: 52EfI1vdb9KSwcvTG7KAEZktfKJnY6AfpoMwA7z/exI=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: shaktimath international foundation (member)
             homepage_url: https://smif.co.in/
             logo: shaktimath_international_foundation.svg
@@ -69243,4 +69270,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-09-11T02:52:40.635Z
+updated_at: 2024-09-12T02:54:41.644Z
