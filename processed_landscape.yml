@@ -11703,41 +11703,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T22:00:19.000Z
           - item:
-            name: Avesha (member)
-            homepage_url: https://avesha.io/
-            logo: avesha.svg
-            twitter: https://twitter.com/AveshaSystems
-            crunchbase: https://www.crunchbase.com/organization/avesha
-            crunchbase_data:
-              name: Avesha
-              description: Avesha is a technology platform that enables application workloads to disaggregate across cloud, multi-cloud, and edge locations.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.avesha.io/
-              city: Bedford
-              region: Massachusetts
-              country: United States
-              twitter: null
-              linkedin: https://www.linkedin.com/company/avesha/
-              acquisitions: []
-              parents: []
-              funding: 6000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Data Services
-                - Cloud Management
-                - Information Technology
-              kind: funding
-            image_data:
-              fileName: avesha-member.svg
-              hash: OcVhR95lAZWchYZ2zzVunCekw3vGR0y8GLzdQ4Ecbyg=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T18:41:56.000Z
-          - item:
             name: AVEVA Group (member)
             homepage_url: https://aveva.com/
             logo: aveva_group.svg
@@ -12172,13 +12137,25 @@ landscape:
             homepage_url: https://ayanworks.com/
             logo: ayanworks_technology_solutions_pvt_ltd.svg
             twitter: https://twitter.com/ayanworkstech
-            organization:
-              name: AyanWorks Technology Solutions Pvt. Ltd.
-              linkedin: https://www.linkedin.com/company/ayanworks
+            crunchbase: https://www.crunchbase.com/organization/ayanworks
             crunchbase_data:
-              name: AyanWorks Technology Solutions Pvt. Ltd.
-              linkedin: https://www.linkedin.com/company/ayanworks
+              name: AYANWORKS
+              description: Self-Sovereign, Decentralised Identity Solution, Emerging technologies around Blockchain & Decentralised Digital Trust
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.ayanworks.com
+              city: Pune
+              region: Maharashtra
+              country: India
+              twitter: https://twitter.com/ayanworkstech
+              linkedin: https://www.linkedin.com/company/ayanworks/
+              acquisitions: []
               parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Technology
+                - Software Engineering
             image_data:
               fileName: ayan-works-technology-solutions-pvt-ltd-member.svg
               hash: A3QC5p0rnqZoX7LyUkw5dsfzvw1C+P/8uhJIDSTF0Yw=
@@ -12189,7 +12166,6 @@ landscape:
             name: Azul Systems (member)
             homepage_url: https://azulsystems.com/
             logo: azul_systems.svg
-            twitter: https://twitter.com/AzulSystems
             crunchbase: https://www.crunchbase.com/organization/azul-systems
             crunchbase_data:
               name: Azul Systems
@@ -13708,7 +13684,7 @@ landscape:
                   acquiree: Atlatec GmbH
                 - date: '2022-04-12'
                   acquiree: FiveAI
-                - date: '2022-09-26'
+                - date: '2022-09-22'
                   acquiree: ItoM
                 - date: '2023-07-05'
                   acquiree: Paladin Technologies
@@ -19168,6 +19144,8 @@ landscape:
                   acquiree: Cloudcraft
                 - date: '2023-04-20'
                   acquiree: Codiga
+                - date: '2023-11-13'
+                  acquiree: Actiondesk
               parents: []
               ticker: DDOG
               funding: 147900000
@@ -20322,7 +20300,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/xkey
             crunchbase_data:
               name: Dfns
-              description: Wallet infrastructure for web3
+              description: Wallet infrastructure for digital assets
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://www.dfns.co
@@ -20333,15 +20311,17 @@ landscape:
               linkedin: https://www.linkedin.com/company/dfnshq
               acquisitions: []
               parents: []
-              funding: 18995488
+              funding: 25592408
               stockExchange: null
               company_type: For Profit
               industries:
+                - Banking
                 - Blockchain
                 - Cryptocurrency
                 - Cyber Security
                 - Developer Tools
                 - FinTech
+                - Payments
                 - SaaS
                 - Web3
               kind: funding
@@ -31300,7 +31280,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/kitware-inc-
               acquisitions: []
               parents: []
-              funding: 3250000
+              funding: 4349999
               stockExchange: null
               company_type: For Profit
               industries:
@@ -31522,14 +31502,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/konghq
             crunchbase_data:
               name: Kong
-              description: Kong is the leading developer of cloud API technologies. Powering the API world.
+              description: Kong is an API platform that develops cloud API technologies to help in productivity, automating security, and push the performance of APIs.
               num_employees_min: 501
               num_employees_max: 1000
               homepage: https://konghq.com
               city: San Francisco
               region: California
               country: United States
-              twitter: http://twitter.com/thekonginc
+              twitter: https://x.com/thekonginc
               linkedin: https://www.linkedin.com/company/konghq
               acquisitions:
                 - date: '2015-10-22'
@@ -31554,8 +31534,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-21T03:50:05.000Z
           - item:
             name: Konsulko Group (member)
             homepage_url: https://konsulko.com/
@@ -34026,7 +34004,7 @@ landscape:
               description: LINE Yahoo is an internet company that provides e-commerce and finance services for enterprises as well as offers advertising services.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: https://www.lycorp.co.jp/
+              homepage: https://www.lycorp.co.jp
               city: Tokyo
               region: Tokyo
               country: Japan
@@ -34379,6 +34357,8 @@ landscape:
                   acquiree: Dynamic Yield
                 - date: '2023-03-20'
                   acquiree: Baffin Bay Networks
+                - date: '2024-09-12'
+                  acquiree: Recorded Future
               parents: []
               ticker: MA
               stockExchange: nyse
@@ -39678,6 +39658,39 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-19T08:00:00.000Z
           - item:
+            name: Ownera (member)
+            homepage_url: https://ownera.io/
+            logo: ownera.svg
+            crunchbase: https://www.crunchbase.com/organization/ownera
+            crunchbase_data:
+              name: Ownera
+              description: Ownera is an institutional-grade network for digital securities.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://ownera.io/
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: https://twitter.com/owneraio
+              linkedin: https://www.linkedin.com/company/ownera/
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/ownera
+              funding: 20000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Computer
+                - Information Technology
+                - Software
+              kind: funding
+            image_data:
+              fileName: ownera-member.svg
+              hash: CQg8rWzrplBvbo/H8uaXRXsjrtVUycQ8ALHLPt01hOQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: P0 Security (member)
             homepage_url: https://p0.dev/
             logo: p0_security.svg
@@ -40866,13 +40879,38 @@ landscape:
             name: Polygon Labs Services (Switzerland) AG (member)
             homepage_url: https://polygon.technology/
             logo: polygon_labs_services_switzerland_ag.svg
-            organization:
-              name: Polygon Labs Services (Switzerland) AG
-              linkedin: https://www.linkedin.com/company/polygonlabs
+            crunchbase: https://www.crunchbase.com/organization/polygontechnology
             crunchbase_data:
-              name: Polygon Labs Services (Switzerland) AG
+              name: Polygon
+              description: Polygon is a platform for Ethereum scaling and infrastructure development.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: https://polygon.technology
+              city: Bengaluru
+              region: Karnataka
+              country: India
+              twitter: https://www.twitter.com/0xPolygon
               linkedin: https://www.linkedin.com/company/polygonlabs
+              acquisitions:
+                - date: '2021-08-14'
+                  acquiree: Hermes Network
+                - date: '2021-12-09'
+                  acquiree: Mir Protocol
+                - date: '2022-11-17'
+                  acquiree: All Consulting Service
+                - date: '2024-06-04'
+                  acquiree: Toposware
               parents: []
+              funding: 451450000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Blockchain
+                - Ethereum
+                - Information Technology
+                - Infrastructure
+                - Web3
+              kind: funding
             image_data:
               fileName: polygon-labs-services-switzerland-ag-member.svg
               hash: GqrnR0ax1zn9D2JQbnpiRyRMrNN4WYJthH7ExoXNT3o=
@@ -41213,13 +41251,23 @@ landscape:
             name: Print2Block (member)
             homepage_url: https://docchain.io/
             logo: print2block.svg
-            organization:
-              name: Print2Block
-              linkedin: https://www.linkedin.com/company/docchain
+            crunchbase: https://www.crunchbase.com/organization/print2block
             crunchbase_data:
               name: Print2Block
-              linkedin: https://www.linkedin.com/company/docchain
+              description: A blockchain technology company
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://www.print2block.com/
+              city: ' N/A'
+              region: ' N/A'
+              country: ' N/A'
+              twitter: null
+              linkedin: null
+              acquisitions: []
               parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
             image_data:
               fileName: print2-block-member.svg
               hash: bdYNFHPUtsBJIWCkVaOo/kKms06xDN7aNsEh4KztB8M=
@@ -42712,7 +42760,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/rapidfort
             crunchbase_data:
               name: RAPIDFORT
-              description: RapidFort remediates 95% of vulnerabilities with no code changes, reducing costs, speeding releases, and accelerating FedRAMP compliance.
+              description: RapidFort Secures Your Containers from Development to Production with Near Zero CVE Images, SCA Scanning, DevTime, and RunTime Protection
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://www.rapidfort.com/
@@ -44593,9 +44641,9 @@ landscape:
                 - date: '2024-06-04'
                   acquiree: WalkMe
               parents: []
-              ticker: SAP
+              ticker: SAP.DE
               funding: 1301371240
-              stockExchange: nyse
+              stockExchange: etr
               company_type: For Profit
               industries:
                 - Analytics
@@ -44606,7 +44654,7 @@ landscape:
                 - Finance
                 - Software
             yahoo_finance_data:
-              effective_ticker: SAP
+              effective_ticker: SAP.DE
             image_data:
               fileName: sap-se-member.svg
               hash: adOvLDK9PxKhDjelm+R8KSWkBaKSFp/Kj9EbcflrQXY=
@@ -46342,10 +46390,12 @@ landscape:
                   acquiree: Insight EDA
                 - date: '2023-12-05'
                   acquiree: Bunt Planet
-                - date: '2024-02-20'
+                - date: '2024-02-13'
                   acquiree: Inspekto
                 - date: '2024-03-21'
                   acquiree: Industrial drive technology - ebm-papst
+                - date: '2024-09-10'
+                  acquiree: Trayer Engineering
               parents: []
               ticker: SIE.DE
               funding: 5509700288
@@ -65711,6 +65761,23 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: SCION Association (member)
+            homepage_url: https://scion.org/
+            logo: scion_association.svg
+            organization:
+              name: SCION Association
+              linkedin: https://www.linkedin.com/company/scion-association
+            crunchbase_data:
+              name: SCION Association
+              linkedin: https://www.linkedin.com/company/scion-association
+              parents: []
+            image_data:
+              fileName: scion-association-member.svg
+              hash: XMcUTZzi6AwbhOHjZweA6g4CFpUbigYb4O75kOX5cBI=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: SDN/NFV Industry Alliance (member)
             homepage_url: https://sdnfvia.com/
             logo: sdn_nfv_industry_alliance.svg
@@ -65750,31 +65817,27 @@ landscape:
             homepage_url: https://serpro.gov.br/
             logo: serpro.svg
             twitter: https://twitter.com/SERPRO
-            crunchbase: https://www.crunchbase.com/organization/serpro
+            crunchbase: https://www.crunchbase.com/organization/serpro-2
             crunchbase_data:
               name: SERPRO
-              description: Serpro Logistics is a logistics agency operating in the midwestern united states.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: http://www.serprologistics.com
-              city: Maryland Heights
-              region: Missouri
-              country: United States
-              twitter: null
-              linkedin: https://www.linkedin.com/company/serpro-logistics
+              description: Serpro is a leading public company in the development of Information and Communication Technology solutions for the federal government.
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: http://www.serpro.gov.br/
+              city: Brasília
+              region: Rio Grande do Norte
+              country: Brazil
+              twitter: https://twitter.com/serpro
+              linkedin: https://www.linkedin.com/company-beta/10950/?pathWildcard=10950
               acquisitions: []
               parents: []
               stockExchange: null
               company_type: For Profit
               industries:
-                - Automotive
-                - Government
-                - Logistics
-                - Staffing Agency
-                - Transportation
+                - Information Technology
             image_data:
               fileName: serpro-member.svg
-              hash: 52EfI1vdb9KSwcvTG7KAEZktfKJnY6AfpoMwA7z/exI=
+              hash: Y6s3O3ZOUwCsiFuek9aEFcSH95iRvunO9tXe8kV+mwc=
             best_practice_data:
               badge: false
               percentage: null
@@ -67154,7 +67217,7 @@ landscape:
                   acquiree: Wheelock College
               parents:
                 - https://www.crunchbase.com/organization/distaff
-              funding: 16800000
+              funding: 21800000
               stockExchange: null
               company_type: ''
               industries:
@@ -68243,7 +68306,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/university-of-toronto
               acquisitions: []
               parents: []
-              funding: 273829571
+              funding: 274129571
               stockExchange: null
               company_type: ''
               industries:
@@ -69270,4 +69333,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-09-12T02:54:41.644Z
+updated_at: 2024-09-13T02:50:22.252Z
