@@ -15447,7 +15447,6 @@ landscape:
             name: Chelsio Communications (member)
             homepage_url: https://chelsio.com/
             logo: chelsio_communications.svg
-            twitter: https://twitter.com/Chelsio1
             crunchbase: https://www.crunchbase.com/organization/chelsio-communications
             crunchbase_data:
               name: Chelsio Communications
@@ -35608,16 +35607,16 @@ landscape:
             twitter: https://twitter.com/micware_PR
             crunchbase: https://www.crunchbase.com/organization/micware
             crunchbase_data:
-              name: micware
-              description: micware is an IT service company engaged in the planning and development of software for in-vehicle and car navigation systems.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: http://www.micware.co.jp/index.html
+              name: Micware
+              description: Micware is an IT service company engaged in the planning and development of software for in-vehicle and car navigation systems.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: https://micware.co.jp/
               city: Kobe
               region: Kyoto
               country: Japan
-              twitter: https://twitter.com/micware_pr
-              linkedin: https://www.linkedin.com/company/micware-north-america-inc
+              twitter: https://x.com/micware_pr
+              linkedin: null
               acquisitions: []
               parents: []
               stockExchange: null
@@ -35677,14 +35676,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/midokura
             crunchbase_data:
               name: Midokura
-              description: MIDOKURA is a Sony Group company that delivers innovative solutions to power the Edge AI revolution in IoT.
+              description: Midokura is a software development company that delivers innovative solutions to power the edge AI revolution in IoT.
               num_employees_min: 51
               num_employees_max: 100
               homepage: http://www.midokura.com/
               city: Tokyo
               region: Tokyo
               country: Japan
-              twitter: http://twitter.com/midokura
+              twitter: https://x.com/midokura
               linkedin: https://www.linkedin.com/company/midokura
               acquisitions: []
               parents: []
@@ -35698,7 +35697,6 @@ landscape:
                 - Network Security
                 - Open Source
                 - SaaS
-                - Software
                 - Virtualization
               kind: funding
             image_data:
@@ -35707,8 +35705,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T14:46:30.000Z
           - item:
             name: Milligan Partners (member)
             homepage_url: https://milliganpartners.com/
@@ -37168,7 +37164,7 @@ landscape:
                   acquiree: Data Mechanics
                 - date: '2021-10-04'
                   acquiree: CloudCheckr
-                - date: '2022-02-22'
+                - date: '2022-02-23'
                   acquiree: Fylamynt
                 - date: '2022-05-24'
                   acquiree: Instaclustr
@@ -56559,6 +56555,23 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T00:00:54.000Z
           - item:
+            name: Asociación Colombiana de Informática Sistemas y Tecnologías Afines (member)
+            homepage_url: https://acis.org.co/
+            logo: asociacion_colombiana_de_informatica_sistemas_y_tecnologias_afines.svg
+            organization:
+              name: Asociación Colombiana de Informática Sistemas y Tecnologías Afines
+              linkedin: https://www.linkedin.com/company/acis-colombia
+            crunchbase_data:
+              name: Asociación Colombiana de Informática Sistemas y Tecnologías Afines
+              linkedin: https://www.linkedin.com/company/acis-colombia
+              parents: []
+            image_data:
+              fileName: asociaci-n-colombiana-de-inform-tica-sistemas-y-tecnolog-as-afines-member.svg
+              hash: vJZofFxkXmpFVtCt/WY4V2ANRoR/p4Dm9kDyfW1Tyxc=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Australian Research Data Commons (member)
             homepage_url: https://ardc.edu.au/
             logo: australian_research_data_commons.svg
@@ -68520,16 +68533,26 @@ landscape:
             homepage_url: https://ult-tunisie.com/
             logo: universite_libre_de_tunis.svg
             twitter: https://twitter.com/ULT_Tunisie
-            organization:
-              name: Université Libre de Tunis
-              linkedin: https://www.linkedin.com/company/universit%c3%a9libredetunis
+            crunchbase: https://www.crunchbase.com/organization/universit%C3%A9-libre-de-tunis
             crunchbase_data:
               name: Université Libre de Tunis
-              linkedin: https://www.linkedin.com/company/universit%c3%a9libredetunis
+              description: The Tunisia Private University (ULT) is a university in Tunis, Tunisia. It was founded in 1973 and is organized in six faculties.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://www.ult-tunisie.com
+              city: Tunis
+              region: Tunis
+              country: Tunisia
+              twitter: null
+              linkedin: https://www.linkedin.com/school/universit%C3%A9libredetunis
+              acquisitions: []
               parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
             image_data:
               fileName: universit-libre-de-tunis-member.svg
-              hash: 9IAr+4R89PuTuFP0MAhWz9AgY+nVt84KAd6NsZ3mMcw=
+              hash: Cg+tDiTnm5XrB4//r9mbk/sMUR5MdVSseG24jWiG1Ro=
             best_practice_data:
               badge: false
               percentage: null
@@ -69341,7 +69364,7 @@ landscape:
               kind: funding
             image_data:
               fileName: xprize-member.svg
-              hash: FJ3dGPTJFwPVa+NzHw39nf/sZb2U7YliMShLAVNL57w=
+              hash: vs1yy6NrAbacwSvfiXgcWc7jncYfiEVGkNzoYTMWSCM=
             best_practice_data:
               badge: false
               percentage: null
@@ -69379,4 +69402,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-09-14T02:54:44.164Z
+updated_at: 2024-09-15T02:51:45.651Z
