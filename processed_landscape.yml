@@ -3052,7 +3052,7 @@ landscape:
               city: Redmond
               region: Washington
               country: United States
-              twitter: https://www.twitter.com/Microsoft
+              twitter: https://x.com/Microsoft
               linkedin: https://www.linkedin.com/company/microsoft
               acquisitions:
                 - date: '1987-07-30'
@@ -3584,8 +3584,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T22:00:00.000Z
           - item:
             name: NEC Corporation (member)
             homepage_url: https://nec.com/
@@ -4220,10 +4218,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/samsung-electronics
             crunchbase_data:
               name: Samsung Electronics
-              description: Samsung Electronics is an electronics company that engages in consumer electronics, IT and mobile communications, and device solutions.
+              description: Samsung Electronics is a technology company that engages in consumer electronics, IT and mobile communications, and device solutions.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://www.samsung.com
+              homepage: https://www.samsung.com/
               city: Seoul
               region: Seoul-t'ukpyolsi
               country: South Korea
@@ -4731,12 +4729,8 @@ landscape:
                   acquiree: Hjaltelin Stahl
                 - date: '2019-03-15'
                   acquiree: Storm Digital
-                - date: '2019-04-03'
-                  acquiree: Droga5
                 - date: '2019-04-08'
                   acquiree: Cirruseo
-                - date: '2019-04-08'
-                  acquiree: Shackleton
                 - date: '2019-04-30'
                   acquiree: Zielpuls
                 - date: '2019-06-03'
@@ -5846,14 +5840,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/google
             crunchbase_data:
               name: Google
-              description: Google is a multinational corporation that specializes in Internet-related services and products.
+              description: Google is a multinational corporation that specializes in Internet-related services and organizes the world’s information.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: https://www.google.com
               city: Mountain View
               region: California
               country: United States
-              twitter: https://www.twitter.com/google
+              twitter: https://x.com/google
               linkedin: https://www.linkedin.com/company/google
               acquisitions:
                 - date: '2001-02-12'
@@ -6358,6 +6352,8 @@ landscape:
                   acquiree: Dysonics
                 - date: '2021-05-07'
                   acquiree: Provino Technologies
+                - date: '2021-09-04'
+                  acquiree: Playspace
                 - date: '2021-10-01'
                   acquiree: CompilerWorks
                 - date: '2021-11-17'
@@ -6391,10 +6387,13 @@ landscape:
               stockExchange: nasdaq
               company_type: For Profit
               industries:
+                - Apps
                 - Artificial Intelligence (AI)
-                - Cloud Computing
                 - Cloud Storage
+                - Information Technology
+                - Office Administration
                 - SEO
+                - Search Engine
                 - Software
             yahoo_finance_data:
               effective_ticker: GOOG
@@ -6783,7 +6782,7 @@ landscape:
               city: Toronto
               region: Ontario
               country: Canada
-              twitter: https://twitter.com/1Password
+              twitter: https://x.com/1Password
               linkedin: https://www.linkedin.com/company/1password
               acquisitions:
                 - date: '2021-04-13'
@@ -6798,9 +6797,11 @@ landscape:
               company_type: For Profit
               industries:
                 - Cyber Security
+                - Information Technology
                 - Network Security
                 - Privacy
                 - Software
+                - Web Apps
               kind: funding
             image_data:
               fileName: 1-password-member.svg
@@ -6808,8 +6809,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-21T10:22:08.000Z
           - item:
             name: 23 Technologies GmbH (member)
             homepage_url: https://23technologies.cloud/
@@ -13647,14 +13646,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/bosch
             crunchbase_data:
               name: Bosch
-              description: The Bosch Group is a supplier of technology and services.
+              description: Bosch is an engineering and technology firm that provides sensor technology, software, and services to improve quality of life.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.bosch.com
               city: Stuttgart
               region: Baden-Wurttemberg
               country: Germany
-              twitter: http://twitter.com/BoschGlobal
+              twitter: https://x.com/BoschGlobal
               linkedin: https://www.linkedin.com/company/bosch
               acquisitions:
                 - date: '2005-08-19'
@@ -13710,8 +13709,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-21T10:11:22.000Z
           - item:
             name: Boston Consulting Group (member)
             homepage_url: https://bcg.com/
@@ -14507,14 +14504,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cap-gemini
             crunchbase_data:
               name: Capgemini
-              description: Capgemini provides consulting, technology, and digital transformation services.
+              description: Capgemini is a software company that provides consulting, technology, and digital transformation services.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://www.capgemini.com
+              homepage: https://www.capgemini.com
               city: Paris
               region: Ile-de-France
               country: France
-              twitter: http://twitter.com/Capgemini
+              twitter: https://x.com/Capgemini
               linkedin: https://www.linkedin.com/company/capgemini/
               acquisitions:
                 - date: '2002-01-02'
@@ -14650,7 +14647,6 @@ landscape:
                 - IT Management
                 - Information Technology
                 - InsurTech
-                - News
                 - Software
             yahoo_finance_data:
               effective_ticker: CAP.PA
@@ -14660,8 +14656,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-21T11:01:28.000Z
           - item:
             name: Capital One Services LLC (member)
             homepage_url: https://capitalone.com/
@@ -14830,7 +14824,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/casperlabs/
               acquisitions: []
               parents: []
-              funding: 48600000
+              funding: 49600000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -17407,8 +17401,6 @@ landscape:
                   acquiree: Wayne Fueling Systems
                 - date: '2017-04-07'
                   acquiree: Caldera Graphics
-                - date: '2020-01-06'
-                  acquiree: Sys-Tech Solutions
                 - date: '2020-01-27'
                   acquiree: Soft-Pak
                 - date: '2020-03-17'
@@ -23123,7 +23115,7 @@ landscape:
             logo: european_it_consultancy_eitco_gmbh.svg
             crunchbase: https://www.crunchbase.com/organization/eitco
             crunchbase_data:
-              name: Eitco
+              name: European IT Consultancy EITCO GmbH
               description: Eitco is a full-service provider for IT-supported process optimization.
               num_employees_min: 101
               num_employees_max: 250
@@ -23131,15 +23123,18 @@ landscape:
               city: Berlin
               region: Berlin
               country: Germany
-              twitter: https://twitter.com/EITCO_NEWS
-              linkedin: https://www.linkedin.com/company/eitco
+              twitter: null
+              linkedin: https://www.linkedin.com/company/eitco/
               acquisitions: []
               parents: []
               stockExchange: null
               company_type: For Profit
               industries:
+                - Consulting
+                - IT Management
                 - Information Services
                 - Information Technology
+                - Software
             image_data:
               fileName: european-it-consultancy-eitco-gmb-h-member.svg
               hash: ShQtKuCTIYKzciQ6vju8Ocjw78hTgIgVgpI0hYvAZ4I=
@@ -27934,7 +27929,7 @@ landscape:
               city: Brooklyn
               region: New York
               country: United States
-              twitter: https://www.twitter.com/huggingface
+              twitter: https://x.com/huggingface
               linkedin: https://www.linkedin.com/company/huggingface
               acquisitions:
                 - date: '2017-09-13'
@@ -35129,13 +35124,13 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Metoro (member)
+            name: Metoros (member)
             homepage_url: https://metoro.io/
-            logo: metoro.svg
+            logo: metoros.svg
             crunchbase: https://www.crunchbase.com/organization/metoro
             crunchbase_data:
               name: Metoro
-              description: SaaS - AI Powered Site Reliability Engineer
+              description: The Kubernetes Native Observability Platform
               num_employees_min: 1
               num_employees_max: 10
               homepage: https://metoro.io
@@ -35146,17 +35141,18 @@ landscape:
               linkedin: https://www.linkedin.com/company/98393849
               acquisitions: []
               parents: []
-              funding: 500000
+              funding: 1200000
               stockExchange: null
               company_type: For Profit
               industries:
                 - Artificial Intelligence (AI)
+                - Cloud Infrastructure
                 - Generative AI
                 - Software
               kind: funding
             image_data:
-              fileName: metoro-member.svg
-              hash: y8nr4pqfum3mLka34olaVZJ0ufI+/CNC+HLkngXAZpc=
+              fileName: metoros-member.svg
+              hash: Y73nnd6YXWlp5mNw6n0lF5PNjppa0vmVS9rF4vwjzYM=
             best_practice_data:
               badge: false
               percentage: null
@@ -39284,14 +39280,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/orange
             crunchbase_data:
               name: Orange
-              description: Orange is a digital operator that offers mobile and internet services in Europe and Africa, and corporate telecommunication services.
+              description: Orange is a telecommunication operator that provides network management and digital services, as well as promotes data ethics.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://www.orange.com
-              city: Arcueil
+              homepage: https://www.orange.com
+              city: Issy-les-moulineaux
               region: Ile-de-France
               country: France
-              twitter: https://twitter.com/orange
+              twitter: https://x.com/orange
               linkedin: https://www.linkedin.com/company/orange
               acquisitions:
                 - date: '2001-07-04'
@@ -39359,8 +39355,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T17:03:56.000Z
           - item:
             name: ORCASIO, INC (member)
             homepage_url: https://orcasio.com/
@@ -40049,7 +40043,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/webarx/
               acquisitions: []
               parents: []
-              funding: 2160040
+              funding: 7160040
               stockExchange: null
               company_type: For Profit
               industries:
@@ -46318,11 +46312,11 @@ landscape:
               description: Siemens is a technology company that offers cybersecurity, digital consulting, and business services.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: https://www.siemens.com
+              homepage: https://www.siemens.com/
               city: Munich
               region: Bayern
               country: Germany
-              twitter: http://twitter.com/Siemens
+              twitter: https://x.com/Siemens
               linkedin: https://www.linkedin.com/company/siemens
               acquisitions:
                 - date: '1979-01-01'
@@ -46503,10 +46497,10 @@ landscape:
               stockExchange: etr
               company_type: For Profit
               industries:
+                - Artificial Intelligence (AI)
                 - Consulting
                 - Cyber Security
-                - Manufacturing
-                - Real Estate
+                - Internet of Things
             yahoo_finance_data:
               effective_ticker: SIE.DE
             image_data:
@@ -46515,8 +46509,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-18T13:19:41.000Z
           - item:
             name: sifamo (member)
             homepage_url: https://sifamo.com/
@@ -50242,14 +50234,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/tata-consultancy-services
             crunchbase_data:
               name: Tata Consultancy Services
-              description: Tata Consultancy Services is a multinational information technology services, business solutions and consulting company based in India.
+              description: Tata Consultancy Services is a multinational information technology services, business solutions, and consulting company based in India.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.tcs.com
               city: Mumbai
               region: Maharashtra
               country: India
-              twitter: https://twitter.com/TCS_News
+              twitter: https://x.com/tcs
               linkedin: https://www.linkedin.com/company/tata-consultancy-services/
               acquisitions:
                 - date: '2003-05-06'
@@ -50293,10 +50285,10 @@ landscape:
               stockExchange: nse
               company_type: For Profit
               industries:
+                - Business Information Systems
                 - Consulting
-                - Information Services
+                - IT Management
                 - Information Technology
-                - Professional Services
             yahoo_finance_data:
               effective_ticker: TCS.NS
             image_data:
@@ -60465,7 +60457,7 @@ landscape:
               city: Redmond
               region: Washington
               country: United States
-              twitter: https://www.twitter.com/Microsoft
+              twitter: https://x.com/Microsoft
               linkedin: https://www.linkedin.com/company/microsoft
               acquisitions:
                 - date: '1987-07-30'
@@ -69478,4 +69470,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-09-17T04:17:48.637Z
+updated_at: 2024-09-18T02:54:30.277Z
