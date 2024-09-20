@@ -2499,7 +2499,7 @@ landscape:
               description: Huawei is a telecommunication company that designs and develops software solutions, ICT infrastructure, and smart devices.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://huawei.com
+              homepage: https://www.huawei.com/
               city: Shenzhen
               region: Guangdong
               country: China
@@ -2806,11 +2806,11 @@ landscape:
               description: Meta is a social technology company that enables people to connect, find communities, and grow businesses.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: https://meta.com
+              homepage: https://www.meta.com/
               city: Menlo Park
               region: California
               country: United States
-              twitter: https://www.twitter.com/Meta
+              twitter: https://x.com/Meta
               linkedin: https://www.linkedin.com/company/meta
               acquisitions:
                 - date: '2007-07-01'
@@ -8038,14 +8038,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/aia-group
             crunchbase_data:
               name: AIA Group
-              description: AIA Group is a life insurance group that helps individuals and businesses meet financial needs by providing various insurance solutions.
+              description: AIA Group is a life insurance company that helps individuals and businesses meet financial needs by providing various insurance solutions.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://www.aia.com/
+              homepage: https://www.aia.com/en
               city: Central
               region: Hong Kong Island
               country: Hong Kong
-              twitter: http://twitter.com/AIAGroup_Press
+              twitter: https://x.com/AIAGroupLimited
               linkedin: https://www.linkedin.com/company/aia/
               acquisitions:
                 - date: '2017-09-21'
@@ -8987,7 +8987,7 @@ landscape:
               city: Seattle
               region: Washington
               country: United States
-              twitter: http://www.twitter.com/awscloud
+              twitter: https://x.com/awscloud
               linkedin: https://www.linkedin.com/company/amazon-web-services
               acquisitions:
                 - date: '2015-07-14'
@@ -9411,6 +9411,7 @@ landscape:
                   acquiree: INVECAS - High Definition Multimedia Interface
               parents: []
               ticker: ADI
+              funding: 4600000
               stockExchange: nasdaq
               company_type: For Profit
               industries:
@@ -9731,7 +9732,7 @@ landscape:
                   acquiree: 2C2P
                 - date: '2024-07-02'
                   acquiree: MultiSafepay
-                - date: '2024-09-14'
+                - date: '2024-09-13'
                   acquiree: Haodf.com
               parents:
                 - https://www.crunchbase.com/organization/alibaba
@@ -10066,37 +10067,6 @@ landscape:
             image_data:
               fileName: apollo-infoways-private-limited-member.svg
               hash: QIyEmbujTdpP81sS1/WuffuOqCabC8XxDzUMfsjAQTY=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: appCD (member)
-            homepage_url: https://appcd.io/
-            logo: appcd.svg
-            crunchbase: https://www.crunchbase.com/organization/appcd
-            crunchbase_data:
-              name: StackGen
-              description: Generative Infrastructure from Code
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://www.stackgen.com
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: https://x.com/stackgenai
-              linkedin: https://www.linkedin.com/company/appcd
-              acquisitions: []
-              parents: []
-              funding: 12300000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Information Technology
-                - Software
-              kind: funding
-            image_data:
-              fileName: app-cd-member.svg
-              hash: lAMYw+DE+dexG4VR2T5YN4B4aVze8TK5nOS1PWG0uds=
             best_practice_data:
               badge: false
               percentage: null
@@ -14815,7 +14785,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/casperlabs/
               acquisitions: []
               parents: []
-              funding: 49600000
+              funding: 48600000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -17479,7 +17449,7 @@ landscape:
               description: Comcast is a media and technology company that connects millions of people to the moments and experiences that matter most.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: https://c
+              homepage: https://corporate.comcast.com
               city: Philadelphia
               region: Pennsylvania
               country: United States
@@ -24966,7 +24936,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/general-electric
             crunchbase_data:
               name: General Electric
-              description: General Electric offers infrastructure and financial services worldwide.
+              description: General Electric offers infrastructure, manufacturing, energy, aerospace, and financial services worldwide.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.ge.com
@@ -25048,6 +25018,7 @@ landscape:
               stockExchange: nyse
               company_type: For Profit
               industries:
+                - Aerospace
                 - Electronics
                 - Energy
                 - Energy Management
@@ -26816,7 +26787,7 @@ landscape:
               description: HCLTech is a global IT company offering digital, engineering, and cloud solutions partnering with businesses for transformation.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://www.hcltech.com
+              homepage: https://www.hcltech.com/
               city: Noida
               region: Uttar Pradesh
               country: India
@@ -26873,11 +26844,8 @@ landscape:
               stockExchange: nse
               company_type: For Profit
               industries:
-                - Aerospace
-                - Consumer Electronics
                 - IT Management
                 - Information and Communications Technology (ICT)
-                - Media and Entertainment
                 - Outsourcing
                 - Software
                 - Telecommunications
@@ -27876,7 +27844,7 @@ landscape:
               twitter: https://x.com/HSBC
               linkedin: https://www.linkedin.com/company/hsbc
               acquisitions:
-                - date: '2005-12-01'
+                - date: '2005-08-04'
                   acquiree: Metris Companies
                 - date: '2009-05-26'
                   acquiree: PT Bank HSBC Indonesia
@@ -29692,11 +29660,11 @@ landscape:
               description: Intuit offers business and financial management solutions for small businesses, consumers, and self-employed individuals.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://www.intuit.com
+              homepage: https://www.intuit.com
               city: Mountain View
               region: California
               country: United States
-              twitter: https://twitter.com/Intuit
+              twitter: https://x.com/Intuit
               linkedin: https://www.linkedin.com/company/intuit
               acquisitions:
                 - date: '2001-09-25'
@@ -29796,8 +29764,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T20:48:34.000Z
           - item:
             name: Intuitive Technology Partners, Inc. (member)
             homepage_url: https://intuitive.cloud/
@@ -30457,12 +30423,12 @@ landscape:
               description: JP Morgan Chase is a global financial services provider that offers investment banking, asset management, treasury, and other services.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: http://www.jpmorganchase.com
+              homepage: https://www.jpmorganchase.com/
               city: New York
               region: New York
               country: United States
               twitter: https://x.com/jpmorgan
-              linkedin: https://www.linkedin.com/company/jpmorganchase
+              linkedin: https://www.linkedin.com/company/jpmorganchase/
               acquisitions:
                 - date: '1999-09-28'
                   acquiree: Hambrecht & Quist
@@ -30508,7 +30474,6 @@ landscape:
                   acquiree: First Republic Bank
               parents: []
               ticker: JPM
-              funding: 3000000
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -31522,7 +31487,6 @@ landscape:
                 - Developer APIs
                 - Enterprise Software
                 - Open Source
-                - Software
               kind: funding
             image_data:
               fileName: kong-inc-member.svg
@@ -31631,12 +31595,12 @@ landscape:
               description: KPMG is a network of independent member firms offering audit, tax, and advisory services.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: https://home.kpmg
+              homepage: https://kpmg.com
               city: Toronto
               region: Ontario
               country: Canada
-              twitter: http://twitter.com/kpmg
-              linkedin: https://www.linkedin.com/company/kpmg
+              twitter: https://x.com/kpmg
+              linkedin: https://www.linkedin.com/company/kpmg/
               acquisitions:
                 - date: '2011-09-29'
                   acquiree: Optimum Solutions
@@ -32163,7 +32127,7 @@ landscape:
               city: Armonk
               region: New York
               country: United States
-              twitter: http://twitter.com/IBM
+              twitter: https://x.com/IBM
               linkedin: https://www.linkedin.com/company/ibm
               acquisitions:
                 - date: '1923-01-01'
@@ -43241,7 +43205,7 @@ landscape:
               city: Mumbai
               region: Maharashtra
               country: India
-              twitter: https://www.twitter.com/reliancejio
+              twitter: https://x.com/reliancejio
               linkedin: https://www.linkedin.com/company/jio
               acquisitions:
                 - date: '2019-03-29'
@@ -43269,8 +43233,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-20T12:02:27.000Z
           - item:
             name: Replicated, Inc. (member)
             homepage_url: https://replicated.com/
@@ -43646,7 +43608,7 @@ landscape:
               parents: []
             image_data:
               fileName: ris-cstar-solutions-member.svg
-              hash: R4PTCKg1wYVUd0F4XySu4i4WDQHcu6+g7zR0tIoXhWU=
+              hash: gcHL5+500BcwHrIZXAZQI0fFkOozWU0zZ3z7MOwcWSk=
             best_practice_data:
               badge: false
               percentage: null
@@ -48332,6 +48294,37 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-01-27T17:01:26.000Z
           - item:
+            name: StackGen (member)
+            homepage_url: https://stackgen.com/
+            logo: stackgen.svg
+            crunchbase: https://www.crunchbase.com/organization/stackgen
+            crunchbase_data:
+              name: StackGen
+              description: Generative Infrastructure from Code
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.stackgen.com
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://x.com/stackgenai
+              linkedin: https://www.linkedin.com/company/appcd
+              acquisitions: []
+              parents: []
+              funding: 12300000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Technology
+                - Software
+              kind: funding
+            image_data:
+              fileName: stack-gen-member.svg
+              hash: Ql5lNh8zWqvXGjLrplPdC3eavTFcuktY/3CUnGVuOEk=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: stackgenie (member)
             homepage_url: https://stackgenie.io/
             logo: stackgenie.svg
@@ -50315,15 +50308,15 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/tech-mahindra
             crunchbase_data:
               name: Tech Mahindra
-              description: Tech Mahindra is a global systems integrator and is a part of the Mahindra Group.
+              description: Tech Mahindra is a consulting company that offers network, sustainability, application, cloud infrastructure, and business services.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: https://www.techmahindra.com/
-              city: Pune
+              city: Mumbai
               region: Maharashtra
               country: India
-              twitter: http://twitter.com/Tech_Mahindra
-              linkedin: https://www.linkedin.com/company/tech-mahindra
+              twitter: https://x.com/Tech_Mahindra
+              linkedin: https://www.linkedin.com/company/tech-mahindra/
               acquisitions:
                 - date: '2007-01-18'
                   acquiree: iPolicy Networks
@@ -50380,12 +50373,17 @@ landscape:
                 - date: '2022-03-12'
                   acquiree: Thirdware Solution
               parents: []
-              stockExchange: null
+              ticker: TECHM
+              stockExchange: bom
               company_type: For Profit
               industries:
+                - Artificial Intelligence (AI)
+                - Blockchain
                 - Consulting
                 - Network Security
                 - Telecommunications
+            yahoo_finance_data:
+              effective_ticker: TECHM
             image_data:
               fileName: tech-mahindra-limited-member.svg
               hash: eqN6YujrGGRfxZPMEgIdOjwPZcw0vvKsmd6wf8mriV0=
@@ -50854,7 +50852,7 @@ landscape:
                   acquiree: Wiferion
               parents: []
               ticker: TSLA
-              funding: 19374223101
+              funding: 19374213101
               stockExchange: nasdaq
               company_type: For Profit
               industries:
@@ -53833,15 +53831,15 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/verizon
             crunchbase_data:
               name: Verizon Wireless
-              description: Verizon Wireless offers wireless telecommunications services, devices, and solutions.
+              description: Verizon Wireless offers wireless telecommunications services, devices, and solutions for residential and business purposes.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: http://www.verizonwireless.com
               city: Washington
               region: District of Columbia
               country: United States
-              twitter: null
-              linkedin: https://www.linkedin.com/company/verizon-wireless
+              twitter: https://x.com/VZWSmallBiz
+              linkedin: https://www.linkedin.com/company/verizon-wireless-worldwide-wireless-/about/
               acquisitions:
                 - date: '2000-06-30'
                   acquiree: GTE Corporation
@@ -54151,7 +54149,7 @@ landscape:
               description: Vodafone is a mobile telecommunications company that offers voice, messaging, and cellular data services.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: https://www.vodafone.com/
+              homepage: https://www.vodafone.com
               city: Newbury
               region: West Berkshire
               country: United Kingdom
@@ -57044,7 +57042,7 @@ landscape:
               city: Armonk
               region: New York
               country: United States
-              twitter: http://twitter.com/IBM
+              twitter: https://x.com/IBM
               linkedin: https://www.linkedin.com/company/ibm
               acquisitions:
                 - date: '1923-01-01'
@@ -65229,7 +65227,7 @@ landscape:
               linkedin: https://www.linkedin.com/edu/university-of-michigan-18633
               acquisitions: []
               parents: []
-              funding: 305082652
+              funding: 339982652
               stockExchange: null
               company_type: ''
               industries:
@@ -65476,7 +65474,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/rochester-institute-of-technology
             crunchbase_data:
               name: Rochester Institute of Technology
-              description: RIT is a collaborative community that provides a wide range of opportunities through creativity and innovation.
+              description: Rochester Institute of Technology is a collaborative community offering diverse opportunities through creativity and innovation.
               num_employees_min: 1001
               num_employees_max: 5000
               homepage: http://www.rit.edu
@@ -65484,10 +65482,10 @@ landscape:
               region: New York
               country: United States
               twitter: https://twitter.com/RITtigers
-              linkedin: https://www.linkedin.com/company/rochester-institute-of-technology
+              linkedin: https://www.linkedin.com/school/rochester-institute-of-technology
               acquisitions: []
               parents: []
-              funding: 8148635
+              funding: 18048635
               stockExchange: null
               company_type: ''
               industries:
@@ -68051,7 +68049,7 @@ landscape:
               linkedin: https://www.linkedin.com/edu/university-of-michigan-18633
               acquisitions: []
               parents: []
-              funding: 305082652
+              funding: 339982652
               stockExchange: null
               company_type: ''
               industries:
@@ -69459,4 +69457,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-09-19T02:52:21.143Z
+updated_at: 2024-09-20T03:16:27.626Z
