@@ -4433,7 +4433,7 @@ landscape:
               description: Accenture is a professional services company that provides solutions in strategy, consulting, digital, technology and operations.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: https://www.accenture.com/
+              homepage: https://www.accenture.com
               city: Dublin
               region: Dublin
               country: Ireland
@@ -8035,6 +8035,7 @@ landscape:
             name: AIA Shared Services (Hong Kong) Limited (member)
             homepage_url: https://aia.com/
             logo: aia_shared_services_hong_kong_limited.svg
+            twitter: https://twitter.com/AIAGroup_Press
             crunchbase: https://www.crunchbase.com/organization/aia-group
             crunchbase_data:
               name: AIA Group
@@ -18411,7 +18412,7 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T16:00:03.000Z
           - item:
-            name: CrystalDB (member)
+            name: crystaldb.cloud (member)
             homepage_url: https://crystaldb.cloud/
             logo: crystaldb.svg
             crunchbase: https://www.crunchbase.com/organization/crystaldb
@@ -18432,7 +18433,7 @@ landscape:
               company_type: For Profit
               industries: []
             image_data:
-              fileName: crystal-db-member.svg
+              fileName: crystaldb-cloud-member.svg
               hash: gu0xn/kLl8dobh8AtycunMohuIXCw/P9kC8qAZWIrHM=
             best_practice_data:
               badge: false
@@ -22577,11 +22578,23 @@ landscape:
             name: Epsio Labs LTD (member)
             homepage_url: https://epsio.io/
             logo: epsio_labs_ltd.svg
-            organization:
-              name: Epsio Labs LTD
+            crunchbase: https://www.crunchbase.com/organization/epsio
             crunchbase_data:
-              name: Epsio Labs LTD
+              name: Epsio
+              description: Epsio is a streaming SQL engine that enables companies to get instant and always up-to-date results for complex queries.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://epsio.io/
+              city: ' N/A'
+              region: ' N/A'
+              country: ' N/A'
+              twitter: null
+              linkedin: null
+              acquisitions: []
               parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
             image_data:
               fileName: epsio-labs-ltd-member.svg
               hash: C+5D6AxIYZeT63DmCE/zafdYysYMo6uXRoDLMaARvqI=
@@ -26237,14 +26250,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/oppo
             crunchbase_data:
               name: Oppo
-              description: OPPO Electronics Corporation is an electronics manufacturer based in Dongguan, Guangdong, China.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: http://www.oppo.com/en/index.html
+              description: OPPO is an electronics manufacturing company that offers smart phones and IoT products.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.oppo.com
               city: Dongguang
               region: Guangdong
               country: China
-              twitter: http://twitter.com/oppo
+              twitter: https://x.com/oppo
               linkedin: https://www.linkedin.com/company/oppo/
               acquisitions: []
               parents: []
@@ -26260,8 +26273,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-19T11:00:00.000Z
           - item:
             name: Guangdong Sunvega Information Technology Co., Ltd (member)
             homepage_url: https://3vjia.com/
@@ -31101,6 +31112,8 @@ landscape:
                   acquiree: ClioSoft
                 - date: '2024-06-27'
                   acquiree: Anapico
+                - date: '2024-09-19'
+                  acquiree: Optical Solutions Group
               parents: []
               ticker: KEYS
               stockExchange: nyse
@@ -33567,12 +33580,12 @@ landscape:
               description: Lockheed Martin is a global security and aerospace company specialized in advanced technology systems, products and services.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: https://www.lockheedmartin.com/
+              homepage: https://www.lockheedmartin.com
               city: Bethesda
               region: Maryland
               country: United States
               twitter: https://x.com/LockheedMartin
-              linkedin: https://www.linkedin.com/company/lockheed-martin/
+              linkedin: https://www.linkedin.com/company/lockheed-martin
               acquisitions:
                 - date: '1996-01-09'
                   acquiree: Loral Corporation
@@ -40652,15 +40665,15 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/plat-home
             crunchbase_data:
               name: Plat'Home
-              description: Plat'Home's main businesses are private brand servers, storage solutions, MicroServers  and related products and software.
+              description: Plat’Home is specializing in the development and manufacturing of IoT gateways, micro-servers, and network products.
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://www.plathome.com/
               city: Tokyo
               region: Tokyo
               country: Japan
-              twitter: null
-              linkedin: https://www.linkedin.com/company/plat'home
+              twitter: https://x.com/openblocks
+              linkedin: null
               acquisitions: []
               parents: []
               ticker: 6836.T
@@ -40668,6 +40681,8 @@ landscape:
               company_type: For Profit
               industries:
                 - Enterprise
+                - Information Technology
+                - Internet of Things
                 - Software
             yahoo_finance_data:
               effective_ticker: 6836.T
@@ -41902,6 +41917,8 @@ landscape:
                   acquiree: Downtown Paris
                 - date: '2024-07-26'
                   acquiree: Influential
+                - date: '2024-09-19'
+                  acquiree: Mars United Commerce
               parents: []
               ticker: PUB.PA
               stockExchange: epa
@@ -53665,7 +53682,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/veea-inc
             crunchbase_data:
               name: Veea
-              description: Veea is an IoT-based integrated communication platform.
+              description: Veea is Pioneering the Edge Computing Revolution
               num_employees_min: 51
               num_employees_max: 100
               homepage: https://www.veea.com/
@@ -53684,10 +53701,15 @@ landscape:
               company_type: For Profit
               industries:
                 - Developer Platform
+                - Developer Tools
                 - Embedded Systems
+                - Enterprise Applications
+                - Enterprise Software
                 - Information Technology
                 - Intelligent Systems
                 - Internet of Things
+                - PaaS
+                - SaaS
             yahoo_finance_data:
               effective_ticker: VEEA
             image_data:
@@ -69457,4 +69479,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-09-20T03:16:27.626Z
+updated_at: 2024-09-21T02:11:19.413Z
