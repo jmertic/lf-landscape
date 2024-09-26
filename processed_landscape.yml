@@ -2403,7 +2403,7 @@ landscape:
                 - date: '2023-11-06'
                   acquiree: toBe Marketing
               parents: []
-              ticker: 6702.T
+              ticker: 6945.T
               stockExchange: tyo
               company_type: For Profit
               industries:
@@ -2416,7 +2416,7 @@ landscape:
                 - Information and Communications Technology (ICT)
                 - Software
             yahoo_finance_data:
-              effective_ticker: 6702.T
+              effective_ticker: 6945.T
             image_data:
               fileName: fujitsu-limited-member.svg
               hash: xv3hMAuskzfywmm9HnboQIsai2aNZ4y5rHBAInj4PB8=
@@ -5711,7 +5711,7 @@ landscape:
                   acquiree: Oort
                 - date: '2023-08-01'
                   acquiree: Code BGP
-                - date: '2023-08-15'
+                - date: '2023-08-10'
                   acquiree: Working Group Two
                 - date: '2023-09-21'
                   acquiree: Splunk
@@ -6385,7 +6385,7 @@ landscape:
                   acquiree: BrightBytes
                 - date: '2022-10-26'
                   acquiree: Sound Life Sciences
-                - date: '2022-10-28'
+                - date: '2022-10-27'
                   acquiree: Alter
                 - date: '2023-02-27'
                   acquiree: Photomath
@@ -7117,7 +7117,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/aarna-networks-inc.
               acquisitions: []
               parents: []
-              funding: 9666000
+              funding: 10866000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -12195,27 +12195,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Axiata Digital Labs (member)
-            homepage_url: https://axiatadigitallabs.com/
-            project: null
-            logo: axiata_digital_labs.svg
-            twitter: https://twitter.com/ADL_atthelab
-            organization:
-              name: Axiata Digital Labs
-              linkedin: https://www.linkedin.com/company/axiatadigitallabsatthelab
-            crunchbase_data:
-              name: Axiata Digital Labs
-              linkedin: https://www.linkedin.com/company/axiatadigitallabsatthelab
-              parents: []
-            image_data:
-              fileName: axiata-digital-labs-member.svg
-              hash: 0bKdg1AizCg5QB1G1gSU/lSuvOrKK8/vJGFBRDoeZ+o=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-21T06:56:28.000Z
-          - item:
             name: Axis Communications (member)
             homepage_url: https://axis.com/
             project: null
@@ -13289,8 +13268,6 @@ landscape:
                   acquiree: Verse
                 - date: '2020-07-10'
                   acquiree: Stitch Labs
-                - date: '2020-11-25'
-                  acquiree: Credit Karma Tax
                 - date: '2021-03-04'
                   acquiree: TIDAL
                 - date: '2021-07-14'
@@ -34003,41 +33980,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T16:30:00.000Z
           - item:
-            name: Lightstep, Inc. (member)
-            homepage_url: https://lightstep.com/
-            project: null
-            logo: lightstep_inc.svg
-            twitter: https://twitter.com/LightstepHQ
-            crunchbase: https://www.crunchbase.com/organization/lightstep
-            crunchbase_data:
-              name: LightStep
-              description: LightStep's mission is to deliver confidence at scale for those who develop, operate, and rely upon today’s powerful software applications.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: https://lightstep.com/
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: https://www.twitter.com/lightstephq
-              linkedin: https://www.linkedin.com/company/7595344/
-              acquisitions: []
-              parents: []
-              funding: 70000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Application Performance Management
-                - Internet
-                - Software
-                - Software Engineering
-              kind: funding
-            image_data:
-              fileName: lightstep-inc-member.svg
-              hash: l0YYP21Q1JGEUYg/J8TB+ylYHGChR+0n+eymwoTC1Yc=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Like Minds Consulting (member)
             homepage_url: https://likemindsconsulting.com/
             project: null
@@ -39775,11 +39717,23 @@ landscape:
             homepage_url: https://oodle.ai/
             project: null
             logo: oodle.svg
-            organization:
-              name: oodle.ai
+            crunchbase: https://www.crunchbase.com/organization/oodle-ai
             crunchbase_data:
-              name: oodle.ai
+              name: Oodle AI
+              description: Our mission is to make observability radically simple, fast and cost-efficient for every company and engineer on the planet.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://oodle.ai
+              city: ' N/A'
+              region: ' N/A'
+              country: ' N/A'
+              twitter: https://x.com/oodleai
+              linkedin: https://www.linkedin.com/company/oodle-ai/
+              acquisitions: []
               parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries: []
             image_data:
               fileName: oodle-ai-member.svg
               hash: sUUG/CVqK5qOa0dRCAhpOXXJNGSM95UcMGolYsx8JHk=
@@ -41676,7 +41630,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/plural-37ce
             crunchbase_data:
               name: Plural
-              description: Enterprise Kubernetes management, accelerated.
+              description: Plural offers fleet management software that deploys and operates production-ready open-source applications.
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://www.plural.sh
@@ -41687,10 +41641,12 @@ landscape:
               linkedin: https://www.linkedin.com/company/pluralsh
               acquisitions: []
               parents: []
-              funding: 7000000
+              funding: 11072130
               stockExchange: null
               company_type: For Profit
               industries:
+                - Application Performance Management
+                - Enterprise Applications
                 - Internet
                 - Software
               kind: funding
@@ -45411,6 +45367,8 @@ landscape:
                   acquiree: TENYX
                 - date: '2024-09-05'
                   acquiree: Own Company
+                - date: '2024-09-24'
+                  acquiree: Zoomin
               parents: []
               ticker: CRM
               funding: 65375124
@@ -52649,39 +52607,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Thnk Big (member)
-            homepage_url: https://thnkbig.com/
-            project: null
-            logo: thnk_big.svg
-            twitter: https://twitter.com/ThnkBIG
-            crunchbase: https://www.crunchbase.com/organization/thnkbig
-            crunchbase_data:
-              name: THNKBIG
-              description: THNKBIG is a cloud consulting firm.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://www.thnkbig.com/
-              city: Austin
-              region: Texas
-              country: United States
-              twitter: https://twitter.com/thnkbig
-              linkedin: https://www.linkedin.com/company/thnkbig
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-                - Consulting
-            image_data:
-              fileName: thnk-big-member.svg
-              hash: Os5vlcrn0pqGImdOa9j8uTNEFeBAPTqjUrxX9h1eBME=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2023-04-19T23:33:50.000Z
-          - item:
             name: Thornstein Groep (member)
             homepage_url: https://thornstein.nl/
             project: null
@@ -59435,7 +59360,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/columbia-university
             crunchbase_data:
               name: Columbia University
-              description: Columbia University is one of the leading centers of research and a distinctive and distinguished learning environment.
+              description: Columbia University is a research institution and academic center for undergraduate and graduate students across various fields.
               num_employees_min: 10001
               num_employees_max: 1000000
               homepage: https://www.columbia.edu
@@ -59446,7 +59371,7 @@ landscape:
               linkedin: https://www.linkedin.com/school/columbia-university
               acquisitions: []
               parents: []
-              funding: 21819651
+              funding: 21838162
               stockExchange: null
               company_type: ''
               industries:
@@ -66876,7 +66801,7 @@ landscape:
             logo: regents_of_the_university_of_michigan.svg
             crunchbase: https://www.crunchbase.com/organization/university-of-michigan-ann-arbor
             crunchbase_data:
-              name: University of Michigan
+              name: Harvard Business School
               description: The University of Michigan is a public research university that offers undergraduate, graduate, and professional degree programs.
               num_employees_min: 10001
               num_employees_max: 1000000
@@ -69803,7 +69728,7 @@ landscape:
             logo: university_of_michigan.svg
             crunchbase: https://www.crunchbase.com/organization/university-of-michigan-ann-arbor
             crunchbase_data:
-              name: University of Michigan
+              name: Harvard Business School
               description: The University of Michigan is a public research university that offers undergraduate, graduate, and professional degree programs.
               num_employees_min: 10001
               num_employees_max: 1000000
@@ -71270,4 +71195,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-09-25T02:53:28.809Z
+updated_at: 2024-09-26T02:49:12.261Z
