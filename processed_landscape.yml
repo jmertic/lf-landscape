@@ -4734,8 +4734,6 @@ landscape:
                   acquiree: '?What If!'
                 - date: '2019-03-05'
                   acquiree: Enterprise System Partners
-                - date: '2019-03-05'
-                  acquiree: Hjaltelin Stahl
                 - date: '2019-03-15'
                   acquiree: Storm Digital
                 - date: '2019-04-08'
@@ -4762,8 +4760,6 @@ landscape:
                   acquiree: NYTEC
                 - date: '2019-10-10'
                   acquiree: FutureMove Automotive
-                - date: '2019-10-11'
-                  acquiree: Sutter Mills
                 - date: '2019-10-17'
                   acquiree: Happen
                 - date: '2019-10-31'
@@ -11713,7 +11709,7 @@ landscape:
                   acquiree: Wonder Dynamics
                 - date: '2024-06-24'
                   acquiree: Datum360
-                - date: '2024-08-06'
+                - date: '2024-08-05'
                   acquiree: Golaem
               parents: []
               ticker: ADSK
@@ -28328,6 +28324,8 @@ landscape:
                   acquiree: Teradici
                 - date: '2022-03-28'
                   acquiree: Poly
+                - date: '2024-09-25'
+                  acquiree: Vyopta
               parents: []
               ticker: HPQ
               funding: 4250000000
@@ -31967,7 +31965,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/kloudfuse
             crunchbase_data:
               name: Kloudfuse
-              description: Kloudfuse is an observability datalake that scales cost-effectively.
+              description: Kloudfuse is a AI-powered unified observability platform that scales cost-effectively.
               num_employees_min: 11
               num_employees_max: 50
               homepage: https://www.kloudfuse.com/
@@ -31985,6 +31983,7 @@ landscape:
                 - Artificial Intelligence (AI)
                 - Cloud Infrastructure
                 - Data Visualization
+                - Software
               kind: funding
             image_data:
               fileName: kloudfuse-inc-member.svg
@@ -33965,7 +33964,7 @@ landscape:
               linkedin: https://www.linkedin.com/company/lightrun/
               acquisitions: []
               parents: []
-              funding: 27000000
+              funding: 45000000
               stockExchange: null
               company_type: For Profit
               industries:
@@ -50638,14 +50637,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/symphony-3
             crunchbase_data:
               name: Symphony Communication Services
-              description: Symphony Communication Services is a secure and compliant collaboration platform.
+              description: Symphony Communication Services Holdings is a messaging platform that offers a range of communication products, and real-time data services.
               num_employees_min: 501
               num_employees_max: 1000
               homepage: http://www.symphony.com
               city: New York
               region: New York
               country: United States
-              twitter: http://twitter.com/symphony
+              twitter: https://x.com/symphony
               linkedin: https://www.linkedin.com/company/symphonycomm
               acquisitions:
                 - date: '2014-08-01'
@@ -51838,22 +51837,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T10:56:29.000Z
-          - item:
-            name: TensorSecurity Technology Ltd (member)
-            homepage_url: https://tensorsecurity.cn/
-            project: null
-            logo: tensorsecurity_technology_ltd.svg
-            organization:
-              name: TensorSecurity Technology Ltd
-            crunchbase_data:
-              name: TensorSecurity Technology Ltd
-              parents: []
-            image_data:
-              fileName: tensor-security-technology-ltd-member.svg
-              hash: tGD998KQEl5+ykrJKtT7yQ1quaxNnJMlrse2PAFNQws=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: Tenstorrent (member)
             homepage_url: https://tenstorrent.com/
@@ -56978,22 +56961,6 @@ landscape:
             image_data:
               fileName: zenduty-member.svg
               hash: ftbEm3hOctIGfl+6BZPoem48/yenI4+kfm9rs7ydN3A=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Zenosic (member)
-            homepage_url: https://zenosic.com/
-            project: null
-            logo: zenosic.svg
-            organization:
-              name: Zenosic
-            crunchbase_data:
-              name: Zenosic
-              parents: []
-            image_data:
-              fileName: zenosic-member.svg
-              hash: CSVec8jq3izCwCMOb5xH9TT9lzDQn0PGJ4tj9pgwj7k=
             best_practice_data:
               badge: false
               percentage: null
@@ -66669,7 +66636,7 @@ landscape:
                 - date: '2017-04-27'
                   acquiree: Kaplan University
               parents: []
-              funding: 65958245
+              funding: 67858245
               stockExchange: null
               company_type: ''
               industries:
@@ -66801,7 +66768,7 @@ landscape:
             logo: regents_of_the_university_of_michigan.svg
             crunchbase: https://www.crunchbase.com/organization/university-of-michigan-ann-arbor
             crunchbase_data:
-              name: Harvard Business School
+              name: University of Michigan
               description: The University of Michigan is a public research university that offers undergraduate, graduate, and professional degree programs.
               num_employees_min: 10001
               num_employees_max: 1000000
@@ -69728,7 +69695,7 @@ landscape:
             logo: university_of_michigan.svg
             crunchbase: https://www.crunchbase.com/organization/university-of-michigan-ann-arbor
             crunchbase_data:
-              name: Harvard Business School
+              name: University of Michigan
               description: The University of Michigan is a public research university that offers undergraduate, graduate, and professional degree programs.
               num_employees_min: 10001
               num_employees_max: 1000000
@@ -71195,4 +71162,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-09-26T02:49:12.261Z
+updated_at: 2024-09-27T02:54:18.756Z
