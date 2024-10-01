@@ -2809,7 +2809,7 @@ landscape:
               description: Meta is a social technology company that enables people to connect, find communities, and grow businesses.
               num_employees_min: 10001
               num_employees_max: 1000000
-              homepage: https://www.meta.com/
+              homepage: https://www.meta.com
               city: Menlo Park
               region: California
               country: United States
@@ -3018,6 +3018,8 @@ landscape:
                   acquiree: Luxexcel
                 - date: '2023-01-12'
                   acquiree: Gary Sharp Innovations
+                - date: '2024-09-25'
+                  acquiree: Threads
               parents: []
               ticker: META
               funding: 24607817488
@@ -7819,7 +7821,7 @@ landscape:
                   acquiree: MRV Communications
               parents:
                 - https://www.crunchbase.com/organization/swatch-group
-              ticker: UHR.SW
+              ticker: ADVOF
               funding: 3000000
               stockExchange: otcqb
               company_type: For Profit
@@ -7829,7 +7831,7 @@ landscape:
                 - Software
                 - Telecommunications
             yahoo_finance_data:
-              effective_ticker: UHR.SW
+              effective_ticker: ADVOF
             image_data:
               fileName: adtran-holdings-inc-member.svg
               hash: EqKsgRnwhJrERoFmhHxfQYANtylVnm4l5rGmOf7jbws=
@@ -17492,24 +17494,26 @@ landscape:
             logo: codium_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/codiumai
             crunchbase_data:
-              name: CodiumAI
-              description: CodiumAI combines the power of artificial and human intelligence to create a new code integrity paradigm.
+              name: Qodo
+              description: Qodo is a generative AI coding platform that offers AI tools for writing, testing, and reviewing code directly within IDEs and Git.
               num_employees_min: 11
               num_employees_max: 50
-              homepage: https://www.codium.ai
+              homepage: https://www.qodo.ai
               city: Tel Aviv
               region: Tel Aviv
               country: Israel
               twitter: https://twitter.com/CodiumAI
-              linkedin: https://www.linkedin.com/company/codiumai
+              linkedin: https://www.linkedin.com/company/qodoai
               acquisitions: []
               parents: []
-              funding: 10600000
+              funding: 50600000
               stockExchange: null
               company_type: For Profit
               industries:
                 - Artificial Intelligence (AI)
+                - Generative AI
                 - Machine Learning
+                - Software
                 - Web Development
               kind: funding
             image_data:
@@ -43986,14 +43990,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/redeploy
             crunchbase_data:
               name: Redeploy
-              description: We are the Azure and CloudOps experts defining the new standard for how things should be built and run in the cloud.
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://redeploy.com/
+              description: The Powerhouse of Cloud, Data, and AI Specialists.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: https://www.redeploy.com/
               city: Stockholm
               region: Stockholms Lan
               country: Sweden
-              twitter: https://twitter.com/RedeployAB
+              twitter: null
               linkedin: https://www.linkedin.com/company/redeploy-ab
               acquisitions:
                 - date: '2023-03-21'
@@ -44001,7 +44005,9 @@ landscape:
               parents: []
               stockExchange: null
               company_type: For Profit
-              industries: []
+              industries:
+                - IT Infrastructure
+                - Information Technology
             image_data:
               fileName: redeploy-member.svg
               hash: PENvUrS1GRjU5gPf+yM3CwKr4jnyiaNp++Vv6WaOnJs=
@@ -53988,7 +53994,7 @@ landscape:
                   acquiree: Car Next Door
               parents: []
               ticker: UBER
-              funding: 25212450000
+              funding: 30212450000
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -71163,4 +71169,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-09-30T04:07:43.842Z
+updated_at: 2024-10-01T02:30:41.916Z
