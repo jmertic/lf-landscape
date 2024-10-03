@@ -4195,7 +4195,7 @@ landscape:
                   acquiree: StackRox
               parents:
                 - https://www.crunchbase.com/organization/ibm
-              ticker: IBM
+              ticker: IBM.F
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -4206,7 +4206,7 @@ landscape:
                 - Operating Systems
                 - Software
             yahoo_finance_data:
-              effective_ticker: IBM
+              effective_ticker: IBM.F
             image_data:
               fileName: red-hat-inc-member.svg
               hash: lfMRK7hbdSTLsCBR8EEZqpkrpodll4voFn6SQz0DIsY=
@@ -10212,37 +10212,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: AppsCode Inc. (member)
-            homepage_url: https://appscode.com/
-            project: null
-            logo: appscode_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/appscode
-            crunchbase_data:
-              name: AppsCode
-              description: Cloud Native Data Platform
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: https://appscode.com
-              city: Las Vegas
-              region: Nevada
-              country: United States
-              twitter: http://twitter.com/AppsCodeHQ
-              linkedin: https://www.linkedin.com/company/appscode
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Developer Tools
-                - Software
-                - Software Engineering
-            image_data:
-              fileName: apps-code-inc-member.svg
-              hash: 5yn1+TZ9JY+zeohEIPSMOrLVxfMnnwZbPEA4sFFkdZQ=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Appstellar (member)
             homepage_url: https://appstellar.io/
             project: null
@@ -12167,25 +12136,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-08-11T15:06:18.000Z
           - item:
-            name: Axiado (member)
-            homepage_url: https://axiado.com/
-            project: null
-            logo: axiado.svg
-            twitter: https://twitter.com/AxiadoCorp
-            organization:
-              name: Axiado
-              linkedin: https://www.linkedin.com/company/axiado-corporation
-            crunchbase_data:
-              name: Axiado
-              linkedin: https://www.linkedin.com/company/axiado-corporation
-              parents: []
-            image_data:
-              fileName: axiado-member.svg
-              hash: 5KgslTeAaOtnqxx2Fpnpow2+RqlCwP45A3rZMD9Mb+8=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Axis Communications (member)
             homepage_url: https://axis.com/
             project: null
@@ -12597,6 +12547,76 @@ landscape:
             image_data:
               fileName: baumer-management-services-ag-member.svg
               hash: bc1q6dLnlE4gugh9lzBLoCeCipKcesa4W23wr53QcQ0=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Bayer US LLC (member)
+            homepage_url: https://bayer.com/
+            project: null
+            logo: bayer_us_llc.svg
+            twitter: https://twitter.com/Bayer
+            crunchbase: https://www.crunchbase.com/organization/bayer-ag-germany
+            crunchbase_data:
+              name: Bayer
+              description: Bayer is a life science company that specializes in the areas of health care and agriculture.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: https://www.bayer.com
+              city: Leverkusen
+              region: Nordrhein-Westfalen
+              country: Germany
+              twitter: https://www.twitter.com/bayer
+              linkedin: https://www.linkedin.com/company/bayer
+              acquisitions:
+                - date: '2005-03-09'
+                  acquiree: Zeptosens
+                - date: '2006-02-13'
+                  acquiree: Icon Genetics
+                - date: '2010-03-11'
+                  acquiree: Artificial Muscle Inc.
+                - date: '2012-07-01'
+                  acquiree: AgraQuest
+                - date: '2013-12-19'
+                  acquiree: Algeta
+                - date: '2014-10-01'
+                  acquiree: Merck-Consumer Care (MCC)
+                - date: '2014-11-05'
+                  acquiree: Dihon Pharmaceutical
+                - date: '2015-02-15'
+                  acquiree: Zoner.ag
+                - date: '2016-05-23'
+                  acquiree: Monsanto
+                - date: '2020-08-11'
+                  acquiree: KaNDy Therapeutics
+                - date: '2020-08-31'
+                  acquiree: Care/of
+                - date: '2020-10-26'
+                  acquiree: Asklepios BioPharmaceutical
+                - date: '2021-06-03'
+                  acquiree: Noria Therapeutics
+                - date: '2021-08-05'
+                  acquiree: Vividion Therapeutics
+                - date: '2022-11-10'
+                  acquiree: Targenomix
+                - date: '2023-01-18'
+                  acquiree: Blackford Analysis
+              parents: []
+              ticker: BAYN.DE
+              funding: 3723777966
+              stockExchange: etr
+              company_type: For Profit
+              industries:
+                - Biotechnology
+                - Chemical
+                - Health Care
+                - Life Science
+                - Pharmaceutical
+            yahoo_finance_data:
+              effective_ticker: BAYN.DE
+            image_data:
+              fileName: bayer-us-llc-member.svg
+              hash: vk6D7aILRt6wfI5lk9AFJxSXRQv3pMUduJwuDuDiY2Y=
             best_practice_data:
               badge: false
               percentage: null
@@ -22381,6 +22401,22 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: embraceable Technology (member)
+            homepage_url: https://embraceable.ai/
+            project: null
+            logo: embraceable_technology.svg
+            organization:
+              name: embraceable Technology
+            crunchbase_data:
+              name: embraceable Technology
+              parents: []
+            image_data:
+              fileName: embraceable-technology-member.svg
+              hash: sDSl+LSNVxySN/HO0Byb87nwwHSz2JB+BPD/KlR+ys4=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: emlix GmbH (member)
             homepage_url: https://emlix.com/
             project: null
@@ -24750,6 +24786,24 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-02-24T17:22:09.000Z
+          - item:
+            name: Frontier (member)
+            homepage_url: https://frontierhq.com/
+            project: null
+            logo: frontier.svg
+            organization:
+              name: Frontier
+              linkedin: https://www.linkedin.com/company/85886980
+            crunchbase_data:
+              name: Frontier
+              linkedin: https://www.linkedin.com/company/85886980
+              parents: []
+            image_data:
+              fileName: frontier-member.svg
+              hash: YvSDttqjHD2PyMsgfpvU+mcBMIJmp9fKGJT2vRj4/OE=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: ftrack AB (member)
             homepage_url: https://ftrack.com/
@@ -27438,6 +27492,24 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-03-22T14:28:40.000Z
           - item:
+            name: Heeddata (member)
+            homepage_url: https://heeddata.com/
+            project: null
+            logo: heeddata.svg
+            organization:
+              name: Heeddata
+              linkedin: https://www.linkedin.com/company/heeddata
+            crunchbase_data:
+              name: Heeddata
+              linkedin: https://www.linkedin.com/company/heeddata
+              parents: []
+            image_data:
+              fileName: heeddata-member.svg
+              hash: CdD1AP+/pe6GUOV5Ikz6KUjhbShLFV28w3w9po1ERMo=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Helium Systems, Inc. (member)
             homepage_url: https://helium.com/
             project: null
@@ -28407,8 +28479,6 @@ landscape:
               stockExchange: lse
               company_type: For Profit
               industries:
-                - Banking
-                - Finance
                 - Financial Services
             yahoo_finance_data:
               effective_ticker: HSBA.L
@@ -31810,6 +31880,40 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: KIOWY (member)
+            homepage_url: https://kiowy.com/
+            project: null
+            logo: kiowy.svg
+            crunchbase: https://www.crunchbase.com/organization/kiowy
+            crunchbase_data:
+              name: Kiowy
+              description: Kiowy provides IT, cloud computing, Kubernetes, Google cloud platform, docker, cloud-native, and DevOps.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.kiowy.com
+              city: Clermont-ferrand
+              region: Auvergne
+              country: France
+              twitter: null
+              linkedin: https://www.linkedin.com/company/kiowy
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cloud Computing
+                - DevOps
+                - Google
+                - Information Technology
+                - Internet
+                - Software
+            image_data:
+              fileName: kiowy-member.svg
+              hash: h0531ThbzwmFFWO680sAw8j+3TmOmqojO4jb1gEr/pQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Kioxia Corporation (member)
             homepage_url: https://kioxia.com/
             project: null
@@ -33245,8 +33349,8 @@ landscape:
                 - date: '2024-09-17'
                   acquiree: Kubecost
               parents: []
-              ticker: IBM
-              stockExchange: nyse
+              ticker: IBM.F
+              stockExchange: fra
               company_type: For Profit
               industries:
                 - Business Development
@@ -33255,7 +33359,7 @@ landscape:
                 - Data Management
                 - Software
             yahoo_finance_data:
-              effective_ticker: IBM
+              effective_ticker: IBM.F
             image_data:
               fileName: kyndryl-member.svg
               hash: 3rr4sqFiHA4bRSG2qBWV4i7v0xQps/S7wEurr2OcH4o=
@@ -35001,6 +35105,8 @@ landscape:
                   acquiree: Baffin Bay Networks
                 - date: '2024-09-12'
                   acquiree: Recorded Future
+                - date: '2024-10-01'
+                  acquiree: Minna Technologies
               parents: []
               ticker: MA
               stockExchange: nyse
@@ -36484,6 +36590,48 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-21T08:43:42.000Z
+          - item:
+            name: MIPS Tech LLC. (member)
+            homepage_url: https://mips.com/
+            project: null
+            logo: mips_tech_llc.svg
+            twitter: https://twitter.com/MIPSGuru
+            crunchbase: https://www.crunchbase.com/organization/mips-technologies
+            crunchbase_data:
+              name: MIPS Technologies
+              description: MIPS Technologies develops AI-based compute processing, related intellectual property for Automotive, Data Centers and Embedded AI markets
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: http://www.mips.com
+              city: San Jose
+              region: California
+              country: United States
+              twitter: https://x.com/i/flow/login?redirect_after_login=%2Fmips_riscv
+              linkedin: https://www.linkedin.com/company/mips-technologies
+              acquisitions:
+                - date: '2002-07-18'
+                  acquiree: Algorithmics Ltd
+                - date: '2005-09-06'
+                  acquiree: First Silicon Solutions
+                - date: '2007-08-27'
+                  acquiree: Chipidea Microelectrónica
+              parents: []
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence (AI)
+                - Automotive
+                - Data Center
+                - Hardware
+                - Intellectual Property
+                - Semiconductor
+                - Wireless
+            image_data:
+              fileName: mips-tech-llc-member.svg
+              hash: UDN1E5VoHsHUClhrhZEnWdiuvdAif3V4dRLJwEEckbU=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Mirantis, Inc. (member)
             homepage_url: https://mirantis.com/
@@ -38502,7 +38650,7 @@ landscape:
               acquisitions: []
               parents: []
               ticker: NIO
-              funding: 10096342063
+              funding: 9625673285
               stockExchange: sgx
               company_type: For Profit
               industries:
@@ -41177,6 +41325,38 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Permify (member)
+            homepage_url: https://permify.co/
+            project: null
+            logo: permify.svg
+            crunchbase: https://www.crunchbase.com/organization/permify
+            crunchbase_data:
+              name: Permify
+              description: Permify engages in the development of API for access control and authorization.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.permify.co/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/GetPermify
+              linkedin: https://www.linkedin.com/company/permifyco/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Cyber Security
+                - Developer APIs
+                - Information Technology
+                - Software
+            image_data:
+              fileName: permify-member.svg
+              hash: ro7nnTwBBCNK+OqkT8Y7ZQeM0noTgf2F241Rit4Y+fk=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Permit.io (member)
             homepage_url: https://permit.io/
             project: null
@@ -42949,6 +43129,24 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: QANplatform (member)
+            homepage_url: https://qanplatform.com/
+            project: null
+            logo: qanplatform.svg
+            organization:
+              name: QANplatform
+              linkedin: https://www.linkedin.com/company/qanplatform
+            crunchbase_data:
+              name: QANplatform
+              linkedin: https://www.linkedin.com/company/qanplatform
+              parents: []
+            image_data:
+              fileName: qa-nplatform-member.svg
+              hash: XxmU+lOVYqpPcxmfobv6ffC08VMiEEW2lYK7jblFre4=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: QAware GmbH (member)
             homepage_url: https://qaware.de/
             project: null
@@ -44386,45 +44584,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T13:04:22.000Z
-          - item:
-            name: Ribbon Communications Operating Company, Inc. (member)
-            homepage_url: https://ribboncommunications.com/
-            project: null
-            logo: ribbon_communications_operating_company_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/ribbon-communications
-            crunchbase_data:
-              name: Ribbon Communications
-              description: 'Ribbon Communications is a company with two decades of leadership in real-time communications. '
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: https://ribboncommunications.com/
-              city: Westford
-              region: Massachusetts
-              country: United States
-              twitter: https://twitter.com/ribboncomm
-              linkedin: https://www.linkedin.com/company/ribbon-communications/
-              acquisitions:
-                - date: '2018-06-25'
-                  acquiree: Edgewater Networks
-                - date: '2019-02-04'
-                  acquiree: Anova Data
-                - date: '2019-11-14'
-                  acquiree: ECI Telecom
-              parents: []
-              ticker: RBBN
-              funding: 490400000
-              stockExchange: nasdaq
-              company_type: For Profit
-              industries:
-                - Telecommunications
-            yahoo_finance_data:
-              effective_ticker: RBBN
-            image_data:
-              fileName: ribbon-communications-operating-company-inc-member.svg
-              hash: 0NB2hoCXBxZpE3MWAtynYeFXV9ZbdLnU+vPv62WlaZU=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: Ricoh Company, Ltd. (member)
             homepage_url: https://ricoh.com/
@@ -45920,6 +46079,24 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: ScaleUP (member)
+            homepage_url: https://scaleupit.com.br/
+            project: null
+            logo: scaleup.svg
+            organization:
+              name: ScaleUP
+              linkedin: https://www.linkedin.com/company/scaleup-consultoria
+            crunchbase_data:
+              name: ScaleUP
+              linkedin: https://www.linkedin.com/company/scaleup-consultoria
+              parents: []
+            image_data:
+              fileName: scale-up-member.svg
+              hash: z70bS+nDuBlWIPkT+kx/aCv095RxdAK8LkKVW5nWF9E=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Scaleway (member)
             homepage_url: https://scaleway.com/
             project: null
@@ -46783,6 +46960,24 @@ landscape:
             image_data:
               fileName: serviceware-member.svg
               hash: SdDSpVPsSskqh+N6bWgoBakQFM6m+IjBfLx+JnNeink=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: SETIT Solutions (member)
+            homepage_url: https://setitonline.com/
+            project: null
+            logo: setit_solutions.svg
+            organization:
+              name: SETIT Solutions
+              linkedin: https://www.linkedin.com/company/setit-solutions
+            crunchbase_data:
+              name: SETIT Solutions
+              linkedin: https://www.linkedin.com/company/setit-solutions
+              parents: []
+            image_data:
+              fileName: setit-solutions-member.svg
+              hash: 4nKdoehg4PkNIsPlbW6t3EP2IzROyxzDdKhIgksv5T4=
             best_practice_data:
               badge: false
               percentage: null
@@ -48010,6 +48205,24 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T16:54:03.000Z
           - item:
+            name: SmartCirqls Infotech Private Limited (member)
+            homepage_url: https://qila.io/
+            project: null
+            logo: smartcirqls_infotech_private_limited.svg
+            organization:
+              name: SmartCirqls Infotech Private Limited
+              linkedin: https://www.linkedin.com/company/qila-io
+            crunchbase_data:
+              name: SmartCirqls Infotech Private Limited
+              linkedin: https://www.linkedin.com/company/qila-io
+              parents: []
+            image_data:
+              fileName: smart-cirqls-infotech-private-limited-member.svg
+              hash: 1OZFnzB+tRXQjfl9AcRhe6Sf3mCQc7cK7PnVpYzMa1o=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: SmartContract Inc. (member)
             homepage_url: https://chainlinklabs.com/
             project: null
@@ -48440,41 +48653,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-11-21T11:08:27.000Z
-          - item:
-            name: Solace (member)
-            homepage_url: https://solace.com/
-            project: null
-            logo: solace.svg
-            crunchbase: https://www.crunchbase.com/organization/solace
-            crunchbase_data:
-              name: Solace
-              description: Solace’s is a PubSub+ event management platform that creates, documents, discover and stream events from where they are produced.
-              num_employees_min: 251
-              num_employees_max: 500
-              homepage: https://solace.com
-              city: Ottawa
-              region: Ontario
-              country: Canada
-              twitter: https://www.twitter.com/solacedotcom
-              linkedin: https://www.linkedin.com/company/solacedotcom
-              acquisitions: []
-              parents: []
-              funding: 14589960
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Infrastructure
-                - Communication Hardware
-                - Hardware
-                - Information Technology
-                - SaaS
-              kind: funding
-            image_data:
-              fileName: solace-member.svg
-              hash: 3DdMWS8UEaEcZkwtQo/bh10gYRbF7mXItVubHLvICMs=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: SolidRun Ltd (member)
             homepage_url: https://solid-run.com/
@@ -49616,6 +49794,39 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T09:01:17.000Z
+          - item:
+            name: STCLAB (member)
+            homepage_url: https://stclab.com/
+            project: null
+            logo: stclab.svg
+            crunchbase: https://www.crunchbase.com/organization/stc-lab
+            crunchbase_data:
+              name: STCLab
+              description: STCLab, a Seoul-based startup, offers online traffic management solutions. With a US branch in Minnesota, STCLab drives global growth.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: http://www.stclab.com/
+              city: Seoul
+              region: Seoul-t'ukpyolsi
+              country: South Korea
+              twitter: null
+              linkedin: https://www.linkedin.com/company/globalstclab
+              acquisitions: []
+              parents: []
+              funding: 6878738
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Enterprise Software
+                - Information Technology
+                - Software
+              kind: funding
+            image_data:
+              fileName: stclab-member.svg
+              hash: aqLdmqwqYLTDxXPByala+s86EeFqC7GA/TAkQR3oei0=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Steamhaus (member)
             homepage_url: https://steamhaus.co.uk/
@@ -53754,6 +53965,24 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Tsavorite Scalable Intelligence, inc (member)
+            homepage_url: https://tsavoritesi.com/
+            project: null
+            logo: tsavorite_scalable_intelligence_inc.svg
+            organization:
+              name: Tsavorite Scalable Intelligence, inc
+              linkedin: https://www.linkedin.com/company/tsavorite-scalable-intelligence
+            crunchbase_data:
+              name: Tsavorite Scalable Intelligence, inc
+              linkedin: https://www.linkedin.com/company/tsavorite-scalable-intelligence
+              parents: []
+            image_data:
+              fileName: tsavorite-scalable-intelligence-inc-member.svg
+              hash: uco5jHjUo7VqMbZFbyoncogeRiAp6XPZ067sL/mEq94=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Turk Telekomünikasyon A.S. (member)
             homepage_url: https://turktelekom.com.tr/
             project: null
@@ -56963,6 +57192,22 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Zenosic (member)
+            homepage_url: https://zenosic.com/
+            project: null
+            logo: zenosic.svg
+            organization:
+              name: Zenosic
+            crunchbase_data:
+              name: Zenosic
+              parents: []
+            image_data:
+              fileName: zenosic-member.svg
+              hash: CSVec8jq3izCwCMOb5xH9TT9lzDQn0PGJ4tj9pgwj7k=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Zesty Tech Ltd. (member)
             homepage_url: https://zesty.co/
             project: null
@@ -58274,6 +58519,24 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T20:38:45.000Z
           - item:
+            name: BSV Association (member)
+            homepage_url: https://association.bsvblockchain.org/
+            project: null
+            logo: bsv_association.svg
+            organization:
+              name: BSV Association
+              linkedin: https://www.linkedin.com/company/bsvblockchain
+            crunchbase_data:
+              name: BSV Association
+              linkedin: https://www.linkedin.com/company/bsvblockchain
+              parents: []
+            image_data:
+              fileName: bsv-association-member.svg
+              hash: Uex/LRm2tr4N11YJ3d2cjw/wM6kO8rooC3xeWa3dcH8=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Budapest University of Technology and Economics (member)
             homepage_url: https://mit.bme.hu/
             project: null
@@ -58768,8 +59031,8 @@ landscape:
                 - date: '2024-09-17'
                   acquiree: Kubecost
               parents: []
-              ticker: IBM
-              stockExchange: nyse
+              ticker: IBM.F
+              stockExchange: fra
               company_type: For Profit
               industries:
                 - Business Development
@@ -58778,7 +59041,7 @@ landscape:
                 - Data Management
                 - Software
             yahoo_finance_data:
-              effective_ticker: IBM
+              effective_ticker: IBM.F
             image_data:
               fileName: call-for-code-member.svg
               hash: sU6hl2Y3psdm8km+9IMzEfwJntrzHlVgMoGCJUZ9grg=
@@ -61206,6 +61469,24 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-21T10:13:21.000Z
           - item:
+            name: FIX Trading Community (member)
+            homepage_url: https://fixtrading.org/
+            project: null
+            logo: fix_trading_community.svg
+            organization:
+              name: FIX Trading Community
+              linkedin: https://www.linkedin.com/company/fix-protocol
+            crunchbase_data:
+              name: FIX Trading Community
+              linkedin: https://www.linkedin.com/company/fix-protocol
+              parents: []
+            image_data:
+              fileName: fix-trading-community-member.svg
+              hash: hB1t6TWs9aL8ok8p+rAhExXTTW8dXpyrArgmaN3vyt0=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: ForBladi Association (member)
             homepage_url: https://forbladi.org/
             project: null
@@ -62432,6 +62713,24 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-06-24T15:56:54.000Z
+          - item:
+            name: Hong Kong Monetary Authority (member)
+            homepage_url: https://hkma.gov.hk/
+            project: null
+            logo: hong_kong_monetary_authority.svg
+            organization:
+              name: Hong Kong Monetary Authority
+              linkedin: https://www.linkedin.com/company/hong-kong-monetary-authority
+            crunchbase_data:
+              name: Hong Kong Monetary Authority
+              linkedin: https://www.linkedin.com/company/hong-kong-monetary-authority
+              parents: []
+            image_data:
+              fileName: hong-kong-monetary-authority-member.svg
+              hash: LLIodztdisajjK+eAsG1IiWFP+L6xtKl4pEnD/0j+vY=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Houston Advanced Research Center (member)
             homepage_url: https://harcresearch.org/
@@ -63941,6 +64240,22 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-14T20:32:27.000Z
+          - item:
+            name: Lewis & Clark College (member)
+            homepage_url: https://www.lclark.edu/
+            project: null
+            logo: lewis_clark_college.svg
+            organization:
+              name: Lewis & Clark College
+            crunchbase_data:
+              name: Lewis & Clark College
+              parents: []
+            image_data:
+              fileName: lewis-clark-college-member.svg
+              hash: /2oYKpDAIM+tYCc81gPoSwlCwjcGG7qMklb8Vy2WdTw=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: LFCA Umweltschutz e.V. (member)
             homepage_url: https://lfca.earth/
@@ -66775,7 +67090,7 @@ landscape:
               region: Michigan
               country: United States
               twitter: https://twitter.com/UMich
-              linkedin: https://www.linkedin.com/edu/university-of-michigan-18633
+              linkedin: https://www.linkedin.com/school/university-of-michigan
               acquisitions: []
               parents: []
               funding: 339982652
@@ -66795,6 +67110,40 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2023-04-20T20:03:14.000Z
+          - item:
+            name: Rensselaer Polytechnic Institute (member)
+            homepage_url: https://rpi.edu/
+            project: null
+            logo: rensselaer_polytechnic_institute.svg
+            twitter: https://twitter.com/rpi
+            crunchbase: https://www.crunchbase.com/organization/rensselaer-polytechnic-institute
+            crunchbase_data:
+              name: Rensselaer Polytechnic Institute
+              description: Rensselaer Polytechnic Institute is a technological research university that offers bachelor's, master's, and doctoral degrees.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.rpi.edu/
+              city: Troy
+              region: New York
+              country: United States
+              twitter: https://twitter.com/RPInews
+              linkedin: https://www.linkedin.com/edu/school?id=19005&trk=edu-up-nav-menu-home
+              acquisitions: []
+              parents: []
+              funding: 49303
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Education
+                - Knowledge Management
+                - Universities
+              kind: funding
+            image_data:
+              fileName: rensselaer-polytechnic-institute-member.svg
+              hash: 3RQXNdi7cLiWMnrsFNVXGZNmLRCU54XA+rTusLGb9bU=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Research Institutes of Sweden (member)
             homepage_url: https://ri.se/
@@ -69554,6 +69903,40 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: University of Leeds (member)
+            homepage_url: https://leeds.ac.uk/
+            project: null
+            logo: university_of_leeds.svg
+            twitter: https://twitter.com/UniversityLeeds
+            crunchbase: https://www.crunchbase.com/organization/university-of-leeds-england
+            crunchbase_data:
+              name: University of Leeds
+              description: The University of Leeds is Yorkshire's oldest and largest university
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: http://www.leeds.ac.uk/
+              city: Leeds
+              region: Leeds
+              country: United Kingdom
+              twitter: http://twitter.com/universityleeds
+              linkedin: https://www.linkedin.com/edu/university-of-leeds-12706
+              acquisitions: []
+              parents: []
+              funding: 992982
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Education
+                - Higher Education
+                - Universities
+              kind: funding
+            image_data:
+              fileName: university-of-leeds-member.svg
+              hash: BuaamNmZlrAbY8AWUVsloeESg2VZmEjDfzEGo69/rCM=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: University of Limerick (member)
             homepage_url: https://ul.ie/
             project: null
@@ -69702,7 +70085,7 @@ landscape:
               region: Michigan
               country: United States
               twitter: https://twitter.com/UMich
-              linkedin: https://www.linkedin.com/edu/university-of-michigan-18633
+              linkedin: https://www.linkedin.com/school/university-of-michigan
               acquisitions: []
               parents: []
               funding: 339982652
@@ -71160,4 +71543,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-10-02T04:09:46.085Z
+updated_at: 2024-10-03T02:29:10.804Z
