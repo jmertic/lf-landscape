@@ -3564,7 +3564,7 @@ landscape:
                   acquiree: Miburo
                 - date: '2022-12-09'
                   acquiree: Lumenisity
-                - date: '2022-12-15'
+                - date: '2023-01-09'
                   acquiree: Fungible
                 - date: '2024-06-06'
                   acquiree: Inflection AI
@@ -12445,7 +12445,7 @@ landscape:
                   acquiree: AxiaMed
               parents: []
               ticker: BAC
-              funding: 1200000000
+              funding: 3200000000
               stockExchange: nyse
               company_type: For Profit
               industries:
@@ -23393,7 +23393,7 @@ landscape:
                   acquiree: Q4 Associates
                 - date: '2022-08-16'
                   acquiree: Cambria Solutions
-                - date: '2022-10-10'
+                - date: '2022-10-11'
                   acquiree: Red Moki
                 - date: '2022-11-21'
                   acquiree: Bridge Business Consulting
@@ -24842,13 +24842,23 @@ landscape:
             homepage_url: https://frontierhq.com/
             project: null
             logo: frontier.svg
-            organization:
-              name: Frontier
-              linkedin: https://www.linkedin.com/company/85886980
+            crunchbase: https://www.crunchbase.com/organization/frontier-f469
             crunchbase_data:
               name: Frontier
-              linkedin: https://www.linkedin.com/company/85886980
+              description: Operate predictably. Innovate safely. It's not just a tagline, it's our engineering philosophy. It guides everything we do.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://frontierhq.com
+              city: ' N/A'
+              region: ' N/A'
+              country: ' N/A'
+              twitter: null
+              linkedin: https://www.linkedin.com/company/frontierhq/
+              acquisitions: []
               parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries: []
             image_data:
               fileName: frontier-member.svg
               hash: YvSDttqjHD2PyMsgfpvU+mcBMIJmp9fKGJT2vRj4/OE=
@@ -38570,6 +38580,7 @@ landscape:
                   acquiree: RED Digital Cinema
               parents: []
               ticker: 7731.T
+              funding: 184000000
               stockExchange: tyo
               company_type: For Profit
               industries:
@@ -39813,10 +39824,10 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: oodle.ai (member)
+            name: Oodle AI, Inc. (member)
             homepage_url: https://oodle.ai/
             project: null
-            logo: oodle.svg
+            logo: oodle_ai_inc.svg
             crunchbase: https://www.crunchbase.com/organization/oodle-ai
             crunchbase_data:
               name: Oodle AI
@@ -39835,7 +39846,7 @@ landscape:
               company_type: For Profit
               industries: []
             image_data:
-              fileName: oodle-ai-member.svg
+              fileName: oodle-ai-inc-member.svg
               hash: sUUG/CVqK5qOa0dRCAhpOXXJNGSM95UcMGolYsx8JHk=
             best_practice_data:
               badge: false
@@ -47603,6 +47614,8 @@ landscape:
                   acquiree: Industrial drive technology - ebm-papst
                 - date: '2024-09-10'
                   acquiree: Trayer Engineering
+                - date: '2024-10-08'
+                  acquiree: Danfoss Fire Safety
               parents: []
               ticker: SIE.DE
               funding: 5511200288
@@ -62525,7 +62538,7 @@ landscape:
                   acquiree: Miburo
                 - date: '2022-12-09'
                   acquiree: Lumenisity
-                - date: '2022-12-15'
+                - date: '2023-01-09'
                   acquiree: Fungible
                 - date: '2024-06-06'
                   acquiree: Inflection AI
@@ -68787,6 +68800,22 @@ landscape:
             twitter_data:
               latest_tweet_date: 2023-04-20T15:01:52.000Z
           - item:
+            name: The Fin AI (member)
+            homepage_url: https://thefin.ai/
+            project: null
+            logo: the_fin_ai.svg
+            organization:
+              name: The Fin AI
+            crunchbase_data:
+              name: The Fin AI
+              parents: []
+            image_data:
+              fileName: the-fin-ai-member.svg
+              hash: yrecS5MlojVFnxhbyujsZB16K2zKe8M2ICEOrUK802M=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: The Green Web Foundation (member)
             homepage_url: https://thegreenwebfoundation.org/
             project: null
@@ -71480,4 +71509,4 @@ landscape:
 twitter_options:
   count: 2
   since_id: '1617151021599584257'
-updated_at: 2024-10-08T02:42:31.976Z
+updated_at: 2024-10-09T02:55:32.241Z
