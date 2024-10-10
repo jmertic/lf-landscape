@@ -1,4 +1,4 @@
-[![dependencies Status](https://david-dm.org/jmertic/lf-landscape/status.svg)](https://david-dm.org/jmertic/lf-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/4e7f5868-c8de-4e99-8c77-a3b855c61f7d/deploy-status)](https://app.netlify.com/sites/lf-landscape/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4e7f5868-c8de-4e99-8c77-a3b855c61f7d/deploy-status)](https://app.netlify.com/sites/lf-landscape/deploys)
 
 # Linux Foundation Landscape
 
