@@ -421,6 +421,12 @@ landscape:
             twitter: https://twitter.com/Exoscale
             crunchbase: https://www.crunchbase.com/organization/exoscale
           - item:
+            name: Akka (member)
+            homepage_url: https://akka.io/
+            logo: akka.svg
+            twitter: https://twitter.com/lightbend
+            crunchbase: https://www.crunchbase.com/organization/typesafe
+          - item:
             name: Akuity, Inc. (member)
             homepage_url: https://akuity.io/
             logo: akuity_inc.svg
@@ -3165,11 +3171,6 @@ landscape:
               name: Greenpixie
               linkedin: https://www.linkedin.com/company/greenpixie
           - item:
-            name: Greptime HK Limited (member)
-            homepage_url: https://greptime.com/
-            logo: greptime_hk_limited.svg
-            crunchbase: https://www.crunchbase.com/organization/greptime
-          - item:
             name: greymatter.io (member)
             homepage_url: https://greymatter.io/
             logo: greymatter.svg
@@ -4177,11 +4178,6 @@ landscape:
             homepage_url: https://lg.com/
             logo: lg_electronics_inc.svg
             crunchbase: https://www.crunchbase.com/organization/lg
-          - item:
-            name: Lightbend Inc (member)
-            homepage_url: https://lightbend.com/akka
-            logo: lightbend_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/typesafe
           - item:
             name: Lightmatter (member)
             homepage_url: https://lightmatter.co/
@@ -14297,6 +14293,24 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/dizme
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkV7DQAV
           - item:
+            name: DLRover
+            second_path:
+              - Project Group / LF AI & Data
+              - Technology Sector / AI, ML, Data & Analytics
+            description: >-
+              The mission of the Project is to make the distributed training of large AI models easy, stable, fast and green through the training of deep
+              learning models on a distributed cluster.
+            homepage_url: https://github.com/intelligent-machine-learning/dlrover
+            logo: dlrover.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2024-11-14'
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-ai-foundation/overview?project=dlrover
+              annotations:
+                slug: dlrover
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/dlrover
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfLddDETmHG1AVn8v3
+          - item:
             name: Dojo
             second_path:
               - Project Group / OpenJS Foundation
@@ -16959,6 +16973,25 @@ landscape:
                 slug: ojsf-json
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ojsf-json
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MSufpQAD
+          - item:
+            name: Jupyter Foundation
+            second_path:
+              - Project Group / The Linux Foundation
+              - Technology Sector / AI, ML, Data & Analytics
+            description: >-
+              The purpose of the Jupyter Foundation (the “Directed Fund”) is to raise, budget and spend funds in support of Project Jupyter and its mission,
+              established as a project of LF Charities, Inc. (the “Project Jupyter”), in accordance with the provisions of this Charter. The governance of
+              Project Jupyter is as set forth in the governance documents for Project Jupyter.
+            homepage_url: https://jupyterfoundation.org/
+            logo: jupyter_foundation.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2024-11-18'
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/tlf/overview?project=jupyter-foundation
+              annotations:
+                slug: jupyter-foundation
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/jupyter-foundation
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfx8PfPcaAAbevANl3
           - item:
             name: k3s
             second_path:
@@ -25682,9 +25715,9 @@ landscape:
 
               z/OS Open Tools also distributes binaries for each of the tools as Github releases. It also provides a z/OS UNIX package manager (zopen) that
               makes it easy to consume the 180+ tools directly on z/OS.
-            homepage_url: https://zosopentools.github.io/meta/
-            repo_url: https://github.com/ZOSOpenTools/.github
-            project_org: https://github.com/ZOSOpenTools
+            homepage_url: https://zopen.community/
+            repo_url: https://github.com/zopencommunity/m4port
+            project_org: https://github.com/zopencommunity
             logo: zopen.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
