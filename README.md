@@ -15,6 +15,15 @@ All the data in this repository is built nightly using the [LFX Landscape Tools]
 
 If you cannot access the above resources, please [create a helpdesk ticket](https://members.linuxfoundation.org) to request those changes.
 
+## Local Build and Install
+
+You can build the landscape locally on your machine using the (landscape2)[https://github.com/cncf/landscape2] tool. Once [installed](https://github.com/cncf/landscape2?tab=readme-ov-file#installation), you can use the commands below to build the landscape and serve it locally.
+
+```shell
+landscape2 build --data-file landscape.yml --settings-url https://raw.githubusercontent.com/cncf/landscape2-sites/refs/heads/main/lf/settings.yml --logos-path hosted_logos --output-dir build
+landscape2 serve --landscape-dir build
+```
+
 ## License
 
 The generated landscape contains data received from [Crunchbase](http://www.crunchbase.com). This data is not licensed pursuant to the Apache License. It is subject to Crunchbase’s Data Access Terms, available at [https://data.crunchbase.com/docs/terms](https://data.crunchbase.com/docs/terms), and is only permitted to be used with Linux Foundation landscape projects.
