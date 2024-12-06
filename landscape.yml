@@ -14100,28 +14100,6 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/xen
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wBzGAAU
           - item:
-            name: XGVela
-            homepage_url: https://xgvela.org/
-            logo: xgvela.svg
-            repo_url: https://github.com/XGVela/XGVela
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            project_org: https://github.com/XGVela
-            description: An open source cloud native PaaS for applications and telco network functions, which is to enable new services and help mobile operators to seize the business
-              opportunity from vertical industries in the 5G era.
-            second_path:
-              - Project Group / LF Networking (LFN)
-              - PMO Managed / All
-              - Industry / Telecommunications
-              - Technology Sector / Cloud, Containers & Virtualization
-              - Technology Sector / Networking & Edge
-            extra:
-              accepted: '2020-04-20'
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfn/overview?project=XGVela
-              annotations:
-                slug: XGVela
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/XGVela
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IXaRAQA1
-          - item:
             name: YANG Tools
             homepage_url: https://wiki.opendaylight.org/display/ODL/YANG+Tools
             logo: yang_tools.svg
@@ -16210,7 +16188,11 @@ landscape:
             logo: authzed.svg
             twitter: https://twitter.com/authzed
             crunchbase: https://www.crunchbase.com/organization/authzed
-            description: "Creators of SpiceDB: open-source permissions database inspired by Google's Zanzibar. YC W21. Join hundreds of devs securing their systems at https://t.co/isYSvrjC0P"
+            description: |-
+              authzed builds and operates authorization systems that scale with your business.
+
+              By taking inspiration from the internal system at Google, they created the SpiceDB open source project.
+              SpiceDB is available open source, commercially supported on-premise, and fully managed in dedicated cloud environments operated by authzed.
             extra:
               linkedin_url: https://www.linkedin.com/company/authzed
           - item:
