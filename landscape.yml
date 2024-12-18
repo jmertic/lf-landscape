@@ -11486,26 +11486,6 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/rez
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkM0JQAV
           - item:
-            name: R-Hub
-            homepage_url: https://builder.r-hub.io/
-            logo: r_hub.svg
-            repo_url: https://github.com/r-hub/cran.github.io
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            project_org: https://github.com/r-hub
-            description: The R-hub builder offers free R CMD Check as a service on different platforms. It is a project supported by the R Consortium.
-            second_path:
-              - Project Group / R Consortium
-              - Industry / Cross-Industry
-              - Technology Sector / System Engineering
-              - Technology Sector / AI, ML, Data & Analytics
-            extra:
-              accepted: '2016-03-01'
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/rcons/overview?project=r-hub
-              annotations:
-                slug: r-hub
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/r-hub
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4L5QAL
-          - item:
             name: RISC-V International
             homepage_url: https://riscv.org/
             logo: risc_v_international.svg
@@ -11625,6 +11605,26 @@ landscape:
                 slug: runc
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/runc
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWr7YQAT
+          - item:
+            name: R Validation Hub
+            homepage_url: https://builder.r-hub.io/
+            logo: r_validation_hub.svg
+            repo_url: https://github.com/r-hub/cran.github.io
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            project_org: https://github.com/r-hub
+            description: The R-hub builder offers free R CMD Check as a service on different platforms. It is a project supported by the R Consortium.
+            second_path:
+              - Project Group / R Consortium
+              - Industry / Cross-Industry
+              - Technology Sector / System Engineering
+              - Technology Sector / AI, ML, Data & Analytics
+            extra:
+              accepted: '2016-03-01'
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/rcons/overview?project=r-hub
+              annotations:
+                slug: r-hub
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/r-hub
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4L5QAL
           - item:
             name: Ryoma
             homepage_url: https://www.project-aita.com/
@@ -35114,6 +35114,16 @@ landscape:
             description: The University of New South Wales is an Australian public research university located in the Sydney suburb of Kensington.
             extra:
               linkedin_url: https://www.linkedin.com/company/university-of-new-south-wales
+          - item:
+            name: University of Oregon (member)
+            homepage_url: https://uoregon.edu/
+            logo: university_of_oregon.svg
+            twitter: https://twitter.com/uoregon
+            crunchbase: https://www.crunchbase.com/organization/university-of-oregon-3
+            description: The University of Oregon is a public, coeducational research university in Eugene, Oregon. The University of Oregon has 19 research centers and institutes and
+              was admitted to the Association of American Universities in 1969.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/university-of-oregon
           - item:
             name: University of Rochester Medical Center (member)
             homepage_url: https://urmc.rochester.edu/
