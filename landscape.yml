@@ -398,6 +398,22 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/opnfv-airship
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs5sQAD
           - item:
+            name: AI SIG
+            homepage_url: https://lfenergy.org/working-groups/lf-energy-artificial-intelligence-ai/
+            logo: ai_sig.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            description: LF Energy SIG focused on AI
+            second_path:
+              - Project Group / LF Energy (LFE)
+              - Technology Sector / AI, ML, Data & Analytics
+            extra:
+              accepted: '2023-11-01'
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfenergy/overview?project=lf-energy-ai-sig
+              annotations:
+                slug: lf-energy-ai-sig
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/lf-energy-ai-sig
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfJZDTtwe7PzYugoTH
+          - item:
             name: Ajv
             homepage_url: https://ajv.js.org/
             logo: ajv.svg
@@ -1442,6 +1458,59 @@ landscape:
                 slug: cdk8s
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cdk8s
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkVBKQA3
+          - item:
+            name: CDSC Connectivity WG (WG3)
+            homepage_url: https://connectivity.carbondataspec.org/
+            logo: cdsc_connectivity_wg_wg3.svg
+            repo_url: https://github.com/carbon-data-specification/Connectivity
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            description: The Carbon Data Specification (CDS) is a data dictionary for raw data and a standard for data requirements that enable energy data access for measuring, quantifying,
+              and tracking carbon emissions.
+            second_path:
+              - Project Group / LF Energy Standards and Specifications (LFESS)
+              - Technology Sector / Safety-Critical Systems
+            extra:
+              accepted: '2024-06-26'
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-energy-standards-and-specifications/overview?project=cdsc-connectivity-wg
+              annotations:
+                slug: cdsc-connectivity-wg
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cdsc-connectivity-wg
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lftcOCnS1t49JtW1Zj
+          - item:
+            name: CDSC Customer Data WG (WG1)
+            homepage_url: https://customerdata.carbondataspec.org/
+            logo: cdsc_customer_data_wg_wg1.svg
+            repo_url: https://github.com/carbon-data-specification/Customer-Data
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            description: This working group focuses on writing free, open specifications for providing utility customer data access, in order to facilitate carbon emissions calculations
+              and decarbonization efforts.
+            second_path:
+              - Project Group / LF Energy Standards and Specifications (LFESS)
+              - Technology Sector / Cross-Technology
+            extra:
+              accepted: '2022-10-13'
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-energy-standards-and-specifications/overview?project=cdsc1
+              annotations:
+                slug: cdsc1
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cdsc1
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NVQt3QAH
+          - item:
+            name: CDSC Power System Data WG (WG2)
+            homepage_url: https://powersystemsdata.carbondataspec.org/
+            logo: cdsc_power_system_data_wg_wg2.svg
+            repo_url: https://github.com/carbon-data-specification/Power-Systems-Data
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            description: An open specification for raw electric power system data to facilitate a systematic and more accurate approach to report grid emissions.
+            second_path:
+              - Project Group / LF Energy Standards and Specifications (LFESS)
+              - Technology Sector / Cross-Technology
+            extra:
+              accepted: '2022-10-13'
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-energy-standards-and-specifications/overview?project=cdsc2
+              annotations:
+                slug: cdsc2
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cdsc2
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NVQt4QAH
           - item:
             name: Centaurus Infrastructure Project
             homepage_url: https://centauruscloud.io/
@@ -4690,6 +4759,26 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/green-software-foundation-fund
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWqXIQA1
           - item:
+            name: Grid Edge Interoperability & Security Alliance (GEISA)
+            homepage_url: https://lfenergy.org/projects/geisa/
+            logo: grid_edge_interoperability_security_alliance_geisa.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            description: GEISA creates the secure, interoperable ecosystem to streamline the cybersecurity, deployment, scaling and operation of next-generation grid edge computing and
+              applications. This computing and application ecosystem focuses on capabilities around grid operations, DER orchestration, AI, and other advanced functionality, with standard
+              metering and billing out of scope. Security and interoperability driven by open technology and compliance testing ensure utilities can confidently create the best solution
+              for their needs, and continue delivering reliable, safe, cost-effective power while meeting rapidly evolving grid modernization challenges. Vendors embrace the open ecosystem
+              to accelerate innovation, increase security, and improve competitiveness around value-add services of analytics, AI, and grid optimization.
+            second_path:
+              - Project Group / LF Energy (LFE)
+              - Technology Sector / Cross-Technology
+            extra:
+              accepted: '2024-11-05'
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfenergy/overview?project=geisa
+              annotations:
+                slug: geisa
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/geisa
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf9JyPreYpr2H4waXR
+          - item:
             name: Grid eXchange Fabric (GXF)
             homepage_url: https://www.lfenergy.org/projects/gxf/
             logo: grid_exchange_fabric_gxf.svg
@@ -4711,6 +4800,23 @@ landscape:
                 slug: grid-exchange-fabric
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/grid-exchange-fabric
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs7KQAT
+          - item:
+            name: GridFM
+            homepage_url: https://lfenergy.org/projects/gridfm/
+            logo: gridfm.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            description: This project aims at developing foundation models for electrical grids (GridFMs). Foundation Models (FMs), pre-trained on large data sets and adapted to a broad
+              set of applications, are revolutionizing the field of Artificial Intelligence (AI).
+            second_path:
+              - Project Group / LF Energy (LFE)
+              - Technology Sector / Cross-Technology
+            extra:
+              accepted: '2024-11-11'
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfenergy/overview?project=gridfm
+              annotations:
+                slug: gridfm
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/gridfm
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfGFeSdSUJqLdBHTBZ
           - item:
             name: Grid Operations SIG
             homepage_url: https://lf-energy.atlassian.net/wiki/spaces/GOS/overview
@@ -11730,6 +11836,25 @@ landscape:
                 slug: sbomit
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/sbomit
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfYa3PTrXFT95dSQuj
+          - item:
+            name: SC Decarbonisation Hub
+            homepage_url: https://lfenergy.org/projects/sc-decarbonisation-hub/
+            logo: sc_decarbonisation_hub.svg
+            repo_url: https://github.com/sc-decarbonization-hub/SCDH
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            project_org: https://github.com/sc-decarbonization-hub
+            description: Oil and Gas companies face extreme pressure to address GHG emissions. Proactively addressing scope 3 emissions for suppliers and other cases could help improve
+              scope 3 accountability. Such data and insights can help an organization to come up with a mitigation plan.
+            second_path:
+              - Project Group / LF Energy (LFE)
+              - Technology Sector / Cross-Technology
+            extra:
+              accepted: '2024-09-26'
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfenergy/overview?project=sc-decarbonisation-hub
+              annotations:
+                slug: sc-decarbonisation-hub
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/sc-decarbonisation-hub
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfLxmTMlwn9Fj9aCbx
           - item:
             name: SchemaHero
             homepage_url: https://schemahero.io/
