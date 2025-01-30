@@ -3159,7 +3159,9 @@ landscape:
             name: DeepSpeed
             homepage_url: https://www.deepspeed.ai/
             logo: deepspeed.svg
+            repo_url: https://github.com/deepspeedai/fastgen
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            project_org: https://github.com/deepspeedai
             description: The mission of the Project is to develop a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
             second_path:
               - Project Group / LF AI & Data
@@ -7066,10 +7068,10 @@ landscape:
               - Technology Sector / Blockchain
             extra:
               accepted: '2018-01-16'
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-decentralized-trust/overview?project=hyperlabs
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-decentralized-trust/overview?project=lf-decentralized-trust-labs
               annotations:
-                slug: hyperlabs
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/hyperlabs
+                slug: lf-decentralized-trust-labs
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/lf-decentralized-trust-labs
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkG7WQAV
           - item:
             name: LF Edge
@@ -14946,6 +14948,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/american-honda-motor-company-inc-
           - item:
+            name: Mitsubishi Electric Corporation (member)
+            homepage_url: https://mea.com/
+            logo: mitsubishi_electric_corporation.svg
+            twitter: https://twitter.com/MELCOAuto
+            crunchbase: https://www.crunchbase.com/organization/mitsubishi-electric
+            description: Mitsubishi Electric is one of the world's leading names in the manufacture and sales of electrical and electronic products and systems used in a broad range
+              of fields and applications. As a global, leading green company, the company is applying their technologies to contribute to society and daily life around the world.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mitsubishi-electric-australia
+          - item:
             name: Panasonic Automotive Systems Co., Ltd. (member)
             homepage_url: https://automotive.panasonic.com/en
             logo: panasonic_automotive_systems_co_ltd.svg
@@ -17977,7 +17989,12 @@ landscape:
             logo: cloudsmith_ltd.svg
             twitter: https://twitter.com/cloudsmith
             crunchbase: https://www.crunchbase.com/organization/cloudsmith-io
-            description: Cloudsmith is the leading Continuous Packaging platform for engineers looking to set up a secure, cloud-native artifact repository in 60 seconds.
+            description: |-
+              Cloudsmith is the leading Continuous Packaging platform for engineers looking to set up a secure, cloud-native artifact repository in 60 seconds.
+
+              --- Merged Data:
+
+              Cloudsmith is a provider of cutting-edge software and platforms designed to optimize cloud potential. They offer secure software delivery for a wide range of technologies and provide Cloud consultancy, training, and contracting services for financial a...
             extra:
               linkedin_url: https://www.linkedin.com/company/cloudsmith
           - item:
@@ -19063,10 +19080,12 @@ landscape:
             logo: doit_international.svg
             twitter: https://twitter.com/doitint
             crunchbase: https://www.crunchbase.com/organization/doit-international
-            description: DoiT International works with fast growing, digital native companies globally, to help solve essential and complex cloud challenges. Combining intelligent software
-              that simplifies and automates cloud use with expert consultancy and unlimited technical support, DoiT delivers the true promise of the cloud at peak efficiency - with ease,
-              not cost. DoiT’s technology is backed by deep multicloud expertise in the analytics, optimization and governance of cloud architecture, as well as specializations in Kubernetes,
-              artificial intelligence and more. An award-winning strategic partner of Google Cloud and AWS, DoiT works alongside more than 3,000 customers to save them time and money.
+            description: |-
+              DoiT International works with fast growing, digital native companies globally, to help solve essential and complex cloud challenges. Combining intelligent software that simplifies and automates cloud use with expert consultancy and unlimited technical support, DoiT delivers the true promise of the cloud at peak efficiency - with ease, not cost. DoiT’s technology is backed by deep multicloud expertise in the analytics, optimization and governance of cloud architecture, as well as specializations in Kubernetes, artificial intelligence and more. An award-winning strategic partner of Google Cloud and AWS, DoiT works alongside more than 3,000 customers to save them time and money.
+
+              --- Merged Data:
+
+              DoiT International simplifies and automates cloud use, offering multicloud expertise in analytics, optimization, and governance. They help companies optimize costs, agility, and BigQuery usage, maximize AWS Spot savings, and autonomously identify cost ...
             extra:
               linkedin_url: https://www.linkedin.com/company/doit-sa
           - item:
@@ -23256,16 +23275,6 @@ landscape:
               linkedin_url: 
                 https://www.linkedin.com/company/%E3%83%9F%E3%83%A9%E3%82%AF%E3%82%B7%E3%82%A2-%E3%82%A8%E3%83%83%E3%82%B8%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE
           - item:
-            name: Mitsubishi Electric Corporation (member)
-            homepage_url: https://mea.com/
-            logo: mitsubishi_electric_corporation.svg
-            twitter: https://twitter.com/MELCOAuto
-            crunchbase: https://www.crunchbase.com/organization/mitsubishi-electric
-            description: Mitsubishi Electric is one of the world's leading names in the manufacture and sales of electrical and electronic products and systems used in a broad range
-              of fields and applications. As a global, leading green company, the company is applying their technologies to contribute to society and daily life around the world.
-            extra:
-              linkedin_url: https://www.linkedin.com/company/mitsubishi-electric-australia
-          - item:
             name: mogenius (member)
             homepage_url: https://mogenius.com/
             logo: mogenius.svg
@@ -25571,8 +25580,12 @@ landscape:
             homepage_url: https://runwhen.com/
             logo: runwhen_inc.svg
             crunchbase: https://www.crunchbase.com/organization/runwhen
-            description: RunWhen simplifies troubleshooting for cloud systems with AI-powered Digital Assistants, connecting SREs and community experts to enhance reliability and streamline
-              team operations.
+            description: |-
+              RunWhen simplifies troubleshooting for cloud systems with AI-powered Digital Assistants, connecting SREs and community experts to enhance reliability and streamline team operations.
+
+              --- Merged Data:
+
+              RunWhen simplifies troubleshooting for cloud systems with AI-powered Digital Assistants, connecting SREs and community experts to enhance reliability and streamline team operations.
             extra:
               linkedin_url: https://www.linkedin.com/company/runwhen
           - item:
