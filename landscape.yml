@@ -9189,9 +9189,11 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs6xQAD
           - item:
             name: OpenDSM
-            homepage_url: https://www.lfenergy.org/projects/openeemeter/
+            homepage_url: https://lfenergy.org/projects/opendsm/
             logo: opendsm.svg
+            repo_url: https://github.com/opendsm/eemeter
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            project_org: https://github.com/opendsm
             description: |-
               The mission of the Project is to develop an open source project with the following goals:
 
@@ -18118,15 +18120,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/cme-group
           - item:
-            name: Codefresh, Inc. (member)
-            homepage_url: https://codefresh.io/
-            logo: codefresh_inc.svg
-            twitter: https://twitter.com/codefresh
-            crunchbase: https://www.crunchbase.com/organization/code-fresh
-            description: Codefresh's CI/CD platform integrates with the tools you already use and empowers teams of all sizes to build & release pipelines faster at scale.
-            extra:
-              linkedin_url: https://www.linkedin.com/company/codefresh
-          - item:
             name: Code Intelligence (member)
             homepage_url: https://code-intelligence.com/
             logo: code_intelligence.svg
@@ -22006,6 +21999,21 @@ landscape:
             description: We track changes and alerts across your K8s stack and provide devs, DevOps and SRE teams the context they need to troubleshoot efficiently. Independently.
             extra:
               linkedin_url: https://www.linkedin.com/company/komodor-ltd
+          - item:
+            name: Kondux (member)
+            homepage_url: https://kondux.io/
+            logo: kondux.svg
+            description: |-
+              Kondux is a company that specializes in developing and operating a Web3 dApp called Kondux kNFT Marketplace. The marketplace is designed to facilitate the buying, selling, and trading of kNFTs (Kondux Non-Fungible Tokens). These tokens represent unique...
+
+              --- Merged Data:
+
+              Kondux is a Web3 design lab for artists and brands. They seek to expand the metaverse with AI-powered technology and NVIDIA Omniverse tools. They build the gateway to bridge the worlds of crypto and NFTs to the 3D internet through 'real-time rollups' u...
+            organization:
+              name: Kondux
+              linkedin: https://www.linkedin.com/company/kondux-labs
+            extra:
+              linkedin_url: https://www.linkedin.com/company/kondux-labs
           - item:
             name: Kong Inc. (member)
             homepage_url: https://konghq.com/
