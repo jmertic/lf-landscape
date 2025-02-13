@@ -15099,6 +15099,22 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NVDPsQAP
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfenergy/overview?project=lf-energy-standards-and-specifications
           - item:
+            name: LF Japan
+            homepage_url: https://www.linuxfoundation.jp/
+            logo: lf_japan.svg
+            description: LF Japan supports local collaboration and working groups for the Japenese open source community.
+            second_path:
+              - Project Group / The Linux Foundation
+              - Technology Sector / Cross-Technology
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2003-01-01'
+              annotations:
+                slug: lf-japan
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/lf-japan
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf3StRVIzV2gLDRIpH
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/tlf/overview?project=lf-japan
+          - item:
             name: LF Networking (LFN)
             homepage_url: https://www.lfnetworking.org/
             logo: lf_networking_lfn.svg
@@ -22124,10 +22140,10 @@ landscape:
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/tlf/overview?project=pqca
             additional_repos:
               - repo_url: https://github.com/PQCA/.github
-              - repo_url: https://github.com/PQCA/CBOMkit-action
               - repo_url: https://github.com/PQCA/TAC
               - repo_url: https://github.com/PQCA/artwork
               - repo_url: https://github.com/PQCA/calendar
+              - repo_url: https://github.com/PQCA/cbomkit-action
               - repo_url: https://github.com/PQCA/documentation
               - repo_url: https://github.com/PQCA/landscape
               - repo_url: https://github.com/PQCA/wg-algorithms
@@ -22403,6 +22419,7 @@ landscape:
               - repo_url: https://github.com/prometheus/docs
               - repo_url: https://github.com/prometheus/exporter-toolkit
               - repo_url: https://github.com/prometheus/golang-builder
+              - repo_url: https://github.com/prometheus/governance
               - repo_url: https://github.com/prometheus/graphite_exporter
               - repo_url: https://github.com/prometheus/haproxy_exporter
               - repo_url: https://github.com/prometheus/host_exporter
@@ -27389,6 +27406,7 @@ landscape:
               - repo_url: https://github.com/oscal-compass/compliance-trestle-template-component-definition
               - repo_url: https://github.com/oscal-compass/compliance-trestle-template-profile
               - repo_url: https://github.com/oscal-compass/compliance-trestle-template-system-security-plan
+              - repo_url: https://github.com/oscal-compass/e2e-demo-cac-catalog-cis
               - repo_url: https://github.com/oscal-compass/oscal-compass.github.io
               - repo_url: https://github.com/oscal-compass/oscal-content
               - repo_url: https://github.com/oscal-compass/oscal-insights
@@ -29051,7 +29069,7 @@ landscape:
               - repo_url: https://github.com/zephyrproject-rtos/pr-dashboard
               - repo_url: https://github.com/zephyrproject-rtos/proposals
               - repo_url: https://github.com/zephyrproject-rtos/python-devicetree
-              - repo_url: https://github.com/zephyrproject-rtos/qm
+              - repo_url: https://github.com/zephyrproject-rtos/qm_old
               - repo_url: https://github.com/zephyrproject-rtos/reqmgmt
               - repo_url: https://github.com/zephyrproject-rtos/rtos-benchmark
               - repo_url: https://github.com/zephyrproject-rtos/sdk-ng
@@ -32777,17 +32795,6 @@ landscape:
               from leading Cloud providers and assistance in migrating services to AWS, helping companies ...
             crunchbase: https://www.crunchbase.com/organization/cno
           - item:
-            name: CloudSaver (member)
-            homepage_url: https://cloudsaver.com/
-            logo: cloudsaver.svg
-            description: CloudSaver
-            twitter: https://twitter.com/Cloud_Saver
-            organization:
-              name: CloudSaver
-              linkedin: https://www.linkedin.com/company/cloudsaver
-            extra:
-              linkedin_url: https://www.linkedin.com/company/cloudsaver
-          - item:
             name: Cloudsmith Ltd (member)
             homepage_url: https://cloudsmith.com/
             logo: cloudsmith_ltd.svg
@@ -33848,17 +33855,6 @@ landscape:
             twitter: https://twitter.com/digitalocean
             extra:
               linkedin_url: https://www.linkedin.com/company/digitalocean
-          - item:
-            name: DigitalPlatforms (member)
-            homepage_url: https://dplatforms.it/
-            logo: digitalplatforms.svg
-            description: DigitalPlatforms is an Italian group offering end-to-end IoT solutions to Defense, Public Administration, and critical infrastructure sectors through a network
-              of SMEs, engineers, and IT consultants.
-            organization:
-              name: DigitalPlatforms
-              linkedin: https://www.linkedin.com/company/digitalplatformsspa
-            extra:
-              linkedin_url: https://www.linkedin.com/company/digitalplatformsspa
           - item:
             name: Discover Financial Services (member)
             homepage_url: https://discover.com/
@@ -35001,18 +34997,6 @@ landscape:
             twitter: https://twitter.com/GenesisGlobalX
             extra:
               linkedin_url: https://www.linkedin.com/company/genesis-global-technology
-          - item:
-            name: German Edge Cloud GmbH (member)
-            homepage_url: https://gec.io/
-            logo: german_edge_cloud_gmbh.svg
-            description: |-
-              Formerly iNNOVO Cloud Gmbh, renamed November 2020 (Taylor W)
-
-              iNNOVO, der deutsche Cloud Anbieter stellt ein breites Portfolio an modularisierten IT Services aus lokalen Frankfurter Rechenzentren zur Verfügung.
-            crunchbase: https://www.crunchbase.com/organization/innovo-cloud
-            twitter: https://twitter.com/germanedgecloud
-            extra:
-              linkedin_url: https://www.linkedin.com/company/german-edge-cloud
           - item:
             name: Giant Swarm GmbH (member)
             homepage_url: https://giantswarm.io/
@@ -44090,6 +44074,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/whizus
           - item:
+            name: WIIT AG (member)
+            homepage_url: https://wiit.cloud/
+            logo: wiit_ag.svg
+            description: WIIT is a leading premium cloud provider offering Cloud and CyberSecurity services with a strong focus on managing complex and critical environments. The company
+              has certified expertise in SAP, Oracle, and Microsoft applications, along with proprietary...
+            crunchbase: https://www.crunchbase.com/organization/wiit-spa
+            extra:
+              linkedin_url: https://www.linkedin.com/company/wiit
+          - item:
             name: Wind River Systems, Inc. (member)
             homepage_url: https://windriver.com/
             logo: wind_river_systems_inc.svg
@@ -44446,15 +44439,6 @@ landscape:
             twitter: https://twitter.com/Roost
             extra:
               linkedin_url: https://www.linkedin.com/company/roost
-          - item:
-            name: Zilliz (member)
-            homepage_url: https://zilliz.com/
-            logo: zilliz.svg
-            description: Zilliz was founded in 2017 and operates as a distributed team with offices in both the U.S. and China.
-            crunchbase: https://www.crunchbase.com/organization/zilliz
-            twitter: https://twitter.com/zilliz_universe
-            extra:
-              linkedin_url: https://www.linkedin.com/company/zilliz
           - item:
             name: Zoi (member)
             homepage_url: https://en.zoi.de/
