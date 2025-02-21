@@ -3633,26 +3633,6 @@ landscape:
               - repo_url: https://github.com/DPDK/dpdk-stable
               - repo_url: https://github.com/DPDK/grout
           - item:
-            name: Data Practices
-            homepage_url: https://datapractices.org/
-            logo: data_practices.svg
-            description: DataPractices.org was pioneered by data.world as a “Manifesto for Data Practices” of four values and 12 principles that illustrate the most effective, ethical,
-              and modern approach to data teamwork. As a member of the foundation, datapractices.org will expand to offer open courseware and establish a collaborative approach to defining
-              and refining data best practices.
-            second_path:
-              - Project Group / LF AI & Data
-              - Industry / Cross-Industry
-              - Technology Sector / AI, ML, Data & Analytics
-              - Technology Sector / Open Source & Compliance Best Practices
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2019-03-19'
-              annotations:
-                slug: datapractices
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/datapractices
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4Q5QAL
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-ai-foundation/overview?project=datapractices
-          - item:
             name: Datashim
             homepage_url: https://datashim.io/
             logo: datashim.svg
@@ -7718,8 +7698,8 @@ landscape:
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/project-jupyter/overview?project=jupyter-book
             additional_repos:
               - repo_url: https://github.com/jupyter-book/blog
+              - repo_url: https://github.com/jupyter-book/book-theme-tailwind-quickstart
               - repo_url: https://github.com/jupyter-book/hatch-deps-selector
-              - repo_url: https://github.com/jupyter-book/jupyter-book
           - item:
             name: Jupyter Foundation
             homepage_url: https://jupyterfoundation.org/
