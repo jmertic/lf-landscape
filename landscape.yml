@@ -14677,6 +14677,23 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWr7YQAT
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/opencontainers/overview?project=runc
           - item:
+            name: Runme Notebooks
+            homepage_url: https://runme.dev/
+            logo: runme_notebooks.svg
+            description: The mission of the project is to provide a toolchain that turns Markdown into interactive, cloud-native, runnable Notebook experiences for DevOps.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/stateful/runme
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-02-21'
+              annotations:
+                slug: runme-notebooks
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/runme-notebooks
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfbDQpqyoW1enow48y
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=runme-notebooks
+          - item:
             name: runtime-spec
             homepage_url: https://opencontainers.org/
             logo: runtime_spec.svg
@@ -17357,6 +17374,22 @@ landscape:
               - repo_url: https://github.com/todogroup/.github
               - repo_url: https://github.com/todogroup/artwork
               - repo_url: https://github.com/todogroup/assets
+          - item:
+            name: Tokenetes
+            homepage_url: https://tratteria.io/
+            logo: tokenetes.svg
+            description: The mission of the Project is to assure identity and context in microservices call chains.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-02-21'
+              annotations:
+                slug: tratteria
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/tratteria
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfYeJYa0SSNeCm6TgM
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=tratteria
           - item:
             name: TonY Project
             homepage_url: https://lfaidata.foundation/projects/tony/
@@ -21712,9 +21745,7 @@ landscape:
             homepage_url: https://causely.ai/
             logo: causely.svg
             description: Causely pinpoints the root cause of errors so that you can consistently meet reliability expectations of application users in complex, cloud-native environments.
-            organization:
-              name: Causely
-              linkedin: https://www.linkedin.com/company/causely-ai
+            crunchbase: https://www.crunchbase.com/organization/causely-509c
             extra:
               linkedin_url: https://www.linkedin.com/company/causely-ai
           - item:
@@ -24454,6 +24485,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/genesis-global-technology
           - item:
+            name: Ghana Link Network Service (member)
+            homepage_url: https://glns.info/
+            logo: ghana_link_network_service.svg
+            description: Ghana Link Network Service Ltd. is an Information Technology Company leading the future of trade. They envision a world where trade is conducted seamlessly across
+              borders, enabling people and businesses to exchange goods and knowledge effortlessly for ...
+            organization:
+              name: Ghana Link Network Service
+          - item:
             name: Giant Swarm GmbH (member)
             homepage_url: https://giantswarm.io/
             logo: giant_swarm_gmbh.svg
@@ -26897,6 +26936,12 @@ landscape:
               linkedin: https://www.linkedin.com/company/lsdopen
             extra:
               linkedin_url: https://www.linkedin.com/company/lsdopen
+          - item:
+            name: Lucid Computing Inc. (member)
+            homepage_url: https://lucidcomputing.ai/
+            logo: lucid_computing_inc.svg
+            organization:
+              name: Lucid Computing Inc.
           - item:
             name: Lucidity.cloud (member)
             homepage_url: https://lucidity.cloud/
@@ -29997,20 +30042,6 @@ landscape:
               linkedin: https://www.linkedin.com/company/sandboxaq
             extra:
               linkedin_url: https://www.linkedin.com/company/sandboxaq
-          - item:
-            name: SanDisk Corporation (member)
-            homepage_url: https://sandisk.com/
-            logo: sandisk_corporation.svg
-            description: |-
-              2013 10-K filing: Employees
-
-
-
-              As of December 29, 2013, we had 5,459 full-time employees, including 2,487 in research and development, 713 in sales and marketing, 527 in general and administrative, and 1,732 in operations. None of our employees is represented by a collective bargaining agreement and we have never experienced any employee work stoppage. We believe that our employee relations are good.
-            crunchbase: https://www.crunchbase.com/organization/western-digital-capital
-            twitter: https://twitter.com/westerndigital
-            extra:
-              linkedin_url: https://www.linkedin.com/company/western-digital
           - item:
             name: Sanofi (member)
             homepage_url: https://sanofi.com/
@@ -33999,8 +34030,10 @@ landscape:
               51-200 employees
               Specialties
               P/C insurance policy forms, loss cost rating information, manual rules, statistical reporting, product compliance, and data analysis
-            crunchbase: https://www.crunchbase.com/organization/american-association-of-insurance-services
             twitter: https://twitter.com/AAISConnect
+            organization:
+              name: AAIS (American Association of Insurance Services)
+              linkedin: https://www.linkedin.com/company/aais-american-association-of-insurance-services
             extra:
               linkedin_url: https://www.linkedin.com/company/aais-american-association-of-insurance-services
           - item:
