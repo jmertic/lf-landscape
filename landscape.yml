@@ -2968,6 +2968,23 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWeiIQAT
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/onap/overview?project=onap-cps
           - item:
+            name: container2wasm
+            homepage_url: https://github.com/ktock/container2wasm
+            logo: container2wasm.svg
+            description: The mission of the project is to provide a tool to run containers on Wasm-enabled environments.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/ktock/container2wasm
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-02-21'
+              annotations:
+                slug: container2wasm
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/container2wasm
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfDyqKXXNqbCguWcbh
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=container2wasm
+          - item:
             name: Containerd
             homepage_url: https://containerd.io/
             logo: containerd.svg
@@ -4403,6 +4420,28 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/d7y
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IfVnNQAV
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=d7y
+          - item:
+            name: Drasi
+            homepage_url: https://drasi.io/
+            logo: drasi.svg
+            description: The Drasi project enables creation of a change data processing platform that automates real-time detection, evaluation, and meaningful reaction to events in
+              complex, event-driven systems.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/drasi-project/docs
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-02-21'
+              annotations:
+                slug: drasi
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/drasi
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfjn0i8tMxoH2PEeYc
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=drasi
+            additional_repos:
+              - repo_url: https://github.com/drasi-project/.github
+              - repo_url: https://github.com/drasi-project/community
+              - repo_url: https://github.com/drasi-project/drasi-core
           - item:
             name: Driver Backport Workgroup
             homepage_url: https://backports.wiki.kernel.org/index.php/Main_Page
@@ -6227,6 +6266,7 @@ landscape:
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
+            repo_url: https://github.com/gridfm-energy/gridfm-data-zoo
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-11-11'
@@ -6235,6 +6275,7 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/gridfm
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfGFeSdSUJqLdBHTBZ
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfenergy/overview?project=gridfm
+            additional_repos: []
           - item:
             name: Grid Operations SIG
             homepage_url: https://lf-energy.atlassian.net/wiki/spaces/GOS/overview
@@ -8389,6 +8430,24 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kubeedge
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IfTjOQAV
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=kubeedge
+          - item:
+            name: KubeFleet
+            homepage_url: https://github.com/Azure/fleet
+            logo: kubefleet.svg
+            description: The mission of the project is to provide a multi-cluster solution that enables users to effectively manage their applications running in multiple Kubernetes
+              clusters.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/Azure/fleet
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-03-24'
+              annotations:
+                slug: kubefleet
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kubefleet
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfdiYFaTHKx9hXX9qE
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=kubefleet
           - item:
             name: Kube-OVN
             homepage_url: https://github.com/alauda/kube-ovn
@@ -21696,15 +21755,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/cariad-tech
           - item:
-            name: CasperLabs LLC (member)
-            homepage_url: https://casperlabs.io/
-            logo: casperlabs_llc.svg
-            description: Blockchain for the builders - upgradable smart contracts & predictable gas fees.     Tweets by the official Casper Association
-            crunchbase: https://www.crunchbase.com/organization/casperlabs
-            twitter: https://twitter.com/Casper_Network
-            extra:
-              linkedin_url: https://www.linkedin.com/company/casperlabs
-          - item:
             name: CAST (member)
             homepage_url: https://castsoftware.com/
             logo: cast.svg
@@ -22427,16 +22477,6 @@ landscape:
             twitter: https://twitter.com/cogsystems
             extra:
               linkedin_url: https://www.linkedin.com/company/cog-systems-pty-ltd-
-          - item:
-            name: Colder Products Co (member)
-            homepage_url: https://cpcworldwide.com/
-            logo: colder_products_co.svg
-            description: CPC (Colder Products Company) is the leading innovator of quick connect / disconnect fluid couplings, fittings and connectors. Bio, medical and industrial rated.
-              Contact us today!
-            crunchbase: https://www.crunchbase.com/organization/dover
-            twitter: https://twitter.com/ColderProducts
-            extra:
-              linkedin_url: https://www.linkedin.com/company/colder-products-company
           - item:
             name: Collabora Ltd. (member)
             homepage_url: https://collabora.com/
@@ -29222,6 +29262,17 @@ landscape:
               linkedin: https://www.linkedin.com/company/protect-ai/
             extra:
               linkedin_url: https://www.linkedin.com/company/protect-ai/
+          - item:
+            name: ProveAI, LLC (member)
+            homepage_url: https://proveai.com/
+            logo: proveai_llc.svg
+            description: Blockchain for the builders - upgradable smart contracts & predictable gas fees.     Tweets by the official Casper Association
+            twitter: https://twitter.com/Casper_Network
+            organization:
+              name: ProveAI, LLC
+              linkedin: https://www.linkedin.com/company/casperlabs
+            extra:
+              linkedin_url: https://www.linkedin.com/company/casperlabs
           - item:
             name: Provectus IT Inc (member)
             homepage_url: https://provectus.com/
