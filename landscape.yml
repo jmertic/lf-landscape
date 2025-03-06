@@ -5519,6 +5519,28 @@ landscape:
               - repo_url: https://github.com/finos/DEI-SIG
               - repo_url: https://github.com/finos/FDC3
           - item:
+            name: Flatcar
+            homepage_url: https://github.com/flatcar
+            logo: flatcar.svg
+            description: The mission of the Project is to develop a fully open source, minimal-footprint, secure by default and always up-to-date Linux distribution for running containers
+              at scale.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/flatcar/container-linux-config-transpiler
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-02-24'
+              annotations:
+                slug: flatcar
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/flatcar
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfV1Ga9DrF3UesmKrl
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=flatcar
+            additional_repos:
+              - repo_url: https://github.com/flatcar/.github
+              - repo_url: https://github.com/flatcar/Flatcar
+              - repo_url: https://github.com/flatcar/azure-marketplace-ingestion-api
+          - item:
             name: Fledge
             homepage_url: https://www.lfedge.org/projects/fledge/
             logo: fledge.svg
@@ -16237,6 +16259,23 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWfp2QAD
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/spif/overview?project=spif-working-group
           - item:
+            name: Spin
+            homepage_url: https://github.com/fermyon/spin
+            logo: spin.svg
+            description: The mission of the project is to provide an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/fermyon/spin
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-02-21'
+              annotations:
+                slug: spin
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/spin
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfOYaef7TsdrxOlgIT
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=spin
+          - item:
             name: Spinnaker
             homepage_url: https://www.spinnaker.io/
             logo: spinnaker.svg
@@ -21794,7 +21833,7 @@ landscape:
             name: Causely (member)
             homepage_url: https://causely.ai/
             logo: causely.svg
-            description: Causely pinpoints the root cause of errors so that you can consistently meet reliability expectations of application users in complex, cloud-native environments.
+            description: Causely's Causal Reasoning Platform continuously analyzes observed anomalies to automatically pinpoint root causes and trigger immediate remediation actions.
             crunchbase: https://www.crunchbase.com/organization/causely-509c
             extra:
               linkedin_url: https://www.linkedin.com/company/causely-ai
@@ -36401,6 +36440,14 @@ landscape:
             description: National Information Society Agency (NIA) is a statutory agency under the Ministry of Science and ICT, charged with collecting strategical information for national
               informatization.
             crunchbase: https://www.crunchbase.com/organization/national-information-society-agency
+          - item:
+            name: KOSSA (member)
+            homepage_url: https://kossa.kr/
+            logo: kossa.svg
+            description: The Korea Open Source Software Association (KOSSA) is a global channel for collaboration with open source organizations and communities, focusing on technology
+              sharing, talent development, and advancing the ecosystem of open source software. Founded in...
+            organization:
+              name: KOSSA
           - item:
             name: Kristu Jayanti College (member)
             homepage_url: https://kristujayanti.edu.in/
