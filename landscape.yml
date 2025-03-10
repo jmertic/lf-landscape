@@ -6918,28 +6918,6 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L1HqkQAF
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-decentralized-trust/overview?project=solang
           - item:
-            name: Hyperledger Web3j
-            homepage_url: https://www.github.com/web3j
-            logo: hyperledger_web3j.svg
-            description: Web3j is a highly modular, reactive, type safe Java and Android library for working with Smart Contracts and integrating with clients (nodes) on the Ethereum
-              network.
-            second_path:
-              - Project Group / LF Decentralized Trust
-              - Technology Sector / Blockchain
-            repo_url: https://github.com/web3j/web3j-quorum
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2023-12-14'
-              annotations:
-                slug: web3j
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/web3j
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfSh6diXepJYwNpD9m
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-decentralized-trust/overview?project=web3j
-            additional_repos:
-              - repo_url: https://github.com/web3j/.github
-              - repo_url: https://github.com/web3j/Intellij-solidity-debugger
-              - repo_url: https://github.com/web3j/aion-samples
-          - item:
             name: Hyphae
             homepage_url: https://www.lfenergy.org/projects/hyphae/
             logo: hyphae.svg
@@ -10586,6 +10564,28 @@ landscape:
               - repo_url: https://github.com/nvm-sh/.github
               - repo_url: https://github.com/nvm-sh/logos
               - repo_url: https://github.com/nvm-sh/nvmrc
+          - item:
+            name: OAAX
+            homepage_url: https://www.oaax.org/
+            logo: oaax.svg
+            description: OAAX or Open AI Accelerator Exchange, is an open standard designed to simplify the development and deployment of edge AI applications. It provides a unified
+              framework for converting and optimizing machine learning models for execution on various hardware accelerators, or XPUs.
+            second_path:
+              - Project Group / LF AI & Data
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/OAAX-standard/OAAX
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-03-05'
+              annotations:
+                slug: oaax
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/oaax
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lft152aTo164gYVKNy
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-ai-foundation/overview?project=oaax
+            additional_repos:
+              - repo_url: https://github.com/OAAX-standard/contributions
+              - repo_url: https://github.com/OAAX-standard/examples
+              - repo_url: https://github.com/OAAX-standard/hailo-acceleration
           - item:
             name: Occlum
             homepage_url: https://occlum.io/
@@ -15508,6 +15508,23 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWgl7QAD
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=k8dash
           - item:
+            name: SlimFaaS
+            homepage_url: https://github.com/AxaFrance/SlimFaas
+            logo: slimfaas.svg
+            description: The mission of the project is to provide the slimmest and simplest Functions-as-a-Service environment.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/AxaFrance/SlimFaas
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-02-21'
+              annotations:
+                slug: slimfaas
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/slimfaas
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfVag9jwQScccHCjMY
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=slimfaas
+          - item:
             name: SlimToolkit
             homepage_url: http://slimtoolkit.org/
             logo: slimtoolkit.svg
@@ -18644,6 +18661,28 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/wasmedge-runtime
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWpnfQAD
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=wasmedge-runtime
+          - item:
+            name: Web3j
+            homepage_url: https://www.github.com/web3j
+            logo: web3j.svg
+            description: Web3j is a highly modular, reactive, type safe Java and Android library for working with Smart Contracts and integrating with clients (nodes) on the Ethereum
+              network.
+            second_path:
+              - Project Group / LF Decentralized Trust
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/web3j/web3j-quorum
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2023-12-14'
+              annotations:
+                slug: web3j
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/web3j
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfSh6diXepJYwNpD9m
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-decentralized-trust/overview?project=web3j
+            additional_repos:
+              - repo_url: https://github.com/web3j/.github
+              - repo_url: https://github.com/web3j/Intellij-solidity-debugger
+              - repo_url: https://github.com/web3j/aion-samples
           - item:
             name: WebdriverIO
             homepage_url: https://webdriver.io/
