@@ -6297,7 +6297,9 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/gridfm
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfGFeSdSUJqLdBHTBZ
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfenergy/overview?project=gridfm
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/gridfm-energy/gridfm-federated
+              - repo_url: https://github.com/gridfm-energy/gridfm-lab
           - item:
             name: Grid Operations SIG
             homepage_url: https://lf-energy.atlassian.net/wiki/spaces/GOS/overview
@@ -8526,6 +8528,24 @@ landscape:
               - repo_url: https://github.com/kubernetes/.github
               - repo_url: https://github.com/kubernetes/api
               - repo_url: https://github.com/kubernetes/apiextensions-apiserver
+          - item:
+            name: Kubernetes AI Toolchain Operator (KAITO)
+            homepage_url: https://github.com/Azure/kaito
+            logo: kubernetes_ai_toolchain_operator_kaito.svg
+            description: The mission of the Project is to develop a cloud-native Kubernetes operator that automates the deployment of language models in a cluster across available CPU
+              and GPU resources.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/Azure/kaito
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-02-21'
+              annotations:
+                slug: kaito
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kaito
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf9ENEnwVO0AHYvwLo
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=kaito
           - item:
             name: kube-rs
             homepage_url: https://github.com/kube-rs/kube-rs
@@ -25918,8 +25938,9 @@ landscape:
             name: Intuit, Inc. (member)
             homepage_url: https://intuit.com/
             logo: intuit_inc.svg
-            description: Headquartered in Mountain View, California, Intuit provides financial management and compliance products and services for consumers, small businesses, self-employed,
-              and accounting professionals in the United States, Canada, and internationally.
+            description: Intuit is the global financial technology platform that powers prosperity for the people and communities we serve. With approximately 100 million customers worldwide
+              using products such as TurboTax, Credit Karma, QuickBooks, and Mailchimp, we believe that everyone should have the opportunity to prosper. We never stop working to find
+              new, innovative ways to make that possible. Please visit us at Intuit.com and find us on social for the latest information about Intuit and our products and services.
             crunchbase: https://www.crunchbase.com/organization/intuit
             twitter: https://twitter.com/Intuit
             extra:
@@ -31863,9 +31884,7 @@ landscape:
             logo: tangentworks.svg
             description: Tangent Works provides AI-powered predictive modeling solutions through TIM with InstantML technology, offering automated feature engineering and real-time forecasting
               for diverse industries.
-            organization:
-              name: TangentWorks
-              linkedin: https://www.linkedin.com/company/tangentworks
+            crunchbase: https://www.crunchbase.com/organization/tangent-works
             extra:
               linkedin_url: https://www.linkedin.com/company/tangentworks
           - item:
