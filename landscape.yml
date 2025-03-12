@@ -13393,6 +13393,23 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L1HxuQAF
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/tlf/overview?project=overfund
           - item:
+            name: OVN-Kubernetes
+            homepage_url: https://github.com/ovn-org/ovn-kubernetes
+            logo: ovn_kubernetes.svg
+            description: The mission of the Project is to develop a dashboard tool to visualize observability data from Prometheus/Thanos/Jaeger.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/ovn-org/ovn-kubernetes
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-02-21'
+              annotations:
+                slug: ovn-kubernetes
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ovn-kubernetes
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfUT0YkGZgOXRcnNGf
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=ovn-kubernetes
+          - item:
             name: OVSDB Integration
             homepage_url: https://wiki.opendaylight.org/display/ODL/OVSDB
             logo: ovsdb_integration.svg
@@ -21430,9 +21447,7 @@ landscape:
             name: Block Majority (member)
             homepage_url: https://blockmajority.io/
             logo: block_majority.svg
-            organization:
-              name: Block Majority
-              linkedin: https://www.linkedin.com/company/block-majority
+            crunchbase: https://www.crunchbase.com/organization/block-majority
             extra:
               linkedin_url: https://www.linkedin.com/company/block-majority
           - item:
@@ -22325,6 +22340,17 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/cloud-cap
           - item:
+            name: Cloudchipr (member)
+            homepage_url: https://cloudchipr.com/
+            logo: cloudchipr.svg
+            description: Cloudchipr is a company that specializes in IT services and IT consulting. They help clients reduce their cloud expenses with a simple and efficient process
+              of cost optimization.
+            organization:
+              name: Cloudchipr
+              linkedin: https://www.linkedin.com/company/cloudchipr
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cloudchipr
+          - item:
             name: Cloud Computing HK Limited (member)
             homepage_url: https://www.kubesphere.io/
             logo: cloud_computing_hk_limited.svg
@@ -23106,15 +23132,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/daugherty-business-solutions
           - item:
-            name: Daytona Platforms Inc. (member)
-            homepage_url: https://daytona.io/
-            logo: daytona_platforms_inc.svg
-            description: 'Daytona: Dev Environment Management Platform providing GitHub Codespaces alternative. Accelerate development, automate workflows, and keep code secure in centralized
-              environments.'
-            crunchbase: https://www.crunchbase.com/organization/daytona-4480
-            extra:
-              linkedin_url: https://www.linkedin.com/company/daytonaio
-          - item:
             name: DBOS (member)
             homepage_url: https://dbos.dev/
             logo: dbos.svg
@@ -23721,16 +23738,6 @@ landscape:
             description: 'The team behind #ShifuFramework, an #OpenSource #Kubernetes native #IoT development framework, and #ShifuCloud, a IoT development platform designed for product.'
             crunchbase: https://www.crunchbase.com/organization/edgenesis
             twitter: https://twitter.com/ShifuFramework
-          - item:
-            name: efabless Corporation (member)
-            homepage_url: https://efabless.com/
-            logo: efabless_corporation.svg
-            description: • We design Analog/Mixed Signal Integrated Circuits & Products.   • We believe multidisciplinary talent & experience are priceless.  • We fuel innovation with
-              new business models & technology.  • Our metrics for success are tied to those of our custome...
-            crunchbase: https://www.crunchbase.com/organization/efabless-corporation
-            twitter: https://twitter.com/efabless
-            extra:
-              linkedin_url: https://www.linkedin.com/company/efabless-com
           - item:
             name: Effectual Inc (member)
             homepage_url: https://effectual.com/
@@ -36609,6 +36616,16 @@ landscape:
               linkedin: https://www.linkedin.com/company/lane-community-college-education-association
             extra:
               linkedin_url: https://www.linkedin.com/company/lane-community-college-education-association
+          - item:
+            name: Lawrence Berkeley National Labs (member)
+            homepage_url: https://lbl.gov/
+            logo: lawrence_berkeley_national_labs.svg
+            description: The Lawrence Berkeley National Laboratory is a scientific research facility employing scientists, engineers, support staff and students in unclassified research
+              across a wide range of scientific disciplines. It is supported by the US Department of Energy through its Office of Science.
+            crunchbase: https://www.crunchbase.com/organization/lawrence-berkeley-national-laboratory
+            twitter: https://twitter.com/techLBNL
+            extra:
+              linkedin_url: https://www.linkedin.com/company/lawrence-berkeley-national-laboratory
           - item:
             name: Lawrence Livermore National Laboratory (LLNL) (member)
             homepage_url: https://llnl.gov/
