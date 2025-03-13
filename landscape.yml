@@ -14218,6 +14218,24 @@ landscape:
               - repo_url: https://github.com/RareCamp/linkage
               - repo_url: https://github.com/RareCamp/palind
           - item:
+            name: Ratify
+            homepage_url: https://ratify.dev/
+            logo: ratify.svg
+            description: A verification engine on Kubernetes which enables verification of artifact security metadata and admits for deployment only those that comply with policies you
+              create.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/deislabs/ratify
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2024-08-23'
+              annotations:
+                slug: ratify
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ratify
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfXXqecRHcF99kXdJz
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=ratify
+          - item:
             name: rawtoaces
             homepage_url: https://github.com/AcademySoftwareFoundation/rawtoaces
             logo: rawtoaces.svg
@@ -17979,6 +17997,24 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWsBMQA1
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/opendaylight/overview?project=odl-unimgr
           - item:
+            name: Unity Catalog
+            homepage_url: https://www.databricks.com/product/unity-catalog
+            logo: unity_catalog.svg
+            description: The mission of the Project is to provide an interoperability layer across all major cloud platforms, compute engines, data and AI platforms, as well as data
+              catalog and governance solutions.
+            second_path:
+              - Project Group / LF AI & Data
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/unitycatalog/unitycatalog
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-03-07'
+              annotations:
+                slug: unity-catalog
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/unity-catalog
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfpfKIj4exw7WkM89X
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-ai-foundation/overview?project=unity-catalog
+          - item:
             name: Universal Deep Packet Inspection Project (UDPI)
             homepage_url: https://wiki.fd.io/view/UDPI
             logo: universal_deep_packet_inspection_project_udpi.svg
@@ -18994,6 +19030,23 @@ landscape:
               facebook_url: https://www.facebook.com/yoctoproject/
               youtube_url: https://www.youtube.com/user/TheYoctoProject
           - item:
+            name: Youki
+            homepage_url: https://containers.github.io/youki/
+            logo: youki.svg
+            description: The mission of the Project is to develop a low-level container runtime written in Rust.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/containers/youki
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-02-21'
+              annotations:
+                slug: youki
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/youki
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfBFtqUDKWmLVw3lt1
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=youki
+          - item:
             name: Zarf
             homepage_url: https://zarf.dev/
             logo: zarf.svg
@@ -19734,9 +19787,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/aembit
           - item:
-            name: Ænix (member)
+            name: AENIX INC (member)
             homepage_url: https://aenix.io/
-            logo: aenix.svg
+            logo: aenix_inc.svg
             description: Ænix amplifies data centers with cloud transformation, offering expertise in Open Source cloud platforms, databases, and software-defined storage.
             crunchbase: https://www.crunchbase.com/organization/aenix
             extra:
@@ -25925,6 +25978,11 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/14399985
           - item:
+            name: Interop Labs (member)
+            homepage_url: https://interoplabs.io/
+            logo: interop_labs.svg
+            crunchbase: https://www.crunchbase.com/organization/interop-labs
+          - item:
             name: Intersect (member)
             homepage_url: https://intersectmbo.org/
             logo: intersect.svg
@@ -28379,6 +28437,17 @@ landscape:
             twitter: https://twitter.com/northflank
             extra:
               linkedin_url: https://www.linkedin.com/company/northflank-ltd
+          - item:
+            name: Nosana (member)
+            homepage_url: https://nosana.io/
+            logo: nosana.svg
+            description: Nosana operates a marketplace that facilitates AI inference by providing users with on-demand access to decentralized computing power, allowing them to utilize
+              idle hardware for supporting AI projects while generating revenue.
+            organization:
+              name: Nosana
+              linkedin: https://www.linkedin.com/company/nosana
+            extra:
+              linkedin_url: https://www.linkedin.com/company/nosana
           - item:
             name: Notarize, Inc. d/b/a Proof.com (member)
             homepage_url: https://proof.com/
