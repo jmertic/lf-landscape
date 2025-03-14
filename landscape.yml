@@ -7492,24 +7492,6 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWsAGQA1
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/fdio-llc/overview?project=fdio-jvpp
           - item:
-            name: JCurl
-            homepage_url: https://github.com/symphonyoss/JCurl
-            logo: jcurl.svg
-            description: JSON-aware curl (1) in Java
-            second_path:
-              - Project Group / FINOS (The Fintech Open Source Foundation)
-              - Industry / Financials
-              - Technology Sector / Web & Application Development
-            repo_url: https://github.com/symphonyoss/JCurl
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2020-06-30'
-              annotations:
-                slug: jcurl
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/jcurl
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkUakQAF
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/finos/overview?project=jcurl
-          - item:
             name: JDF International
             homepage_url: https://www.jointdevelopment.org/
             logo: jdf_international.svg
@@ -10603,9 +10585,9 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lft152aTo164gYVKNy
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-ai-foundation/overview?project=oaax
             additional_repos:
+              - repo_url: https://github.com/OAAX-standard/TSC
               - repo_url: https://github.com/OAAX-standard/contributions
               - repo_url: https://github.com/OAAX-standard/examples
-              - repo_url: https://github.com/OAAX-standard/hailo-acceleration
           - item:
             name: Occlum
             homepage_url: https://occlum.io/
@@ -16828,22 +16810,6 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkJuYQAV
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/finos/overview?project=smb
           - item:
-            name: Symphony WDK
-            homepage_url: https://github.com/finos/symphony-wdk
-            logo: symphony_wdk.svg
-            second_path:
-              - Project Group / FINOS (The Fintech Open Source Foundation)
-              - Technology Sector / Cross-Technology
-            repo_url: https://github.com/finos/symphony-wdk
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2021-09-30'
-              annotations:
-                slug: symphony-wdk
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/symphony-wdk
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkDdtQAF
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/finos/overview?project=symphony-wdk
-          - item:
             name: TarsBenchmark
             homepage_url: https://tarscloud.org/
             logo: tarsbenchmark.svg
@@ -21032,6 +20998,17 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/automation-solutions-inc
           - item:
+            name: Autovia GmbH (member)
+            homepage_url: https://autovia.de/
+            logo: autovia_gmbh.svg
+            description: Autovia is a Munich-based data engineering and analytics consulting company that specializes in managing big data infrastructure and providing data product engineering
+              services.
+            organization:
+              name: Autovia GmbH
+              linkedin: https://www.linkedin.com/company/autovia-gmbh
+            extra:
+              linkedin_url: https://www.linkedin.com/company/autovia-gmbh
+          - item:
             name: Avanade Inc. (member)
             homepage_url: https://avanade.com/
             logo: avanade_inc.svg
@@ -23170,12 +23147,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/dsr-corporation
           - item:
-            name: Datastrato (member)
-            homepage_url: https://datastrato.com/
-            logo: datastrato.svg
-            organization:
-              name: Datastrato
-          - item:
             name: Daugherty Business Solutions (member)
             homepage_url: https://daugherty.com/
             logo: daugherty_business_solutions.svg
@@ -23254,6 +23225,8 @@ landscape:
             description: Als IT-Partner unterstützen wir unsere Kunden seit 2003 mit maßgeschneiderten Lösungen rund um IT-Beratung, Software-Entwicklung und Hosting Solutions.
             crunchbase: https://www.crunchbase.com/organization/dg-i
             twitter: https://twitter.com/dg_i
+            extra:
+              linkedin_url: https://www.linkedin.com/company/dembachgoo
           - item:
             name: Denodo Technologies (member)
             homepage_url: https://denodo.com/
@@ -24352,9 +24325,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/far-galaxy-networks
           - item:
-            name: Fastly (member)
+            name: Fastly, Inc. (member)
             homepage_url: https://fastly.com/
-            logo: fastly.svg
+            logo: fastly_inc.svg
             description: Fastly Inc. provides content delivery network (CDN) that accelerates and scales Websites, mobile applications, and APIs. It offers live stream delivery, video
               on demand, transcoding, packaging, and real-time cache services. The company delivers real-time performance analytics that help companies make intelligent decisions about
               their content in real-time based on real data. Its CDN is built to accelerate various type of content, including content, such as HTML and APIs, as well as static and long
@@ -25780,12 +25753,6 @@ landscape:
               linkedin: https://www.linkedin.com/company/infracost
             extra:
               linkedin_url: https://www.linkedin.com/company/infracost
-          - item:
-            name: infraeo (member)
-            homepage_url: https://infraeo.com/
-            logo: infraeo.svg
-            organization:
-              name: infraeo
           - item:
             name: Inframappa (member)
             homepage_url: https://inframappa.com/
@@ -28272,6 +28239,12 @@ landscape:
             twitter: https://twitter.com/nexBinc
             extra:
               linkedin_url: https://www.linkedin.com/company/nexb
+          - item:
+            name: Nexthop AI (member)
+            homepage_url: https://nexthop.ai/
+            logo: nexthop_ai.svg
+            organization:
+              name: Nexthop AI
           - item:
             name: NGINX International Limited (member)
             homepage_url: https://nginx.com/
@@ -37684,6 +37657,14 @@ landscape:
               linkedin: https://www.linkedin.com/company/owntech-foundation
             extra:
               linkedin_url: https://www.linkedin.com/company/owntech-foundation
+          - item:
+            name: Paderborn University (member)
+            homepage_url: https://uni-paderborn.de/
+            logo: paderborn_university.svg
+            description: Paderborn University is one of the fourteen public research universities in the state of North Rhine-Westphalia in Germany.
+            crunchbase: https://www.crunchbase.com/organization/university-of-paderborn
+            extra:
+              linkedin_url: https://www.linkedin.com/company/university-of-paderborn
           - item:
             name: Pecan Street Inc. (member)
             homepage_url: https://pecanstreet.org/
