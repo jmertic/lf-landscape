@@ -11753,24 +11753,6 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MSuGfQAL
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/aswf/overview?project=openfx
           - item:
-            name: OpenGEH
-            homepage_url: https://opengeh.energy/
-            logo: opengeh.svg
-            description: The focus of the Green Energy Hub is to accelerate the transition to green energy.
-            second_path:
-              - Project Group / LF Energy (LFE)
-              - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/opengeh/.github
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2022-03-15'
-              annotations:
-                slug: opengeh
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/opengeh
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkEVqQAN
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfenergy/overview?project=opengeh
-            additional_repos: []
-          - item:
             name: openGemini
             homepage_url: https://opengemini.org/
             logo: opengemini.svg
@@ -17188,7 +17170,7 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/telepresenceio/argo-rollouts-go-client
               - repo_url: https://github.com/telepresenceio/ci-experiment
-              - repo_url: https://github.com/telepresenceio/docker-volume-telemount
+              - repo_url: https://github.com/telepresenceio/clog
           - item:
             name: Teller
             homepage_url: https://tlr.dev/
@@ -31614,6 +31596,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/stmicroelectronics
           - item:
+            name: STORDIS GmbH (member)
+            homepage_url: https://stordis.com/
+            logo: stordis_gmbh.svg
+            description: Founded in 2007, STORDIS participated in the Open Networking Revolution and proceeded to build a substantial network of reliable partners, including hardware
+              manufacturers, service providers and global technology leaders.
+            crunchbase: https://www.crunchbase.com/organization/stord
+            twitter: https://twitter.com/STORDIS_GmbH
+            extra:
+              linkedin_url: https://www.linkedin.com/company/stordis
+          - item:
             name: Storm Reply srl. (member)
             homepage_url: https://stormreply.cloud/
             logo: storm_reply_srl.svg
@@ -33131,6 +33123,15 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/ves-llc
             extra:
               linkedin_url: https://www.linkedin.com/company/ves-llc
+          - item:
+            name: VESSL AI Inc (member)
+            homepage_url: https://vessl.ai/
+            logo: vessl_ai_inc.svg
+            description: VESSL AI provides an end-to-end MLOps platform that enables high-performance machine learning teams to build, train, and deploy models rapidly at scale, utilizing
+              fully managed AI infrastructure, tools, and workflows.
+            crunchbase: https://www.crunchbase.com/organization/vessl-ai
+            extra:
+              linkedin_url: https://www.linkedin.com/company/vesslai
           - item:
             name: VEXXHOST, Inc. (member)
             homepage_url: https://vexxhost.com/
@@ -37395,7 +37396,10 @@ landscape:
             name: Open Culture Foundation (member)
             homepage_url: https://ocf.tw/
             logo: open_culture_foundation.svg
-            description: 2014 年 6 月，多個台灣開源社群共同發起開放文化基金會（Open Culture Foundation，簡稱 OCF），以法人組織的力量推廣開放文化。除了支援民間社群舉辦活動外，也協助企業、政府、非營利及學術單位導入開放文化的知識及精神，期望在產、官、學之間激起開放協作的火花。
+            description: Since 2014, Open Culture Foundation has functioned as a legal entity and supported over 30 open technology communities in Taiwan. Throughout this process, we
+              have not only continued to promote the idea of open technology, we have also become involved in policy advocacy and spoken up for the public's digital rights. Through this
+              process, we have created a base for the development of open technology in Taiwan. None of these successes are the result of OCF alone. Rather, they are the result of several
+              open tech communities, individuals and organizations working together to make Taiwan's internet and digital environment more open, transparent, and participatory.
             twitter: https://twitter.com/OcfTaiwan
             organization:
               name: Open Culture Foundation
