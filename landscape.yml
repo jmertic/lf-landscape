@@ -11671,8 +11671,8 @@ landscape:
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=openfeature
             additional_repos:
               - repo_url: https://github.com/open-feature/angular-test-app
+              - repo_url: https://github.com/open-feature/backstage-openfeature
               - repo_url: https://github.com/open-feature/cli
-              - repo_url: https://github.com/open-feature/cloud-native-demo
           - item:
             name: OpenFGA
             homepage_url: https://openfga.dev/
@@ -19362,6 +19362,17 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/american-honda-motor-company-inc-
           - item:
+            name: LY Corporation (member)
+            homepage_url: https://lycorp.co.jp/
+            logo: ly_corporation.svg
+            description: |-
+              LY Corporation is one of Japan's largest tech companies formed in October 2023 through the reorganization of Group companies including LINE Corporation and Yahoo Japan Corporation. LY Corporation spans diverse businesses, including search, portal website, e-commerce, communications, and advertising under its mission, "Create an amazing life platform that brings WOW! to our users."
+              With a workforce comprising over 10,000 individuals from approximately 40 countries and regions, LY Corporation is dedicated to continually delivering inspiring services to its users and contributing to the realization of a more enriching and convenient lifestyle through the power of the Internet.
+            crunchbase: https://www.crunchbase.com/organization/ly-corporation
+            twitter: https://twitter.com/Yahoo_JAPAN_PR
+            extra:
+              linkedin_url: https://www.linkedin.com/company/yahoojapan
+          - item:
             name: Mitsubishi Electric Corporation (member)
             homepage_url: https://mea.com/
             logo: mitsubishi_electric_corporation.svg
@@ -23956,14 +23967,6 @@ landscape:
             organization:
               name: Ensignia
           - item:
-            name: Entangle Labs (member)
-            homepage_url: https://entanglelabs.org/
-            logo: entangle_labs.svg
-            description: Entangle Labs is focused on developing advanced interoperability and data infrastructure solutions aimed at creating a more interconnected and scalable Web3
-              ecosystem.
-            organization:
-              name: Entangle Labs
-          - item:
             name: Enterprise DB Corporation (member)
             homepage_url: https://enterprisedb.com/
             logo: enterprise_db_corporation.svg
@@ -24375,6 +24378,14 @@ landscape:
             twitter: https://twitter.com/FilFoundation
             extra:
               linkedin_url: https://www.linkedin.com/company/filecoin-foundation
+          - item:
+            name: FINALITEE LABS PTE. LTD. (member)
+            homepage_url: https://entanglelabs.org/
+            logo: finalitee_labs_pte_ltd.svg
+            description: Entangle Labs is focused on developing advanced interoperability and data infrastructure solutions aimed at creating a more interconnected and scalable Web3
+              ecosystem.
+            organization:
+              name: FINALITEE LABS PTE. LTD.
           - item:
             name: FinOpsly Inc. (member)
             homepage_url: https://finopsly.com/
@@ -27169,17 +27180,6 @@ landscape:
             twitter: https://twitter.com/LutechGroup
             extra:
               linkedin_url: https://www.linkedin.com/company/lutech
-          - item:
-            name: LY Corporation (member)
-            homepage_url: https://lycorp.co.jp/
-            logo: ly_corporation.svg
-            description: |-
-              LY Corporation is one of Japan's largest tech companies formed in October 2023 through the reorganization of Group companies including LINE Corporation and Yahoo Japan Corporation. LY Corporation spans diverse businesses, including search, portal website, e-commerce, communications, and advertising under its mission, "Create an amazing life platform that brings WOW! to our users."
-              With a workforce comprising over 10,000 individuals from approximately 40 countries and regions, LY Corporation is dedicated to continually delivering inspiring services to its users and contributing to the realization of a more enriching and convenient lifestyle through the power of the Internet.
-            crunchbase: https://www.crunchbase.com/organization/ly-corporation
-            twitter: https://twitter.com/Yahoo_JAPAN_PR
-            extra:
-              linkedin_url: https://www.linkedin.com/company/yahoojapan
           - item:
             name: Lynx Software Technologies (member)
             homepage_url: https://lynx.com/
@@ -32597,15 +32597,6 @@ landscape:
             organization:
               name: TripleID Solutions
           - item:
-            name: True B.V. (member)
-            homepage_url: https://true.nl/
-            logo: true_b_v.svg
-            description: Partner voor digital minded bedrijven. Haal de beste prestaties uit uw bedrijf met Managed Hosting, Managed Cloud en Digitale Werkplekken van True.
-            crunchbase: https://www.crunchbase.com/organization/true-6787
-            twitter: https://twitter.com/true_nl
-            extra:
-              linkedin_url: https://www.linkedin.com/company/true-b-v
-          - item:
             name: TrueFoundry (member)
             homepage_url: https://truefoundry.com/
             logo: truefoundry.svg
@@ -32618,8 +32609,12 @@ landscape:
             name: TrueFullstaq (member)
             homepage_url: https://truefullstaq.com/
             logo: truefullstaq.svg
-            description: Your Cloud Native ambitions, our expertise - Your Cloud Native technology partner With our broad experience working for small companies to very large multinationals,
-              we are completely infrastructure independent and are specialists in the fields of Open...
+            description: |-
+              Your Cloud Native ambitions, our expertise - Your Cloud Native technology partner With our broad experience working for small companies to very large multinationals, we are completely infrastructure independent and are specialists in the fields of Open...
+               
+              --- Merged Data:
+
+              Partner voor digital minded bedrijven. Haal de beste prestaties uit uw bedrijf met Managed Hosting, Managed Cloud en Digitale Werkplekken van True.
             crunchbase: https://www.crunchbase.com/organization/fullstaq
             twitter: https://twitter.com/fullstaq
             extra:
