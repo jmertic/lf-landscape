@@ -1204,6 +1204,27 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfomTQpTLl3A7cDHjh
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfenergy/overview?project=battery-data-alliance
           - item:
+            name: BeeAI
+            homepage_url: https://beeai.dev/
+            logo: beeai.svg
+            description: The mission of the project is to develop an open-source framework for building production-ready agents.
+            second_path:
+              - Project Group / LF AI & Data
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/i-am-bee/beeai-framework
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-03-14'
+              annotations:
+                slug: beeai
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/beeai
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfHdZBrCu8SFNqEa2e
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-ai-foundation/overview?project=beeai
+            additional_repos:
+              - repo_url: https://github.com/i-am-bee/.github
+              - repo_url: https://github.com/i-am-bee/bee-api
+              - repo_url: https://github.com/i-am-bee/bee-artifacts-site
+          - item:
             name: Best Practices Badge
             homepage_url: https://github.com/coreinfrastructure/best-practices-badge
             logo: best_practices_badge.svg
@@ -3650,6 +3671,23 @@ landscape:
               - repo_url: https://github.com/DPDK/dpdk-stable
               - repo_url: https://github.com/DPDK/grout
           - item:
+            name: Data-Prep-Kit
+            homepage_url: https://github.com/IBM/data-prep-kit
+            logo: data_prep_kit.svg
+            description: The mission of the project is to simplify unstructured data preparation for LLM application development.
+            second_path:
+              - Project Group / LF AI & Data
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/IBM/data-prep-kit
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-03-14'
+              annotations:
+                slug: data-prep-kit
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/data-prep-kit
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfRchUotaNSKAJjkr6
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-ai-foundation/overview?project=data-prep-kit
+          - item:
             name: Datashim
             homepage_url: https://datashim.io/
             logo: datashim.svg
@@ -4340,6 +4378,24 @@ landscape:
               - repo_url: https://github.com/docarray/artwork
               - repo_url: https://github.com/docarray/docarray.github.io
               - repo_url: https://github.com/docarray/notes
+          - item:
+            name: Docling
+            homepage_url: https://github.com/DS4SD/docling
+            logo: docling.svg
+            description: The mission of the project is to simplify document processing, to parse diverse formats — including advanced PDF understanding — and to provide seamless integrations
+              with the gen AI ecosystem
+            second_path:
+              - Project Group / LF AI & Data
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/DS4SD/docling
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-03-14'
+              annotations:
+                slug: docling
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/docling
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfrViYCbiegngDNba1
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-ai-foundation/overview?project=docling
           - item:
             name: Dojo
             homepage_url: https://dojo.io/
@@ -6392,6 +6448,23 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ojsf-grunt
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4G5QAL
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/ojsf/overview?project=ojsf-grunt
+          - item:
+            name: HAMi
+            homepage_url: http://project-hami.io/
+            logo: hami.svg
+            description: Heterogeneous AI Computing Virtualization Middleware (HAMi), is an "all-in-one" tool designed to manage Heterogeneous AI Computing Devices in a k8s cluster.
+            second_path:
+              - Project Group / Cloud Custodian
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/Project-HAMi/HAMi
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-03-14'
+              annotations:
+                slug: hami
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/hami
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfmd9wcrbnW1NXUzPl
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/c7n/overview?project=hami
           - item:
             name: Harbor
             homepage_url: https://goharbor.io/
@@ -14587,7 +14660,7 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/rethinkdb/admin
               - repo_url: https://github.com/rethinkdb/angular2-typescript-example
-              - repo_url: https://github.com/rethinkdb/aspnet-signalr-chat
+              - repo_url: https://github.com/rethinkdb/ansible-playbooks
           - item:
             name: Rez
             homepage_url: https://rez-project.io/
@@ -23490,7 +23563,7 @@ landscape:
             homepage_url: https://navimentum.com/
             logo: digital_china_data_cloud_technology_co_ltd.svg
             description: Navimentum is a company that provides information systems solutions.
-            crunchbase: https://www.crunchbase.com/organization/navimentum
+            crunchbase: https://www.crunchbase.com/organization/digital-china-information-technology-services-company
             extra:
               linkedin_url: https://www.linkedin.com/company/%E9%A2%86%E8%88%AA%E5%8A%A8%E5%8A%9B%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
           - item:
@@ -30693,9 +30766,9 @@ landscape:
             organization:
               name: Shanghai Yunsilicon Technology Co.,Ltd.
           - item:
-            name: Shanghai Yunzhou Information Technology Co. Ltd (ZStack) (member)
+            name: Shanghai Yunzhou Technology Co.,Ltd. (ZStack) (member)
             homepage_url: https://zstack.io/
-            logo: shanghai_yunzhou_information_technology_co.svg
+            logo: shanghai_yunzhou_technology_co_ltd.svg
             crunchbase: https://www.crunchbase.com/organization/zstack
           - item:
             name: SHE BASH (member)
