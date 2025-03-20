@@ -1209,7 +1209,7 @@ landscape:
             logo: beeai.svg
             description: The mission of the project is to develop an open-source framework for building production-ready agents.
             second_path:
-              - Project Group / LF AI & Data
+              - Project Group / LF Projects, LLC
               - Technology Sector / AI, ML, Data & Analytics
             repo_url: https://github.com/i-am-bee/beeai-framework
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
@@ -1219,7 +1219,7 @@ landscape:
                 slug: beeai
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/beeai
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfHdZBrCu8SFNqEa2e
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-ai-foundation/overview?project=beeai
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfprojects/overview?project=beeai
             additional_repos:
               - repo_url: https://github.com/i-am-bee/.github
               - repo_url: https://github.com/i-am-bee/bee-api
@@ -3454,6 +3454,30 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkOXJQA3
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=crossplane
           - item:
+            name: CUPID (Controllable Unit Protocol Interface for DER)
+            homepage_url: https://github.com/Horizont-Europe-Interstore
+            logo: cupid_controllable_unit_protocol_interface_for_der.svg
+            description: The original IEEE 2030.5 standard from 2018 and recently updated by the 2023 version, is a widely used communication protocol designed to manage distributed
+              resources, already adopted in California and Australia. The original standard is an interoperability dictionary-based protocol. In our project we’ve upgraded the current
+              version of the IEEE2030.5 software/firmware package by using a NATS messaging, added JSON structure support and moreover, we’ve developed a protocol converter to bridge
+              the gap to other protocols (MQTT and ModBUS) and standardization procedures of existing equipment and systems.
+            second_path:
+              - Project Group / LF Energy (LFE)
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/Horizont-Europe-Interstore/Hybrid-Storage-Sizing-Model
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-03-19'
+              annotations:
+                slug: cupid
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cupid
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfwN2bdbqmNgG2TtYc
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfenergy/overview?project=cupid
+            additional_repos:
+              - repo_url: https://github.com/Horizont-Europe-Interstore/Client-Server
+              - repo_url: https://github.com/Horizont-Europe-Interstore/Data-Space-Connector
+              - repo_url: https://github.com/Horizont-Europe-Interstore/Data-Space-Connector-Fiware-Data-App
+          - item:
             name: Curiefense
             homepage_url: https://github.com/curiefense/curiefense
             logo: curiefense.svg
@@ -3676,7 +3700,7 @@ landscape:
             logo: data_prep_kit.svg
             description: The mission of the project is to simplify unstructured data preparation for LLM application development.
             second_path:
-              - Project Group / LF AI & Data
+              - Project Group / LF Projects, LLC
               - Technology Sector / AI, ML, Data & Analytics
             repo_url: https://github.com/IBM/data-prep-kit
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
@@ -3686,7 +3710,7 @@ landscape:
                 slug: data-prep-kit
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/data-prep-kit
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfRchUotaNSKAJjkr6
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-ai-foundation/overview?project=data-prep-kit
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfprojects/overview?project=data-prep-kit
           - item:
             name: Datashim
             homepage_url: https://datashim.io/
@@ -4385,7 +4409,7 @@ landscape:
             description: The mission of the project is to simplify document processing, to parse diverse formats — including advanced PDF understanding — and to provide seamless integrations
               with the gen AI ecosystem
             second_path:
-              - Project Group / LF AI & Data
+              - Project Group / LF Projects, LLC
               - Technology Sector / AI, ML, Data & Analytics
             repo_url: https://github.com/DS4SD/docling
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
@@ -4395,7 +4419,7 @@ landscape:
                 slug: docling
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/docling
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfrViYCbiegngDNba1
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-ai-foundation/overview?project=docling
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfprojects/overview?project=docling
           - item:
             name: Dojo
             homepage_url: https://dojo.io/
@@ -22616,8 +22640,7 @@ landscape:
             logo: clush.svg
             description: Clush specializes in application modernization projects, leveraging its extensive expertise in cloud-native technologies to design and implement cloud architectures,
               DevOps platforms, and microservices architectures, with a strong focus on both public ...
-            organization:
-              name: Clush
+            crunchbase: https://www.crunchbase.com/organization/clush
           - item:
             name: Clussys Inc (member)
             homepage_url: https://clussys.com/
@@ -26391,15 +26414,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/kaleido-io
           - item:
-            name: Kapeta Inc (member)
-            homepage_url: https://kapeta.com/
-            logo: kapeta_inc.svg
-            description: Kapeta is the most advanced Internal Developer Platform (IDP) and Software Developer Life Cycle solution. Built on a proven technology, it offers full SDLC support,
-              intelligent framework, and elevates security and compliance. Kapeta is committed to dem...
-            crunchbase: https://www.crunchbase.com/organization/kapeta
-            extra:
-              linkedin_url: https://www.linkedin.com/company/kapeta
-          - item:
             name: Kapstan (member)
             homepage_url: https://kapstan.io/
             logo: kapstan.svg
@@ -28151,15 +28165,6 @@ landscape:
             twitter: https://twitter.com/netflix
             extra:
               linkedin_url: https://www.linkedin.com/company/netflix
-          - item:
-            name: Nethopper LLC (member)
-            homepage_url: https://www.nethopper.io/
-            logo: nethopper_llc.svg
-            description: Nethopper
-            crunchbase: https://www.crunchbase.com/organization/nethopper-io
-            twitter: https://twitter.com/nethopper10
-            extra:
-              linkedin_url: https://www.linkedin.com/company/nethopper
           - item:
             name: Netris, INC. (member)
             homepage_url: https://www.netris.io/
@@ -31567,14 +31572,6 @@ landscape:
             twitter: https://twitter.com/kubecost
             extra:
               linkedin_url: https://www.linkedin.com/company/kubecost
-          - item:
-            name: Stateful (member)
-            homepage_url: https://stateful.com/
-            logo: stateful.svg
-            description: Stateful is a developer insights company that encourages developers to understand and design their coding habits for efficiency, sustainability, and happiness.
-            crunchbase: https://www.crunchbase.com/organization/stateful
-            extra:
-              linkedin_url: https://www.linkedin.com/company/stateful
           - item:
             name: STCLAB (member)
             homepage_url: https://stclab.com/
@@ -39085,6 +39082,18 @@ landscape:
               sciences to humanities, and leads international research and education networks. With 20 d...
             organization:
               name: Università di Pisa
+          - item:
+            name: Universität der Bundeswehr München (member)
+            homepage_url: https://unibw.de/
+            logo: universitat_der_bundeswehr_munchen.svg
+            description: |-
+              Universität der Bundeswehr München is an exceptional campus university that offers excellent conditions for bachelor's and master's studies, a modern infrastructure, as well as attractive leisure activities and sports facilities. The university is part...
+
+              --- Merged Data:
+
+              Universität der Bundeswehr München is an exceptional campus university that offers excellent conditions for bachelor's and master's studies, a modern infrastructure, as well as attractive leisure activities and sports facilities. The university is part...
+            organization:
+              name: Universität der Bundeswehr München
           - item:
             name: Universitat Rovira i Virgili (member)
             homepage_url: https://urv.cat/
