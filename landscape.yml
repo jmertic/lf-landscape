@@ -3730,23 +3730,6 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWjR9QAL
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-ai-foundation/overview?project=datashim
           - item:
-            name: Data Standards and Tooling SIG
-            homepage_url: https://lf-energy.atlassian.net/wiki/spaces/DST/overview
-            logo: data_standards_and_tooling_sig.svg
-            description: The LF Energy Data Standards and Tooling SIG will focus on collaboration amongst several projects in LF Energy that focus on data standards and the associated
-              tooling by helping promote interoperability and identifying gaps for new collaborations and projects
-            second_path:
-              - Project Group / LF Energy (LFE)
-              - Technology Sector / Cross-Technology
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2024-08-19'
-              annotations:
-                slug: lfenergy-data-standards-and-tooling-sig
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/lfenergy-data-standards-and-tooling-sig
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf9EjIlnSWX5QdNSIu
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfenergy/overview?project=lfenergy-data-standards-and-tooling-sig
-          - item:
             name: DCache
             homepage_url: https://tarscloud.org/
             logo: dcache.svg
@@ -6292,29 +6275,6 @@ landscape:
               - repo_url: https://github.com/Grid2op/LearningToAlert
               - repo_url: https://github.com/Grid2op/chronix2grid
           - item:
-            name: Grid Capacity Map
-            homepage_url: https://github.com/gridcapacitymap
-            logo: grid_capacity_map.svg
-            description: Grid Capacity Map is a project that aims to give customers and stakeholders public information about grid capacity and grid connection costs in different locations.
-              The purpose is to give an early indication to customers that want to connect to the grid and to ensure customer and stakeholders expectations on-grid connections are realistic
-              to give a better connection experience with fewer surprises for both grid owner (DSO/TSO),  grid customers, and other stakeholders.
-            second_path:
-              - Project Group / LF Energy (LFE)
-              - Technology Sector / Safety-Critical Systems
-            repo_url: https://github.com/gridcapacitymap/tsc
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2022-02-28'
-              annotations:
-                slug: grid-capacity-map
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/grid-capacity-map
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWoQgQAL
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfenergy/overview?project=grid-capacity-map
-            additional_repos:
-              - repo_url: https://github.com/gridcapacitymap/gridcapacity
-              - repo_url: https://github.com/gridcapacitymap/gridcapacitymap
-              - repo_url: https://github.com/gridcapacitymap/gridcapacitymap-web
-          - item:
             name: Grid Edge Interoperability & Security Alliance (GEISA)
             homepage_url: https://lfenergy.org/projects/geisa/
             logo: grid_edge_interoperability_security_alliance_geisa.svg
@@ -6380,22 +6340,6 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/gridfm-energy/gridfm-federated
               - repo_url: https://github.com/gridfm-energy/gridfm-lab
-          - item:
-            name: Grid Operations SIG
-            homepage_url: https://lf-energy.atlassian.net/wiki/spaces/GOS/overview
-            logo: grid_operations_sig.svg
-            description: SIG for collaboration and coordination for LF Energy Projects in the Grid Operations space.
-            second_path:
-              - Project Group / LF Energy (LFE)
-              - Technology Sector / Cross-Technology
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2024-08-21'
-              annotations:
-                slug: lfenergy-grid-operations-sig
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/lfenergy-grid-operations-sig
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfHSTXSSKqOtcsC1HF
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfenergy/overview?project=lfenergy-grid-operations-sig
           - item:
             name: Grid Simulation and Modeling SIG
             homepage_url: https://lf-energy.atlassian.net/wiki/spaces/GSMS/overview
@@ -30328,14 +30272,12 @@ landscape:
             name: SanDisk Technologies, Inc. (member)
             homepage_url: https://sandisk.com/
             logo: sandisk_technologies_inc.svg
-            description: |-
-              2013 10-K filing: Employees
-
-
-
-              As of December 29, 2013, we had 5,459 full-time employees, including 2,487 in research and development, 713 in sales and marketing, 527 in general and administrative, and 1,732 in operations. None of our employees is represented by a collective bargaining agreement and we have never experienced any employee work stoppage. We believe that our employee relations are good.
-            crunchbase: https://www.crunchbase.com/organization/western-digital-capital
+            description: Sandisk delivers innovative Flash solutions and advanced memory technologies that meet people and businesses at the intersection of their aspirations and the
+              moment, enabling them to keep moving and pushing possibility forward.
             twitter: https://twitter.com/westerndigital
+            organization:
+              name: SanDisk Technologies, Inc.
+              linkedin: https://www.linkedin.com/company/western-digital
             extra:
               linkedin_url: https://www.linkedin.com/company/western-digital
           - item:
@@ -31154,15 +31096,6 @@ landscape:
             twitter: https://twitter.com/sokube_io
             extra:
               linkedin_url: https://www.linkedin.com/company/sokube
-          - item:
-            name: SolidRun Ltd (member)
-            homepage_url: https://solid-run.com/
-            logo: solidrun_ltd.svg
-            description: SolidRun is an Israeli company producing Embedded systems components, mainly mini computers, Single-board computers and computer-on-module devices.
-            crunchbase: https://www.crunchbase.com/organization/solidrun
-            twitter: https://twitter.com/solid_run
-            extra:
-              linkedin_url: https://www.linkedin.com/company/solidrun-ltd-
           - item:
             name: Solo.io, Inc. (member)
             homepage_url: https://solo.io/
