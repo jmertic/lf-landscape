@@ -7824,8 +7824,8 @@ landscape:
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/jupyter-hub-and-binder/overview?project=jupyterhub
             additional_repos:
               - repo_url: https://github.com/jupyterhub/.github
+              - repo_url: https://github.com/jupyterhub/action-get-quayio-tags
               - repo_url: https://github.com/jupyterhub/action-k3s-helm
-              - repo_url: https://github.com/jupyterhub/action-k8s-await-workloads
           - item:
             name: Jupyter Server
             homepage_url: https://github.com/jupyter-server
