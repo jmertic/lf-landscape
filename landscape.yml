@@ -6328,7 +6328,6 @@ landscape:
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/gridfm-energy/gridfm-data-zoo
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-11-11'
@@ -6337,9 +6336,6 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/gridfm
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfGFeSdSUJqLdBHTBZ
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfenergy/overview?project=gridfm
-            additional_repos:
-              - repo_url: https://github.com/gridfm-energy/gridfm-federated
-              - repo_url: https://github.com/gridfm-energy/gridfm-lab
           - item:
             name: Grid Simulation and Modeling SIG
             homepage_url: https://lf-energy.atlassian.net/wiki/spaces/GSMS/overview
@@ -13196,6 +13192,7 @@ landscape:
               the challenges in performance, scale, and 3GPP alignment.
             second_path:
               - Project Group / LF Projects, LLC
+              - PMO Managed / All
               - Industry / Telecommunications
               - Technology Sector / Networking & Edge
             repo_url: https://gerrit.o-ran-sc.org/r
