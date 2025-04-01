@@ -1665,7 +1665,8 @@ landscape:
             name: CBT Tape
             homepage_url: https://www.cbttape.org/
             logo: cbt_tape.svg
-            description: CBT Tape is an open library of free software distribution for the IBM mainframe Multiple Virtual Storage (MVS) and OS/390 and z/OS operating system environments
+            description: The mission of the Project is to provide an open library of free software distribution for the IBM mainframe Multiple Virtual Storage (MVS), OS/390 and z/OS
+              operating system environments that continues to evolve to meet today’s modern needs.
             second_path:
               - Project Group / Open Mainframe Project (OMP)
               - Industry / Cross-Industry
@@ -2379,6 +2380,27 @@ landscape:
               - repo_url: https://github.com/cncf/.github
               - repo_url: https://github.com/cncf/ambassadors
               - repo_url: https://github.com/cncf/apisnoopregexp
+          - item:
+            name: CloudNativePG
+            homepage_url: https://cloudnative-pg.io/
+            logo: cloudnativepg.svg
+            description: The mission of the project is to provide a Kubernetes native database platform for PostgreSQL.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/cloudnative-pg/webtest
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-02-21'
+              annotations:
+                slug: cloudnativepg
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cloudnativepg
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfW3yeOJmy3UEZBQc4
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=cloudnativepg
+            additional_repos:
+              - repo_url: https://github.com/cloudnative-pg/.github
+              - repo_url: https://github.com/cloudnative-pg/api
+              - repo_url: https://github.com/cloudnative-pg/artifacts
           - item:
             name: ClusterDuck Protocol
             homepage_url: https://clusterduckprotocol.org/
@@ -5039,6 +5061,22 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4FvQAL
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/ojsf/overview?project=esprima
           - item:
+            name: Essedum
+            homepage_url: https://essedum.org/
+            logo: essedum.svg
+            description: The mission of the project is to accelerate the integration of data, models and applications for networking industry.
+            second_path:
+              - Project Group / LF Networking (LFN)
+              - Technology Sector / Networking & Edge
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-03-24'
+              annotations:
+                slug: essedum
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/essedum
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfAPSU0YnGantVGNGI
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfn/overview?project=essedum
+          - item:
             name: Etcd
             homepage_url: https://etcd.io/
             logo: etcd.svg
@@ -6956,6 +6994,34 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/solang
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L1HqkQAF
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-decentralized-trust/overview?project=solang
+          - item:
+            name: Hyperlight
+            homepage_url: https://hyperlight.org/
+            logo: hyperlight.svg
+            description: |-
+              Hyperlight is a library for creating micro virtual machines — or sandboxes — specifically optimized for securely running untrusted code with minimal impact. It supports both Windows and Linux, utilizing Windows Hypervisor Platform on Windows, and either Microsoft Hypervisor (mshv) or KVM on Linux.
+
+              These micro VMs operate without a kernel or operating system, keeping overhead low. Instead, guests are built specifically for Hyperlight using the Hyperlight Guest library, which provides a controlled set of APIs that facilitate interaction between host and guest:
+
+              The host can call functions implemented and exposed by the guest (known as guest functions).
+              Once running, the guest can call functions implemented and exposed by the host (known as host functions).
+              By default, Hyperlight restricts guest access to a minimal API. The only host function available by default allows the guest to print messages, which are displayed on the host console or redirected to stdout, as configured. Hosts can choose to expose additional host functions, expanding the guest’s capabilities as needed.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/hyperlight-dev/ci-setup-workflow
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-03-19'
+              annotations:
+                slug: hyperlight
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/hyperlight
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lft32BUIrrLp4eiSSe
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=hyperlight
+            additional_repos:
+              - repo_url: https://github.com/hyperlight-dev/hyperlight
+              - repo_url: https://github.com/hyperlight-dev/hyperlight-kubeconNA2024-demo
+              - repo_url: https://github.com/hyperlight-dev/hyperlight-wasm
           - item:
             name: Hyphae
             homepage_url: https://www.lfenergy.org/projects/hyphae/
@@ -9412,7 +9478,7 @@ landscape:
               - Project Group / The Linux Foundation
               - Industry / Cross-Industry
               - Technology Sector / Linux Kernel
-            repo_url: http://git.linuxfoundation.org/?p=ltsi-kernel.git;a=summary
+            repo_url: http://git.linuxfoundation.org/?p=ltsi-kernel.git;a%3Dsummary
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2011-10-25'
@@ -14923,6 +14989,22 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfvXeqDJKReq39q8zj
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-ai-foundation/overview?project=aita
           - item:
+            name: Salus
+            homepage_url: https://project-salus.org/
+            logo: salus.svg
+            description: The mission of the project is to enable and enforce safe and secure AI adoption.
+            second_path:
+              - Project Group / LF Projects, LLC
+              - Technology Sector / AI, ML, Data & Analytics
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-03-19'
+              annotations:
+                slug: salus
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/salus
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfRkhVt7aeZDsuFERO
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfprojects/overview?project=salus
+          - item:
             name: SampleVNF
             homepage_url: https://wiki.anuket.io/x/7gcB
             logo: samplevnf.svg
@@ -20306,7 +20388,7 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/ambient-it---informatique
           - item:
             name: American Airlines (member)
-            homepage_url: https://jobs.aa.com/
+            homepage_url: https://aa.com/
             logo: american_airlines.svg
             description: American Airlines Group Inc. is an American publicly traded airline holding company headquartered in Fort Worth, Texas.
             crunchbase: https://www.crunchbase.com/organization/american-airlines
@@ -21449,15 +21531,6 @@ landscape:
             twitter: https://twitter.com/BentleySystems
             extra:
               linkedin_url: https://www.linkedin.com/company/bentley-systems
-          - item:
-            name: Binario Etico (member)
-            homepage_url: https://binarioetico.it/
-            logo: binario_etico.svg
-            description: Soluzioni e servizi di Cloud Automation di Infrastrutture IT su piattaforme OpenStack, Kubernetes e GitLab, rigorosamente basati su Free Software.
-            crunchbase: https://www.crunchbase.com/organization/binario-etico
-            twitter: https://twitter.com/binario_etico
-            extra:
-              linkedin_url: https://www.linkedin.com/company/binario-etico
           - item:
             name: BISDN (member)
             homepage_url: https://bisdn.de/
@@ -30480,6 +30553,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/sdax
             extra:
               linkedin_url: https://www.linkedin.com/company/sdax
+          - item:
+            name: Seacom srl sb (member)
+            homepage_url: https://seacom.it/
+            logo: seacom_srl_sb.svg
+            description: Seacom is the leading Open Source Architect in Italy, offering modular and scalable solutions for digital transformation with expertise in Zimbra and Elasticsearch.
+            crunchbase: https://www.crunchbase.com/organization/seacom-s-r-l
+            extra:
+              linkedin_url: https://www.linkedin.com/company/seacom
           - item:
             name: Seafarix (member)
             homepage_url: https://seafarix.com/
