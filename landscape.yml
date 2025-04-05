@@ -1188,13 +1188,13 @@ landscape:
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/anuket/overview?project=opnfv-barometer
           - item:
             name: Battery Data Alliance
-            homepage_url: https://lfenergy.org/projects/battery-data-alliance/
+            homepage_url: https://batterydataalliance.energy/
             logo: battery_data_alliance.svg
             description: The mission of the Battery Data Alliance is to build sustainable open source software and best practices for the battery industry.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Safety-Critical Systems
-            repo_url: https://github.com/BatteryDataAlliance/pymacnet
+            repo_url: https://github.com/battery-data-alliance/ampcloud-service
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-02-28'
@@ -1203,6 +1203,10 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/battery-data-alliance
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfomTQpTLl3A7cDHjh
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfenergy/overview?project=battery-data-alliance
+            additional_repos:
+              - repo_url: https://github.com/battery-data-alliance/BatteryDataInterface
+              - repo_url: https://github.com/battery-data-alliance/amplabs
+              - repo_url: https://github.com/battery-data-alliance/battery-data-format
           - item:
             name: BeeAI
             homepage_url: https://beeai.dev/
@@ -3381,6 +3385,25 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/covxtreme
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfwTZTl5McN9ojiuC7
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfenergy/overview?project=covxtreme
+          - item:
+            name: Cozystack
+            homepage_url: https://cozystack.io/
+            logo: cozystack.svg
+            description: |-
+              Cozystack is a free PaaS platform and framework for building clouds. With Cozystack, you can transform your bunch of servers into an intelligent system with a simple REST API for spawning Kubernetes clusters, Database-as-a-Service, virtual machines, load balancers, HTTP caching services, and other services with ease.
+              You can use Cozystack to build your own cloud or to provide a cost-effective development environments.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/aenix-io/cozystack
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-03-21'
+              annotations:
+                slug: cozystack
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cozystack
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfsixxnFWxbvsyEuC2
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=cozystack
           - item:
             name: Credo
             homepage_url: https://credo.js.org/
@@ -8303,6 +8326,26 @@ landscape:
               - repo_url: https://github.com/KiCad/.github
               - repo_url: https://github.com/KiCad/Air_Coils_SML_NEOSID.pretty
               - repo_url: https://github.com/KiCad/Antennas.pretty
+          - item:
+            name: KitOps
+            homepage_url: https://kitops.ml/
+            logo: kitops.svg
+            description: KitOps is an open-source packaging and versioning solution for AI/ML projects, designed for enterprise speed, security, and consistency in cloud-native environments.
+              By offering an OCI artifact called ModelKit, KitOps leverages the widely adopted OCI standard to ensure seamless integration with existing tools and infrastructures. This
+              enables organizations to manage, secure, and audit AI/ML projects effectively. KitOps has already been downloaded tens of thousands of times and is in use in private and
+              public sector organizations.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/jozu-ai/kitops
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-03-21'
+              annotations:
+                slug: kitops
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kitops
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfJiVJa3DsX8hDqpD3
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=kitops
           - item:
             name: Knative
             homepage_url: https://knative.dev/
@@ -33926,15 +33969,6 @@ landscape:
             twitter: https://twitter.com/WindRiver
             extra:
               linkedin_url: https://www.linkedin.com/company/wind-river
-          - item:
-            name: Wing Programming Language [Monada EBS LTD] (member)
-            homepage_url: https://winglang.io/
-            logo: wing_programming_language_monada_ebs_ltd.svg
-            description: Wing is a cloud-oriented programming language that combines infrastructure and runtime code in one language, enabling developers to deliver better software,
-              faster and more securely.
-            crunchbase: https://www.crunchbase.com/organization/wing-6186
-            extra:
-              linkedin_url: https://www.linkedin.com/company/wingcloud
           - item:
             name: Wipro Limited (member)
             homepage_url: https://wipro.com/
