@@ -2005,6 +2005,24 @@ landscape:
               - repo_url: https://github.com/chipsalliance/AIB-specification
               - repo_url: https://github.com/chipsalliance/Caliptra
           - item:
+            name: Chisel
+            homepage_url: https://www.chisel-lang.org/
+            logo: chisel.svg
+            description: The Constructing Hardware in a Scala Embedded Language (Chisel) is an open-source hardware description language (HDL) used to describe digital electronics and
+              circuits at the register-transfer level that facilitates advanced circuit generation and design reuse for both ASIC and FPGA digital logic designs.
+            second_path:
+              - Project Group / CHIPS Alliance Fund
+              - Technology Sector / Open Hardware
+            repo_url: https://github.com/chipsalliance/chisel
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-03-31'
+              annotations:
+                slug: chisel
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/chisel
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfEiSdeUldpRPtqBlH
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/chips/overview?project=chisel
+          - item:
             name: ChubaoFS
             homepage_url: https://chubao.io/
             logo: chubaofs.svg
@@ -32459,6 +32477,8 @@ landscape:
             name: The SIMI Group (member)
             homepage_url: https://simigroup.com/
             logo: the_simi_group.svg
+            description: SIMI is a Consultation Firm and Managed Service Provider delivering breakthrough Software as a Service (SaaS) solutions to address clinical, disaster, population
+              and public health needs.
             organization:
               name: The SIMI Group
           - item:
@@ -34292,16 +34312,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/zededaedge
           - item:
-            name: Zenduty (member)
-            homepage_url: https://zenduty.com/
-            logo: zenduty.svg
-            description: Zenduty is a revolutionary incident and alert management platform for modern SRE, DevOps, ITOps and Support teams.  Collaborate and resolve incidents without
-              compromising on reliability.
-            crunchbase: https://www.crunchbase.com/organization/zenduty
-            twitter: https://twitter.com/zenduty
-            extra:
-              linkedin_url: https://www.linkedin.com/company/zenduty
-          - item:
             name: Zesty Tech Ltd. (member)
             homepage_url: https://zesty.co/
             logo: zesty_tech_ltd.svg
@@ -34573,7 +34583,12 @@ landscape:
             name: AlmaLinux (member)
             homepage_url: https://almalinux.org/
             logo: almalinux.svg
-            description: An open-source RHEL fork built by the team at CloudLinux, inspired by the community.
+            description: |-
+              AlmaLinux OS is an enterprise Linux (EL) operating system used across the globe by people and organizations that need a stable operating system in the EL ecosystem that's free and doesn't require a commercial license agreement. This includes everything from non-profit organizations to Fortune 500 companies, from hobbyists managing their home automation to professionals managing supercomputers that are expanding our understanding of the universe - and everything in between. 
+
+              As the first downstream RHEL-compatible operating system to be released after the announcement that support for CentOS Linux was ending, our goal is to provide a stable, long-term option for anyone who has historically used CentOS Linux, and for whom CentOS Stream is not an option. 
+
+              The AlmaLinux OS Foundation is a 501(c)(6) non-profit entity created as the central collaboration point for everything to do with AlmaLinux, and for the benefit of the AlmaLinux OS community.
             twitter: https://twitter.com/AlmaLinux
             organization:
               name: AlmaLinux
