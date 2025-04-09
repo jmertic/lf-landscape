@@ -1194,7 +1194,7 @@ landscape:
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Safety-Critical Systems
-            repo_url: https://github.com/battery-data-alliance/ampcloud-service
+            repo_url: https://github.com/battery-data-alliance/schema-management-service
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-02-28'
@@ -1226,8 +1226,8 @@ landscape:
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfprojects/overview?project=beeai
             additional_repos:
               - repo_url: https://github.com/i-am-bee/.github
+              - repo_url: https://github.com/i-am-bee/ACP
               - repo_url: https://github.com/i-am-bee/bee-api
-              - repo_url: https://github.com/i-am-bee/bee-artifacts-site
           - item:
             name: Best Practices Badge
             homepage_url: https://github.com/coreinfrastructure/best-practices-badge
@@ -26345,15 +26345,6 @@ landscape:
               日本取引所グループ（JPX） is an exchange group that operates the Tokyo Stock Exchange, Osaka Exchange, and Tokyo Commodity Exchange, among others. It provides comprehensive services to offer a safe and convenient trading environment for market participants.
             crunchbase: https://www.crunchbase.com/organization/japan-exchange-group
           - item:
-            name: JD.com, Inc. (member)
-            homepage_url: https://jd.com/
-            logo: jd_com_inc.svg
-            description: JD.com is the largest retailer in China, a member of the NASDAQ100 and a Fortune Global 500 company.
-            crunchbase: https://www.crunchbase.com/organization/jd-com
-            twitter: https://twitter.com/JD_Corporate
-            extra:
-              linkedin_url: https://www.linkedin.com/company/jd.com
-          - item:
             name: Jetify (member)
             homepage_url: https://jetify.com/
             logo: jetify.svg
@@ -32242,6 +32233,17 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/tim
           - item:
+            name: Teledyne LeCroy Inc (member)
+            homepage_url: https://teledynelecroy.com/
+            logo: teledyne_lecroy_inc.svg
+            description: Teledyne LeCroy provides advanced oscilloscopes, protocol analyzers, and test solutions to accelerate design and testing of electronic devices, enhancing 'Time
+              to Insight' for faster market entry.
+            organization:
+              name: Teledyne LeCroy Inc
+              linkedin: https://www.linkedin.com/company/teledyne-lecroy
+            extra:
+              linkedin_url: https://www.linkedin.com/company/teledyne-lecroy
+          - item:
             name: Telefonica, S.A. (member)
             homepage_url: https://telefonica.com/
             logo: telefonica_s_a.svg
@@ -35940,6 +35942,17 @@ landscape:
             twitter: https://twitter.com/fz_juelich
             extra:
               linkedin_url: https://www.linkedin.com/company/forschungszentrum-julich
+          - item:
+            name: Foundation for Research and Technology - Hellas (FORTH) (member)
+            homepage_url: https://forth.gr/
+            logo: foundation_for_research_and_technology_hellas_forth.svg
+            description: Ίδρυμα Τεχνολογίας & Έρευνας  Foundation for Research & Technology-Hellas  https://twitter.com/FORTH_Hellas
+            twitter: https://twitter.com/FORTH_ITE
+            organization:
+              name: Foundation for Research and Technology - Hellas (FORTH)
+              linkedin: https://www.linkedin.com/company/foundation-for-research-&-technology-hellas-forth-
+            extra:
+              linkedin_url: https://www.linkedin.com/company/foundation-for-research-&-technology-hellas-forth-
           - item:
             name: Fraunhofer Gesellschaft IIS (member)
             homepage_url: https://iis.fraunhofer.de/
