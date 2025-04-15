@@ -1213,7 +1213,7 @@ landscape:
             logo: beeai.svg
             description: The mission of the project is to develop an open-source framework for building production-ready agents.
             second_path:
-              - Project Group / LF Projects, LLC
+              - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
             repo_url: https://github.com/i-am-bee/beeai-framework
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
@@ -1223,7 +1223,7 @@ landscape:
                 slug: beeai
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/beeai
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfHdZBrCu8SFNqEa2e
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfprojects/overview?project=beeai
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-ai-foundation/overview?project=beeai
             additional_repos:
               - repo_url: https://github.com/i-am-bee/.github
               - repo_url: https://github.com/i-am-bee/ACP
@@ -3763,7 +3763,7 @@ landscape:
             logo: data_prep_kit.svg
             description: The mission of the project is to simplify unstructured data preparation for LLM application development.
             second_path:
-              - Project Group / LF Projects, LLC
+              - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
             repo_url: https://github.com/IBM/data-prep-kit
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
@@ -3773,7 +3773,7 @@ landscape:
                 slug: data-prep-kit
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/data-prep-kit
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfRchUotaNSKAJjkr6
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfprojects/overview?project=data-prep-kit
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-ai-foundation/overview?project=data-prep-kit
           - item:
             name: Datashim
             homepage_url: https://datashim.io/
@@ -4455,7 +4455,7 @@ landscape:
             description: The mission of the project is to simplify document processing, to parse diverse formats — including advanced PDF understanding — and to provide seamless integrations
               with the gen AI ecosystem
             second_path:
-              - Project Group / LF Projects, LLC
+              - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
             repo_url: https://github.com/DS4SD/docling
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
@@ -4465,7 +4465,7 @@ landscape:
                 slug: docling
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/docling
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfrViYCbiegngDNba1
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfprojects/overview?project=docling
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-ai-foundation/overview?project=docling
           - item:
             name: Dojo
             homepage_url: https://dojo.io/
@@ -26725,7 +26725,12 @@ landscape:
             name: Komodor Inc. (member)
             homepage_url: https://komodor.com/
             logo: komodor_inc.svg
-            description: We track changes and alerts across your K8s stack and provide devs, DevOps and SRE teams the context they need to troubleshoot efficiently. Independently.
+            description: |-
+              We track changes and alerts across your K8s stack and provide devs, DevOps and SRE teams the context they need to troubleshoot efficiently. Independently.
+
+              --- Merged Data:
+
+              Komodor is a Kubernetes native troubleshooting platform that simplifies cluster management and troubleshooting, providing actionable insights for efficient troubleshooting.
             crunchbase: https://www.crunchbase.com/organization/komodor
             twitter: https://twitter.com/Komodor_com
             extra:
@@ -34099,6 +34104,15 @@ landscape:
             twitter: https://twitter.com/WindRiver
             extra:
               linkedin_url: https://www.linkedin.com/company/wind-river
+          - item:
+            name: Wing Programming Language [Monada EBS LTD] (member)
+            homepage_url: https://winglang.io/
+            logo: wing_programming_language_monada_ebs_ltd.svg
+            description: Wing is a cloud-oriented programming language that combines infrastructure and runtime code in one language, enabling developers to deliver better software,
+              faster and more securely.
+            crunchbase: https://www.crunchbase.com/organization/wing-6186
+            extra:
+              linkedin_url: https://www.linkedin.com/company/wingcloud
           - item:
             name: Wipro Limited (member)
             homepage_url: https://wipro.com/
