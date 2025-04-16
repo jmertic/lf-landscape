@@ -7993,6 +7993,27 @@ landscape:
               - repo_url: https://github.com/jupyter-xeus/cpp-terminal
               - repo_url: https://github.com/jupyter-xeus/jupyter-xeus.github.io
           - item:
+            name: k0s
+            homepage_url: https://k0sproject.io/
+            logo: k0s.svg
+            description: The mission of the project is to provide a CNCF-certified lightweight, Kubernetes distribution with zero dependencies and zero opinion.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/k0sproject/k0s
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-02-21'
+              annotations:
+                slug: k0s
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/k0s
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfmdqWyf3pg7l3icyq
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=k0s
+            additional_repos:
+              - repo_url: https://github.com/k0sproject/bootloose
+              - repo_url: https://github.com/k0sproject/cni-node
+              - repo_url: https://github.com/k0sproject/community
+          - item:
             name: k3s
             homepage_url: https://k3s.io/
             logo: k3s.svg
@@ -13372,6 +13393,26 @@ landscape:
               - repo_url: https://github.com/oras-project/community
               - repo_url: https://github.com/oras-project/oras-credentials-go
           - item:
+            name: ORES (Open Renewal Energy Systems)
+            homepage_url: https://ores.energy/
+            logo: ores_open_renewal_energy_systems.svg
+            description: ORES aims to address these challenges by developing a set of easy-to-follow open standard specifications on system architecture, APIs, and communication protocols
+              that empower device manufacturers, hardware and software developers, and DIYers to
+            second_path:
+              - Project Group / LF Energy (LFE)
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/open-renewable-energy-systems/ores
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-04-15'
+              annotations:
+                slug: ores-open-renewal-energy-systems
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ores-open-renewal-energy-systems
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfn16C1T8IdKmEtdUv
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfenergy/overview?project=ores-open-renewal-energy-systems
+            additional_repos:
+              - repo_url: https://github.com/open-renewable-energy-systems/.github
+          - item:
             name: Ortelius
             homepage_url: https://ortelius.io/
             logo: ortelius.svg
@@ -15085,40 +15126,6 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/opnfv-samplevnf
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs84QAD
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/anuket/overview?project=opnfv-samplevnf
-          - item:
-            name: SAM WG Architecture
-            homepage_url: https://github.com/super-advanced-meter/WG-Architecture
-            logo: sam_wg_architecture.svg
-            description: Super Advanced Smart Meter
-            second_path:
-              - Project Group / LF Energy Standards and Specifications (LFESS)
-              - Technology Sector / Cross-Technology
-            repo_url: https://github.com/super-advanced-meter/WG-Architecture
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2022-10-13'
-              annotations:
-                slug: samwga
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/samwga
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NVQt8QAH
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-energy-standards-and-specifications/overview?project=samwga
-          - item:
-            name: SAM WG Use Cases
-            homepage_url: https://github.com/super-advanced-meter/WG-UseCases
-            logo: sam_wg_use_cases.svg
-            description: Super Advanced Smart Meter Use Cases
-            second_path:
-              - Project Group / LF Energy Standards and Specifications (LFESS)
-              - Technology Sector / Cross-Technology
-            repo_url: https://github.com/super-advanced-meter/WG-UseCases
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2022-10-13'
-              annotations:
-                slug: samwguc
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/samwguc
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NVQtDQAX
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-energy-standards-and-specifications/overview?project=samwguc
           - item:
             name: SBOMit
             homepage_url: https://sbomit.dev/
@@ -18550,7 +18557,7 @@ landscape:
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-ai-foundation/overview?project=vllm
             additional_repos:
               - repo_url: https://github.com/vllm-project/aibrix
-              - repo_url: https://github.com/vllm-project/buildkite-ci
+              - repo_url: https://github.com/vllm-project/ci-infra
               - repo_url: https://github.com/vllm-project/dashboard
           - item:
             name: VNF Requirements
@@ -36406,6 +36413,17 @@ landscape:
               of academic programs across 19 colleges and 85 specializations, IAU is dedicated to providing...
             organization:
               name: Imam Abdulrahman Bin Faisal University
+          - item:
+            name: Indian Institute of Management, Ahmedabad (member)
+            homepage_url: https://iima.ac.in/
+            logo: indian_institute_of_management_ahmedabad.svg
+            description: IIMA is a leading global business school excelling in management research, leadership development, and education, with a strong focus on advancing knowledge
+              for practical, policy, and academic impact.
+            organization:
+              name: Indian Institute of Management, Ahmedabad
+              linkedin: https://www.linkedin.com/company/researchandpublicationsatiima
+            extra:
+              linkedin_url: https://www.linkedin.com/company/researchandpublicationsatiima
           - item:
             name: Indian Institute of Technology Kharagpur (member)
             homepage_url: https://iitkgp.ac.in/
