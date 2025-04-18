@@ -1226,7 +1226,7 @@ landscape:
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-ai-foundation/overview?project=beeai
             additional_repos:
               - repo_url: https://github.com/i-am-bee/.github
-              - repo_url: https://github.com/i-am-bee/ACP
+              - repo_url: https://github.com/i-am-bee/acp
               - repo_url: https://github.com/i-am-bee/bee-api
           - item:
             name: Best Practices Badge
@@ -15221,28 +15221,6 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cdf-screwdriver
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs5xQAD
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cdf/overview?project=cdf-screwdriver
-          - item:
-            name: SDDI (Software Developer Diversity and Inclusion)
-            homepage_url: https://sddiproject.org/
-            logo: sddi_software_developer_diversity_and_inclusion.svg
-            description: SDDI's goal is to discover, evaluate, and promote best practices from research and industry to increase diversity and inclusion in software engineering.
-            second_path:
-              - Project Group / LF Projects, LLC
-              - Industry / Cross-Industry
-              - Technology Sector / Open Source & Compliance Best Practices
-            repo_url: https://github.com/sddiproject/.github
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2020-10-23'
-              annotations:
-                slug: sddi
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/sddi
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkUBtQAN
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfprojects/overview?project=sddi
-            additional_repos:
-              - repo_url: https://github.com/sddiproject/deia-best-practices-wg
-              - repo_url: https://github.com/sddiproject/neurodiversity-wg
-              - repo_url: https://github.com/sddiproject/talent-pipeline-wg
           - item:
             name: SD-JWT Javascript Reference Implementation
             homepage_url: https://tac.openwallet.foundation/projects/sd-jwt-js/
@@ -36905,13 +36883,13 @@ landscape:
               informatization.
             crunchbase: https://www.crunchbase.com/organization/national-information-society-agency
           - item:
-            name: KOSSA (member)
+            name: Korea Open Source Software Association (member)
             homepage_url: https://kossa.kr/
-            logo: kossa.svg
+            logo: korea_open_source_software_association.svg
             description: The Korea Open Source Software Association (KOSSA) is a global channel for collaboration with open source organizations and communities, focusing on technology
               sharing, talent development, and advancing the ecosystem of open source software. Founded in...
             organization:
-              name: KOSSA
+              name: Korea Open Source Software Association
           - item:
             name: Kristu Jayanti College (member)
             homepage_url: https://kristujayanti.edu.in/
