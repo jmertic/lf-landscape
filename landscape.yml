@@ -1666,6 +1666,29 @@ landscape:
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=carvel
               youtube_url: https://www.youtube.com/@Carvel-dev
           - item:
+            name: CBOMkit
+            homepage_url: https://github.com/IBM/cbomkit
+            logo: cbomkit.svg
+            description: |-
+              CBOMkit is a toolset for dealing with Cryptography Bill of Materials (CBOM). CBOMkit includes a
+
+              CBOM Generation (CBOMkit-hyperion, CBOMkit-theia): Generate CBOMs from source code by scanning git repositories to find the used cryptography.
+              CBOM Viewer (CBOMkit-coeus): Visualize a generated or uploaded CBOM and access comprehensive statistics.
+              CBOM Compliance Check: Evaluate CBOMs created or uploaded against specified compliance policies and receive detailed compliance status reports.
+              CBOM Database: Collect and store CBOMs into the database and expose this data through a RESTful API.
+            second_path:
+              - Project Group / Post-Quantum Cryptography Alliance
+              - Technology Sector / Quantum Computing
+            repo_url: https://github.com/IBM/cbomkit
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-04-17'
+              annotations:
+                slug: cbomkit
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cbomkit
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfqZrza2QjC393TsGe
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/pqca/overview?project=cbomkit
+          - item:
             name: CBT Tape
             homepage_url: https://www.cbttape.org/
             logo: cbt_tape.svg
@@ -12345,19 +12368,18 @@ landscape:
             description: Drive adoption of an open mobile ecosystem, enabling developers to develop device-agnostic applications running on platform-agnostic systems, with plugins extensibility
               to deliver consistent user experiences on all OS & device types.
             second_path:
-              - Project Group / Linux Foundation Europe
-              - PMO Managed / All
+              - Project Group / LF Projects, LLC
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/openmobilehub/omh-maps
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/openmobilehub
             extra:
-              accepted: '2023-12-08'
+              accepted: '2025-04-17'
               annotations:
-                slug: omh
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/omh
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NXktRQAT
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfeurope/overview?project=omh
+                slug: open-mobile-hub
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/open-mobile-hub
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfTlqDGvE0jhqZtnky
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfprojects/overview?project=open-mobile-hub
             additional_repos:
               - repo_url: https://github.com/openmobilehub/.github
               - repo_url: https://github.com/openmobilehub/admin
@@ -13392,6 +13414,25 @@ landscape:
               - repo_url: https://github.com/oras-project/artifacts-spec
               - repo_url: https://github.com/oras-project/community
               - repo_url: https://github.com/oras-project/oras-credentials-go
+          - item:
+            name: ORBIT Working Group
+            homepage_url: https://baseline.openssf.org/
+            logo: orbit_working_group.svg
+            description: The OpenSSF Open Resources for Baselines, Interoperability, and Tooling (ORBIT) Working Group exists to develop and maintain interoperable resources related
+              to the identification and presentation of security-relevant data.
+            second_path:
+              - Project Group / Open Source Security Foundation (OpenSSF)
+              - Technology Sector / Privacy & Security
+              - Technology Sector / Open Source & Compliance Best Practices
+            repo_url: https://github.com/ossf/wg-orbit
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-04-18'
+              annotations:
+                slug: wg-orbit
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/wg-orbit
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfwaIWNogr14xuvjmY
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/openssf/overview?project=wg-orbit
           - item:
             name: ORES (Open Renewal Energy Systems)
             homepage_url: https://ores.energy/
@@ -15768,6 +15809,25 @@ landscape:
               - repo_url: https://github.com/slsa-framework/attested-build-environments-demo
               - repo_url: https://github.com/slsa-framework/azure-devops-demo
               - repo_url: https://github.com/slsa-framework/example-package
+          - item:
+            name: Smoot
+            homepage_url: https://github.com/LFDT-Smoot
+            logo: smoot.svg
+            description: The mission of the Project is to build an open source bridge for both homogeneous and heterogeneous chain-to-chain interactions, compliant with the Enterprise
+              Ethereum Alliance (EEA)’s DLT Interoperability Specification.
+            second_path:
+              - Project Group / LF Decentralized Trust
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/LFDT-Smoot/governance
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-04-17'
+              annotations:
+                slug: smoot
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/smoot
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfO8NZitZdLfsIonL1
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-decentralized-trust/overview?project=smoot
+            additional_repos: []
           - item:
             name: SOAJS
             homepage_url: https://soajs.org/
@@ -22693,13 +22753,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EB%A9%94%EC%9D%B4%ED%8A%B8
           - item:
-            name: Cloudoor (member)
-            homepage_url: https://cloudoor.com/
-            logo: cloudoor.svg
-            description: Cloudoor is a tech company that offers an Ops platform for developers, enabling them to deliver safe code to users without risk or stress. They provide credits
-              from leading Cloud providers and assistance in migrating services to AWS, helping companies ...
-            crunchbase: https://www.crunchbase.com/organization/cno
-          - item:
             name: Cloudsmith Ltd (member)
             homepage_url: https://cloudsmith.com/
             logo: cloudsmith_ltd.svg
@@ -26868,13 +26921,6 @@ landscape:
             twitter: https://twitter.com/krypctalk
             extra:
               linkedin_url: https://www.linkedin.com/company/krypc
-          - item:
-            name: kt NexR (member)
-            homepage_url: https://ktnexr.com/
-            logo: kt_nexr.svg
-            description: NO1. Big Data Professional Group, kt NexR
-            organization:
-              name: kt NexR
           - item:
             name: KTrust (member)
             homepage_url: https://ktrust.io/
@@ -33314,7 +33360,7 @@ landscape:
             name: Ventana Micro Systems (member)
             homepage_url: https://ventanamicro.com/
             logo: ventana_micro_systems.svg
-            description: Ventana is the RISC-V Performance leader, delivering platforms, chips, and IP for groundbreaking solutions across data center, automotive, client, and AI markets.
+            description: Ventana is the RISC-V Performance leader, delivering platforms, chips and IP for groundbreaking solutions across data center, automotive, client, and AI markets.
               Our core team includes the pioneers behind the first 64-bit Arm server processor, the X-Gene by Applied Micro. With this proven expertise, we are redefining high-performance
               computing with the RISC-V architecture.
             twitter: https://twitter.com/VentanaMicro
