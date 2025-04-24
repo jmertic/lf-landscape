@@ -8910,6 +8910,27 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L1HYKQA3
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=kured
           - item:
+            name: KusionStack
+            homepage_url: https://www.kusionstack.io/
+            logo: kusionstack.svg
+            description: The mission of the project is to provide a technology stack for building cloud-native Internal Developer Platforms (IDPs).
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/KusionStack/kusion
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-02-21'
+              annotations:
+                slug: kusionstack
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kusionstack
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfVwBAKMKoaBqcleaa
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=kusionstack
+            additional_repos:
+              - repo_url: https://github.com/KusionStack/.github
+              - repo_url: https://github.com/KusionStack/2024-annual-report
+              - repo_url: https://github.com/KusionStack/catalog
+          - item:
             name: Kyverno
             homepage_url: https://kyverno.io/
             logo: kyverno.svg
@@ -12848,7 +12869,7 @@ landscape:
             logo: opentofu.svg
             description: The mission of the Project is to develop and preserve open source infrastructure as code
             second_path:
-              - Project Group / LF Projects, LLC
+              - Project Group / Cloud Native Computing Foundation (CNCF)
               - PMO Managed / All
               - Technology Sector / Cross-Technology
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
@@ -12859,7 +12880,7 @@ landscape:
                 slug: opentf
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/opentf
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfIngnAcA4zYXO6h5Z
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfprojects/overview?project=opentf
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=opentf
           - item:
             name: OpenVDB
             homepage_url: https://www.openvdb.org/
@@ -23401,15 +23422,6 @@ landscape:
             twitter: https://twitter.com/DSR_corporation
             extra:
               linkedin_url: https://www.linkedin.com/company/dsr-corporation
-          - item:
-            name: Daugherty Business Solutions (member)
-            homepage_url: https://daugherty.com/
-            logo: daugherty_business_solutions.svg
-            description: Offices in St. Louis (headquarters), Atlanta, Dallas, Chicago,  Minneapolis, and New York.
-            crunchbase: https://www.crunchbase.com/organization/daugherty-business-solutions-2
-            twitter: https://twitter.com/daughertytweets
-            extra:
-              linkedin_url: https://www.linkedin.com/company/daugherty-business-solutions
           - item:
             name: DBOS (member)
             homepage_url: https://dbos.dev/
