@@ -5704,7 +5704,7 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/flatcar/.github
               - repo_url: https://github.com/flatcar/Flatcar
-              - repo_url: https://github.com/flatcar/azure-marketplace-ingestion-api
+              - repo_url: https://github.com/flatcar/baselayout
           - item:
             name: Fledge
             homepage_url: https://www.lfedge.org/projects/fledge/
@@ -6388,6 +6388,7 @@ landscape:
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
+            repo_url: https://github.com/geisa/specification
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-11-05'
@@ -6396,6 +6397,8 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/geisa
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf9JyPreYpr2H4waXR
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfenergy/overview?project=geisa
+            additional_repos:
+              - repo_url: https://github.com/geisa/conformance
           - item:
             name: Grid eXchange Fabric (GXF)
             homepage_url: https://www.lfenergy.org/projects/gxf/
