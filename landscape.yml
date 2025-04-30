@@ -1237,7 +1237,7 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/i-am-bee/.github
               - repo_url: https://github.com/i-am-bee/acp
-              - repo_url: https://github.com/i-am-bee/bee-api
+              - repo_url: https://github.com/i-am-bee/acp-mcp
           - item:
             name: Best Practices Badge
             homepage_url: https://github.com/coreinfrastructure/best-practices-badge
@@ -6486,6 +6486,28 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfeQFSWBGgyaXAeg4r
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfenergy/overview?project=lfenergy-grid-simulation-and-modeling-sig
           - item:
+            name: Grid Vantage
+            homepage_url: https://gridvantage.energy/
+            logo: grid_vantage.svg
+            description: The mission of the Project is to help electric grid operators anticipate, mitigate against, and recover from the effects of extreme weather events.
+            second_path:
+              - Project Group / LF Energy (LFE)
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/grid-vantage/grip-integration
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-04-15'
+              annotations:
+                slug: gridvantage
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/gridvantage
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfYw7SMxNrSMczS0vr
+                project_org: https://github.com/grid-vantage
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfenergy/overview?project=gridvantage
+            additional_repos:
+              - repo_url: https://github.com/grid-vantage/grip-absorption-pipeline
+              - repo_url: https://github.com/grid-vantage/grip-anticipation-pipeline
+              - repo_url: https://github.com/grid-vantage/grip-recovery-pipeline
+          - item:
             name: GrimoireLab
             homepage_url: https://chaoss.github.io/grimoirelab/
             logo: grimoirelab.svg
@@ -7652,9 +7674,9 @@ landscape:
                 project_org: https://github.com/JanssenProject
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfprojects/overview?project=janssen
             additional_repos:
+              - repo_url: https://github.com/JanssenProject/developer-docs
               - repo_url: https://github.com/JanssenProject/docs
               - repo_url: https://github.com/JanssenProject/jans
-              - repo_url: https://github.com/JanssenProject/jans-cli
           - item:
             name: JanusGraph
             homepage_url: https://janusgraph.org/
@@ -8405,6 +8427,30 @@ landscape:
               - repo_url: https://github.com/keystone-enclave/certifier-deps
               - repo_url: https://github.com/keystone-enclave/elfloader
           - item:
+            name: kgateway
+            homepage_url: https://kgateway.dev/
+            logo: kgateway.svg
+            description: Kgateway is a feature-rich, fast, and flexible Kubernetes-native ingress controller and next-generation API gateway that is built on top of Envoy proxy and the
+              Kubernetes Gateway API. It excels in function-level routing, supports legacy apps, microservices and serverless, offers robust discovery capabilities, integrates seamlessly
+              with open-source projects, and is designed to support hybrid applications with various technologies, architectures, protocols, and clouds.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/kgateway-dev/kgateway
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-03-21'
+              annotations:
+                slug: kgateway
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kgateway
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf8xN6K6pdCF7GbfgN
+                project_org: https://github.com/kgateway-dev
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=kgateway
+            additional_repos:
+              - repo_url: https://github.com/kgateway-dev/community
+              - repo_url: https://github.com/kgateway-dev/k8s-repo-transfer-test
+              - repo_url: https://github.com/kgateway-dev/kgateway.dev
+          - item:
             name: KiCad
             homepage_url: https://kicad.org/
             logo: kicad.svg
@@ -9136,7 +9182,7 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/lfai/CDLA
               - repo_url: https://github.com/lfai/Content_Maintenance
-              - repo_url: https://github.com/lfai/ai-ethics-training
+              - repo_url: https://github.com/lfai/ML_LLM_Ops
           - item:
             name: LF Connectivity
             homepage_url: https://lfconnectivity.dev/
@@ -19363,7 +19409,7 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/zopencommunity/.github
               - repo_url: https://github.com/zopencommunity/antport
-              - repo_url: https://github.com/zopencommunity/autoconfport
+              - repo_url: https://github.com/zopencommunity/aprport
           - item:
             name: Zorse
             homepage_url: https://zorse.ai/
@@ -26245,8 +26291,8 @@ landscape:
             name: Internet Initiative Japan (member)
             homepage_url: https://iij.ad.jp/
             logo: internet_initiative_japan.svg
-            description: IIJ, the first Japanese Internet Service Provider since 1992, offers a wide range of solutions including cloud computing, WAN services, systems integration,
-              and more. Leading the technology revolution, IIJ combines IT and telecommunications infrastruct...
+            description: Internet Initiative Japan Inc. is a pioneering technology and telecommunications company that provides Internet connectivity, WAN, outsourcing, systems integration,
+              cloud services, and network-related equipment sales throughout Japan. The company opera...
             organization:
               name: Internet Initiative Japan
               linkedin: https://www.linkedin.com/company/internet-initiative-japan
