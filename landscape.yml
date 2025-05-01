@@ -4132,6 +4132,54 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkO1OQAV
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=devfile
           - item:
+            name: Device Automation Bus
+            homepage_url: https://github.com/device-automation-bus
+            logo: device_automation_bus.svg
+            description: Device Automation Bus is a simple protocol for intuitively interacting with consumer electronics in the living room that are connected to the Internet such as
+              Smart TVs and gaming consoles. DAB specifies device and application certification testing requirements for running highly performant video streaming applications on OEM
+              devices.
+            second_path:
+              - Project Group / Device Automation Bus Fund
+              - Technology Sector / IoT & Embedded
+            repo_url: https://github.com/device-automation-bus/dab-bridge-sdk-js
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2024-08-28'
+              annotations:
+                slug: device-automation-bus
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/device-automation-bus
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfUAWE72FVKdiAHf8o
+                project_org: https://github.com/device-automation-bus
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/device-automation-bus-fund/overview?project=device-automation-bus
+            additional_repos:
+              - repo_url: https://github.com/device-automation-bus/dab-adapter-cpp
+              - repo_url: https://github.com/device-automation-bus/dab-adapter-rs
+              - repo_url: https://github.com/device-automation-bus/dab-compliance-suite
+          - item:
+            name: Device Automation Bus Fund
+            homepage_url: https://getdab.org/
+            logo: device_automation_bus_fund.svg
+            description: |-
+              Device Automation Bus is a simple protocol for intuitively interacting with consumer electronics in the living room that are connected to the Internet such as Smart TVs and gaming consoles. DAB enables device manufacturers and application developers to programmatically start and stop applications, send key presses to the device, restart the device, capture device metrics among other operations. Using DAB, device manufacturers and application developers can automate manual tasks such as application compatibility
+              checks, cross application performance testing and monitoring device memory usage. Automating manual tasks provides reliable results and saves time and money.
+            second_path:
+              - Project Group / The Linux Foundation
+              - Technology Sector / IoT & Embedded
+            repo_url: https://github.com/device-automation-bus/dab-bridge-sdk-js
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2024-08-28'
+              annotations:
+                slug: device-automation-bus-fund
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/device-automation-bus-fund
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfpkqMpvLejDzFXTTK
+                project_org: https://github.com/device-automation-bus
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/tlf/overview?project=device-automation-bus-fund
+            additional_repos:
+              - repo_url: https://github.com/device-automation-bus/dab-adapter-cpp
+              - repo_url: https://github.com/device-automation-bus/dab-adapter-rs
+              - repo_url: https://github.com/device-automation-bus/dab-compliance-suite
+          - item:
             name: DevOps Automation
             homepage_url: https://github.com/finos/devops-mutualization
             logo: devops_automation.svg
@@ -5595,6 +5643,30 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/secure-device-onboard
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkZJkQAN
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfedge/overview?project=secure-device-onboard
+          - item:
+            name: FIDOPower
+            homepage_url: https://fidopower.energy/
+            logo: fidopower.svg
+            description: |-
+              The mission of the Project is to enable and support the use of DOE's GridLAB-D
+              technology by utilities, researchers, and vendors of smart grid, renewable energy, and climate-change mitigation technology with special attention to electric energy delivery systems.
+            second_path:
+              - Project Group / LF Energy (LFE)
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/fidopower/tsc
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2024-01-03'
+              annotations:
+                slug: fidopower
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/fidopower
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NYCPUQA5
+                project_org: https://github.com/fidopower
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfenergy/overview?project=fidopower
+            additional_repos:
+              - repo_url: https://github.com/fidopower/.github
+              - repo_url: https://github.com/fidopower/model_viewer
+              - repo_url: https://github.com/fidopower/optimal_sizing_placement
           - item:
             name: Finance SIG
             homepage_url: https://github.com/OAI/sig-finance
@@ -7957,6 +8029,7 @@ landscape:
               documents for Project Jupyter.
             second_path:
               - Project Group / The Linux Foundation
+              - PMO Managed / All
               - Technology Sector / AI, ML, Data & Analytics
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -25912,7 +25985,7 @@ landscape:
             name: IF Information Systems (member)
             homepage_url: https://ifinfo.co.kr/
             logo: if_information_systems.svg
-            crunchbase: https://www.crunchbase.com/organization/if-information-systems-3171
+            crunchbase: https://www.crunchbase.com/organization/if-information-systems
           - item:
             name: IFS World Operations AB (member)
             homepage_url: https://ifsworld.com/
@@ -37019,8 +37092,7 @@ landscape:
             logo: korea_open_source_association.svg
             description: The Korea Open Source Software Association (KOSSA) is a global channel for collaboration with open source organizations and communities, focusing on technology
               sharing, talent development, and advancing the ecosystem of open source software. Founded in...
-            organization:
-              name: Korea Open Source Association
+            crunchbase: https://www.crunchbase.com/organization/korea-open-source-association
           - item:
             name: Kristu Jayanti College (member)
             homepage_url: https://kristujayanti.edu.in/
