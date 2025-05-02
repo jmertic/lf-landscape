@@ -903,14 +903,14 @@ landscape:
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=armada
           - item:
             name: Arras
-            homepage_url: https://github.com/arras-energy
+            homepage_url: https://arras.energy/
             logo: arras.svg
             description: The mission of the Arras project is to enable and support the use of DOE's GridLAB-D technology by utilities, researchers, and vendors with special attention
               to electric energy delivery systems.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/arras-energy/tsc
+            repo_url: https://github.com/arras-energy/gridlabd-weather
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-01-03'
@@ -918,7 +918,12 @@ landscape:
                 slug: arras
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/arras
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L1HmTQAV
+                project_org: https://github.com/arras-energy
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfenergy/overview?project=arras
+            additional_repos:
+              - repo_url: https://github.com/arras-energy/.github
+              - repo_url: https://github.com/arras-energy/arras
+              - repo_url: https://github.com/arras-energy/arras-energy.github.io
           - item:
             name: Artifact Hub
             homepage_url: https://artifacthub.io/
@@ -8521,7 +8526,6 @@ landscape:
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=kgateway
             additional_repos:
               - repo_url: https://github.com/kgateway-dev/community
-              - repo_url: https://github.com/kgateway-dev/k8s-repo-transfer-test
               - repo_url: https://github.com/kgateway-dev/kgateway.dev
           - item:
             name: KiCad
@@ -21687,17 +21691,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/baylibre
           - item:
-            name: BeaconPoint (member)
-            homepage_url: https://bconpt.com/
-            logo: beaconpoint.svg
-            description: BeaconPoint is a woman-owned and operated small business (WOSB) specializing in technology financial management capabilities including FinOps (cloud financial
-              management), Technology Business Management (TBM), and IT Portfolio Management (ITPfM). Beaco...
-            organization:
-              name: BeaconPoint
-              linkedin: https://www.linkedin.com/company/bconpt
-            extra:
-              linkedin_url: https://www.linkedin.com/company/bconpt
-          - item:
             name: BEGASOFT (member)
             homepage_url: https://begasoft.ch/
             logo: begasoft.svg
@@ -22097,6 +22090,17 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/brobridge
           - item:
+            name: BTS Group (member)
+            homepage_url: https://btsgrp.com/
+            logo: bts_group.svg
+            description: BTS Group is a leading professional services company offering innovative IT solutions and consulting services. With a strong focus on digital transformation,
+              AI, and automation, BTS Group designs cutting-edge platforms and collaborates with industry le...
+            organization:
+              name: BTS Group
+              linkedin: https://www.linkedin.com/company/btsgroup
+            extra:
+              linkedin_url: https://www.linkedin.com/company/btsgroup
+          - item:
             name: Buildkite Pty Ltd (member)
             homepage_url: https://buildkite.com/
             logo: buildkite_pty_ltd.svg
@@ -22410,6 +22414,18 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/causely-509c
             extra:
               linkedin_url: https://www.linkedin.com/company/causely-ai
+          - item:
+            name: CDW Corporation (member)
+            homepage_url: https://cdw.com/
+            logo: cdw_corporation.svg
+            description: CDW is a leading multi-brand technology solutions provider to business, government, education and healthcare organizations in North America and the United Kingdom.
+              A Fortune 500 company with multi-national capabilities, CDW was founded in 1984 and employs more than 8,700 coworkers. For the twelve months ended June 30, 2016, the company
+              generated net sales of over $13 billion. CDW Corporation operates a retail store at its corporate headquarters and manages an e-commerce site. CDW Corporation is a managed
+              services provider (MSP) and is headquartered in Lincolnshire, Illinois.
+            crunchbase: https://www.crunchbase.com/organization/cdw-corporation
+            twitter: https://twitter.com/CDWCorp
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cdw
           - item:
             name: CECloud Computing Technology Co., Ltd (member)
             homepage_url: https://cecloud.com/
@@ -22927,6 +22943,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EB%A9%94%EC%9D%B4%ED%8A%B8
           - item:
+            name: CloudNuro Corp (member)
+            homepage_url: https://cloudnuro.ai/
+            logo: cloudnuro_corp.svg
+            description: 'CloudNuro.AI: Next-gen SaaS company using AI to optimize operations, enhance security, and maximize ROI for SaaS investments.'
+            organization:
+              name: CloudNuro Corp
+              linkedin: https://www.linkedin.com/company/cloudnuro
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cloudnuro
+          - item:
             name: Cloudsmith Ltd (member)
             homepage_url: https://cloudsmith.com/
             logo: cloudsmith_ltd.svg
@@ -23140,6 +23166,16 @@ landscape:
             logo: common_tools.svg
             organization:
               name: Common Tools
+          - item:
+            name: Commonwealth Bank of Australia (member)
+            homepage_url: https://commbank.com.au/
+            logo: commonwealth_bank_of_australia.svg
+            description: The Commonwealth Bank of Australia, or CommBank, is an Australian multinational bank with businesses across New Zealand, Asia, the United States and the United
+              Kingdom.
+            crunchbase: https://www.crunchbase.com/organization/commonwealth-bank-of-australia
+            twitter: https://twitter.com/CommBank
+            extra:
+              linkedin_url: https://www.linkedin.com/company/commonwealthbank
           - item:
             name: ComplianceCow (member)
             homepage_url: https://compliancecow.com/
@@ -23385,6 +23421,17 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/credo-semiconductor
           - item:
+            name: Crest Infosolutions Sdn Bhd (member)
+            homepage_url: https://crestsolution.com/
+            logo: crest_infosolutions_sdn_bhd.svg
+            description: Crest Infosolutions partners with organizations to succeed in their Digital Transformation journey by deploying Digital Workspace Solutions. Their suite of solutions
+              includes Document Capture/OCR, Content Management, Workflow/BPM Suite, Unified Communi...
+            organization:
+              name: Crest Infosolutions Sdn Bhd
+              linkedin: https://www.linkedin.com/company/crest-infosolutions
+            extra:
+              linkedin_url: https://www.linkedin.com/company/crest-infosolutions
+          - item:
             name: croit GmbH (member)
             homepage_url: https://croit.io/
             logo: croit_gmbh.svg
@@ -23395,6 +23442,16 @@ landscape:
               linkedin: https://www.linkedin.com/company/croit
             extra:
               linkedin_url: https://www.linkedin.com/company/croit
+          - item:
+            name: Crowd Favorite Ltd (member)
+            homepage_url: https://crowdfavorite.com/
+            logo: crowd_favorite_ltd.svg
+            description: Crowd Favorite is a leading technology agency specializing in digital strategy, DXP, and Open Source, empowering organizations to reach their full digital potential.
+            organization:
+              name: Crowd Favorite Ltd
+              linkedin: https://www.linkedin.com/company/crowdfavorite
+            extra:
+              linkedin_url: https://www.linkedin.com/company/crowdfavorite
           - item:
             name: CrowdStrike (member)
             homepage_url: https://crowdstrike.com/
@@ -25507,6 +25564,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/harmonycloud
           - item:
+            name: Hangzhou Xinqi Electronic Co., Ltd. (member)
+            homepage_url: https://asicflag.com/
+            logo: hangzhou_xinqi_electronic_co_ltd.svg
+            organization:
+              name: Hangzhou Xinqi Electronic Co., Ltd.
+          - item:
             name: Hanover Insurance Group (member)
             homepage_url: https://hanover.com/
             logo: hanover_insurance_group.svg
@@ -25595,6 +25658,12 @@ landscape:
             twitter: https://twitter.com/HasuraHQ
             extra:
               linkedin_url: https://www.linkedin.com/company/hasura
+          - item:
+            name: HawkStack Technologies Private Limited (member)
+            homepage_url: https://hawkstack.com/
+            logo: hawkstack_technologies_private_limited.svg
+            description: 'HawkStack Technology: Leading digital transformation with expertise in DevOps, Cloud, Automation, and Security for businesses of all sizes.'
+            crunchbase: https://www.crunchbase.com/organization/hawkstack-technologies
           - item:
             name: HCL Technologies Ltd. (member)
             homepage_url: https://hcltech.com/
@@ -26569,6 +26638,17 @@ landscape:
               linkedin: https://www.linkedin.com/company/itv-news
             extra:
               linkedin_url: https://www.linkedin.com/company/itv-news
+          - item:
+            name: IVCISA (member)
+            homepage_url: https://ivcisa.com/
+            logo: ivcisa.svg
+            description: 'IVCISA: Cloud, Big Data & Devops Consultancy and AWS Advanced Consulting Partner specializing in seamless application migration, cost optimization, and data
+              storage services.'
+            organization:
+              name: IVCISA
+              linkedin: https://www.linkedin.com/company/ivcisa-int
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ivcisa-int
           - item:
             name: Japan Securities Clearing Corporation (JSCC) (member)
             homepage_url: https://www.jpx.co.jp/jscc/en/
@@ -27563,17 +27643,6 @@ landscape:
               linkedin: https://www.linkedin.com/company/lucidity-cloud
             extra:
               linkedin_url: https://www.linkedin.com/company/lucidity-cloud
-          - item:
-            name: LucidPoint, Inc. (member)
-            homepage_url: https://lucidpoint.io/
-            logo: lucidpoint_inc.svg
-            description: LucidPoint, Inc. is a veteran-owned Colorado-based company providing Google Cloud (GCP) and Amazon Web Services (AWS) consulting services. They specialize in
-              hybrid IT solutions for cloud migrations, infrastructure best practices, and cost optimization.
-            organization:
-              name: LucidPoint, Inc.
-              linkedin: https://www.linkedin.com/company/lucidpoint-inc
-            extra:
-              linkedin_url: https://www.linkedin.com/company/lucidpoint-inc
           - item:
             name: Lutech Advanced Solutions S.p.A. (member)
             homepage_url: https://lutech.group/
@@ -28972,6 +29041,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/nxp-semiconductors
           - item:
+            name: Ochestra Technologies Limited (member)
+            homepage_url: https://ochestra.io/
+            logo: ochestra_technologies_limited.svg
+            organization:
+              name: Ochestra Technologies Limited
+          - item:
             name: Octopus Deploy PTY Ltd. (member)
             homepage_url: https://octopus.com/
             logo: octopus_deploy_pty_ltd.svg
@@ -29095,6 +29170,13 @@ landscape:
             twitter: https://twitter.com/opennebula
             extra:
               linkedin_url: https://www.linkedin.com/company/opennebula
+          - item:
+            name: OpenObserve (member)
+            homepage_url: https://openobserve.ai/
+            logo: openobserve.svg
+            description: OpenObserve is a platform that provides log search, infrastructure monitoring, and application performance management (APM) solutions. It simplifies observability
+              setup and reduces storage costs by approximately 140x compared to other solutions.
+            crunchbase: https://www.crunchbase.com/organization/zincsearch
           - item:
             name: Open Source Automation Development Lab (OSADL) eG (member)
             homepage_url: https://osadl.org/
@@ -29929,6 +30011,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/publicis-groupe
           - item:
+            name: PufferSoft (member)
+            homepage_url: https://puffersoft.com/
+            logo: puffersoft.svg
+            description: 'PufferSoft: Leading USA provider of data cloud solutions, offering reliable connectivity, security, and infrastructure design services with expertise in AWS
+              and Azure.'
+            crunchbase: https://www.crunchbase.com/organization/puffersoft
+            extra:
+              linkedin_url: https://www.linkedin.com/company/puffersoft
+          - item:
             name: Pulumi (member)
             homepage_url: https://pulumi.com/
             logo: pulumi.svg
@@ -30391,6 +30482,13 @@ landscape:
             twitter: https://twitter.com/REGnosys
             extra:
               linkedin_url: https://www.linkedin.com/company/regnosys
+          - item:
+            name: reo.dev (member)
+            homepage_url: https://reo.dev/
+            logo: reo.svg
+            description: Rev Intel for DevTool Cos
+            organization:
+              name: reo.dev
           - item:
             name: Replicated, Inc. (member)
             homepage_url: https://replicated.com/
@@ -31771,6 +31869,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/spirent-communications
           - item:
+            name: Spitzkop (member)
+            homepage_url: https://spitzkop.io/
+            logo: spitzkop.svg
+            description: Spitzkop is a system and software engineering company with strong expertise in Cloud/DevOps/DevSecOps/DevNetOps. They provide tailor-made and off-the-shelf solutions
+              for digital transformation, innovation, and skill building, using a value chain and re...
+            crunchbase: https://www.crunchbase.com/organization/spitzkop
+            extra:
+              linkedin_url: https://www.linkedin.com/company/spitzkop
+          - item:
             name: Splunk Inc. (member)
             homepage_url: https://splunkdlt.com/
             logo: splunk_inc.svg
@@ -32437,6 +32544,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/tiiuae
           - item:
+            name: Tech Soft 3D Inc (member)
+            homepage_url: https://techsoft3d.com/
+            logo: tech_soft_3d_inc.svg
+            description: Tech Soft 3D makes developer tools that you can rely on. Build for tomorrow, today.
+            crunchbase: https://www.crunchbase.com/organization/tech-soft-3d
+            twitter: https://twitter.com/TechSoft3D
+            extra:
+              linkedin_url: https://www.linkedin.com/company/tech-soft-3d
+          - item:
             name: Tektronix Inc (member)
             homepage_url: https://tek.com/
             logo: tektronix_inc.svg
@@ -32587,28 +32703,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/skywizio
           - item:
+            name: Terracotta AI (member)
+            homepage_url: https://tryterracotta.com/
+            logo: terracotta_ai.svg
+            crunchbase: https://www.crunchbase.com/organization/terracotta-ai
+          - item:
             name: Terramate (member)
             homepage_url: https://terramate.io/
             logo: terramate.svg
             crunchbase: https://www.crunchbase.com/organization/terramate
-          - item:
-            name: Tesla, Inc . (member)
-            homepage_url: https://tesla.com/
-            logo: tesla_inc.svg
-            description: |-
-              Founded in 2003 and headquartered in Palo Alto, CA, Tesla Motor's goal is to accelerate the world's transition to electric mobility. Additionally, the company designs and manufactures EVs and EV powertrain components for partners such as Toyota and Daimler.
-
-              --- Merged Data:
-
-              Founded in 2003 and headquartered in Palo Alto, CA, Tesla Motor's goal is to accelerate the world's transition to electric mobility. They currently have over 50,000 vehicles on the road worldwide with new production of the Model X crossover on the way. Additionally, the company designs and manufactures EVs and EV powertrain components for partners such as Toyota and Daimler. Tesla has delivered more than 2,250 Roadsters to customers worldwide.
-
-              --- Merged Data:
-
-              Tesla is accelerating the world's transition to sustainable energy with electric cars, solar and integrated renewable energy solutions for homes and businesses.
-            crunchbase: https://www.crunchbase.com/organization/tesla-motors
-            twitter: https://twitter.com/Tesla
-            extra:
-              linkedin_url: https://www.linkedin.com/company/tesla-motors
           - item:
             name: TestifySec (member)
             homepage_url: https://testifysec.com/
@@ -32759,6 +32862,11 @@ landscape:
             twitter: https://twitter.com/Disney
             extra:
               linkedin_url: https://www.linkedin.com/company/disney-consumer-products-india
+          - item:
+            name: Thoras.ai (member)
+            homepage_url: https://thoras.ai/
+            logo: thoras.svg
+            crunchbase: https://www.crunchbase.com/organization/thoras-ai
           - item:
             name: Thornstein Groep (member)
             homepage_url: https://thornstein.nl/
@@ -34424,6 +34532,17 @@ landscape:
               linkedin: https://www.linkedin.com/company/worley
             extra:
               linkedin_url: https://www.linkedin.com/company/worley
+          - item:
+            name: WPP plc (member)
+            homepage_url: https://wpp.com/
+            logo: wpp_plc.svg
+            description: WPP is a world leader in marketing communications services, offering a wide range of solutions in Advertising, Media Investment Management, Data Investment Management,
+              Public Relations & Public Affairs, Branding & Identity, Healthcare Communications, D...
+            organization:
+              name: WPP plc
+              linkedin: https://www.linkedin.com/company/wpp
+            extra:
+              linkedin_url: https://www.linkedin.com/company/wpp
           - item:
             name: WSO2 LLC. (member)
             homepage_url: https://wso2.com/
@@ -36391,6 +36510,17 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/grnet
           - item:
+            name: GrUSP - ASSOCIAZIONE GRUPPO UTENTI E SVILUPPATORI PHP ITALIANI (member)
+            homepage_url: https://grusp.org/
+            logo: grusp_associazione_gruppo_utenti_e_sviluppatori_php_italiani.svg
+            description: GrUSP organizes events aimed at training and connecting individuals who are passionate about web development, fostering a welcoming and diverse community since
+              2003.
+            organization:
+              name: GrUSP - ASSOCIAZIONE GRUPPO UTENTI E SVILUPPATORI PHP ITALIANI
+              linkedin: https://www.linkedin.com/company/grusp
+            extra:
+              linkedin_url: https://www.linkedin.com/company/grusp
+          - item:
             name: GS1 US (member)
             homepage_url: https://gs1us.org/
             logo: gs1_us.svg
@@ -37421,6 +37551,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/monash-university
           - item:
+            name: Mondragon Unibertsitatea (member)
+            homepage_url: https://mondragon.edu/
+            logo: mondragon_unibertsitatea.svg
+            description: Mondragon Unibertsitatea is a socially oriented university providing a wide range of undergraduate, master's, and doctoral programs in engineering, business,
+              education, entrepreneurship, communication, and gastronomy, emphasizing practical education an...
+            organization:
+              name: Mondragon Unibertsitatea
+          - item:
             name: Montreal AI Ethics Institute (member)
             homepage_url: https://montrealethics.ai/
             logo: montreal_ai_ethics_institute.svg
@@ -37431,6 +37569,17 @@ landscape:
               linkedin: https://www.linkedin.com/company/mtlaiethics
             extra:
               linkedin_url: https://www.linkedin.com/company/mtlaiethics
+          - item:
+            name: Movement For An Open Web (member)
+            homepage_url: https://movementforanopenweb.com/
+            logo: movement_for_an_open_web.svg
+            description: Movement for an Open Web (MOW) advocates for a free and open internet, challenging tech giants' control. Join us to protect the web's principles and promote
+              fair competition.
+            organization:
+              name: Movement For An Open Web
+              linkedin: https://www.linkedin.com/company/movement-for-an-open-web
+            extra:
+              linkedin_url: https://www.linkedin.com/company/movement-for-an-open-web
           - item:
             name: MovieLabs (member)
             homepage_url: https://movielabs.com/
@@ -38660,6 +38809,17 @@ landscape:
             twitter: https://twitter.com/SLU_Official
             extra:
               linkedin_url: https://www.linkedin.com/company/saint-louis-university
+          - item:
+            name: Salt Lake City DevOps Days (member)
+            homepage_url: https://slcdevopsdays.org/
+            logo: salt_lake_city_devops_days.svg
+            description: Salt Lake DevOps | Back to Basic DevopsDays is a technical conference, aimed at developers, sysadmins and anyone else involved in technology, whether expert
+              or beginner. The Salt Lake City Conference That Brings Development and Operations Together. Thi...
+            organization:
+              name: Salt Lake City DevOps Days
+              linkedin: https://www.linkedin.com/company/salt-lake-city-devops-days
+            extra:
+              linkedin_url: https://www.linkedin.com/company/salt-lake-city-devops-days
           - item:
             name: Sandia National Laboratories (member)
             homepage_url: https://sandia.gov/
