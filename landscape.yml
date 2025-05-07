@@ -1588,6 +1588,30 @@ landscape:
               - repo_url: https://github.com/projectcapsule/capsule-community
               - repo_url: https://github.com/projectcapsule/capsule-proxy
           - item:
+            name: Carbyne Stack
+            homepage_url: https://carbynestack.io/
+            logo: carbyne_stack.svg
+            description: The mission of the Carbyne Stack project is to enable secure collaborative computing on encrypted data by leveraging Secure Multiparty Computation (MPC). Its
+              primary goal is to facilitate safe and private data processing without the need for a trusted third party, ensuring end-to-end encryption during data transit, storage,
+              and usage. The platform federates cloud instances into virtual clouds, offering distributed and decentralized services for storing and processing secret-shared data.
+            second_path:
+              - Project Group / Linux Foundation Europe
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/carbynestack/carbynestack.github.io
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-03-28'
+              annotations:
+                slug: carbyne-stack
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/carbyne-stack
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfR9dVEbC2rEebcv6s
+                project_org: https://github.com/carbynestack
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfeurope/overview?project=carbyne-stack
+            additional_repos:
+              - repo_url: https://github.com/carbynestack/.github
+              - repo_url: https://github.com/carbynestack/amphora
+              - repo_url: https://github.com/carbynestack/base-images
+          - item:
             name: Cardea
             homepage_url: https://cardea.app/
             logo: cardea.svg
@@ -33769,18 +33793,6 @@ landscape:
             twitter: https://twitter.com/VodafoneGroup
             extra:
               linkedin_url: https://www.linkedin.com/company/vodafone
-          - item:
-            name: Volkswagen Aktiengesellschaft (member)
-            homepage_url: https://volkswagen-group.com/
-            logo: volkswagen_aktiengesellschaft.svg
-            description: The Volkswagen Group, headquartered in Wolfsburg, Germany, is one of the world's leading manufacturers of automobiles and commercial vehicles and the largest
-              carmaker in Europe. With our brands, business units and financial services, we are shaping the zero-emission and autonomous future of mobility. As a global company, we
-              have 114 production facilities across 17 European countries and 10 countries in North and South America, Asia, and Africa. Our worldwide presence allows us to cater to
-              the needs of diverse markets and drive forward innovative and sustainable technologies for future mobility.
-            crunchbase: https://www.crunchbase.com/organization/volkswagen-group
-            twitter: https://twitter.com/volkswagen
-            extra:
-              linkedin_url: https://www.linkedin.com/company/volkswagen-ag
           - item:
             name: VSHN AG (member)
             homepage_url: https://vshn.ch/
