@@ -1218,9 +1218,9 @@ landscape:
                 project_org: https://github.com/battery-data-alliance
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfenergy/overview?project=battery-data-alliance
             additional_repos:
+              - repo_url: https://github.com/battery-data-alliance/.github
               - repo_url: https://github.com/battery-data-alliance/BatteryDataInterface
               - repo_url: https://github.com/battery-data-alliance/amplabs
-              - repo_url: https://github.com/battery-data-alliance/battery-data-format
           - item:
             name: BeeAI
             homepage_url: https://beeai.dev/
@@ -19792,7 +19792,7 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/american-honda-motor-company-inc-
           - item:
             name: LY Corporation (member)
-            homepage_url: https://lycorp.co.jp/
+            homepage_url: https://www.lycorp.co.jp/en/
             logo: ly_corporation.svg
             description: |-
               LY Corporation is one of Japan's largest tech companies formed in October 2023 through the reorganization of Group companies including LINE Corporation and Yahoo Japan Corporation. LY Corporation spans diverse businesses, including search, portal website, e-commerce, communications, and advertising under its mission, "Create an amazing life platform that brings WOW! to our users."
@@ -19800,7 +19800,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/ly-corporation
             twitter: https://twitter.com/Yahoo_JAPAN_PR
             extra:
-              linkedin_url: https://www.linkedin.com/company/yahoojapan
+              linkedin_url: https://www.linkedin.com/company/lycorpjp/
           - item:
             name: Mitsubishi Electric Corporation (member)
             homepage_url: https://mea.com/
@@ -25065,6 +25065,17 @@ landscape:
               linkedin: https://www.linkedin.com/company/furiosaai
             extra:
               linkedin_url: https://www.linkedin.com/company/furiosaai
+          - item:
+            name: FusionLayer Inc (member)
+            homepage_url: https://fusionlayer.com/
+            logo: fusionlayer_inc.svg
+            description: FusionLayer provides Network Source of Truth solutions for automating network processes and ensuring seamless connectivity in the decentralized business infrastructure
+              of tomorrow.
+            organization:
+              name: FusionLayer Inc
+              linkedin: https://www.linkedin.com/company/fusionlayer-inc
+            extra:
+              linkedin_url: https://www.linkedin.com/company/fusionlayer-inc
           - item:
             name: Gaia Information Technology (member)
             homepage_url: https://gaia.net/
@@ -31391,6 +31402,17 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/signozio
           - item:
+            name: Silence Laboratories (member)
+            homepage_url: https://silencelaboratories.com/
+            logo: silence_laboratories.svg
+            description: A team of security engineers, cryptographers, designers, and business builders focused on Decentralised Authentication
+            twitter: https://twitter.com/silentauth
+            organization:
+              name: Silence Laboratories
+              linkedin: https://www.linkedin.com/company/silencelaboratories
+            extra:
+              linkedin_url: https://www.linkedin.com/company/silencelaboratories
+          - item:
             name: Skyloud (member)
             homepage_url: https://skyloud.fr/
             logo: skyloud.svg
@@ -34564,7 +34586,7 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/xflow-research-inc-
           - item:
             name: xgeeks (member)
-            homepage_url: https://xgeeks.io/
+            homepage_url: https://xgeeks.com/
             logo: xgeeks.svg
             description: EXCEPTIONAL | EXPERTISE | EXECUTION xgeeks is a KI group company, home of entrepreneurs, solvers and creators. At xgeeks, you will find a group of software engineers
               with a keen eye for high quality execution. We design and build solutions for start up...
@@ -34693,20 +34715,6 @@ landscape:
             twitter: https://twitter.com/zesty_co
             extra:
               linkedin_url: https://www.linkedin.com/company/zestyco
-          - item:
-            name: Zettabytes, Inc. (member)
-            homepage_url: https://zb.io/
-            logo: zettabytes_inc.svg
-            description: |-
-              InfoObjects is INC 500 Fastest growing company in America and provides Big Data Advisory, Implementation and Analytics services.
-
-              --- Merged Data:
-
-              Zettabytes Inc
-            crunchbase: https://www.crunchbase.com/organization/zettabytes
-            twitter: https://twitter.com/Roost
-            extra:
-              linkedin_url: https://www.linkedin.com/company/roost
           - item:
             name: Zoi (member)
             homepage_url: https://en.zoi.de/
@@ -38518,8 +38526,7 @@ landscape:
               Through events like the Rancher Rodeo 2024 and the Industrial IT Forum, we bring together developers, IT professionals, and industry leaders to explore the latest in digital transformation and open-source solutions. These gatherings serve as vibrant hubs of learning and innovation, reinforcing our commitment to advancing Kazakhstan's open-source movement. 
 
               Join us in our journey to establish Kazakhstan as a hub for open-source excellence, fostering a digital ecosystem where innovation thrives and technology transcends boundaries.
-            organization:
-              name: Qazaq Open Source Initiative
+            crunchbase: https://www.crunchbase.com/organization/qazaq-open-source-initiative
           - item:
             name: Quantum Village (member)
             homepage_url: https://quantumvillage.org/
