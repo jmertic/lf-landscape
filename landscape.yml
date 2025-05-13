@@ -8549,6 +8549,7 @@ landscape:
                 project_org: https://github.com/kgateway-dev
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=kgateway
             additional_repos:
+              - repo_url: https://github.com/kgateway-dev/changelog-generator
               - repo_url: https://github.com/kgateway-dev/community
               - repo_url: https://github.com/kgateway-dev/kgateway.dev
           - item:
@@ -19379,9 +19380,9 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWh1YQAT
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/soda/overview?project=soda-yig
           - item:
-            name: Yocto Project
+            name: Yocto Project Fund
             homepage_url: https://www.yoctoproject.org/
-            logo: yocto_project.svg
+            logo: yocto_project_fund.svg
             description: The Yocto Project (YP) is an open source collaboration project that helps developers create custom Linux-based systems regardless of the hardware architecture.
             second_path:
               - Project Group / The Linux Foundation
@@ -33170,9 +33171,7 @@ landscape:
               --- Merged Data:
 
               Triamsecurity is a leading provider of comprehensive security solutions for businesses. We offer a wide range of products and services to help protect your company from various threats. Our team of experts specializes in risk assessment, security consu...
-            organization:
-              name: Triam Security
-              linkedin: https://www.linkedin.com/company/triam-security
+            crunchbase: https://www.crunchbase.com/organization/triam-security
             extra:
               linkedin_url: https://www.linkedin.com/company/triam-security
           - item:
