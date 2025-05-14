@@ -18,28 +18,6 @@ landscape:
         name: All
         items:
           - item:
-            name: 1chipML
-            homepage_url: https://github.com/1chipML
-            logo: 1chipml.svg
-            description: The mission of the 1chipML open source project is to design and implement a library for basic numerical crunching and machine learning for microcontrollers offering
-              a highly reliable open framework to use on limited and low-power hardware.
-            second_path:
-              - Project Group / LF AI & Data
-              - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/1chipML/1chipML
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            twitter: https://twitter.com/nil
-            extra:
-              accepted: '2022-04-12'
-              annotations:
-                slug: onechipml
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/onechipml
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MaHp8QAF
-                project_org: https://github.com/1chipML
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-ai-foundation/overview?project=onechipml
-            additional_repos:
-              - repo_url: https://github.com/1chipML/artwork
-          - item:
             name: 3MF Consortium
             homepage_url: http://3mf.io/
             logo: 3mf_consortium.svg
@@ -406,6 +384,23 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/aifairness
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkOX8QAN
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-ai-foundation/overview?project=aifairness
+          - item:
+            name: AI Governance Framework
+            homepage_url: https://air-governance-framework.finos.org/
+            logo: ai_governance_framework.svg
+            description: To mutually develop a governance framework that manages the on-boarding, development, and running of AI-based solutions within financial services organizations.
+            second_path:
+              - Project Group / FINOS (The Fintech Open Source Foundation)
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/finos/ai-governance-framework
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-04-03'
+              annotations:
+                slug: ai-governance-framework
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ai-governance-framework
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfrawQxPd7Ldk8gNDE
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/finos/overview?project=ai-governance-framework
           - item:
             name: AI Readiness
             homepage_url: https://github.com/finos/ai-readiness
@@ -4038,25 +4033,6 @@ landscape:
               - repo_url: https://github.com/sodafoundation/.github
               - repo_url: https://github.com/sodafoundation/Exploration_ContainerStorage
               - repo_url: https://github.com/sodafoundation/SIM-TempIssues
-          - item:
-            name: DELTA
-            homepage_url: https://lfaidata.foundation/projects/delta/
-            logo: delta.svg
-            description: Delta  is a deep learning based end-to-end natural language and speech processing platform. DELTA aims to provide easy and fast experiences for using, deploying,
-              and developing natural language processing and speech models for both academia and industry use cases. DELTA is mainly implemented using TensorFlow and Python 3.
-            second_path:
-              - Project Group / LF AI & Data
-              - Industry / Cross-Industry
-              - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/Delta-ML/delta
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2020-12-14'
-              annotations:
-                slug: delta
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/delta
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkZVWQA3
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-ai-foundation/overview?project=delta
           - item:
             name: Delta Lake Project
             homepage_url: https://delta.io/
@@ -8048,7 +8024,7 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/jupyter-book/blog
               - repo_url: https://github.com/jupyter-book/book-theme-tailwind-quickstart
-              - repo_url: https://github.com/jupyter-book/hatch-deps-selector
+              - repo_url: https://github.com/jupyter-book/example-js-plugin
           - item:
             name: Jupyter Foundation
             homepage_url: https://jupyterfoundation.org/
@@ -11597,29 +11573,6 @@ landscape:
               - repo_url: https://github.com/openbmc/.github
               - repo_url: https://github.com/openbmc/ampere-ipmi-oem
               - repo_url: https://github.com/openbmc/bios-bmc-smm-error-logger
-          - item:
-            name: OpenBytes
-            homepage_url: https://www.openbytes.io/
-            logo: openbytes.svg
-            description: The mission of the Project is to facilitate wider sharing of, and collaboration with, data in the AI community through the creation of data standards and formats
-              and enabling contributions of data.
-            second_path:
-              - Project Group / LF AI & Data
-              - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/Project-OpenBytes/website
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2021-09-15'
-              annotations:
-                slug: graviti
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/graviti
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWvNqQAL
-                project_org: https://github.com/Project-OpenBytes
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-ai-foundation/overview?project=graviti
-            additional_repos:
-              - repo_url: https://github.com/Project-OpenBytes/artwork
-              - repo_url: https://github.com/Project-OpenBytes/odi
-              - repo_url: https://github.com/Project-OpenBytes/open-prompts
           - item:
             name: OpenChain Project
             homepage_url: https://www.openchainproject.org/
@@ -21377,6 +21330,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/auradine
           - item:
+            name: Aureka (member)
+            homepage_url: https://aureka.net/
+            logo: aureka.svg
+            organization:
+              name: Aureka
+          - item:
             name: AuriStor Inc. (member)
             homepage_url: https://auristor.com/
             logo: auristor_inc.svg
@@ -25726,7 +25685,7 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/hashgraph
           - item:
             name: Hedgehog (member)
-            homepage_url: https://githedgehog.com/
+            homepage_url: https://hedgehog.cloud/
             logo: hedgehog.svg
             description: We are doing some maintenance on our site. Please come back later.
             twitter: https://twitter.com/githedgehog
@@ -30068,8 +30027,12 @@ landscape:
             name: PufferSoft (member)
             homepage_url: https://puffersoft.com/
             logo: puffersoft.svg
-            description: 'PufferSoft: Leading USA provider of data cloud solutions, offering reliable connectivity, security, and infrastructure design services with expertise in AWS
-              and Azure.'
+            description: |-
+              PufferSoft is a leading cloud consulting and DevOps services company committed to helping businesses of all sizes build, scale, and secure their digital infrastructure. We specialize in delivering cutting-edge solutions across AWS, Azure, Kubernetes, Terraform, GitOps, containerization, and infrastructure automation.
+
+              Founded with a vision to simplify the complexity of cloud adoption, our team of certified engineers and consultants brings deep expertise in cloud architecture, CI/CD, cloud migration, security compliance, and managed services. From startups to enterprises, we empower organizations to modernize their operations, reduce costs, and accelerate innovation.
+
+              At PufferSoft, we don’t just offer services, we become your technology partner. Whether you're migrating to the cloud, optimizing infrastructure, or building a secure and scalable DevOps pipeline, we design solutions that align with your business goals and deliver long-term value.
             crunchbase: https://www.crunchbase.com/organization/puffersoft
             extra:
               linkedin_url: https://www.linkedin.com/company/puffersoft
@@ -30364,6 +30327,19 @@ landscape:
             twitter: https://twitter.com/grafana
             extra:
               linkedin_url: https://www.linkedin.com/company/grafana-labs
+          - item:
+            name: Rambus (member)
+            homepage_url: https://rambus.com/
+            logo: rambus.svg
+            description: Rambus creates cutting-edge semiconductor and IP products, spanning memory and interfaces to security, smart sensors, and lighting. Their chips, customizable
+              IP cores, architecture licenses, tools, services, training, and innovations improve the competitive advantage of Rambus customers. Rambus collaborate with the industry,
+              partnering with leading ASIC and SoC designers, foundries, IP developers, EDA companies and validation labs. Their products are integrated into tens of billions of devices
+              and systems, powering and securing diverse applications, including Big Data, Internet of Things (IoT), mobile, consumer and media platforms. At Rambus, Rambus are makers
+              of better.
+            crunchbase: https://www.crunchbase.com/organization/rambus
+            twitter: https://twitter.com/rambusinc
+            extra:
+              linkedin_url: https://www.linkedin.com/company/rambus
           - item:
             name: Randstad Digital Germany AG (member)
             homepage_url: https://randstaddigital.de/
