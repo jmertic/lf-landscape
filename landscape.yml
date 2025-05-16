@@ -6502,6 +6502,7 @@ landscape:
                 project_org: https://github.com/geisa
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfenergy/overview?project=geisa
             additional_repos:
+              - repo_url: https://github.com/geisa/application-isolation-security-systemd-demo
               - repo_url: https://github.com/geisa/conformance
           - item:
             name: Grid eXchange Fabric (GXF)
@@ -8525,9 +8526,9 @@ landscape:
                 project_org: https://github.com/kgateway-dev
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=kgateway
             additional_repos:
+              - repo_url: https://github.com/kgateway-dev/.github
               - repo_url: https://github.com/kgateway-dev/changelog-generator
               - repo_url: https://github.com/kgateway-dev/community
-              - repo_url: https://github.com/kgateway-dev/kgateway.dev
           - item:
             name: KiCad
             homepage_url: https://kicad.org/
@@ -15990,7 +15991,8 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfO8NZitZdLfsIonL1
                 project_org: https://github.com/LFDT-Smoot
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-decentralized-trust/overview?project=smoot
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/LFDT-Smoot/bridge
           - item:
             name: SOAJS
             homepage_url: https://soajs.org/
@@ -24180,14 +24182,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/dynatrace
           - item:
-            name: EasyStack Inc. (member)
-            homepage_url: https://easystack.cn/
-            logo: easystack_inc.svg
-            description: EasyStack was founded in February 2014. The founding team of EasyStack is from IBM's Research and development team in China. EasyStack is one of the earliest
-              technicians engaged in open source cloud computing technology in China and even in the world.
-            crunchbase: https://www.crunchbase.com/organization/easystack
+            name: EasyStack (member)
+            homepage_url: https://easystack.io/
+            logo: easystack.svg
+            description: EasyStack Technologies, established in 2014, offers a range of products and services for enterprise customers, including Multi Cloud, Hybrid Cloud, Private Cloud,
+              Kubernetes, HCI, OpenStack, and OTA Upgrade. Their solutions provide high performance, sc...
+            organization:
+              name: EasyStack
+              linkedin: https://www.linkedin.com/company/easystack
             extra:
-              linkedin_url: https://www.linkedin.com/company/easystack-inc-
+              linkedin_url: https://www.linkedin.com/company/easystack
           - item:
             name: eBay, Inc. (member)
             homepage_url: https://ebay.com/
@@ -25481,6 +25485,17 @@ landscape:
               linkedin: https://www.linkedin.com/company/greenpixie
             extra:
               linkedin_url: https://www.linkedin.com/company/greenpixie
+          - item:
+            name: G-Research (member)
+            homepage_url: https://gresearch.co.uk/
+            logo: g_research.svg
+            description: |-
+              About us
+              G-Research is a leading quantitative research and technology company.  By using the latest scientific techniques, we produce world-beating predictive research and build advanced technology to analyse the world’s data.
+            crunchbase: https://www.crunchbase.com/organization/g-research
+            twitter: https://twitter.com/GRESEARCHjobs
+            extra:
+              linkedin_url: https://www.linkedin.com/company/g-research
           - item:
             name: groundcover Ltd. (member)
             homepage_url: https://groundcover.com/
@@ -28463,15 +28478,6 @@ landscape:
               linkedin: https://www.linkedin.com/company/navis-ams
             extra:
               linkedin_url: https://www.linkedin.com/company/navis-ams
-          - item:
-            name: NDrive Navigation Systems SA (member)
-            homepage_url: https://ndrive.com/
-            logo: ndrive_navigation_systems_sa.svg
-            description: NDrive is a Portuguese company of global automotive navigation systems for mobile phones and tablets.
-            crunchbase: https://www.crunchbase.com/organization/ndrive
-            twitter: https://twitter.com/NDrive
-            extra:
-              linkedin_url: https://www.linkedin.com/company/ndrive
           - item:
             name: ndustrial (member)
             homepage_url: https://ndustrial.io/
@@ -33059,67 +33065,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/travelping-gmbh
           - item:
-            name: Trenchant Limited (trading as G-Research) (member)
-            homepage_url: https://gresearch.co.uk/
-            logo: trenchant_limited_trading_as_g_research.svg
-            description: |-
-              About us
-              G-Research is a leading quantitative research and technology company.  By using the latest scientific techniques, we produce world-beating predictive research and build advanced technology to analyse the world’s data.
-
-              Join us and you'll explore complex challenges with some of the world's smartest people in an open and informal environment. We are all working towards achieving our long-term goal: human ingenuity limited only by the speed of thought.
-
-              There is also a lively social side to G-Research with many team events and company-wide celebrations.
-
-              Based in the heart of Central London, we are served by 5 stations and 6 tube lines, with the closest station Goodge Street within seconds of the office. Being situated in the vibrant West End means you are in walking distance of many top London attractions and shopping districts.
-
-              Recent updateSee all See all recent updates
-              Image accompanying recent update
-              Tom Andrews on LinkedIn: "A few of us are on our way home after giving a workplace presentation at Bournemouth University. It was great to see so many interested people, for either of our placement or graduate opportunities in our Production IT and Security divisions. https://lnkd.in/gkwnW3m"
-
-              linkedin.com
-
-              12 Likes
-              Company details
-              Website
-              https://www.gresearch.co.uk
-              Headquarters
-              London
-
-              Year founded
-              2001
-
-              Company type
-              Privately Held
-
-              Company size
-              501-1,000 employees
-              Specialties
-              Quantitative Research, IT Infrastructure, IT Systems, Information Security, Machine Learning, and Software Engineering
-
-              Featured Groups
-               Logo for Quantitative Analysts	
-              Quantitative Analysts
-              3,994 members
-               
-               Logo for Software Engineering Professionals	
-              Software Engineering Professionals
-              15,627 members
-               
-               Logo for Information Security Community	
-              Information Security Community
-              399,989 members
-              1 Office location
-              Main
-              Whittington House, 19-30 Alfred Place, London, WC1E 7EA, gb
-
-              --- Merged Data:
-
-              G-Research is Europe’s leading quantitative finance research firm. We hire the brightest minds in the world to tackle the biggest questions in finance.
-            crunchbase: https://www.crunchbase.com/organization/g-research
-            twitter: https://twitter.com/GRESEARCHjobs
-            extra:
-              linkedin_url: https://www.linkedin.com/company/g-research
-          - item:
             name: Trend Micro Incorporated (member)
             homepage_url: https://trendmicro.com/
             logo: trend_micro_incorporated.svg
@@ -35342,6 +35287,18 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/carbon-co-op
           - item:
+            name: Carnegie Mellon University (member)
+            homepage_url: https://cmu.edu/
+            logo: carnegie_mellon_university.svg
+            description: 'Carnegie Mellon University is a private research university in Pittsburgh, Pennsylvania. Carnegie Mellon has seven colleges and independent schools: the Carnegie
+              Institute of Technology (engineering), College of Fine Arts, Dietrich College of Humanities and Social Sciences, Mellon College of Science, Tepper School of Business, H.
+              John Heinz III College and the School of Computer Science. The College is recognized for its world-class arts and technology programs, collaboration across disciplines
+              and innovative leadership in education.'
+            crunchbase: https://www.crunchbase.com/organization/carnegie-mellon-university
+            twitter: https://twitter.com/CarnegieMellon
+            extra:
+              linkedin_url: https://www.linkedin.com/company/carnegie-mellon-university
+          - item:
             name: CENGN (member)
             homepage_url: https://cengn.ca/
             logo: cengn.svg
@@ -36372,9 +36329,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/foundation-for-research-&-technology-hellas-forth-
           - item:
-            name: Fraunhofer Gesellschaft IIS (member)
+            name: Fraunhofer Gesellschaft (member)
             homepage_url: https://fraunhofer.de/
-            logo: fraunhofer_gesellschaft_iis.svg
+            logo: fraunhofer_gesellschaft.svg
             description: |-
               Attn: 
               Norbert Schuhmann, Erlangen, Germany c/o Fraunhofer IIS
@@ -38828,9 +38785,7 @@ landscape:
             logo: salt_lake_city_devops_days.svg
             description: Salt Lake DevOps | Back to Basic DevopsDays is a technical conference, aimed at developers, sysadmins and anyone else involved in technology, whether expert
               or beginner. The Salt Lake City Conference That Brings Development and Operations Together. Thi...
-            organization:
-              name: Salt Lake City DevOps Days
-              linkedin: https://www.linkedin.com/company/salt-lake-city-devops-days
+            crunchbase: https://www.crunchbase.com/organization/salt-lake-city-devops-days
             extra:
               linkedin_url: https://www.linkedin.com/company/salt-lake-city-devops-days
           - item:
