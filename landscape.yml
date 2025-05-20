@@ -8791,14 +8791,14 @@ landscape:
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=kubeedge
           - item:
             name: KubeFleet
-            homepage_url: https://github.com/Azure/fleet
+            homepage_url: https://github.com/kubefleet-dev/
             logo: kubefleet.svg
             description: The mission of the project is to provide a multi-cluster solution that enables users to effectively manage their applications running in multiple Kubernetes
               clusters.
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/Azure/fleet
+            repo_url: https://github.com/kubefleet-dev/kubefleet
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-03-24'
@@ -8806,7 +8806,10 @@ landscape:
                 slug: kubefleet
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kubefleet
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfdiYFaTHKx9hXX9qE
+                project_org: https://github.com/kubefleet-dev
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=kubefleet
+            additional_repos:
+              - repo_url: https://github.com/kubefleet-dev/website
           - item:
             name: Kube-OVN
             homepage_url: https://github.com/alauda/kube-ovn
@@ -25526,14 +25529,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/oppo
           - item:
-            name: Guangdong Sunvega Information Technology Co., Ltd (member)
-            homepage_url: https://3vjia.com/
-            logo: guangdong_sunvega_information_technology_co.svg
-            description: Cloud Mall (3vjia.com) offers advanced interior design and rendering software, revolutionizing the customization process with efficient CAD and rendering engines
-              for precise quotes and detailed drawings.
-            organization:
-              name: Guangdong Sunvega Information Technology Co., Ltd
-          - item:
             name: Guida (member)
             homepage_url: https://guida.nl/
             logo: guida.svg
@@ -30524,8 +30519,7 @@ landscape:
             homepage_url: https://reo.dev/
             logo: reo.svg
             description: Rev Intel for DevTool Cos
-            organization:
-              name: reo.dev
+            crunchbase: https://www.crunchbase.com/organization/reo-dev
           - item:
             name: Replicated, Inc. (member)
             homepage_url: https://replicated.com/
@@ -33738,9 +33732,7 @@ landscape:
             homepage_url: https://vjsar.com/
             logo: vjsar_consultant_service_ltd.svg
             description: VJSAR is a global IT solutions company specializing in consulting, implementation, and business transformation services with a focus on quality and trust.
-            organization:
-              name: VJSAR Consultant Service Ltd
-              linkedin: https://www.linkedin.com/company/vjsar-consultant-service-ltd
+            crunchbase: https://www.crunchbase.com/organization/vjsar
             extra:
               linkedin_url: https://www.linkedin.com/company/vjsar-consultant-service-ltd
           - item:
