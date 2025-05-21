@@ -1541,6 +1541,23 @@ landscape:
               - repo_url: https://github.com/Call-for-Code/AI-mergency
               - repo_url: https://github.com/Call-for-Code/Al-Wasl.Connect
           - item:
+            name: Calm
+            homepage_url: https://calm.finos.org/
+            logo: calm.svg
+            description: provide a common language for consistent and auditable architecture
+            second_path:
+              - Project Group / FINOS (The Fintech Open Source Foundation)
+              - Technology Sector / Open Source & Compliance Best Practices
+            repo_url: https://github.com/finos/architecture-as-code
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-01-22'
+              annotations:
+                slug: calm
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/calm
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfhrr6cpT7KMaOOWnk
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/finos/overview?project=calm
+          - item:
             name: Camara Fund
             homepage_url: https://camaraproject.org/
             logo: camara_fund.svg
@@ -11534,7 +11551,7 @@ landscape:
             description: OpenBao exists to maintain and improve a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.The OpenBao
               community will provide this software under an OSI-approved open-source license, led by a community run under open governance principles.
             second_path:
-              - Project Group / LF Edge
+              - Project Group / Open Source Security Foundation (OpenSSF)
               - Technology Sector / Networking & Edge
             repo_url: https://github.com/openbao/openbao
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
@@ -11545,7 +11562,7 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openbao
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfoKy5p6yXHn07pk0o
                 project_org: https://github.com/openbao
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfedge/overview?project=openbao
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/openssf/overview?project=openbao
             additional_repos:
               - repo_url: https://github.com/openbao/.github
               - repo_url: https://github.com/openbao/artwork
@@ -30952,15 +30969,6 @@ landscape:
             twitter: https://twitter.com/Scaleway
             extra:
               linkedin_url: https://www.linkedin.com/company/scaleway
-          - item:
-            name: Scarf Systems, Inc (member)
-            homepage_url: https://scarf.sh/
-            logo: scarf_systems_inc.svg
-            description: Scarf helps open source developers get paid and deliver better software
-            crunchbase: https://www.crunchbase.com/organization/scarf-5901
-            twitter: https://twitter.com/scarf_oss
-            extra:
-              linkedin_url: https://www.linkedin.com/company/scarf-sh
           - item:
             name: Schneider Electric (member)
             homepage_url: https://se.com/
