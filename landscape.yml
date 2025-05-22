@@ -8041,8 +8041,8 @@ landscape:
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/project-jupyter/overview?project=jupyter-book
             additional_repos:
               - repo_url: https://github.com/jupyter-book/blog
+              - repo_url: https://github.com/jupyter-book/blog-plugin
               - repo_url: https://github.com/jupyter-book/book-theme-tailwind-quickstart
-              - repo_url: https://github.com/jupyter-book/example-js-plugin
           - item:
             name: Jupyter Foundation
             homepage_url: https://jupyterfoundation.org/
@@ -11624,6 +11624,23 @@ landscape:
               - repo_url: https://github.com/OpenChain-Project/Automotive-WG
               - repo_url: https://github.com/OpenChain-Project/Case-Studies
               - repo_url: https://github.com/OpenChain-Project/Conformance-Logo
+          - item:
+            name: OpenCHAMI
+            homepage_url: https://openchami.org/
+            logo: openchami.svg
+            description: The mission of the Project is to steward the collaborative development and continuous evolution of cloud-like software to manage High Performance Computing capacity
+              regardless of the size or deployment platform.
+            second_path:
+              - Project Group / High Performance Software Foundation (HPSF)
+              - Technology Sector / Cross-Technology
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-02-04'
+              annotations:
+                slug: openchami
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openchami
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf26Cw20JPztM3b9XP
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/hpsf/overview?project=openchami
           - item:
             name: Open Cluster Management
             homepage_url: https://open-cluster-management.io/
@@ -25113,9 +25130,7 @@ landscape:
             logo: gateway.svg
             description: Gateway GatewayFM is the first truly decentralized blockchain infra/node provider. Our globally distributed, multichain infrastructure is built to help you scale
               your web3 projects seamlessly so you don't have to worry about getting, configuring or mai...
-            organization:
-              name: gateway
-              linkedin: https://www.linkedin.com/company/gateway-fm
+            crunchbase: https://www.crunchbase.com/organization/gateway-fm
             extra:
               linkedin_url: https://www.linkedin.com/company/gateway-fm
           - item:
@@ -31422,10 +31437,8 @@ landscape:
             homepage_url: https://silencelaboratories.com/
             logo: silence_laboratories.svg
             description: A team of security engineers, cryptographers, designers, and business builders focused on Decentralised Authentication
+            crunchbase: https://www.crunchbase.com/organization/silence-laboratories
             twitter: https://twitter.com/silentauth
-            organization:
-              name: Silence Laboratories
-              linkedin: https://www.linkedin.com/company/silencelaboratories
             extra:
               linkedin_url: https://www.linkedin.com/company/silencelaboratories
           - item:
@@ -33607,10 +33620,8 @@ landscape:
             description: Ventana is the RISC-V Performance leader, delivering platforms, chips and IP for groundbreaking solutions across data center, automotive, client, and AI markets.
               Our core team includes the pioneers behind the first 64-bit Arm server processor, the X-Gene by Applied Micro. With this proven expertise, we are redefining high-performance
               computing with the RISC-V architecture.
+            crunchbase: https://www.crunchbase.com/organization/ventana-micro-systems
             twitter: https://twitter.com/VentanaMicro
-            organization:
-              name: Ventana Micro Systems
-              linkedin: https://www.linkedin.com/company/ventana-micro-systems
             extra:
               linkedin_url: https://www.linkedin.com/company/ventana-micro-systems
           - item:
