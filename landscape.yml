@@ -9354,9 +9354,9 @@ landscape:
                 project_org: https://github.com/LF-Decentralized-Trust-labs
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-decentralized-trust/overview?project=lf-decentralized-trust-labs
             additional_repos:
+              - repo_url: https://github.com/LF-Decentralized-Trust-labs/Naryo
               - repo_url: https://github.com/LF-Decentralized-Trust-labs/agora-allosaurus-rs
               - repo_url: https://github.com/LF-Decentralized-Trust-labs/agora-bbs
-              - repo_url: https://github.com/LF-Decentralized-Trust-labs/agora-blsful
           - item:
             name: LF Edge
             homepage_url: https://www.lfedge.org/
@@ -10683,6 +10683,7 @@ landscape:
             description: 'TODO: SAP aims to transfer Open Reference Architecture (ORA) to LF Europe and bring in other projects.'
             second_path:
               - Project Group / Linux Foundation Europe
+              - PMO Managed / All
               - Technology Sector / Cloud, Containers & Virtualization
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -18907,13 +18908,13 @@ landscape:
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=Volcano
           - item:
             name: Vortex
-            homepage_url: https://github.com/spiraldb/vortex
+            homepage_url: https://github.com/vortex-data
             logo: vortex.svg
             description: The mission of the Project is to develop a performant columnar file format and associated tools for database and data lake storage.
             second_path:
               - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/spiraldb/vortex
+            repo_url: https://github.com/vortex-data/vortex
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-05-12'
@@ -18921,7 +18922,11 @@ landscape:
                 slug: vortex
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/vortex
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfJxQWupupCuX7C6t9
+                project_org: https://github.com/vortex-data
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-ai-foundation/overview?project=vortex
+            additional_repos:
+              - repo_url: https://github.com/vortex-data/.github
+              - repo_url: https://github.com/vortex-data/vortex.dev
           - item:
             name: VPP Sandbox
             homepage_url: https://wiki.fd.io/view/VPP_Sandbox
@@ -24002,9 +24007,7 @@ landscape:
             logo: digital_challengers.svg
             description: Digital Challengers is a company with over 10 years of experience dedicated to driving innovation projects for clients to maximize their value. They focus on
               proposing business cases to demonstrate the benefits of the latest technologies in qualitative...
-            organization:
-              name: Digital Challengers
-              linkedin: https://www.linkedin.com/company/digital-challengers-it
+            crunchbase: https://www.crunchbase.com/organization/digital-challengers-8d08
             extra:
               linkedin_url: https://www.linkedin.com/company/digital-challengers-it
           - item:
