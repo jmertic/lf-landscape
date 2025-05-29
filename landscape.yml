@@ -3071,10 +3071,10 @@ landscape:
             extra:
               accepted: '2022-10-13'
               annotations:
-                slug: cdsc1
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cdsc1
+                slug: cds-customerdata-wg
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cds-customerdata-wg
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NVQt3QAH
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-energy-standards-and-specifications/overview?project=cdsc1
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-energy-standards-and-specifications/overview?project=cds-customerdata-wg
           - item:
             name: Connected Data Specification - Power Systems Data Working Group (CDS WG2)
             homepage_url: https://cds-powersystemdata.lfenergy.org/
@@ -3090,10 +3090,10 @@ landscape:
             extra:
               accepted: '2022-10-13'
               annotations:
-                slug: cdsc2
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cdsc2
+                slug: cds-powersystemsdata-wg
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cds-powersystemsdata-wg
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NVQt4QAH
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-energy-standards-and-specifications/overview?project=cdsc2
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-energy-standards-and-specifications/overview?project=cds-powersystemsdata-wg
           - item:
             name: Connected Data Specification - Registration Working Group (CDS WG3)
             homepage_url: https://cds-registration.lfenergy.org/
@@ -3110,10 +3110,10 @@ landscape:
             extra:
               accepted: '2024-06-26'
               annotations:
-                slug: cdsc-connectivity-wg
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cdsc-connectivity-wg
+                slug: cds-registration-wg
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cds-registration-wg
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lftcOCnS1t49JtW1Zj
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-energy-standards-and-specifications/overview?project=cdsc-connectivity-wg
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-energy-standards-and-specifications/overview?project=cds-registration-wg
           - item:
             name: container2wasm
             homepage_url: https://github.com/ktock/container2wasm
@@ -11985,34 +11985,6 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/opendsm/caltrack
               - repo_url: https://github.com/opendsm/eeweather
-          - item:
-            name: OpenEBS
-            homepage_url: https://openebs.io/
-            logo: openebs.svg
-            description: |-
-              OpenEBS is the leading storage solution for Kubernetes
-              Kubernetes native; runs in userspace
-              Open Source; no vendor lock-in
-              The only multi cloud storage solution
-            second_path:
-              - Project Group / Cloud Native Computing Foundation (CNCF)
-              - Industry / Cross-Industry
-              - Technology Sector / Cloud, Containers & Virtualization
-              - Technology Sector / Storage
-            repo_url: https://github.com/openebs/openebs
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2019-05-14'
-              annotations:
-                slug: openebs
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openebs
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4QyQAL
-                project_org: https://github.com/openebs
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=openebs
-            additional_repos:
-              - repo_url: https://github.com/openebs/.github
-              - repo_url: https://github.com/openebs/charts
-              - repo_url: https://github.com/openebs/community
           - item:
             name: OpenEEW
             homepage_url: https://openeew.com/
@@ -39338,8 +39310,12 @@ landscape:
             name: The European Organization for Nuclear Research (member)
             homepage_url: https://cern.ch/
             logo: the_european_organization_for_nuclear_research.svg
-            description: 05278 The European Organization for Nuclear Research, known as CERN, is a European research organization that operates the largest particle physics laboratory
-              in the world.
+            description: |-
+              05278 The European Organization for Nuclear Research, known as CERN, is a European research organization that operates the largest particle physics laboratory in the world.
+
+              --- Merged Data:
+
+              CERN, the European Organization for Nuclear Research, is the world's largest particle physics lab, probing the fundamental structure of particles to understand the Universe using complex scientific instruments.
             crunchbase: https://www.crunchbase.com/organization/cern
             twitter: https://twitter.com/CERN
             extra:
