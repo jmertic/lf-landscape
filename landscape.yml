@@ -3606,24 +3606,6 @@ landscape:
               - repo_url: https://github.com/Horizont-Europe-Interstore/Data-Space-Connector
               - repo_url: https://github.com/Horizont-Europe-Interstore/Data-Space-Connector-Fiware-Data-App
           - item:
-            name: Curiefense
-            homepage_url: https://github.com/curiefense/curiefense
-            logo: curiefense.svg
-            description: Curiefense is a new application security platform, which protects sites, services, and APIs. It extends Envoy proxy to defend against a variety of threats, including
-              SQL and command injection, cross site scripting (XSS), account takeovers (ATOs), application-layer DDoS, remote file inclusion (RFI), API abuse, and more.
-            second_path:
-              - Project Group / Cloud Native Computing Foundation (CNCF)
-              - Industry / Cross-Industry
-              - Technology Sector / Privacy & Security
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2021-01-26'
-              annotations:
-                slug: curiefense
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/curiefense
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWgl6QAD
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=curiefense
-          - item:
             name: Currency Reference Data
             homepage_url: https://github.com/finos/curref-data
             logo: currency_reference_data.svg
@@ -5374,26 +5356,6 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/externalsecretsoperator
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L18vwQAB
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=externalsecretsoperator
-          - item:
-            name: FabEdge
-            homepage_url: https://github.com/FabEdge/
-            logo: fabedge.svg
-            description: FabEdge is positioned as a kubernetes CNI for edge-computing scenario. FabEdge builds a layer 3 data plane using IPSec tunnels in additional to the control plan
-              managed by other projects, such as kubeEdge, etc.  It co-exists with any existing CNI, e.g. Calico/Flannel,  in the cluster at cloud and serves as the cross-site interconnection
-              including cloud-to-edge and edge-to-edge.  We also plan to support the case of "edge cluster", which can be any k8s cluster, such as k3s, at edge. With FabEdge, the pod
-              in edge cluster can access the pod in cloud/edge clusters.
-            second_path:
-              - Project Group / Cloud Native Computing Foundation (CNCF)
-              - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/FabEdge/fabedge
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2022-03-08'
-              annotations:
-                slug: fabedge
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/fabedge
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkRxpQAF
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=fabedge
           - item:
             name: Falco
             homepage_url: https://falco.org/
@@ -8694,22 +8656,6 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWjKVQA1
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/mobile-native/overview?project=kronos
           - item:
-            name: Krustlet
-            homepage_url: https://krustlet.dev/
-            logo: krustlet.svg
-            description: Krustlet acts as a Kubelet by listening on the event stream for new pods that the scheduler assigns to it based on specific Kubernetes tolerations.
-            second_path:
-              - Project Group / Cloud Native Computing Foundation (CNCF)
-              - Technology Sector / Cloud, Containers & Virtualization
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2021-07-13'
-              annotations:
-                slug: krustlet
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/krustlet
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWz9LQAT
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=krustlet
-          - item:
             name: Kuadrant
             homepage_url: https://kuadrant.io/
             logo: kuadrant.svg
@@ -8750,28 +8696,6 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kubearmor
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkIcXQAV
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=kubearmor
-          - item:
-            name: KubeDL
-            homepage_url: https://kubedl.io/
-            logo: kubedl.svg
-            description: KubeDL is short for Kubernetes-Deep-Learning. It is a unified operator that supports running multiple types of distributed deep learning/machine learning
-            second_path:
-              - Project Group / Cloud Native Computing Foundation (CNCF)
-              - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/kubedl-io/kubedl
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2021-06-22'
-              annotations:
-                slug: kubedl
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kubedl
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWx10QAD
-                project_org: https://github.com/kubedl-io
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=kubedl
-            additional_repos:
-              - repo_url: https://github.com/kubedl-io/morphling
-              - repo_url: https://github.com/kubedl-io/morphling-website
-              - repo_url: https://github.com/kubedl-io/website
           - item:
             name: KubeEdge
             homepage_url: https://kubeedge.io/
@@ -9339,9 +9263,9 @@ landscape:
                 project_org: https://github.com/LF-Decentralized-Trust-labs
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lf-decentralized-trust/overview?project=lf-decentralized-trust-labs
             additional_repos:
+              - repo_url: https://github.com/LF-Decentralized-Trust-labs/HOPrS
               - repo_url: https://github.com/LF-Decentralized-Trust-labs/Naryo
               - repo_url: https://github.com/LF-Decentralized-Trust-labs/agora-allosaurus-rs
-              - repo_url: https://github.com/LF-Decentralized-Trust-labs/agora-bbs
           - item:
             name: LF Edge
             homepage_url: https://www.lfedge.org/
@@ -10196,26 +10120,6 @@ landscape:
               - repo_url: https://github.com/LFPH-Medcreds/medcreds-app
               - repo_url: https://github.com/LFPH-Medcreds/medcreds.github.io
           - item:
-            name: Merbridge
-            homepage_url: https://merbridge.io/
-            logo: merbridge.svg
-            description: |-
-              "Merbridge is a fully open-sourced cloud-native project to accelerate popular service meshes such as Istio, Linkerd, and Kuma by replacing iptables rules with eBPF, which allows transporting data directly from inbound sockets to outbound sockets, effectively shortening the datapath between sidecars and services.
-              Merbridge uses eBPF to intercept outbound and inbound traffic and provides a feedback mechanism to enable eBPF to get the IP address of current namespace and redirect the Envoy connection to a pre-defined port. After applying Merbridge, the outbound/inbound traffic can skip many filter steps to effectively improve network performance.
-              With Merbridge, developers can use eBPF to accelerate the Mesh without any additional operations or code changes."
-            second_path:
-              - Project Group / Cloud Native Computing Foundation (CNCF)
-              - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/merbridge/merbridge
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2022-12-13'
-              annotations:
-                slug: merbridge
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/merbridge
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NWElgQAH
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=merbridge
-          - item:
             name: Meshery
             homepage_url: https://meshery.io/
             logo: meshery.svg
@@ -10861,23 +10765,6 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/opnfv-nfvbench
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs6UQAT
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/anuket/overview?project=opnfv-nfvbench
-          - item:
-            name: Nocalhost
-            homepage_url: https://nocalhost.dev/
-            logo: nocalhost.svg
-            description: Nocalhost is a cloud native development tool based on IDE
-            second_path:
-              - Project Group / Cloud Native Computing Foundation (CNCF)
-              - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/nocalhost/nocalhost
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2021-11-16'
-              annotations:
-                slug: nocalhost
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/nocalhost
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkIcSQAV
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=nocalhost
           - item:
             name: NODE Collective
             homepage_url: https://www.nodecollective.org/
@@ -11537,7 +11424,6 @@ landscape:
             description: OpenBao exists to maintain and improve a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.The OpenBao
               community will provide this software under an OSI-approved open-source license, led by a community run under open governance principles.
             second_path:
-              - Project Group / Open Source Security Foundation (OpenSSF)
               - Technology Sector / Networking & Edge
             repo_url: https://github.com/openbao/openbao
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
@@ -11548,7 +11434,7 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openbao
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfoKy5p6yXHn07pk0o
                 project_org: https://github.com/openbao
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/openssf/overview?project=openbao
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/stossf/overview?project=openbao
             additional_repos:
               - repo_url: https://github.com/openbao/.github
               - repo_url: https://github.com/openbao/artwork
@@ -12515,24 +12401,6 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openmeta
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkRKTQA3
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/tlf/overview?project=openmeta
-          - item:
-            name: OpenMetrics
-            homepage_url: https://openmetrics.io/
-            logo: openmetrics.svg
-            description: OpenMetrics is a working group to determine a standard for exposing metrics data, influenced by the Prometheus exposition format.
-            second_path:
-              - Project Group / Cloud Native Computing Foundation (CNCF)
-              - Industry / Cross-Industry
-              - Technology Sector / Cloud, Containers & Virtualization
-              - Technology Sector / Web & Application Development
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2018-08-10'
-              annotations:
-                slug: openmetrics
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openmetrics
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IfTjSQAV
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=openmetrics
           - item:
             name: Open Mobile Hub
             homepage_url: https://www.openmobilehub.org/
@@ -15891,23 +15759,6 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkAUXQA3
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/tlf/overview?project=sigstorebootstrap
           - item:
-            name: skooner
-            homepage_url: https://github.com/indeedeng/k8dash
-            logo: skooner.svg
-            description: A Kubernetes dashboard contributed by Indeed.
-            second_path:
-              - Project Group / Cloud Native Computing Foundation (CNCF)
-              - Industry / Cross-Industry
-              - Technology Sector / Cloud, Containers & Virtualization
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2021-01-26'
-              annotations:
-                slug: k8dash
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/k8dash
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWgl7QAD
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=k8dash
-          - item:
             name: SlimFaaS
             homepage_url: https://github.com/AxaFrance/SlimFaas
             logo: slimfaas.svg
@@ -16986,30 +16837,6 @@ landscape:
               - repo_url: https://github.com/Substra/.github
               - repo_url: https://github.com/Substra/artwork
               - repo_url: https://github.com/Substra/charts
-          - item:
-            name: SuperEdge
-            homepage_url: https://github.com/superedge
-            logo: superedge.svg
-            description: An open source container management system for edge computing to manage compute resources and container applications in multiple edge regions, managed as one
-              single native Kubernetes cluster.
-            second_path:
-              - Project Group / Cloud Native Computing Foundation (CNCF)
-              - Technology Sector / Cloud, Containers & Virtualization
-              - Technology Sector / Networking & Edge
-            repo_url: https://github.com/superedge/superedge
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2021-09-14'
-              annotations:
-                slug: superedge
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/superedge
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWkR1QAL
-                project_org: https://github.com/superedge
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=superedge
-            additional_repos:
-              - repo_url: https://github.com/superedge/edge-install
-              - repo_url: https://github.com/superedge/edgeadm
-              - repo_url: https://github.com/superedge/orin-device-system
           - item:
             name: Supporters of Chromium-Based Browsers
             homepage_url: https://www.linuxfoundation.org/supporters-of-chromium-based-browsers
@@ -21742,6 +21569,12 @@ landscape:
             logo: beijing_sup_info_information_technology_co.svg
             description: 北京斯普信信息技术有限公司 is a Chinese IT services company that specializes in open source component services and cloud computing solutions.
             crunchbase: https://www.crunchbase.com/organization/beijing-sup-info-information-technology-co-ltd
+          - item:
+            name: Beijing Tenxcloud Technology Co. Ltd. (member)
+            homepage_url: https://tenxcloud.com/
+            logo: beijing_tenxcloud_technology_co_ltd.svg
+            description: Business Services, Custom Software & IT Services
+            crunchbase: https://www.crunchbase.com/organization/tenxcloud
           - item:
             name: Beijing Tongtech Co., Ltd. (member)
             homepage_url: https://tongtech.com/
