@@ -1365,6 +1365,23 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfAMm7zcQLL5ZjhvCI
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/stossf/overview?project=bomctl
           - item:
+            name: bootc
+            homepage_url: https://github.com/containers/bootc
+            logo: bootc.svg
+            description: The mission of the project is to provide transactional, in-place operating system images and updates using OCI/Docker container images.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/containers/bootc
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-02-21'
+              annotations:
+                slug: bootc
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/bootc
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfRze8DsMRJ0EnMnuo
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=bootc
+          - item:
             name: BOSH
             homepage_url: https://bosh.io/
             logo: bosh.svg
@@ -2930,6 +2947,24 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cloud-service-certification
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkUatQAF
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/finos/overview?project=cloud-service-certification
+          - item:
+            name: composefs
+            homepage_url: https://github.com/containers/composefs
+            logo: composefs.svg
+            description: The mission of the Project is to combine several underlying Linux kernel features to provide a very flexible mechanism that supports read-only mountable filesystem
+              trees, stacking on top of an underlying "lower" Linux filesystem.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/containers/composefs
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-02-21'
+              annotations:
+                slug: composefs
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/composefs
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfxqEmKpkVGXcyhGAy
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=composefs
           - item:
             name: Concepts & Terminology Working Group
             homepage_url: https://trustoverip.org/
@@ -5748,8 +5783,8 @@ landscape:
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/tlf/overview?project=finos
             additional_repos:
               - repo_url: https://github.com/finos/CatchIT
-              - repo_url: https://github.com/finos/DEI-SIG
               - repo_url: https://github.com/finos/FDC3
+              - repo_url: https://github.com/finos/FDC3-Archive
           - item:
             name: Flatcar
             homepage_url: https://github.com/flatcar
@@ -12210,6 +12245,23 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MtJNPQA3
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/aswf/overview?project=openimageio
           - item:
+            name: OpenInfra Foundation
+            homepage_url: https://openinfra.org/
+            logo: openinfra_foundation.svg
+            description: The OpenInfra Foundation's mission is to build communities that write open source infrastructure software, fostering the development and adoption of production
+              infrastructure with open source components, and supporting projects like OpenStack, AirShip, Kata Containers, StarlingX and Zuul.
+            second_path:
+              - Project Group / The Linux Foundation
+              - Technology Sector / Cloud, Containers & Virtualization
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-03-14'
+              annotations:
+                slug: openinfra-foundation
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openinfra-foundation
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfYIQscdhzdNpkjebn
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/tlf/overview?project=openinfra-foundation
+          - item:
             name: OpenJS Foundation
             homepage_url: https://openjsf.org/
             logo: openjs_foundation.svg
@@ -12784,6 +12836,23 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openssf-scorecard
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf3cMHbHYa0pwRvINd
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/openssf/overview?project=openssf-scorecard
+          - item:
+            name: OpenStack
+            homepage_url: https://www.openstack.org/
+            logo: openstack.svg
+            description: The OpenStack project focuses on producing a ubiquitous Open Source Cloud Computing platform that is easy to use, simple to implement, interoperable between
+              deployments, works well at all scales, and meets the needs of users and operators of both public and private clouds.
+            second_path:
+              - Project Group / OpenInfra Foundation
+              - Technology Sector / Cloud, Containers & Virtualization
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-05-30'
+              annotations:
+                slug: openstack
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openstack
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NVRj3QAH
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/openinfra-foundation/overview?project=openstack
           - item:
             name: OpenSTEF
             homepage_url: https://openstef.github.io/openstef/index.html
@@ -14080,11 +14149,11 @@ landscape:
             extra:
               accepted: '2025-05-14'
               annotations:
-                slug: powsybl-lf-europe
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/powsybl-lf-europe
+                slug: powsybl
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/powsybl
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfDVCEHOD7BbGCdYoI
                 project_org: https://github.com/powsybl
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfenergy/overview?project=powsybl-lf-europe
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/lfenergy/overview?project=powsybl
             additional_repos:
               - repo_url: https://github.com/powsybl/.github
               - repo_url: https://github.com/powsybl/github-ci
@@ -17985,6 +18054,28 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4MmQAL
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/tars/overview?project=tseer
           - item:
+            name: TSTerm
+            homepage_url: https://www.tsterm.org/
+            logo: tsterm.svg
+            description: TSTerm is a software package that provides 3270 terminal functionality in a TypeScript implementation.
+            second_path:
+              - Project Group / Open Mainframe Project (OMP)
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/TSTerminal/TSTerm
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2021-11-18'
+              annotations:
+                slug: tsterm
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/tsterm
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkO5GQAV
+                project_org: https://github.com/TSTerminal
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/open-mainframe-project/overview?project=tsterm
+            additional_repos:
+              - repo_url: https://github.com/TSTerminal/TSTerm4Zowe
+              - repo_url: https://github.com/TSTerminal/Term4Z
+              - repo_url: https://github.com/TSTerminal/tspackager
+          - item:
             name: Ultra Ethernet Consortium Fund
             homepage_url: https://ultraethernet.org/
             logo: ultra_ethernet_consortium_fund.svg
@@ -18245,6 +18336,27 @@ landscape:
               - repo_url: https://github.com/ucfoundation/artwork
               - repo_url: https://github.com/ucfoundation/community-fund
               - repo_url: https://github.com/ucfoundation/foundation
+          - item:
+            name: urunc
+            homepage_url: https://urunc.io/
+            logo: urunc.svg
+            description: |-
+              The primary goal of urunc is to bridge the gap between unikernels (or similar technologies) and containerized environments, enabling seamless integration with cloud-native architectures. unikernels operate in a fundamentally different execution environment compared to traditional processes and containers. They typically run as VMs or on specialized monitors that facilitate external communication. This inherent difference introduces challenges in orchestration, tooling, and integration with existing cloud platforms. As a result, their adoption in cloud-native ecosystems remains limited.
+              urunc addresses this gap by enabling seamless unikernel integration within the cloud-native ecosystem. urunc aligns with container semantics and leverages OCI tooling and methodologies, aiming to be the “runc for unikernels”, while maintaining CRI compatibility
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/urunc-dev/urunc
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-05-30'
+              annotations:
+                slug: urunc
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/urunc
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf1ZJEZig8GB6drHg6
+                project_org: https://github.com/urunc-dev
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=urunc
+            additional_repos: []
           - item:
             name: Usecase UI (UUI)
             homepage_url: https://wiki.onap.org/x/W5lk
@@ -19369,6 +19481,27 @@ landscape:
               - repo_url: https://github.com/zowe/.github
               - repo_url: https://github.com/zowe/Onboarding-scripts
               - repo_url: https://github.com/zowe/api-layer
+          - item:
+            name: z/VM Community Tools
+            homepage_url: https://www.zvmcommunitytools.org/
+            logo: z_vm_community_tools.svg
+            description: |-
+              Create a repository of z/VM tools for use by the z/VM community, collecting the various tools shared via listservs and other locations without a formal home into a single repository. The aim is not to replace other maintained/established repositories but refer to them, though those repositories can join this project if they wish.
+
+              This will provide the community a single location for locating z/VM community tools.
+            second_path:
+              - Project Group / Open Mainframe Project (OMP)
+              - Technology Sector / DevOps, CI:CD & Site Reliability
+              - Technology Sector / System Administration
+            repo_url: https://github.com/openmainframeproject/zvm-community-tools
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2021-05-13'
+              annotations:
+                slug: zvm-community-tools
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/zvm-community-tools
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWsuFQAT
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/open-mainframe-project/overview?project=zvm-community-tools
   - category:
     name: LF Members
     subcategories:
@@ -23550,11 +23683,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/dsr-corporation
           - item:
-            name: DBOS (member)
-            homepage_url: https://dbos.dev/
-            logo: dbos.svg
-            crunchbase: https://www.crunchbase.com/organization/dbos-inc
-          - item:
             name: DB Systel GmbH (member)
             homepage_url: https://dbsystel.de/
             logo: db_systel_gmbh.svg
@@ -26091,9 +26219,7 @@ landscape:
             name: Incloud Limited (member)
             homepage_url: https://incloud.com/
             logo: incloud_limited.svg
-            organization:
-              name: Incloud Limited
-              linkedin: https://www.linkedin.com/company/incloud.com.bo
+            crunchbase: https://www.crunchbase.com/organization/incloud-64d7
             extra:
               linkedin_url: https://www.linkedin.com/company/incloud.com.bo
           - item:
@@ -30544,9 +30670,7 @@ landscape:
             logo: reevo_spa.svg
             description: ReeVo is the premier Italian Cloud & Cyber Security provider, safeguarding businesses with Secure Cloud and Cyber Security solutions through ISO-certified Data
               Centers.
-            organization:
-              name: ReeVo Spa
-              linkedin: https://www.linkedin.com/company/reevo-cloud
+            crunchbase: https://www.crunchbase.com/organization/reevo-4b5e
             extra:
               linkedin_url: https://www.linkedin.com/company/reevo-cloud
           - item:
