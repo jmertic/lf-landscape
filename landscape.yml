@@ -9150,7 +9150,7 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/laminas/.github
               - repo_url: https://github.com/laminas/automatic-releases
-              - repo_url: https://github.com/laminas/documentation-theme
+              - repo_url: https://github.com/laminas/community
           - item:
             name: Legend
             homepage_url: https://legend.finos.org/
@@ -12245,9 +12245,9 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MtJNPQA3
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/aswf/overview?project=openimageio
           - item:
-            name: OpenInfra Foundation
+            name: OpenInfra Foundation (OIF)
             homepage_url: https://openinfra.org/
-            logo: openinfra_foundation.svg
+            logo: openinfra_foundation_oif.svg
             description: The OpenInfra Foundation's mission is to build communities that write open source infrastructure software, fostering the development and adoption of production
               infrastructure with open source components, and supporting projects like OpenStack, AirShip, Kata Containers, StarlingX and Zuul.
             second_path:
@@ -12843,7 +12843,7 @@ landscape:
             description: The OpenStack project focuses on producing a ubiquitous Open Source Cloud Computing platform that is easy to use, simple to implement, interoperable between
               deployments, works well at all scales, and meets the needs of users and operators of both public and private clouds.
             second_path:
-              - Project Group / OpenInfra Foundation
+              - Project Group / OpenInfra Foundation (OIF)
               - Technology Sector / Cloud, Containers & Virtualization
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -13149,6 +13149,24 @@ landscape:
               - repo_url: https://github.com/opfab/letscoordinate
               - repo_url: https://github.com/opfab/operatorfabric-getting-started
           - item:
+            name: Operator Framework
+            homepage_url: https://sdk.operatorframework.io/
+            logo: operator_framework.svg
+            description: The Operator SDK makes it easier to build Kubernetes native applications, a process that can require deep, application-specific operational knowledge.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Industry / Cross-Industry
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/operator-framework/operator-sdk
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2020-07-09'
+              annotations:
+                slug: operator-sdk
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/operator-sdk
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkYIdQAN
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=operator-sdk
+          - item:
             name: Operator Framework Lifecycle Manager
             homepage_url: https://olm.operatorframework.io/
             logo: operator_framework_lifecycle_manager.svg
@@ -13167,24 +13185,6 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/operator-olm
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkYIeQAN
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=operator-olm
-          - item:
-            name: Operator Framework SDK
-            homepage_url: https://sdk.operatorframework.io/
-            logo: operator_framework_sdk.svg
-            description: The Operator SDK makes it easier to build Kubernetes native applications, a process that can require deep, application-specific operational knowledge.
-            second_path:
-              - Project Group / Cloud Native Computing Foundation (CNCF)
-              - Industry / Cross-Industry
-              - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/operator-framework/operator-sdk
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2020-07-09'
-              annotations:
-                slug: operator-sdk
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/operator-sdk
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkYIdQAN
-              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=operator-sdk
           - item:
             name: OPNFV Doctor
             homepage_url: https://wiki.anuket.io/x/rAcB
@@ -30683,6 +30683,19 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/regnosys
           - item:
+            name: Renault (member)
+            homepage_url: https://renault.com/
+            logo: renault.svg
+            description: The Renault group has been making cars since 1898. Today it is an international multi-brand group, selling more than 2.7 million vehicles in 125 countries in
+              2014, with 36 manufacturing sites. To meet the major technological challenges of the future and continue its strategy of profitable growth, the Group is harnessing its
+              international development and the complementary fit of its three brands, Renault, Dacia and Renault Samsung Motors, together with electric vehicles, the Alliance with Nissan,
+              and its partnerships with AVTOVAZ and Daimler. With 12 world championship titles in Formula 1 and a participation in Formula E, Renault sees motorsport as a vector of innovation,
+              image and awareness.
+            crunchbase: https://www.crunchbase.com/organization/renault-s-a
+            twitter: https://twitter.com/renaultgroup
+            extra:
+              linkedin_url: https://www.linkedin.com/company/renault
+          - item:
             name: reo.dev (member)
             homepage_url: https://reo.dev/
             logo: reo.svg
@@ -31495,6 +31508,12 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/shutterstock
             extra:
               linkedin_url: https://www.linkedin.com/company/shutterstock
+          - item:
+            name: Sichuan Huakun Zhenyu Intelligent Technology Co., Ltd. (member)
+            homepage_url: https://skhkzy.com/
+            logo: sichuan_huakun_zhenyu_intelligent_technology_co_ltd.svg
+            organization:
+              name: Sichuan Huakun Zhenyu Intelligent Technology Co., Ltd.
           - item:
             name: SideFX (member)
             homepage_url: https://sidefx.com/
