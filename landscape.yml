@@ -4379,6 +4379,23 @@ landscape:
               - repo_url: https://github.com/danos/accton-hwdiag
               - repo_url: https://github.com/danos/bcm-kbp-linux-modules
           - item:
+            name: Distinguished Engineer Community
+            homepage_url: https://github.com/finos-labs/distinguished-engineer-community
+            logo: distinguished_engineer_community.svg
+            description: Distinguished Engineer Community Special Interest Group
+            second_path:
+              - Project Group / FINOS (The Fintech Open Source Foundation)
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/finos-labs/distinguished-engineer-community
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-06-04'
+              annotations:
+                slug: distinguished-engineer-community
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/distinguished-engineer-community
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfqzVdY1uD1dXkUJ1h
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/finos/overview?project=distinguished-engineer-community
+          - item:
             name: Distribution
             homepage_url: https://github.com/docker/distribution
             logo: distribution.svg
@@ -5391,6 +5408,22 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/externalsecretsoperator
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L18vwQAB
               dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/cncf/overview?project=externalsecretsoperator
+          - item:
+            name: FAIR Package Manager
+            homepage_url: https://fair.pm/
+            logo: fair_package_manager.svg
+            description: FAIR Package Manager for Wordpress
+            second_path:
+              - Technology Sector / Web & Application Development
+            repo_url: https://fair.pm/
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-05-15'
+              annotations:
+                slug: fair-package-manager
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/fair-package-manager
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf8mHoeM75bdR2M8W6
+              dev_stats_url: https://insights.lfx.linuxfoundation.org/foundation/fair-web/overview?project=fair-package-manager
           - item:
             name: Falco
             homepage_url: https://falco.org/
@@ -22639,10 +22672,12 @@ landscape:
             name: China Telecommunications Corporation (member)
             homepage_url: https://chinatelecom.cn/
             logo: china_telecommunications_corporation.svg
-            description: About China Telecom Corporation With over 200 million customers and more than $61 billion in assets, China Telecom Corporation is one of the world's largest
-              telecommunications companies. As the largest fixed-line provider in the world, China Telecom owns and operates an extensive system of domestic and international telecommunications
-              networks and facilities, including local wireless loops, voice, data, image, multimedia and other telecommunications services in China. China Telecom has offices in the
-              Unites States, Hong Kong, Canada and the United Kingdom.
+            description: |-
+              About China Telecom Corporation With over 200 million customers and more than $61 billion in assets, China Telecom Corporation is one of the world's largest telecommunications companies. As the largest fixed-line provider in the world, China Telecom owns and operates an extensive system of domestic and international telecommunications networks and facilities, including local wireless loops, voice, data, image, multimedia and other telecommunications services in China. China Telecom has offices in the Unites States, Hong Kong, Canada and the United Kingdom.
+
+              --- Merged Data:
+
+              China Telcom
             crunchbase: https://www.crunchbase.com/organization/china-telecom-corporation
             twitter: https://twitter.com/chinateleglobal
             extra:
@@ -30308,9 +30343,7 @@ landscape:
             logo: qbo.svg
             description: QBO offers a cloud computing platform that utilizes pure container technology to enhance efficiency and scalability, providing bare metal performance for deploying
               and managing compute instances and Kubernetes clusters across various environments.
-            organization:
-              name: QBO
-              linkedin: https://www.linkedin.com/company/qbo-cloud
+            crunchbase: https://www.crunchbase.com/organization/qbo-cloud
             extra:
               linkedin_url: https://www.linkedin.com/company/qbo-cloud
           - item:
