@@ -2593,9 +2593,9 @@ landscape:
                 project_org: https://github.com/c2pa-org
               dev_stats_url: https://insights.linuxfoundation.org/project/c2pa
             additional_repos:
+              - repo_url: https://github.com/c2pa-org/conformance-public
               - repo_url: https://github.com/c2pa-org/easycla-bot
               - repo_url: https://github.com/c2pa-org/feedback-test-1
-              - repo_url: https://github.com/c2pa-org/public-draft
           - item:
             name: Coalition for Content Provenance and Authenticity Fund (C2PA)
             homepage_url: https://c2pa.org/
@@ -2618,9 +2618,9 @@ landscape:
                 project_org: https://github.com/c2pa-org
               dev_stats_url: https://insights.linuxfoundation.org/project/c2pa-fund
             additional_repos:
+              - repo_url: https://github.com/c2pa-org/conformance-public
               - repo_url: https://github.com/c2pa-org/easycla-bot
               - repo_url: https://github.com/c2pa-org/feedback-test-1
-              - repo_url: https://github.com/c2pa-org/public-draft
           - item:
             name: COBOL Check
             homepage_url: https://github.com/openmainframeproject/cobol-check
@@ -24619,17 +24619,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/emma-cloud
           - item:
-            name: Endor Labs (member)
-            homepage_url: https://endor.ai/
-            logo: endor_labs.svg
-            description: endor labs - software supply chain platform
-            twitter: https://twitter.com/EndorLabs
-            organization:
-              name: Endor Labs
-              linkedin: https://www.linkedin.com/company/endorlabs
-            extra:
-              linkedin_url: https://www.linkedin.com/company/endorlabs
-          - item:
             name: Energy Web Foundation (member)
             homepage_url: https://energyweb.org/
             logo: energy_web_foundation.svg
@@ -27082,15 +27071,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/kapstan-infra
           - item:
-            name: Kasten, Inc. (member)
-            homepage_url: https://kasten.io/
-            logo: kasten_inc.svg
-            description: Kasten provides solutions to dramatically reduce the operational and management pain of stateful cloud-native applications.
-            crunchbase: https://www.crunchbase.com/organization/kasten
-            twitter: https://twitter.com/kastenhq
-            extra:
-              linkedin_url: https://www.linkedin.com/company/kasteninc
-          - item:
             name: Kedify (member)
             homepage_url: https://kedify.io/
             logo: kedify.svg
@@ -27706,16 +27686,6 @@ landscape:
             twitter: https://twitter.com/linbit
             extra:
               linkedin_url: https://www.linkedin.com/company/linbit
-          - item:
-            name: Lineaje (member)
-            homepage_url: https://lineaje.com/
-            logo: lineaje.svg
-            description: Lineage solves critical software supply chain security problems faced by every organization that builds or sells software.
-            organization:
-              name: Lineaje
-              linkedin: https://www.linkedin.com/company/lineaje
-            extra:
-              linkedin_url: https://www.linkedin.com/company/lineaje
           - item:
             name: Lineo Solutions, Inc. (member)
             homepage_url: https://lineo.co.jp/
@@ -32718,7 +32688,7 @@ landscape:
             description: 'Founded in 1920, Suzuki Motor engages in the research, development, design, manufacture, sale, and distribution of motor vehicles and special machines. It operates
               through three segments: Motorcycles, Automobiles, and Special Machines. Major products include: automobiles, motorcycles, outboard motors, electric wheelchairs, and industrial
               equipment. The company is headquartered in Hamamatsu, Japan.'
-            crunchbase: https://www.crunchbase.com/organization/suzuki-motor-of-america
+            crunchbase: https://www.crunchbase.com/organization/suzuki-motor
             extra:
               linkedin_url: https://www.linkedin.com/company/suzuki-co-ltd-
           - item:
