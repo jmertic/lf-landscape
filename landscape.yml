@@ -5120,24 +5120,6 @@ landscape:
                 charter_url: https://wiki.lfedge.org/?preview=/65596/41452048/eKuiper%20Technical%20Charter%206-23-2021%20%20(1).pdf
               dev_stats_url: https://insights.linuxfoundation.org/project/ekuiper
           - item:
-            name: Elastic Deep Learning (EDL)
-            homepage_url: https://elasticdeeplearning.ai/
-            logo: elastic_deep_learning_edl.svg
-            description: Elastic Deep Learning using PaddlePaddle and Kubernetes.
-            second_path:
-              - Project Group / LF AI & Data
-              - Industry / Cross-Industry
-              - Technology Sector / AI, ML, Data & Analytics
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2019-01-11'
-              annotations:
-                slug: edl
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/edl
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4IVQA1
-                charter_url: https://lfai.foundation/about/charter/
-              dev_stats_url: https://insights.linuxfoundation.org/project/edl
-          - item:
             name: Electron
             homepage_url: https://www.electronjs.org/
             logo: electron.svg
@@ -12367,6 +12349,37 @@ landscape:
               - repo_url: https://github.com/opendsm/eeweather
               - repo_url: https://github.com/opendsm/caltrack
           - item:
+            name: OpenEBS
+            homepage_url: https://openebs.io/
+            logo: openebs.svg
+            description: |-
+              OpenEBS is the leading storage solution for Kubernetes
+              Kubernetes native; runs in userspace
+              Open Source; no vendor lock-in
+              The only multi cloud storage solution
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Industry / Cross-Industry
+              - Technology Sector / Cloud, Containers & Virtualization
+              - Technology Sector / Storage
+            repo_url: https://github.com/openebs/openebs
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2019-05-14'
+              annotations:
+                slug: openebs
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openebs
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4QyQAL
+                charter_url: ' '
+                project_org: https://github.com/openebs
+              dev_stats_url: https://insights.linuxfoundation.org/project/openebs
+            additional_repos:
+              - repo_url: https://github.com/openebs/mayastor
+              - repo_url: https://github.com/openebs/dynamic-localpv-provisioner
+              - repo_url: https://github.com/openebs/zfs-localpv
+              - repo_url: https://github.com/openebs/lvm-localpv
+              - repo_url: https://github.com/openebs/rawfile-localpv
+          - item:
             name: OpenEEW
             homepage_url: https://openeew.com/
             logo: openeew.svg
@@ -13661,16 +13674,9 @@ landscape:
             homepage_url: https://www.lfenergy.org/projects/operatorfabric/
             logo: operatorfabric.svg
             description: |-
-              OperatorFabric is a modular, extensible, industrial-strength, and field-tested platform for systems operators. OperatorFabric includes several features essential for electricity, water, and other utility operations.
-
-              System visualization and console integration
-              Precise alerting
-              Workflow scheduling
-              Remedial action manager
-              Historian
-              Scripting (ex: Python, JavaScript)
-
-              OperatorFabric has a robust reference implementation called Let’s Coordinate.
+              OperatorFabric is a modular, extensible, industrial-strength platform for use in electricity, water, and other utility operations. It aims to facilitate operational activities for utilities in two ways:
+              - Centralize real time business events in a single place to avoid having multiple screens/software.
+              - Facilitate interactions between operational control centers.
             second_path:
               - Project Group / LF Energy (LFE)
               - Industry / Energy & Climate
@@ -13683,7 +13689,7 @@ landscape:
                 slug: operator-fabric
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/operator-fabric
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001If869QAB
-                charter_url: https://github.com/lf-energy/foundation/blob/master/project_charters/operatorfabric-charter.pdf
+                charter_url: https://github.com/lf-energy/foundation/blob/main/project_charters/operator-fabric_charter.pdf
                 project_org: https://github.com/opfab
               dev_stats_url: https://insights.linuxfoundation.org/project/operator-fabric
             additional_repos:
