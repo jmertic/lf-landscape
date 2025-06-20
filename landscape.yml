@@ -9908,7 +9908,7 @@ landscape:
               - Technology Sector / IoT & Embedded
               - Technology Sector / Linux Kernel
               - Technology Sector / Privacy & Security
-            repo_url: https://github.com/linuxboot/book
+            repo_url: https://github.com/linuxboot/heads
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2018-01-25'
@@ -9920,8 +9920,8 @@ landscape:
                 project_org: https://github.com/linuxboot
               dev_stats_url: https://insights.linuxfoundation.org/project/linuxboot
             additional_repos:
+              - repo_url: https://github.com/linuxboot/book
               - repo_url: https://github.com/linuxboot/linuxboot
-              - repo_url: https://github.com/linuxboot/heads
               - repo_url: https://github.com/linuxboot/heads-wiki
               - repo_url: https://github.com/linuxboot/fiano
               - repo_url: https://github.com/linuxboot/u-root-builder
@@ -12762,7 +12762,7 @@ landscape:
                 slug: openimageio
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openimageio
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MtJNPQA3
-                charter_url: ' '
+                charter_url: https://github.com/AcademySoftwareFoundation/foundation/blob/main/project_charters/open-image-io_charter.pdf
               dev_stats_url: https://insights.linuxfoundation.org/project/openimageio
           - item:
             name: OpenInfra Foundation (OIF)
