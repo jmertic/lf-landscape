@@ -7210,7 +7210,7 @@ landscape:
               - Project Group / OpenJS Foundation
               - Industry / Cross-Industry
               - Technology Sector / Web & Application Development
-            repo_url: https://github.com/HospitalRun/hospitalrun
+            repo_url: https://github.com/HospitalRun/hospitalrun-frontend
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2019-03-12'
@@ -7222,7 +7222,7 @@ landscape:
                 project_org: https://github.com/HospitalRun
               dev_stats_url: https://insights.linuxfoundation.org/project/ojsf-hr
             additional_repos:
-              - repo_url: https://github.com/HospitalRun/hospitalrun-frontend
+              - repo_url: https://github.com/HospitalRun/hospitalrun
               - repo_url: https://github.com/HospitalRun/hospitalrun-server
               - repo_url: https://github.com/HospitalRun/components
               - repo_url: https://github.com/HospitalRun/hospitalrun.io
@@ -8858,7 +8858,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/kgateway-dev/community
+            repo_url: https://github.com/kgateway-dev/kgateway
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-03-21'
@@ -8870,7 +8870,7 @@ landscape:
                 project_org: https://github.com/kgateway-dev
               dev_stats_url: https://insights.linuxfoundation.org/project/kgateway
             additional_repos:
-              - repo_url: https://github.com/kgateway-dev/kgateway
+              - repo_url: https://github.com/kgateway-dev/community
           - item:
             name: KiCad
             homepage_url: https://kicad.org/
@@ -9908,7 +9908,7 @@ landscape:
               - Technology Sector / IoT & Embedded
               - Technology Sector / Linux Kernel
               - Technology Sector / Privacy & Security
-            repo_url: https://github.com/linuxboot/heads
+            repo_url: https://github.com/linuxboot/book
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2018-01-25'
@@ -9920,8 +9920,8 @@ landscape:
                 project_org: https://github.com/linuxboot
               dev_stats_url: https://insights.linuxfoundation.org/project/linuxboot
             additional_repos:
-              - repo_url: https://github.com/linuxboot/book
               - repo_url: https://github.com/linuxboot/linuxboot
+              - repo_url: https://github.com/linuxboot/heads
               - repo_url: https://github.com/linuxboot/heads-wiki
               - repo_url: https://github.com/linuxboot/fiano
               - repo_url: https://github.com/linuxboot/u-root-builder
@@ -13423,6 +13423,22 @@ landscape:
               - repo_url: https://github.com/OpenSTEF/openstef-reference
               - repo_url: https://github.com/OpenSTEF/openstef-offline-example
           - item:
+            name: OpenSTX Foundation
+            homepage_url: https://openstxfoundation.org/
+            logo: openstx_foundation.svg
+            description: OpenSTX is focused on developing a protocol for open synchronous flooding networks and related software implementations.
+            second_path:
+              - Technology Sector / IoT & Embedded
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-03-12'
+              annotations:
+                slug: murmur-project
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/murmur-project
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfVo31h5MKJatrVMK7
+                charter_url: null
+              dev_stats_url: https://insights.linuxfoundation.org/project/murmur-project
+          - item:
             name: OpenSynth
             homepage_url: https://github.com/OpenSynth-energy/OpenSynth
             logo: opensynth.svg
@@ -16070,7 +16086,7 @@ landscape:
               - Industry / Energy & Climate
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / System Engineering
-            repo_url: https://github.com/seapath/TSC
+            repo_url: https://github.com/seapath/meta-seapath
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-01-07'
@@ -16082,6 +16098,7 @@ landscape:
                 project_org: https://github.com/seapath
               dev_stats_url: https://insights.linuxfoundation.org/project/seapath
             additional_repos:
+              - repo_url: https://github.com/seapath/TSC
               - repo_url: https://github.com/seapath/ansible
               - repo_url: https://github.com/seapath/build_debian_iso
               - repo_url: https://github.com/seapath/yocto-bsp
