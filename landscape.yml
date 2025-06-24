@@ -332,6 +332,25 @@ landscape:
               dev_stats_url: https://insights.linuxfoundation.org/project/aether-project
               youtube_url: https://www.youtube.com/channel/UCCvBrNQYINTk0TxI3YNaLEw
           - item:
+            name: Agent2Agent
+            homepage_url: https://a2aproject.org/
+            logo: agent2agent.svg
+            description: help AI agents across different ecosystems communicate with each other
+            second_path:
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/a2aproject/A2A
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-06-20'
+              annotations:
+                slug: agent2agent
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/agent2agent
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfu8hIyXbmWJ9g5XcU
+                charter_url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/agent2agent/agent2agent_Charter.pdf?v=1750697329076
+                project_org: https://github.com/a2aproject
+              dev_stats_url: https://insights.linuxfoundation.org/project/agent2agent
+            additional_repos: []
+          - item:
             name: AgStack
             homepage_url: https://agstack.org/
             logo: agstack.svg
@@ -6774,7 +6793,7 @@ landscape:
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/geisa/conformance
+            repo_url: https://github.com/geisa/perf-eval-zeromq
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-11-05'
@@ -37828,8 +37847,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-            organization:
-              name: Synx Data Labs
+            crunchbase: https://www.crunchbase.com/organization/synx-data-labs
           - item:
             name: Synyega (member)
             homepage_url: https://synyega.com/
