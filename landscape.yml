@@ -7791,6 +7791,27 @@ landscape:
               - repo_url: https://github.com/interledgerjs/moneyd
               - repo_url: https://github.com/interledgerjs/tf-connector
           - item:
+            name: interLink
+            homepage_url: https://intertwin-eu.github.io/interLink/
+            logo: interlink.svg
+            description: |-
+              Virtual Kubelets are a powerful resource when it comes to exploit computing capacity managed outside of a Kubernetes cluster (possibly in a remote center). Although the current interface allows to create any number of custom implementations, it requires knowledge of the kubernetes internals.
+
+              interLink proposes a twofold model with clear roles and responsibilities. On the one hand a core component that interact through the Virtual Kubelet interface with the Kubernetes cluster, on the other hand a stateless plugin based architecture respecting the interLink OpenAPI specification. The latter is delegated to implement any pod execution details and interact with target resources. Plugins grant the flexibility and extensibility of the proposed system but most importantly they allow to hide the k8s interface complexity. Indeed, resource owners can build or customize plugins to define how a payload should be executed on their resources without any k8s knowledge.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/interTwin-eu/interLink
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-03-21'
+              annotations:
+                slug: interlink
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/interlink
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfU37R5ReM4jWCTsDp
+                charter_url: null
+              dev_stats_url: https://insights.linuxfoundation.org/project/interlink
+          - item:
             name: Intern
             homepage_url: https://theintern.io/
             logo: intern.svg
@@ -23252,18 +23273,6 @@ landscape:
             twitter: https://twitter.com/AvizNetworks
             extra:
               linkedin_url: https://www.linkedin.com/company/aviz-networks
-          - item:
-            name: AVSystem sp. z o.o. (member)
-            homepage_url: https://avsystem.com/
-            logo: avsystem_sp_z_o_o.svg
-            description: AVSystem is the leader in IoT Device Management. Our goal is to automate processes and help companies to handle their connected devices.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Zephyr Project
-            crunchbase: https://www.crunchbase.com/organization/avsystem
-            twitter: https://twitter.com/AVSystemCom
-            extra:
-              linkedin_url: https://www.linkedin.com/company/avsystem
           - item:
             name: AXA Group (member)
             homepage_url: https://axa.com/
