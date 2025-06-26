@@ -9675,7 +9675,7 @@ landscape:
               - PMO Managed / All
               - Industry / Cross-Industry
               - Technology Sector / Blockchain
-            repo_url: https://github.com/hyperledger/governance
+            repo_url: https://github.com/hyperledger/fabric
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/Hyperledger
             extra:
@@ -9688,7 +9688,8 @@ landscape:
                 project_org: https://github.com/hyperledger
               dev_stats_url: https://insights.linuxfoundation.org/project/lf-decentralized-trust
               youtube_url: https://www.youtube.com/c/Hyperledger
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/hyperledger/governance
           - item:
             name: LF Decentralized Trust Labs
             homepage_url: https://lf-decentralized-trust-labs.github.io/
