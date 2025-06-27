@@ -3428,6 +3428,24 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/projectcontour/contour
           - item:
+            name: Copa
+            homepage_url: https://github.com/project-copacetic/copacetic
+            logo: copa.svg
+            description: Copacetic (copa) is a tool for patching security vulnerabilities in containers.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/project-copacetic/copacetic
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2023-09-19'
+              annotations:
+                slug: copacetic
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/copacetic
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfMig3P8sj1hghm65r
+                charter_url: null
+              dev_stats_url: https://insights.linuxfoundation.org/project/copacetic
+          - item:
             name: Co-Packaged Optics Collaboration
             homepage_url: http://www.copackagedoptics.com/
             logo: co_packaged_optics_collaboration.svg
@@ -5739,7 +5757,7 @@ landscape:
                 slug: federatedai
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/federatedai
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWqP7QAL
-                charter_url: null
+                charter_url: https://github.com/FederatedAI/FATE-Community/blob/master/FATE_Project_Technical_Charter.pdf
               dev_stats_url: https://insights.linuxfoundation.org/project/federatedai
           - item:
             name: FDC3
@@ -9675,7 +9693,7 @@ landscape:
               - PMO Managed / All
               - Industry / Cross-Industry
               - Technology Sector / Blockchain
-            repo_url: https://github.com/hyperledger/fabric
+            repo_url: https://github.com/hyperledger/governance
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/Hyperledger
             extra:
@@ -9688,8 +9706,7 @@ landscape:
                 project_org: https://github.com/hyperledger
               dev_stats_url: https://insights.linuxfoundation.org/project/lf-decentralized-trust
               youtube_url: https://www.youtube.com/c/Hyperledger
-            additional_repos:
-              - repo_url: https://github.com/hyperledger/governance
+            additional_repos: []
           - item:
             name: LF Decentralized Trust Labs
             homepage_url: https://lf-decentralized-trust-labs.github.io/
@@ -38156,7 +38173,7 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/telechips-inc
           - item:
             name: Telecom Italia Mobile (TIM) S.p.A. (member)
-            homepage_url: https://telecomitalia.com/
+            homepage_url: https://telecomitalia.it/
             logo: telecom_italia_mobile_tim_s_p_a.svg
             description: TIM SpA, also operating under the name Telecom Italia, is an Italian telecommunications company headquartered in Rome and Milan, which provides telephony 
               services, mobile services, and DSL data services.
