@@ -7801,7 +7801,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/interTwin-eu/interLink
+            repo_url: https://github.com/interlink-hq/interLink
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-03-21'
@@ -10666,7 +10666,7 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Industry / Cross-Industry
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/metal3-io/metal3-docs
+            repo_url: https://github.com/metal3-io/baremetal-operator
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-09-08'
@@ -10678,8 +10678,8 @@ landscape:
                 project_org: https://github.com/metal3-io
               dev_stats_url: https://insights.linuxfoundation.org/project/metal3
             additional_repos:
+              - repo_url: https://github.com/metal3-io/metal3-docs
               - repo_url: https://github.com/metal3-io/metal3-dev-env
-              - repo_url: https://github.com/metal3-io/baremetal-operator
               - repo_url: https://github.com/metal3-io/cluster-api-provider-metal3
               - repo_url: https://github.com/metal3-io/ironic-image
               - repo_url: https://github.com/metal3-io/project-infra
@@ -20788,6 +20788,7 @@ landscape:
               - Project Membership / SPDX
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+              - Project Membership / The Linux Foundation
               - Project Membership / TODO Group
               - Project Membership / Yocto Project Fund
               - Project Membership / LF Networking (LFN)
@@ -21440,6 +21441,14 @@ landscape:
             twitter: https://twitter.com/ADVAOpticalNews
             extra:
               linkedin_url: https://www.linkedin.com/company/adva-optical-networking
+          - item:
+            name: Aduna Global LLC (member)
+            homepage_url: https://adunaglobal.com/
+            logo: aduna_global_llc.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Aduna Global LLC
           - item:
             name: Advanced Micro Devices (AMD) (member)
             homepage_url: https://amd.com/
@@ -24491,6 +24500,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+              - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/cathay-financial-holding-co-ltd
           - item:
             name: Causely (member)
@@ -24876,6 +24886,36 @@ landscape:
             twitter: https://twitter.com/CirrusLogic
             extra:
               linkedin_url: https://www.linkedin.com/company/cirrus-logic
+          - item:
+            name: Cisco Systems, Inc. (member)
+            homepage_url: https://cisco.com/
+            logo: cisco_systems_inc.svg
+            description: "Cisco (NASDAQ: CSCO) is the worldwide technology leader that has been making the Internet work since 1984. Their people, products, and partners help society
+              securely connect and seize tomorrow's digital opportunity today. Cisco and the Cisco logo are trademarks or registered trademarks of Cisco and/or its affiliates in the
+              U.S. and other countries."
+            second_path:
+              - Project Membership / Open Container Initiative (OCI)
+              - Project Membership / OpenChain Project
+              - Project Membership / SPDX
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+              - Project Membership / The Linux Foundation
+              - Project Membership / TODO Group
+              - Project Membership / Yocto Project Fund
+              - Project Membership / LF Networking (LFN)
+              - Project Membership / CHIPS Alliance Fund
+              - Project Membership / Confidential Computing Consortium (CCC)
+              - Project Membership / Open Source Security Foundation (OpenSSF)
+              - Project Membership / Sustainable & Scalable Infrastructure Alliance Fund
+              - Project Membership / Linux Foundation Europe
+              - Project Membership / SONiC Fund
+              - Project Membership / Ultra Ethernet Consortium Fund
+              - Project Membership / Post-Quantum Cryptography Alliance
+              - Project Membership / P4 Fund
+            crunchbase: https://www.crunchbase.com/organization/cisco
+            twitter: https://twitter.com/Cisco
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cisco
           - item:
             name: CISEL Informatique SA (member)
             homepage_url: https://cisel.ch/
@@ -26821,6 +26861,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/dornerworks
           - item:
+            name: Doubleword (member)
+            homepage_url: https://doubleword.ai/
+            logo: doubleword.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/titanml
+          - item:
             name: Doulos (member)
             homepage_url: https://doulos.com/
             logo: doulos.svg
@@ -27563,6 +27610,14 @@ landscape:
             twitter: https://twitter.com/EsperantoTech
             extra:
               linkedin_url: https://www.linkedin.com/company/esperanto-ai
+          - item:
+            name: Etherealize (member)
+            homepage_url: https://etherealize.com/
+            logo: etherealize.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Etherealize
           - item:
             name: etopus technology (member)
             homepage_url: https://etopus.com/
@@ -29857,6 +29912,19 @@ landscape:
             twitter: https://twitter.com/icsonqt
             extra:
               linkedin_url: https://www.linkedin.com/company/integrated-computer-solutions-inc.
+          - item:
+            name: INTEGRITY Security Services (member)
+            homepage_url: https://ghsiss.com/
+            logo: integrity_security_services.svg
+            description: INTEGRITY Security Services (ISS) is a top provider of end-to-end embedded security solutions for a secure Internet of Things, offering expert services in 
+              key protection, certificate management, and secure OTA delivery to prevent cyber attacks and ensu...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: INTEGRITY Security Services
+              linkedin: https://www.linkedin.com/company/integrity-security-services-llc
+            extra:
+              linkedin_url: https://www.linkedin.com/company/integrity-security-services-llc
           - item:
             name: IntellectEU (member)
             homepage_url: https://intellecteu.com/
@@ -35829,6 +35897,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/savoir-faire-linux
           - item:
+            name: Sawmills (member)
+            homepage_url: https://sawmills.ai/
+            logo: sawmills.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/sawmills
+          - item:
             name: Scala Computing (member)
             homepage_url: https://scalacomputing.com/
             logo: scala_computing.svg
@@ -36533,6 +36608,14 @@ landscape:
             twitter: https://twitter.com/silentauth
             extra:
               linkedin_url: https://www.linkedin.com/company/silencelaboratories
+          - item:
+            name: Silicon Innovation Microelectronics Co., Ltd. (member)
+            homepage_url: https://silicon-innovation-cd.com/
+            logo: silicon_innovation_microelectronics_co_ltd.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Silicon Innovation Microelectronics Co., Ltd.
           - item:
             name: Skyloud (member)
             homepage_url: https://skyloud.fr/
@@ -37968,6 +38051,17 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/itera-io
           - item:
+            name: Tailscale Inc (member)
+            homepage_url: https://tailscale.com/
+            logo: tailscale_inc.svg
+            description: Tailscale is a zero config VPN for building secure networks. Install on any device in minutes. Remote access from any network or physical location.
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/tailscale
+            twitter: https://twitter.com/Tailscale
+            extra:
+              linkedin_url: https://www.linkedin.com/company/tailscale
+          - item:
             name: TangentWorks (member)
             homepage_url: https://tangent.works/
             logo: tangentworks.svg
@@ -38173,22 +38267,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/telechips-inc
           - item:
-            name: Telecom Italia Mobile (TIM) S.p.A. (member)
-            homepage_url: https://telecomitalia.it/
-            logo: telecom_italia_mobile_tim_s_p_a.svg
-            description: |-
-              TIM SpA, also operating under the name Telecom Italia, is an Italian telecommunications company headquartered in Rome and Milan, which provides telephony services, mobile services, and DSL data services.
-
-              --- Merged Data:
-
-              TIM (Telecom Italia) provides telecommunications services in Italy, including fixed and mobile telephony, internet, TV, and entertainment. TIM Ventures supports innovative startups to drive growth and create value.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / LF Networking (LFN)
-            crunchbase: https://www.crunchbase.com/organization/telecom-italia
-            extra:
-              linkedin_url: https://www.linkedin.com/company/tim
-          - item:
             name: Teledyne LeCroy Inc (member)
             homepage_url: https://teledynelecroy.com/
             logo: teledyne_lecroy_inc.svg
@@ -38215,7 +38293,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/telefonica
             twitter: https://twitter.com/Telefonica
             extra:
-              linkedin_url: https://www.linkedin.com/company/telef-nica-global-solutions
+              linkedin_url: https://www.linkedin.com/company/telefonica-global-solutions
           - item:
             name: TELUS Corporation (member)
             homepage_url: https://telus.com/
@@ -38625,6 +38703,22 @@ landscape:
             twitter: https://twitter.com/tigeraio
             extra:
               linkedin_url: https://www.linkedin.com/company/tigera
+          - item:
+            name: TIM S.p.A (member)
+            homepage_url: https://tim.it/
+            logo: tim_s_p.svg
+            description: |-
+              TIM SpA, also operating under the name Telecom Italia, is an Italian telecommunications company headquartered in Rome and Milan, which provides telephony services, mobile services, and DSL data services.
+
+              --- Merged Data:
+
+              TIM (Telecom Italia) provides telecommunications services in Italy, including fixed and mobile telephony, internet, TV, and entertainment. TIM Ventures supports innovative startups to drive growth and create value.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / LF Networking (LFN)
+            crunchbase: https://www.crunchbase.com/organization/telecom-italia
+            extra:
+              linkedin_url: https://www.linkedin.com/company/tim
           - item:
             name: Timspirit (member)
             homepage_url: https://timspirit.fr/
@@ -39649,20 +39743,6 @@ landscape:
             twitter: https://twitter.com/virtasant
             extra:
               linkedin_url: https://www.linkedin.com/company/virtasant
-          - item:
-            name: Vivendi (member)
-            homepage_url: https://vivendi.com/
-            logo: vivendi.svg
-            description: Vivendi is a mass media and telecommunications company that provides music, television, film, publishing, telecommunications, and more. The company 
-              operates throughout the media value chain, from talent discovery to the creation, production, and distri...
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
-            organization:
-              name: Vivendi
-              linkedin: https://www.linkedin.com/company/vivendi
-            extra:
-              linkedin_url: https://www.linkedin.com/company/vivendi
           - item:
             name: vivo Mobile Communication Co., Ltd. (member)
             homepage_url: https://vivo.com/
@@ -40787,6 +40867,14 @@ landscape:
               linkedin: https://www.linkedin.com/company/zededaedge
             extra:
               linkedin_url: https://www.linkedin.com/company/zededaedge
+          - item:
+            name: Zephr.xyz (member)
+            homepage_url: https://zephr.xyz/
+            logo: zephr.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Zephr.xyz
           - item:
             name: Zesty Tech Ltd. (member)
             homepage_url: https://zesty.co/
