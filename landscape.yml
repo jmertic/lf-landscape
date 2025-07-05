@@ -8664,7 +8664,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/knative/community
+            repo_url: https://github.com/knative/serving
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-03-02'
@@ -8675,7 +8675,7 @@ landscape:
                 project_org: https://github.com/knative
               dev_stats_url: https://insights.linuxfoundation.org/project/knative
             additional_repos:
-              - repo_url: https://github.com/knative/serving
+              - repo_url: https://github.com/knative/community
               - repo_url: https://github.com/knative/eventing
               - repo_url: https://github.com/knative/docs
               - repo_url: https://github.com/knative/client
@@ -8747,7 +8747,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/konveyor/community
+            repo_url: https://github.com/konveyor/move2kube
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-07-26'
@@ -8759,6 +8759,7 @@ landscape:
                 project_org: https://github.com/konveyor
               dev_stats_url: https://insights.linuxfoundation.org/project/konveyor
             additional_repos:
+              - repo_url: https://github.com/konveyor/community
               - repo_url: https://github.com/konveyor/analyzer-lsp
               - repo_url: https://github.com/konveyor/tackle2-hub
               - repo_url: https://github.com/konveyor/operator
@@ -8789,7 +8790,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/Kuadrant/kuadrant-operator
+            repo_url: https://github.com/Kuadrant/authorino
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-06-19'
@@ -8800,8 +8801,8 @@ landscape:
                 project_org: https://github.com/Kuadrant
               dev_stats_url: https://insights.linuxfoundation.org/project/kuadrant
             additional_repos:
+              - repo_url: https://github.com/Kuadrant/kuadrant-operator
               - repo_url: https://github.com/Kuadrant/limitador
-              - repo_url: https://github.com/Kuadrant/authorino
               - repo_url: https://github.com/Kuadrant/architecture
               - repo_url: https://github.com/Kuadrant/wasm-shim
               - repo_url: https://github.com/Kuadrant/policy-machinery
@@ -13976,7 +13977,7 @@ landscape:
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / DevOps, CI:CD & Site Reliability
               - Technology Sector / Web & Application Development
-            repo_url: https://github.com/paketo-buildpacks/samples
+            repo_url: https://github.com/paketo-buildpacks/spring-boot
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-04-21'
@@ -13987,6 +13988,7 @@ landscape:
                 project_org: https://github.com/paketo-buildpacks
               dev_stats_url: https://insights.linuxfoundation.org/project/paketo
             additional_repos:
+              - repo_url: https://github.com/paketo-buildpacks/samples
               - repo_url: https://github.com/paketo-buildpacks/java
               - repo_url: https://github.com/paketo-buildpacks/dotnet-core
               - repo_url: https://github.com/paketo-buildpacks/nodejs
@@ -20201,7 +20203,6 @@ landscape:
               Parent company of Honda R&D America and  Honda R&D Innovations (formerly Honda Silicon Valley Labs)
             second_path:
               - Project Membership / OpenChain Project
-              - Project Membership / Automotive Grade Linux (AGL)
               - Project Membership / The Linux Foundation
               - Project Membership / Xen Project
               - Project Membership / Zephyr Project
@@ -22129,6 +22130,18 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/arrcus-inc
           - item:
+            name: ARTELYS (member)
+            homepage_url: https://artelys.com/
+            logo: artelys.svg
+            description: Artelys specializes in optimization, modeling, and data science, providing a decision support software suite designed to enhance efficiency through 
+              mathematical programming and artificial intelligence.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / LF Energy (LFE)
+            crunchbase: https://www.crunchbase.com/organization/artelys
+            extra:
+              linkedin_url: https://www.linkedin.com/company/artelys
+          - item:
             name: Artian Inc (member)
             homepage_url: https://artian.ai/
             logo: artian_inc.svg
@@ -23304,6 +23317,16 @@ landscape:
             twitter: https://twitter.com/BoozAllen
             extra:
               linkedin_url: https://www.linkedin.com/company/booz-allen-hamilton
+          - item:
+            name: Border0 (member)
+            homepage_url: https://border0.com/
+            logo: border0.svg
+            description: Border0 offers secure access to SSH, Database, and Web servers using Single Sign-On credentials, ensuring frictionless and compliant infrastructure 
+              management.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/border0-inc
           - item:
             name: Bosch (member)
             homepage_url: https://bosch.com/
