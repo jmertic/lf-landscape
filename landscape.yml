@@ -8664,7 +8664,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/knative/serving
+            repo_url: https://github.com/knative/community
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-03-02'
@@ -8675,7 +8675,7 @@ landscape:
                 project_org: https://github.com/knative
               dev_stats_url: https://insights.linuxfoundation.org/project/knative
             additional_repos:
-              - repo_url: https://github.com/knative/community
+              - repo_url: https://github.com/knative/serving
               - repo_url: https://github.com/knative/eventing
               - repo_url: https://github.com/knative/docs
               - repo_url: https://github.com/knative/client
@@ -8747,7 +8747,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/konveyor/move2kube
+            repo_url: https://github.com/konveyor/community
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-07-26'
@@ -8759,7 +8759,6 @@ landscape:
                 project_org: https://github.com/konveyor
               dev_stats_url: https://insights.linuxfoundation.org/project/konveyor
             additional_repos:
-              - repo_url: https://github.com/konveyor/community
               - repo_url: https://github.com/konveyor/analyzer-lsp
               - repo_url: https://github.com/konveyor/tackle2-hub
               - repo_url: https://github.com/konveyor/operator
@@ -10496,7 +10495,7 @@ landscape:
               - Project Group / OpenJS Foundation
               - Industry / Cross-Industry
               - Technology Sector / Web & Application Development
-            repo_url: https://github.com/moment/moment
+            repo_url: https://github.com/moment/luxon
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2019-03-12'
@@ -10507,7 +10506,7 @@ landscape:
                 project_org: https://github.com/moment
               dev_stats_url: https://insights.linuxfoundation.org/project/ojsf-moment
             additional_repos:
-              - repo_url: https://github.com/moment/luxon
+              - repo_url: https://github.com/moment/moment
           - item:
             name: monocle
             homepage_url: https://www.okahu.ai/
@@ -20202,6 +20201,7 @@ landscape:
               Parent company of Honda R&D America and  Honda R&D Innovations (formerly Honda Silicon Valley Labs)
             second_path:
               - Project Membership / OpenChain Project
+              - Project Membership / Automotive Grade Linux (AGL)
               - Project Membership / The Linux Foundation
               - Project Membership / Xen Project
               - Project Membership / Zephyr Project
@@ -37672,8 +37672,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-            organization:
-              name: TCC Consulting Limited
+            crunchbase: https://www.crunchbase.com/organization/tcc-consulting-limited
           - item:
             name: TDT AG (member)
             homepage_url: https://tdt.de/
@@ -41061,17 +41060,6 @@ landscape:
             twitter: https://twitter.com/dnx
             extra:
               linkedin_url: https://www.linkedin.com/company/beijing-institute-of-technology
-          - item:
-            name: Beijing Language and Culture University (member)
-            homepage_url: https://blcu.edu.cn/
-            logo: beijing_language_and_culture_university.svg
-            description: Beijing Language and Culture University (BLCU) is a renowned higher education institution based in Shanghai, China. It offers a wide range of academic 
-              programs and cultural exchange opportunities for students interested in language and culture studies.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / seL4 Foundation
-            organization:
-              name: Beijing Language and Culture University
           - item:
             name: Beijing University of Posts and Telecommunications (BUPT) (member)
             homepage_url: https://bupt.edu.cn/
