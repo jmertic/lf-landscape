@@ -6578,7 +6578,7 @@ landscape:
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/geisa/perf-eval-zeromq
+            repo_url: https://github.com/geisa/conformance
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-11-05'
@@ -7000,7 +7000,7 @@ landscape:
               - Project Group / OpenJS Foundation
               - Industry / Cross-Industry
               - Technology Sector / Web & Application Development
-            repo_url: https://github.com/HospitalRun/hospitalrun
+            repo_url: https://github.com/HospitalRun/hospitalrun-frontend
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2019-03-12'
@@ -7011,7 +7011,7 @@ landscape:
                 project_org: https://github.com/HospitalRun
               dev_stats_url: https://insights.linuxfoundation.org/project/ojsf-hr
             additional_repos:
-              - repo_url: https://github.com/HospitalRun/hospitalrun-frontend
+              - repo_url: https://github.com/HospitalRun/hospitalrun
               - repo_url: https://github.com/HospitalRun/hospitalrun-server
               - repo_url: https://github.com/HospitalRun/components
               - repo_url: https://github.com/HospitalRun/hospitalrun.io
@@ -8604,7 +8604,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/kgateway-dev/community
+            repo_url: https://github.com/kgateway-dev/kgateway
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-03-21'
@@ -8615,7 +8615,7 @@ landscape:
                 project_org: https://github.com/kgateway-dev
               dev_stats_url: https://insights.linuxfoundation.org/project/kgateway
             additional_repos:
-              - repo_url: https://github.com/kgateway-dev/kgateway
+              - repo_url: https://github.com/kgateway-dev/community
           - item:
             name: KiCad
             homepage_url: https://kicad.org/
@@ -18710,6 +18710,24 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs9BQAT
                 charter_url: https://fd.io/docs/tsc/FD.IO-Project-a-Series-of-LF-Projects-LLC-Technical-Charter-12-13-2017-FINAL.pdf
               dev_stats_url: https://insights.linuxfoundation.org/project/fdio-vpp
+          - item:
+            name: VeeR
+            homepage_url: https://chipsalliance.github.io/Cores-VeeR-EL2/html/index.html
+            logo: veer.svg
+            description: The mission of the Project is to develop software optimized for the VeeR CPU family.
+            second_path:
+              - Project Group / CHIPS Alliance Fund
+              - Technology Sector / Open Hardware
+            repo_url: https://github.com/chipsalliance/Cores-VeeR-EL2
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-06-17'
+              annotations:
+                slug: veer
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/veer
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfMZsCIX1uYudAwinl
+                charter_url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/veer/veer_Charter.pdf?v=1751305981355
+              dev_stats_url: https://insights.linuxfoundation.org/project/veer
           - item:
             name: Veracruz
             homepage_url: https://veracruz-project.github.io/
@@ -35160,6 +35178,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/safegraph
           - item:
+            name: Safespring (member)
+            homepage_url: https://safespring.com/
+            logo: safespring.svg
+            description: 'Safespring: Swedish Cloud provider offering Compute, Storage, and Backup services with data sovereignty and competitive advantage.'
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Safespring
+          - item:
             name: SAIC Motor Corporation Ltd (member)
             homepage_url: https://saicmotor.com/
             logo: saic_motor_corporation_ltd.svg
@@ -41368,6 +41395,18 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/chaitanya-bharathi-institute-of-technology
           - item:
+            name: Chalmers University of Technology (member)
+            homepage_url: https://chalmers.se/
+            logo: chalmers_university_of_technology.svg
+            description: Chalmers University of Technology is a progressive university in Gothenburg, Sweden, dedicated to advancing societal issues, fostering innovation, and 
+              contributing to sustainable development through its extensive educational and research programs.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / RISC-V International
+              - Project Membership / Green Software Foundation Fund
+            organization:
+              name: Chalmers University of Technology
+          - item:
             name: China Academy of Information and Communications Technology (CAICT) (member)
             homepage_url: https://caict.ac.cn/
             logo: china_academy_of_information_and_communications_technology_caict.svg
@@ -42685,6 +42724,17 @@ landscape:
             twitter: https://twitter.com/iicgalgotiasuni
             extra:
               linkedin_url: https://www.linkedin.com/company/galgotiasuniversity
+          - item:
+            name: GÉANT Association (member)
+            homepage_url: https://geant.org/
+            logo: geant_association.svg
+            description: GÉANT is the pan-European data network for the research and education community.
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/geant
+            twitter: https://twitter.com/GEANTnews
+            extra:
+              linkedin_url: https://www.linkedin.com/company/geantnetworks
           - item:
             name: Geek.Zone (member)
             homepage_url: https://geek.zone/
