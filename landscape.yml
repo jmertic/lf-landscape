@@ -7000,7 +7000,7 @@ landscape:
               - Project Group / OpenJS Foundation
               - Industry / Cross-Industry
               - Technology Sector / Web & Application Development
-            repo_url: https://github.com/HospitalRun/hospitalrun-frontend
+            repo_url: https://github.com/HospitalRun/hospitalrun
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2019-03-12'
@@ -7011,7 +7011,7 @@ landscape:
                 project_org: https://github.com/HospitalRun
               dev_stats_url: https://insights.linuxfoundation.org/project/ojsf-hr
             additional_repos:
-              - repo_url: https://github.com/HospitalRun/hospitalrun
+              - repo_url: https://github.com/HospitalRun/hospitalrun-frontend
               - repo_url: https://github.com/HospitalRun/hospitalrun-server
               - repo_url: https://github.com/HospitalRun/components
               - repo_url: https://github.com/HospitalRun/hospitalrun.io
@@ -8604,7 +8604,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/kgateway-dev/kgateway
+            repo_url: https://github.com/kgateway-dev/community
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-03-21'
@@ -8615,7 +8615,7 @@ landscape:
                 project_org: https://github.com/kgateway-dev
               dev_stats_url: https://insights.linuxfoundation.org/project/kgateway
             additional_repos:
-              - repo_url: https://github.com/kgateway-dev/community
+              - repo_url: https://github.com/kgateway-dev/kgateway
           - item:
             name: KiCad
             homepage_url: https://kicad.org/
@@ -9436,6 +9436,25 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/lf-energy/artwork
               - repo_url: https://github.com/lf-energy/foundation
+          - item:
+            name: LF Energy Semantic Energy Framework (LFE-SEF)v
+            homepage_url: https://gitlab.inesctec.pt/groups/interconnect-public/-/wikis/home#interconnect-interoperability-framework
+            logo: lf_energy_semantic_energy_framework_lfe_sef_v.svg
+            description: The mission of the Project is to enable semantic interoperability without a centralized facilitator in cross domain challenges related to grids and smart 
+              homes/buildings.
+            second_path:
+              - Project Group / LF Energy (LFE)
+              - Technology Sector / Cross-Technology
+            repo_url: https://gitlab.inesctec.pt/groups/interconnect-public/-/wikis/home#interconnect-interoperability-framework
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-06-30'
+              annotations:
+                slug: interconnect-sif
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/interconnect-sif
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf3FcUytWThvGvfPAw
+                charter_url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/interconnect-sif/interconnect-sif_Charter.pdf?v=1752086606016
+              dev_stats_url: https://insights.linuxfoundation.org/project/interconnect-sif
           - item:
             name: LF Energy Standards and Specifications (LFESS)
             homepage_url: https://www.lfenergy.org/
@@ -14235,6 +14254,44 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs9NQAT
                 charter_url: https://www.opendaylight.org/wp-content/uploads/sites/14/2018/01/ODL-Technical-Charter-LF-Projects-LLC-FINAL.pdf
               dev_stats_url: https://insights.linuxfoundation.org/project/odl-plastic
+          - item:
+            name: Podman Container Tools
+            homepage_url: https://podman.io/
+            logo: podman_container_tools.svg
+            description: The mission of the project is to provide a set of container tools that consists of Podman (the Pod Manager), Buildah, Skopeo as well as a number of smaller
+              tools which are used to manage containers and images, volumes mounted into those containers, and pods made from groups of containers.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/containers/podman
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-02-21'
+              annotations:
+                slug: podman-container-tools
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/podman-container-tools
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfUBbfY8IilecndScQ
+              dev_stats_url: https://insights.linuxfoundation.org/project/podman-container-tools
+          - item:
+            name: Podman Desktop
+            homepage_url: https://podman-desktop.io/
+            logo: podman_desktop.svg
+            description: The mission of the project is to is to provide an open-source tool for developers to work with containers and Kubernetes with an intuitive and 
+              user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes - all from the desktop.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/podman-desktop/podman-desktop
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-02-25'
+              annotations:
+                slug: podman-desktop
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/podman-desktop
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfO8hBIYeFfMuRGip6
+                project_org: https://github.com/podman-desktop
+              dev_stats_url: https://insights.linuxfoundation.org/project/podman-desktop
+            additional_repos: []
           - item:
             name: Portal Platform
             homepage_url: https://wiki.onap.org/x/Z5lk
@@ -26365,6 +26422,7 @@ landscape:
             description: EcoFlow specializes in providing portable power stations and solar panels designed to ensure readiness for power outages and facilitate off-grid living.
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / LF AI & Data
               - Project Membership / LF Energy (LFE)
             organization:
               name: EcoFlow
@@ -26677,6 +26735,16 @@ landscape:
               linkedin: https://www.linkedin.com/company/emma-cloud
             extra:
               linkedin_url: https://www.linkedin.com/company/emma-cloud
+          - item:
+            name: Encora Holdings LLC (member)
+            homepage_url: https://encora.com/
+            logo: encora_holdings_llc.svg
+            description: Encora specializes in delivering customized software engineering solutions and digital product development services to fast-growing technology firms, 
+              leveraging advanced technologies to foster innovation and growth across various industries.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Encora Holdings LLC
           - item:
             name: Energy Web Foundation (member)
             homepage_url: https://energyweb.org/
