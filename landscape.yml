@@ -2069,24 +2069,6 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfEiSdeUldpRPtqBlH
               dev_stats_url: https://insights.linuxfoundation.org/project/chisel
           - item:
-            name: ChubaoFS
-            homepage_url: https://chubao.io/
-            logo: chubaofs.svg
-            description: ChubaoFS is a distributed file system for cloud native applications.
-            second_path:
-              - Project Group / Cloud Native Computing Foundation (CNCF)
-              - Industry / Cross-Industry
-              - Technology Sector / Cloud, Containers & Virtualization
-              - Technology Sector / Storage
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2019-12-17'
-              annotations:
-                slug: chubaofs
-                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/chubaofs
-                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWqP2QAL
-              dev_stats_url: https://insights.linuxfoundation.org/project/chubaofs
-          - item:
             name: Cicero
             homepage_url: https://www.accordproject.org/
             logo: cicero.svg
@@ -3671,6 +3653,24 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/crossplane
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkOXJQA3
               dev_stats_url: https://insights.linuxfoundation.org/project/crossplane
+          - item:
+            name: CubeFS
+            homepage_url: https://chubao.io/
+            logo: cubefs.svg
+            description: CubeFS is a distributed file system for cloud native applications.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Industry / Cross-Industry
+              - Technology Sector / Cloud, Containers & Virtualization
+              - Technology Sector / Storage
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2019-12-17'
+              annotations:
+                slug: chubaofs
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/chubaofs
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWqP2QAL
+              dev_stats_url: https://insights.linuxfoundation.org/project/chubaofs
           - item:
             name: CUPID (Controllable Unit Protocol Interface for DER)
             homepage_url: https://github.com/Horizont-Europe-Interstore
@@ -10328,7 +10328,7 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Industry / Cross-Industry
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/metal3-io/metal3-docs
+            repo_url: https://github.com/metal3-io/baremetal-operator
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-09-08'
@@ -10339,8 +10339,8 @@ landscape:
                 project_org: https://github.com/metal3-io
               dev_stats_url: https://insights.linuxfoundation.org/project/metal3
             additional_repos:
+              - repo_url: https://github.com/metal3-io/metal3-docs
               - repo_url: https://github.com/metal3-io/metal3-dev-env
-              - repo_url: https://github.com/metal3-io/baremetal-operator
               - repo_url: https://github.com/metal3-io/cluster-api-provider-metal3
               - repo_url: https://github.com/metal3-io/ironic-image
               - repo_url: https://github.com/metal3-io/project-infra
@@ -10483,6 +10483,23 @@ landscape:
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ojsf-mocha
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4GZQA1
               dev_stats_url: https://insights.linuxfoundation.org/project/ojsf-mocha
+          - item:
+            name: ModelPack
+            homepage_url: https://github.com/CloudNativeAI/model-spec
+            logo: modelpack.svg
+            description: The mission of the Project is to establish open standards for packaging, distributing and running AI artifacts in a cloud-native environment.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/CloudNativeAI/model-spec
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-07-09'
+              annotations:
+                slug: modelpack
+                calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/modelpack
+                ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfl0MmZSFw7MUXaleS
+              dev_stats_url: https://insights.linuxfoundation.org/project/modelpack
           - item:
             name: MOJA Global Project
             homepage_url: https://moja.global/
@@ -13995,7 +14012,7 @@ landscape:
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / DevOps, CI:CD & Site Reliability
               - Technology Sector / Web & Application Development
-            repo_url: https://github.com/paketo-buildpacks/samples
+            repo_url: https://github.com/paketo-buildpacks/spring-boot
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-04-21'
@@ -14006,6 +14023,7 @@ landscape:
                 project_org: https://github.com/paketo-buildpacks
               dev_stats_url: https://insights.linuxfoundation.org/project/paketo
             additional_repos:
+              - repo_url: https://github.com/paketo-buildpacks/samples
               - repo_url: https://github.com/paketo-buildpacks/java
               - repo_url: https://github.com/paketo-buildpacks/dotnet-core
               - repo_url: https://github.com/paketo-buildpacks/nodejs
@@ -19265,6 +19283,7 @@ landscape:
                 slug: warpx
                 calendar_url: https://zoom-lfx.platform.linuxfoundation.org/meetings/warpx
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfXnv7MiRvhMsnPgUf
+                charter_url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/warpx/warpx_Charter.pdf?v=1752190613785
               dev_stats_url: https://insights.linuxfoundation.org/project/warpx
           - item:
             name: wasmCloud
@@ -34196,6 +34215,20 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/provectus-it-inc
           - item:
+            name: Proven Optics (member)
+            homepage_url: https://provenoptics.com/
+            logo: proven_optics.svg
+            description: Proven Optics offers IT Financial Management solutions on ServiceNow, helping businesses optimize IT spend, improve forecasting accuracy, and align IT with
+              business goals for better outcomes.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / FinOps Foundation
+            organization:
+              name: Proven Optics
+              linkedin: https://www.linkedin.com/company/proven-optics
+            extra:
+              linkedin_url: https://www.linkedin.com/company/proven-optics
+          - item:
             name: ProximaOps LLC (member)
             homepage_url: https://proximaops.io/
             logo: proximaops_llc.svg
@@ -38895,19 +38928,6 @@ landscape:
             twitter: https://twitter.com/unraveldata
             extra:
               linkedin_url: https://www.linkedin.com/company/unravel-data
-          - item:
-            name: Unryo Inc (member)
-            homepage_url: https://unryo.com/
-            logo: unryo_inc.svg
-            description: Unryo is a leading provider of performance monitoring and observability solutions. Their platform allows users to monitor network, logs, servers, 
-              applications, clouds, and databases with near zero maintenance and no vendor lock-in. Unryo's modern stack...
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-              - Project Membership / Camara Fund
-            crunchbase: https://www.crunchbase.com/organization/unryo
-            extra:
-              linkedin_url: https://www.linkedin.com/company/unryo
           - item:
             name: Upbound, Inc. (member)
             homepage_url: https://upbound.io/
@@ -45296,6 +45316,7 @@ landscape:
             second_path:
               - Project Membership / OpenAPI Initiative
               - Project Membership / The Linux Foundation
+              - Project Membership / Overture Maps Foundation Fund
             crunchbase: https://www.crunchbase.com/organization/open-travel
             twitter: https://twitter.com/OpenTravel
             extra:
