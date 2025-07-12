@@ -7638,6 +7638,7 @@ landscape:
               - Technology Sector / DevOps, CI:CD & Site Reliability
               - Technology Sector / Web & Application Development
               - Technology Sector / Privacy & Security
+            repo_url: https://github.com/in-toto/in-toto
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2019-08-21'
@@ -9363,7 +9364,7 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wByYAAU
                 project_org: https://github.com/hyperledger
               dev_stats_url: https://insights.linuxfoundation.org/project/lf-decentralized-trust
-              youtube_url: https://www.youtube.com/c/Hyperledger
+              youtube_url: https://www.youtube.com/@lfdecentralizedtrust
               linkedin_url: https://www.linkedin.com/company/hyperledger-project
             additional_repos: []
           - item:
@@ -9384,8 +9385,7 @@ landscape:
                 ical_url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkG7WQAV
                 project_org: https://github.com/LF-Decentralized-Trust-labs
               dev_stats_url: https://insights.linuxfoundation.org/project/lf-decentralized-trust-labs
-            additional_repos:
-              - repo_url: https://github.com/LF-Decentralized-Trust-labs/governance
+            additional_repos: []
           - item:
             name: LF Edge
             homepage_url: https://www.lfedge.org/
@@ -10328,7 +10328,7 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Industry / Cross-Industry
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/metal3-io/baremetal-operator
+            repo_url: https://github.com/metal3-io/metal3-docs
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-09-08'
@@ -10339,8 +10339,8 @@ landscape:
                 project_org: https://github.com/metal3-io
               dev_stats_url: https://insights.linuxfoundation.org/project/metal3
             additional_repos:
-              - repo_url: https://github.com/metal3-io/metal3-docs
               - repo_url: https://github.com/metal3-io/metal3-dev-env
+              - repo_url: https://github.com/metal3-io/baremetal-operator
               - repo_url: https://github.com/metal3-io/cluster-api-provider-metal3
               - repo_url: https://github.com/metal3-io/ironic-image
               - repo_url: https://github.com/metal3-io/project-infra
@@ -13344,10 +13344,9 @@ landscape:
             name: OperatorFabric
             homepage_url: https://www.lfenergy.org/projects/operatorfabric/
             logo: operatorfabric.svg
-            description: |-
-              OperatorFabric is a modular, extensible, industrial-strength platform for use in electricity, water, and other utility operations. It aims to facilitate operational activities for utilities in two ways:
-              - Centralize real time business events in a single place to avoid having multiple screens/software.
-              - Facilitate interactions between operational control centers.
+            description: OperatorFabric is a modular, extensible, industrial-strength platform for use in electricity, water, and other utility operations. It aims to facilitate 
+              operational activities for utilities by centralizing real-time business events in a single place to avoid having multiple screens/software and facilitating 
+              interactions between operational control centers.
             second_path:
               - Project Group / LF Energy (LFE)
               - Industry / Energy & Climate
@@ -14012,7 +14011,7 @@ landscape:
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / DevOps, CI:CD & Site Reliability
               - Technology Sector / Web & Application Development
-            repo_url: https://github.com/paketo-buildpacks/spring-boot
+            repo_url: https://github.com/paketo-buildpacks/samples
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-04-21'
@@ -14023,7 +14022,6 @@ landscape:
                 project_org: https://github.com/paketo-buildpacks
               dev_stats_url: https://insights.linuxfoundation.org/project/paketo
             additional_repos:
-              - repo_url: https://github.com/paketo-buildpacks/samples
               - repo_url: https://github.com/paketo-buildpacks/java
               - repo_url: https://github.com/paketo-buildpacks/dotnet-core
               - repo_url: https://github.com/paketo-buildpacks/nodejs
@@ -25946,8 +25944,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-            organization:
-              name: DevHub LLC
+            crunchbase: https://www.crunchbase.com/organization/devhub-3cb2
           - item:
             name: Devtron Inc. (member)
             homepage_url: https://devtron.ai/
@@ -28431,7 +28428,7 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/hcl-technologies
           - item:
             name: Hedera Foundation (member)
-            homepage_url: https://hedera.com/
+            homepage_url: https://hedera.foundation/
             logo: hedera_foundation.svg
             description: 53 employees
             second_path:
@@ -29106,6 +29103,16 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/infisical
             extra:
               linkedin_url: https://www.linkedin.com/company/infisical
+          - item:
+            name: Influence IPM (member)
+            homepage_url: https://influenceipm.com/
+            logo: influence_ipm.svg
+            description: Influence IPM is dedicated to providing comprehensive project management services that help clients effectively integrate project management techniques 
+              into their business operations through a structured approach utilizing a variety of tools, processes...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Influence IPM
           - item:
             name: InfluxData Inc (member)
             homepage_url: https://influxdata.com/
@@ -33970,6 +33977,19 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/postman-platform
           - item:
+            name: Powerleader Computer system co,.ltd (member)
+            homepage_url: https://powerleader.com.cn/
+            logo: powerleader_computer_system_co.svg
+            description: Powerleader Computer System Co., Ltd, known as Powerleader, is a Chinese server brand established in 1999. Specializing in AI, storage, liquid cooling, and
+              edge computing solutions, Powerleader offers a wide range of products including AI training serv...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Powerleader Computer system co,.ltd
+              linkedin: https://www.linkedin.com/company/powerleader-computer-system-co-ltd
+            extra:
+              linkedin_url: https://www.linkedin.com/company/powerleader-computer-system-co-ltd
+          - item:
             name: Praetorian Security Inc (member)
             homepage_url: https://praetorian.com/
             logo: praetorian_security_inc.svg
@@ -34251,6 +34271,45 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/ps-internet-company
             extra:
               linkedin_url: https://www.linkedin.com/company/pskzcompany
+          - item:
+            name: PTC Inc. (member)
+            homepage_url: https://ptc.com/
+            logo: ptc_inc.svg
+            description: |-
+              About us
+              PTC (NASDAQ: PTC) is a global provider of technology platforms and solutions that transform how companies create, operate, and service the "things"​ in the Internet of Things (IoT). The company's next-generation ThingWorx® technology platform gives developers the tools they need to capture, analyze, and capitalize on the vast amounts of data being generated by smart, connected products and systems. The company's field-proven solutions are deployed in more than 26,000 businesses worldwide to generate a product or service advantage. PTC's award-winning CEO, considered an industry thought leader, co-authored the definitive guides to the impact of the IoT on business in the Harvard Business Review.
+               
+              All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status
+
+              Recent updateSee all See all recent updates
+              Image accompanying recent update
+              PTC Launches Cybersecurity Initiative
+
+              ptc.com
+
+              18 Likes
+              Company details
+              Website
+              http://ptc.co/LqfS30dDmFc
+              Headquarters
+              Needham, Ma
+
+              Year founded
+              1985
+
+              Company type
+              Public Company
+
+              Company size
+              5,001-10,000 employees
+              Specialties
+              Product Development Solutions, PLM - Product Lifecycle Management, Quality Management, Regulatory Compliance, CAD- Computer Aided Design, Internet of Things, Application Lifecycle Management, Service Lifecycle Management, Supply Chain Management, and Augmented Reality
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/parametric-technology
+            twitter: https://twitter.com/PTC
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ptc
           - item:
             name: PTV Group (member)
             homepage_url: https://ptvgroup.com/
@@ -40452,6 +40511,7 @@ landscape:
             logo: ybor.svg
             description: 'The Ybor AI Platform: Enterprise software made easy. Accelerate AI software development with extreme automation.'
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             organization:
               name: Ybor.AI
