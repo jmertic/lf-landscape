@@ -9718,7 +9718,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/knative/community
+            repo_url: https://github.com/knative/serving
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-03-02'
@@ -9732,7 +9732,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkSNoQAN
             additional_repos:
-              - repo_url: https://github.com/knative/serving
+              - repo_url: https://github.com/knative/community
               - repo_url: https://github.com/knative/eventing
               - repo_url: https://github.com/knative/docs
               - repo_url: https://github.com/knative/client
@@ -9808,7 +9808,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/konveyor/community
+            repo_url: https://github.com/konveyor/move2kube
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-07-26'
@@ -9822,6 +9822,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L18vrQAB
             additional_repos:
+              - repo_url: https://github.com/konveyor/community
               - repo_url: https://github.com/konveyor/analyzer-lsp
               - repo_url: https://github.com/konveyor/tackle2-hub
               - repo_url: https://github.com/konveyor/operator
@@ -11800,7 +11801,7 @@ landscape:
               - Project Group / OpenJS Foundation
               - Industry / Cross-Industry
               - Technology Sector / Web & Application Development
-            repo_url: https://github.com/moment/luxon
+            repo_url: https://github.com/moment/moment
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2019-03-12'
@@ -11814,7 +11815,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4GeQAL
             additional_repos:
-              - repo_url: https://github.com/moment/moment
+              - repo_url: https://github.com/moment/luxon
           - item:
             name: monocle
             homepage_url: https://www.okahu.ai/
@@ -12086,6 +12087,25 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWsAoQAL
                 - name: Charter
                   url: https://www.opendaylight.org/wp-content/uploads/sites/14/2018/01/ODL-Technical-Charter-LF-Projects-LLC-FINAL.pdf
+          - item:
+            name: Netdev Foundation
+            homepage_url: https://github.com/linux-netdev/foundation
+            logo: netdev_foundation.svg
+            description: The purpose of the Netdev Foundation (the “Directed Fund”) is to raise, budget and spend funds in support of the support testing Linux networking, including testing of current and LTS kernel releases on heterogeneous hardware to enable uniform system behavior across vendor platforms in accordance with the provisions of this Charter.
+            second_path:
+              - Project Group / The Linux Foundation
+              - Technology Sector / Linux Kernel
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-01-08'
+              annotations:
+                slug: netdev-foundation
+              dev_stats_url: https://insights.linuxfoundation.org/project/netdev-foundation
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/netdev-foundation
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfWORDoyKiHQEghWHZ
           - item:
             name: NetVirt
             homepage_url: https://wiki.opendaylight.org/display/ODL/NetVirt
@@ -20469,17 +20489,20 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Industry / Cross-Industry
               - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/tremor/Nightscout2ePaper
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-09-08'
               annotations:
                 slug: tremor
+                project_org: https://github.com/tremor
               dev_stats_url: https://insights.linuxfoundation.org/project/tremor
               other_links:
                 - name: Calendar
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/tremor
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkYIpQAN
+            additional_repos: []
           - item:
             name: TrestleGRC
             homepage_url: https://oscal-compass.github.io/compliance-trestle/
@@ -31110,16 +31133,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/infisical
           - item:
-            name: Influence IPM (member)
-            homepage_url: https://influenceipm.com/
-            logo: influence_ipm.svg
-            description: Influence IPM is dedicated to providing comprehensive project management services that help clients effectively integrate project management techniques into their business operations through a structured approach utilizing a variety of tools, processes...
-            second_path:
-              - Project Membership / SPDX
-              - Project Membership / The Linux Foundation
-            organization:
-              name: Influence IPM
-          - item:
             name: InfluxData Inc (member)
             homepage_url: https://influxdata.com/
             logo: influxdata_inc.svg
@@ -37620,16 +37633,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/sernet-gmbh
           - item:
-            name: ServeTheWorld AS (member)
-            homepage_url: https://servetheworld.net/
-            logo: servetheworld_as.svg
-            description: ServeTheWorld offer large web hosting packages that support WordPress, Joomla and more. The services are load-balanced, resulting in web and e-mail service redundancy.
-            second_path:
-              - Project Membership / The Linux Foundation
-            twitter: https://twitter.com/servetheworldas
-            organization:
-              name: ServeTheWorld AS
-          - item:
             name: servicememe (member)
             homepage_url: https://servicememe.com/
             logo: servicememe.svg
@@ -37739,6 +37742,20 @@ landscape:
             twitter: https://twitter.com/SHEBASHIO
             extra:
               linkedin_url: https://www.linkedin.com/company/shebash
+          - item:
+            name: Shenzhen Jaguar Microsystems Co., Ltd. (member)
+            homepage_url: https://jaguarmicro.com/
+            logo: shenzhen_jaguar_microsystems_co_ltd.svg
+            description: Jaguar Microsystems is a leading semiconductor company that specializes in developing data processing units (DPUs) and advanced silicon solutions for modern data centers.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / RISC-V International
+              - Project Membership / Ultra Ethernet Consortium Fund
+            organization:
+              name: Shenzhen Jaguar Microsystems Co., Ltd.
+              linkedin: https://www.linkedin.com/company/jaguarmicro
+            extra:
+              linkedin_url: https://www.linkedin.com/company/jaguarmicro
           - item:
             name: Shenzhen Wise2C Technology Co.,Ltd (member)
             homepage_url: https://wise2c.com/
