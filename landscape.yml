@@ -6948,7 +6948,6 @@ landscape:
                   url: https://github.com/openmainframeproject/foundation/blob/main/project_charters/galasa_charter.pdf
             additional_repos:
               - repo_url: https://github.com/galasa-dev/simplatform
-              - repo_url: https://github.com/galasa-dev/galasa.dev
               - repo_url: https://github.com/galasa-dev/galasa
               - repo_url: https://github.com/galasa-dev/helm
               - repo_url: https://github.com/galasa-dev/webui
@@ -9718,7 +9717,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/knative/serving
+            repo_url: https://github.com/knative/community
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-03-02'
@@ -9732,7 +9731,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkSNoQAN
             additional_repos:
-              - repo_url: https://github.com/knative/community
+              - repo_url: https://github.com/knative/serving
               - repo_url: https://github.com/knative/eventing
               - repo_url: https://github.com/knative/docs
               - repo_url: https://github.com/knative/client
@@ -9808,7 +9807,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/konveyor/move2kube
+            repo_url: https://github.com/konveyor/community
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-07-26'
@@ -9822,7 +9821,6 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L18vrQAB
             additional_repos:
-              - repo_url: https://github.com/konveyor/community
               - repo_url: https://github.com/konveyor/analyzer-lsp
               - repo_url: https://github.com/konveyor/tackle2-hub
               - repo_url: https://github.com/konveyor/operator
@@ -11801,7 +11799,7 @@ landscape:
               - Project Group / OpenJS Foundation
               - Industry / Cross-Industry
               - Technology Sector / Web & Application Development
-            repo_url: https://github.com/moment/moment
+            repo_url: https://github.com/moment/luxon
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2019-03-12'
@@ -11815,7 +11813,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4GeQAL
             additional_repos:
-              - repo_url: https://github.com/moment/luxon
+              - repo_url: https://github.com/moment/moment
           - item:
             name: monocle
             homepage_url: https://www.okahu.ai/
@@ -23152,18 +23150,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ada-logics
           - item:
-            name: Adaptech Group (member)
-            homepage_url: https://adaptechgroup.com/
-            logo: adaptech_group.svg
-            description: Adaptech Group is a consultancy that specializes in delivering modern software solutions for event driven information systems. Their event based, tech agnostic approach produces elegant, transparent, and easily maintained solutions that align with thei...
-            second_path:
-              - Project Membership / The Linux Foundation
-            organization:
-              name: Adaptech Group
-              linkedin: https://www.linkedin.com/company/adaptechgroup
-            extra:
-              linkedin_url: https://www.linkedin.com/company/adaptechgroup
-          - item:
             name: Adaptive6 (member)
             homepage_url: https://adaptive6.com/
             logo: adaptive6.svg
@@ -27662,9 +27648,9 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/ctrlstack
           - item:
             name: cuegee it (member)
-            homepage_url: https://cuegee.com/
+            homepage_url: https://dachs-it.de/
             logo: cuegee_it.svg
-            description: cuegee it
+            description: DACHS IT GMBH
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -31597,6 +31583,7 @@ landscape:
             description: Invary specializes in providing advanced runtime integrity solutions that enhance security by detecting threats to operating systems that are often overlooked by other security measures.
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / Confidential Computing Consortium (CCC)
               - Project Membership / Confidential Computing Consortium (CCC)
             organization:
               name: Invary
@@ -38741,7 +38728,6 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-              - Project Membership / FinOps Foundation
             crunchbase: https://www.crunchbase.com/organization/kubecost
             twitter: https://twitter.com/kubecost
             extra:
@@ -40976,6 +40962,7 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / LF Edge
               - Project Membership / Linux Foundation Europe
+              - Project Membership / Sylva Fund
               - Project Membership / Camara Fund
             crunchbase: https://www.crunchbase.com/organization/vodafone
             twitter: https://twitter.com/VodafoneGroup
@@ -43035,6 +43022,16 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cispi
             extra:
               linkedin_url: https://www.linkedin.com/company/cispisrael
+          - item:
+            name: ClimateAction.Tech (member)
+            homepage_url: https://climateaction.tech/
+            logo: climateaction.svg
+            description: ClimateAction.Tech is a global tech worker community dedicated to taking and accelerating climate action. They provide support and guidance for systemic change in organizations and industries to address the climate crisis. Through community conversatio...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Green Software Foundation Fund
+            organization:
+              name: ClimateAction.Tech
           - item:
             name: CloudGraph by AutoCloud (member)
             homepage_url: https://cloudgraph.dev/
