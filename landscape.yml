@@ -5087,27 +5087,6 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWjDZQA1
           - item:
-            name: DizmeID Foundation
-            homepage_url: https://www.dizme.io/
-            logo: dizmeid_foundation.svg
-            description: The DizmeID Foundation is focused on enabling a self-sovereign identity credentialing system.
-            second_path:
-              - Project Group / The Linux Foundation
-              - PMO Managed / All
-              - Industry / Cross-Industry
-              - Technology Sector / Blockchain
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2021-02-24'
-              annotations:
-                slug: dizme
-              dev_stats_url: https://insights.linuxfoundation.org/project/dizme
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/dizme
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkV7DQAV
-          - item:
             name: DizmeID Project
             homepage_url: https://www.dizme.io/
             logo: dizmeid_project.svg
@@ -11567,7 +11546,7 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Industry / Cross-Industry
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/metal3-io/metal3-docs
+            repo_url: https://github.com/metal3-io/baremetal-operator
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-09-08'
@@ -11581,8 +11560,8 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkYIlQAN
             additional_repos:
+              - repo_url: https://github.com/metal3-io/metal3-docs
               - repo_url: https://github.com/metal3-io/metal3-dev-env
-              - repo_url: https://github.com/metal3-io/baremetal-operator
               - repo_url: https://github.com/metal3-io/cluster-api-provider-metal3
               - repo_url: https://github.com/metal3-io/ironic-image
               - repo_url: https://github.com/metal3-io/project-infra
@@ -18562,25 +18541,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/software-enabled-flash
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkV8VQAV
-          - item:
-            name: Software-Enabled Flash Fund
-            homepage_url: https://www.softwareenabledflash.org/
-            logo: software_enabled_flash_fund.svg
-            description: A directed fund to support the Software Enabled Flash technical project.
-            second_path:
-              - Project Group / The Linux Foundation
-              - Technology Sector / Storage
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2021-12-01'
-              annotations:
-                slug: sef
-              dev_stats_url: https://insights.linuxfoundation.org/project/sef
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/sef
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkImDQAV
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/software-enabled-flash/software-enabled-flash_Charter.pdf?v=1752773642524
           - item:
             name: Software Updates Working Group (WG)
             homepage_url: https://wiki.linuxfoundation.org/civilinfrastructureplatform/cip-sw-updates
@@ -22349,7 +22311,6 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / LF Networking (LFN)
               - Project Membership / LF AI & Data
-              - Project Membership / LF Edge
               - Project Membership / Confidential Computing Consortium (CCC)
               - Project Membership / Open Source Security Foundation (OpenSSF)
               - Project Membership / Open Programmable Infrastructure Fund
@@ -22389,7 +22350,6 @@ landscape:
               - Project Membership / Open Container Initiative (OCI)
               - Project Membership / OpenChain Project
               - Project Membership / OpenHPC Project
-              - Project Membership / LF Decentralized Trust
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / Data Plane Development Kit (DPDK)
@@ -27710,7 +27670,7 @@ landscape:
             name: DACHS IT GMBH (member)
             homepage_url: https://dachs-it.de/
             logo: dachs_it_gmbh.svg
-            description: DACHS IT GMBH
+            description: 'DACHS IT GMBH (until 2025-07: cuegee it gmbh)'
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -31582,7 +31542,6 @@ landscape:
             description: Invary specializes in providing advanced runtime integrity solutions that enhance security by detecting threats to operating systems that are often overlooked by other security measures.
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / Confidential Computing Consortium (CCC)
               - Project Membership / Confidential Computing Consortium (CCC)
             organization:
               name: Invary
