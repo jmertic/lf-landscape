@@ -10450,7 +10450,7 @@ landscape:
               - PMO Managed / All
               - Industry / Cross-Industry
               - Technology Sector / Blockchain
-            repo_url: https://github.com/hyperledger/governance
+            repo_url: https://github.com/hyperledger/fabric
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/Hyperledger
             extra:
@@ -10466,7 +10466,8 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wByYAAU
               youtube_url: https://www.youtube.com/@lfdecentralizedtrust
               linkedin_url: https://www.linkedin.com/company/hyperledger-project
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/hyperledger/governance
           - item:
             name: LF Decentralized Trust Labs
             homepage_url: https://lf-decentralized-trust-labs.github.io/
@@ -10553,11 +10554,11 @@ landscape:
             extra:
               accepted: '2025-06-30'
               annotations:
-                slug: interconnect-sif
-              dev_stats_url: https://insights.linuxfoundation.org/project/interconnect-sif
+                slug: lfe-sef
+              dev_stats_url: https://insights.linuxfoundation.org/project/lfe-sef
               other_links:
                 - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/interconnect-sif
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/lfe-sef
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf3FcUytWThvGvfPAw
                 - name: Charter
@@ -11546,7 +11547,7 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Industry / Cross-Industry
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/metal3-io/baremetal-operator
+            repo_url: https://github.com/metal3-io/metal3-docs
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-09-08'
@@ -11560,8 +11561,8 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkYIlQAN
             additional_repos:
-              - repo_url: https://github.com/metal3-io/metal3-docs
               - repo_url: https://github.com/metal3-io/metal3-dev-env
+              - repo_url: https://github.com/metal3-io/baremetal-operator
               - repo_url: https://github.com/metal3-io/cluster-api-provider-metal3
               - repo_url: https://github.com/metal3-io/ironic-image
               - repo_url: https://github.com/metal3-io/project-infra
@@ -14299,12 +14300,7 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openprint
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wBytAAE
-            additional_repos:
-              - repo_url: https://github.com/OpenPrinting/cups-filters
-              - repo_url: https://github.com/OpenPrinting/libcups
-              - repo_url: https://github.com/OpenPrinting/cups-local
-              - repo_url: https://github.com/OpenPrinting/cups-snap
-              - repo_url: https://github.com/OpenPrinting/libcupsfilters
+            additional_repos: []
           - item:
             name: OpenPrinting CUPS
             homepage_url: https://openprinting.github.io/projects/00-cups/
@@ -16121,9 +16117,7 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/pqca
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NWnfNQAT
-            additional_repos:
-              - repo_url: https://github.com/PQCA/documentation
-              - repo_url: https://github.com/PQCA/governance
+            additional_repos: []
           - item:
             name: Power Grid Model
             homepage_url: https://github.com/PowerGridModel
@@ -16366,8 +16360,7 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/px4
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV48aQAD
-            additional_repos:
-              - repo_url: https://github.com/PX4/PX4-user_guide
+            additional_repos: []
           - item:
             name: Pyro
             homepage_url: https://pyro.ai/
@@ -23664,17 +23657,6 @@ landscape:
             organization:
               name: Almaviva S.p.A.
           - item:
-            name: Alpha Business Solutions Private Limited (member)
-            homepage_url: https://alphabsolutions.com/
-            logo: alpha_business_solutions_private_limited.svg
-            description: Alpha Business Solutions is a software and design company that builds powerful, process-based applications to solve everyday business problems. They offer IT services and consulting, web development, and custom application development.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/alpha-business-solutions-8221
-            extra:
-              linkedin_url: https://www.linkedin.com/company/alpha-business-solutions-private-limited
-          - item:
             name: Alpha Networks Inc. (member)
             homepage_url: https://alphanetworks.com/
             logo: alpha_networks_inc.svg
@@ -26726,9 +26708,7 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / FinOps Foundation
-            organization:
-              name: Cloudchipr
-              linkedin: https://www.linkedin.com/company/cloudchipr
+            crunchbase: https://www.crunchbase.com/organization/cloudchipr
             extra:
               linkedin_url: https://www.linkedin.com/company/cloudchipr
           - item:
@@ -34154,19 +34134,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/network-optix
           - item:
-            name: Neural Magic (member)
-            homepage_url: https://neuralmagic.com/
-            logo: neural_magic.svg
-            description: Neural Magic develops cutting-edge sparsification tools for NLP and computer vision models, enabling the fastest AI deployment on CPUs with unrivaled efficiency and performance.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / LF AI & Data
-            organization:
-              name: Neural Magic
-              linkedin: https://www.linkedin.com/company/neural-magic
-            extra:
-              linkedin_url: https://www.linkedin.com/company/neural-magic
-          - item:
             name: NeuReality Ltd (member)
             homepage_url: https://neureality.ai/
             logo: neureality_ltd.svg
@@ -37720,8 +37687,7 @@ landscape:
               - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
               - Project Membership / Confidential Computing Consortium (CCC)
-            organization:
-              name: Shielded Technologies
+            crunchbase: https://www.crunchbase.com/organization/shielded-technologies
           - item:
             name: ShineSoft Co. Ltd. (member)
             homepage_url: https://shinesoft.co.jp/
@@ -41921,8 +41887,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-            organization:
-              name: Ybor.AI
+            crunchbase: https://www.crunchbase.com/organization/ybor-technology-llc
           - item:
             name: Yellowbrick Data (member)
             homepage_url: https://yellowbrick.com/
