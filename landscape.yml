@@ -9696,7 +9696,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/knative/community
+            repo_url: https://github.com/knative/serving
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-03-02'
@@ -9710,7 +9710,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkSNoQAN
             additional_repos:
-              - repo_url: https://github.com/knative/serving
+              - repo_url: https://github.com/knative/community
               - repo_url: https://github.com/knative/eventing
               - repo_url: https://github.com/knative/docs
               - repo_url: https://github.com/knative/client
@@ -9786,7 +9786,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/konveyor/community
+            repo_url: https://github.com/konveyor/move2kube
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-07-26'
@@ -9800,6 +9800,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L18vrQAB
             additional_repos:
+              - repo_url: https://github.com/konveyor/community
               - repo_url: https://github.com/konveyor/analyzer-lsp
               - repo_url: https://github.com/konveyor/tackle2-hub
               - repo_url: https://github.com/konveyor/operator
@@ -9832,7 +9833,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/Kuadrant/kuadrant-operator
+            repo_url: https://github.com/Kuadrant/authorino
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-06-19'
@@ -9846,8 +9847,8 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf6cLOjRkdX60xl0l4
             additional_repos:
+              - repo_url: https://github.com/Kuadrant/kuadrant-operator
               - repo_url: https://github.com/Kuadrant/limitador
-              - repo_url: https://github.com/Kuadrant/authorino
               - repo_url: https://github.com/Kuadrant/architecture
               - repo_url: https://github.com/Kuadrant/wasm-shim
               - repo_url: https://github.com/Kuadrant/policy-machinery
@@ -10450,7 +10451,7 @@ landscape:
               - PMO Managed / All
               - Industry / Cross-Industry
               - Technology Sector / Blockchain
-            repo_url: https://github.com/hyperledger/fabric
+            repo_url: https://github.com/hyperledger/governance
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/Hyperledger
             extra:
@@ -10466,8 +10467,7 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wByYAAU
               youtube_url: https://www.youtube.com/@lfdecentralizedtrust
               linkedin_url: https://www.linkedin.com/company/hyperledger-project
-            additional_repos:
-              - repo_url: https://github.com/hyperledger/governance
+            additional_repos: []
           - item:
             name: LF Decentralized Trust Labs
             homepage_url: https://lf-decentralized-trust-labs.github.io/
@@ -14300,7 +14300,12 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openprint
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wBytAAE
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/OpenPrinting/cups-filters
+              - repo_url: https://github.com/OpenPrinting/libcups
+              - repo_url: https://github.com/OpenPrinting/cups-local
+              - repo_url: https://github.com/OpenPrinting/cups-snap
+              - repo_url: https://github.com/OpenPrinting/libcupsfilters
           - item:
             name: OpenPrinting CUPS
             homepage_url: https://openprinting.github.io/projects/00-cups/
@@ -16117,7 +16122,9 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/pqca
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NWnfNQAT
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/PQCA/documentation
+              - repo_url: https://github.com/PQCA/governance
           - item:
             name: Power Grid Model
             homepage_url: https://github.com/PowerGridModel
@@ -16360,7 +16367,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/px4
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV48aQAD
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/PX4/PX4-user_guide
           - item:
             name: Pyro
             homepage_url: https://pyro.ai/
