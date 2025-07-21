@@ -6834,9 +6834,9 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wByXAAU
             additional_repos:
-              - repo_url: https://github.com/fossology/Nirjas
               - repo_url: https://github.com/fossology/atarashi
               - repo_url: https://github.com/fossology/FOSSologyUI
+              - repo_url: https://github.com/fossology/fossology-python
           - item:
             name: FRRouting
             homepage_url: https://frrouting.org/
@@ -9696,7 +9696,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/knative/serving
+            repo_url: https://github.com/knative/community
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-03-02'
@@ -9710,7 +9710,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkSNoQAN
             additional_repos:
-              - repo_url: https://github.com/knative/community
+              - repo_url: https://github.com/knative/serving
               - repo_url: https://github.com/knative/eventing
               - repo_url: https://github.com/knative/docs
               - repo_url: https://github.com/knative/client
@@ -9786,7 +9786,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/konveyor/move2kube
+            repo_url: https://github.com/konveyor/community
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-07-26'
@@ -9800,7 +9800,6 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L18vrQAB
             additional_repos:
-              - repo_url: https://github.com/konveyor/community
               - repo_url: https://github.com/konveyor/analyzer-lsp
               - repo_url: https://github.com/konveyor/tackle2-hub
               - repo_url: https://github.com/konveyor/operator
@@ -9833,7 +9832,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/Kuadrant/authorino
+            repo_url: https://github.com/Kuadrant/kuadrant-operator
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-06-19'
@@ -9847,8 +9846,8 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf6cLOjRkdX60xl0l4
             additional_repos:
-              - repo_url: https://github.com/Kuadrant/kuadrant-operator
               - repo_url: https://github.com/Kuadrant/limitador
+              - repo_url: https://github.com/Kuadrant/authorino
               - repo_url: https://github.com/Kuadrant/architecture
               - repo_url: https://github.com/Kuadrant/wasm-shim
               - repo_url: https://github.com/Kuadrant/policy-machinery
