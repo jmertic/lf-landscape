@@ -9630,7 +9630,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/kgateway-dev/community
+            repo_url: https://github.com/kgateway-dev/kgateway
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-03-21'
@@ -9644,7 +9644,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf8xN6K6pdCF7GbfgN
             additional_repos:
-              - repo_url: https://github.com/kgateway-dev/kgateway
+              - repo_url: https://github.com/kgateway-dev/community
           - item:
             name: KiCad
             homepage_url: https://kicad.org/
@@ -16366,8 +16366,7 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/px4
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV48aQAD
-            additional_repos:
-              - repo_url: https://github.com/PX4/PX4-user_guide
+            additional_repos: []
           - item:
             name: Pyro
             homepage_url: https://pyro.ai/
@@ -24334,7 +24333,6 @@ landscape:
             logo: arcium_association.svg
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / Confidential Computing Consortium (CCC)
             organization:
               name: Arcium Association
           - item:
@@ -30524,16 +30522,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/hexagon-ab
           - item:
-            name: Highlight (member)
-            homepage_url: https://highlight.io/
-            logo: highlight.svg
-            description: Highlight is an open source monitoring platform that provides visibility into the errors, session replay, logs, and more of your full stack web application.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-              - Project Membership / FinOps Foundation
-            crunchbase: https://www.crunchbase.com/organization/highlight-9498
-          - item:
             name: Homestyler (Shanghai) Techonology Co., Ltd (member)
             homepage_url: https://homestyler.com/
             logo: homestyler_shanghai_techonology_co.svg
@@ -33358,7 +33346,6 @@ landscape:
             logo: mercedes_benz_tech_innovation_gmbh.svg
             description: '100 % Tech Company, 100 % Mercedes-Benz: As a subsidiary, we develop software solutions exclusively for Mercedes-Benz.'
             second_path:
-              - Project Membership / Automotive Grade Linux (AGL)
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / Green Software Foundation Fund
@@ -33800,18 +33787,6 @@ landscape:
             twitter: https://twitter.com/MorganStanley
             extra:
               linkedin_url: https://www.linkedin.com/company/morgan-stanley
-          - item:
-            name: Morpheus Data (member)
-            homepage_url: https://morpheusdata.com/
-            logo: morpheus_data.svg
-            description: Morpheus Data is a cloud application management and orchestration platform that allows developers to deploy and manage applications on any infrastructure, including public, private and hybrid clouds as well as on-premise infrastructures. Morpheus Data was founded in 2014 and has its headquarters based in Denver, Colorado.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/morpheus
-            twitter: https://twitter.com/MorpheusData
-            extra:
-              linkedin_url: https://www.linkedin.com/company/morpheusdata
           - item:
             name: Motorola Solutions (member)
             homepage_url: https://motorolasolutions.com/
@@ -48088,7 +48063,6 @@ landscape:
             second_path:
               - Project Membership / LF Decentralized Trust
               - Project Membership / SPDX
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / Confidential Computing Consortium (CCC)
               - Project Membership / Open Source Security Foundation (OpenSSF)
