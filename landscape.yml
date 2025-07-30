@@ -256,7 +256,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWr88QAD
                 - name: Charter
-                  url: https://lfai.foundation/about/charter/
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/adlik%20technical%20charter_11.19.19.pdf
           - item:
             name: Adversarial Robustness Toolbox
             homepage_url: https://adversarial-robustness-toolbox.org/
@@ -428,6 +428,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/aiexplainability
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkOX7QAN
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/ai%20explainability%20360_09.16.20.pdf
           - item:
             name: AI Fairness 360
             homepage_url: https://ai-fairness-360.org/
@@ -448,6 +450,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/aifairness
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkOX8QAN
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/ai%20fairness%20360_09.16.20.pdf
           - item:
             name: AI Governance Framework
             homepage_url: https://air-governance-framework.finos.org/
@@ -785,6 +789,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/Amundsen
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkNE7QAN
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/amundsen%20technical%20charter_08.10.20.pdf
           - item:
             name: Angel
             homepage_url: https://angelml.ai/
@@ -1388,6 +1394,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/beeai
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfHdZBrCu8SFNqEa2e
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/BeeAI%20Technical%20Charter%20Final%203-14-2025.docx.pdf
             additional_repos:
               - repo_url: https://github.com/i-am-bee/beeai-framework
               - repo_url: https://github.com/i-am-bee/acp
@@ -2493,6 +2501,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/claimed
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NVodlQAD
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/CLAIMED%20Technical%20Charter%20Draft%2012-15-2022.docx.pdf
             additional_repos: []
           - item:
             name: Claims and Credentials Working Group
@@ -3864,6 +3874,28 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IfTjPQAV
           - item:
+            name: Cosmos
+            homepage_url: https://cosmograph-org.github.io/cosmos/
+            logo: cosmos.svg
+            description: Cosmos is a WebGL Force Graph layout algorithm and rendering engine. All the computations and drawing are happening on the GPU in fragment and vertex shaders, avoiding expensive memory operations.
+            second_path:
+              - Project Group / OpenJS Foundation
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/cosmograph-org/cosmos
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-04-09'
+              annotations:
+                slug: cosmos
+              dev_stats_url: https://insights.linuxfoundation.org/project/cosmos
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cosmos
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfCa6T7LZuwZhtN8pb
+                - name: Charter
+                  url: https://github.com/cosmosgl/graph/blob/main/CHARTER.md
+          - item:
             name: COVID Credentials Initiative
             homepage_url: https://www.covidcreds.org/
             logo: covid_credentials_initiative.svg
@@ -4384,6 +4416,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/data-prep-kit
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfRchUotaNSKAJjkr6
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/Data-Prep-Kit%20Technical%20Charter%20Final%203-14-2025.docx.pdf
           - item:
             name: Datashim
             homepage_url: https://datashim.io/
@@ -4516,6 +4550,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/deepcausality
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf8hRlLMO0Sqh2V746
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/DeepCausality%20Technical%20Charter%208-29-2023.pdf
           - item:
             name: DeepRec
             homepage_url: https://github.com/DeepRec-AI
@@ -4537,6 +4573,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/deeprec
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001O6OGGQA3
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/DeepRec%20Technical%20Charter%20Final%205-5-2023.pdf
             additional_repos: []
           - item:
             name: DeepSpeed
@@ -5125,6 +5163,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/dlrover
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfLddDETmHG1AVn8v3
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/DLRover%20Technical%20Charter%20Final%2011-14-2024.pdf
           - item:
             name: DocArray
             homepage_url: https://github.com/docarray
@@ -5146,6 +5186,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/docarray
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NVX9oQAH
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/DocArray%20Technical%20Charter%2011-17-2022.docx.pdf
             additional_repos: []
           - item:
             name: Docling
@@ -5167,6 +5209,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/docling
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfrViYCbiegngDNba1
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/DocLing%20Technical%20Charter%20Final%203-14-2025.docx.pdf
           - item:
             name: Dojo
             homepage_url: https://dojo.io/
@@ -5521,6 +5565,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/odpi-egeria
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4JtQAL
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/egeria%20technical%20charter_10.27.20.pdf
           - item:
             name: eKuiper
             homepage_url: https://github.com/lf-edge/ekuiper
@@ -6302,6 +6348,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/feast
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkTmZQAV
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/feast%20technical%20charter_10.05.20.pdf
           - item:
             name: Feathr
             homepage_url: https://github.com/feathr-ai
@@ -6762,6 +6810,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ForestFlow
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkOXNQA3
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/forestflow%20technical%20charter_04.14.20.pdf
           - item:
             name: Formats SIG
             homepage_url: https://github.com/OAI/sig-formats
@@ -8690,6 +8740,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/iree
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfDgEQ8E2qHqSMZdI0
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/IREE%20Technical%20Charter%20Final%205-14-2024.docx.pdf
           - item:
             name: ISAC-SIMO
             homepage_url: https://www.isac-simo.net/
@@ -9774,6 +9826,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kompute
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KX0buQAD
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/kompute%20project%20technical%20charter_07.27.21.pdf
           - item:
             name: Konveyor
             homepage_url: https://www.konveyor.io/
@@ -11333,7 +11387,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWrBqQAL
                 - name: Charter
-                  url: https://lfai.foundation/about/charter/
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/marquez%20technical%20charter_05.21.20.pdf
           - item:
             name: MaterialX
             homepage_url: https://www.materialx.org/
@@ -11611,7 +11665,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs6mQAD
                 - name: Charter
-                  url: https://lfai.foundation/about/charter/
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/milvus%20technical%20charter_03.18.20.pdf
           - item:
             name: Minicoredumper
             homepage_url: https://diamon.org/
@@ -11812,6 +11866,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/monocle
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfJqI8yd8srENhw2SC
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/Monocle%20Technical%20Charter%20Final%208-5-2024.docx.pdf
           - item:
             name: Moon
             homepage_url: https://wiki.anuket.io/x/9QgB
@@ -12159,6 +12215,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/NNstreamer
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWr7ZQAT
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/nnstreamer%20technical%20charter_04.01.20.pdf
           - item:
             name: Neutron Northbound
             homepage_url: https://wiki.opendaylight.org/display/ODL/Neutron+Northbound
@@ -12403,6 +12461,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/oaax
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lft152aTo164gYVKNy
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/OAAX%20Technical%20Charter%20Final%203-5-2025.docx.pdf
             additional_repos:
               - repo_url: https://github.com/OAAX-standard/contributions
               - repo_url: https://github.com/OAAX-standard/examples
@@ -12825,7 +12885,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs71QAD
                 - name: Charter
-                  url: https://lfai.foundation/about/charter/
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/onnx%20technical%20charter_04.02.20.pdf
           - item:
             name: Open 3D Engine Project (O3DE)
             homepage_url: http://o3de.org/
@@ -13438,6 +13498,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/odpi-opends4all
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs6xQAD
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/opends4all%20technical%20charter_10.02.20.pdf
           - item:
             name: OpenDSM
             homepage_url: https://lfenergy.org/projects/opendsm/
@@ -14860,6 +14922,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/open-voice-network-interoperability-initiative
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfzV1Oo2MhLFebc3TK
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/Open%20Voice%20Network%20Interoperability%20Initiative%20Technical%20Charter%20Draft%2012-11-2023.docx.pdf
           - item:
             name: Open Voice Network Trustmark Initiative
             homepage_url: https://openvoicenetwork.org/trustmark-initiative/
@@ -14883,6 +14947,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/open-voice-network-trustmark-initiative
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfVuFfrRVwzlnrZ8wF
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/The%20Open%20Voice%20Network%20Trustmark%20Initiative%20Technical%20Charter%2012-11-2023%20(1).docx.pdf
           - item:
             name: Open vSwitch (OVS)
             homepage_url: https://www.openvswitch.org/
@@ -16389,7 +16455,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4IfQAL
                 - name: Charter
-                  url: https://lfai.foundation/about/charter/
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/pyro%20technical%20charter_01.07.20.pdf
           - item:
             name: Pyrrha
             homepage_url: https://pyrrha-platform.org/
@@ -17107,6 +17173,7 @@ landscape:
               - repo_url: https://github.com/riscv/docs-dev-guide
               - repo_url: https://github.com/riscv/docs-spec-template
               - repo_url: https://github.com/riscv/docs-resources
+              - repo_url: https://github.com/riscv/learn
           - item:
             name: RISE Project
             homepage_url: https://riseproject.dev/
@@ -17383,6 +17450,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/aita
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfvXeqDJKReq39q8zj
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/Ryoma%20Technical%20Charter%20Final%208-12-2024.docx.pdf
           - item:
             name: Salus
             homepage_url: https://project-salus.org/
@@ -18768,7 +18837,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWrC0QAL
                 - name: Charter
-                  url: https://lfai.foundation/about/charter/
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/sparklyr%20Project%20Technical%20Charter%2001-09-19.pdf
           - item:
             name: SPDM-RS
             homepage_url: https://github.com/ccc-spdm-tools/spdm-rs
@@ -20818,6 +20887,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/unity-catalog
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfpfKIj4exw7WkM89X
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/Unity%20Catalog%20Technical%20Charter%203-4-2025%20%5BFinal%5D.pdf
           - item:
             name: Universal Deep Packet Inspection Project (UDPI)
             homepage_url: https://wiki.fd.io/view/UDPI
@@ -26340,6 +26411,10 @@ landscape:
               --- Merged Data:
 
               China Telcom
+
+              --- Merged Data:
+
+              China Telecommunications Group Co., Ltd., known as China Telecom, is a leading telecommunications company in China. It offers a wide range of services including mobile and fixed-line telephony, broadband internet, digital television, and enterprise sol...
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / LF Networking (LFN)
@@ -34418,18 +34493,6 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/nscale
           - item:
-            name: NTT Corporation (member)
-            homepage_url: https://ntt.co.jp/
-            logo: ntt_corporation.svg
-            description: NTT is a telecommunications company headquartered in Tokyo, Japan. NTT owns and operates multiple business across the communications industry.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / FinOps Foundation
-            crunchbase: https://www.crunchbase.com/organization/nippon-telegraph-and-telephone-corporation
-            twitter: https://twitter.com/NTTPR
-            extra:
-              linkedin_url: https://www.linkedin.com/company/ntt-nippon-telegraph-and-telephone-corporation
-          - item:
             name: NTT DATA MSE  CORPORATION (member)
             homepage_url: https://nttd-mse.com/
             logo: ntt_data_mse_corporation.svg
@@ -34441,6 +34504,18 @@ landscape:
             twitter: https://twitter.com/NTTData_MSE
             extra:
               linkedin_url: https://www.linkedin.com/company/ntt-data-mse-corporation
+          - item:
+            name: NTT, Inc. (member)
+            homepage_url: https://ntt.co.jp/
+            logo: ntt_inc.svg
+            description: NTT is a telecommunications company headquartered in Tokyo, Japan. NTT owns and operates multiple business across the communications industry.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / FinOps Foundation
+            crunchbase: https://www.crunchbase.com/organization/nippon-telegraph-and-telephone-corporation
+            twitter: https://twitter.com/NTTPR
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ntt-nippon-telegraph-and-telephone-corporation
           - item:
             name: nudgebee (member)
             homepage_url: https://nudgebee.com/
@@ -40752,6 +40827,18 @@ landscape:
             twitter: https://twitter.com/virtasant
             extra:
               linkedin_url: https://www.linkedin.com/company/virtasant
+          - item:
+            name: Vivendi (member)
+            homepage_url: https://vivendi.com/
+            logo: vivendi.svg
+            description: Vivendi is a mass media and telecommunications company that provides music, television, film, publishing, telecommunications, and more. The company operates throughout the media value chain, from talent discovery to the creation, production, and distri...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Vivendi
+              linkedin: https://www.linkedin.com/company/vivendi
+            extra:
+              linkedin_url: https://www.linkedin.com/company/vivendi
           - item:
             name: vivo Mobile Communication Co., Ltd. (member)
             homepage_url: https://vivo.com/
