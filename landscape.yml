@@ -8540,7 +8540,7 @@ landscape:
             second_path:
               - Industry / Cross-Industry
               - Technology Sector / Open Source & Compliance Best Practices
-            repo_url: https://github.com/inclusivenaming/website
+            repo_url: https://github.com/inclusivenaming/org
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-07-01'
@@ -8554,7 +8554,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWiejQAD
             additional_repos:
-              - repo_url: https://github.com/inclusivenaming/org
+              - repo_url: https://github.com/inclusivenaming/website
           - item:
             name: index-import
             homepage_url: https://mobilenativefoundation.org/
@@ -10161,7 +10161,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/konveyor/community
+            repo_url: https://github.com/konveyor/move2kube
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-07-26'
@@ -10175,6 +10175,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L18vrQAB
             additional_repos:
+              - repo_url: https://github.com/konveyor/community
               - repo_url: https://github.com/konveyor/analyzer-lsp
               - repo_url: https://github.com/konveyor/tackle2-hub
               - repo_url: https://github.com/konveyor/operator
@@ -10271,7 +10272,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/Kuadrant/kuadrant-operator
+            repo_url: https://github.com/Kuadrant/authorino
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-06-19'
@@ -10285,8 +10286,8 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf6cLOjRkdX60xl0l4
             additional_repos:
+              - repo_url: https://github.com/Kuadrant/kuadrant-operator
               - repo_url: https://github.com/Kuadrant/limitador
-              - repo_url: https://github.com/Kuadrant/authorino
               - repo_url: https://github.com/Kuadrant/architecture
               - repo_url: https://github.com/Kuadrant/wasm-shim
               - repo_url: https://github.com/Kuadrant/policy-machinery
@@ -12185,7 +12186,7 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Industry / Cross-Industry
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/metal3-io/metal3-docs
+            repo_url: https://github.com/metal3-io/baremetal-operator
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-09-08'
@@ -12199,8 +12200,8 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkYIlQAN
             additional_repos:
+              - repo_url: https://github.com/metal3-io/metal3-docs
               - repo_url: https://github.com/metal3-io/metal3-dev-env
-              - repo_url: https://github.com/metal3-io/baremetal-operator
               - repo_url: https://github.com/metal3-io/cluster-api-provider-metal3
               - repo_url: https://github.com/metal3-io/ironic-image
               - repo_url: https://github.com/metal3-io/project-infra
@@ -29730,6 +29731,7 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Confidential Computing Consortium (CCC)
+              - Project Membership / FINOS (The Fintech Open Source Foundation)
               - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
             organization:
               name: EQTY Lab
@@ -38094,6 +38096,7 @@ landscape:
             logo: seal_security.svg
             description: Seal Security is a company that offers a quick, easy and effective way to do open source vulnerability remediation.
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/seal-security
           - item:
@@ -45431,6 +45434,7 @@ landscape:
               Get directions
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / LF Energy (LFE)
               - Project Membership / RISC-V International
             twitter: https://twitter.com/INESCTEC
             organization:
