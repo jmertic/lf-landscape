@@ -2956,17 +2956,20 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Industry / Cross-Industry
               - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/cni-genie/CNI-Genie
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-06-23'
               annotations:
                 slug: cni-genie
+                project_org: https://github.com/cni-genie
               dev_stats_url: https://insights.linuxfoundation.org/project/cni-genie
               other_links:
                 - name: Calendar
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cni-genie
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkOXGQA3
+            additional_repos: []
           - item:
             name: Coalition for Content Provenance and Authenticity (C2PA)
             homepage_url: https://c2pa.org/
@@ -8493,13 +8496,13 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWhBYQA1
           - item:
             name: Inclavare Containers
-            homepage_url: https://github.com/inclavare-containers/inclavare-contKairos
+            homepage_url: https://github.com/inclavare-containers/inclavare-containers
             logo: inclavare_containers.svg
             description: An innovation of container runtime with the novel approach of launching and attesting confidential container in hardware-enforced Trusted Execution Environment (TEE).
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/inclavare-containers/inclavare-contKairos
+            repo_url: https://github.com/inclavare-containers/inclavare-containers
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-09-14'
@@ -8540,7 +8543,7 @@ landscape:
             second_path:
               - Industry / Cross-Industry
               - Technology Sector / Open Source & Compliance Best Practices
-            repo_url: https://github.com/inclusivenaming/org
+            repo_url: https://github.com/inclusivenaming/website
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-07-01'
@@ -8554,7 +8557,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWiejQAD
             additional_repos:
-              - repo_url: https://github.com/inclusivenaming/website
+              - repo_url: https://github.com/inclusivenaming/org
           - item:
             name: index-import
             homepage_url: https://mobilenativefoundation.org/
@@ -9585,6 +9588,32 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWmPzQAL
             additional_repos: []
           - item:
+            name: K8sGPT
+            homepage_url: https://github.com/k8sgpt-ai
+            logo: k8sgpt.svg
+            description: Kubernetes cluster analysis augmented with Artificial Intelligence.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/k8sgpt-ai/k8sgpt
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2023-12-19'
+              annotations:
+                slug: k8sgpt
+                project_org: https://github.com/k8sgpt-ai
+              dev_stats_url: https://insights.linuxfoundation.org/project/k8sgpt
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/k8sgpt
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfQScOZr94zo3mUhAB
+            additional_repos:
+              - repo_url: https://github.com/k8sgpt-ai/community
+              - repo_url: https://github.com/k8sgpt-ai/website
+              - repo_url: https://github.com/k8sgpt-ai/docs
+              - repo_url: https://github.com/k8sgpt-ai/k8sgpt-operator
+          - item:
             name: K8STARS
             homepage_url: https://tarscloud.org/
             logo: k8stars.svg
@@ -9623,6 +9652,33 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/k8up
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkIccQAF
+          - item:
+            name: Kairos
+            homepage_url: https://github.com/kairos-io
+            logo: kairos.svg
+            description: Kairos is a meta-Linux distribution to build immutable edge Kubernetes.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/kairos-io/kairos
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2024-04-16'
+              annotations:
+                slug: kairos
+                project_org: https://github.com/kairos-io
+              dev_stats_url: https://insights.linuxfoundation.org/project/kairos
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kairos
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfZlFiEgr8fqrlfU7G
+            additional_repos:
+              - repo_url: https://github.com/kairos-io/provider-kairos
+              - repo_url: https://github.com/kairos-io/osbuilder
+              - repo_url: https://github.com/kairos-io/entangle
+              - repo_url: https://github.com/kairos-io/kcrypt
+              - repo_url: https://github.com/kairos-io/AuroraBoot
           - item:
             name: Kanister
             homepage_url: https://github.com/kanisterio/kanister
@@ -21196,20 +21252,24 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Industry / Cross-Industry
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/tremor/Nightscout2ePaper
+            repo_url: https://github.com/tremor-rs/tremor-runtime
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-09-08'
               annotations:
                 slug: tremor
-                project_org: https://github.com/tremor
+                project_org: https://github.com/tremor-rs
               dev_stats_url: https://insights.linuxfoundation.org/project/tremor
               other_links:
                 - name: Calendar
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/tremor
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkYIpQAN
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/tremor-rs/tremor-www
+              - repo_url: https://github.com/tremor-rs/tremor-vscode
+              - repo_url: https://github.com/tremor-rs/tremor-language-server
+              - repo_url: https://github.com/tremor-rs/tremor-bot
           - item:
             name: TrestleGRC
             homepage_url: https://oscal-compass.github.io/compliance-trestle/
@@ -35222,7 +35282,7 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/ntt-data-mse-corporation
           - item:
             name: NTT, Inc. (member)
-            homepage_url: https://ntt.co.jp/
+            homepage_url: https://group.ntt/en/
             logo: ntt_inc.svg
             description: NTT is a telecommunications company headquartered in Tokyo, Japan. NTT owns and operates multiple business across the communications industry.
             second_path:
@@ -42637,21 +42697,6 @@ landscape:
             twitter: https://twitter.com/YLDio
             extra:
               linkedin_url: https://www.linkedin.com/company/yld
-          - item:
-            name: Yotascale (member)
-            homepage_url: https://yotascale.com/
-            logo: yotascale.svg
-            description: |-
-              Yotascale is a cloud cost management product transforming how enterprise 
-                companies like Hulu optimize their AWS footprint to spend less and get more 
-                done.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / FinOps Foundation
-            crunchbase: https://www.crunchbase.com/organization/yotascale
-            twitter: https://twitter.com/yotascale
-            extra:
-              linkedin_url: https://www.linkedin.com/company/yotascale
           - item:
             name: Yovily (member)
             homepage_url: https://yovily.com/
