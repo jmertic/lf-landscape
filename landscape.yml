@@ -2166,7 +2166,6 @@ landscape:
             description: The power of Ceph can transform your organization’s IT infrastructure and your ability to manage vast amounts of data. If your organization runs applications with different storage interface needs, Ceph is for you! Ceph’s foundation is the Reliable Autonomic Distributed Object Store (RADOS), which provides your applications with object, block, and file system storage in a single unified storage cluster—making Ceph flexible, highly reliable and easy for you to manage.
             second_path:
               - Project Group / The Linux Foundation
-              - PMO Managed / All
               - Industry / Cross-Industry
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / System Administration
@@ -2948,29 +2947,6 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IehkZQAR
           - item:
-            name: CNI-Genie
-            homepage_url: https://github.com/cni-genie/CNI-Genie
-            logo: cni_genie.svg
-            description: CNI-Genie enables container orchestrators (Kubernetes, Mesos) to seamlessly connect to the choice of CNI plugins installed on a host.
-            second_path:
-              - Project Group / Cloud Native Computing Foundation (CNCF)
-              - Industry / Cross-Industry
-              - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/cni-genie/CNI-Genie
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2020-06-23'
-              annotations:
-                slug: cni-genie
-                project_org: https://github.com/cni-genie
-              dev_stats_url: https://insights.linuxfoundation.org/project/cni-genie
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cni-genie
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkOXGQA3
-            additional_repos: []
-          - item:
             name: Coalition for Content Provenance and Authenticity (C2PA)
             homepage_url: https://c2pa.org/
             logo: coalition_for_content_provenance_and_authenticity_c2pa.svg
@@ -3354,7 +3330,6 @@ landscape:
             logo: compas.svg
             description: |-
               Open source profile configuration and management for IEC 61850 substation protection, automation, and control systems
-
               CoMPAS (Configuration Modules for Power industry Automation Systems is being developed using several guiding principles, including the use of cross-platform Docker-based microservices along with a lightweight browser client, multiple language support for the user interface, scriptable controls, and the ability to integrate third-party tools.
             second_path:
               - Project Group / LF Energy (LFE)
@@ -4080,8 +4055,7 @@ landscape:
             name: covXtreme
             homepage_url: https://lfenergy.org/projects/covxtreme/
             logo: covxtreme.svg
-            description: |
-              Open source project that promotes interoperability and standardization for distributed energy system communication, primarily through the implementation of the IEEE 2030.5 standard
+            description: Model and software for hazard risk analysis of extreme events
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
@@ -4248,7 +4222,7 @@ landscape:
             name: CUPID (Controllable Unit Protocol Interface for DER)
             homepage_url: https://github.com/Horizont-Europe-Interstore
             logo: cupid_controllable_unit_protocol_interface_for_der.svg
-            description: The original IEEE 2030.5 standard from 2018 and recently updated by the 2023 version, is a widely used communication protocol designed to manage distributed resources, already adopted in California and Australia. The original standard is an interoperability dictionary-based protocol. In our project we’ve upgraded the current version of the IEEE2030.5 software/firmware package by using a NATS messaging, added JSON structure support and moreover, we’ve developed a protocol converter to bridge the gap to other protocols (MQTT and ModBUS) and standardization procedures of existing equipment and systems.
+            description: Open source project that promotes interoperability and standardization for distributed energy system communication, primarily through the implementation of the IEEE 2030.5 standard
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
@@ -4288,29 +4262,6 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/curref-data
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkQXMQA3
-          - item:
-            name: Curve
-            homepage_url: http://www.opencurve.io/
-            logo: curve.svg
-            description: |-
-              Curve is a distributed storage system designed and developed independently by NetEase, featured with high performance, easy operation, cloud native. Curve is composed with CurveBS(Curve Block Storage) and CurveFS(Curve FileSystem). CurveBS supports snapshot, clone, and recover, also supports virtual machines with qemu and physical machine with nbd. CurveFS supports POSIX based on Fuse.
-
-              Curve is widely used in Netease, and is also test by other users. Curve provides storage service for core business of YouDao, YanXuan, Music, Lofter, YouXi in Netease. In the past 2 years, a single Curve cluster  has stored tens of thousands of volumes, with a storage capacity of PB.
-            second_path:
-              - Project Group / Cloud Native Computing Foundation (CNCF)
-              - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/opencurve/curve
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2022-06-14'
-              annotations:
-                slug: curve
-              dev_stats_url: https://insights.linuxfoundation.org/project/curve
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/curve
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkRyJQAV
           - item:
             name: Cyber Domain Ontology Project
             homepage_url: https://github.com/casework/CASE
@@ -4960,26 +4911,6 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/devspace
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NWElqQAH
-          - item:
-            name: Devstream
-            homepage_url: https://github.com/devstream-io/devstream
-            logo: devstream.svg
-            description: 'DevStream: the open-source DevOps toolchain manager (DTM)'
-            second_path:
-              - Project Group / Cloud Native Computing Foundation (CNCF)
-              - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/devstream-io/devstream
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2022-06-14'
-              annotations:
-                slug: devstream
-              dev_stats_url: https://insights.linuxfoundation.org/project/devstream
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/devstream
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L16Q4QAJ
           - item:
             name: Dex
             homepage_url: https://dexidp.io/
@@ -7578,7 +7509,6 @@ landscape:
             logo: grid_exchange_fabric_gxf.svg
             description: |-
               Open source, scalable, and technology-agnostic industrial Internet of Things (IoT) platform that enables grid operators to securely collect data, monitor, control, and manage smart devices across the power grid
-
               GXF is open, independent, and driven by its community, developed using open source best practices and designed to use open standards. This enables third parties to develop new and innovative solutions. The trade-off is flexibility and freedom. Unlike closed proprietary software, open source software can be altered and extended by any developer familiar with the source code. This grants organizations freedom from “vendor lock-in,” assures long-term viability, and creates industry opportunities for support, consulting, and training.
             second_path:
               - Project Group / LF Energy (LFE)
@@ -7741,6 +7671,7 @@ landscape:
             logo: hami.svg
             description: Heterogeneous AI Computing Virtualization Middleware (HAMi), is an "all-in-one" tool designed to manage Heterogeneous AI Computing Devices in a k8s cluster.
             second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
             repo_url: https://github.com/Project-HAMi/HAMi
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
@@ -8173,32 +8104,6 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWsA0QAL
                 - name: Charter
                   url: https://fd.io/docs/tsc/FD.IO-Project-a-Series-of-LF-Projects-LLC-Technical-Charter-12-13-2017-FINAL.pdf
-          - item:
-            name: Hyperledger Aries
-            homepage_url: https://www.hyperledger.org/projects/aries
-            logo: hyperledger_aries.svg
-            description: Hyperledger Aries provides a shared, reusable, interoperable tool kit designed for initiatives and solutions focused on creating, transmitting and storing verifiable digital credentials. It is infrastructure for blockchain-rooted, peer-to-peer interactions. This project consumes the cryptographic support provided by Hyperledger Ursa, to provide secure secret management and decentralized key management functionality.
-            second_path:
-              - Project Group / LF Decentralized Trust
-              - Industry / Cross-Industry
-              - Technology Sector / Blockchain
-              - Technology Sector / Networking & Edge
-              - Technology Sector / System Engineering
-              - Technology Sector / Web & Application Development
-              - Technology Sector / Storage
-              - Technology Sector / Privacy & Security
-            repo_url: https://github.com/hyperledger/aries
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2019-05-02'
-              annotations:
-                slug: aries
-              dev_stats_url: https://insights.linuxfoundation.org/project/aries
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/aries
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4FMQA1
           - item:
             name: Hyperledger Bevel
             homepage_url: https://www.hyperledger.org/use/bevel
@@ -9595,7 +9500,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/k8sgpt-ai/k8sgpt
+            repo_url: https://github.com/k8sgpt-ai/community
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-12-19'
@@ -9609,8 +9514,8 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfQScOZr94zo3mUhAB
             additional_repos:
-              - repo_url: https://github.com/k8sgpt-ai/community
               - repo_url: https://github.com/k8sgpt-ai/website
+              - repo_url: https://github.com/k8sgpt-ai/k8sgpt
               - repo_url: https://github.com/k8sgpt-ai/docs
               - repo_url: https://github.com/k8sgpt-ai/k8sgpt-operator
           - item:
@@ -12991,7 +12896,6 @@ landscape:
             logo: node_collective.svg
             description: |-
               National Open Data for Electrification (NODE) is an open data initiative dedicated to collaboratively sourcing, structuring, and maintaining a comprehensive and standardized dataset of every residential electrification incentive program in the US to accelerate clean energy adoption
-
               The Challenge: Fragmented and outdated electrification incentive data are major barriers to progress in the electrification
 
               Our Solution: NODE Collective introduces a vibrant, evolving data repository, a cornerstone of reliable and up-to-date electrification information, energized by:
@@ -14165,7 +14069,6 @@ landscape:
             logo: opendsm.svg
             description: |-
               Open source library that measures the impacts of demand-side energy programs (like energy efficiency and demand response) by modeling historical energy usage to predict counterfactuals and compare them to actual post-intervention consumption
-
               - Build an open source library for predicting energy consumption of utility meters based on their historical usage and additional covariate data;  
               - Maintain a production-ready library to act as a measurement system for distributed energy resources that can be replicated by all parties in markets and expand capabilities over time;
               - Ensure transparency and trust by providing open source code that enables reliable validation and mutual accountability in energy markets; 
@@ -14252,26 +14155,6 @@ landscape:
               - repo_url: https://github.com/openeew/openeew.com
               - repo_url: https://github.com/openeew/openeew-dashboard
               - repo_url: https://github.com/openeew/openeew-sensor
-          - item:
-            name: OpenELB
-            homepage_url: https://github.com/kubesphere/openelb
-            logo: openelb.svg
-            description: OpenELB is an open-source load balancer implementation designed for exposing the LoadBalancer type of Kubernetes services in bare metal, edge, and virtualization environments.
-            second_path:
-              - Project Group / Cloud Native Computing Foundation (CNCF)
-              - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/kubesphere/openelb
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2021-11-10'
-              annotations:
-                slug: openelb
-              dev_stats_url: https://insights.linuxfoundation.org/project/openelb
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openelb
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkHkPQAV
           - item:
             name: Open Enclave SDK
             homepage_url: https://openenclave.io/sdk/
@@ -18360,26 +18243,6 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfMbpw44DkWR4mPj2n
           - item:
-            name: sealer
-            homepage_url: http://sealer.cool/
-            logo: sealer.svg
-            description: Seal your applications all dependencies and kubernetes into CloudImage! Build Deliver and Run user-defined clusters in one command.
-            second_path:
-              - Project Group / Cloud Native Computing Foundation (CNCF)
-              - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/alibaba/sealer
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2022-04-26'
-              annotations:
-                slug: sealer
-              dev_stats_url: https://insights.linuxfoundation.org/project/sealer
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/sealer
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkRxaQAF
-          - item:
             name: SEAPATH
             homepage_url: https://www.lfenergy.org/projects/seapath/
             logo: seapath.svg
@@ -20709,26 +20572,6 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4RNQA1
             additional_repos: []
           - item:
-            name: Teller
-            homepage_url: https://tlr.dev/
-            logo: teller.svg
-            description: Teller is an open-source universal secret manager for developers.
-            second_path:
-              - Project Group / Cloud Native Computing Foundation (CNCF)
-              - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/SpectralOps/teller
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2022-04-26'
-              annotations:
-                slug: teller
-              dev_stats_url: https://insights.linuxfoundation.org/project/teller
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/teller
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkRxVQAV
-          - item:
             name: Template Studio
             homepage_url: https://www.accordproject.org/
             logo: template_studio.svg
@@ -21354,6 +21197,25 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/trolie
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfoG7KUacGvkymUJjO
+          - item:
+            name: Trustify
+            homepage_url: https://github.com/trustification/trustify
+            logo: trustify.svg
+            description: The mission of Trustify is to  provide a single, searchable abstraction over all cyclonedx/spdx SBOMs - cross referencing against public security advisories to help identify and respond to software security threats & vulnerabilities.
+            second_path:
+              - Technology Sector / Privacy & Security
+            repo_url: https://github.com/trustification/trustify
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-08-05'
+              annotations:
+                slug: trustify
+              dev_stats_url: https://insights.linuxfoundation.org/project/trustify
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/trustify
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf0WffFaUaeQq6ewBr
           - item:
             name: Trust Over IP Project (ToIP)
             homepage_url: https://www.trustoverip.org/
@@ -25643,7 +25505,6 @@ landscape:
             description: 'Automata Network: Decentralized middleware ensuring fairness and privacy in Web3 with products like 1RPC and NFTFair.'
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / Confidential Computing Consortium (CCC)
             organization:
               name: Automata Network
               linkedin: https://www.linkedin.com/company/automatanetwork
@@ -26564,6 +26425,15 @@ landscape:
             twitter: https://twitter.com/BuoyantIO
             extra:
               linkedin_url: https://www.linkedin.com/company/buoyantio
+          - item:
+            name: Bytedance Inc. (member)
+            homepage_url: https://bytedance.com/
+            logo: bytedance_inc.svg
+            description: ByteDance is a technology company operating a range of content platforms that inform, educate, entertain, and inspire people across languages, cultures, and geographies. Dedicated to building global platforms of creation and interaction, ByteDance now ...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Bytedance Inc.
           - item:
             name: bytesatwork (member)
             homepage_url: https://bytesatwork.io/
@@ -27974,7 +27844,6 @@ landscape:
             logo: common_tools.svg
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / Confidential Computing Consortium (CCC)
             organization:
               name: Common Tools
           - item:
@@ -35007,7 +34876,6 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / SONiC Fund
-              - Project Membership / SONiC Fund
             organization:
               name: Nexthop AI
           - item:
@@ -41343,9 +41211,7 @@ landscape:
             second_path:
               - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
-            organization:
-              name: Valor Capital Group
-              linkedin: https://www.linkedin.com/company/valorcapitalgroup
+            crunchbase: https://www.crunchbase.com/organization/valor-capital
             extra:
               linkedin_url: https://www.linkedin.com/company/valorcapitalgroup
           - item:
@@ -43605,7 +43471,7 @@ landscape:
             name: Centre for Development of Advanced Computing (member)
             homepage_url: https://cdac.in/
             logo: centre_for_development_of_advanced_computing.svg
-            description: Centre for Development of Advanced Computing (C-DAC) is the premier R&D organization of the Ministry of Electronics and Information Technology (MeitY) for carrying out R&D in IT, Electronics and associated areas.
+            description: Centre for Development of Advanced Computing (C-DAC) is the premier R&D organization of the Ministry of Electronics and Information Technology (MeitY) for carrying out R&D in IT, Electronics and associated areas..
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / OpenPOWER Foundation
@@ -45018,8 +44884,7 @@ landscape:
             second_path:
               - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
-            organization:
-              name: Global Finance & Technology Network (GFTN)
+            crunchbase: https://www.crunchbase.com/organization/global-finance-technology-network
           - item:
             name: Global Legal Entity Identifier Foundation (member)
             homepage_url: https://gleif.org/
