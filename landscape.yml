@@ -11023,7 +11023,7 @@ landscape:
               - PMO Managed / All
               - Industry / Cross-Industry
               - Technology Sector / Blockchain
-            repo_url: https://github.com/hyperledger/governance
+            repo_url: https://github.com/hyperledger/fabric
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/Hyperledger
             extra:
@@ -11039,7 +11039,8 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wByYAAU
               youtube_url: https://www.youtube.com/@lfdecentralizedtrust
               linkedin_url: https://www.linkedin.com/company/hyperledger-project
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/hyperledger/governance
           - item:
             name: LF Decentralized Trust Labs
             homepage_url: https://lf-decentralized-trust-labs.github.io/
@@ -21727,6 +21728,34 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfZ3CuN7sFILTEEHvc
           - item:
+            name: VCX
+            homepage_url: https://github.com/openwallet-foundation/vcx
+            logo: vcx.svg
+            description: |-
+              VCX is an open-source codebase that provides a wide suite of Rust modules for building DID & Aries-related applications (client/mobile and server). VCX is designed with a heavily modularized structure (20+ crates in the workspace) such that consumers can pick-and-choose which components they wish to build their DI application with. Currently, some of the significant modules provided by VCX include:
+              * `did_doc`, `did_parser`, `did_resolver` - a set of lightweight libraries which provide well-typed structures and interfaces for DID building, parsing, and resolving. We envision these components becoming defacto libraries for Rust projects involving DIDs.
+              * DID Method Crates - several DID method-specific crates for resolving and managing DIDs (peer, cheqd, web, key, jwk, sov/unqualified).
+              * `aries_vcx_ledger`, `aries_vcx_wallet`, `aries_vcx_anoncreds` - a set of libraries with interfaces for performing ledger, wallet, and anoncred operations involved in Aries protocols. Includes implementations for Indy & Cheqd ledgers (i.e. resolving anoncreds objects), Askar wallets, and anoncreds-rs.
+              * `messages` - well-typed library for building and parsing Aries (DIDComm V1) messages
+              * `aries_vcx` - Implementation of Aries protocol state machines, which provide APIs to step through Aries protocols, utilizing lots of the above-mentioned modules. Currently mostly for AIP1 protocols, but some AIP2 protocols such as DIDExchange/OOB.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/openwallet-foundation/vcx
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-08-06'
+              annotations:
+                slug: vcx
+              dev_stats_url: https://insights.linuxfoundation.org/project/vcx
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/vcx
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfiVup5FAsVbGqmUQH
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/vcx/vcx_Charter.pdf?v=1754514481021
+          - item:
             name: Vector Packet Processing (VPP)
             homepage_url: https://fd.io/vppproject/vpptech/
             logo: vector_packet_processing_vpp.svg
@@ -25010,6 +25039,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/archera-ai
           - item:
+            name: Archestra.AI (member)
+            homepage_url: https://archestra.ai/
+            logo: archestra.svg
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Archestra.AI
+          - item:
             name: Arcium Association (member)
             homepage_url: https://arcium.com/
             logo: arcium_association.svg
@@ -27678,6 +27716,15 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/clush
           - item:
+            name: Clussys Inc (member)
+            homepage_url: https://clussys.com/
+            logo: clussys_inc.svg
+            description: Clussys is a company that specializes in rebuilding data center interconnection and communication modules with a focus on green technology, high performance, and high integration.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Clussys Inc
+          - item:
             name: Clyso GmbH (member)
             homepage_url: https://clyso.com/
             logo: clyso_gmbh.svg
@@ -29748,23 +29795,6 @@ landscape:
             twitter: https://twitter.com/espeo_software
             extra:
               linkedin_url: https://www.linkedin.com/company/espeo-software
-          - item:
-            name: Esperanto Technologies Inc. (member)
-            homepage_url: https://esperanto.ai/
-            logo: esperanto_technologies_inc.svg
-            description: |-
-              Overview
-              Esperanto Technologies develops high-performance, energy-efficient computing solutions based on the open standard RISC-V ISA. Esperanto is headquartered in Mountain View, California with engineering sites in the United States, European Union, and Eastern Europe. Esperanto has brought together a seasoned team of experienced processor and software engineers with the goal of making RISC-V the architecture of choice for compute-intensive applications such as Machine Learning. 
-
-
-              Website https://www.esperanto.ai Industry Computer Hardware Company size 51-200 employees Headquarters Mountain View, California Type Privately Held Founded 2014 Specialties Machine Learning, Artificial Reality, Energy-efficient Processors, High-performance Processors, RISC-V SoCs, Semiconductor IP, ET-Minion, ET-Maxion, and Artificial intelligence
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / RISC-V International
-            crunchbase: https://www.crunchbase.com/organization/esperanto-technologies
-            twitter: https://twitter.com/EsperantoTech
-            extra:
-              linkedin_url: https://www.linkedin.com/company/esperanto-ai
           - item:
             name: Espresso AI (member)
             homepage_url: https://espresso.ai/
@@ -32772,19 +32802,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/kodem-security
             extra:
               linkedin_url: https://www.linkedin.com/company/kodem
-          - item:
-            name: Koedr (member)
-            homepage_url: https://koedr.net/
-            logo: koedr.svg
-            description: Koedr helps AWS Partner Network (APN) partners build the foundations for success within the APN. APN partners can re-invent their business and focus on what they want to be famous for, differentiating themselves from AWS. Koedr enables builders within re-inventing enterprises to operate on the AWS cloud with confidence.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / FinOps Foundation
-            organization:
-              name: Koedr
-              linkedin: https://www.linkedin.com/company/koedrstudios
-            extra:
-              linkedin_url: https://www.linkedin.com/company/koedrstudios
           - item:
             name: Komodor Inc. (member)
             homepage_url: https://komodor.com/
@@ -40357,6 +40374,16 @@ landscape:
               linkedin: https://www.linkedin.com/company/thavron-solutions
             extra:
               linkedin_url: https://www.linkedin.com/company/thavron-solutions
+          - item:
+            name: The Coca-Cola Company (member)
+            homepage_url: https://coca-colacompany.com/
+            logo: the_coca_cola_company.svg
+            description: The Coca-Cola Company is the world's largest beverage company, refreshing consumers with over 500 brands in 200 countries. Committed to sustainability and community development, we lead in both sparkling and still beverages.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Alliance for OpenUSD Fund (AOUSDF)
+            organization:
+              name: The Coca-Cola Company
           - item:
             name: The Constant Company, LLC / Vultr (member)
             homepage_url: https://vultr.com/
