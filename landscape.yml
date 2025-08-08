@@ -110,6 +110,28 @@ landscape:
                 - name: Charter
                   url: https://www.opendaylight.org/wp-content/uploads/sites/14/2018/01/ODL-Technical-Charter-LF-Projects-LLC-FINAL.pdf
           - item:
+            name: Academy Color Encoding System (ACES)
+            homepage_url: https://github.com/ampas/aces
+            logo: academy_color_encoding_system_aces.svg
+            description: The mission of the project is to develop a global standard for interchanging digital image files, managing color workflows, and creating masters for delivery and archiving.
+            second_path:
+              - Project Group / Academy Software Foundation (ASWF)
+              - Technology Sector / Visual Effects
+            repo_url: https://github.com/ampas/aces
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-08-05'
+              annotations:
+                slug: aces
+              dev_stats_url: https://insights.linuxfoundation.org/project/aces
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/aces
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfXJcd7sytTjCn40g9
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/aces/aces_Charter.pdf?v=1754503129100
+          - item:
             name: Academy Software Foundation (ASWF)
             homepage_url: https://www.aswf.io/
             logo: academy_software_foundation_aswf.svg
@@ -4281,6 +4303,28 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/case
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWgbLQAT
+          - item:
+            name: Dailies Notes Assistant
+            homepage_url: https://github.com/AcademySoftwareFoundation/dna
+            logo: dailies_notes_assistant.svg
+            description: The mission of the Project is to develop a tool designed to transcribe dailies meetings, analyze the content using an LLM, and provide a plugin system to integrate into production tracking software.
+            second_path:
+              - Project Group / Academy Software Foundation (ASWF)
+              - Technology Sector / Visual Effects
+            repo_url: https://github.com/AcademySoftwareFoundation/dna
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-07-02'
+              annotations:
+                slug: dailies-transcription-notes-taking-tool
+              dev_stats_url: https://insights.linuxfoundation.org/project/dailies-transcription-notes-taking-tool
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/dailies-transcription-notes-taking-tool
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfggVZllmLaTYZFChi
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/dailies-transcription-notes-taking-tool/dailies-transcription-notes-taking-tool_Charter.pdf?v=1752019072458
           - item:
             name: DAOS Foundation
             homepage_url: https://www.daos.io/
@@ -11023,7 +11067,7 @@ landscape:
               - PMO Managed / All
               - Industry / Cross-Industry
               - Technology Sector / Blockchain
-            repo_url: https://github.com/hyperledger/fabric
+            repo_url: https://github.com/hyperledger/governance
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/Hyperledger
             extra:
@@ -11039,8 +11083,7 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wByYAAU
               youtube_url: https://www.youtube.com/@lfdecentralizedtrust
               linkedin_url: https://www.linkedin.com/company/hyperledger-project
-            additional_repos:
-              - repo_url: https://github.com/hyperledger/governance
+            additional_repos: []
           - item:
             name: LF Decentralized Trust Labs
             homepage_url: https://lf-decentralized-trust-labs.github.io/
@@ -17829,6 +17872,28 @@ landscape:
               - repo_url: https://github.com/rladies/praise
               - repo_url: https://github.com/rladies/resources
               - repo_url: https://github.com/rladies/branding-materials
+          - item:
+            name: Rongotai Model Train Club (RMTC)
+            homepage_url: https://rmtc.ai/
+            logo: rongotai_model_train_club_rmtc.svg
+            description: RMTC is a VFX-specific framework for simplifying the production and deployment of AI/ML models using well-tracked and rights-cleared datasets.
+            second_path:
+              - Project Group / Academy Software Foundation (ASWF)
+              - Technology Sector / Visual Effects
+              - Technology Sector / AI, ML, Data & Analytics
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-07-30'
+              annotations:
+                slug: rongotai-model-train-club-rmtc
+              dev_stats_url: https://insights.linuxfoundation.org/project/rongotai-model-train-club-rmtc
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/rongotai-model-train-club-rmtc
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfVbn6YwcC4WwCLufz
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/rongotai-model-train-club-rmtc/rongotai-model-train-club-rmtc_Charter.pdf?v=1754504351394
           - item:
             name: Rook
             homepage_url: https://rook.io/
@@ -32174,6 +32239,15 @@ landscape:
               linkedin: https://www.linkedin.com/company/intesi-group
             extra:
               linkedin_url: https://www.linkedin.com/company/intesi-group
+          - item:
+            name: intrinsic (member)
+            homepage_url: https://www.intrinsic.ai/
+            logo: intrinsic.svg
+            description: Intrinsic is developing an intelligent robotics platform aimed at simplifying the programming and utilization of robots, thereby enabling a broader range of businesses, entrepreneurs, and developers to harness the benefits of automation.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Alliance for OpenUSD Fund (AOUSDF)
+            crunchbase: https://www.crunchbase.com/organization/intrinsic-97a0
           - item:
             name: Intuit, Inc. (member)
             homepage_url: https://intuit.com/
