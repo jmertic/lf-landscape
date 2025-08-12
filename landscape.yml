@@ -5001,6 +5001,26 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wBzBAAU
             additional_repos: []
           - item:
+            name: DIDComm Mediator Service
+            homepage_url: https://github.com/openwallet-foundation/didcomm-mediator-service
+            logo: didcomm_mediator_service.svg
+            description: The DIDComm Mediator Service supports mobile DIDComm agents as a reliable intermediary providing an addressable HTTP endpoint for secure message routing. This enables mobile agents with intermittent connectivity to receive messages from enterprise or other agents through a trusted, decentralized communication channel. In leveraging DIDComm, the service ensures end-to-end encrypted, verifiable message delivery, allowing enterprises to send notifications and initiate interactions with mobile users in a secure and trusted manner.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/openwallet-foundation/didcomm-mediator-service
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-08-11'
+              annotations:
+                slug: owf-didcomm-mediator-service
+              dev_stats_url: https://insights.linuxfoundation.org/project/owf-didcomm-mediator-service
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/owf-didcomm-mediator-service
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfJNysYDPtFsnyplp7
+          - item:
             name: DID Communication Working Group
             homepage_url: https://identity.foundation/
             logo: did_communication_working_group.svg
@@ -7115,6 +7135,28 @@ landscape:
               - repo_url: https://github.com/galasa-dev/galasa
               - repo_url: https://github.com/galasa-dev/helm
               - repo_url: https://github.com/galasa-dev/webui
+          - item:
+            name: Gemara
+            homepage_url: https://github.com/revanite-io/gemara
+            logo: gemara.svg
+            description: to develop a model that's meant to automate security and compliance workflows and provide a standardized framework for security audits
+            second_path:
+              - Project Group / Open Source Security Foundation (OpenSSF)
+              - Technology Sector / Privacy & Security
+            repo_url: https://github.com/revanite-io/gemara
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-08-05'
+              annotations:
+                slug: gemara
+              dev_stats_url: https://insights.linuxfoundation.org/project/gemara
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/gemara
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfoaIk7bewp9b6oado
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/gemara/gemara_Charter.pdf?v=1754505682317
           - item:
             name: GenevaERS
             homepage_url: https://genevaers.org/
@@ -9448,7 +9490,7 @@ landscape:
             description: Jupyter-Xeus is a sub-project of Jupyter Kernels which is a sub-project of Project Jupyter.
             second_path:
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/jupyter-xeus/xeus
+            repo_url: https://github.com/jupyter-xeus/xeus-cling
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-10-09'
@@ -9462,7 +9504,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfWywQs8e8XpeSjrzO
             additional_repos:
-              - repo_url: https://github.com/jupyter-xeus/xeus-cling
+              - repo_url: https://github.com/jupyter-xeus/xeus
               - repo_url: https://github.com/jupyter-xeus/xeus-python
               - repo_url: https://github.com/jupyter-xeus/xeus-robot
               - repo_url: https://github.com/jupyter-xeus/xeus-sql
@@ -9601,6 +9643,28 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/k8up
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkIccQAF
+          - item:
+            name: kagent
+            homepage_url: https://kagent.dev/
+            logo: kagent.svg
+            description: develop a framework to run AI agents in Kubernetes
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/kagent-dev/kagent
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-07-17'
+              annotations:
+                slug: kagent
+                project_org: https://github.com/kagent-dev
+              dev_stats_url: https://insights.linuxfoundation.org/project/kagent
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kagent
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf4G4eA02hYx7S16Gd
+            additional_repos: []
           - item:
             name: Kairos
             homepage_url: https://github.com/kairos-io
@@ -11067,7 +11131,7 @@ landscape:
               - PMO Managed / All
               - Industry / Cross-Industry
               - Technology Sector / Blockchain
-            repo_url: https://github.com/hyperledger/governance
+            repo_url: https://github.com/hyperledger/fabric
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/Hyperledger
             extra:
@@ -11083,7 +11147,8 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wByYAAU
               youtube_url: https://www.youtube.com/@lfdecentralizedtrust
               linkedin_url: https://www.linkedin.com/company/hyperledger-project
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/hyperledger/governance
           - item:
             name: LF Decentralized Trust Labs
             homepage_url: https://lf-decentralized-trust-labs.github.io/
@@ -21264,6 +21329,28 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfoG7KUacGvkymUJjO
           - item:
+            name: TRS
+            homepage_url: https://github.com/openwallet-foundation-labs/trs
+            logo: trs.svg
+            description: The TRS addresses the complexity of implementing trust resolver systems on the client side by providing a unified interface for various trust protocols including OpenID Federation, X.509 certificates, did:web and EBSI Trust Chains.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/openwallet-foundation-labs/trs
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-08-11'
+              annotations:
+                slug: trs
+              dev_stats_url: https://insights.linuxfoundation.org/project/trs
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/trs
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfptNhnaSv3RRv6qRJ
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/trs/trs_Charter.pdf?v=1754942799761
+          - item:
             name: Trustify
             homepage_url: https://github.com/trustification/trustify
             logo: trustify.svg
@@ -21286,7 +21373,7 @@ landscape:
             name: Trust Over IP Project (ToIP)
             homepage_url: https://www.trustoverip.org/
             logo: trust_over_ip_project_toip.svg
-            description: The Trust over IP Foundation is defining a complete architecture for Internet-scale digital trust that combines both cryptographic trust at the machine layer and human trust at the business, legal, and social layers.
+            description: Trust Over IP provides a robust, common standard and complete architecture for Internet-scale digital trust.
             second_path:
               - Project Group / LF Decentralized Trust
               - PMO Managed / All
