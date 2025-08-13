@@ -9490,7 +9490,7 @@ landscape:
             description: Jupyter-Xeus is a sub-project of Jupyter Kernels which is a sub-project of Project Jupyter.
             second_path:
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/jupyter-xeus/xeus-cling
+            repo_url: https://github.com/jupyter-xeus/xeus
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-10-09'
@@ -9504,7 +9504,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfWywQs8e8XpeSjrzO
             additional_repos:
-              - repo_url: https://github.com/jupyter-xeus/xeus
+              - repo_url: https://github.com/jupyter-xeus/xeus-cling
               - repo_url: https://github.com/jupyter-xeus/xeus-python
               - repo_url: https://github.com/jupyter-xeus/xeus-robot
               - repo_url: https://github.com/jupyter-xeus/xeus-sql
@@ -11131,7 +11131,7 @@ landscape:
               - PMO Managed / All
               - Industry / Cross-Industry
               - Technology Sector / Blockchain
-            repo_url: https://github.com/hyperledger/fabric
+            repo_url: https://github.com/hyperledger/governance
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/Hyperledger
             extra:
@@ -11147,8 +11147,7 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wByYAAU
               youtube_url: https://www.youtube.com/@lfdecentralizedtrust
               linkedin_url: https://www.linkedin.com/company/hyperledger-project
-            additional_repos:
-              - repo_url: https://github.com/hyperledger/governance
+            additional_repos: []
           - item:
             name: LF Decentralized Trust Labs
             homepage_url: https://lf-decentralized-trust-labs.github.io/
@@ -15387,11 +15386,13 @@ landscape:
             description: OpenSTX is focused on developing a protocol for open synchronous flooding networks and related software implementations.
             second_path:
               - Technology Sector / IoT & Embedded
+            repo_url: https://github.com/openstx/read.me
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-03-12'
               annotations:
                 slug: murmur-project
+                project_org: https://github.com/openstx
               dev_stats_url: https://insights.linuxfoundation.org/project/murmur-project
               other_links:
                 - name: Calendar
@@ -15399,6 +15400,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfVo31h5MKJatrVMK7
               linkedin_url: https://www.linkedin.com/company/openstx-foundation
+            additional_repos: []
           - item:
             name: OpenSynth
             homepage_url: https://github.com/OpenSynth-energy/OpenSynth
@@ -23884,6 +23886,7 @@ landscape:
               - Project Membership / FinOps Foundation
               - Project Membership / Linux Foundation Europe
               - Project Membership / OpenWallet Foundation
+              - Project Membership / Alliance for OpenUSD Fund (AOUSDF)
               - Project Membership / Camara Fund
             crunchbase: https://www.crunchbase.com/organization/accenture
             twitter: https://twitter.com/Accenture
@@ -31260,6 +31263,7 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / FinOps Foundation
+              - Project Membership / Alliance for OpenUSD Fund (AOUSDF)
             crunchbase: https://www.crunchbase.com/organization/hcl-technologies
             twitter: https://twitter.com/hcltech
             extra:
@@ -42863,6 +42867,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+              - Project Membership / TODO Group
               - Project Membership / Data Plane Development Kit (DPDK)
               - Project Membership / LF Networking (LFN)
               - Project Membership / LF AI & Data
@@ -47302,6 +47307,15 @@ landscape:
               linkedin: https://www.linkedin.com/company/open-infrastructure-foundation
             extra:
               linkedin_url: https://www.linkedin.com/company/open-infrastructure-foundation
+          - item:
+            name: OpenIPC (member)
+            homepage_url: https://openipc.org/
+            logo: openipc.svg
+            description: OpenIPC is an open source operating system targeting IP cameras with ARM and MIPS processors from several manufacturers. It aims to replace the closed, insecure, and unsupported firmware pre-installed by vendors. OpenIPC provides binary pre-compiled fi...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: OpenIPC
           - item:
             name: Open IX Association (member)
             homepage_url: https://open-ix.org/en
