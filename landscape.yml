@@ -6097,6 +6097,35 @@ landscape:
               - repo_url: https://github.com/etcd-io/dbtester
               - repo_url: https://github.com/etcd-io/etcdlabs
           - item:
+            name: EUDIPLO
+            homepage_url: https://github.com/openwallet-foundation-labs/eudiplo
+            logo: eudiplo.svg
+            description: |-
+              Organizations joining the EUDI Wallet ecosystem face a tough choice: patch together protocol libraries that may not exist for their stack, or rely on proprietary solutions that risk vendor lock-in.
+
+              EUDIPLO solves this by providing a lightweight, source-available, protocol abstraction layer. It communicates over HTTP and integrates easily with your existing backend stack—so you can focus on your business logic, not cryptographic plumbing.
+
+              It supports all core flows of electronic attribute attestations—issuing, requesting, and even requesting during issuance—and is already compatible with production-grade EUDI Wallets like Animo.
+
+              While still in early development, EUDIPLO is built for production: secure key management, scalable database support, and clean API boundaries.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/openwallet-foundation-labs/eudiplo
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-08-11'
+              annotations:
+                slug: eudiplo
+              dev_stats_url: https://insights.linuxfoundation.org/project/eudiplo
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/eudiplo
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf7hzLh0zC67Zq0on0
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/eudiplo/eudiplo_Charter.pdf?v=1755100727556
+          - item:
             name: EV Charging SIG
             homepage_url: https://lf-energy.atlassian.net/wiki/spaces/ECS/overview
             logo: ev_charging_sig.svg
@@ -9586,7 +9615,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/k8sgpt-ai/community
+            repo_url: https://github.com/k8sgpt-ai/k8sgpt
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-12-19'
@@ -9600,8 +9629,8 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfQScOZr94zo3mUhAB
             additional_repos:
+              - repo_url: https://github.com/k8sgpt-ai/community
               - repo_url: https://github.com/k8sgpt-ai/website
-              - repo_url: https://github.com/k8sgpt-ai/k8sgpt
               - repo_url: https://github.com/k8sgpt-ai/docs
               - repo_url: https://github.com/k8sgpt-ai/k8sgpt-operator
           - item:
@@ -11502,9 +11531,9 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWzi6QAD
           - item:
-            name: Linux Vendor Firmare Service (LVFS)
+            name: Linux Vendor Firmware Service (LVFS)
             homepage_url: https://fwupd.org/
-            logo: linux_vendor_firmare_service_lvfs.svg
+            logo: linux_vendor_firmware_service_lvfs.svg
             description: The Linux Vendor Firmware Service is a secure portal which allows hardware vendors to upload firmware updates. This site is used by all major Linux distributions to provide metadata for clients such as fwupdmgr and GNOME Software to identify and distribute firmware updates.
             second_path:
               - Project Group / The Linux Foundation
@@ -15125,6 +15154,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openqmc
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfFn5GZ7ccsXkcmxHC
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/openqmc/openqmc_Charter.pdf?v=1755109437753
           - item:
             name: Open Review Initiative
             homepage_url: https://openreviewinitiative.org/
@@ -23405,6 +23436,7 @@ landscape:
               - Project Membership / Yocto Project Fund
               - Project Membership / Zephyr Project
               - Project Membership / LF Networking (LFN)
+              - Project Membership / kernelCI Initiative Fund
               - Project Membership / RISC-V International
               - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
               - Project Membership / Linux Foundation Europe
@@ -25074,6 +25106,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/apollo-graphql
           - item:
+            name: applied37 (member)
+            homepage_url: https://a37.ai/
+            logo: applied37.svg
+            description: An AI-native DevOps workspace transforming how teams manage infrastructure at scale.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            organization:
+              name: applied37
+          - item:
             name: Applied Blockchain (member)
             homepage_url: https://appliedblockchain.com/
             logo: applied_blockchain.svg
@@ -25197,6 +25239,7 @@ landscape:
             name: Archestra.AI (member)
             homepage_url: https://archestra.ai/
             logo: archestra.svg
+            description: Archestra offers an enterprise-grade platform that empowers non-technical users to safely utilize AI agents and Model Context Protocol (MCP) servers, incorporating security guardrails and compliance measures to ensure data protection and controlled exe...
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -25692,18 +25735,6 @@ landscape:
             twitter: https://twitter.com/autodesk
             extra:
               linkedin_url: https://www.linkedin.com/company/autodesk
-          - item:
-            name: Automata Network (member)
-            homepage_url: https://ata.network/
-            logo: automata_network.svg
-            description: 'Automata Network: Decentralized middleware ensuring fairness and privacy in Web3 with products like 1RPC and NFTFair.'
-            second_path:
-              - Project Membership / The Linux Foundation
-            organization:
-              name: Automata Network
-              linkedin: https://www.linkedin.com/company/automatanetwork
-            extra:
-              linkedin_url: https://www.linkedin.com/company/automatanetwork
           - item:
             name: AUTOSOL (member)
             homepage_url: https://autosoln.com/
@@ -28042,14 +28073,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/comira-solutions-inc.
           - item:
-            name: Common Tools (member)
-            homepage_url: https://common.tools/
-            logo: common_tools.svg
-            second_path:
-              - Project Membership / The Linux Foundation
-            organization:
-              name: Common Tools
-          - item:
             name: Commonwealth Bank of Australia (member)
             homepage_url: https://commbank.com.au/
             logo: commonwealth_bank_of_australia.svg
@@ -29781,7 +29804,6 @@ landscape:
             description: 'Protecting Data in Use to enable secure search, sharing, analytics, and collaboration.   #DataInUse #PrivacyEnhancingTechnologies #homomorphicencryption'
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / Confidential Computing Consortium (CCC)
             crunchbase: https://www.crunchbase.com/organization/enveil-inc
             twitter: https://twitter.com/enveil_inc
             extra:
@@ -35969,6 +35991,18 @@ landscape:
             twitter: https://twitter.com/PaloAltoNtwks
             extra:
               linkedin_url: https://www.linkedin.com/company/palo-alto-networks
+          - item:
+            name: PANTHEON.tech s.r.o (member)
+            homepage_url: https://pantheon.tech/
+            logo: pantheon_tech_s_r.svg
+            description: Founded in 2010, Pantheon is the only Drupal and WordPress website management platform, running more than 100,000 sites in the cloud. Pantheon's multi-tenant, container-based platform enables developers, creative agencies, and companies to manage all of their websites from a single dashboard. Pantheon delivers the fastest, most secure platform for developing, testing, and launching all your websites. Customers including Arizona State University, Cisco, Intel, and United Nations trust the Pantheon platform.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / SONiC Fund
+            crunchbase: https://www.crunchbase.com/organization/pantheon-technologies
+            twitter: https://twitter.com/Pantheon_Tech
+            extra:
+              linkedin_url: https://www.linkedin.com/company/pantheon-systems-inc
           - item:
             name: Paramount Software Solutions Inc. (member)
             homepage_url: https://paramountsoft.net/
