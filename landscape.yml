@@ -8080,7 +8080,7 @@ landscape:
               - Project Group / OpenJS Foundation
               - Industry / Cross-Industry
               - Technology Sector / Web & Application Development
-            repo_url: https://github.com/HospitalRun/hospitalrun
+            repo_url: https://github.com/HospitalRun/hospitalrun-frontend
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2019-03-12'
@@ -8094,7 +8094,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4GAQA1
             additional_repos:
-              - repo_url: https://github.com/HospitalRun/hospitalrun-frontend
+              - repo_url: https://github.com/HospitalRun/hospitalrun
               - repo_url: https://github.com/HospitalRun/hospitalrun-server
               - repo_url: https://github.com/HospitalRun/components
               - repo_url: https://github.com/HospitalRun/hospitalrun.io
@@ -9615,7 +9615,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/k8sgpt-ai/k8sgpt
+            repo_url: https://github.com/k8sgpt-ai/community
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-12-19'
@@ -9629,8 +9629,8 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfQScOZr94zo3mUhAB
             additional_repos:
-              - repo_url: https://github.com/k8sgpt-ai/community
               - repo_url: https://github.com/k8sgpt-ai/website
+              - repo_url: https://github.com/k8sgpt-ai/k8sgpt
               - repo_url: https://github.com/k8sgpt-ai/docs
               - repo_url: https://github.com/k8sgpt-ai/k8sgpt-operator
           - item:
@@ -11470,7 +11470,7 @@ landscape:
               - Technology Sector / IoT & Embedded
               - Technology Sector / Linux Kernel
               - Technology Sector / Privacy & Security
-            repo_url: https://github.com/linuxboot/book
+            repo_url: https://github.com/linuxboot/heads
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2018-01-25'
@@ -11484,8 +11484,8 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4JJQA1
             additional_repos:
+              - repo_url: https://github.com/linuxboot/book
               - repo_url: https://github.com/linuxboot/linuxboot
-              - repo_url: https://github.com/linuxboot/heads
               - repo_url: https://github.com/linuxboot/heads-wiki
               - repo_url: https://github.com/linuxboot/fiano
               - repo_url: https://github.com/linuxboot/u-root-builder
@@ -23580,6 +23580,7 @@ landscape:
               - Project Membership / SONiC Fund
               - Project Membership / Ultra Ethernet Consortium Fund
               - Project Membership / Post-Quantum Cryptography Alliance
+              - Project Membership / DAOS Foundation
               - Project Membership / DAOS Foundation
               - Project Membership / App Defense Alliance Fund
               - Project Membership / Unified Acceleration Foundation Fund
@@ -38124,6 +38125,14 @@ landscape:
             twitter: https://twitter.com/SAICinc
             extra:
               linkedin_url: https://www.linkedin.com/company/saicinc
+          - item:
+            name: SCITIX (SGP) TECH PTE. LTD. (member)
+            homepage_url: https://scitix.ai/
+            logo: scitix_sgp_tech_pte_ltd.svg
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/scitix
           - item:
             name: Scope3 (member)
             homepage_url: https://scope3.com/
