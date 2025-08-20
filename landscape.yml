@@ -15417,13 +15417,11 @@ landscape:
             description: OpenSTX is focused on developing a protocol for open synchronous flooding networks and related software implementations.
             second_path:
               - Technology Sector / IoT & Embedded
-            repo_url: https://github.com/openstx/read.me
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-03-12'
               annotations:
                 slug: murmur-project
-                project_org: https://github.com/openstx
               dev_stats_url: https://insights.linuxfoundation.org/project/murmur-project
               other_links:
                 - name: Calendar
@@ -15431,7 +15429,6 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfVo31h5MKJatrVMK7
               linkedin_url: https://www.linkedin.com/company/openstx-foundation
-            additional_repos: []
           - item:
             name: OpenSynth
             homepage_url: https://github.com/OpenSynth-energy/OpenSynth
@@ -18063,6 +18060,28 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/reactive-rsocket
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs8xQAD
+          - item:
+            name: RTC-Tools
+            homepage_url: https://github.com/Deltares/rtc-tools
+            logo: rtc_tools.svg
+            description: RTC-Tools is an open-source Python package for simulation and operational optimization of assets. Models can be specified in Python or in the Modelica modelling language, making it generically applicable to a broad class of assets. It can be used for model-predictive control and operational decision making of water and energy systems.
+            second_path:
+              - Project Group / LF Energy (LFE)
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/Deltares/rtc-tools
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-07-22'
+              annotations:
+                slug: rtc-tools
+              dev_stats_url: https://insights.linuxfoundation.org/project/rtc-tools
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/rtc-tools
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfFMWLlIxeAyyEMxlU
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/rtc-tools/rtc-tools_Charter.pdf?v=1753825022390
           - item:
             name: RUGS (R User Groups)
             homepage_url: https://www.r-consortium.org/
@@ -25053,7 +25072,7 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/aokumoio
           - item:
-            name: APE FACTORY (member)
+            name: ape factory (member)
             homepage_url: https://apefactory.com/
             logo: ape_factory.svg
             description: Helps enterprises in their digital transformation by combining Cloud Native architecture, Data Engineering  and Agile Methodology.
@@ -25062,7 +25081,7 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / Linux Foundation Europe
             organization:
-              name: APE FACTORY
+              name: ape factory
               linkedin: https://www.linkedin.com/company/ape-factory-gmbh
             extra:
               linkedin_url: https://www.linkedin.com/company/ape-factory-gmbh
@@ -26460,6 +26479,20 @@ landscape:
             twitter: https://twitter.com/Boeing
             extra:
               linkedin_url: https://www.linkedin.com/company/boeing
+          - item:
+            name: Bolt Graphics (member)
+            homepage_url: https://bolt.graphics/
+            logo: bolt_graphics.svg
+            description: |-
+              A well-funded startup developing a flexible, scalable ray tracing engine 
+                with best in-class performance for VR and mobile handsets, cloud and mobile 
+                gaming, and cinema rendering.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Academy Software Foundation (ASWF)
+            crunchbase: https://www.crunchbase.com/organization/bolt-graphics
+            extra:
+              linkedin_url: https://www.linkedin.com/company/boltgraphics
           - item:
             name: BONbLOC Inc (member)
             homepage_url: https://bonbloc.com/
