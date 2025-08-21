@@ -5296,7 +5296,7 @@ landscape:
             additional_repos: []
           - item:
             name: Docling
-            homepage_url: https://github.com/DS4SD/docling
+            homepage_url: https://www.docling.ai/
             logo: docling.svg
             description: The mission of the project is to simplify document processing, to parse diverse formats — including advanced PDF understanding — and to provide seamless integrations with the gen AI ecosystem
             second_path:
@@ -12962,6 +12962,30 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs9QQAT
                 - name: Charter
                   url: https://www.opendaylight.org/wp-content/uploads/sites/14/2018/01/ODL-Technical-Charter-LF-Projects-LLC-FINAL.pdf
+          - item:
+            name: Newton
+            homepage_url: https://github.com/newton-physics
+            logo: newton.svg
+            description: An open-source physics engine purpose-built for developing robots
+            second_path:
+              - Technology Sector / AI, ML, Data & Analytics
+              - Technology Sector / IoT & Embedded
+            repo_url: https://github.com/newton-physics/newton
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-08-05'
+              annotations:
+                slug: newton
+                project_org: https://github.com/newton-physics
+              dev_stats_url: https://insights.linuxfoundation.org/project/newton
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/newton
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfbpcnjxf08Ep9CL4q
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/newton/newton_Charter.pdf?v=1754508246131
+            additional_repos: []
           - item:
             name: Nexoedge
             homepage_url: https://github.com/nexoedge/nexoedge
@@ -32389,15 +32413,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/intesi-group
           - item:
-            name: intrinsic (member)
-            homepage_url: https://www.intrinsic.ai/
-            logo: intrinsic.svg
-            description: Intrinsic is developing an intelligent robotics platform aimed at simplifying the programming and utilization of robots, thereby enabling a broader range of businesses, entrepreneurs, and developers to harness the benefits of automation.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Alliance for OpenUSD Fund (AOUSDF)
-            crunchbase: https://www.crunchbase.com/organization/intrinsic-97a0
-          - item:
             name: Intuit, Inc. (member)
             homepage_url: https://intuit.com/
             logo: intuit_inc.svg
@@ -36573,19 +36588,6 @@ landscape:
               linkedin: https://www.linkedin.com/company/powerleader-computer-system-co-ltd
             extra:
               linkedin_url: https://www.linkedin.com/company/powerleader-computer-system-co-ltd
-          - item:
-            name: Praetorian Security Inc (member)
-            homepage_url: https://praetorian.com/
-            logo: praetorian_security_inc.svg
-            description: Praetorian is an information security consulting firm that proactively identifies and guides remediation of material risks to prevent evolving cyber threats. They provide risk assessment, penetration testing, secure software development, and security e...
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / App Defense Alliance Fund
-            organization:
-              name: Praetorian Security Inc
-              linkedin: https://www.linkedin.com/company/praetorian
-            extra:
-              linkedin_url: https://www.linkedin.com/company/praetorian
           - item:
             name: Precisely Holdings, LLC (member)
             homepage_url: https://precisely.com/
