@@ -4732,7 +4732,7 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / AI, ML, Data & Analytics
               - Technology Sector / Storage
-            repo_url: https://github.com/sodafoundation/soda
+            repo_url: https://github.com/sodafoundation/api
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-03-30'
@@ -4746,6 +4746,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWh0zQAD
             additional_repos:
+              - repo_url: https://github.com/sodafoundation/soda
               - repo_url: https://github.com/sodafoundation/strato
               - repo_url: https://github.com/sodafoundation/delfin
               - repo_url: https://github.com/sodafoundation/crystal
@@ -8563,7 +8564,7 @@ landscape:
             second_path:
               - Industry / Cross-Industry
               - Technology Sector / Open Source & Compliance Best Practices
-            repo_url: https://github.com/inclusivenaming/org
+            repo_url: https://github.com/inclusivenaming/website
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-07-01'
@@ -8577,7 +8578,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWiejQAD
             additional_repos:
-              - repo_url: https://github.com/inclusivenaming/website
+              - repo_url: https://github.com/inclusivenaming/org
           - item:
             name: index-import
             homepage_url: https://mobilenativefoundation.org/
@@ -10101,7 +10102,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/kgateway-dev/kgateway
+            repo_url: https://github.com/kgateway-dev/community
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-03-21'
@@ -10115,7 +10116,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf8xN6K6pdCF7GbfgN
             additional_repos:
-              - repo_url: https://github.com/kgateway-dev/community
+              - repo_url: https://github.com/kgateway-dev/kgateway
           - item:
             name: KiCad
             homepage_url: https://kicad.org/
@@ -10369,7 +10370,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/Kuadrant/kuadrant-operator
+            repo_url: https://github.com/Kuadrant/authorino
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-06-19'
@@ -10383,8 +10384,8 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf6cLOjRkdX60xl0l4
             additional_repos:
+              - repo_url: https://github.com/Kuadrant/kuadrant-operator
               - repo_url: https://github.com/Kuadrant/limitador
-              - repo_url: https://github.com/Kuadrant/authorino
               - repo_url: https://github.com/Kuadrant/architecture
               - repo_url: https://github.com/Kuadrant/wasm-shim
               - repo_url: https://github.com/Kuadrant/policy-machinery
@@ -10547,7 +10548,7 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/kubeflow/pipelines
+            repo_url: https://github.com/kubeflow/kubeflow
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-07-25'
@@ -10561,6 +10562,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkNgVQAV
             additional_repos:
+              - repo_url: https://github.com/kubeflow/pipelines
               - repo_url: https://github.com/kubeflow/trainer
               - repo_url: https://github.com/kubeflow/sdk
               - repo_url: https://github.com/kubeflow/katib
@@ -11342,6 +11344,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/lfn
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a094100000aErheAAC
+                - name: Charter
+                  url: https://docs.google.com/document/d/1UgVCarrk2chNCdR5GZcSI6A1PnwRNbCR/edit?usp=sharing&ouid=115348460061026676315&rtpof=true&sd=true
               linkedin_url: https://www.linkedin.com/company/lf-networking
           - item:
             name: LF Projects, LLC
@@ -12555,7 +12559,7 @@ landscape:
               - Project Group / OpenJS Foundation
               - Industry / Cross-Industry
               - Technology Sector / Web & Application Development
-            repo_url: https://github.com/moment/luxon
+            repo_url: https://github.com/moment/moment
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2019-03-12'
@@ -12569,7 +12573,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4GeQAL
             additional_repos:
-              - repo_url: https://github.com/moment/moment
+              - repo_url: https://github.com/moment/luxon
           - item:
             name: monocle
             homepage_url: https://www.okahu.ai/
@@ -15069,12 +15073,7 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openprint
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wBytAAE
-            additional_repos:
-              - repo_url: https://github.com/OpenPrinting/cups-filters
-              - repo_url: https://github.com/OpenPrinting/libcups
-              - repo_url: https://github.com/OpenPrinting/cups-local
-              - repo_url: https://github.com/OpenPrinting/cups-snap
-              - repo_url: https://github.com/OpenPrinting/libcupsfilters
+            additional_repos: []
           - item:
             name: OpenPrinting CUPS
             homepage_url: https://openprinting.github.io/projects/00-cups/
@@ -16498,7 +16497,7 @@ landscape:
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / DevOps, CI:CD & Site Reliability
               - Technology Sector / Web & Application Development
-            repo_url: https://github.com/paketo-buildpacks/samples
+            repo_url: https://github.com/paketo-buildpacks/spring-boot
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-04-21'
@@ -16511,12 +16510,7 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/paketo
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkG7bQAF
-            additional_repos:
-              - repo_url: https://github.com/paketo-buildpacks/java
-              - repo_url: https://github.com/paketo-buildpacks/dotnet-core
-              - repo_url: https://github.com/paketo-buildpacks/nodejs
-              - repo_url: https://github.com/paketo-buildpacks/go
-              - repo_url: https://github.com/paketo-buildpacks/php
+            additional_repos: []
           - item:
             name: Paralus
             homepage_url: https://paralus.io/
@@ -16904,9 +16898,7 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/pqca
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NWnfNQAT
-            additional_repos:
-              - repo_url: https://github.com/PQCA/documentation
-              - repo_url: https://github.com/PQCA/governance
+            additional_repos: []
           - item:
             name: Power Grid Model
             homepage_url: https://github.com/PowerGridModel
