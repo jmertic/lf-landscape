@@ -4732,7 +4732,7 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / AI, ML, Data & Analytics
               - Technology Sector / Storage
-            repo_url: https://github.com/sodafoundation/api
+            repo_url: https://github.com/sodafoundation/soda
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-03-30'
@@ -4746,7 +4746,6 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWh0zQAD
             additional_repos:
-              - repo_url: https://github.com/sodafoundation/soda
               - repo_url: https://github.com/sodafoundation/strato
               - repo_url: https://github.com/sodafoundation/delfin
               - repo_url: https://github.com/sodafoundation/crystal
@@ -10168,7 +10167,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/knative/community
+            repo_url: https://github.com/knative/serving
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-03-02'
@@ -10182,7 +10181,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkSNoQAN
             additional_repos:
-              - repo_url: https://github.com/knative/serving
+              - repo_url: https://github.com/knative/community
               - repo_url: https://github.com/knative/eventing
               - repo_url: https://github.com/knative/docs
               - repo_url: https://github.com/knative/client
@@ -10260,7 +10259,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/konveyor/community
+            repo_url: https://github.com/konveyor/move2kube
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-07-26'
@@ -10274,6 +10273,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L18vrQAB
             additional_repos:
+              - repo_url: https://github.com/konveyor/community
               - repo_url: https://github.com/konveyor/analyzer-lsp
               - repo_url: https://github.com/konveyor/tackle2-hub
               - repo_url: https://github.com/konveyor/operator
@@ -12535,7 +12535,7 @@ landscape:
               - Industry / Energy & Climate
               - Technology Sector / IoT & Embedded
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/moja-global/About_moja_global
+            repo_url: https://github.com/moja-global/community-website
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2016-10-25'
@@ -12549,6 +12549,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a094100001ENvrWAAT
             additional_repos:
+              - repo_url: https://github.com/moja-global/About_moja_global
               - repo_url: https://github.com/moja-global/FLINT
           - item:
             name: Moment
@@ -15073,7 +15074,12 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openprint
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wBytAAE
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/OpenPrinting/cups-filters
+              - repo_url: https://github.com/OpenPrinting/libcups
+              - repo_url: https://github.com/OpenPrinting/cups-local
+              - repo_url: https://github.com/OpenPrinting/cups-snap
+              - repo_url: https://github.com/OpenPrinting/libcupsfilters
           - item:
             name: OpenPrinting CUPS
             homepage_url: https://openprinting.github.io/projects/00-cups/
@@ -16510,7 +16516,13 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/paketo
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkG7bQAF
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/paketo-buildpacks/samples
+              - repo_url: https://github.com/paketo-buildpacks/java
+              - repo_url: https://github.com/paketo-buildpacks/dotnet-core
+              - repo_url: https://github.com/paketo-buildpacks/nodejs
+              - repo_url: https://github.com/paketo-buildpacks/go
+              - repo_url: https://github.com/paketo-buildpacks/php
           - item:
             name: Paralus
             homepage_url: https://paralus.io/
@@ -17491,12 +17503,7 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/rcons
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wByyAAE
-            additional_repos:
-              - repo_url: https://github.com/RConsortium/S7
-              - repo_url: https://github.com/RConsortium/isc
-              - repo_url: https://github.com/RConsortium/charter
-              - repo_url: https://github.com/RConsortium/artwork
-              - repo_url: https://github.com/RConsortium/r-collaboration
+            additional_repos: []
           - item:
             name: Reactive Streams
             homepage_url: https://reactive.foundation/
@@ -18650,12 +18657,7 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/serverlessworkflow
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkOXlQAN
-            additional_repos:
-              - repo_url: https://github.com/serverlessworkflow/catalog
-              - repo_url: https://github.com/serverlessworkflow/sdk-go
-              - repo_url: https://github.com/serverlessworkflow/sdk-java
-              - repo_url: https://github.com/serverlessworkflow/sdk-typescript
-              - repo_url: https://github.com/serverlessworkflow/sdk-net
+            additional_repos: []
           - item:
             name: Service Design & Creation (SDC)
             homepage_url: https://wiki.onap.org/x/T5lk
@@ -18812,8 +18814,7 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWtA7QAL
                 - name: Charter
                   url: https://github.com/lf-energy/foundation/blob/main/project_charters/shapeshifter_charter.pdf
-            additional_repos:
-              - repo_url: https://github.com/shapeshifter/shapeshifter-specification
+            additional_repos: []
           - item:
             name: Shipwright
             homepage_url: https://shipwright.io/
@@ -18836,11 +18837,7 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/shipwright
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KX0gaQAD
-            additional_repos:
-              - repo_url: https://github.com/shipwright-io/cli
-              - repo_url: https://github.com/shipwright-io/operator
-              - repo_url: https://github.com/shipwright-io/community
-              - repo_url: https://github.com/shipwright-io/website
+            additional_repos: []
           - item:
             name: Sidetree Development & Operating Group
             homepage_url: https://identity.foundation/
@@ -20436,12 +20433,7 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/tars
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4MSQA1
-            additional_repos:
-              - repo_url: https://github.com/TarsCloud/TarsGo
-              - repo_url: https://github.com/TarsCloud/TarsJava
-              - repo_url: https://github.com/TarsCloud/TarsWeb
-              - repo_url: https://github.com/TarsCloud/TarsFramework
-              - repo_url: https://github.com/TarsCloud/TarsCpp
+            additional_repos: []
           - item:
             name: TARS Framework
             homepage_url: https://github.com/TarsCloud/TarsFramework
