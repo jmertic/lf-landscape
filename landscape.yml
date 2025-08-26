@@ -407,6 +407,27 @@ landscape:
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/agent2agent/agent2agent_Charter.pdf?v=1750697329076
             additional_repos: []
           - item:
+            name: agentgateway
+            homepage_url: https://www.agentgateway.dev/
+            logo: agentgateway.svg
+            description: The agentgateway project is focused on creating a secure, scalable, and standardized foundation for AI agents to discover, communicate with, and leverage external tools and services—enabling seamless cooperation between agents, models, and APIs across organizations and ecosystems.
+            second_path:
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/agentgateway/agentgateway
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-08-21'
+              annotations:
+                slug: agentgateway
+              dev_stats_url: https://insights.linuxfoundation.org/project/agentgateway
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/agentgateway
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf43tSrKEw3pzOPXp5
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/agentgateway/agentgateway_Charter.pdf?v=1756162150642
+          - item:
             name: AgStack
             homepage_url: https://agstack.org/
             logo: agstack.svg
@@ -5317,6 +5338,27 @@ landscape:
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/DocLing%20Technical%20Charter%20Final%203-14-2025.docx.pdf
           - item:
+            name: DocumentDB
+            homepage_url: https://documentdb.io/
+            logo: documentdb.svg
+            description: DocumentDB offers a native implementation of document-oriented NoSQL database, enabling seamless CRUD operations on BSON data types within a PostgreSQL framework
+            second_path:
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/microsoft/documentdb
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-08-21'
+              annotations:
+                slug: documentdb
+              dev_stats_url: https://insights.linuxfoundation.org/project/documentdb
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/documentdb
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf1rXPdhTVjixQWe1f
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/documentdb/documentdb_Charter.pdf?v=1755900824791
+          - item:
             name: Dojo
             homepage_url: https://dojo.io/
             logo: dojo.svg
@@ -9615,7 +9657,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/k8sgpt-ai/community
+            repo_url: https://github.com/k8sgpt-ai/k8sgpt
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-12-19'
@@ -9629,8 +9671,8 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfQScOZr94zo3mUhAB
             additional_repos:
+              - repo_url: https://github.com/k8sgpt-ai/community
               - repo_url: https://github.com/k8sgpt-ai/website
-              - repo_url: https://github.com/k8sgpt-ai/k8sgpt
               - repo_url: https://github.com/k8sgpt-ai/docs
               - repo_url: https://github.com/k8sgpt-ai/k8sgpt-operator
           - item:
@@ -23620,7 +23662,6 @@ landscape:
               - Project Membership / FinOps Foundation
               - Project Membership / Open Source Security Foundation (OpenSSF)
               - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
-              - Project Membership / eBPF Foundation
               - Project Membership / Linux Foundation Europe
               - Project Membership / PyTorch Foundation
               - Project Membership / SONiC Fund
