@@ -161,6 +161,26 @@ landscape:
               - repo_url: https://github.com/AcademySoftwareFoundation/aswf-sample-project
               - repo_url: https://github.com/AcademySoftwareFoundation/aswf-sample-wg
           - item:
+            name: ACA-Py
+            homepage_url: https://github.com/orgs/openwallet-foundation
+            logo: aca_py.svg
+            description: ACA-Py (Aries Cloud Agent Python) is an open-source framework designed to facilitate the creation, management, and utilization of decentralized digital identities. ACA-Py enables secure, interoperable communication between entities using decentralized identifiers (DIDs) and verifiable credentials, adhering to standards such as DIDComm, OpenID4VCs and the W3C Verifiable Credentials.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/orgs/openwallet-foundation
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-08-27'
+              annotations:
+                slug: owf-aca-py
+              dev_stats_url: https://insights.linuxfoundation.org/project/owf-aca-py
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/owf-aca-py
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf0DmMTjlf1WtxauK7
+          - item:
             name: Accessibility Theme Builder
             homepage_url: https://github.com/finos/a11y-theme-builder
             logo: accessibility_theme_builder.svg
@@ -1486,7 +1506,6 @@ landscape:
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/BeeAI%20Technical%20Charter%20Final%203-14-2025.docx.pdf
             additional_repos:
               - repo_url: https://github.com/i-am-bee/beeai-framework
-              - repo_url: https://github.com/i-am-bee/acp
           - item:
             name: Best Practices Badge
             homepage_url: https://github.com/coreinfrastructure/best-practices-badge
@@ -10589,7 +10608,7 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/kubeflow/pipelines
+            repo_url: https://github.com/kubeflow/kubeflow
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-07-25'
@@ -10603,6 +10622,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkNgVQAV
             additional_repos:
+              - repo_url: https://github.com/kubeflow/pipelines
               - repo_url: https://github.com/kubeflow/trainer
               - repo_url: https://github.com/kubeflow/sdk
               - repo_url: https://github.com/kubeflow/katib
@@ -14342,7 +14362,7 @@ landscape:
             second_path:
               - Industry / Public Health & Disaster Response
               - Technology Sector / IoT & Embedded
-            repo_url: https://github.com/openeew/openeew
+            repo_url: https://github.com/openeew/openeew-firmware
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-06-23'
@@ -14356,7 +14376,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IvwMGQAZ
             additional_repos:
-              - repo_url: https://github.com/openeew/openeew-firmware
+              - repo_url: https://github.com/openeew/openeew
               - repo_url: https://github.com/openeew/openeew.com
               - repo_url: https://github.com/openeew/openeew-dashboard
               - repo_url: https://github.com/openeew/openeew-sensor
@@ -15203,6 +15223,27 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MaI6xQAF
             additional_repos: []
+          - item:
+            name: OpenPRoT
+            homepage_url: https://github.com/openprot/OpenPRoT
+            logo: openprot.svg
+            description: OpenPRoT is a specification and an open-source implementation of a standards-based Platform Root of Trust firmware stack.
+            second_path:
+              - Technology Sector / Open Hardware
+            repo_url: https://github.com/openprot/OpenPRoT
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-08-21'
+              annotations:
+                slug: openprot
+              dev_stats_url: https://insights.linuxfoundation.org/project/openprot
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openprot
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfh4B99ky6QVBpbBko
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/openprot/openprot_Charter.pdf?v=1756331954840
           - item:
             name: OpenQMC
             homepage_url: https://github.com/openqmc
@@ -25332,8 +25373,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-            organization:
-              name: Archestra.AI
+            crunchbase: https://www.crunchbase.com/organization/archestra-ai
           - item:
             name: Arcium Association (member)
             homepage_url: https://arcium.com/
@@ -25729,8 +25769,6 @@ landscape:
             description: Auradine is a pioneer in web infrastructure solutions, specializing in blockchain, privacy, and AI software development. They offer sustainable and scalable evolution of Bitcoin, with solutions that address leading blockchains, innovative AI, and secur...
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / SONiC Fund
-              - Project Membership / Ultra Ethernet Consortium Fund
               - Project Membership / Ultra Ethernet Consortium Fund
             organization:
               name: Auradine
@@ -41793,7 +41831,6 @@ landscape:
               Viettel Group is a leading telecom operator pioneering digital societies with over 110 million subscribers and a global presence in 13 countries.
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / RISC-V International
             organization:
               name: Viettel Semiconductor Center
               linkedin: https://www.linkedin.com/company/viettel-group
