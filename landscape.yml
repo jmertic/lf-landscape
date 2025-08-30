@@ -9579,7 +9579,7 @@ landscape:
             description: Jupyter-Xeus is a sub-project of Jupyter Kernels which is a sub-project of Project Jupyter.
             second_path:
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/jupyter-xeus/xeus
+            repo_url: https://github.com/jupyter-xeus/xeus-cling
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-10-09'
@@ -9593,7 +9593,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfWywQs8e8XpeSjrzO
             additional_repos:
-              - repo_url: https://github.com/jupyter-xeus/xeus-cling
+              - repo_url: https://github.com/jupyter-xeus/xeus
               - repo_url: https://github.com/jupyter-xeus/xeus-python
               - repo_url: https://github.com/jupyter-xeus/xeus-robot
               - repo_url: https://github.com/jupyter-xeus/xeus-sql
@@ -9675,7 +9675,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/k8sgpt-ai/k8sgpt
+            repo_url: https://github.com/k8sgpt-ai/community
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-12-19'
@@ -9689,8 +9689,8 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfQScOZr94zo3mUhAB
             additional_repos:
-              - repo_url: https://github.com/k8sgpt-ai/community
               - repo_url: https://github.com/k8sgpt-ai/website
+              - repo_url: https://github.com/k8sgpt-ai/k8sgpt
               - repo_url: https://github.com/k8sgpt-ai/docs
               - repo_url: https://github.com/k8sgpt-ai/k8sgpt-operator
           - item:
@@ -11220,7 +11220,7 @@ landscape:
               - PMO Managed / All
               - Industry / Cross-Industry
               - Technology Sector / Blockchain
-            repo_url: https://github.com/hyperledger/governance
+            repo_url: https://github.com/hyperledger/fabric
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/Hyperledger
             extra:
@@ -11236,7 +11236,8 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wByYAAU
               youtube_url: https://www.youtube.com/@lfdecentralizedtrust
               linkedin_url: https://www.linkedin.com/company/hyperledger-project
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/hyperledger/governance
           - item:
             name: LF Decentralized Trust Labs
             homepage_url: https://lf-decentralized-trust-labs.github.io/
@@ -27852,8 +27853,7 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / FinOps Foundation
-            organization:
-              name: CloudGov
+            crunchbase: https://www.crunchbase.com/organization/cloudgov
           - item:
             name: Cloud&Heat Technologies GmbH (member)
             homepage_url: https://cloudandheat.com/
@@ -28200,6 +28200,14 @@ landscape:
               linkedin: https://www.linkedin.com/company/comira-solutions-inc.
             extra:
               linkedin_url: https://www.linkedin.com/company/comira-solutions-inc.
+          - item:
+            name: Common Tools (member)
+            homepage_url: https://common.tools/
+            logo: common_tools.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Common Tools
           - item:
             name: Commonwealth Bank of Australia (member)
             homepage_url: https://commbank.com.au/
