@@ -9579,7 +9579,7 @@ landscape:
             description: Jupyter-Xeus is a sub-project of Jupyter Kernels which is a sub-project of Project Jupyter.
             second_path:
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/jupyter-xeus/xeus-cling
+            repo_url: https://github.com/jupyter-xeus/xeus
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-10-09'
@@ -9593,7 +9593,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfWywQs8e8XpeSjrzO
             additional_repos:
-              - repo_url: https://github.com/jupyter-xeus/xeus
+              - repo_url: https://github.com/jupyter-xeus/xeus-cling
               - repo_url: https://github.com/jupyter-xeus/xeus-python
               - repo_url: https://github.com/jupyter-xeus/xeus-robot
               - repo_url: https://github.com/jupyter-xeus/xeus-sql
@@ -11220,7 +11220,7 @@ landscape:
               - PMO Managed / All
               - Industry / Cross-Industry
               - Technology Sector / Blockchain
-            repo_url: https://github.com/hyperledger/fabric
+            repo_url: https://github.com/hyperledger/governance
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/Hyperledger
             extra:
@@ -11236,8 +11236,7 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wByYAAU
               youtube_url: https://www.youtube.com/@lfdecentralizedtrust
               linkedin_url: https://www.linkedin.com/company/hyperledger-project
-            additional_repos:
-              - repo_url: https://github.com/hyperledger/governance
+            additional_repos: []
           - item:
             name: LF Decentralized Trust Labs
             homepage_url: https://lf-decentralized-trust-labs.github.io/
