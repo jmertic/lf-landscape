@@ -11094,7 +11094,7 @@ landscape:
             second_path:
               - Industry / Cross-Industry
               - Technology Sector / Web & Application Development
-            repo_url: https://github.com/laminas/technical-steering-committee
+            repo_url: https://github.com/laminas/laminas-code
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-03-24'
@@ -11108,6 +11108,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001HFf90QAD
             additional_repos:
+              - repo_url: https://github.com/laminas/technical-steering-committee
               - repo_url: https://github.com/laminas/laminas-mvc-skeleton
               - repo_url: https://github.com/laminas/.github
           - item:
@@ -24045,6 +24046,7 @@ landscape:
               - Project Membership / Trust Over IP Project (ToIP)
               - Project Membership / FINOS (The Fintech Open Source Foundation)
               - Project Membership / FinOps Foundation
+              - Project Membership / Green Software Foundation Fund
               - Project Membership / Linux Foundation Europe
               - Project Membership / OpenWallet Foundation
               - Project Membership / Alliance for OpenUSD Fund (AOUSDF)
@@ -25069,6 +25071,18 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/anonyome-labs-inc-
           - item:
+            name: Anritsu (member)
+            homepage_url: https://anritsu.com/
+            logo: anritsu.svg
+            description: 'Anritsu Corporation (���_��_�ە�_�ە�__��_��_��__��____��___ Anritsu Kabushiki-gaisha?) is a Japanese company specializing in the test and measurement equipment market. Products include network call trace, service assurance, customer experience management, microwave, radio frequency (RF), and optical signal generators, spectrum analyzers, and network analyzers. It was formed with the merger of two companies, the Annaka Corporation and Kyoritsu Electric in Japan in 1931. In 1990, Anritsu acquired Wiltron Company in the United States. Net sales in FY2008 were ��_��_84 billion (US$782 million). It has been listed on the Tokyo Stock Exchange since 1961 (TYO: 6754). As of 2009, it employed 3,700 employees in 20 countries'
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Ultra Ethernet Consortium Fund
+            crunchbase: https://www.crunchbase.com/organization/anritsu
+            twitter: https://twitter.com/Anritsu
+            extra:
+              linkedin_url: https://www.linkedin.com/company/anritsu
+          - item:
             name: Ansys (member)
             homepage_url: https://ansys.com/
             logo: ansys.svg
@@ -25762,19 +25776,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/audiokinetic
           - item:
-            name: Auradine (member)
-            homepage_url: https://auradine.com/
-            logo: auradine.svg
-            description: Auradine is a pioneer in web infrastructure solutions, specializing in blockchain, privacy, and AI software development. They offer sustainable and scalable evolution of Bitcoin, with solutions that address leading blockchains, innovative AI, and secur...
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Ultra Ethernet Consortium Fund
-            organization:
-              name: Auradine
-              linkedin: https://www.linkedin.com/company/auradine
-            extra:
-              linkedin_url: https://www.linkedin.com/company/auradine
-          - item:
             name: Aureka (member)
             homepage_url: https://aureka.net/
             logo: aureka.svg
@@ -26041,18 +26042,6 @@ landscape:
             twitter: https://twitter.com/ayanworkstech
             extra:
               linkedin_url: https://www.linkedin.com/company/ayanworks
-          - item:
-            name: Azul (member)
-            homepage_url: https://azulsystems.com/
-            logo: azul.svg
-            description: Headquartered in Sunnyvale, California, Azul provides the Java platform for the modern cloud enterprise. Azul is the only company 100% focused on Java. Millions of Java developers, hundreds of millions of devices and the world’s most highly regarded businesses trust Azul to power their applications with exceptional capabilities, performance, security, value, and success. Azul customers include 36% of the Fortune 100, 50% of Forbes top-10 World’s Most Valuable Brands, all 10 of the world’s top-10 financial trading companies and leading brands like Avaya, Bazaarvoice, BMW, Credit Suisse, Deutsche Telekom, LG, Mastercard, Mizuho, Priceline, Salesforce, Software AG, and Workday. Learn more at azul.com and follow us @azulsystems.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / FinOps Foundation
-            crunchbase: https://www.crunchbase.com/organization/azul-systems
-            twitter: https://twitter.com/AzulSystems
-            extra:
-              linkedin_url: https://www.linkedin.com/company/azul-systems
           - item:
             name: B1 Systems GmbH (member)
             homepage_url: https://b1-systems.de/
@@ -27457,6 +27446,16 @@ landscape:
             twitter: https://twitter.com/chronosphereio
             extra:
               linkedin_url: https://www.linkedin.com/company/chronosphereio
+          - item:
+            name: Cielara (member)
+            homepage_url: https://cielara.ai/
+            logo: cielara.svg
+            description: Cielara lets enterprises run and manage their applications anywhere in the cloud, as easily as if they were running them in one place.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Cielara
           - item:
             name: Ciena Canada, ULC (member)
             homepage_url: https://ciena.com/
@@ -31348,19 +31347,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/harnessinc
           - item:
-            name: Hashgraph Foundry Inc. (DBA Hashgraph) (member)
-            homepage_url: https://hashgraph.com/
-            logo: hashgraph_foundry_inc.svg
-            description: Hashgraph is a distributed ledger technology company that offers a secure and efficient platform for building decentralized applications. Their innovative consensus algorithm provides fast and fair transactions, making them a leader in the blockchain i...
-            second_path:
-              - Project Membership / LF Decentralized Trust
-              - Project Membership / The Linux Foundation
-            organization:
-              name: Hashgraph Foundry Inc. (DBA Hashgraph)
-              linkedin: https://www.linkedin.com/company/hashgraph
-            extra:
-              linkedin_url: https://www.linkedin.com/company/hashgraph
-          - item:
             name: HashiCorp Inc (member)
             homepage_url: https://hashicorp.com/
             logo: hashicorp_inc.svg
@@ -31515,6 +31501,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+              - Project Membership / TODO Group
               - Project Membership / Open Programmable Infrastructure Fund
               - Project Membership / Ultra Ethernet Consortium Fund
               - Project Membership / DAOS Foundation
@@ -31534,6 +31521,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/hexagon
             extra:
               linkedin_url: https://www.linkedin.com/company/hexagon-ab
+          - item:
+            name: Hidora (member)
+            homepage_url: https://hikube.cloud/
+            logo: hidora.svg
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/hidora
           - item:
             name: Highlight (member)
             homepage_url: https://highlight.io/
@@ -31577,6 +31572,15 @@ landscape:
             twitter: https://twitter.com/Honorglobal
             extra:
               linkedin_url: https://www.linkedin.com/company/hihonor
+          - item:
+            name: hoop.dev (member)
+            homepage_url: https://hoop.dev/
+            logo: hoop.svg
+            description: Hoop.dev provides a cloud-native SSH solution with SSO integration for privileged access management, enabling secure remote access and autonomy for engineers while enhancing security measures.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/hoopdev
           - item:
             name: Hostersi sp. z o.o. (member)
             homepage_url: https://hostersi.pl/
@@ -37575,6 +37579,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/regnosys
           - item:
+            name: Relvy AI Labs, Inc. (member)
+            homepage_url: https://relvy.ai/
+            logo: relvy_ai_labs_inc.svg
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/relvy-ai
+          - item:
             name: Renault (member)
             homepage_url: https://renault.com/
             logo: renault.svg
@@ -39245,6 +39257,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/sonatype
           - item:
+            name: SOOHO.IO (member)
+            homepage_url: https://sooho.io/
+            logo: sooho.svg
+            description: SOOHO.IO is a Korean startup offering automated smart contract security services, DeFi, and blockchain solutions to create a safe and user-friendly blockchain ecosystem.
+            second_path:
+              - Project Membership / LF Decentralized Trust
+              - Project Membership / The Linux Foundation
+            organization:
+              name: SOOHO.IO
+          - item:
             name: SORAMITSU CO., LTD. (member)
             homepage_url: https://soramitsu.co.jp/
             logo: soramitsu_co_ltd.svg
@@ -40540,6 +40562,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/tennet-tso-bv
           - item:
+            name: Tensor9 (member)
+            homepage_url: https://tensor9.com/
+            logo: tensor9.svg
+            description: Tensor9 enables servers to use sensitive data without seeing it, eliminating the need to secure servers against data leaks. It works with health data, financial data, identities, location history, credentials, and more. The company ensures fast SOC2, I...
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/tensor9
+          - item:
             name: TensorMesh, Inc. (member)
             homepage_url: https://tensormesh.ai/
             logo: tensormesh_inc.svg
@@ -40555,6 +40586,7 @@ landscape:
             description: At Tenstorrent, we build chips to power the models of the future.
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / Zephyr Project
               - Project Membership / RISC-V International
               - Project Membership / Linux Foundation Europe
               - Project Membership / Ultra Ethernet Consortium Fund
@@ -41286,7 +41318,6 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / TODO Group
               - Project Membership / The Presto Foundation
-              - Project Membership / Overture Maps Foundation Fund
             crunchbase: https://www.crunchbase.com/organization/uber
             twitter: https://twitter.com/Uber
             extra:
@@ -41366,6 +41397,19 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/umb-ag
           - item:
+            name: Unified Streaming (member)
+            homepage_url: https://unified-streaming.com/
+            logo: unified_streaming.svg
+            description: Unified Streaming simplifies video delivery complexities with its Unified Streaming Platform, enabling seamless streaming across multiple clients and devices, and helps customers solve complex streaming challenges globally.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
+            organization:
+              name: Unified Streaming
+              linkedin: https://www.linkedin.com/company/unified-streaming
+            extra:
+              linkedin_url: https://www.linkedin.com/company/unified-streaming
+          - item:
             name: Unikraft GmbH (member)
             homepage_url: https://unikraft.io/
             logo: unikraft_gmbh.svg
@@ -41444,6 +41488,17 @@ landscape:
             twitter: https://twitter.com/UpCloud
             extra:
               linkedin_url: https://www.linkedin.com/company/upcloud
+          - item:
+            name: Upscale AI, Inc. (member)
+            homepage_url: https://upscaleai.com/
+            logo: upscale_ai_inc.svg
+            description: Upscale AI delivers scalable, standards-based open AI backend networks that are designed to meet the demanding speed, scale, and control requirements of AI workloads, addressing the challenges posed by unprecedented throughput and intelligent automatio...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / SONiC Fund
+              - Project Membership / Ultra Ethernet Consortium Fund
+            organization:
+              name: Upscale AI, Inc.
           - item:
             name: Upsider (member)
             homepage_url: https://up-sider.com/
@@ -41827,6 +41882,7 @@ landscape:
               Viettel Group is a leading telecom operator pioneering digital societies with over 110 million subscribers and a global presence in 13 countries.
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / RISC-V International
             organization:
               name: Viettel Semiconductor Center
               linkedin: https://www.linkedin.com/company/viettel-group
@@ -46168,6 +46224,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/keralablockchainacademy
           - item:
+            name: KERI Foundation (member)
+            homepage_url: https://keri.foundation/
+            logo: keri_foundation.svg
+            description: KERI Foundation leads the autonomous identity revolution with visionary guidance and innovative security solutions.
+            second_path:
+              - Project Membership / LF Decentralized Trust
+              - Project Membership / The Linux Foundation
+            organization:
+              name: KERI Foundation
+          - item:
             name: KETI (Korea Electronics Technology Institute) (member)
             homepage_url: https://keti.re.kr/
             logo: keti_korea_electronics_technology_institute.svg
@@ -47007,6 +47073,15 @@ landscape:
               linkedin: https://www.linkedin.com/company/next-gen-networks-institute
             extra:
               linkedin_url: https://www.linkedin.com/company/next-gen-networks-institute
+          - item:
+            name: NgKore (member)
+            homepage_url: https://ngkore.org/
+            logo: ngkore.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / LF Networking (LFN)
+            organization:
+              name: NgKore
           - item:
             name: NHK (Japan Broadcasting Corporation) (member)
             homepage_url: https://nhk.or.jp/
