@@ -5426,27 +5426,6 @@ landscape:
                 - name: Charter
                   url: https://www.opnfv.org/wp-content/uploads/sites/12/2018/04/OPNFV-Project-a-Series-of-LF-Projects-LLC-Technical-Charter-4-10-2018.pdf
           - item:
-            name: DPDK-burst-replay
-            homepage_url: https://www.dpdk.org/hosted-projects/
-            logo: dpdk_burst_replay.svg
-            description: The tool is designed to provide high DPDK performances to burst any pcap dump on a single or multiple NIC port(s), while keeping it simple to use.
-            second_path:
-              - Project Group / Data Plane Development Kit (DPDK)
-              - Industry / Cross-Industry
-              - Technology Sector / Networking & Edge
-            repo_url: http://git.dpdk.org/apps/dpdk-burst-replay
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2018-10-26'
-              annotations:
-                slug: dpdk-burst-replay
-              dev_stats_url: https://insights.linuxfoundation.org/project/dpdk-burst-replay
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/dpdk-burst-replay
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4BPQA1
-          - item:
             name: Dragonfly
             homepage_url: https://d7y.io/
             logo: dragonfly.svg
@@ -9983,27 +9962,6 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4QeQAL
             additional_repos: []
           - item:
-            name: Keptn
-            homepage_url: https://keptn.sh/
-            logo: keptn.svg
-            description: Keptn – pronounced captain – is a control-plane for DevOps automation of cloud-native applications.
-            second_path:
-              - Project Group / Cloud Native Computing Foundation (CNCF)
-              - Industry / Cross-Industry
-              - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/keptn/keptn
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2020-06-23'
-              annotations:
-                slug: keptn
-              dev_stats_url: https://insights.linuxfoundation.org/project/keptn
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/keptn
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkOXQQA3
-          - item:
             name: kernelCI Initiative Fund
             homepage_url: https://kernelci.org/
             logo: kernelci_initiative_fund.svg
@@ -11094,7 +11052,7 @@ landscape:
             second_path:
               - Industry / Cross-Industry
               - Technology Sector / Web & Application Development
-            repo_url: https://github.com/laminas/laminas-code
+            repo_url: https://github.com/laminas/technical-steering-committee
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-03-24'
@@ -11108,7 +11066,6 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001HFf90QAD
             additional_repos:
-              - repo_url: https://github.com/laminas/technical-steering-committee
               - repo_url: https://github.com/laminas/laminas-mvc-skeleton
               - repo_url: https://github.com/laminas/.github
           - item:
@@ -13048,7 +13005,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfbpcnjxf08Ep9CL4q
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/newton/newton_Charter.pdf?v=1754508246131
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/newton-physics/mujoco-usd-converter
+              - repo_url: https://github.com/newton-physics/newton-governance
           - item:
             name: Nexoedge
             homepage_url: https://github.com/nexoedge/nexoedge
@@ -17023,8 +16982,7 @@ landscape:
             name: PowSyBL
             homepage_url: https://powsybl.org/
             logo: powsybl.svg
-            description: |
-              Open source, modular Java library with Python bindings designed for comprehensive electrical grid modeling, simulation, and visualization, enabling complex power flow, security, and dynamic analyses
+            description: Open source, modular Java library with Python & Julia bindings designed for comprehensive electrical grid modeling, simulation, and visualization, enabling complex power flow, security, and dynamic analyses.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
@@ -28054,47 +28012,17 @@ landscape:
             homepage_url: https://clyso.com/
             logo: clyso_gmbh.svg
             description: |-
-              About us
-              Clyso GmbH is a German company located in Munich, passionate about the Cloud.
+              CLYSO is a German company with headquarters in Munich, dedicated to Cloud Computing. We specialize in building highly scalable and globally distributed cloud environments, offering the deep expertise needed to design, build, deploy, and operate comprehensive solutions. Our core focus spans the IaaS, PaaS, and SaaS layers, and we actively use open-source technology to minimize risks related to IT security, licensing costs, and technical bottlenecks. Our competence is tangible through our leading role in the Ceph community. We hold key roles like Performance Lead and Executive Board Member of the Ceph Foundation, and our team includes Ceph Ambassadors for the DACH region, India, and France. With over 2,700 commits, our developers are major contributors to the Ceph codebase, proving we are co-creators of the technology, not just users. We are the only Platinum member of the Ceph Foundation with a commercial support model focused on the entire Ceph ecosystem, which guarantees maximum flexibility and the right partnership for any challenge. Our employees have completed over 500 successful Ceph projects, handling a vast range of use cases. Our work is also recognized in academia; our Ceph implementation at GWDG achieved a top ranking in the renowned IO500 list, demonstrating our ability to deliver outstanding performance in the most demanding environments. CLYSO is defined by its solid structure, focused drive, and service-oriented culture. With 39 employees in Germany and 8 in North America, we specialize almost exclusively in Ceph. Over 18 of our developers are dedicated solely to building and optimizing Ceph solutions, ensuring you partner with a team that understands the technology from the ground up. Our support model ensures you speak directly with the developers and architects who actively shape the product, minimizing friction and accelerating problem resolution. Our engagement at events like Cephalocon and Ceph Days shows our commitment to actively shaping the future of the technology. When you work with us, you work with a partner that not only stays up-to-date but also drives development. Our continuous contributions to bug fixing and code development directly benefit the stability and security of the solutions we implement.
 
-              We build highly scaleable and distributed Cloud Computing environments worldwide.
-              We provide the skillset and experience to design, build, deploy und operate Cloud Computing solutions.
+              WEBSITE: http://www.clyso.com
+              * **Headquarters:** Munich, Bavaria
+              * **Year founded:** 2010
+              * **Company size:** 11-50 employees
+              * **Specialties:** Private/Hybrid Cloud Computing at large scale, CEPH software defined storage at large scale, Linux, and Opensource Technologies
 
-              Our technical focus is in IaaS, PaaS and SaaS layers. We actively use Open Source Technologie to minimize the risks of IT security, license costs and technical bottlenecks.
+              ### **1 Office Location**
 
-              We serve some of the biggest German companies.
-
-              Please do not hasitate to contact us, should you require any further information (www.clyso.com)
-
-              Company details
-              Website
-              http://www.clyso.com
-              Headquarters
-              Munich, Bavaria
-
-              Year founded
-              2010
-
-              Company size
-              11-50 employees
-              Specialties
-              Private/Hybrid Cloud Computing at large scale (+100 TB RAM, +30.000 cores and worldwide distributed datacenters), CEPH software defined storage at large scale (Petabyte), Linux, and Opensource Technologies
-
-              Featured Groups
-               Logo for Ceph Users	Ceph Users
-              Ceph Users
-              1,343 members
-               
-               Logo for Linux	Linux
-              Linux
-              9,784 members
-               
-               Logo for Kubernetes	Kubernetes
-              Kubernetes
-              10,970 members
-              1 Office location
-              Main
-              Loristraße 8, Munich, Bavaria 80335, DE
+              * **Main:** Hohenzollernstr. 27, 80801 Munich - DE
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -29920,18 +29848,6 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/enum-6d6d
           - item:
-            name: env0 (member)
-            homepage_url: https://env0.com/
-            logo: env0.svg
-            description: Automate the provisioning of Terraform workflows and Infrastructure as Code with env0. Get visibility, predictability and governance on your cloud deployments.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/env0
-            twitter: https://twitter.com/envZero
-            extra:
-              linkedin_url: https://www.linkedin.com/company/env0
-          - item:
             name: Enveil (member)
             homepage_url: https://enveil.com/
             logo: enveil.svg
@@ -29965,6 +29881,18 @@ landscape:
               - Project Membership / FinOps Foundation
             organization:
               name: Envisor
+          - item:
+            name: ENVZERO (member)
+            homepage_url: https://env0.com/
+            logo: envzero.svg
+            description: Automate the provisioning of Terraform workflows and Infrastructure as Code with env0. Get visibility, predictability and governance on your cloud deployments.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/env0
+            twitter: https://twitter.com/envZero
+            extra:
+              linkedin_url: https://www.linkedin.com/company/env0
           - item:
             name: EPAM Systems, Inc (member)
             homepage_url: https://epam.com/
@@ -36115,7 +36043,15 @@ landscape:
             name: PANTHEON.tech s.r.o (member)
             homepage_url: https://pantheon.tech/
             logo: pantheon_tech_s_r.svg
-            description: Founded in 2010, Pantheon is the only Drupal and WordPress website management platform, running more than 100,000 sites in the cloud. Pantheon's multi-tenant, container-based platform enables developers, creative agencies, and companies to manage all of their websites from a single dashboard. Pantheon delivers the fastest, most secure platform for developing, testing, and launching all your websites. Customers including Arizona State University, Cisco, Intel, and United Nations trust the Pantheon platform.
+            description: |-
+              PANTHEON.tech is a leading, software R&D company, shaping the future of modern networking.
+
+              With over two decades of experience and 200+ successful projects, we cooperate with enterprises, telcos, and service providers around the world to automate, orchestrate, and secure their networks.
+
+              Our expertise spans open-source network technologies,custom development, and full lifecycle support – from consultations and integration to testing and maintenance. Whether it’s orchestration in SONiC-enabled data centers, OpenDaylight-based automation, our solutions are built to reduce complexity, cut costs, and drive innovation.
+              At the core of everything we do is a deep commitment to open-source. As the largest contributors to OpenDaylight and key participants in projects like FD.io VPP, we don’t just follow standards — we help create them. Our engineers thrive in collaborative communities and push boundaries alongside the industry’s leading organizations.
+
+              From Fortune 500 clients to agile startups, we partner with teams who require technical excellence and future-proof design.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / SONiC Fund
@@ -36472,7 +36408,6 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-              - Project Membership / FinOps Foundation
             crunchbase: https://www.crunchbase.com/organization/platform9-systems-inc
             twitter: https://twitter.com/Platform9Sys
             extra:
