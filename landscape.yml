@@ -10565,7 +10565,7 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/kubeflow/pipelines
+            repo_url: https://github.com/kubeflow/kubeflow
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-07-25'
@@ -10579,6 +10579,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkNgVQAV
             additional_repos:
+              - repo_url: https://github.com/kubeflow/pipelines
               - repo_url: https://github.com/kubeflow/trainer
               - repo_url: https://github.com/kubeflow/sdk
               - repo_url: https://github.com/kubeflow/katib
@@ -16986,7 +16987,7 @@ landscape:
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/powsybl/powsybl-starter
+            repo_url: https://github.com/powsybl/powsybl-core
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-05-14'
@@ -17002,11 +17003,11 @@ landscape:
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/powsybl-lf-europe/powsybl-lf-europe_Charter.pdf?v=1747249821217
             additional_repos:
-              - repo_url: https://github.com/powsybl/powsybl-core
               - repo_url: https://github.com/powsybl/powsybl-open-loadflow
               - repo_url: https://github.com/powsybl/powsybl-diagram
               - repo_url: https://github.com/powsybl/pypowsybl
               - repo_url: https://github.com/powsybl/powsybl-open-rao
+              - repo_url: https://github.com/powsybl/powsybl-starter
           - item:
             name: Pravega
             homepage_url: https://www.pravega.io/
@@ -26394,6 +26395,7 @@ landscape:
             logo: block_inc.svg
             description: Square provides merchants and individuals with an application which allows debit and credit cards to be processed through their phone or tablet.
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / TODO Group
               - Project Membership / CHIPS Alliance Fund
@@ -28008,7 +28010,7 @@ landscape:
             organization:
               name: Clussys Inc
           - item:
-            name: Clyso GmbH (member)
+            name: CLYSO GmbH (member)
             homepage_url: https://clyso.com/
             logo: clyso_gmbh.svg
             description: |-
@@ -29455,16 +29457,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ebay
           - item:
-            name: EcoFlow (member)
+            name: EcoFlow Inc. (member)
             homepage_url: https://ecoflow.com/
-            logo: ecoflow.svg
+            logo: ecoflow_inc.svg
             description: EcoFlow specializes in providing portable power stations and solar panels designed to ensure readiness for power outages and facilitate off-grid living.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / LF AI & Data
               - Project Membership / LF Energy (LFE)
             organization:
-              name: EcoFlow
+              name: EcoFlow Inc.
               linkedin: https://www.linkedin.com/company/ecoflowtech
             extra:
               linkedin_url: https://www.linkedin.com/company/ecoflowtech
@@ -30458,6 +30460,7 @@ landscape:
               - Project Membership / SPDX
               - Project Membership / The Linux Foundation
               - Project Membership / FINOS (The Fintech Open Source Foundation)
+              - Project Membership / Linux Foundation Europe
             crunchbase: https://www.crunchbase.com/organization/fossid
             twitter: https://twitter.com/FOSSID_AB
             extra:
@@ -31306,6 +31309,14 @@ landscape:
             twitter: https://twitter.com/HasuraHQ
             extra:
               linkedin_url: https://www.linkedin.com/company/hasura
+          - item:
+            name: Hatchet (member)
+            homepage_url: https://hatchet.run/
+            logo: hatchet.svg
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/hatchet-0f2d
           - item:
             name: HawkStack Technologies Private Limited (member)
             homepage_url: https://hawkstack.com/
@@ -39985,6 +39996,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/sva-system-vertrieb-alexander-gmbh
           - item:
+            name: Sweet Security (member)
+            homepage_url: https://sweet.security/
+            logo: sweet_security.svg
+            description: Sweet is a cloud runtime security suite that focuses on critical cloud risks and provides pivotal insights to enhance operations.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/sweet-security
+          - item:
             name: Swisscom (member)
             homepage_url: https://swisscom.com/
             logo: swisscom.svg
@@ -44187,6 +44207,17 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/csc---it-center-for-science
           - item:
+            name: CSIR (member)
+            homepage_url: https://csir.co.za/
+            logo: csir.svg
+            description: CSIR
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/event
+            twitter: https://twitter.com/CSIR
+            extra:
+              linkedin_url: https://www.linkedin.com/company/csir
+          - item:
             name: CSIRO/DATA 61 (member)
             homepage_url: https://data61.csiro.au/
             logo: csiro_data_61.svg
@@ -44758,6 +44789,15 @@ landscape:
             twitter: https://twitter.com/EnergyFdn
             extra:
               linkedin_url: https://www.linkedin.com/company/the-energy-foundation
+          - item:
+            name: Energy IoT Open Source (member)
+            homepage_url: https://eiot.energy/
+            logo: energy_iot_open_source.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / LF Energy (LFE)
+            organization:
+              name: Energy IoT Open Source
           - item:
             name: EnergyTag (member)
             homepage_url: https://energytag.org/
