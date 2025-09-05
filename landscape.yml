@@ -3419,27 +3419,6 @@ landscape:
               - repo_url: https://github.com/com-pas/compas-scl-auto-alignment
               - repo_url: https://github.com/com-pas/compas-scl-validator
           - item:
-            name: Compliant Financial Infrastructure
-            homepage_url: https://github.com/finos/cloud-service-certification
-            logo: compliant_financial_infrastructure.svg
-            description: Cloud Service Certification Project -> should be renamed to Compliant Financial Infrastructure
-            second_path:
-              - Project Group / FINOS (The Fintech Open Source Foundation)
-              - Industry / Financials
-              - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/finos/compliant-financial-infrastructure
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2020-06-30'
-              annotations:
-                slug: cloud-service-certification
-              dev_stats_url: https://insights.linuxfoundation.org/project/cloud-service-certification
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cloud-service-certification
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkUatQAF
-          - item:
             name: composefs
             homepage_url: https://github.com/containers/composefs
             logo: composefs.svg
@@ -3843,6 +3822,7 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkOXIQA3
             additional_repos:
               - repo_url: https://github.com/projectcontour/contour
+              - repo_url: https://github.com/projectcontour/helm-charts
           - item:
             name: Copa
             homepage_url: https://github.com/project-copacetic/copacetic
@@ -10565,7 +10545,7 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/kubeflow/kubeflow
+            repo_url: https://github.com/kubeflow/pipelines
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-07-25'
@@ -10579,7 +10559,6 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkNgVQAV
             additional_repos:
-              - repo_url: https://github.com/kubeflow/pipelines
               - repo_url: https://github.com/kubeflow/trainer
               - repo_url: https://github.com/kubeflow/sdk
               - repo_url: https://github.com/kubeflow/katib
@@ -28014,17 +27993,11 @@ landscape:
             homepage_url: https://clyso.com/
             logo: clyso_gmbh.svg
             description: |-
-              CLYSO is a German company with headquarters in Munich, dedicated to Cloud Computing. We specialize in building highly scalable and globally distributed cloud environments, offering the deep expertise needed to design, build, deploy, and operate comprehensive solutions. Our core focus spans the IaaS, PaaS, and SaaS layers, and we actively use open-source technology to minimize risks related to IT security, licensing costs, and technical bottlenecks. Our competence is tangible through our leading role in the Ceph community. We hold key roles like Performance Lead and Executive Board Member of the Ceph Foundation, and our team includes Ceph Ambassadors for the DACH region, India, and France. With over 2,700 commits, our developers are major contributors to the Ceph codebase, proving we are co-creators of the technology, not just users. We are the only Platinum member of the Ceph Foundation with a commercial support model focused on the entire Ceph ecosystem, which guarantees maximum flexibility and the right partnership for any challenge. Our employees have completed over 500 successful Ceph projects, handling a vast range of use cases. Our work is also recognized in academia; our Ceph implementation at GWDG achieved a top ranking in the renowned IO500 list, demonstrating our ability to deliver outstanding performance in the most demanding environments. CLYSO is defined by its solid structure, focused drive, and service-oriented culture. With 39 employees in Germany and 8 in North America, we specialize almost exclusively in Ceph. Over 18 of our developers are dedicated solely to building and optimizing Ceph solutions, ensuring you partner with a team that understands the technology from the ground up. Our support model ensures you speak directly with the developers and architects who actively shape the product, minimizing friction and accelerating problem resolution. Our engagement at events like Cephalocon and Ceph Days shows our commitment to actively shaping the future of the technology. When you work with us, you work with a partner that not only stays up-to-date but also drives development. Our continuous contributions to bug fixing and code development directly benefit the stability and security of the solutions we implement.
+              Founded in 2010, CLYSO is a German company with headquarters in Munich, dedicated to Cloud Computing. We specialize in building highly scalable and globally distributed cloud environments, offering the deep expertise needed to design, build, deploy, and operate comprehensive solutions. Our core focus spans the IaaS, PaaS, and SaaS layers, and we actively use open-source technology to minimize risks related to IT security, licensing costs, and technical bottlenecks. Our competence is tangible through our leading role in the Ceph community. We hold key roles like Performance Lead and Executive Board Member of the Ceph Foundation, and our team includes Ceph Ambassadors for the DACH region, India, and France. With over 2,700 commits, our developers are major contributors to the Ceph codebase, proving we are co-creators of the technology, not just users.
+              We are the only Platinum member of the Ceph Foundation with a commercial support model focused on the entire Ceph ecosystem, which guarantees maximum flexibility and the right partnership for any challenge. Our employees have completed over 500 successful Ceph projects, handling a vast range of use cases. Our work is also recognized in academia; our Ceph implementation at GWDG achieved a top ranking in the renowned IO500 list, demonstrating our ability to deliver outstanding performance in the most demanding environments.
+              CLYSO is defined by its solid structure, focused drive, and service-oriented culture. With 39 employees in Germany and 8 in North America, we specialize almost exclusively in Ceph. Over 18 of our developers are dedicated solely to building and optimizing Ceph solutions, ensuring you partner with a team that understands the technology from the ground up. Our support model ensures you speak directly with the developers and architects who actively shape the product, minimizing friction and accelerating problem resolution. Our engagement at events like Cephalocon and Ceph Days shows our commitment to actively shaping the future of the technology. When you work with us, you work with a partner that not only stays up-to-date but also drives development. Our continuous contributions to bug fixing and code development directly benefit the stability and security of the solutions we implement.
 
-              WEBSITE: http://www.clyso.com
-              * **Headquarters:** Munich, Bavaria
-              * **Year founded:** 2010
-              * **Company size:** 11-50 employees
-              * **Specialties:** Private/Hybrid Cloud Computing at large scale, CEPH software defined storage at large scale, Linux, and Opensource Technologies
-
-              ### **1 Office Location**
-
-              * **Main:** Hohenzollernstr. 27, 80801 Munich - DE
+              We specialize in designing, deploying, and operating highly resilient, large-scale infrastructures across Private Cloud, Public Cloud, and Multi Cloud domains. Our engineering capabilities encompass integration of Software Defined Storage using Ceph, automated lifecycle management via Kubernetes and Openstack, and the orchestration of IaaS and PaaS platforms tailored for complex enterprise workloads. Leveraging deep expertise in Linux and OpenSource Technologies, our team applies advanced optimization, security hardening, and cost management strategies to deliver scalable, high-performance environments. By adopting infrastructure-as-code, advanced monitoring, and multi-tenant architectures, we accelerate cloud transformation projects—empowering organizations to achieve operational agility, efficiency, and future-ready cloud ecosystems.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -31462,8 +31435,9 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/hexagon-ab
           - item:
             name: Hidora (member)
-            homepage_url: https://hikube.cloud/
+            homepage_url: https://hidora.io/
             logo: hidora.svg
+            description: Hidora provides scalable cloud hosting solutions, managed services, and DevOps consulting in Switzerland, focusing on secure and automated services tailored to meet the needs of businesses running various applications.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -41055,7 +41029,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/treyee
           - item:
             name: Triam Security (member)
-            homepage_url: https://triamsecurity.com/
+            homepage_url: https://cleanstart.com/
             logo: triam_security.svg
             description: |-
               Triamsecurity is a leading provider of comprehensive security solutions for businesses. We offer a wide range of products and services to help protect your company from various threats. Our team of experts specializes in risk assessment, security consu...
@@ -49052,7 +49026,6 @@ landscape:
 
               CERN, the European Organization for Nuclear Research, is the world's largest particle physics lab, probing the fundamental structure of particles to understand the Universe using complex scientific instruments.
             second_path:
-              - Project Membership / The Linux Foundation
               - Project Membership / The Linux Foundation
               - Project Membership / Ceph Foundation
             crunchbase: https://www.crunchbase.com/organization/cern
