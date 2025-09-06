@@ -20195,51 +20195,6 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfPAwwpSfWvpeRnlj8
           - item:
-            name: Sustainable & Scalable Infrastructure Alliance Fund
-            homepage_url: https://ssia.org/
-            logo: sustainable_scalable_infrastructure_alliance_fund.svg
-            description: Sustainable & Scalable Infrastructure Alliance is an open platform that can fit any 19” rack ​environment for servers, storage and networking.
-            second_path:
-              - Project Group / The Linux Foundation
-              - PMO Managed / All
-              - Industry / Cross-Industry
-              - Technology Sector / Open Hardware
-            repo_url: https://gitlab.com/open19
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            twitter: https://twitter.com/nil
-            extra:
-              accepted: '2021-04-21'
-              annotations:
-                slug: open19
-              dev_stats_url: https://insights.linuxfoundation.org/project/open19
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/open19
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkUsrQAF
-          - item:
-            name: Sustainable & Scalable Infrastructure Alliance Project
-            homepage_url: https://ssia.org/
-            logo: sustainable_scalable_infrastructure_alliance_project.svg
-            description: Sustainable & Scalable Infrastructure Alliance is an open platform that can fit any 19” rack ​environment for servers, storage and networking.
-            second_path:
-              - Project Group / Sustainable & Scalable Infrastructure Alliance Fund
-              - PMO Managed / All
-              - Industry / Information Technology
-              - Technology Sector / Open Hardware
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            twitter: https://twitter.com/nil
-            extra:
-              accepted: '2020-12-28'
-              annotations:
-                slug: open19-project
-              dev_stats_url: https://insights.linuxfoundation.org/project/open19-project
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/open19-project
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWg5jQAD
-          - item:
             name: Sylva Fund
             homepage_url: https://sylvaproject.org/
             logo: sylva_fund.svg
@@ -23334,6 +23289,7 @@ landscape:
               - Project Membership / Open Source Security Foundation (OpenSSF)
               - Project Membership / Linux Foundation Europe
               - Project Membership / PyTorch Foundation
+              - Project Membership / OpenWallet Foundation
               - Project Membership / Ultra Ethernet Consortium Fund
             crunchbase: https://www.crunchbase.com/organization/huawei
             twitter: https://twitter.com/Huawei
@@ -26296,6 +26252,17 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/bentley-systems
           - item:
+            name: Bindplane (member)
+            homepage_url: https://bindplane.com/
+            logo: bindplane.svg
+            description: Bindplane brings clarity and control to your existing observability data chaos. Bindplane reduce cost, simplify collection, and transform your telemetry data while sending to the right destinations.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/blue-medora
+            extra:
+              linkedin_url: https://www.linkedin.com/company/observiq
+          - item:
             name: BISDN (member)
             homepage_url: https://bisdn.de/
             logo: bisdn.svg
@@ -28107,6 +28074,7 @@ landscape:
             logo: common_tools.svg
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / Confidential Computing Consortium (CCC)
             organization:
               name: Common Tools
           - item:
@@ -33570,6 +33538,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/pytorch-lightning
           - item:
+            name: Lightwheel Limited (member)
+            homepage_url: https://lightwheel.ai/
+            logo: lightwheel_limited.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Alliance for OpenUSD Fund (AOUSDF)
+            organization:
+              name: Lightwheel Limited
+          - item:
             name: Like Minds Consulting (member)
             homepage_url: https://likemindsconsulting.com/
             logo: like_minds_consulting.svg
@@ -35938,16 +35915,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/otterize
           - item:
-            name: Overlai LLC (member)
-            homepage_url: https://overlai.app/
-            logo: overlai_llc.svg
-            description: Overlai is an AI photo protection app that ensures the privacy of your photos before you upload them to social media & anywhere online. Our app combines Distributed Ledger Technology (DLT), decentralized storage, and advanced watermarks to protect your...
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
-            organization:
-              name: Overlai LLC
-          - item:
             name: OVH SAS (member)
             homepage_url: https://ovh.com/
             logo: ovh_sas.svg
@@ -37378,6 +37345,17 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/reality-defender
           - item:
+            name: Realtek Semiconductor Corporation (member)
+            homepage_url: https://realtek.com/
+            logo: realtek_semiconductor_corporation.svg
+            description: Realtek Semiconductor Corp. is principally engaged in the research, development, production and distribution of integrated circuits (ICs). The Company’s products portfolio consists of communications network ICs, including Ethernet controllers, gateway ...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Ultra Ethernet Consortium Fund
+            crunchbase: https://www.crunchbase.com/organization/realtek
+            extra:
+              linkedin_url: https://www.linkedin.com/company/realtek-semiconductor-corp.
+          - item:
             name: RealTheory Inc (member)
             homepage_url: https://realtheory.io/
             logo: realtheory_inc.svg
@@ -37767,6 +37745,14 @@ landscape:
             twitter: https://twitter.com/rootlyhq
             extra:
               linkedin_url: https://www.linkedin.com/company/rootlyhq
+          - item:
+            name: RSM Collective (member)
+            homepage_url: https://rsmc.ai/
+            logo: rsm_collective.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: RSM Collective
           - item:
             name: RTE (Reseau de Transport dElectricite) (member)
             homepage_url: https://rte-france.com/
@@ -44160,6 +44146,15 @@ landscape:
             organization:
               name: CRESYM
           - item:
+            name: Croydon Tutorial College (member)
+            homepage_url: https://croydontutorialcollege.education/
+            logo: croydon_tutorial_college.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Zephyr Project
+            organization:
+              name: Croydon Tutorial College
+          - item:
             name: CRYPTOGRAPGHY DEVELOPMENT INITIATIVE IN NIGERIA (member)
             homepage_url: https://cdin.ng/
             logo: cryptograpghy_development_initiative_in_nigeria.svg
@@ -44916,14 +44911,9 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/etc-cooperative
           - item:
             name: Ethereum Foundation (member)
-            homepage_url: https://ethereum.org/
+            homepage_url: https://ethereum.foundation/
             logo: ethereum_foundation.svg
-            description: |-
-              Ethereum is a global, decentralized platform for money and new kinds of applications. On Ethereum, you can write code that controls money, and build applications accessible anywhere in the world.
-
-              --- Merged Data:
-
-              Ethereum is a decentralized, open source blockchain platform and programming language that enables developers to build and publish next-generation distributed applications. It allows for the codification, decentralization, security, and trading of vari...
+            description: Ethereum is a global, decentralized platform for money and new kinds of applications. On Ethereum, you can write code that controls money, and build applications accessible anywhere in the world.
             second_path:
               - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
