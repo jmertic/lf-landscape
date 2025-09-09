@@ -3480,6 +3480,35 @@ landscape:
                 - name: Charter
                   url: https://github.com/accordproject/concerto/blob/master/CHARTER.md
           - item:
+            name: Concourse WG
+            homepage_url: https://concourse-ci.org/
+            logo: concourse_wg.svg
+            description: Concourse is an automation system written in Go. It is most commonly used for CI/CD, and is built to scale to any kind of automation pipeline, from simple to complex.
+            second_path:
+              - Project Group / Cloud Foundry Foundation (CFF)
+              - Technology Sector / DevOps, CI:CD & Site Reliability
+            repo_url: https://github.com/concourse/concourse
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-09-05'
+              annotations:
+                slug: concourse-wg
+                project_org: https://github.com/concourse
+              dev_stats_url: https://insights.linuxfoundation.org/project/concourse-wg
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/concourse-wg
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfom0merlCpVmu8t8o
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/concourse-wg/concourse-wg_Charter.pdf?v=1757358680535
+            additional_repos:
+              - repo_url: https://github.com/concourse/docs
+              - repo_url: https://github.com/concourse/ci
+              - repo_url: https://github.com/concourse/examples
+              - repo_url: https://github.com/concourse/rfcs
+              - repo_url: https://github.com/concourse/concourse-chart
+          - item:
             name: Confidential Computing Consortium (CCC)
             homepage_url: https://confidentialcomputing.io/
             logo: confidential_computing_consortium_ccc.svg
@@ -10850,7 +10879,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/kubewarden/kubewarden-controller
+            repo_url: https://github.com/kubewarden/kwctl
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-06-14'
@@ -10864,8 +10893,8 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkRyUQAV
             additional_repos:
-              - repo_url: https://github.com/kubewarden/kwctl
               - repo_url: https://github.com/kubewarden/policy-server
+              - repo_url: https://github.com/kubewarden/kubewarden-controller
               - repo_url: https://github.com/kubewarden/rust-policy-template
               - repo_url: https://github.com/kubewarden/go-policy-template
               - repo_url: https://github.com/kubewarden/swift-policy-template
@@ -32184,7 +32213,7 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/inspur-group-co-ltd-
           - item:
             name: Instnt Inc. (member)
-            homepage_url: https://instnt.org/
+            homepage_url: https://instnt.ai/
             logo: instnt_inc.svg
             description: Instnt is the first fully managed customer onboarding service for businesses with up to $100M annually in fraud loss liability insurance.
             second_path:
