@@ -5742,6 +5742,26 @@ landscape:
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/egeria%20technical%20charter_10.27.20.pdf
           - item:
+            name: EHR Wallet
+            homepage_url: https://github.com/openwallet-foundation-labs/ehr-wallet
+            logo: ehr_wallet.svg
+            description: EHR Wallet is an innovative blockchain-powered healthcare information solution designed to empower patients with full control over their medical data while streamlining healthcare provider workflows. The platform enables secure sharing of medical records, imaging data, and patient information using decentralized web3 technologies.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/openwallet-foundation-labs/ehr-wallet
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-09-09'
+              annotations:
+                slug: ehr-wallet
+              dev_stats_url: https://insights.linuxfoundation.org/project/ehr-wallet
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ehr-wallet
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfza6zO9ScakgMfOj5
+          - item:
             name: eKuiper
             homepage_url: https://github.com/lf-edge/ekuiper
             logo: ekuiper.svg
@@ -10879,7 +10899,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/kubewarden/kwctl
+            repo_url: https://github.com/kubewarden/kubewarden-controller
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-06-14'
@@ -10893,8 +10913,8 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkRyUQAV
             additional_repos:
+              - repo_url: https://github.com/kubewarden/kwctl
               - repo_url: https://github.com/kubewarden/policy-server
-              - repo_url: https://github.com/kubewarden/kubewarden-controller
               - repo_url: https://github.com/kubewarden/rust-policy-template
               - repo_url: https://github.com/kubewarden/go-policy-template
               - repo_url: https://github.com/kubewarden/swift-policy-template
@@ -13017,6 +13037,7 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/newton-physics/mujoco-usd-converter
               - repo_url: https://github.com/newton-physics/newton-governance
+              - repo_url: https://github.com/newton-physics/newton-assets
           - item:
             name: Nexoedge
             homepage_url: https://github.com/nexoedge/nexoedge
@@ -23314,6 +23335,7 @@ landscape:
               - Project Membership / ELISA Fund
               - Project Membership / LF Edge
               - Project Membership / Confidential Computing Consortium (CCC)
+              - Project Membership / RISC-V International
               - Project Membership / Open 3D Foundation
               - Project Membership / Open Source Security Foundation (OpenSSF)
               - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
@@ -42512,6 +42534,7 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / TODO Group
+              - Project Membership / Ceph Foundation
               - Project Membership / CHIPS Alliance Fund
               - Project Membership / Ultra Ethernet Consortium Fund
             crunchbase: https://www.crunchbase.com/organization/western-digital-capital
