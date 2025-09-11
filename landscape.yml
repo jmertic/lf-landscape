@@ -10899,7 +10899,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/kubewarden/kubewarden-controller
+            repo_url: https://github.com/kubewarden/kwctl
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-06-14'
@@ -10913,8 +10913,8 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkRyUQAV
             additional_repos:
-              - repo_url: https://github.com/kubewarden/kwctl
               - repo_url: https://github.com/kubewarden/policy-server
+              - repo_url: https://github.com/kubewarden/kubewarden-controller
               - repo_url: https://github.com/kubewarden/rust-policy-template
               - repo_url: https://github.com/kubewarden/go-policy-template
               - repo_url: https://github.com/kubewarden/swift-policy-template
@@ -13263,7 +13263,6 @@ landscape:
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/OAAX%20Technical%20Charter%20Final%203-5-2025.docx.pdf
             additional_repos:
-              - repo_url: https://github.com/OAAX-standard/contributions
               - repo_url: https://github.com/OAAX-standard/examples
               - repo_url: https://github.com/OAAX-standard/reference-implementation
           - item:
@@ -28349,10 +28348,8 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Academy Software Foundation (ASWF)
+            crunchbase: https://www.crunchbase.com/organization/coreweave
             twitter: https://twitter.com/CoreWeave
-            organization:
-              name: CoreWeave, Inc.
-              linkedin: https://www.linkedin.com/company/coreweave
             extra:
               linkedin_url: https://www.linkedin.com/company/coreweave
           - item:
@@ -34492,7 +34489,6 @@ landscape:
             description: Micron Technology, Inc. is a privately owned multinational company based in Boise, Idaho, USA. Micron Technology is best known for producing many forms of semiconductor devices. This includes DRAM, SDRAM, flash memory, SSD and CMOS image sensing chips. Most consumers are more familiar with its consumer brand Crucial Technology. The company was founded in 1978 and is based out of Boise, Idaho.
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / CHIPS Alliance Fund
               - Project Membership / Ultra Ethernet Consortium Fund
               - Project Membership / Unified Acceleration Foundation Fund
             crunchbase: https://www.crunchbase.com/organization/micron-technology
@@ -35751,7 +35747,6 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-              - Project Membership / FinOps Foundation
             crunchbase: https://www.crunchbase.com/organization/openmetal
             extra:
               linkedin_url: https://www.linkedin.com/company/openmetalio
