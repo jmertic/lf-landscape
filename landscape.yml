@@ -2622,7 +2622,7 @@ landscape:
             second_path:
               - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/claimed-framework/component-library
+            repo_url: https://github.com/claimed-framework/claimed
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-12-15'
@@ -10594,7 +10594,7 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/kubeflow/pipelines
+            repo_url: https://github.com/kubeflow/kubeflow
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-07-25'
@@ -10608,6 +10608,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkNgVQAV
             additional_repos:
+              - repo_url: https://github.com/kubeflow/pipelines
               - repo_url: https://github.com/kubeflow/trainer
               - repo_url: https://github.com/kubeflow/sdk
               - repo_url: https://github.com/kubeflow/katib
@@ -28346,6 +28347,7 @@ landscape:
             logo: coreweave_inc.svg
             description: CoreWeave - Accelerating the way the world creates.  NVIDIA GTC Registration 👇  https://t.co/twAghCKTyP
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / Academy Software Foundation (ASWF)
             crunchbase: https://www.crunchbase.com/organization/coreweave
@@ -30221,18 +30223,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/factory-19d8
             extra:
               linkedin_url: https://www.linkedin.com/company/factory-hq
-          - item:
-            name: FactSet Research Systems Inc. (member)
-            homepage_url: https://factset.com/
-            logo: factset_research_systems_inc.svg
-            description: FactSet Research Systems is a financial data and software company headquartered in Norwalk, CT. The Company provides financial information and analytic software for investment professionals. FactSet offers access to data and analytics to analysts, portfolio managers, and investment bankers at global financial institutions. The Company does not offer products for individual investors. In addition to combining several hundred disparate databases, the company develops and refines its software and provides clients with local, dedicated consultants, 24-hour phone support, and free training.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / FINOS (The Fintech Open Source Foundation)
-            crunchbase: https://www.crunchbase.com/organization/factset-research-systems
-            twitter: https://twitter.com/FactSet
-            extra:
-              linkedin_url: https://www.linkedin.com/company/factset
           - item:
             name: Fairwinds Ops, Inc (member)
             homepage_url: https://fairwinds.com/
@@ -39249,8 +39239,7 @@ landscape:
             second_path:
               - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
-            organization:
-              name: SOOHO.IO
+            crunchbase: https://www.crunchbase.com/organization/sooho
           - item:
             name: SORAMITSU CO., LTD. (member)
             homepage_url: https://soramitsu.co.jp/
@@ -41171,6 +41160,19 @@ landscape:
             twitter: https://twitter.com/truepic
             extra:
               linkedin_url: https://www.linkedin.com/company/truepic-inc
+          - item:
+            name: TrustAsia Technologies (member)
+            homepage_url: https://trustasia.com/
+            logo: trustasia_technologies.svg
+            description: TrustAsia is a professional network information security service provider, specializing in providing a series of network information security management solutions, such as SSL digital certificate of international famous brand, SSL certificate of TrustA...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
+            organization:
+              name: TrustAsia Technologies
+              linkedin: https://www.linkedin.com/company/trustasia
+            extra:
+              linkedin_url: https://www.linkedin.com/company/trustasia
           - item:
             name: Trustwise (member)
             homepage_url: https://trustwise.ai/
