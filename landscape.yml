@@ -456,7 +456,7 @@ landscape:
               - PMO Managed / All
               - Industry / Materials
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/agstack/weather-server
+            repo_url: https://github.com/agstack/autogeobound
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-05-05'
@@ -1800,6 +1800,27 @@ landscape:
               - repo_url: https://github.com/buildpacks/community
               - repo_url: https://github.com/buildpacks/samples
           - item:
+            name: C4SB Project
+            homepage_url: https://github.com/orgs/C4SBF
+            logo: c4sb_project.svg
+            second_path:
+              - Technology Sector / IoT & Embedded
+              - Technology Sector / Networking & Edge
+              - Technology Sector / Web & Application Development
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/orgs/C4SBF
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-06-03'
+              annotations:
+                slug: c4sb-project
+              dev_stats_url: https://insights.linuxfoundation.org/project/c4sb-project
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/c4sb-project
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfHKhnDDE4aKNWxKUD
+          - item:
             name: CacheCash
             homepage_url: https://github.com/cachecashproject
             logo: cachecash.svg
@@ -3018,7 +3039,7 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / Web & Application Development
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/c2pa-org/specifications
+            repo_url: https://github.com/c2pa-org/public-testfiles
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/c2pa_org
             extra:
@@ -3044,7 +3065,7 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / Web & Application Development
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/c2pa-org/specifications
+            repo_url: https://github.com/c2pa-org/public-testfiles
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-02-22'
@@ -4711,7 +4732,7 @@ landscape:
             second_path:
               - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/DeepRec-AI/DeepRec
+            repo_url: https://github.com/DeepRec-AI/extension
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-05-05'
@@ -6603,7 +6624,7 @@ landscape:
             second_path:
               - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/feathr-ai/feathr
+            repo_url: https://github.com/feathr-ai/feathr-online
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/nil
             extra:
@@ -6674,7 +6695,7 @@ landscape:
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/fidopower/.github
+            repo_url: https://github.com/fidopower/tsc
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-01-03'
@@ -9333,7 +9354,7 @@ landscape:
               - PMO Managed / All
               - Industry / Cross-Industry
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/Joint-Development-Foundation/.github
+            repo_url: https://github.com/Joint-Development-Foundation/repo_template
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2014-06-06'
@@ -10571,20 +10592,17 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/kubefleet-dev/kubefleet
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-03-24'
               annotations:
                 slug: kubefleet
-                project_org: https://github.com/kubefleet-dev
               dev_stats_url: https://insights.linuxfoundation.org/project/kubefleet
               other_links:
                 - name: Calendar
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kubefleet
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfdiYFaTHKx9hXX9qE
-            additional_repos: []
           - item:
             name: Kubeflow
             homepage_url: https://github.com/kubeflow
@@ -10594,7 +10612,7 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/kubeflow/kubeflow
+            repo_url: https://github.com/kubeflow/pipelines
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-07-25'
@@ -10608,7 +10626,6 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkNgVQAV
             additional_repos:
-              - repo_url: https://github.com/kubeflow/pipelines
               - repo_url: https://github.com/kubeflow/trainer
               - repo_url: https://github.com/kubeflow/sdk
               - repo_url: https://github.com/kubeflow/katib
@@ -11058,7 +11075,7 @@ landscape:
             second_path:
               - Project Group / LF AI & Data
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/lakesoul-io/LakeSoul
+            repo_url: https://github.com/lakesoul-io/lakesoul-io.github.io
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-06-08'
@@ -13125,7 +13142,7 @@ landscape:
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/NODE-Collective/specification
+            repo_url: https://github.com/NODE-Collective/.github
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-11-11'
@@ -15174,7 +15191,7 @@ landscape:
             second_path:
               - Project Group / Open Programmable Infrastructure Fund
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/opiproject/opi
+            repo_url: https://github.com/opiproject/sztp
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-06-09'
@@ -15197,7 +15214,7 @@ landscape:
               - Project Group / The Linux Foundation
               - PMO Managed / All
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/opiproject/opi
+            repo_url: https://github.com/opiproject/sztp
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-06-21'
@@ -17558,7 +17575,7 @@ landscape:
               - PMO Managed / All
               - Industry / Cross-Industry
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/RConsortium/IDEA-WG
+            repo_url: https://github.com/RConsortium/RMedicine_website
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2015-05-07'
@@ -18383,13 +18400,11 @@ landscape:
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/sc-decarbonization-hub/SCDHApi
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-09-26'
               annotations:
                 slug: sc-decarbonisation-hub
-                project_org: https://github.com/sc-decarbonization-hub
               dev_stats_url: https://insights.linuxfoundation.org/project/sc-decarbonisation-hub
               other_links:
                 - name: Calendar
@@ -18398,7 +18413,6 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfLxmTMlwn9Fj9aCbx
                 - name: Charter
                   url: https://github.com/lf-energy/foundation/blob/main/project_charters/sc-decarbonisation-hub_charter.pdf
-            additional_repos: []
           - item:
             name: SchemaHero
             homepage_url: https://schemahero.io/
@@ -21524,7 +21538,7 @@ landscape:
             second_path:
               - Project Group / Open Mainframe Project (OMP)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/TSTerminal/TSTerm
+            repo_url: https://github.com/TSTerminal/Term4Z
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-11-18'
@@ -23140,7 +23154,7 @@ landscape:
             second_path:
               - Project Group / Open Mainframe Project (OMP)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/zopencommunity/meta
+            repo_url: https://github.com/zopencommunity/gitport
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-05-03'
@@ -24654,6 +24668,7 @@ landscape:
             name: Almaviva S.p.A. (member)
             homepage_url: https://almaviva.it/
             logo: almaviva_s_p_a.svg
+            description: AlmavivA is a leading Italian group in Information and Communication Technology, specializing in enhancing the customer journey across all contact channels through its people-centered platform, Almawave, which utilizes natural language understanding an...
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Green Software Foundation Fund
@@ -25175,6 +25190,19 @@ landscape:
             twitter: https://twitter.com/logiq_ai
             extra:
               linkedin_url: https://www.linkedin.com/company/logiq-ai
+          - item:
+            name: Apideck (member)
+            homepage_url: https://apideck.com/
+            logo: apideck.svg
+            description: Apideck redefines API integration, enabling developers to build integrations 100 times faster through a single API.
+            second_path:
+              - Project Membership / OpenAPI Initiative
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Apideck
+              linkedin: https://www.linkedin.com/company/apideck
+            extra:
+              linkedin_url: https://www.linkedin.com/company/apideck
           - item:
             name: Apiiro (member)
             homepage_url: https://apiiro.com/
@@ -29542,6 +29570,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/effectual-inc
           - item:
+            name: EigenQ (member)
+            homepage_url: https://eigenq.com/
+            logo: eigenq.svg
+            description: EigenQ specializes in providing quantum-safe security solutions designed to protect critical systems and networks from potential quantum computer attacks, ensuring robust data control and security for enterprises, government organizations, and the defe...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Post-Quantum Cryptography Alliance
+            organization:
+              name: EigenQ
+          - item:
             name: Elasticsearch, Inc. (member)
             homepage_url: https://elastic.co/
             logo: elasticsearch_inc.svg
@@ -30507,6 +30545,15 @@ landscape:
             twitter: https://twitter.com/Framestore
             extra:
               linkedin_url: https://www.linkedin.com/company/framestore
+          - item:
+            name: Framework (member)
+            homepage_url: https://frame.work/
+            logo: framework.svg
+            description: Framework offers the Framework Laptop, a thin, light, high-performance notebook that is upgradeable, repairable, and customizable, remaking consumer electronics to respect people and the planet.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Framework
           - item:
             name: Frontier (member)
             homepage_url: https://frontierhq.com/
@@ -37351,7 +37398,7 @@ landscape:
             name: Raynault VFX (member)
             homepage_url: https://raynault.com/
             logo: raynault_vfx.svg
-            description: Raynault VFX is a visual effects studio based in Montreal, specializing in creating visually stunning and technically sophisticated effects for feature films and high-profile episodic productions.
+            description: Raynault VFX is a visual effects studio based in Montreal, specializing in creating visually stunning and technically sophisticated effects for feature films and high-profile episodic content.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Academy Software Foundation (ASWF)
@@ -39721,7 +39768,7 @@ landscape:
             name: StepSecurity (member)
             homepage_url: https://stepsecurity.io/
             logo: stepsecurity.svg
-            description: StepSecurity enhances GitHub Actions security with maintained actions and robust runner runtime security, securing each step of CI/CD pipelines for software supply chain security.
+            description: StepSecurity provides enhanced security solutions for GitHub Actions by offering maintained actions and robust runner runtime security, focusing on network egress filtering to protect CI/CD pipelines from potential vulnerabilities.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Open Source Security Foundation (OpenSSF)
@@ -42533,6 +42580,7 @@ landscape:
               - Project Membership / TODO Group
               - Project Membership / Ceph Foundation
               - Project Membership / CHIPS Alliance Fund
+              - Project Membership / Linux Foundation Europe
               - Project Membership / Ultra Ethernet Consortium Fund
             crunchbase: https://www.crunchbase.com/organization/western-digital-capital
             twitter: https://twitter.com/westerndigital
