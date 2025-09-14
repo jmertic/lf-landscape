@@ -456,7 +456,7 @@ landscape:
               - PMO Managed / All
               - Industry / Materials
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/agstack/autogeobound
+            repo_url: https://github.com/agstack/weather-server
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-05-05'
@@ -3039,7 +3039,7 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / Web & Application Development
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/c2pa-org/public-testfiles
+            repo_url: https://github.com/c2pa-org/specifications
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/c2pa_org
             extra:
@@ -3065,7 +3065,7 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / Web & Application Development
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/c2pa-org/public-testfiles
+            repo_url: https://github.com/c2pa-org/specifications
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-02-22'
@@ -4732,7 +4732,7 @@ landscape:
             second_path:
               - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/DeepRec-AI/extension
+            repo_url: https://github.com/DeepRec-AI/DeepRec
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-05-05'
@@ -6624,7 +6624,7 @@ landscape:
             second_path:
               - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/feathr-ai/feathr-online
+            repo_url: https://github.com/feathr-ai/feathr
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/nil
             extra:
@@ -6695,7 +6695,7 @@ landscape:
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/fidopower/tsc
+            repo_url: https://github.com/fidopower/.github
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-01-03'
@@ -9354,7 +9354,7 @@ landscape:
               - PMO Managed / All
               - Industry / Cross-Industry
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/Joint-Development-Foundation/repo_template
+            repo_url: https://github.com/Joint-Development-Foundation/.github
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2014-06-06'
@@ -10592,17 +10592,20 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/kubefleet-dev/kubefleet
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-03-24'
               annotations:
                 slug: kubefleet
+                project_org: https://github.com/kubefleet-dev
               dev_stats_url: https://insights.linuxfoundation.org/project/kubefleet
               other_links:
                 - name: Calendar
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kubefleet
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfdiYFaTHKx9hXX9qE
+            additional_repos: []
           - item:
             name: Kubeflow
             homepage_url: https://github.com/kubeflow
@@ -11075,7 +11078,7 @@ landscape:
             second_path:
               - Project Group / LF AI & Data
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/lakesoul-io/lakesoul-io.github.io
+            repo_url: https://github.com/lakesoul-io/LakeSoul
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-06-08'
@@ -13142,7 +13145,7 @@ landscape:
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/NODE-Collective/.github
+            repo_url: https://github.com/NODE-Collective/specification
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-11-11'
@@ -15191,7 +15194,7 @@ landscape:
             second_path:
               - Project Group / Open Programmable Infrastructure Fund
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/opiproject/sztp
+            repo_url: https://github.com/opiproject/opi
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-06-09'
@@ -15214,7 +15217,7 @@ landscape:
               - Project Group / The Linux Foundation
               - PMO Managed / All
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/opiproject/sztp
+            repo_url: https://github.com/opiproject/opi
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-06-21'
@@ -18400,11 +18403,13 @@ landscape:
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
+            repo_url: https://github.com/sc-decarbonization-hub/SCDHApi
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-09-26'
               annotations:
                 slug: sc-decarbonisation-hub
+                project_org: https://github.com/sc-decarbonization-hub
               dev_stats_url: https://insights.linuxfoundation.org/project/sc-decarbonisation-hub
               other_links:
                 - name: Calendar
@@ -18413,6 +18418,7 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfLxmTMlwn9Fj9aCbx
                 - name: Charter
                   url: https://github.com/lf-energy/foundation/blob/main/project_charters/sc-decarbonisation-hub_charter.pdf
+            additional_repos: []
           - item:
             name: SchemaHero
             homepage_url: https://schemahero.io/
@@ -21538,7 +21544,7 @@ landscape:
             second_path:
               - Project Group / Open Mainframe Project (OMP)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/TSTerminal/Term4Z
+            repo_url: https://github.com/TSTerminal/TSTerm
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-11-18'
@@ -23154,7 +23160,7 @@ landscape:
             second_path:
               - Project Group / Open Mainframe Project (OMP)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/zopencommunity/gitport
+            repo_url: https://github.com/zopencommunity/meta
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-05-03'
@@ -28770,6 +28776,7 @@ landscape:
             name: DeeperThanBlue Ltd (member)
             homepage_url: https://deeperthanblue.co.uk/
             logo: deeperthanblue_ltd.svg
+            description: DeeperThanBlue specializes in digital transformation by providing strategic consulting, next-generation solution design and development, and cloud services to help brands and organizations reinvent their digital presence and optimize their technology i...
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -49869,7 +49876,7 @@ landscape:
             name: University of Mendoza (member)
             homepage_url: https://um.edu.ar/
             logo: university_of_mendoza.svg
-            description: We’re a community of multi award winning companies with a shared mission to create experiences that excite, engage and empower people. We have a love for experiential retail marketing, beautiful software design and development, and rich consumer data a...
+            description: Universidad de Mendoza is a prestigious higher education institution that has been dedicated to academic excellence, scientific research, and community service since 1960, establishing itself as a leading private university in the region.
             second_path:
               - Project Membership / The Linux Foundation
             organization:
@@ -50361,7 +50368,7 @@ landscape:
             name: WDR (member)
             homepage_url: https://wdr.de/
             logo: wdr.svg
-            description: WDR provides a comprehensive multimedia platform for the people of North Rhine-Westphalia, delivering up-to-date news, sports, cultural content, and entertainment through various audio and video contributions.
+            description: WDR provides a comprehensive multimedia platform that delivers up-to-date news, sports, cultural content, and entertainment specifically tailored for the residents of North Rhine-Westphalia.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
