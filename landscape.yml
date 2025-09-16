@@ -10615,7 +10615,7 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/kubeflow/pipelines
+            repo_url: https://github.com/kubeflow/kubeflow
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-07-25'
@@ -10629,6 +10629,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkNgVQAV
             additional_repos:
+              - repo_url: https://github.com/kubeflow/pipelines
               - repo_url: https://github.com/kubeflow/trainer
               - repo_url: https://github.com/kubeflow/sdk
               - repo_url: https://github.com/kubeflow/katib
@@ -25151,7 +25152,7 @@ landscape:
             name: AOE (member)
             homepage_url: https://aoe.com/
             logo: aoe.svg
-            description: AOE is a leading global provider for Open Source based Portal development, Web Content Management, and eCommerce. With headquarters in San Francisco and Wiesbaden, AOE has handled hundreds of implementations for major global brands like Cisco Systems, ...
+            description: AOE specializes in developing tailored digital products and solutions, leveraging strategic consulting and technological expertise to enhance customer experiences, with a focus on Open Source technologies for portal development, web content management,...
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -28228,6 +28229,15 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/confidentialmind
           - item:
+            name: Confluentis Consulting LLP (member)
+            homepage_url: https://confluentis.co.in/
+            logo: confluentis_consulting_llp.svg
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Confluentis Consulting LLP
+          - item:
             name: Connect 5G, Inc. (member)
             homepage_url: https://connectvg.com/
             logo: connect_5g_inc.svg
@@ -28466,7 +28476,6 @@ landscape:
             description: Crayon
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / FinOps Foundation
             crunchbase: https://www.crunchbase.com/organization/crayon-2
             twitter: https://twitter.com/CrayonIT
             extra:
@@ -34029,7 +34038,7 @@ landscape:
             name: MangoBoost, Inc. (member)
             homepage_url: https://mangoboost.io/
             logo: mangoboost_inc.svg
-            description: MangoBoost provides cutting-edge Data Processing Units (DPUs) that enhance datacenter performance and scalability. Their fully programmable solutions optimize application performance, reduce CPU costs, and offer market-critical services. The MangoBoost...
+            description: MangoBoost provides customized hardware and software solutions, including Data Processing Units (DPUs) and AI inference servers, designed to enhance the performance, scalability, and efficiency of datacenters while reducing operational costs and carbon...
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Open Programmable Infrastructure Fund
@@ -38301,7 +38310,7 @@ landscape:
             name: Scope3 (member)
             homepage_url: https://scope3.com/
             logo: scope3.svg
-            description: Scope3 is a company dedicated to decarbonizing media and advertising by providing a reliable source of truth for digital supply chain emissions data. They specialize in software development to support sustainability efforts in the industry.
+            description: Scope3 is dedicated to decarbonizing the media and advertising industry by providing accurate emissions data for the digital supply chain.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Green Software Foundation Fund
@@ -42651,7 +42660,7 @@ landscape:
             name: Wherobots, Inc (member)
             homepage_url: https://wherobots.com/
             logo: wherobots_inc.svg
-            description: Wherobots is a spatial data analytics and AI platform that offers creative, scalable, and enterprise-grade solutions for managing, processing, and analyzing geospatial data at scale. They specialize in linking datasets based on geographic locations, fi...
+            description: Wherobots specializes in providing cloud-native spatial ETL, analytics, and GeoAI solutions, enabling real-time data engineering and large-scale geospatial data processing to deliver insights and answers at a planetary scale.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Overture Maps Foundation Fund
@@ -43731,8 +43740,7 @@ landscape:
             second_path:
               - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
-            organization:
-              name: Blockchain For Energy
+            crunchbase: https://www.crunchbase.com/organization/blockchain-for-energy
           - item:
             name: Bluenumber (member)
             homepage_url: https://bluenumber.org/
@@ -43804,7 +43812,7 @@ landscape:
             name: BSV Association (member)
             homepage_url: https://association.bsvblockchain.org/
             logo: bsv_association.svg
-            description: BSV Blockchain provides a scalable blockchain solution tailored for enterprise and government projects, offering high throughput, low fees, and capabilities for micropayments, big data management, smart contracts, and tokenization while ensuring compli...
+            description: BSV Blockchain provides a scalable and secure blockchain solution tailored for enterprises and government projects, emphasizing high throughput, low transaction fees, and the capability to facilitate micropayments and smart contracts.
             second_path:
               - Project Membership / The Linux Foundation
             organization:
@@ -44474,6 +44482,15 @@ landscape:
             twitter: https://twitter.com/tudelft
             extra:
               linkedin_url: https://www.linkedin.com/company/tu-delft
+          - item:
+            name: Deutsche Bundesbank (member)
+            homepage_url: https://bundesbank.de/
+            logo: deutsche_bundesbank.svg
+            description: The Deutsche Bundesbank is the central bank of the Federal Republic of Germany, focusing on monetary policy within the Eurosystem. It supports the transition to a low carbon economy and offers a unique perspective on money through its Money Museum. Add...
+            second_path:
+              - Project Membership / LF Decentralized Trust
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/deutsche-bundesbank
           - item:
             name: dianastaykova.org (member)
             homepage_url: https://dianastaykova.org/
@@ -46903,7 +46920,7 @@ landscape:
             name: Mondragon Unibertsitatea (member)
             homepage_url: https://mondragon.edu/
             logo: mondragon_unibertsitatea.svg
-            description: Mondragon Unibertsitatea is a socially oriented university providing a wide range of undergraduate, master's, and doctoral programs in engineering, business, education, entrepreneurship, communication, and gastronomy, emphasizing practical education an...
+            description: Mondragon Unibertsitatea offers a range of higher education programs, including undergraduate degrees, master's degrees, and doctoral programs, as well as professional training in fields such as engineering, business management, entrepreneurship, educa...
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Green Software Foundation Fund
