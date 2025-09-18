@@ -1488,7 +1488,7 @@ landscape:
             second_path:
               - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/i-am-bee/beeai-platform
+            repo_url: https://github.com/i-am-bee/beeai-framework
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-03-14'
@@ -1504,7 +1504,7 @@ landscape:
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/BeeAI%20Technical%20Charter%20Final%203-14-2025.docx.pdf
             additional_repos:
-              - repo_url: https://github.com/i-am-bee/beeai-framework
+              - repo_url: https://github.com/i-am-bee/beeai-platform
           - item:
             name: Best Practices Badge
             homepage_url: https://github.com/coreinfrastructure/best-practices-badge
@@ -10615,7 +10615,7 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/kubeflow/kubeflow
+            repo_url: https://github.com/kubeflow/pipelines
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-07-25'
@@ -10629,7 +10629,6 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkNgVQAV
             additional_repos:
-              - repo_url: https://github.com/kubeflow/pipelines
               - repo_url: https://github.com/kubeflow/trainer
               - repo_url: https://github.com/kubeflow/sdk
               - repo_url: https://github.com/kubeflow/katib
@@ -33303,20 +33302,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/krypc
           - item:
-            name: KTrust (member)
-            homepage_url: https://ktrust.io/
-            logo: ktrust.svg
-            description: |-
-              Ktrust is a company that provides an unknown product or service.
-
-              --- Merged Data:
-
-              Ktrust is a company that provides an unknown product or service.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/ktrust-ltd
-          - item:
             name: KubeDB LLC (member)
             homepage_url: https://kubedb.llc/
             logo: kubedb_llc.svg
@@ -36197,19 +36182,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/partior
           - item:
-            name: Partisia (member)
-            homepage_url: https://partisia.com/
-            logo: partisia.svg
-            description: Partisia provides a secure data sharing platform that enables organizations to compute on sensitive data while maintaining compliance and encryption, thereby unlocking the potential for innovation and breakthroughs in research and AI solutions.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Confidential Computing Consortium (CCC)
-            organization:
-              name: Partisia
-              linkedin: https://www.linkedin.com/company/partisia
-            extra:
-              linkedin_url: https://www.linkedin.com/company/partisia
-          - item:
             name: Patchstack OÜ (member)
             homepage_url: https://patchstack.com/
             logo: patchstack_ou.svg
@@ -38330,7 +38302,7 @@ landscape:
             name: SDAX Exchange Pte Ltd (member)
             homepage_url: https://sdax.co/
             logo: sdax_exchange_pte_ltd.svg
-            description: SDAX is a MAS regulated investment platform serving institutional, accredited, and retail investors. They provide access to uniquely curated assets in real estate, ESG, and impactful investment opportunities. SDAX partners with companies and institutio...
+            description: SDAX operates as a regulated investment platform that provides institutional, accredited, and retail investors with access to a curated selection of tokenized securities, focusing on real estate, ESG, and impactful investment opportunities while facili...
             second_path:
               - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
@@ -38476,7 +38448,7 @@ landscape:
             name: Semaphore (member)
             homepage_url: https://semaphore.io/
             logo: semaphore.svg
-            description: Semaphore provides a continuous integration and delivery platform that enhances software shipping speed while ensuring quality and security, now available as an open-source solution.
+            description: Semaphore is an all-in-one delivery platform for teams who’ve outgrown default tools.
             second_path:
               - Project Membership / The Linux Foundation
             organization:
@@ -45962,7 +45934,7 @@ landscape:
             name: Instituto Tecnológico de La Piedad (member)
             homepage_url: https://piedad.tecnm.mx/
             logo: instituto_tecnologico_de_la_piedad.svg
-            description: TecNM is Mexico's largest Technological Higher Education Institution, providing innovative educational programs to nearly 600,000 students across 254 campuses.
+            description: Tecnológico Nacional de México is the largest technological higher education institution in Mexico, serving nearly 600,000 students across 254 campuses.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / PyTorch Foundation
