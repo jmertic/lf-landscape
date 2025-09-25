@@ -471,6 +471,34 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkXEGQA3
             additional_repos: []
           - item:
+            name: AI Dataset Health for z/OS
+            homepage_url: https://github.com/marbatis/ai-dataset-health-zos
+            logo: ai_dataset_health_for_z_os.svg
+            description: |-
+              ai-dataset-health-zos is a small, open-source Python tool that:
+
+              - Lists repository files (future: z/OS datasets via z/OSMF Jobs & Files APIs).
+              - Computes a simple dataset health score (initial rule: zero-byte file detection).
+              - Exposes a CLI (list_files.py --health) with human-readable output.
+              - Ships with modern CI gates: Ruff (lint), Black (format), MyPy (types), Pytest (coverage).
+            second_path:
+              - Project Group / Open Mainframe Project (OMP)
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/marbatis/ai-dataset-health-zos
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-09-16'
+              annotations:
+                slug: ai-dataset-health-for-z-os
+              dev_stats_url: https://insights.linuxfoundation.org/project/ai-dataset-health-for-z-os
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ai-dataset-health-for-z-os
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfRGB5iwba4UzNRLWb
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/ai-dataset-health-for-z-os/ai-dataset-health-for-z-os_Charter.pdf?v=1758202244545
+          - item:
             name: AI Explainability 360
             homepage_url: https://ai-explainability-360.org/
             logo: ai_explainability_360.svg
@@ -2293,6 +2321,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/certifier-framework-for-confidential-computing
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfXCUgdA9vvpbE1FZT
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/certifier-framework-for-confidential-computing/certifier-framework-for-confidential-computing_Charter.pdf?v=1758743092060
           - item:
             name: cert-manager
             homepage_url: https://cert-manager.io/
@@ -7324,6 +7354,26 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWsAsQAL
                 - name: Charter
                   url: https://www.opendaylight.org/wp-content/uploads/sites/14/2018/01/ODL-Technical-Charter-LF-Projects-LLC-FINAL.pdf
+          - item:
+            name: GeoDa
+            homepage_url: https://github.com/GeoDaCenter/geoda/
+            logo: geoda.svg
+            description: GeoDa is the flagship program of the GeoDa Center, following a long line of software tools developed by Dr. Luc Anselin. It is designed to implement techniques for exploratory spatial data analysis (ESDA) on lattice data (points and polygons). The free program provides a user friendly and graphical interface to methods of descriptive spatial data analysis, such as spatial autocorrelation statistics, as well as basic spatial regression functionality. The latest version contains several new features such as full space-time data support in all views, a new cartogram, a refined map movie, parallel coordinate plot, 3D visualization, conditional plots (and maps) and spatial regression.
+            second_path:
+              - Project Group / OpenJS Foundation
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/GeoDaCenter/geoda
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-06-25'
+              annotations:
+                slug: geoda
+              dev_stats_url: https://insights.linuxfoundation.org/project/geoda
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/geoda
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfoQcuR2GEVTRYsdnS
           - item:
             name: Git Proxy
             homepage_url: https://github.com/finos/git-proxy
@@ -16999,6 +17049,7 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/PQCA/documentation
               - repo_url: https://github.com/PQCA/governance
+              - repo_url: https://github.com/PQCA/wiki
           - item:
             name: Power Grid Model
             homepage_url: https://github.com/PowerGridModel
@@ -17056,27 +17107,6 @@ landscape:
               - repo_url: https://github.com/powsybl/pypowsybl
               - repo_url: https://github.com/powsybl/powsybl-open-rao
               - repo_url: https://github.com/powsybl/powsybl-starter
-          - item:
-            name: Pravega
-            homepage_url: https://www.pravega.io/
-            logo: pravega.svg
-            description: Pravega is a storage system that uses Stream as the main building block for storing continuous and limitless data.
-            second_path:
-              - Project Group / Cloud Native Computing Foundation (CNCF)
-              - Industry / Cross-Industry
-              - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/pravega/pravega
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2020-11-10'
-              annotations:
-                slug: pravega
-              dev_stats_url: https://insights.linuxfoundation.org/project/pravega
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/pravega
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkVBRQA3
           - item:
             name: Presto Project
             homepage_url: https://prestodb.io/
@@ -25225,8 +25255,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-            organization:
-              name: applied37
+            crunchbase: https://www.crunchbase.com/organization/a37
           - item:
             name: Applied Blockchain (member)
             homepage_url: https://appliedblockchain.com/
@@ -43092,7 +43121,7 @@ landscape:
             name: Zylo Inc (member)
             homepage_url: https://zylo.com/
             logo: zylo_inc.svg
-            description: Zylo is the leading SaaS Management and Optimization platform, empowering businesses to control, optimize, and govern their SaaS applications with AI-powered insights and workflows.
+            description: Zylo provides an enterprise SaaS management solution that enables organizations to optimize their software usage, reduce costs, and enhance employee experience by delivering insights into SaaS spending and application governance.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / FinOps Foundation
