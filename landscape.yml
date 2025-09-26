@@ -2424,6 +2424,33 @@ landscape:
               - repo_url: https://github.com/chaoss/wg-metrics-models
               - repo_url: https://github.com/chaoss/community
           - item:
+            name: Chapel
+            homepage_url: https://chapel-lang.org/
+            logo: chapel.svg
+            description: Chapel is a modern programming language designed for productive parallel computing at scale.
+            second_path:
+              - Project Group / High Performance Software Foundation (HPSF)
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/chapel-lang/chapel
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-09-16'
+              annotations:
+                slug: chapel
+                project_org: https://github.com/chapel-lang
+              dev_stats_url: https://insights.linuxfoundation.org/project/chapel
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/chapel
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf79wBz7639nXe2uyZ
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/chapel/chapel_Charter.pdf?v=1758753029555
+            additional_repos:
+              - repo_url: https://github.com/chapel-lang/chapel-www
+              - repo_url: https://github.com/chapel-lang/chapel-blog
+              - repo_url: https://github.com/chapel-lang/governance
+          - item:
             name: Charliecloud
             homepage_url: https://hpc.github.io/charliecloud/
             logo: charliecloud.svg
@@ -40971,7 +40998,7 @@ landscape:
             name: Tokenovate (member)
             homepage_url: https://tokenovate.com/
             logo: tokenovate.svg
-            description: Tokenovate is a financial services company that provides innovative software solutions for derivative products and markets. They leverage digital ledger technology and the BSV blockchain to support standardization, digitization, and automation of ISDA®...
+            description: Tokenovate empowers financial institutions by simplifying and automating the entire post-trade and collateral lifecycle, thereby cutting costs, reducing risk, and facilitating growth through efficient workflows and unified experiences across various as...
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / FINOS (The Fintech Open Source Foundation)
@@ -42763,7 +42790,7 @@ landscape:
             name: WorldTech IT LLC (member)
             homepage_url: https://wtit.com/
             logo: worldtech_it_llc.svg
-            description: WorldTech IT is a leading provider of professional services for F5 & NGINX solutions, offering expertise in application delivery, security, and authentication.
+            description: WorldTech IT specializes in providing professional services and sales for F5 and NGINX solutions, focusing on application delivery, advanced application security, and authentication, while also offering expertise in cloud migrations and complementary t...
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Open Programmable Infrastructure Fund
@@ -42985,7 +43012,7 @@ landscape:
             name: Yovily (member)
             homepage_url: https://yovily.com/
             logo: yovily.svg
-            description: Yovily is a technology company specializing in modernizing applications through cloud native technologies. They provide secure, scalable Kubernetes solutions to drive software innovation and improve the security posture of cloud environments. Yovily's ...
+            description: Yovily specializes in modernizing applications through cloud-native technologies, providing secure and scalable Kubernetes solutions that enhance software innovation while identifying and mitigating security risks in cloud environments.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
