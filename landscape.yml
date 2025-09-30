@@ -10506,6 +10506,32 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWjKVQA1
           - item:
+            name: Kserve
+            homepage_url: https://github.com/kserve/
+            logo: kserve.svg
+            description: The mission of the Project is to develop a highly scalable and standards based model inference platform on Kubernetes for Trusted AI.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/kserve/kserve
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2022-01-14'
+              annotations:
+                slug: kserve
+                project_org: https://github.com/kserve
+              dev_stats_url: https://insights.linuxfoundation.org/project/kserve
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kserve
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkOceQAF
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/KServe%20Technical%20Charter%20Final.pdf
+            additional_repos:
+              - repo_url: https://github.com/kserve/website
+              - repo_url: https://github.com/kserve/community
+          - item:
             name: Kuadrant
             homepage_url: https://kuadrant.io/
             logo: kuadrant.svg
@@ -28250,8 +28276,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-            organization:
-              name: Confluentis Consulting LLP
+            crunchbase: https://www.crunchbase.com/organization/confluentis-consulting
           - item:
             name: Connect 5G, Inc. (member)
             homepage_url: https://connectvg.com/
@@ -29001,17 +29026,6 @@ landscape:
             twitter: https://twitter.com/Desotechsrl
             extra:
               linkedin_url: https://www.linkedin.com/company/desotech
-          - item:
-            name: DETECH.AI INC. (member)
-            homepage_url: https://rely.io/
-            logo: detech_ai_inc.svg
-            description: Rely.io is an Internal Developer Portal that streamlines observability for SaaS companies, empowering engineering teams to enhance performance and align reliability efforts with business goals.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/rely-io
-            extra:
-              linkedin_url: https://www.linkedin.com/company/relyio
           - item:
             name: Deutsche Bank AG (member)
             homepage_url: https://db.com/
