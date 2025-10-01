@@ -17660,7 +17660,7 @@ landscape:
               - PMO Managed / All
               - Industry / Cross-Industry
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/RConsortium/RMedicine_website
+            repo_url: https://github.com/RConsortium/isc-proposal
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2015-05-07'
@@ -17674,11 +17674,9 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wByyAAE
             additional_repos:
-              - repo_url: https://github.com/RConsortium/S7
-              - repo_url: https://github.com/RConsortium/isc
-              - repo_url: https://github.com/RConsortium/charter
+              - repo_url: https://github.com/RConsortium/rconsortium_website
               - repo_url: https://github.com/RConsortium/artwork
-              - repo_url: https://github.com/RConsortium/r-collaboration
+              - repo_url: https://github.com/RConsortium/RMedicine_website
           - item:
             name: Reactive Streams
             homepage_url: https://reactive.foundation/
@@ -23512,7 +23510,6 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / Yocto Project Fund
               - Project Membership / Data Plane Development Kit (DPDK)
-              - Project Membership / LF AI & Data
               - Project Membership / Academy Software Foundation (ASWF)
               - Project Membership / LF Energy (LFE)
               - Project Membership / KernelCI Foundation
@@ -27528,6 +27525,7 @@ landscape:
             name: Circle Internet Financial, LLC (member)
             homepage_url: https://circle.com/
             logo: circle_internet_financial_llc.svg
+            description: Circle enables businesses to utilize digital currencies and public blockchains for efficient payment solutions and financial applications, facilitating seamless transactions across various currencies and borders.
             second_path:
               - Project Membership / The Linux Foundation
             organization:
@@ -30772,6 +30770,25 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/g-core-labs
             extra:
               linkedin_url: https://www.linkedin.com/company/g-core
+          - item:
+            name: GDIT General Dynamics Information Technology (member)
+            homepage_url: https://gdit.com/
+            logo: gdit_general_dynamics_information_technology.svg
+            description: |-
+              offices:
+              6400 Grovedale Dr.
+              Alexandria, VA 22310
+
+              4250 North Fairfax Dr., 
+              Ste. 1200
+              Arlington, VA  22203
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / FinOps Foundation
+            crunchbase: https://www.crunchbase.com/organization/general-dynamics
+            twitter: https://twitter.com/GDIT
+            extra:
+              linkedin_url: https://www.linkedin.com/company/general-dynamics-information-technology
           - item:
             name: GEICO (member)
             homepage_url: https://geico.com/
@@ -40436,6 +40453,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/tdt-ag
           - item:
+            name: team.blue (member)
+            homepage_url: https://team.blue/
+            logo: team.svg
+            description: team.blue is a leading digital enabler for companies and entrepreneurs in Europe, serving over 2 million customers. With a focus on supporting local entrepreneurs and small businesses, team.blue provides digital services to help them build, grow, and s...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: team.blue
+          - item:
             name: Tech Mahindra Limited (member)
             homepage_url: https://techmahindra.com/
             logo: tech_mahindra_limited.svg
@@ -46856,7 +46882,7 @@ landscape:
             name: MobilityData (member)
             homepage_url: https://mobilitydata.org/
             logo: mobilitydata.svg
-            description: MobilityData brings together and supports mobility stakeholders to standardize and expand data formats for public transport (GTFS) and shared mobility (GBFS).
+            description: MobilityData is a non-profit organization that brings together and supports mobility stakeholders to standardize and expand data formats for public transport and shared mobility, ensuring reliable and intuitive travel directions for users.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Overture Maps Foundation Fund
