@@ -15379,12 +15379,13 @@ landscape:
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/openprot/openprot_Charter.pdf?v=1756331954840
           - item:
             name: OpenQMC
-            homepage_url: https://github.com/openqmc
+            homepage_url: https://openqmc.org/
             logo: openqmc.svg
             description: The mission of the Project is to provide an API to deliver high quality QMC sample points.
             second_path:
               - Project Group / Academy Software Foundation (ASWF)
               - Technology Sector / Visual Effects
+            repo_url: https://github.com/AcademySoftwareFoundation/openqmc
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-07-25'
@@ -17279,6 +17280,32 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/project-alvarium/alvarium-sdk-java
               - repo_url: https://github.com/project-alvarium/example-go
+          - item:
+            name: Project Origin
+            homepage_url: https://github.com/project-origin
+            logo: project_origin.svg
+            description: The mission of the Project is to create a federated, decentralized infrastructure for issuing, transferring, and verifying granular, time-based energy certificates.
+            second_path:
+              - Project Group / LF Energy (LFE)
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/project-origin/registry
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-09-16'
+              annotations:
+                slug: project-origin
+                project_org: https://github.com/project-origin
+              dev_stats_url: https://insights.linuxfoundation.org/project/project-origin
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/project-origin
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MtL0vQAF
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/project-origin/project-origin_Charter.pdf?v=1758220413874
+            additional_repos:
+              - repo_url: https://github.com/project-origin/wallet
+              - repo_url: https://github.com/project-origin/docs
           - item:
             name: Prometheus
             homepage_url: https://prometheus.io/
@@ -25051,6 +25078,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/amperecomp
           - item:
+            name: Amphenol Corporation (member)
+            homepage_url: https://amphenol.com/
+            logo: amphenol_corporation.svg
+            description: Amphenol is a global leader in providing high technology interconnect, sensor, and antenna solutions. With a wide range of products serving various industries, including automotive, aerospace, defense, and mobile networks, Amphenol plays a crucial role...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Amphenol Corporation
+          - item:
             name: Amundi Asset Management (member)
             homepage_url: https://amundi.com/
             logo: amundi_asset_management.svg
@@ -26868,6 +26904,16 @@ landscape:
             twitter: https://twitter.com/BuoyantIO
             extra:
               linkedin_url: https://www.linkedin.com/company/buoyantio
+          - item:
+            name: ByteDance Ltd. (member)
+            homepage_url: https://bytedance.com/
+            logo: bytedance_ltd.svg
+            description: ByteDance is a technology company operating a range of content platforms that inform, educate, entertain, and inspire people across languages, cultures, and geographies. Dedicated to building global platforms of creation and interaction, ByteDance now ...
+            second_path:
+              - Project Membership / OpenChain Project
+              - Project Membership / The Linux Foundation
+            organization:
+              name: ByteDance Ltd.
           - item:
             name: bytesatwork (member)
             homepage_url: https://bytesatwork.io/
@@ -29637,8 +29683,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-            organization:
-              name: Echo
+            crunchbase: https://www.crunchbase.com/organization/echo-d91c
           - item:
             name: EcoFlow Inc. (member)
             homepage_url: https://ecoflow.com/
@@ -42009,6 +42054,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/vexxhost
           - item:
+            name: VHL Technologies (member)
+            homepage_url: https://vhltec.com/
+            logo: vhl_technologies.svg
+            description: VHL Technologies Inc. is a U.S.-based IT firm offering cutting-edge technologies for IT, Big Data, Mobile, and Cloud solutions. They partner with companies to transform businesses through advanced mobility solutions and web products.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/vhl-technologies
+          - item:
             name: Viavi Solutions Inc. (member)
             homepage_url: https://viavisolutions.com/
             logo: viavi_solutions_inc.svg
@@ -45830,12 +45884,7 @@ landscape:
             name: Hydro-Québec (member)
             homepage_url: https://hydroquebec.com/
             logo: hydro_quebec.svg
-            description: |-
-              Hydro-Québec
-
-              --- Merged Data:
-
-              Hydro-Qubec generates, transmits, and distributes electricity using mainly renewable generating options.
+            description: Hydro-Qubec generates, transmits, and distributes electricity using mainly renewable generating options.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / LF Energy (LFE)
