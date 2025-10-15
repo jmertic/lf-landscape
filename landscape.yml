@@ -11430,11 +11430,13 @@ landscape:
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
+            repo_url: https://github.com/lfe-sef/generic-adapter
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-06-30'
               annotations:
                 slug: lfe-sef
+                project_org: https://github.com/lfe-sef
               dev_stats_url: https://insights.linuxfoundation.org/project/lfe-sef
               other_links:
                 - name: Calendar
@@ -11443,6 +11445,7 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf3FcUytWThvGvfPAw
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/interconnect-sif/interconnect-sif_Charter.pdf?v=1752086606016
+            additional_repos: []
           - item:
             name: LF Energy Standards and Specifications (LFESS)
             homepage_url: https://www.lfenergy.org/
@@ -13410,6 +13413,29 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/OAAX-standard/examples
               - repo_url: https://github.com/OAAX-standard/reference-implementation
+          - item:
+            name: OAuth2 Proxy
+            homepage_url: https://www.oauth2-proxy.dev/
+            logo: oauth2_proxy.svg
+            description: develop a reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/oauth2-proxy/oauth2-proxy
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-10-10'
+              annotations:
+                slug: oauth2-proxy
+                project_org: https://github.com/oauth2-proxy
+              dev_stats_url: https://insights.linuxfoundation.org/project/oauth2-proxy
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/oauth2-proxy
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfrjK0Y3gMM2tPZvgK
+            additional_repos:
+              - repo_url: https://github.com/oauth2-proxy/manifests
           - item:
             name: Occlum
             homepage_url: https://occlum.io/
@@ -16664,6 +16690,29 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWsALQA1
                 - name: Charter
                   url: https://www.opendaylight.org/wp-content/uploads/sites/14/2018/01/ODL-Technical-Charter-LF-Projects-LLC-FINAL.pdf
+          - item:
+            name: Oxia
+            homepage_url: https://oxia-db.github.io/
+            logo: oxia.svg
+            description: develop a robust, scalable metadata store and coordination system designed for large-scale distributed systems, with built-in support for stream index storage to optimize real-time data management
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/oxia-db/oxia
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-10-09'
+              annotations:
+                slug: oxia
+                project_org: https://github.com/oxia-db
+              dev_stats_url: https://insights.linuxfoundation.org/project/oxia
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/oxia
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfB5KHiW9fKOwAXuyl
+            additional_repos: []
           - item:
             name: P4 Fund
             homepage_url: https://p4.org/
@@ -21247,6 +21296,8 @@ landscape:
               - repo_url: https://github.com/tinkerbell/playground
               - repo_url: https://github.com/tinkerbell/tinkerbell
               - repo_url: https://github.com/tinkerbell/cluster-api-provider-tinkerbell
+              - repo_url: https://github.com/tinkerbell/hook
+              - repo_url: https://github.com/tinkerbell/actions
           - item:
             name: Tizen Project
             homepage_url: https://www.tizen.org/
@@ -41108,7 +41159,6 @@ landscape:
             logo: thunder_software_technology_co_ltd.svg
             description: Headquartered in Beijing and listed on the Shenzhen Stock Exchange (300496.SZ), Thundersoft is a world-leading provider of mobile operating system and smart device solutions. The company delivers solutions and services to markets (including smartphone, tablet, IoT, automotive and enterprise markets) with full-stack engineering resources covering software and hardware. Thundersoft offers expertise in operating systems (Android, Linux, Windows and others), a broad software and algorithm technology portfolio, strategic partnerships with key semiconductor vendors and its global support network. These assets make Thundersoft a valuable and trusted partner for worldwide customers aiming to build innovative and high-quality smart devices that can be launched into the market after short development times.
             second_path:
-              - Project Membership / Automotive Grade Linux (AGL)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/thundersoft-company-limited
             twitter: https://twitter.com/ThunderSoft_Ltd
