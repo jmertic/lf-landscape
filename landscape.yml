@@ -447,6 +447,34 @@ landscape:
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/agentgateway/agentgateway_Charter.pdf?v=1756162150642
           - item:
+            name: AGNTCY
+            homepage_url: https://agntcy.org/
+            logo: agntcy.svg
+            description: 'The AGNTCY (pronounced “agency”), aka Internet of Agents Collective, or the Collective, is the collective of contributors and maintainers building the Internet of Agents (IoA): an open, interoperable, internet for agent-to-agent collaboration.'
+            second_path:
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/agntcy/dir-spec
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-07-22'
+              annotations:
+                slug: agntcy
+                project_org: https://github.com/agntcy
+              dev_stats_url: https://insights.linuxfoundation.org/project/agntcy
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/agntcy
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfTRICdQ2Yu4hv419P
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/agntcy/agntcy_Charter.pdf?v=1753717882305
+            additional_repos:
+              - repo_url: https://github.com/agntcy/dir
+              - repo_url: https://github.com/agntcy/slim
+              - repo_url: https://github.com/agntcy/slim-spec
+              - repo_url: https://github.com/agntcy/identity
+              - repo_url: https://github.com/agntcy/oasf
+          - item:
             name: AgStack
             homepage_url: https://agstack.org/
             logo: agstack.svg
@@ -23847,7 +23875,6 @@ landscape:
               - Project Membership / Ultra Ethernet Consortium Fund
               - Project Membership / Post-Quantum Cryptography Alliance
               - Project Membership / DAOS Foundation
-              - Project Membership / DAOS Foundation
               - Project Membership / App Defense Alliance Fund
               - Project Membership / Unified Acceleration Foundation Fund
               - Project Membership / P4 Fund
@@ -24167,6 +24194,7 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Zephyr Project
+              - Project Membership / Linux Foundation Europe
             organization:
               name: Ac6
               linkedin: https://www.linkedin.com/company/ac6
@@ -27836,6 +27864,18 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/clockwork-systems-inc
           - item:
+            name: Cloud 66 (member)
+            homepage_url: https://cloud66.com/
+            logo: cloud_66.svg
+            description: Cloud 66 is an end to end infrastructure management service. Their product enables customers to build, manage and maintain their infrastructure on any public or private cloud to deliver web services, mobile backends and APIs to their users.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/cloudblocks
+            twitter: https://twitter.com/cloud66
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cloud-66
+          - item:
             name: Cloud Ace (member)
             homepage_url: https://cloud-ace.jp/
             logo: cloud_ace.svg
@@ -28771,7 +28811,6 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-              - Project Membership / Overture Maps Foundation Fund
             crunchbase: https://www.crunchbase.com/organization/crunchy-data-solutions-inc-
             twitter: https://twitter.com/crunchydata
             extra:
@@ -28813,6 +28852,23 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/cuemby
           - item:
+            name: CVS Health (member)
+            homepage_url: https://cvshealth.com/
+            logo: cvs_health.svg
+            description: |-
+              Aetna is one of the nation's leading diversified health care benefits companies, serving an estimated 46.7 million people with information and resources to help them make better-informed decisions about their health care. Aetna Inc. operates as a health care benefits company. It operates through three segments: Health Care, Group Insurance, and Large Case Pensions. The Health Care segment offers medical, pharmacy benefit management service, dental, behavioral health, and vision plans on an insured and employer-funded basis. It also provides point-of-service, preferred provider organization, health maintenance organization, and indemnity benefit plans, as well as health savings accounts and consumer-directed health plans. In addition, this segment offers Medicare and Medicaid products and services, as well as other medical products, such as medical management and data analytics services, medical stop loss insurance, workers compensation administrative services, and products that provide access to its provider networks in select geographies. The Group Insurance segment offers life insurance products, including group term life insurance, voluntary spouse and dependent term life insurance, group universal life insurance, and accidental death and dismemberment insurance; disability insurance products; and long-term care insurance products, which provide the benefits to cover the cost of care in private home settings, adult day care, assisted living, or nursing facilities. The Large Case Pensions segment manages various retirement products, including pension and annuity products primarily for tax-qualified pension plans. The company provides its products and services to employer groups, individuals, college students, part-time and hourly workers, health plans, health care providers, governmental units, government-sponsored plans, labor groups, and expatriates. Aetna Inc. has a collaborative agreement with Community Care Physician Network, LLC to deliver healthcare services in North Carolina. The company was founded in 1853 and is based in Hartford, Connecticut.
+
+              --- Merged Data:
+
+              CVS Health Corporation is an American drug retailing company which is chartered in Delaware and is headquartered in Woonsocket, Rhode Island. CVS is the largest retail pharmacy chain in the United States and also offers online pharmacy services.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/cvs-caremark
+            twitter: https://twitter.com/CVSHealth
+            extra:
+              linkedin_url: https://www.linkedin.com/company/aetna
+          - item:
             name: Cybertrust Japan Co., Ltd. (member)
             homepage_url: https://cybertrust.co.jp/
             logo: cybertrust_japan_co_ltd.svg
@@ -28838,6 +28894,46 @@ landscape:
             twitter: https://twitter.com/cybozu
             extra:
               linkedin_url: https://www.linkedin.com/company/cybozu
+          - item:
+            name: Cyient Limited (member)
+            homepage_url: https://cyient.com/
+            logo: cyient_limited.svg
+            description: |-
+              About us
+              Cyient (Estd: 1991, NSE: CYIENT) provides engineering, manufacturing, geospatial, network and operations management services to global industry leaders. We leverage the power of digital technology and advanced analytics capabilities, along with our domain knowledge and technical expertise, to help our clients solve complex business problems. As a Design-Build-Maintain partner that takes solution ownership across the value chain, we empower our clients to focus on their core, innovate, and stay ahead of the curve.
+               
+              Relationships lie at the heart of how we work. We partner with organizations in ways that best suit their culture and requirements. With nearly 14,000 employees in 21 countries, we combine global delivery with proximity to our clients, functioning as their extended team. Our industry focus spans aerospace and defense, medical, telecommunications, rail transportation, semiconductor, utilities, industrial, energy and natural resources.
+
+              Recent updateSee all See all recent updates
+              Image accompanying recent update
+              Farnborough International Airshow 2018
+
+              cyient.com
+
+              7 Likes
+              Company details
+              Website
+              http://www.cyient.com/
+              Headquarters
+              Hyderabad, Andhra Pradesh
+
+              Year founded
+              1991
+
+              Company type
+              Public Company
+
+              Company size
+              10,001+ employees
+              Specialties
+              Engineering Services, Design Led Manufacturing, Networks and Operations, Data Analytics, and Geospatial
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Overture Maps Foundation Fund
+            crunchbase: https://www.crunchbase.com/organization/cyient
+            twitter: https://twitter.com/Cyient
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cyient
           - item:
             name: Cyso BV (member)
             homepage_url: https://cyso.com/
@@ -31416,6 +31512,15 @@ landscape:
               linkedin: https://www.linkedin.com/company/greenpixie
             extra:
               linkedin_url: https://www.linkedin.com/company/greenpixie
+          - item:
+            name: Grepr (member)
+            homepage_url: https://grepr.ai/
+            logo: grepr.svg
+            description: grepruby.io is a software development company that specializes in building custom web and mobile applications for businesses. With a focus on quality and innovation, we help our clients bring their ideas to life through cutting-edge technology solutions.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/grepr
           - item:
             name: Greptime Inc (member)
             homepage_url: https://greptime.com/
@@ -34745,7 +34850,6 @@ landscape:
             description: Unleash Networking Potential with Micas
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / DENT Fund
               - Project Membership / SONiC Fund
               - Project Membership / Ultra Ethernet Consortium Fund
             organization:
@@ -45338,6 +45442,7 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / RISC-V International
               - Project Membership / seL4 Foundation
+              - Project Membership / Linux Foundation Europe
             crunchbase: https://www.crunchbase.com/organization/eidgen-ssische-technische-hochschule-z-rich
             twitter: https://twitter.com/ETH
           - item:
