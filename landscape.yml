@@ -4480,6 +4480,29 @@ landscape:
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/dailies-transcription-notes-taking-tool/dailies-transcription-notes-taking-tool_Charter.pdf?v=1752019072458
           - item:
+            name: Dalec
+            homepage_url: https://azure.github.io/dalec/
+            logo: dalec.svg
+            description: develop a declarative format for building system packages and containers from those packages in a secure way for supply chain security
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+              - Technology Sector / Privacy & Security
+            repo_url: https://github.com/project-dalec/dalec
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-10-09'
+              annotations:
+                slug: dalec
+                project_org: https://github.com/project-dalec
+              dev_stats_url: https://insights.linuxfoundation.org/project/dalec
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/dalec
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfwmgxKFQk8STL31Qy
+            additional_repos: []
+          - item:
             name: DAOS Foundation
             homepage_url: https://www.daos.io/
             logo: daos_foundation.svg
@@ -6907,7 +6930,7 @@ landscape:
               - PMO Managed / All
               - Industry / Financials
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/finos/perspective
+            repo_url: https://github.com/finos/FDC3
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-06-30'
@@ -6921,7 +6944,6 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JwBlEQAV
             additional_repos:
-              - repo_url: https://github.com/finos/FDC3
               - repo_url: https://github.com/finos/compliant-financial-infrastructure
               - repo_url: https://github.com/finos/legend
               - repo_url: https://github.com/finos/waltz
@@ -27719,17 +27741,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/cisco
           - item:
-            name: CISEL Informatique SA (member)
-            homepage_url: https://cisel.ch/
-            logo: cisel_informatique_sa.svg
-            description: CISEL provides consulting on cloud native technologies such as Kubernetes. Build your Kubernetes architectures with Cloud Native Experts.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/cisel-informatique
-            extra:
-              linkedin_url: https://www.linkedin.com/company/cisel-informatique-sa
-          - item:
             name: Citi (member)
             homepage_url: https://citi.com/
             logo: citi.svg
@@ -29476,6 +29487,17 @@ landscape:
             twitter: https://twitter.com/digitalocean
             extra:
               linkedin_url: https://www.linkedin.com/company/digitalocean
+          - item:
+            name: Dina IT Solutions SA (member)
+            homepage_url: https://dina.ch/
+            logo: dina_it_solutions_sa.svg
+            description: CISEL provides consulting on cloud native technologies such as Kubernetes. Build your Kubernetes architectures with Cloud Native Experts.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/cisel-informatique
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cisel-informatique-sa
           - item:
             name: Discover Financial Services (member)
             homepage_url: https://discover.com/
@@ -42180,9 +42202,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/victoriametrics
           - item:
-            name: Viettel Semiconductor Center (member)
+            name: Viettel (member)
             homepage_url: https://viettel.com.vn/
-            logo: viettel_semiconductor_center.svg
+            logo: viettel.svg
             description: |-
               Viettel Group is a leading telecom operator pioneering digital societies with over 110 million subscribers and a global presence in 13 countries.
 
@@ -42193,7 +42215,7 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / RISC-V International
             organization:
-              name: Viettel Semiconductor Center
+              name: Viettel
               linkedin: https://www.linkedin.com/company/viettel-group
             extra:
               linkedin_url: https://www.linkedin.com/company/viettel-group
