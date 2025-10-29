@@ -5675,6 +5675,28 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/dronecode-foundation
             additional_repos: []
           - item:
+            name: dstack
+            homepage_url: https://github.com/Dstack-TEE/dstack
+            logo: dstack.svg
+            description: dstack is a developer-friendly and security-first SDK that simplifies the deployment of arbitrary containerized applications into Trusted Execution Environments (TEEs). It enables developers to securely deploy containerised applications in TEEs in minutes using familiar tools like Docker Compose. Dstack provides safe management of secrets and sensitive data, along with built-in TLS termination or passthrough reverse proxy for exposed services.
+            second_path:
+              - Project Group / Confidential Computing Consortium (CCC)
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/Dstack-TEE/dstack
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-10-17'
+              annotations:
+                slug: dstack
+              dev_stats_url: https://insights.linuxfoundation.org/project/dstack
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/dstack
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfdn80z2LVgMtG7VR9
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/dstack/dstack_Charter.pdf?v=1760976377014
+          - item:
             name: DTS
             homepage_url: https://www.dpdk.org/hosted-projects/
             logo: dts.svg
@@ -23658,7 +23680,6 @@ landscape:
               - Project Membership / Ultra Ethernet Consortium Fund
               - Project Membership / Overture Maps Foundation Fund
               - Project Membership / Alliance for OpenUSD Fund (AOUSDF)
-              - Project Membership / Camara Fund
               - Project Membership / App Defense Alliance Fund
             crunchbase: https://www.crunchbase.com/organization/microsoft
             twitter: https://twitter.com/Microsoft
@@ -26875,7 +26896,6 @@ landscape:
             description: Boston Consulting Group partners with clients to deliver customized solutions that resolve their most significant issues and create lasting competitive advantage. Utilizing decades of industry experience and functional expertise, BCG looks beyond standard solutions to develop new insights, mobilize organizations, drive tangible results, and make companies more capable.
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / FINOS (The Fintech Open Source Foundation)
               - Project Membership / FINOS (The Fintech Open Source Foundation)
               - Project Membership / Green Software Foundation Fund
             crunchbase: https://www.crunchbase.com/organization/boston-consulting-group
@@ -33296,8 +33316,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-            organization:
-              name: Kestrel AI
+            crunchbase: https://www.crunchbase.com/organization/kestrel-ai
           - item:
             name: Keyfactor (member)
             homepage_url: https://keyfactor.com/
@@ -38320,7 +38339,6 @@ landscape:
             description: 'Sanborn delivers geospatial solutions worldwide: Lidar Maps, Obliques, Mapping Software, Orthos and Change Detection. Contact us for more info.'
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / Overture Maps Foundation Fund
             crunchbase: https://www.crunchbase.com/organization/sanborn-map-company
             twitter: https://twitter.com/SanbornMap
             extra:
@@ -40905,8 +40923,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-            organization:
-              name: TensorMesh, Inc.
+            crunchbase: https://www.crunchbase.com/organization/tensormesh
           - item:
             name: Tenstorrent (member)
             homepage_url: https://tenstorrent.com/
