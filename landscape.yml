@@ -117,11 +117,13 @@ landscape:
             second_path:
               - Project Group / Academy Software Foundation (ASWF)
               - Technology Sector / Visual Effects
+            repo_url: https://github.com/aces-aswf/aces-core
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-08-05'
               annotations:
                 slug: aces
+                project_org: https://github.com/aces-aswf
               dev_stats_url: https://insights.linuxfoundation.org/project/aces
               other_links:
                 - name: Calendar
@@ -130,6 +132,7 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfXJcd7sytTjCn40g9
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/aces/aces_Charter.pdf?v=1754503129100
+            additional_repos: []
           - item:
             name: Academy Software Foundation (ASWF)
             homepage_url: https://www.aswf.io/
@@ -26610,15 +26613,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/beijing-tongtech-co-ltd-
           - item:
-            name: Beijing Wangxun Technology (member)
-            homepage_url: https://net-swift.com/
-            logo: beijing_wangxun_technology.svg
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Ultra Ethernet Consortium Fund
-            organization:
-              name: Beijing Wangxun Technology
-          - item:
             name: Beijing Xiaomi Mobile Software Co., Ltd (member)
             homepage_url: https://mi.com/
             logo: beijing_xiaomi_mobile_software_co.svg
@@ -27945,6 +27939,18 @@ landscape:
               linkedin: https://www.linkedin.com/company/cleura
             extra:
               linkedin_url: https://www.linkedin.com/company/cleura
+          - item:
+            name: ClickHouse, Inc. (member)
+            homepage_url: https://clickhouse.com/
+            logo: clickhouse_inc.svg
+            description: ClickHouse is an open-source column-oriented DBMS for online analytical processing that allows users to generate analytical reports using SQL queries in real-time.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/clickhouse
+            twitter: https://twitter.com/ClickHouseDB
+            extra:
+              linkedin_url: https://www.linkedin.com/company/clickhouseinc
           - item:
             name: Clockwork.io (member)
             homepage_url: https://clockwork.io/
@@ -29960,6 +29966,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+              - Project Membership / Confidential Computing Consortium (CCC)
             organization:
               name: Edera, Inc.
           - item:
@@ -40446,6 +40453,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/styra
           - item:
+            name: Succinct (member)
+            homepage_url: https://succinct.xyz/
+            logo: succinct.svg
+            description: Succinct is a platform where the community collaborates on applications, proof systems, and proving infrastructure. They are focused on building towards a proof-based future, starting with proof of consensus. Their services include providing documentat...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
+            organization:
+              name: Succinct
+          - item:
             name: Sudo Information Technology Co. Ltd. (member)
             homepage_url: https://sudoinfotech.com/
             logo: sudo_information_technology_co_ltd.svg
@@ -44600,6 +44617,16 @@ landscape:
               linkedin: https://www.linkedin.com/company/the-linux-foundation
             extra:
               linkedin_url: https://www.linkedin.com/company/the-linux-foundation
+          - item:
+            name: CMKL University (member)
+            homepage_url: https://cmkl.ac.th/
+            logo: cmkl_university.svg
+            description: CMKL University provides cutting-edge engineering research and education in collaboration with Carnegie Mellon University, focusing on disruptive digital technologies and creating a technology-oriented workforce for industry innovation.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / SONiC Fund
+            organization:
+              name: CMKL University
           - item:
             name: Coalition for Smarter Buildings (member)
             homepage_url: https://c4sb.org/
