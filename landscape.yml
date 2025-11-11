@@ -17937,6 +17937,32 @@ landscape:
                 - name: Charter
                   url: https://github.com/AcademySoftwareFoundation/foundation/blob/main/project_charters/rawtoaces-charter.pdf
           - item:
+            name: Ray
+            homepage_url: https://www.ray.io/
+            logo: ray.svg
+            description: Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
+            second_path:
+              - Project Group / PyTorch Foundation
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/ray-project/ray
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-10-13'
+              annotations:
+                slug: ray
+                project_org: https://github.com/ray-project
+              dev_stats_url: https://insights.linuxfoundation.org/project/ray
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ray
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfeTDLah7Ajxm4vi3T
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/ray/ray_Charter.pdf?v=1760633988446
+            additional_repos:
+              - repo_url: https://github.com/ray-project/kuberay
+              - repo_url: https://github.com/ray-project/enhancements
+          - item:
             name: R Community
             homepage_url: https://www.r-consortium.org/
             logo: r_community.svg
@@ -25845,7 +25871,7 @@ landscape:
             name: Arm Limited (member)
             homepage_url: https://arm.com/
             logo: arm_limited.svg
-            description: ARM Ltd. is a British semiconductor and software design company. The company develops microprocessors based on reduced instruction set computing that is licensed by more than 250 computer chip manufacturers. They serve a wide range of industries including automotive, healthcare, infrastructure, IoT, mobile, smart homes, and wearables. ARM has sold 1,379 licenses to more than 450 partners. The company was founded in 1990 and is headquartered in the UK.
+            description: ARM Ltd. is a British semiconductor and software design company. The company develops microprocessors based on reduced instruction set computing that is licensed by more than 250 computer chip manufacturers. They serve a wide range of industries including automotive, healthcare, infrastructure, IoT, mobile, smart homes, and wearables. ARM has sold 1,379 licenses to more than 450 partners. The company was founded in 1990 and is headquartered in the UK
             second_path:
               - Project Membership / OpenChain Project
               - Project Membership / OpenHPC Project
@@ -27382,7 +27408,6 @@ landscape:
               Capgemini Polska Sp. z o.o.
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / FINOS (The Fintech Open Source Foundation)
             crunchbase: https://www.crunchbase.com/organization/cap-gemini
             twitter: https://twitter.com/Capgemini
             extra:
@@ -28536,7 +28561,6 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-              - Project Membership / FINOS (The Fintech Open Source Foundation)
             crunchbase: https://www.crunchbase.com/organization/compliancecow
             extra:
               linkedin_url: https://www.linkedin.com/company/compliancecow
@@ -32542,19 +32566,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/indeed-com
           - item:
-            name: Indicio (member)
-            homepage_url: https://indicio.tech/
-            logo: indicio.svg
-            description: A self-sovereign identity focused, professional services firm, using distributed ledger technology to deliver decentralized identity results.
-            second_path:
-              - Project Membership / LF Decentralized Trust
-              - Project Membership / The Linux Foundation
-              - Project Membership / Trust Over IP Project (ToIP)
-            crunchbase: https://www.crunchbase.com/organization/indicio-tech
-            twitter: https://twitter.com/IndicioID
-            extra:
-              linkedin_url: https://www.linkedin.com/company/indiciotech
-          - item:
             name: induz (member)
             homepage_url: https://induz.io/
             logo: induz.svg
@@ -34074,6 +34085,7 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / FINOS (The Fintech Open Source Foundation)
+              - Project Membership / FINOS (The Fintech Open Source Foundation)
             twitter: https://twitter.com/LeadingPointFM
             organization:
               name: Leading Point
@@ -35364,15 +35376,6 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/nadrama
           - item:
-            name: Nanjing eCloud Technology Co., Ltd. (member)
-            homepage_url: https://ecloudtech.com/
-            logo: nanjing_ecloud_technology_co_ltd.svg
-            description: Nanjing Yunxinda Technology Co., Ltd. was established in 2015 and is headquartered in the Industrial Technology Research and Innovation Park of Jiangbei New District, Nanjing. It is a manufacturer of CDM cloud data management products for enterprise modern infrastructure. Starting from backup modernization, it revitalizes enterprise dark data.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/ecloudtech
-          - item:
             name: Napatech (member)
             homepage_url: https://napatech.com/
             logo: napatech.svg
@@ -35995,6 +35998,7 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / FinOps Foundation
+              - Project Membership / Ultra Ethernet Consortium Fund
             crunchbase: https://www.crunchbase.com/organization/nippon-telegraph-and-telephone-corporation
             twitter: https://twitter.com/NTTPR
             extra:
@@ -36107,7 +36111,6 @@ landscape:
             logo: nxp_semiconductors_netherlands_b_v.svg
             description: NXP Semiconductors NV is American Dutch semiconductor manufacturer with dual headquarters in Eindhoven, Netherlands and Austin, Texas.
             second_path:
-              - Project Membership / Automotive Grade Linux (AGL)
               - Project Membership / The Linux Foundation
               - Project Membership / Dronecode Project, Inc.
               - Project Membership / Yocto Project Fund
@@ -38279,18 +38282,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ricoh-australia/
           - item:
-            name: Ripple Labs Inc. (member)
-            homepage_url: https://ripple.com/
-            logo: ripple_labs_inc.svg
-            description: Ripple is a real-time gross settlement system (RTGS), currency exchange and remittance network by Ripple. Also called the Ripple Transaction Protocol (RTXP) or Ripple protocol, it is built upon a distributed open source Internet protocol, consensus ledger and native currency called XRP (ripples). Released in 2012, Ripple purports to enable "secure, instant and nearly free global financial transactions of any size with no chargebacks." It supports tokens representing fiat currency, cryptocurrency, commodity or any other unit of value such as frequent flier miles or mobile minutes. At its core, Ripple is based around a shared, public database or ledger, which uses a consensus process that allows for payments, exchanges and remittance in a distributed process.
-            second_path:
-              - Project Membership / LF Decentralized Trust
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/ripple-labs
-            twitter: https://twitter.com/Ripple
-            extra:
-              linkedin_url: https://www.linkedin.com/company/ripple-labs
-          - item:
             name: RISCstar Solutions (member)
             homepage_url: https://riscstar.com/
             logo: riscstar_solutions.svg
@@ -38929,7 +38920,6 @@ landscape:
             logo: seacom_srl_sb.svg
             description: Seacom is the leading Open Source Architect in Italy, offering modular and scalable solutions for digital transformation with expertise in Zimbra and Elasticsearch.
             second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / Linux Foundation Europe
             crunchbase: https://www.crunchbase.com/organization/seacom-s-r-l
@@ -48232,6 +48222,7 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / The Linux Foundation
               - Project Membership / Zephyr Project
+              - Project Membership / LF AI & Data
               - Project Membership / RISC-V International
             organization:
               name: openEuler Community
@@ -48629,6 +48620,15 @@ landscape:
               linkedin: https://www.linkedin.com/company/thepolicyengine
             extra:
               linkedin_url: https://www.linkedin.com/company/thepolicyengine
+          - item:
+            name: Poznan University of technology (member)
+            homepage_url: https://put.poznan.pl/
+            logo: poznan_university_of_technology.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / P4 Fund
+            organization:
+              name: Poznan University of technology
           - item:
             name: Pranveer Singh Institute Of Technology (member)
             homepage_url: https://psit.ac.in/
