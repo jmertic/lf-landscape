@@ -5826,6 +5826,25 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWfb1QAD
           - item:
+            name: Edge Interoperability and Flexibility SIG
+            homepage_url: https://lf-energy.atlassian.net/wiki/spaces/ECS/overview
+            logo: edge_interoperability_and_flexibility_sig.svg
+            description: LF Energy Special Interest Group (SIG) focused on electric vehicle (EV) charging
+            second_path:
+              - Project Group / LF Energy (LFE)
+              - Technology Sector / Cross-Technology
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2024-06-24'
+              annotations:
+                slug: ev-charging-sig
+              dev_stats_url: https://insights.linuxfoundation.org/project/ev-charging-sig
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ev-charging-sig
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf4h91oxXEK4GQJnaj
+          - item:
             name: EdgeLake
             homepage_url: https://lfedge.org/projects/edgelake/
             logo: edgelake.svg
@@ -6347,26 +6366,6 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf7hzLh0zC67Zq0on0
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/eudiplo/eudiplo_Charter.pdf?v=1755100727556
-          - item:
-            name: EV Charging SIG
-            homepage_url: https://lf-energy.atlassian.net/wiki/spaces/ECS/overview
-            logo: ev_charging_sig.svg
-            description: |
-              LF Energy Special Interest Group (SIG) focused on electric vehicle (EV) charging
-            second_path:
-              - Project Group / LF Energy (LFE)
-              - Technology Sector / Cross-Technology
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2024-06-24'
-              annotations:
-                slug: ev-charging-sig
-              dev_stats_url: https://insights.linuxfoundation.org/project/ev-charging-sig
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ev-charging-sig
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf4h91oxXEK4GQJnaj
           - item:
             name: EVE
             homepage_url: https://www.lfedge.org/projects/eve/
@@ -15369,6 +15368,28 @@ landscape:
               - repo_url: https://github.com/openmobilehub/omh-storage
               - repo_url: https://github.com/openmobilehub/omh-core
           - item:
+            name: 'Open Path Guiding Library (OpenPGL) '
+            homepage_url: http://www.openpgl.org/
+            logo: open_path_guiding_library_openpgl.svg
+            description: Open Path Guiding Library (OpenPGL) is an open-source library, that improves the rendering efficiency of a renderer by providing easy to integrate and production-ready implementations of state-of-the-art path guiding algorithms. Especially in challenging illumination setups (complex indirect illumination, volumetric multi scattering) these algorithms significantly improve rendering performance.
+            second_path:
+              - Project Group / Academy Software Foundation (ASWF)
+              - Technology Sector / Visual Effects
+            repo_url: https://github.com/RenderKit/openpgl
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-11-11'
+              annotations:
+                slug: openpgl
+              dev_stats_url: https://insights.linuxfoundation.org/project/openpgl
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openpgl
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfYjuePa6OtmW5KjGs
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/openpgl/openpgl_Charter.pdf?v=1762986909995
+          - item:
             name: Open Policy Agent
             homepage_url: https://www.openpolicyagent.org/
             logo: open_policy_agent.svg
@@ -21609,30 +21630,6 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfYeJYa0SSNeCm6TgM
             additional_repos: []
           - item:
-            name: TonY Project
-            homepage_url: https://lfaidata.foundation/projects/tony/
-            logo: tony_project.svg
-            description: The mission of the Project is to design and implement an open source framework to run distributed deep learning jobs reliably on computing infrastructures.
-            second_path:
-              - Project Group / LF AI & Data
-              - Technology Sector / Cloud, Containers & Virtualization
-              - Technology Sector / DevOps, CI:CD & Site Reliability
-              - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/tony-framework/TonY
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2021-08-02'
-              annotations:
-                slug: tony
-              dev_stats_url: https://insights.linuxfoundation.org/project/tony
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/tony
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001Lk7lNQAR
-                - name: Charter
-                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/tony%20technical%20charter_08.02.21.pdf
-          - item:
             name: TRAC d.a.p.
             homepage_url: https://github.com/finos/tracdap
             logo: trac_d_a_p.svg
@@ -23330,30 +23327,6 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/xregistry
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf0oVBEQRxlr5IZNA6
-            additional_repos: []
-          - item:
-            name: Xtreme1
-            homepage_url: https://github.com/xtreme1-io
-            logo: xtreme1.svg
-            description: The mission of the Project is to build an accessible open-source data-centric MLOps infrastructure to connect people, models and data.
-            second_path:
-              - Project Group / LF AI & Data
-              - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/xtreme1-io/xtreme1
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2023-01-05'
-              annotations:
-                slug: xtreme1
-                project_org: https://github.com/xtreme1-io
-              dev_stats_url: https://insights.linuxfoundation.org/project/xtreme1
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/xtreme1
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NWgibQAD
-                - name: Charter
-                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/xtreme1/xtreme1_Charter.pdf?v=1747670715276
             additional_repos: []
           - item:
             name: YANG Tools
@@ -27888,7 +27861,7 @@ landscape:
               - Project Membership / CHIPS Alliance Fund
               - Project Membership / Confidential Computing Consortium (CCC)
               - Project Membership / Open Source Security Foundation (OpenSSF)
-              - Project Membership / Sustainable & Scalable Infrastructure Alliance Fund
+              - Project Membership / Green Software Foundation Fund
               - Project Membership / Linux Foundation Europe
               - Project Membership / SONiC Fund
               - Project Membership / Ultra Ethernet Consortium Fund
@@ -43627,6 +43600,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/zestyco
           - item:
+            name: zode (member)
+            homepage_url: https://zode.dev/
+            logo: zode.svg
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            organization:
+              name: zode
+          - item:
             name: Zoi (member)
             homepage_url: https://en.zoi.de/
             logo: zoi.svg
@@ -44639,7 +44621,7 @@ landscape:
             name: CMKL University (member)
             homepage_url: https://cmkl.ac.th/
             logo: cmkl_university.svg
-            description: CMKL University provides cutting-edge engineering research and education in collaboration with Carnegie Mellon University, focusing on disruptive digital technologies and creating a technology-oriented workforce for industry innovation.
+            description: CMKL University provides cutting-edge engineering research and education in collaboration with Carnegie Mellon University, focusing on disruptive digital technologies and creating a technology-oriented workforce for industry innovation
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / SONiC Fund
