@@ -131,7 +131,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfXJcd7sytTjCn40g9
                 - name: Charter
-                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/aces/aces_Charter.pdf?v=1754503129100
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/aces/aces_Charter.pdf?v=1763476981785
             additional_repos: []
           - item:
             name: Academy Software Foundation (ASWF)
@@ -3168,6 +3168,33 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWg5eQAD
             additional_repos: []
+          - item:
+            name: CobaltCore
+            homepage_url: https://github.com/cobaltcore-dev
+            logo: cobaltcore.svg
+            description: The mission of the Project is to provide a reimagined, opinionated, and Kubernetes enabled OpenStack distribution, fully embedded with other cloud components.
+            second_path:
+              - Project Group / NeoNephos Foundation
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/cobaltcore-dev/gardenlinux
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-11-18'
+              annotations:
+                slug: cobaltcore
+                project_org: https://github.com/cobaltcore-dev
+              dev_stats_url: https://insights.linuxfoundation.org/project/cobaltcore
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cobaltcore
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf66V8CCBTijsFZ7AI
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/cobaltcore/cobaltcore_Charter.pdf?v=1763511319012
+            additional_repos:
+              - repo_url: https://github.com/cobaltcore-dev/cortex
+              - repo_url: https://github.com/cobaltcore-dev/steering
+              - repo_url: https://github.com/cobaltcore-dev/aurora-dashboard
           - item:
             name: COBOL Check
             homepage_url: https://github.com/openmainframeproject/cobol-check
@@ -7385,6 +7412,35 @@ landscape:
               - repo_url: https://github.com/galasa-dev/helm
               - repo_url: https://github.com/galasa-dev/webui
           - item:
+            name: Gardener
+            homepage_url: https://gardener.cloud/
+            logo: gardener.svg
+            description: The mission of the Project is to provide homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.
+            second_path:
+              - Project Group / NeoNephos Foundation
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/gardener/gardener
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-11-18'
+              annotations:
+                slug: gardener
+                project_org: https://github.com/gardener
+              dev_stats_url: https://insights.linuxfoundation.org/project/gardener
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/gardener
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf6ewSmFRM2jaDYlmB
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/gardener/gardener_Charter.pdf?v=1763510989994
+            additional_repos:
+              - repo_url: https://github.com/gardener/machine-controller-manager
+              - repo_url: https://github.com/gardener/etcd-druid
+              - repo_url: https://github.com/gardener/etcd-backup-restore
+              - repo_url: https://github.com/gardener/dashboard
+              - repo_url: https://github.com/gardener/autoscaler
+          - item:
             name: Gemara
             homepage_url: https://github.com/revanite-io/gemara
             logo: gemara.svg
@@ -7870,7 +7926,7 @@ landscape:
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/geisa/conformance
+            repo_url: https://github.com/geisa/specification
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-11-05'
@@ -14839,6 +14895,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openfx
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MSuGfQAL
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/openfx/openfx_Charter.pdf?v=1763484679475
           - item:
             name: openGemini
             homepage_url: https://opengemini.org/
@@ -15738,7 +15796,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkWtEQAV
                 - name: Charter
-                  url: https://github.com/AcademySoftwareFoundation/foundation/blob/master/project_charters/open-shading-language-charter.md
+                  url: https://github.com/AcademySoftwareFoundation/foundation/blob/main/project_charters/open-shading-language_charter.md
           - item:
             name: Open Source Readiness Special Interest Group
             homepage_url: https://osr.finos.org/
@@ -15996,7 +16054,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001If9uZQAR
                 - name: Charter
-                  url: https://github.com/AcademySoftwareFoundation/foundation/blob/main/project_charters/opentimelineio-charter.md
+                  url: https://github.com/AcademySoftwareFoundation/foundation/blob/main/project_charters/open-timeline-io_charter.md
           - item:
             name: OpenTofu
             homepage_url: https://www.opentf.org/
@@ -17957,7 +18015,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkKVeQAN
                 - name: Charter
-                  url: https://github.com/AcademySoftwareFoundation/foundation/blob/main/project_charters/rawtoaces-charter.pdf
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/rawtoaces/rawtoaces_Charter.pdf?v=1763485158376
           - item:
             name: Ray
             homepage_url: https://www.ray.io/
@@ -18415,7 +18473,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkM0JQAV
                 - name: Charter
-                  url: https://github.com/AcademySoftwareFoundation/foundation/blob/main/project_charters/rez-charter.pdf
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/rez/rez_Charter.pdf?v=1763485197122
           - item:
             name: RISC-V International
             homepage_url: https://riscv.org/
@@ -18541,7 +18599,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfVbn6YwcC4WwCLufz
                 - name: Charter
-                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/rongotai-model-train-club-rmtc/rongotai-model-train-club-rmtc_Charter.pdf?v=1754504351394
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/rongotai-model-train-club-rmtc/rongotai-model-train-club-rmtc_Charter.pdf?v=1763492766002
           - item:
             name: Rook
             homepage_url: https://rook.io/
@@ -25460,7 +25518,6 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-              - Project Membership / Confidential Computing Consortium (CCC)
             crunchbase: https://www.crunchbase.com/organization/ant-financial
             twitter: https://twitter.com/AntGroup
             extra:
@@ -33319,7 +33376,7 @@ landscape:
             name: Joby Aero (member)
             homepage_url: https://jobyaviation.com/
             logo: joby_aero.svg
-            description: JOBY sells accessories for the tripod industry. Their products include mounts, stands, and grips that are flexible, easy to use and designed to elevate the potential of the latest mobile and imaging devices. JOBY was established in 2006 and is headquartered in New Jersey, United States.
+            description: Joby Aviation is a transportation company developing an all-electric, vertical take-off and landing air taxi to offer a fast, quiet, and convenient air taxi service in cities around the world. Joby Aviation was established in 2009 and is headquartered in Santa Cruz, California.
             second_path:
               - Project Membership / OpenJS Foundation
               - Project Membership / The Linux Foundation
