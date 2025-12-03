@@ -8259,12 +8259,15 @@ landscape:
               accepted: '2022-07-26'
               annotations:
                 slug: hexa
+                project_org: https://github.com/hexa-org
               dev_stats_url: https://insights.linuxfoundation.org/project/hexa
               other_links:
                 - name: Calendar
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/hexa
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L18vmQAB
+            additional_repos:
+              - repo_url: https://github.com/hexa-org/policy
           - item:
             name: Hiero
             homepage_url: https://github.com/LFDT-Hiero
@@ -26782,10 +26785,9 @@ landscape:
             logo: better_stack.svg
             description: Better Stack offers powerful observability tools for developers to spot, resolve, and prevent downtime, aiming to build a better internet with beautifully designed software.
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-            organization:
-              name: Better Stack
-              linkedin: https://www.linkedin.com/company/betterstack
+            crunchbase: https://www.crunchbase.com/organization/better-stack
             extra:
               linkedin_url: https://www.linkedin.com/company/betterstack
           - item:
@@ -28549,6 +28551,8 @@ landscape:
             description: Code Intelligence
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / The Linux Foundation
+              - Project Membership / Open Source Security Foundation (OpenSSF)
               - Project Membership / Open Source Security Foundation (OpenSSF)
             twitter: https://twitter.com/CI_Fuzz
             organization:
@@ -30172,8 +30176,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-            organization:
-              name: EIDP
+            crunchbase: https://www.crunchbase.com/organization/eidp
           - item:
             name: EigenQ (member)
             homepage_url: https://eigenq.com/
@@ -34366,6 +34369,8 @@ landscape:
             logo: like_minds_consulting.svg
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/likeminds-consulting
             extra:
@@ -35565,6 +35570,7 @@ landscape:
             logo: natwest.svg
             description: National Westminster Bank, commonly known as NatWest, is a major retail and commercial bank in the United Kingdom.  National Westminster Bank plc (NatWest) is a retail and commercial bank in the United Kingdom that has been part of the Royal Bank of Scotland Group since 2000. The Bank has a large network of over 960 branches and 3,400 cash machines across Great Britain and offers a wide range of banking services to over 7 million customers. In Northern Ireland it operates through its Ulster Bank subsidiary.
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / FINOS (The Fintech Open Source Foundation)
               - Project Membership / FinOps Foundation
@@ -35730,6 +35736,7 @@ landscape:
             logo: netris_inc.svg
             description: XCloud runs your private network, providing you with cloud experience. Operating a network never was this easy.
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/netris
@@ -39155,6 +39162,8 @@ landscape:
             description: Seal is a software company that provides a platform engineering solution for developers. Their solution aims to eliminate the complexity of modern application system development and deployment by centralizing application service directories, providing ...
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/seal-software
           - item:
@@ -42634,9 +42643,7 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / RISC-V International
-            organization:
-              name: Viettel
-              linkedin: https://www.linkedin.com/company/viettel-group
+            crunchbase: https://www.crunchbase.com/organization/viettel
             extra:
               linkedin_url: https://www.linkedin.com/company/viettel-group
           - item:
