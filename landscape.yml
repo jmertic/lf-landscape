@@ -2675,6 +2675,28 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfggfffNJIAO3ySYf9
           - item:
+            name: CityLearn
+            homepage_url: http://www.citylearn.net/
+            logo: citylearn.svg
+            description: The mission of the Project is to enable the implementation and benchmarking of advanced controllers for demand side building energy coordination and demand
+            second_path:
+              - Project Group / LF Energy (LFE)
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/intelligent-environments-lab/CityLearn
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-12-19'
+              annotations:
+                slug: citylearn
+              dev_stats_url: https://insights.linuxfoundation.org/project/citylearn
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/citylearn
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfp8rrlK6FDsO9wk2q
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/citylearn/citylearn_Charter.pdf?v=1764754270554
+          - item:
             name: Civil Infrastructure Platform (CIP)
             homepage_url: https://www.cip-project.org/
             logo: civil_infrastructure_platform_cip.svg
@@ -18676,18 +18698,19 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs8xQAD
           - item:
             name: RTC-Tools
-            homepage_url: https://github.com/Deltares/rtc-tools
+            homepage_url: https://rtctools.energy/
             logo: rtc_tools.svg
             description: RTC-Tools is an open-source Python package for simulation and operational optimization of assets. Models can be specified in Python or in the Modelica modelling language, making it generically applicable to a broad class of assets. It can be used for model-predictive control and operational decision making of water and energy systems.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/Deltares/rtc-tools
+            repo_url: https://github.com/rtc-tools/rtc-tools
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-07-22'
               annotations:
                 slug: rtc-tools
+                project_org: https://github.com/rtc-tools
               dev_stats_url: https://insights.linuxfoundation.org/project/rtc-tools
               other_links:
                 - name: Calendar
@@ -18696,6 +18719,7 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfFMWLlIxeAyyEMxlU
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/rtc-tools/rtc-tools_Charter.pdf?v=1753825022390
+            additional_repos: []
           - item:
             name: RUGS (R User Groups)
             homepage_url: https://www.r-consortium.org/
@@ -23101,7 +23125,7 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/wasmCloud/wadm
               - repo_url: https://github.com/wasmCloud/wasmcloud.com
-              - repo_url: https://github.com/wasmCloud/wasmcloud-operator
+              - repo_url: https://github.com/wasmCloud/wadm-operator
               - repo_url: https://github.com/wasmCloud/typescript
               - repo_url: https://github.com/wasmCloud/go
           - item:
@@ -24674,7 +24698,7 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/adobe
           - item:
             name: Adtran Holdings, Inc. (member)
-            homepage_url: https://adva.com/
+            homepage_url: https://adtran.com/
             logo: adtran_holdings_inc.svg
             description: Adtran is a leading global provider of networking and communications platforms, software, systems and services focused on the broadband access and optical networking market. We serve a diverse international customer base that includes large, medium and small service providers; alternative service providers, such as utilities, municipalities and fiber overbuilders; cable/MSOs; SMBs; distributed enterprises, including Fortune 500 companies with sophisticated business continuity applications; and federal, state and local government agencies. Our innovative solutions and services enable voice, data, video and internet communications across a variety of network infrastructures and are currently in use by millions worldwide.
             second_path:
@@ -28551,8 +28575,6 @@ landscape:
             description: Code Intelligence
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / The Linux Foundation
-              - Project Membership / Open Source Security Foundation (OpenSSF)
               - Project Membership / Open Source Security Foundation (OpenSSF)
             twitter: https://twitter.com/CI_Fuzz
             organization:
@@ -34608,6 +34630,8 @@ landscape:
             description: LSD Information Technology is a pure play open software company that provides you with best-of-breed open source solutions.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
               - Project Membership / The Linux Foundation
             twitter: https://twitter.com/lsdopen
             organization:
@@ -36834,6 +36858,8 @@ landscape:
             logo: parler_cloud_technologies.svg
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/parler-cloud-technologies
           - item:
@@ -40136,7 +40162,9 @@ landscape:
             description: World-class Developer Experience for your API.    🐝 https://t.co/txArmj2W8x 🐝
             second_path:
               - Project Membership / OpenAPI Initiative
+              - Project Membership / OpenAPI Initiative
               - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/speakeasy-1055
             twitter: https://twitter.com/speakeasydev
@@ -40603,6 +40631,8 @@ landscape:
             description: Cloud-Native at the heart of our products & services. Less Mist, More Cloud on Stratox…
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/stratox-enterprises
             twitter: https://twitter.com/StratoxCZ
@@ -42037,6 +42067,22 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/tuxera
           - item:
+            name: Twilio (member)
+            homepage_url: https://twilio.com/
+            logo: twilio.svg
+            description: |-
+              Twilio is headquartered out of California and was founded in 2007. They provide cloud communication services to customers. Over 400,000 software developers use this service today.
+
+              --- Merged Data:
+
+              With Twilio, unite communications and strengthen customer relationships across your business – from marketing and sales to customer service and operations.
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/twilio
+            twitter: https://twitter.com/twilio
+            extra:
+              linkedin_url: https://www.linkedin.com/company/twilio-inc.
+          - item:
             name: Txture (member)
             homepage_url: https://txture.io/
             logo: txture.svg
@@ -42378,6 +42424,8 @@ landscape:
             description: ValueMentor is a global information security consulting and services company that specializes in Cyber Security and Payment Security Services. With over 10 years of experience, we offer a full range of services including Cyber Consulting, Security Test...
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / The Linux Foundation
+              - Project Membership / App Defense Alliance Fund
               - Project Membership / App Defense Alliance Fund
             organization:
               name: ValueMentor
@@ -42641,6 +42689,7 @@ landscape:
             logo: viettel.svg
             description: Viettel Group is a leading telecom operator pioneering digital societies with over 110 million subscribers and a global presence in 13 countries.
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / RISC-V International
             crunchbase: https://www.crunchbase.com/organization/viettel
@@ -42790,8 +42839,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-            organization:
-              name: Wand Cloud
+            crunchbase: https://www.crunchbase.com/organization/wand-cloud
           - item:
             name: Wargaming.net Limited (member)
             homepage_url: https://wargaming.net/
@@ -43626,6 +43674,7 @@ landscape:
             description: xFlow Research is a company that provides research and development services in the networking domain, with a focus on Telcos.
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / SONiC Fund
               - Project Membership / SONiC Fund
             organization:
               name: xFlow Research.com
