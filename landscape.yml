@@ -13190,22 +13190,25 @@ landscape:
             name: NeoNephos Foundation
             homepage_url: https://neonephos.org/
             logo: neonephos_foundation.svg
-            description: 'TODO: SAP aims to transfer Open Reference Architecture (ORA) to LF Europe and bring in other projects.'
+            description: NeoNephos, part of Linux Foundation Europe, provides a sustainable, shared development model for projects of the cloud-edge continuum and offers collaborative potential for higher adoption. By being open to hosting projects from other industry players and the community at large, the foundation provides a nurturing environment for any project sharing the goal of a sovereign, open, enterprise-hardened, multi provider cloud-to-edge continuum.
             second_path:
               - Project Group / Linux Foundation Europe
               - PMO Managed / All
               - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/neonephos/community
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-03-31'
               annotations:
                 slug: neonephos-foundation
+                project_org: https://github.com/neonephos
               dev_stats_url: https://insights.linuxfoundation.org/project/neonephos-foundation
               other_links:
                 - name: Calendar
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/neonephos-foundation
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfGnr1MCq2lbKUf6f7
+            additional_repos: []
           - item:
             name: Nephio Project
             homepage_url: https://nephio.org/
@@ -24125,7 +24128,6 @@ landscape:
               - Project Membership / Trust Over IP Project (ToIP)
               - Project Membership / Open Source Security Foundation (OpenSSF)
               - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
-              - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
               - Project Membership / Green Software Foundation Fund
               - Project Membership / Linux Foundation Europe
             crunchbase: https://www.crunchbase.com/organization/futurewei-technologies
@@ -31097,6 +31099,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/finout-io
           - item:
+            name: First Orion Corp. (member)
+            homepage_url: https://firstorion.com/
+            logo: first_orion_corp.svg
+            description: First Orion is a leading provider of branded call solutions, specializing in call blocking, SMS text message blocking, caller ID, and smart blocking. PrivacyStar, a subsidiary, offers users complete control of their smartphones with features like call ...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: First Orion Corp.
+          - item:
             name: FiveTwenty Inc. (member)
             homepage_url: https://fivetwenty.io/
             logo: fivetwenty_inc.svg
@@ -34243,6 +34254,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/laika
           - item:
+            name: LanceDB (member)
+            homepage_url: https://lancedb.com/
+            logo: lancedb.svg
+            description: https://lancedb.com/ provides a multimodal vector database designed to support rapid development of retrieval-augmented generation (RAG), agents, and hybrid search engines, enabling efficient management of diverse AI data and workloads.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: LanceDB
+          - item:
             name: Larch Networks (member)
             homepage_url: https://larch-networks.com/
             logo: larch_networks.svg
@@ -35996,6 +36016,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/nikon
           - item:
+            name: NinjaTech AI Inc (member)
+            homepage_url: https://ninjatech.ai/
+            logo: ninjatech_ai_inc.svg
+            description: 'NinjaTech AI: Conversational AI company founded by ex-Google, ex-Meta, and ex-AWS leaders. Specializing in Autonomous AI Agents like Atlas for optimizing daily productivity.'
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: NinjaTech AI Inc
+          - item:
             name: NIO (member)
             homepage_url: https://nio.com/
             logo: nio.svg
@@ -36874,8 +36903,6 @@ landscape:
             logo: parler_cloud_technologies.svg
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/parler-cloud-technologies
           - item:
@@ -37456,6 +37483,17 @@ landscape:
               linkedin: https://www.linkedin.com/company/precision-innovations-inc
             extra:
               linkedin_url: https://www.linkedin.com/company/precision-innovations-inc
+          - item:
+            name: Prefect (member)
+            homepage_url: https://prefect.io/
+            logo: prefect.svg
+            description: The easiest way to automate your data.
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/prefect-technologies-inc
+            twitter: https://twitter.com/PrefectIO
+            extra:
+              linkedin_url: https://www.linkedin.com/company/prefect
           - item:
             name: Preferred Networks, Inc. (member)
             homepage_url: https://preferred.jp/
@@ -38671,6 +38709,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ruijie-networks
           - item:
+            name: Runlayer (member)
+            homepage_url: https://runlayer.com/
+            logo: runlayer.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Runlayer
+          - item:
             name: RunWhen Inc (member)
             homepage_url: https://runwhen.com/
             logo: runwhen_inc.svg
@@ -39506,6 +39552,15 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/shinesoft-co-ltd
+          - item:
+            name: Shipfox (member)
+            homepage_url: https://shipfox.io/
+            logo: shipfox.svg
+            description: Shipfox provides managed runners for GitHub Actions that enhance continuous integration (CI) processes by delivering builds that are twice as fast and at half the cost, while also improving visibility and reliability in testing.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/shipfox
           - item:
             name: Shopify Inc. (member)
             homepage_url: https://shopify.com/
@@ -40358,6 +40413,14 @@ landscape:
               linkedin: https://www.linkedin.com/company/stability-ai
             extra:
               linkedin_url: https://www.linkedin.com/company/stability-ai
+          - item:
+            name: Stack8s (member)
+            homepage_url: https://stack8s.ai/
+            logo: stack8s.svg
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/stack8s
           - item:
             name: StackGen (member)
             homepage_url: https://stackgen.com/
@@ -41284,6 +41347,15 @@ landscape:
             twitter: https://twitter.com/Telefonica
             extra:
               linkedin_url: https://www.linkedin.com/company/telefonica-global-solutions
+          - item:
+            name: Telenor Norway AS (member)
+            homepage_url: https://telenor.no/
+            logo: telenor_norway_as.svg
+            description: Telenor is a Norwegian multinational telecommunications company with operations in Scandinavia and Asia. They offer mobile phones, mobile subscriptions, TV services, high-speed broadband, and security services. With a focus on empowering societies, Tel...
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/telenor-norway
           - item:
             name: TELUS Corporation (member)
             homepage_url: https://telus.com/
