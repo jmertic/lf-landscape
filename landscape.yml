@@ -10241,11 +10241,13 @@ landscape:
             second_path:
               - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/kedro-org/kedro
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-01-14'
               annotations:
                 slug: kedro
+                project_org: https://github.com/kedro-org
               dev_stats_url: https://insights.linuxfoundation.org/project/kedro
               other_links:
                 - name: Calendar
@@ -10254,6 +10256,10 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001Lk9rsQAB
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/Kedro%20Project%20Technical%20Charter%201-14-2022%20Final.pdf
+            additional_repos:
+              - repo_url: https://github.com/kedro-org/kedro-viz
+              - repo_url: https://github.com/kedro-org/awesome-kedro
+              - repo_url: https://github.com/kedro-org/kedro-plugins
           - item:
             name: Kepler
             homepage_url: https://sustainable-computing.io/
@@ -25820,6 +25826,15 @@ landscape:
             organization:
               name: ARAADIGIT
           - item:
+            name: Arcade (member)
+            homepage_url: https://arcade.dev/
+            logo: arcade.svg
+            description: Arcade is an AI Tool-calling Platform. For the first time, AI can securely act on behalf of users through Arcade's authenticated integrations, or "tools" in AI lingo.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Arcade
+          - item:
             name: Arcfra (member)
             homepage_url: https://arcfra.com/
             logo: arcfra.svg
@@ -27177,6 +27192,15 @@ landscape:
               linkedin: https://www.linkedin.com/company/bright-machines
             extra:
               linkedin_url: https://www.linkedin.com/company/bright-machines
+          - item:
+            name: BrightQuery (member)
+            homepage_url: https://brightquery.com/
+            logo: brightquery.svg
+            description: BrightQuery provides trusted data solutions for over 200 million companies worldwide, offering financials, headcount, and firmographics for diverse industry applications.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: BrightQuery
           - item:
             name: Broadcom Corporation (member)
             homepage_url: https://broadcom.com/
@@ -34980,6 +35004,7 @@ landscape:
 
               215021
             second_path:
+              - Project Membership / Automotive Grade Linux (AGL)
               - Project Membership / The Linux Foundation
               - Project Membership / Ultra Ethernet Consortium Fund
             crunchbase: https://www.crunchbase.com/organization/mediatek
@@ -36366,6 +36391,17 @@ landscape:
             twitter: https://twitter.com/NXP
             extra:
               linkedin_url: https://www.linkedin.com/company/nxp-semiconductors
+          - item:
+            name: Obot AI, Inc. (member)
+            homepage_url: https://obot.ai/
+            logo: obot_ai_inc.svg
+            description: Building technology to simplify and secure how organizations develop and run their most critical applications.
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/acorn-labs-inc
+            twitter: https://twitter.com/acornlabs
+            extra:
+              linkedin_url: https://www.linkedin.com/company/acorn-labs
           - item:
             name: Ochestra Technologies Limited (member)
             homepage_url: https://ochestra.io/
@@ -40814,6 +40850,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/superprotocol
           - item:
+            name: SurrealDB (member)
+            homepage_url: https://surrealdb.com/
+            logo: surrealdb.svg
+            description: "SurrealDB: The ultimate multi model database for tomorrow's applications, offering hassle-free setup, advanced security, and real-time data retrieval."
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            organization:
+              name: SurrealDB
+          - item:
             name: Surveil (member)
             homepage_url: https://surveil.co/
             logo: surveil.svg
@@ -45100,6 +45146,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/cea
           - item:
+            name: CommonAI C.I.C. (member)
+            homepage_url: https://commonai.org/
+            logo: commonai_c_i_c.svg
+            description: CommonAI focuses on assisting organizations in leveraging artificial intelligence by providing managed open source development services.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / PyTorch Foundation
+            organization:
+              name: CommonAI C.I.C.
+          - item:
             name: Common Crawl Foundation (member)
             homepage_url: https://commoncrawl.org/
             logo: common_crawl_foundation.svg
@@ -46996,6 +47052,8 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / FINOS (The Fintech Open Source Foundation)
+              - Project Membership / Linux Foundation Europe
+              - Project Membership / OpenWallet Foundation
             twitter: https://twitter.com/Interledger
             organization:
               name: Interledger Foundation
