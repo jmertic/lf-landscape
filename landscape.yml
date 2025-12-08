@@ -4961,7 +4961,7 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / AI, ML, Data & Analytics
               - Technology Sector / Storage
-            repo_url: https://github.com/sodafoundation/soda
+            repo_url: https://github.com/sodafoundation/ai
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-03-30'
@@ -4975,11 +4975,11 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWh0zQAD
             additional_repos:
+              - repo_url: https://github.com/sodafoundation/soda
               - repo_url: https://github.com/sodafoundation/strato
               - repo_url: https://github.com/sodafoundation/delfin
               - repo_url: https://github.com/sodafoundation/crystal
               - repo_url: https://github.com/sodafoundation/kahu
-              - repo_url: https://github.com/sodafoundation/ai
           - item:
             name: Delta Lake Project
             homepage_url: https://delta.io/
@@ -12249,6 +12249,36 @@ landscape:
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/ludwig%20technical%20charter_06.15.20.pdf
           - item:
+            name: Luigi
+            homepage_url: https://luigi-project.io/
+            logo: luigi.svg
+            description: |-
+              Luigi was first introduced as an open source project in 2018, together with kyma.
+              Key features include:
+              Modular architecture: Breaks down monolithic apps into smaller, manageable UI modules.
+              Extensibility: Easily integrates external UI components.
+              Scalability: Supports distributed development across multiple teams.
+              Technology agnostic: Works with any frontend technology, avoiding vendor lock-in.
+            second_path:
+              - Project Group / NeoNephos Foundation
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/luigi-project/luigi
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-12-02'
+              annotations:
+                slug: luigi
+                project_org: https://github.com/luigi-project
+              dev_stats_url: https://insights.linuxfoundation.org/project/luigi
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/luigi
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lforSI35bwcB7b0ho1
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/luigi/luigi_Charter.pdf?v=1764684321725
+            additional_repos: []
+          - item:
             name: Luma.gl
             homepage_url: https://luma.gl/
             logo: luma.svg
@@ -12762,19 +12792,21 @@ landscape:
                 - name: Charter
                   url: https://www.onap.org/wp-content/uploads/sites/20/2018/01/ONAP-Project-a-Series-of-LF-Projects-LLC-Technical-Charter-12-22-2017-FINAL.pdf
           - item:
-            name: Milvus
+            name: Milvusv
             homepage_url: https://milvus.io/
-            logo: milvus.svg
+            logo: milvusv.svg
             description: As an open source vector similarity search engine, Milvus is easy-to-use, highly reliable, scalable, robust, and blazing fast. Adopted by over 100 organizations and institutions worldwide, Milvus empowers applications in a variety of fields, including image processing, computer vision, natural language processing, voice recognition, recommender systems, drug discovery, etc.
             second_path:
               - Project Group / LF AI & Data
               - Industry / Cross-Industry
               - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/milvus-io/milvus
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-03-19'
               annotations:
                 slug: lfai-milvus
+                project_org: https://github.com/milvus-io
               dev_stats_url: https://insights.linuxfoundation.org/project/lfai-milvus
               other_links:
                 - name: Calendar
@@ -12783,6 +12815,12 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs6mQAD
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/milvus%20technical%20charter_03.18.20.pdf
+            additional_repos:
+              - repo_url: https://github.com/milvus-io/bootcamp
+              - repo_url: https://github.com/milvus-io/pymilvus
+              - repo_url: https://github.com/milvus-io/milvus-sdk-java
+              - repo_url: https://github.com/milvus-io/milvus-lite
+              - repo_url: https://github.com/milvus-io/milvus-sdk-node
           - item:
             name: Minicoredumper
             homepage_url: https://diamon.org/
@@ -14477,6 +14515,33 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkRyEQAV
           - item:
+            name: Open Crypto Broker
+            homepage_url: https://github.com/open-crypto-broker/
+            logo: open_crypto_broker.svg
+            description: |-
+              Open Crypto Broker (OCB) introduces an abstraction layer where cryptographic operations are defined through configurable profiles rather than being hardcoded into applications. Instead of applications handling their own cryptographic functions, they can rely on OCB to manage these tasks. This separation of concerns enables organizations to meet new security requirements, such as compliance with FIPS 140 or the transition to Post-Quantum Cryptography, without needing to modify the underlying applications.
+
+              *** Note - please create under LF Europe
+            second_path:
+              - Project Group / NeoNephos Foundation
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/open-crypto-broker/crypto-broker-documentation
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-12-02'
+              annotations:
+                slug: open-crypto-broker
+                project_org: https://github.com/open-crypto-broker
+              dev_stats_url: https://insights.linuxfoundation.org/project/open-crypto-broker
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/open-crypto-broker
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfpSIlrS0guboGTaRG
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/open-crypto-broker/open-crypto-broker_Charter.pdf?v=1764683894026
+            additional_repos: []
+          - item:
             name: OpenCue
             homepage_url: https://opencue.io/
             logo: opencue.svg
@@ -15190,6 +15255,33 @@ landscape:
               - repo_url: https://github.com/openjs-foundation/summit
               - repo_url: https://github.com/openjs-foundation/standards
               - repo_url: https://github.com/openjs-foundation/project-status
+          - item:
+            name: Open Key Chain Manager (openKCM)
+            homepage_url: https://github.com/openkcm
+            logo: open_key_chain_manager_openkcm.svg
+            description: |-
+              Centralized key management solution to govern customer encryption keys (Level 1 keys), with BYOK (Bring Your Own Key) and HYOK (Hold Your Own Key) capabilities.
+
+              ** Note - create under LF Europe
+            second_path:
+              - Project Group / NeoNephos Foundation
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/openkcm/orbital
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-12-02'
+              annotations:
+                slug: open-key-chain-manager
+                project_org: https://github.com/openkcm
+              dev_stats_url: https://insights.linuxfoundation.org/project/open-key-chain-manager
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/open-key-chain-manager
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf6RrWwbl31D92u3Jc
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/open-key-chain-manager/open-key-chain-manager_Charter.pdf?v=1764684098991
+            additional_repos: []
           - item:
             name: OpenKruise
             homepage_url: https://openkruise.io/
@@ -19790,7 +19882,7 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / AI, ML, Data & Analytics
               - Technology Sector / Storage
-            repo_url: https://github.com/sodafoundation/soda
+            repo_url: https://github.com/sodafoundation/ai
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-06-29'
@@ -19804,11 +19896,11 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JVT8jQAH
             additional_repos:
+              - repo_url: https://github.com/sodafoundation/soda
               - repo_url: https://github.com/sodafoundation/strato
               - repo_url: https://github.com/sodafoundation/delfin
               - repo_url: https://github.com/sodafoundation/crystal
               - repo_url: https://github.com/sodafoundation/kahu
-              - repo_url: https://github.com/sodafoundation/ai
           - item:
             name: SODA Multicloud
             homepage_url: https://sodafoundation.io/
@@ -19882,7 +19974,7 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / AI, ML, Data & Analytics
               - Technology Sector / Storage
-            repo_url: https://github.com/sodafoundation/soda
+            repo_url: https://github.com/sodafoundation/ai
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-03-30'
@@ -19896,11 +19988,11 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWfCUQA1
             additional_repos:
+              - repo_url: https://github.com/sodafoundation/soda
               - repo_url: https://github.com/sodafoundation/strato
               - repo_url: https://github.com/sodafoundation/delfin
               - repo_url: https://github.com/sodafoundation/crystal
               - repo_url: https://github.com/sodafoundation/kahu
-              - repo_url: https://github.com/sodafoundation/ai
           - item:
             name: SODA QA
             homepage_url: https://sodafoundation.io/
@@ -28338,6 +28430,94 @@ landscape:
             twitter: https://twitter.com/AureaSoftware
             extra:
               linkedin_url: https://www.linkedin.com/company/cloudfix-saves
+          - item:
+            name: Cloudflare, Inc. (member)
+            homepage_url: https://cloudflare.com/
+            logo: cloudflare_inc.svg
+            description: |-
+              9/9/15: Nick confirmed 170 employees on conf call.  Don't sponsor conferences or events, use technical blog.. just hired Head of Marketing and he is ramping up.
+
+
+
+              CloudFlare is the simplest way to make websites faster, safer and smarter. Millions of websites have signed up for our service, including large enterprises, major consumer destinations, and government agencies. With offices in San Francisco and London, CloudFlare operates a highly-available global network that has security measures built into every layer and regularly clocks in lightning-fast speeds. 
+
+
+
+              Our network also: 
+
+              ...serves hundreds of billions of page views per month 
+
+
+
+              ...reaches 90% of the world��_��_s population in less than .23 seconds 
+
+
+
+              ...sees more than 750M unique IPs per month 
+
+
+
+              ...has successfully defended against the largest DDoS attack publicly recorded 
+
+
+
+              We're on a mission to build a better web - and we need smart, talented people to join our team. Our team works on the forefront of leading technologies including nginx, Go and Lua programming languages. We're a strong supporter of the open source community and regularly share our technology learnings at https://blog.cloudflare.com. 
+
+
+
+              Interested in joining our team? Please see current openings at https://www.cloudflare.com/join-our-team. 
+
+
+
+              We can also be reached at https://www.cloudflare.com or on Twitter at 
+
+              https://twitter.com/cloudflare.
+
+
+
+              Specialties: nginx, lua, go, web performance, web security, dns, network, noc, nocc
+
+
+
+              Website
+
+              http://www.cloudflare.com
+
+
+
+              Industry
+
+              Information Technology and Services
+
+
+
+              Type
+
+              Privately Held
+
+
+
+              Headquarters
+
+              665 Third Street suite 207 San Francisco, CA 94107 United States
+
+
+
+              Company Size
+
+              51-200 employees
+
+
+
+              Founded
+
+              2009
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/cloudflare
+            twitter: https://twitter.com/Cloudflare
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cloudflare-inc-
           - item:
             name: CloudGeometry Inc. (member)
             homepage_url: https://cloudgeometry.io/
