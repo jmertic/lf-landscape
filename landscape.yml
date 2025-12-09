@@ -450,6 +450,25 @@ landscape:
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/agentgateway/agentgateway_Charter.pdf?v=1756162150642
           - item:
+            name: Agentic AI Foundation (AAIF)
+            homepage_url: https://aaif.io/
+            logo: agentic_ai_foundation_aaif.svg
+            description: Agentic AI Foundation supports agentic AI projects.
+            second_path:
+              - Project Group / The Linux Foundation
+              - Technology Sector / AI, ML, Data & Analytics
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-12-09'
+              annotations:
+                slug: agentic-ai-foundation
+              dev_stats_url: https://insights.linuxfoundation.org/project/agentic-ai-foundation
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/agentic-ai-foundation
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfZA9uadMdkwBqqHsj
+          - item:
             name: AGNTCY
             homepage_url: https://agntcy.org/
             logo: agntcy.svg
@@ -18217,6 +18236,8 @@ landscape:
               - repo_url: https://github.com/RConsortium/rconsortium_website
               - repo_url: https://github.com/RConsortium/artwork
               - repo_url: https://github.com/RConsortium/RMedicine_website
+              - repo_url: https://github.com/RConsortium/submissions-wg
+              - repo_url: https://github.com/RConsortium/Risk_website
           - item:
             name: Reactive Streams
             homepage_url: https://reactive.foundation/
@@ -22699,6 +22720,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/veraison
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MaHRIQA3
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/veraison/veraison_Charter.pdf?v=1765227760746
           - item:
             name: Vineyard
             homepage_url: https://v6d.io/
@@ -22875,6 +22898,7 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/vllm-project/llm-compressor
               - repo_url: https://github.com/vllm-project/recipes
+              - repo_url: https://github.com/vllm-project/speculators
           - item:
             name: VNF Requirements
             homepage_url: https://wiki.onap.org/x/eZlk
@@ -37893,19 +37917,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/provectus-it-inc
           - item:
-            name: Proven Optics (member)
-            homepage_url: https://provenoptics.com/
-            logo: proven_optics.svg
-            description: Proven Optics offers IT Financial Management solutions on ServiceNow, helping businesses optimize IT spend, improve forecasting accuracy, and align IT with business goals for better outcomes.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / FinOps Foundation
-            organization:
-              name: Proven Optics
-              linkedin: https://www.linkedin.com/company/proven-optics
-            extra:
-              linkedin_url: https://www.linkedin.com/company/proven-optics
-          - item:
             name: ProximaOps LLC (member)
             homepage_url: https://proximaops.io/
             logo: proximaops_llc.svg
@@ -40500,6 +40511,7 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Ultra Ethernet Consortium Fund
+              - Project Membership / Ultra Ethernet Consortium Fund
             crunchbase: https://www.crunchbase.com/organization/spirent
             twitter: https://twitter.com/Spirent
             extra:
@@ -41037,8 +41049,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-            organization:
-              name: SurrealDB
+            crunchbase: https://www.crunchbase.com/organization/surrealdb
           - item:
             name: Surveil (member)
             homepage_url: https://surveil.co/
@@ -43943,19 +43954,6 @@ landscape:
             twitter: https://twitter.com/xcellent_muc
             extra:
               linkedin_url: https://www.linkedin.com/company/x-cellent-technologies-gmbh
-          - item:
-            name: Xero Limited (member)
-            homepage_url: https://xero.com/
-            logo: xero_limited.svg
-            description: Xero is a global online accounting and payroll system that offers cloud accounting software and services for professionals and small businesses, with features like cash flow management and secure cloud accounting.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Green Software Foundation Fund
-            organization:
-              name: Xero Limited
-              linkedin: https://www.linkedin.com/company/xero
-            extra:
-              linkedin_url: https://www.linkedin.com/company/xero
           - item:
             name: xFlow Research.com (member)
             homepage_url: https://xflowresearch.com/
@@ -49025,6 +49023,15 @@ landscape:
             twitter: https://twitter.com/osballiance
             extra:
               linkedin_url: https://www.linkedin.com/company/osb-alliance
+          - item:
+            name: Open Source Firmware Foundation (member)
+            homepage_url: https://osfw.foundation/
+            logo: open_source_firmware_foundation.svg
+            description: OSFF is a non-profit organization founded in 2021 to support open-source firmware projects and enhance communication within the ecosystem.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Open Source Firmware Foundation
           - item:
             name: Open Source Robotics Foundation, Inc. (member)
             homepage_url: https://openrobotics.org/
