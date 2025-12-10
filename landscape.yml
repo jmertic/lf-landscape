@@ -12952,6 +12952,33 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4GZQA1
           - item:
+            name: Model Context Protocol
+            homepage_url: https://github.com/modelcontextprotocol
+            logo: model_context_protocol.svg
+            description: Model Context Protocol (MCP) is a protocol for seamless integration between LLM applications and external data sources.
+            second_path:
+              - Project Group / Agentic AI Foundation (AAIF)
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/modelcontextprotocol/modelcontextprotocol
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-12-03'
+              annotations:
+                slug: model-context-protocol
+                project_org: https://github.com/modelcontextprotocol
+              dev_stats_url: https://insights.linuxfoundation.org/project/model-context-protocol
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/model-context-protocol
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf2ew5a7UDU0I8qy1j
+            additional_repos:
+              - repo_url: https://github.com/modelcontextprotocol/servers
+              - repo_url: https://github.com/modelcontextprotocol/python-sdk
+              - repo_url: https://github.com/modelcontextprotocol/typescript-sdk
+              - repo_url: https://github.com/modelcontextprotocol/csharp-sdk
+              - repo_url: https://github.com/modelcontextprotocol/inspector
+          - item:
             name: ModelPack
             homepage_url: https://github.com/CloudNativeAI/model-spec
             logo: modelpack.svg
@@ -24870,6 +24897,17 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/amd
           - item:
+            name: Adyen N.V (member)
+            homepage_url: https://adyen.com/
+            logo: adyen_n.svg
+            description: We provide a single payments platform globally to accept payments and grow revenue online, on mobile, and at the point of sale.
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/adyen
+            twitter: https://twitter.com/Adyen
+            extra:
+              linkedin_url: https://www.linkedin.com/company/adyen
+          - item:
             name: Aembit Inc (member)
             homepage_url: https://aembit.io/
             logo: aembit_inc.svg
@@ -34656,7 +34694,6 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-              - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/likeminds-consulting
             extra:
               linkedin_url: https://www.linkedin.com/company/likemindsconsultinginc/
@@ -34987,6 +35024,7 @@ landscape:
             logo: mainsail_industries.svg
             description: Mainsail specializes in providing advanced data security technology through a next-generation hypervisor designed to protect critical infrastructure and service providers from sophisticated cyber threats, ensuring compliance with NIST Zero Trust standa...
             second_path:
+              - Project Membership / The Linux Foundation
               - Project Membership / The Linux Foundation
               - Project Membership / Confidential Computing Consortium (CCC)
             organization:
@@ -38511,6 +38549,7 @@ landscape:
             description: Realtek Semiconductor Corp. is principally engaged in the research, development, production and distribution of integrated circuits (ICs). The Company’s products portfolio consists of communications network ICs, including Ethernet controllers, gateway ...
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / Zephyr Project
               - Project Membership / Ultra Ethernet Consortium Fund
             crunchbase: https://www.crunchbase.com/organization/realtek
             extra:
@@ -38712,6 +38751,16 @@ landscape:
               linkedin: https://www.linkedin.com/company/rethought-insurance-corporation
             extra:
               linkedin_url: https://www.linkedin.com/company/rethought-insurance-corporation
+          - item:
+            name: Revefi Inc (member)
+            homepage_url: https://revefi.com/
+            logo: revefi_inc.svg
+            description: Ready to maximize ROI of your data investment? Revefi Zero touch, level 4 autonomous copilot for data spend, quality, performance and usage. Put your dollars to best use. All it takes is 5 minutes! Your time is precious No budget approval needed Beyond...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / FinOps Foundation
+            organization:
+              name: Revefi Inc
           - item:
             name: ReversingLabs (member)
             homepage_url: https://reversinglabs.com/
@@ -39780,6 +39829,14 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/shinesoft-co-ltd
           - item:
+            name: Shinkai (member)
+            homepage_url: https://shinkai.com/
+            logo: shinkai.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Shinkai
+          - item:
             name: Shipfox (member)
             homepage_url: https://shipfox.io/
             logo: shipfox.svg
@@ -40435,9 +40492,7 @@ landscape:
             description: World-class Developer Experience for your API.    🐝 https://t.co/txArmj2W8x 🐝
             second_path:
               - Project Membership / OpenAPI Initiative
-              - Project Membership / OpenAPI Initiative
               - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/speakeasy-1055
             twitter: https://twitter.com/speakeasydev
@@ -44115,6 +44170,15 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/yovily
           - item:
+            name: Zapier (member)
+            homepage_url: https://zapier.com/
+            logo: zapier.svg
+            description: Zapier is a workflow automation software that connects over 6,000 app integrations, enabling users to automate tasks and focus on important work without coding.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Zapier
+          - item:
             name: ZConverter (member)
             homepage_url: https://zconverter.com/
             logo: zconverter.svg
@@ -47230,8 +47294,6 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / FINOS (The Fintech Open Source Foundation)
-              - Project Membership / Linux Foundation Europe
-              - Project Membership / OpenWallet Foundation
             twitter: https://twitter.com/Interledger
             organization:
               name: Interledger Foundation
