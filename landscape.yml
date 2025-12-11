@@ -2439,12 +2439,7 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ChaosMesh
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkOXEQA3
-            additional_repos:
-              - repo_url: https://github.com/chaos-mesh/chaosd
-              - repo_url: https://github.com/chaos-mesh/toda
-              - repo_url: https://github.com/chaos-mesh/chaos-tproxy
-              - repo_url: https://github.com/chaos-mesh/rfcs
-              - repo_url: https://github.com/chaos-mesh/website
+            additional_repos: []
           - item:
             name: CHAOSS
             homepage_url: https://chaoss.community/
@@ -6387,7 +6382,7 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / DevOps, CI:CD & Site Reliability
-            repo_url: https://github.com/etcd-io/bbolt
+            repo_url: https://github.com/etcd-io/etcd
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2018-12-11'
@@ -6401,8 +6396,8 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV452QAD
             additional_repos:
+              - repo_url: https://github.com/etcd-io/bbolt
               - repo_url: https://github.com/etcd-io/zetcd
-              - repo_url: https://github.com/etcd-io/etcd
               - repo_url: https://github.com/etcd-io/jetcd
               - repo_url: https://github.com/etcd-io/dbtester
               - repo_url: https://github.com/etcd-io/etcdlabs
@@ -7476,12 +7471,7 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf6ewSmFRM2jaDYlmB
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/gardener/gardener_Charter.pdf?v=1763510989994
-            additional_repos:
-              - repo_url: https://github.com/gardener/machine-controller-manager
-              - repo_url: https://github.com/gardener/etcd-druid
-              - repo_url: https://github.com/gardener/etcd-backup-restore
-              - repo_url: https://github.com/gardener/dashboard
-              - repo_url: https://github.com/gardener/autoscaler
+            additional_repos: []
           - item:
             name: Gemara
             homepage_url: https://github.com/revanite-io/gemara
@@ -10921,12 +10911,7 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kubeclipper
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfWBm5ZK2KbfTSIa9Q
-            additional_repos:
-              - repo_url: https://github.com/kubeclipper/console
-              - repo_url: https://github.com/kubeclipper/kubectl
-              - repo_url: https://github.com/kubeclipper/test-infra
-              - repo_url: https://github.com/kubeclipper/community
-              - repo_url: https://github.com/kubeclipper/kubeclipper.github.io
+            additional_repos: []
           - item:
             name: KubeEdge
             homepage_url: https://kubeedge.io/
@@ -11284,7 +11269,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/kubewarden/kwctl
+            repo_url: https://github.com/kubewarden/kubewarden-controller
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-06-14'
@@ -11298,8 +11283,8 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkRyUQAV
             additional_repos:
+              - repo_url: https://github.com/kubewarden/kwctl
               - repo_url: https://github.com/kubewarden/policy-server
-              - repo_url: https://github.com/kubewarden/kubewarden-controller
               - repo_url: https://github.com/kubewarden/rust-policy-template
               - repo_url: https://github.com/kubewarden/go-policy-template
               - repo_url: https://github.com/kubewarden/swift-policy-template
@@ -13536,10 +13521,7 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfbpcnjxf08Ep9CL4q
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/newton/newton_Charter.pdf?v=1754508246131
-            additional_repos:
-              - repo_url: https://github.com/newton-physics/mujoco-usd-converter
-              - repo_url: https://github.com/newton-physics/newton-governance
-              - repo_url: https://github.com/newton-physics/newton-assets
+            additional_repos: []
           - item:
             name: Nexoedge
             homepage_url: https://github.com/nexoedge/nexoedge
@@ -13664,12 +13646,7 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ojsf-nodejs
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4HSQA1
-            additional_repos:
-              - repo_url: https://github.com/nodejs/help
-              - repo_url: https://github.com/nodejs/Release
-              - repo_url: https://github.com/nodejs/nodejs.org
-              - repo_url: https://github.com/nodejs/node-addon-api
-              - repo_url: https://github.com/nodejs/node-gyp
+            additional_repos: []
           - item:
             name: Node-RED
             homepage_url: https://nodered.org/
@@ -16049,7 +16026,7 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / Open Source & Compliance Best Practices
               - Technology Sector / Privacy & Security
-            repo_url: https://github.com/ossf/wg-best-practices-os-developers
+            repo_url: https://github.com/ossf/scorecard
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/openssf
             extra:
@@ -16069,6 +16046,7 @@ landscape:
               youtube_url: https://www.youtube.com/c/OpenSSF/
               linkedin_url: https://www.linkedin.com/company/openssf/
             additional_repos:
+              - repo_url: https://github.com/ossf/wg-best-practices-os-developers
               - repo_url: https://github.com/ossf/ai-ml-security
               - repo_url: https://github.com/ossf/wg-securing-critical-projects
               - repo_url: https://github.com/ossf/wg-securing-software-repos
@@ -17251,7 +17229,7 @@ landscape:
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / DevOps, CI:CD & Site Reliability
               - Technology Sector / Web & Application Development
-            repo_url: https://github.com/paketo-buildpacks/samples
+            repo_url: https://github.com/paketo-buildpacks/spring-boot
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-04-21'
@@ -17265,6 +17243,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkG7bQAF
             additional_repos:
+              - repo_url: https://github.com/paketo-buildpacks/samples
               - repo_url: https://github.com/paketo-buildpacks/java
               - repo_url: https://github.com/paketo-buildpacks/dotnet-core
               - repo_url: https://github.com/paketo-buildpacks/nodejs
@@ -22974,6 +22953,7 @@ landscape:
               - repo_url: https://github.com/vllm-project/llm-compressor
               - repo_url: https://github.com/vllm-project/recipes
               - repo_url: https://github.com/vllm-project/speculators
+              - repo_url: https://github.com/vllm-project/semantic-router
           - item:
             name: VNF Requirements
             homepage_url: https://wiki.onap.org/x/eZlk
@@ -24661,6 +24641,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/6wind
           - item:
+            name: 7lab (member)
+            homepage_url: https://sevenlab.de/
+            logo: 7lab.svg
+            description: sevenlab engineering specializes in developing advanced Bluetooth mesh networking solutions for professional water quality management and smart home applications, offering comprehensive firmware, backend, and cloud services, as well as DALI systems for...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Zephyr Project
+            organization:
+              name: 7lab
+          - item:
             name: 8gears (member)
             homepage_url: https://container-registry.com/
             logo: 8gears.svg
@@ -25188,6 +25178,15 @@ landscape:
             twitter: https://twitter.com/AIAGroup_Press
             extra:
               linkedin_url: https://www.linkedin.com/company/aia
+          - item:
+            name: AIERA Inc (member)
+            homepage_url: https://aiera.com/
+            logo: aiera_inc.svg
+            description: Aiera is a market real-time transcription solution that offers live speech-to-text transcription and search platform for all Wall Street events. It provides one-click live audio access, real-time transcription, keyword search, AI-powered Q&A, and advan...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: AIERA Inc
           - item:
             name: Airbnb (member)
             homepage_url: https://airbnb.com/
@@ -28555,84 +28554,7 @@ landscape:
             name: Cloudflare, Inc. (member)
             homepage_url: https://cloudflare.com/
             logo: cloudflare_inc.svg
-            description: |-
-              9/9/15: Nick confirmed 170 employees on conf call.  Don't sponsor conferences or events, use technical blog.. just hired Head of Marketing and he is ramping up.
-
-
-
-              CloudFlare is the simplest way to make websites faster, safer and smarter. Millions of websites have signed up for our service, including large enterprises, major consumer destinations, and government agencies. With offices in San Francisco and London, CloudFlare operates a highly-available global network that has security measures built into every layer and regularly clocks in lightning-fast speeds. 
-
-
-
-              Our network also: 
-
-              ...serves hundreds of billions of page views per month 
-
-
-
-              ...reaches 90% of the world��_��_s population in less than .23 seconds 
-
-
-
-              ...sees more than 750M unique IPs per month 
-
-
-
-              ...has successfully defended against the largest DDoS attack publicly recorded 
-
-
-
-              We're on a mission to build a better web - and we need smart, talented people to join our team. Our team works on the forefront of leading technologies including nginx, Go and Lua programming languages. We're a strong supporter of the open source community and regularly share our technology learnings at https://blog.cloudflare.com. 
-
-
-
-              Interested in joining our team? Please see current openings at https://www.cloudflare.com/join-our-team. 
-
-
-
-              We can also be reached at https://www.cloudflare.com or on Twitter at 
-
-              https://twitter.com/cloudflare.
-
-
-
-              Specialties: nginx, lua, go, web performance, web security, dns, network, noc, nocc
-
-
-
-              Website
-
-              http://www.cloudflare.com
-
-
-
-              Industry
-
-              Information Technology and Services
-
-
-
-              Type
-
-              Privately Held
-
-
-
-              Headquarters
-
-              665 Third Street suite 207 San Francisco, CA 94107 United States
-
-
-
-              Company Size
-
-              51-200 employees
-
-
-
-              Founded
-
-              2009
+            description: Cloudflare is a web performance and security company that provides online services to protect and accelerate websites online. Its online platforms include Cloudflare CDN which distributes content around the world to speed up websites.
             second_path:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/cloudflare
@@ -29617,6 +29539,15 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / FinOps Foundation
             crunchbase: https://www.crunchbase.com/organization/datafy-io
+          - item:
+            name: Data Science Dojo (member)
+            homepage_url: https://datasciencedojo.com/
+            logo: data_science_dojo.svg
+            description: Data Science Dojo provides hands-on data science training through bootcamps and online courses, empowering professionals to extract actionable insights from data.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Data Science Dojo
           - item:
             name: DataStax, Inc. (member)
             homepage_url: https://datastax.com/
@@ -36703,6 +36634,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/acorn-labs
           - item:
+            name: Ocean Security (member)
+            homepage_url: https://ocean.security/
+            logo: ocean_security.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Ocean Security
+          - item:
             name: Ochestra Technologies Limited (member)
             homepage_url: https://ochestra.io/
             logo: ochestra_technologies_limited.svg
@@ -37189,6 +37128,14 @@ landscape:
               linkedin: https://www.linkedin.com/company/palcnetworks
             extra:
               linkedin_url: https://www.linkedin.com/company/palcnetworks
+          - item:
+            name: Pallas Security (member)
+            homepage_url: https://pallassecurity.com/
+            logo: pallas_security.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Pallas Security
           - item:
             name: Palo Alto Networks (member)
             homepage_url: https://paloaltonetworks.com/
@@ -47624,6 +47571,16 @@ landscape:
               linkedin: https://www.linkedin.com/company/jeju-national-university-republic-of-korea
             extra:
               linkedin_url: https://www.linkedin.com/company/jeju-national-university-republic-of-korea
+          - item:
+            name: Junia (member)
+            homepage_url: https://junia.com/
+            logo: junia.svg
+            description: Junia is a top engineering school offering diverse engineering programs across multiple campuses, addressing major challenges and transitions in fields like digital transformation, energy, and health technologies.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / LF Energy (LFE)
+            organization:
+              name: Junia
           - item:
             name: Kansas State University (member)
             homepage_url: https://k-state.edu/
