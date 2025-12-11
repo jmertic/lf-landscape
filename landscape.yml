@@ -456,6 +456,7 @@ landscape:
             description: Agentic AI Foundation supports agentic AI projects.
             second_path:
               - Project Group / The Linux Foundation
+              - PMO Managed / All
               - Technology Sector / AI, ML, Data & Analytics
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -8371,6 +8372,29 @@ landscape:
                 - name: Charter
                   url: https://www.onap.org/wp-content/uploads/sites/20/2018/01/ONAP-Project-a-Series-of-LF-Projects-LLC-Technical-Charter-12-22-2017-FINAL.pdf
           - item:
+            name: HolmesGPT
+            homepage_url: https://holmesgpt.dev/
+            logo: holmesgpt.svg
+            description: develop an AI agent that automates cloud-native troubleshooting, bridging knowledge gaps by investigating alerts, executing runbooks, and correlating observability data in cloud-native platforms.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/HolmesGPT/holmesgpt
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-10-30'
+              annotations:
+                slug: holmesgpt
+                project_org: https://github.com/HolmesGPT
+              dev_stats_url: https://insights.linuxfoundation.org/project/holmesgpt
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/holmesgpt
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf65fMVPzUYFfDG9Wd
+            additional_repos: []
+          - item:
             name: Home Edge
             homepage_url: https://www.lfedge.org/projects/homeedge/
             logo: home_edge.svg
@@ -12861,6 +12885,30 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/minicoredumper
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4AHQA1
+          - item:
+            name: Minokawa
+            homepage_url: https://github.com/lfdt-minokawa
+            logo: minokawa.svg
+            description: This is the contribution of the Compact framework from Shielded Technologies.
+            second_path:
+              - Project Group / LF Decentralized Trust
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/LFDT-Minokawa/governance
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-12-05'
+              annotations:
+                slug: minokawa
+                project_org: https://github.com/LFDT-Minokawa
+              dev_stats_url: https://insights.linuxfoundation.org/project/minokawa
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/minokawa
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfOtTf2NegedrISYKU
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/minokawa/minokawa_Charter.pdf?v=1765377747471
+            additional_repos: []
           - item:
             name: Mirage OS
             homepage_url: https://xenproject.org/developers/teams/mirage-os/
@@ -18849,7 +18897,7 @@ landscape:
             name: RTC-Tools
             homepage_url: https://rtctools.energy/
             logo: rtc_tools.svg
-            description: RTC-Tools is an open-source Python package for simulation and operational optimization of assets. Models can be specified in Python or in the Modelica modelling language, making it generically applicable to a broad class of assets. It can be used for model-predictive control and operational decision making of water and energy systems.
+            description: RTC-Tools is an open-source Python package designed to model, simulate, and optimize networks of assets such as reservoirs, generating units, pumps, renewables, and batteries. Models can be specified in Python or in the Modelica modelling language, making it generically applicable to a broad class of assets. It can be used for model-predictive control and operational decision-making for water and energy systems.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
@@ -24334,6 +24382,7 @@ landscape:
               - Project Membership / OpenChain Project
               - Project Membership / Automotive Grade Linux (AGL)
               - Project Membership / The Linux Foundation
+              - Project Membership / TODO Group
               - Project Membership / Xen Project
               - Project Membership / Zephyr Project
               - Project Membership / ELISA Fund
@@ -24452,6 +24501,7 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / TODO Group
+              - Project Membership / SODA Foundation
               - Project Membership / SODA Foundation
               - Project Membership / eBPF Foundation
               - Project Membership / Ultra Ethernet Consortium Fund
@@ -25847,6 +25897,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/apideck
           - item:
+            name: Apify (member)
+            homepage_url: https://apify.com/
+            logo: apify.svg
+            description: Apify is a leading cloud platform for web scraping and browser automation, turning websites into APIs and empowering data-driven teams worldwide.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Apify
+          - item:
             name: Apiiro (member)
             homepage_url: https://apiiro.com/
             logo: apiiro.svg
@@ -26896,9 +26955,9 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/tenxcloud
           - item:
-            name: Beijing Tongtech Co., Ltd. (member)
+            name: Beijing Tongtech Software Co., Ltd. (member)
             homepage_url: https://tongtech.com/
-            logo: beijing_tongtech_co_ltd.svg
+            logo: beijing_tongtech_software_co_ltd.svg
             description: Tong Tech focuses on the research and technology promotion of infrastructure software such as middleware and VSP.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
@@ -31153,14 +31212,13 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/exostellar
           - item:
             name: Exponential Science Foundation (member)
-            homepage_url: https://dltscience.org/
+            homepage_url: https://exp.science/
             logo: exponential_science_foundation.svg
-            description: DLT Science Foundation promotes collaboration among academia, industry, developers, and government to advance the understanding and application of distributed ledger technology in business and society.
+            description: Exponential Science is a foundation led by visionary founders Dr. Paolo Tasca and Nikhil Vadgama, who have advanced emerging technologies through education, research, and innovation. Recognising the power of the convergence of technologies such as blockchain, AI, and IoT to tackle complex multidisciplinary challenges, they founded the ExponentialScience as a natural evolution of their long-standing work, aiming to strive towards a more inclusive and innovative future for all.
             second_path:
               - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
-            organization:
-              name: Exponential Science Foundation
+            crunchbase: https://www.crunchbase.com/organization/exponential-science
           - item:
             name: Extreme Networks, Inc. (member)
             homepage_url: https://extremenetworks.com/
@@ -44561,6 +44619,7 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Camara Fund
+              - Project Membership / Camara Fund
             organization:
               name: Aleph Zero Foundation
               linkedin: https://www.linkedin.com/company/alephzero
@@ -50553,6 +50612,15 @@ landscape:
               - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/bank-of-korea
+          - item:
+            name: The Board of Trustees of The University of Alabama (member)
+            homepage_url: https://hpc.ua.edu/
+            logo: the_board_of_trustees_of_the_university_of_alabama.svg
+            description: The University of Alabama, founded in 1831, is a student-centered research university dedicated to excellence in teaching, research, and service, offering a wide range of academic programs to empower students to make a positive impact.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: The Board of Trustees of The University of Alabama
           - item:
             name: The DevLand Foundation (member)
             homepage_url: https://thedevlandfoundation.org/
