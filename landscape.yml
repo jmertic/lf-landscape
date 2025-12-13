@@ -2439,7 +2439,12 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ChaosMesh
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkOXEQA3
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/chaos-mesh/chaosd
+              - repo_url: https://github.com/chaos-mesh/toda
+              - repo_url: https://github.com/chaos-mesh/chaos-tproxy
+              - repo_url: https://github.com/chaos-mesh/rfcs
+              - repo_url: https://github.com/chaos-mesh/website
           - item:
             name: CHAOSS
             homepage_url: https://chaoss.community/
@@ -6382,7 +6387,7 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / DevOps, CI:CD & Site Reliability
-            repo_url: https://github.com/etcd-io/etcd
+            repo_url: https://github.com/etcd-io/bbolt
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2018-12-11'
@@ -6396,8 +6401,8 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV452QAD
             additional_repos:
-              - repo_url: https://github.com/etcd-io/bbolt
               - repo_url: https://github.com/etcd-io/zetcd
+              - repo_url: https://github.com/etcd-io/etcd
               - repo_url: https://github.com/etcd-io/jetcd
               - repo_url: https://github.com/etcd-io/dbtester
               - repo_url: https://github.com/etcd-io/etcdlabs
@@ -7471,7 +7476,12 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf6ewSmFRM2jaDYlmB
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/gardener/gardener_Charter.pdf?v=1763510989994
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/gardener/machine-controller-manager
+              - repo_url: https://github.com/gardener/etcd-druid
+              - repo_url: https://github.com/gardener/etcd-backup-restore
+              - repo_url: https://github.com/gardener/dashboard
+              - repo_url: https://github.com/gardener/autoscaler
           - item:
             name: Gemara
             homepage_url: https://github.com/revanite-io/gemara
@@ -10911,7 +10921,12 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kubeclipper
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfWBm5ZK2KbfTSIa9Q
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/kubeclipper/console
+              - repo_url: https://github.com/kubeclipper/kubectl
+              - repo_url: https://github.com/kubeclipper/test-infra
+              - repo_url: https://github.com/kubeclipper/community
+              - repo_url: https://github.com/kubeclipper/kubeclipper.github.io
           - item:
             name: KubeEdge
             homepage_url: https://kubeedge.io/
@@ -11269,7 +11284,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/kubewarden/kubewarden-controller
+            repo_url: https://github.com/kubewarden/kwctl
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-06-14'
@@ -11283,8 +11298,8 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkRyUQAV
             additional_repos:
-              - repo_url: https://github.com/kubewarden/kwctl
               - repo_url: https://github.com/kubewarden/policy-server
+              - repo_url: https://github.com/kubewarden/kubewarden-controller
               - repo_url: https://github.com/kubewarden/rust-policy-template
               - repo_url: https://github.com/kubewarden/go-policy-template
               - repo_url: https://github.com/kubewarden/swift-policy-template
@@ -12820,9 +12835,9 @@ landscape:
                 - name: Charter
                   url: https://www.onap.org/wp-content/uploads/sites/20/2018/01/ONAP-Project-a-Series-of-LF-Projects-LLC-Technical-Charter-12-22-2017-FINAL.pdf
           - item:
-            name: Milvusv
+            name: Milvus
             homepage_url: https://milvus.io/
-            logo: milvusv.svg
+            logo: milvus.svg
             description: As an open source vector similarity search engine, Milvus is easy-to-use, highly reliable, scalable, robust, and blazing fast. Adopted by over 100 organizations and institutions worldwide, Milvus empowers applications in a variety of fields, including image processing, computer vision, natural language processing, voice recognition, recommender systems, drug discovery, etc.
             second_path:
               - Project Group / LF AI & Data
@@ -13521,7 +13536,10 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfbpcnjxf08Ep9CL4q
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/newton/newton_Charter.pdf?v=1754508246131
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/newton-physics/mujoco-usd-converter
+              - repo_url: https://github.com/newton-physics/newton-governance
+              - repo_url: https://github.com/newton-physics/newton-assets
           - item:
             name: Nexoedge
             homepage_url: https://github.com/nexoedge/nexoedge
@@ -13646,7 +13664,12 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ojsf-nodejs
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4HSQA1
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/nodejs/help
+              - repo_url: https://github.com/nodejs/Release
+              - repo_url: https://github.com/nodejs/nodejs.org
+              - repo_url: https://github.com/nodejs/node-addon-api
+              - repo_url: https://github.com/nodejs/node-gyp
           - item:
             name: Node-RED
             homepage_url: https://nodered.org/
@@ -16026,7 +16049,7 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / Open Source & Compliance Best Practices
               - Technology Sector / Privacy & Security
-            repo_url: https://github.com/ossf/scorecard
+            repo_url: https://github.com/ossf/wg-best-practices-os-developers
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/openssf
             extra:
@@ -16046,7 +16069,6 @@ landscape:
               youtube_url: https://www.youtube.com/c/OpenSSF/
               linkedin_url: https://www.linkedin.com/company/openssf/
             additional_repos:
-              - repo_url: https://github.com/ossf/wg-best-practices-os-developers
               - repo_url: https://github.com/ossf/ai-ml-security
               - repo_url: https://github.com/ossf/wg-securing-critical-projects
               - repo_url: https://github.com/ossf/wg-securing-software-repos
@@ -17229,7 +17251,7 @@ landscape:
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / DevOps, CI:CD & Site Reliability
               - Technology Sector / Web & Application Development
-            repo_url: https://github.com/paketo-buildpacks/spring-boot
+            repo_url: https://github.com/paketo-buildpacks/samples
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-04-21'
@@ -17243,7 +17265,6 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkG7bQAF
             additional_repos:
-              - repo_url: https://github.com/paketo-buildpacks/samples
               - repo_url: https://github.com/paketo-buildpacks/java
               - repo_url: https://github.com/paketo-buildpacks/dotnet-core
               - repo_url: https://github.com/paketo-buildpacks/nodejs
@@ -25201,6 +25222,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/airbnb
           - item:
+            name: AI Robotix (member)
+            homepage_url: https://airobotix.net/
+            logo: ai_robotix.svg
+            description: AI Robotix specializes in providing an AI-driven platform that deploys enterprise-ready automation through a diverse range of agents, including voice, web, content, and e-commerce, designed to enhance customer interactions and drive sales for modern en...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: AI Robotix
+          - item:
             name: Airwayz (member)
             homepage_url: https://airwayz.co/
             logo: airwayz.svg
@@ -25672,7 +25702,7 @@ landscape:
             name: Anaconda, Inc (member)
             homepage_url: https://anaconda.com/
             logo: anaconda_inc.svg
-            description: Continuum Analytics, Inc. provides a subscription based data analytics platform that helps companies to adopt open data science analytics architecture.
+            description: Anaconda helps organizations simplify, safeguard, and accelerate AI with open source at scale. The Anaconda Platform bridges the gap between experimentation and production, giving teams the speed they need to innovate alongside the security and governance enterprises require. Over 50 million users and 95% of the Fortune 500 trust Anaconda for data science and AI development. With 21+ billion downloads across a decade of growth, Anaconda operates across hybrid AI environments and cloud platforms including AWS, Databricks, and Snowflake. Learn more at anaconda.com.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Open Source Security Foundation (OpenSSF)
@@ -27395,13 +27425,14 @@ landscape:
             name: Bright Machines, Inc. (member)
             homepage_url: https://brightmachines.com/
             logo: bright_machines_inc.svg
-            description: Bright Machines collaborates with manufacturers to innovate and improve the design and production processes of products, promoting a more efficient approach to building.
+            description: |-
+              Bright Machines is a next-generation, AI-enabled manufacturer focused on data center infrastructure (i.e. AI servers and racks). From product design to its automated assembly and testing, Bright Machines leverages its proprietary AI-based software and robotics to build the most advanced AI infrastructure hardware for hyperscalers and leading Original Equipment Manufacturers (OEMs).
+
+              In collaboration with NVIDIA, Bright Machines integrates OpenUSD (Universal Scene Description) into its Bright Designer DFAA (Design for Automated Assembly) application, enabling digital twins and virtual simulations that improve product design, enhance quality, and optimize manufacturability.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Alliance for OpenUSD Fund (AOUSDF)
-            organization:
-              name: Bright Machines, Inc.
-              linkedin: https://www.linkedin.com/company/bright-machines
+            crunchbase: https://www.crunchbase.com/organization/bright-machines
             extra:
               linkedin_url: https://www.linkedin.com/company/bright-machines
           - item:
@@ -28102,7 +28133,6 @@ landscape:
               China Telecommunications Group Co., Ltd., known as China Telecom, is a leading telecommunications company in China. It offers a wide range of services including mobile and fixed-line telephony, broadband internet, digital television, and enterprise sol...
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / LF Networking (LFN)
             crunchbase: https://www.crunchbase.com/organization/china-telecom-corporation
             twitter: https://twitter.com/chinateleglobal
             extra:
@@ -28274,6 +28304,15 @@ landscape:
             twitter: https://twitter.com/citi
             extra:
               linkedin_url: https://www.linkedin.com/company/citi
+          - item:
+            name: Citiri (member)
+            homepage_url: https://citiri.com/
+            logo: citiri.svg
+            description: Citiri is a software platform that empowers construction owners to streamline operational readiness and transform infrastructure project planning, design, and operation.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Citiri
           - item:
             name: Civo Ltd. (member)
             homepage_url: https://civo.com/
@@ -33603,6 +33642,8 @@ landscape:
             description: Institute IRNAS Rače
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / The Linux Foundation
+              - Project Membership / Zephyr Project
               - Project Membership / Zephyr Project
               - Project Membership / Linux Foundation Europe
             twitter: https://twitter.com/institute_irnas
@@ -33974,6 +34015,16 @@ landscape:
             twitter: https://twitter.com/Keyfactor
             extra:
               linkedin_url: https://www.linkedin.com/company/wearekeyfactor
+          - item:
+            name: Keymate.io (member)
+            homepage_url: https://keymate.io/
+            logo: keymate.svg
+            description: Keymate extends your Keycloak environment with powerful fine-grained access control, multi-tenant IAM, and real-time policy observability—without migration. Build secure, scalable identity systems with confidence.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Keymate.io
           - item:
             name: Keysight Technologies Inc. (member)
             homepage_url: https://keysight.com/
@@ -35707,8 +35758,6 @@ landscape:
             description: MinIO is pioneering high performance object storage for the era of the hybrid cloud. The software-defined, Amazon S3-compatible object storage system has been voted the "Most Impactful Open Source Project" by Strata/O'Reilly and is run by more than half of the Fortune 500. With 600M+ Docker pulls, MinIO is the fastest-growing private cloud object storage company. Founded in 2014, the company is backed by Nexus, General Catalyst, Dell Technologies Capital, Intel Capital, AME Cloud Ventures and key angel investors. Red Hat, the Red Hat logo and OpenShift are trademarks or registered trademarks of Red Hat, Inc. or its subsidiaries in the U.S. and other countries.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/minio-inc
             twitter: https://twitter.com/Minio
@@ -37493,6 +37542,15 @@ landscape:
             twitter: https://twitter.com/pipekitio
             extra:
               linkedin_url: https://www.linkedin.com/company/pipekit-io
+          - item:
+            name: Plakar (member)
+            homepage_url: https://plakar.io/
+            logo: plakar.svg
+            description: Effortless distributed backup offers an open source data protection solution that provides high-performance, secure backup and recovery services, designed to meet the needs of modern businesses through innovative technology that emphasizes simplicity, ...
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/plakar
           - item:
             name: PlanetHoster Inc., (member)
             homepage_url: https://planethoster.com/
@@ -39292,6 +39350,14 @@ landscape:
               linkedin: https://www.linkedin.com/company/scalar-inc
             extra:
               linkedin_url: https://www.linkedin.com/company/scalar-inc
+          - item:
+            name: Scalekit (member)
+            homepage_url: https://scalekit.com/
+            logo: scalekit.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Scalekit
           - item:
             name: ScaleOps (member)
             homepage_url: https://scaleops.com/
@@ -41942,6 +42008,7 @@ landscape:
             second_path:
               - Project Membership / Automotive Grade Linux (AGL)
               - Project Membership / The Linux Foundation
+              - Project Membership / Zephyr Project
             crunchbase: https://www.crunchbase.com/organization/oz-communications
             twitter: https://twitter.com/qtproject
             extra:
@@ -42523,6 +42590,14 @@ landscape:
               linkedin: https://www.linkedin.com/company/ultimum-technologies
             extra:
               linkedin_url: https://www.linkedin.com/company/ultimum-technologies
+          - item:
+            name: Ultra Security (member)
+            homepage_url: https://ultra.security/
+            logo: ultra_security.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Ultra Security
           - item:
             name: Ultraviolet Consult DOO (member)
             homepage_url: https://ultraviolet.rs/
@@ -44184,6 +44259,15 @@ landscape:
             organization:
               name: Zapier
           - item:
+            name: zCloak Network (member)
+            homepage_url: https://zcloak.network/
+            logo: zcloak_network.svg
+            description: zCloak Network offers Zero Knowledge Proof as a Service, enabling enhanced privacy and security for transactions on public blockchains.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: zCloak Network
+          - item:
             name: ZConverter (member)
             homepage_url: https://zconverter.com/
             logo: zconverter.svg
@@ -44228,6 +44312,15 @@ landscape:
               - Project Membership / Overture Maps Foundation Fund
             organization:
               name: Zephr.xyz
+          - item:
+            name: ZeroClick Inc (member)
+            homepage_url: https://zeroclick.ai/
+            logo: zeroclick_inc.svg
+            description: ZeroClick AI provides integrated, automated cloud solutions to streamline firm workflows to zero clicks, enabling businesses to automate processes efficiently and increase productivity and profitability at scale.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: ZeroClick Inc
           - item:
             name: Zesty Tech Ltd. (member)
             homepage_url: https://zesty.co/
@@ -47974,6 +48067,17 @@ landscape:
             twitter: https://twitter.com/LosAlamosNatLab
             extra:
               linkedin_url: https://www.linkedin.com/company/los-alamos-national-laboratory
+          - item:
+            name: LPI-Japan (member)
+            homepage_url: https://lpi.or.jp/
+            logo: lpi_japan.svg
+            description: LPI-Japanはオープンテクノロジーの技術者認定を中立公正な立場で行う特定非営利活動法人(NPO)として、Linux、OSS-DB(PostgreSQL)、HTML5、OpenStack等の技術者育成と関連分野のビジネスの促進に寄与する活動を展開しています。  LinuC：https://t.co/ym1IGnKx6u
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/lpi-japan
+            twitter: https://twitter.com/lpi_japan
+            extra:
+              linkedin_url: https://www.linkedin.com/company/lpi-japan
           - item:
             name: Lucerne University of Applied Sciences (member)
             homepage_url: https://hslu.ch/
