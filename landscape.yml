@@ -470,6 +470,30 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfZA9uadMdkwBqqHsj
           - item:
+            name: AGENTS.md
+            homepage_url: https://agents.md/
+            logo: agents.svg
+            description: AGENTS.md is a simple, open format for guiding coding agents.
+            second_path:
+              - Project Group / Agentic AI Foundation (AAIF)
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/agentsmd/agents.md
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-12-08'
+              annotations:
+                slug: agents-md
+                project_org: https://github.com/agentsmd
+              dev_stats_url: https://insights.linuxfoundation.org/project/agents-md
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/agents-md
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf4WQ0LHuEaKCaxwAC
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/agents-md/agents-md_Charter.pdf?v=1765309947810
+            additional_repos: []
+          - item:
             name: AGNTCY
             homepage_url: https://agntcy.org/
             logo: agntcy.svg
@@ -33690,8 +33714,6 @@ landscape:
             description: Institute IRNAS Rače
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / The Linux Foundation
-              - Project Membership / Zephyr Project
               - Project Membership / Zephyr Project
               - Project Membership / Linux Foundation Europe
             twitter: https://twitter.com/institute_irnas
@@ -39638,8 +39660,6 @@ landscape:
             description: Seal is a software company that provides a platform engineering solution for developers. Their solution aims to eliminate the complexity of modern application system development and deployment by centralizing application service directories, providing ...
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/seal-software
           - item:
@@ -42933,8 +42953,6 @@ landscape:
             description: ValueMentor is a global information security consulting and services company that specializes in Cyber Security and Payment Security Services. With over 10 years of experience, we offer a full range of services including Cyber Consulting, Security Test...
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / The Linux Foundation
-              - Project Membership / App Defense Alliance Fund
               - Project Membership / App Defense Alliance Fund
             organization:
               name: ValueMentor
