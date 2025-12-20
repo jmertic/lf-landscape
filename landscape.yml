@@ -11707,6 +11707,28 @@ landscape:
               - repo_url: https://github.com/lf-energy/artwork
               - repo_url: https://github.com/lf-energy/foundation
           - item:
+            name: LF Energy RegistryOS
+            homepage_url: https://github.com/CleanIncentive/granular_certificate_registry
+            logo: lf_energy_registryos.svg
+            description: The Granular Registry exists to advance a decarbonized electricity system by providing an open-source, compliance-grade registry that issues, tracks, and retires timestamped Granular Certificates (GCs).
+            second_path:
+              - Project Group / LF Energy (LFE)
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/CleanIncentive/granular_certificate_registry
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-12-18'
+              annotations:
+                slug: global-granular-certificate-registry
+              dev_stats_url: https://insights.linuxfoundation.org/project/global-granular-certificate-registry
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/global-granular-certificate-registry
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfGakS2hWkgslRD2Rt
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/global-granular-certificate-registry/global-granular-certificate-registry_Charter.pdf?v=1766168958064
+          - item:
             name: LF Energy Semantic Energy Framework (LFE-SEF)
             homepage_url: https://lfe-sef.energy/
             logo: lf_energy_semantic_energy_framework_lfe_sef.svg
@@ -26012,7 +26034,7 @@ landscape:
             name: applied37 (member)
             homepage_url: https://a37.ai/
             logo: applied37.svg
-            description: The AI-Native Process Intelligence Company
+            description: AI that maps how work really happens and upgrades your processes automatically.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -28279,7 +28301,7 @@ landscape:
             name: Circle Internet Financial, LLC (member)
             homepage_url: https://circle.com/
             logo: circle_internet_financial_llc.svg
-            description: Circle enables businesses to utilize digital currencies and public blockchains for efficient payment solutions and financial applications, facilitating seamless transactions across various currencies and borders.
+            description: 'Circle (NYSE: CRCL) is a global financial technology firm that enables businesses of all sizes to harness the power of digital currencies and public blockchains for payments, commerce, and financial applications worldwide. Circle is building the world’s largest, most-widely used, stablecoin network, and issues, through its regulated affiliates, USDC and EURC stablecoins.'
             second_path:
               - Project Membership / The Linux Foundation
             organization:
@@ -28303,8 +28325,6 @@ landscape:
             description: Founded in 2018, headquartered in London, England, Circulor provides Traceability-as-a-Service to verify responsible sourcing, underpin effective recycling and attribute CO2 footprint and other impact metrics to the flow of materials. This directly supports manufacturers in addressing the UN Sustainability Goals by reaching parts of their supply chains that most currently have little real visibility into.
             second_path:
               - Project Membership / LF Decentralized Trust
-              - Project Membership / LF Decentralized Trust
-              - Project Membership / The Linux Foundation
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/circulor
             twitter: https://twitter.com/Circulor1
@@ -29447,12 +29467,7 @@ landscape:
             name: CVS Health (member)
             homepage_url: https://cvshealth.com/
             logo: cvs_health.svg
-            description: |-
-              Aetna is one of the nation's leading diversified health care benefits companies, serving an estimated 46.7 million people with information and resources to help them make better-informed decisions about their health care. Aetna Inc. operates as a health care benefits company. It operates through three segments: Health Care, Group Insurance, and Large Case Pensions. The Health Care segment offers medical, pharmacy benefit management service, dental, behavioral health, and vision plans on an insured and employer-funded basis. It also provides point-of-service, preferred provider organization, health maintenance organization, and indemnity benefit plans, as well as health savings accounts and consumer-directed health plans. In addition, this segment offers Medicare and Medicaid products and services, as well as other medical products, such as medical management and data analytics services, medical stop loss insurance, workers compensation administrative services, and products that provide access to its provider networks in select geographies. The Group Insurance segment offers life insurance products, including group term life insurance, voluntary spouse and dependent term life insurance, group universal life insurance, and accidental death and dismemberment insurance; disability insurance products; and long-term care insurance products, which provide the benefits to cover the cost of care in private home settings, adult day care, assisted living, or nursing facilities. The Large Case Pensions segment manages various retirement products, including pension and annuity products primarily for tax-qualified pension plans. The company provides its products and services to employer groups, individuals, college students, part-time and hourly workers, health plans, health care providers, governmental units, government-sponsored plans, labor groups, and expatriates. Aetna Inc. has a collaborative agreement with Community Care Physician Network, LLC to deliver healthcare services in North Carolina. The company was founded in 1853 and is based in Hartford, Connecticut.
-
-              --- Merged Data:
-
-              CVS Health Corporation is an American drug retailing company which is chartered in Delaware and is headquartered in Woonsocket, Rhode Island. CVS is the largest retail pharmacy chain in the United States and also offers online pharmacy services.
+            description: CVS Health Corporation is an American drug retailing company which is chartered in Delaware and is headquartered in Woonsocket, Rhode Island. CVS is the largest retail pharmacy chain in the United States and also offers online pharmacy services.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -35034,8 +35049,6 @@ landscape:
             description: LSD Information Technology is a pure play open software company that provides you with best-of-breed open source solutions.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
               - Project Membership / The Linux Foundation
             twitter: https://twitter.com/lsdopen
             organization:
@@ -41125,8 +41138,6 @@ landscape:
             description: Cloud-Native at the heart of our products & services. Less Mist, More Cloud on Stratox…
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/stratox-enterprises
             twitter: https://twitter.com/StratoxCZ
@@ -44466,7 +44477,12 @@ landscape:
             name: ZTE Corporation (member)
             homepage_url: https://zte.com.cn/
             logo: zte_corporation.svg
-            description: ZTE Corporation is a Chinese multinational telecommunications equipment and systems company headquartered in Shenzhen, Guangdong, China.
+            description: |-
+              ZTE Corporation is a Chinese multinational telecommunications equipment and systems company headquartered in Shenzhen, Guangdong, China.
+
+              --- Merged Data:
+
+              ZTE Corporation, a global leader in telecommunications and information technology, provides innovative technologies and integrated solutions for global operators, government, enterprise, and consumers in over 160 countries. Serving over 1/4 of the glob...
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
