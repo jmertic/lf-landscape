@@ -3067,9 +3067,9 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/cloudnative-pg/charts
               - repo_url: https://github.com/cloudnative-pg/postgres-containers
-              - repo_url: https://github.com/cloudnative-pg/cnpg-i
-              - repo_url: https://github.com/cloudnative-pg/grafana-dashboards
-              - repo_url: https://github.com/cloudnative-pg/cnpg-i-machinery
+              - repo_url: https://github.com/cloudnative-pg/plugin-barman-cloud
+              - repo_url: https://github.com/cloudnative-pg/cnpg-playground
+              - repo_url: https://github.com/cloudnative-pg/postgres-extensions-containers
           - item:
             name: ClusterDuck Protocol
             homepage_url: https://clusterduckprotocol.org/
@@ -12939,7 +12939,7 @@ landscape:
             second_path:
               - Project Group / LF Decentralized Trust
               - Technology Sector / Blockchain
-            repo_url: https://github.com/LFDT-Minokawa/governance
+            repo_url: https://github.com/LFDT-Minokawa/compact
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-12-05'
@@ -28217,6 +28217,7 @@ landscape:
               China Telecommunications Group Co., Ltd., known as China Telecom, is a leading telecommunications company in China. It offers a wide range of services including mobile and fixed-line telephony, broadband internet, digital television, and enterprise sol...
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / LF Networking (LFN)
             crunchbase: https://www.crunchbase.com/organization/china-telecom-corporation
             twitter: https://twitter.com/chinateleglobal
             extra:
@@ -36640,6 +36641,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ntt-nippon-telegraph-and-telephone-corporation
           - item:
+            name: nudgebee (member)
+            homepage_url: https://nudgebee.com/
+            logo: nudgebee.svg
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/nudgebee
+          - item:
             name: Numascale (member)
             homepage_url: https://numascale.com/
             logo: numascale.svg
@@ -36650,16 +36659,16 @@ landscape:
             organization:
               name: Numascale
           - item:
-            name: Numbers (member)
+            name: Numbers Co., Ltd. (member)
             homepage_url: https://numbersprotocol.io/
-            logo: numbers.svg
+            logo: numbers_co_ltd.svg
             description: Numbers bring trust into data
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
             twitter: https://twitter.com/numbersprotocol
             organization:
-              name: Numbers
+              name: Numbers Co., Ltd.
               linkedin: https://www.linkedin.com/company/numbersprotocol
             extra:
               linkedin_url: https://www.linkedin.com/company/numbersprotocol
@@ -40615,7 +40624,7 @@ landscape:
             name: SPARE Consulting (member)
             homepage_url: https://spare-consulting.com/
             logo: spare_consulting.svg
-            description: Unlock the value of your cloud with Spare expert FinOps consultants - We help you save and implement governance to align cloud usage with your business objectives.
+            description: Cabinet de conseil FinOps certifié et spécialisé dans l'optimisation des coûts et licences Cloud. Expertise en stratégie Cloud, FinOps, Software Asset Management, GreenOps et formations certifiantes FinOps.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / FinOps Foundation
@@ -47095,7 +47104,7 @@ landscape:
             name: Human Feedback Foundation (member)
             homepage_url: https://humanfeedback.io/
             logo: human_feedback_foundation.svg
-            description: The future of AI is human-centred. We advocate for building human input directly into AI systems. Learn More
+            description: We build a more open, human-centered future for AI. Learn More
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / LF AI & Data
