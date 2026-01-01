@@ -16448,13 +16448,11 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / Networking & Edge
-            repo_url: https://github.com/openvswitch/ovs
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2016-08-09'
               annotations:
                 slug: ovs
-                project_org: https://github.com/openvswitch
               dev_stats_url: https://insights.linuxfoundation.org/project/ovs
               other_links:
                 - name: Calendar
@@ -16463,7 +16461,6 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wByoAAE
                 - name: Charter
                   url: https://www.openvswitch.org/charter/
-            additional_repos: []
           - item:
             name: OpenWallet Foundation
             homepage_url: https://openwallet.foundation/
@@ -17601,7 +17598,7 @@ landscape:
             second_path:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/platform-mesh/helm-charts
+            repo_url: https://github.com/platform-mesh/kubernetes-graphql-gateway
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-08-29'
@@ -24879,16 +24876,6 @@ landscape:
             organization:
               name: Acompany Co., Ltd.
           - item:
-            name: Acornsoft (member)
-            homepage_url: https://acornsoft.co.kr/
-            logo: acornsoft.svg
-            description: Container Management Platform powered by Kubernetes Make a Cloud Native Computing Environment
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/acornsoft
-            twitter: https://twitter.com/CocktailCloud
-          - item:
             name: Ada Logics (member)
             homepage_url: https://adalogics.com/
             logo: ada_logics.svg
@@ -28947,6 +28934,16 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/cobank
+          - item:
+            name: Cocktail.io (member)
+            homepage_url: https://cocktail.io/
+            logo: cocktail.svg
+            description: Container Management Platform powered by Kubernetes Make a Cloud Native Computing Environment
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/acornsoft
+            twitter: https://twitter.com/CocktailCloud
           - item:
             name: Code Intelligence (member)
             homepage_url: https://code-intelligence.com/
