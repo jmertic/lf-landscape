@@ -11308,7 +11308,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/kubewarden/kwctl
+            repo_url: https://github.com/kubewarden/kubewarden-controller
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-06-14'
@@ -11322,11 +11322,11 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkRyUQAV
             additional_repos:
+              - repo_url: https://github.com/kubewarden/kwctl
               - repo_url: https://github.com/kubewarden/policy-server
-              - repo_url: https://github.com/kubewarden/kubewarden-controller
               - repo_url: https://github.com/kubewarden/rust-policy-template
               - repo_url: https://github.com/kubewarden/go-policy-template
-              - repo_url: https://github.com/kubewarden/swift-policy-template
+              - repo_url: https://github.com/kubewarden/sbomscanner
           - item:
             name: KUDO
             homepage_url: https://kudo.dev/
@@ -11708,13 +11708,12 @@ landscape:
               - repo_url: https://github.com/lf-energy/foundation
           - item:
             name: LF Energy RegistryOS
-            homepage_url: https://github.com/CleanIncentive/granular_certificate_registry
+            homepage_url: https://github.com/lfenergy-registryos
             logo: lf_energy_registryos.svg
             description: The Granular Registry exists to advance a decarbonized electricity system by providing an open-source, compliance-grade registry that issues, tracks, and retires timestamped Granular Certificates (GCs).
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/CleanIncentive/granular_certificate_registry
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-12-18'
@@ -16399,11 +16398,13 @@ landscape:
             second_path:
               - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/open-voice-interoperability/openfloor-docs
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-12-11'
               annotations:
                 slug: open-voice-network-interoperability-initiative
+                project_org: https://github.com/open-voice-interoperability
               dev_stats_url: https://insights.linuxfoundation.org/project/open-voice-network-interoperability-initiative
               other_links:
                 - name: Calendar
@@ -16412,6 +16413,12 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfzV1Oo2MhLFebc3TK
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/Open%20Voice%20Network%20Interoperability%20Initiative%20Technical%20Charter%20Draft%2012-11-2023.docx.pdf
+            additional_repos:
+              - repo_url: https://github.com/open-voice-interoperability/beaconforge
+              - repo_url: https://github.com/open-voice-interoperability/openfloor-python
+              - repo_url: https://github.com/open-voice-interoperability/assistants
+              - repo_url: https://github.com/open-voice-interoperability/background
+              - repo_url: https://github.com/open-voice-interoperability/openfloor-js
           - item:
             name: Open Voice Network Trustmark Initiative
             homepage_url: https://openvoicenetwork.org/trustmark-initiative/
@@ -30219,8 +30226,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-            organization:
-              name: ElastiFlow Inc
+            crunchbase: https://www.crunchbase.com/organization/elastiflow
           - item:
             name: Elastisys AB (member)
             homepage_url: https://elastisys.com/
@@ -30717,9 +30723,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/etopus-technology-inc.
           - item:
-            name: Evenkeel Inc. d/b/a Densify (member)
-            homepage_url: https://densify.com/
-            logo: evenkeel_inc_d_b_a_densify.svg
+            name: Evenkeel Inc. d/b/a Kubex (member)
+            homepage_url: https://kubex.ai/
+            logo: evenkeel_inc_d_b_a_kubex.svg
             description: Densify enables global organizations to scientifically balance infrastructure supply and application demand creating a demand-driven approach to infrastructure management that maximizes efficiency and cost-savings while reducing risk. The company serves a range of industries such as financial services, telecommunications, oil & gas, technology, and more. Densify holds offices in Richmond Hill, Ontario, Canada; New York, New York; and London, England, UK.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
@@ -33774,18 +33780,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/krickcom
           - item:
-            name: Krypc Corporation (member)
-            homepage_url: https://krypc.com/
-            logo: krypc_corporation.svg
-            description: KrypC is a FinTech solution and service provider focusing on bringing innovative solutions in the field of Blockchain & Digital Currency.
-            second_path:
-              - Project Membership / LF Decentralized Trust
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/krypc
-            twitter: https://twitter.com/krypctalk
-            extra:
-              linkedin_url: https://www.linkedin.com/company/krypc
-          - item:
             name: kt cloud Co., Ltd (member)
             homepage_url: https://cloud.kt.com/
             logo: kt_cloud_co.svg
@@ -35529,6 +35523,18 @@ landscape:
             twitter: https://twitter.com/NirmataCloud
             extra:
               linkedin_url: https://www.linkedin.com/company/nirmata
+          - item:
+            name: Nissan Motor Co., Ltd. (member)
+            homepage_url: https://nissan-global.com/
+            logo: nissan_motor_co_ltd.svg
+            description: Nissan Motor Co., Ltd. is a Japanese multinational automobile manufacturer headquartered in Nishi-ku, Yokohama, Japan. The company sells its vehicles under the Nissan, Infiniti, and Datsun brands. The company traces its name to the Nissan zaibatsu, now called Nissan Group.
+            second_path:
+              - Project Membership / Automotive Grade Linux (AGL)
+              - Project Membership / The Linux Foundation
+              - Project Membership / ELISA Fund
+            crunchbase: https://www.crunchbase.com/organization/nissan-motor
+            extra:
+              linkedin_url: https://www.linkedin.com/company/nissan-motor-corporation
           - item:
             name: Nokia Corporation (member)
             homepage_url: https://nokia.com/
@@ -38069,19 +38075,6 @@ landscape:
               linkedin: https://www.linkedin.com/company/western-digital
             extra:
               linkedin_url: https://www.linkedin.com/company/western-digital
-          - item:
-            name: Sanofi (member)
-            homepage_url: https://sanofi.com/
-            logo: sanofi.svg
-            description: Sanofi is a global healthcare organization dedicated to advancing health through the research, development, manufacturing, and marketing of innovative pharmaceutical solutions and vaccines, with a strong focus on addressing patient needs in areas such ...
-            second_path:
-              - Project Membership / R Consortium
-              - Project Membership / The Linux Foundation
-            organization:
-              name: Sanofi
-              linkedin: https://www.linkedin.com/company/sanofi
-            extra:
-              linkedin_url: https://www.linkedin.com/company/sanofi
           - item:
             name: SAP SE (member)
             homepage_url: https://sap.com/
@@ -40799,7 +40792,12 @@ landscape:
             name: Tokenovate (member)
             homepage_url: https://tokenovate.com/
             logo: tokenovate.svg
-            description: Tokenovate empowers financial institutions by simplifying and automating the entire post-trade and collateral lifecycle, thereby cutting costs, reducing risk, and facilitating growth through efficient workflows and unified experiences across various as...
+            description: |-
+              Tokenovate empowers financial institutions to simplify and automate the entire post-trade, collateral and tokenised settlement lifecycle, cutting costs, reducing risk, and unlocking growth.
+
+              Our platform turns complex contracts into simple step-by-step instructions, creating automated workflows for efficient collateral mobility, settlement and post-trade lifecycle management. We deliver a unified experience across all asset classes, products, and infrastructures, regardless of how or where you trade. Built to be data agnostic, our services are interoperable by design.
+
+              By embedding the Common Domain Model into the core of our technology, we turn contracts into code, leveraging blockchain, composability and tokenisation to bring precision, automation, and scalability to every step of the post-trade process.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / FINOS (The Fintech Open Source Foundation)
@@ -42793,8 +42791,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-            organization:
-              name: ZenML
+            crunchbase: https://www.crunchbase.com/organization/zenml
           - item:
             name: Zephr.xyz (member)
             homepage_url: https://zephr.xyz/
