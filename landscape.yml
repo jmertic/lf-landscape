@@ -11323,10 +11323,10 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkRyUQAV
             additional_repos:
               - repo_url: https://github.com/kubewarden/kwctl
-              - repo_url: https://github.com/kubewarden/policy-server
               - repo_url: https://github.com/kubewarden/rust-policy-template
               - repo_url: https://github.com/kubewarden/go-policy-template
               - repo_url: https://github.com/kubewarden/sbomscanner
+              - repo_url: https://github.com/kubewarden/policies
           - item:
             name: KUDO
             homepage_url: https://kudo.dev/
@@ -26249,6 +26249,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/aryninc
           - item:
+            name: ASAPP (member)
+            homepage_url: https://asapp.com/
+            logo: asapp.svg
+            description: ASAPP provides generative AI solutions for contact centers, automating interactions, boosting agent productivity, and enhancing customer experiences.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: ASAPP
+          - item:
             name: Ascensio System SIA (member)
             homepage_url: https://onlyoffice.com/
             logo: ascensio_system_sia.svg
@@ -27079,6 +27088,15 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/bluebricks
+          - item:
+            name: BlueRock Security (member)
+            homepage_url: https://bluerock.io/
+            logo: bluerock_security.svg
+            description: BedRock Systems, operating as BlueRock Security Inc, offers innovative security solutions to protect workloads with a transparent layer that enhances DevOps processes and infrastructure performance. Their cutting-edge containervisor technology addresse...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: BlueRock Security
           - item:
             name: Blue Sentry (member)
             homepage_url: https://bluesentryit.com/
@@ -28363,6 +28381,15 @@ landscape:
             organization:
               name: Cloudec
           - item:
+            name: cloudEQ (member)
+            homepage_url: https://cloudeq.com/
+            logo: cloudeq.svg
+            description: CloudEQ offers full-stack cloud computing solutions for Amazon AWS and Azure, specializing in migration, optimization, and automation. Their certified experts provide tailored cloud adoption strategies for Fortune 100 executives and businesses globally.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/cloudeq
+          - item:
             name: Cloudera, Inc. (member)
             homepage_url: https://cloudera.com/
             logo: cloudera_inc.svg
@@ -28684,7 +28711,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cobank
           - item:
             name: Cocktail.io (member)
-            homepage_url: https://cocktail.io/
+            homepage_url: https://cocktail.io.kr/
             logo: cocktail.svg
             description: Container Management Platform powered by Kubernetes Make a Cloud Native Computing Environment
             second_path:
@@ -31576,18 +31603,6 @@ landscape:
             organization:
               name: Golf
           - item:
-            name: Golioth (member)
-            homepage_url: https://golioth.io/
-            logo: golioth.svg
-            description: 'golioth: making IoT boring. Coming soon.'
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Zephyr Project
-            crunchbase: https://www.crunchbase.com/organization/golioth
-            twitter: https://twitter.com/golioth_iot
-            extra:
-              linkedin_url: https://www.linkedin.com/company/golioth
-          - item:
             name: Grab Holdings Inc. (member)
             homepage_url: https://grab.com/
             logo: grab_holdings_inc.svg
@@ -32026,9 +32041,10 @@ landscape:
             name: Helvethink (member)
             homepage_url: https://helvethink.ch/
             logo: helvethink.svg
-            description: Helvethink specializes in DevOps consulting and cloud services, providing managed solutions to ensure the performance, security, and availability of products for its clients.
+            description: Helvethink specializes in DevSecOps and cloud-native consulting, helping organizations design, build, and operate secure, scalable, and observable platforms through automation, infrastructure as code, and platform engineering.
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / Open Source Security Foundation (OpenSSF)
             organization:
               name: Helvethink
           - item:
@@ -32284,9 +32300,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-            organization:
-              name: Hydrolix
-              linkedin: https://www.linkedin.com/company/hydrolix
+            crunchbase: https://www.crunchbase.com/organization/hydrolix
             extra:
               linkedin_url: https://www.linkedin.com/company/hydrolix
           - item:
@@ -33823,7 +33837,7 @@ landscape:
             name: Kubermatic GmbH (member)
             homepage_url: https://kubermatic.com/
             logo: kubermatic_gmbh.svg
-            description: As the Top 5 corporate committer to the Kubernetes Project in 2019, Kubermatic develops Kubermatic Kubernetes Platform to accelerate the cloud native transformation. Leading enterprises including Lufthansa, Bosch, Siemens, and T-Systems trust Kubermatic on their cloud native journey. Contact us
+            description: As the Top 5 corporate committer to the Kubernetes Project in 2019, Kubermatic develops Kubermatic Kubernetes Platform to accelerate the cloud native transformation. Leading enterprises including Lufthansa, Bosch, Siemens, and T-Systems trust Kubermatic on their cloud native journey. Contact us.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -34700,18 +34714,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/meinberg-funkuhren-gmbh-&-co--kg
           - item:
-            name: Memfault Inc (member)
-            homepage_url: https://memfault.com/
-            logo: memfault_inc.svg
-            description: Memfault - OTA Firmware Deployment, Fleet Analytics, and Cloud Debugging for Smart Devices
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Zephyr Project
-            crunchbase: https://www.crunchbase.com/organization/memfault
-            twitter: https://twitter.com/Memfault
-            extra:
-              linkedin_url: https://www.linkedin.com/company/memfault
-          - item:
             name: Menzel IT GmbH (member)
             homepage_url: https://menzel-it.net/
             logo: menzel_it_gmbh.svg
@@ -34778,8 +34780,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-            organization:
-              name: meshcloud GmbH
+            crunchbase: https://www.crunchbase.com/organization/meshcloud
           - item:
             name: MetalBear Tech Ltd (member)
             homepage_url: https://metalbear.com/
@@ -34942,8 +34943,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-            organization:
-              name: Midships
+            crunchbase: https://www.crunchbase.com/organization/midships
           - item:
             name: mimik Technology Inc (member)
             homepage_url: https://mimik.com/
@@ -37943,7 +37943,7 @@ landscape:
             name: Root (member)
             homepage_url: https://root.io/
             logo: root.svg
-            description: Because it sucks to go slow at building the apps that power EVERY business.
+            description: Because it sucks to go slow at building the apps that power EVERY business
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -41200,6 +41200,17 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ufi-space-co-ltd
           - item:
+            name: UiPath, Inc. (member)
+            homepage_url: https://uipath.com/
+            logo: uipath_inc.svg
+            description: UiPath Inc.
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/uipath
+            twitter: https://twitter.com/UiPath
+            extra:
+              linkedin_url: https://www.linkedin.com/company/uipath
+          - item:
             name: Ultimum Technologies (member)
             homepage_url: https://ultimum.io/
             logo: ultimum_technologies.svg
@@ -42705,6 +42716,15 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/xsight-systems
             extra:
               linkedin_url: https://www.linkedin.com/company/xsightlabs
+          - item:
+            name: XTrace (member)
+            homepage_url: https://xtrace.ai/
+            logo: xtrace.svg
+            description: XTrace specializes in developing high-performance encrypted semantic search technology that facilitates the creation of private, portable, and personalized memory systems for AI agents, allowing them to share and access a vast network of knowledge whil...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: XTrace
           - item:
             name: YäRKEN (member)
             homepage_url: https://yarken.com/
@@ -44314,6 +44334,15 @@ landscape:
               - Project Membership / The Linux Foundation
             organization:
               name: dianastaykova.org
+          - item:
+            name: Dickinson College (member)
+            homepage_url: https://dickinson.edu/
+            logo: dickinson_college.svg
+            description: Dickinson College is a highly selective private liberal arts college that offers a diverse range of academic programs, including 42 majors with a strong focus on international studies and extensive study abroad opportunities across multiple continents.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Dickinson College
           - item:
             name: Die QRL Stiftung (member)
             homepage_url: https://qrl.foundation/
