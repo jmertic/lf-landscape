@@ -16819,12 +16819,14 @@ landscape:
               - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
               - Technology Sector / Web & Application Development
+            repo_url: https://github.com/Open-Voice-Trustmark/docs
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-12-11'
               annotations:
                 slug: open-voice-network-trustmark-initiative
+                project_org: https://github.com/Open-Voice-Trustmark
               dev_stats_url: https://insights.linuxfoundation.org/project/open-voice-network-trustmark-initiative
               other_links:
                 - name: Calendar
@@ -16833,6 +16835,7 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfVuFfrRVwzlnrZ8wF
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/The%20Open%20Voice%20Network%20Trustmark%20Initiative%20Technical%20Charter%2012-11-2023%20(1).docx.pdf
+            additional_repos: []
           - item:
             name: Open vSwitch (OVS)
             homepage_url: https://www.openvswitch.org/
@@ -19550,7 +19553,7 @@ landscape:
             second_path:
               - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/project-aita/aita
+            repo_url: https://github.com/project-ryoma/ryoma
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -35025,19 +35028,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/magic-orange
           - item:
-            name: Mainsail Industries (member)
-            homepage_url: https://mainsailindustries.com/
-            logo: mainsail_industries.svg
-            description: Mainsail specializes in providing advanced data security technology through a next-generation hypervisor designed to protect critical infrastructure and service providers from sophisticated cyber threats, ensuring compliance with NIST Zero Trust standa...
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Confidential Computing Consortium (CCC)
-            organization:
-              name: Mainsail Industries
-              linkedin: https://www.linkedin.com/company/mainsail-industries
-            extra:
-              linkedin_url: https://www.linkedin.com/company/mainsail-industries
-          - item:
             name: MangoBoost, Inc. (member)
             homepage_url: https://mangoboost.io/
             logo: mangoboost_inc.svg
@@ -36436,6 +36426,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/nvidia
           - item:
+            name: Nx (member)
+            homepage_url: https://nx.dev/
+            logo: nx.svg
+            description: 'Nx: Smart, Fast Monorepo Build System with Advanced CI Capabilities for Effortless Scaling and Maintenance.'
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Nx
+          - item:
             name: NXP Semiconductors Netherlands B.V. (member)
             homepage_url: https://nxp.com/
             logo: nxp_semiconductors_netherlands_b_v.svg
@@ -36990,19 +36989,6 @@ landscape:
               - Project Membership / FinOps Foundation
             organization:
               name: Parsimo Inc.
-          - item:
-            name: Parsolvo (member)
-            homepage_url: https://parsolvo.com/
-            logo: parsolvo.svg
-            description: Parsolvo is a born in the cloud consulting firm simplifying complex models and projects for enterprise and government agencies with modern IT solutions, including expertise in Cloud, Compliance, and Complex solutions.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / FinOps Foundation
-            organization:
-              name: Parsolvo
-              linkedin: https://www.linkedin.com/company/parsolvo
-            extra:
-              linkedin_url: https://www.linkedin.com/company/parsolvo
           - item:
             name: Partior Pte Ltd (member)
             homepage_url: https://partior.com/
@@ -37945,15 +37931,6 @@ landscape:
             twitter: https://twitter.com/qtproject
             extra:
               linkedin_url: https://www.linkedin.com/company/the-qt-company
-          - item:
-            name: Quality Cloud Corp. (member)
-            homepage_url: https://qualitycloud.com/
-            logo: quality_cloud_corp.svg
-            description: Introducing a new chapter in domains.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/quality-cloud
           - item:
             name: QualitySoft Corporation (member)
             homepage_url: https://qualitysoft.com/
@@ -51420,6 +51397,15 @@ landscape:
             twitter: https://twitter.com/xprize
             extra:
               linkedin_url: https://www.linkedin.com/company/x-prize-foundation
+          - item:
+            name: Young Amateurs Radio Club (member)
+            homepage_url: https://yarc.world/
+            logo: young_amateurs_radio_club.svg
+            description: Young Amateurs Radio Club (YARC) is an amateur radio club for youth, by youth. We are an FCC licensed club that provides a platform for young operators to connect with each other through our YARC Discord server. We organize various events and encourage...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Young Amateurs Radio Club
           - item:
             name: Zhejiang University (member)
             homepage_url: https://zju.edu.cn/
