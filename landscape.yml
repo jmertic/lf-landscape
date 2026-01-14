@@ -2795,7 +2795,6 @@ landscape:
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/intelligent-environments-lab/CityLearn
             license: MIT
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -5461,26 +5460,6 @@ landscape:
                 - name: Charter
                   url: https://github.com/AcademySoftwareFoundation/foundation/blob/main/project_charters/dpel_charter.pdf
           - item:
-            name: Digital Substations SIG
-            homepage_url: https://lf-energy.atlassian.net/wiki/spaces/DSS/overview
-            logo: digital_substations_sig.svg
-            description: |
-              LF Energy Special Interest Group (SIG) focused on substation digitalization and virtualization
-            second_path:
-              - Project Group / LF Energy (LFE)
-              - Technology Sector / Cross-Technology
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2024-04-02'
-              annotations:
-                slug: dsas-working-group
-              dev_stats_url: https://insights.linuxfoundation.org/project/dsas-working-group
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/dsas-working-group
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfpCA15JFR1zaCoga4
-          - item:
             name: Disaggregated Network Operating System (DANOS)
             homepage_url: https://www.danosproject.org/
             logo: disaggregated_network_operating_system_danos.svg
@@ -6861,6 +6840,29 @@ landscape:
               - repo_url: https://github.com/fastify/demo
               - repo_url: https://github.com/fastify/fastify-cli
               - repo_url: https://github.com/fastify/point-of-view
+          - item:
+            name: fastlane
+            homepage_url: https://fastlane.tools/
+            logo: fastlane.svg
+            description: fastlane is a tool for iOS and Android developers to automate tedious tasks like generating screenshots, dealing with provisioning profiles, and releasing your application.
+            second_path:
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/fastlane/fastlane
+            license: MIT
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2023-10-13'
+              annotations:
+                slug: fastlane
+                project_org: https://github.com/fastlane
+              dev_stats_url: https://insights.linuxfoundation.org/project/fastlane
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/fastlane
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfirdGgmkBU64qQfh1
+            additional_repos:
+              - repo_url: https://github.com/fastlane/docs
           - item:
             name: FATE Project
             homepage_url: https://fate.fedai.org/
@@ -12799,6 +12801,33 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/mainframe-open-education
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkTlxQAF
+          - item:
+            name: Mainframe Software Hub for Linux
+            homepage_url: https://mainframesoftwarehubforz.org/
+            logo: mainframe_software_hub_for_linux.svg
+            description: The mission of the Project is to provide open source packages not available in distribution repositories or community-provided packages for easy consumption.
+            second_path:
+              - Project Group / Open Mainframe Project (OMP)
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/linuxonzapps/docs
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-07-02'
+              annotations:
+                slug: mainframe-software-hub-for-linux
+                project_org: https://github.com/linuxonzapps
+              dev_stats_url: https://insights.linuxfoundation.org/project/mainframe-software-hub-for-linux
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/mainframe-software-hub-for-linux
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfkyr5mI8CLvcFy2G8
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/mainframe-software-hub-for-linux/mainframe-software-hub-for-linux_Charter.pdf?v=1752085373667
+            additional_repos:
+              - repo_url: https://github.com/linuxonzapps/tsc
+              - repo_url: https://github.com/linuxonzapps/zlinux-artifacts-builder
           - item:
             name: ManaTEE
             homepage_url: https://github.com/tiktok-privacy-innovation/PrivacyGo-DataCleanRoom
@@ -26665,6 +26694,7 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / SONiC Fund
+              - Project Membership / SONiC Fund
               - Project Membership / Ultra Ethernet Consortium Fund
             crunchbase: https://www.crunchbase.com/organization/arista-networks
             twitter: https://twitter.com/AristaNetworks
@@ -36236,6 +36266,16 @@ landscape:
               linkedin: https://www.linkedin.com/company/nosana
             extra:
               linkedin_url: https://www.linkedin.com/company/nosana
+          - item:
+            name: Nota Inc. (member)
+            homepage_url: https://nota.ai/
+            logo: nota_inc.svg
+            description: Nota AI offers a proprietary platform for hardware-aware AI optimization that automates the development of lightweight AI models, enhancing edge AI performance while minimizing memory usage and computational demands.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / PyTorch Foundation
+            organization:
+              name: Nota Inc.
           - item:
             name: Notarize, Inc. d/b/a Proof.com (member)
             homepage_url: https://proof.com/
@@ -49813,6 +49853,7 @@ landscape:
             description: Tennessee Tech University, a nationally ranked and locally loved institution located in Cookeville, TN, offers over 40 bachelor's and 20 graduate degree programs across various academic divisions. With a focus on developing leaders and lifelong learner...
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / Ultra Ethernet Consortium Fund
             organization:
               name: Tennessee Technological University
           - item:
