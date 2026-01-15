@@ -2795,7 +2795,6 @@ landscape:
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/intelligent-environments-lab/CityLearn
             license: MIT
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -5461,26 +5460,6 @@ landscape:
                 - name: Charter
                   url: https://github.com/AcademySoftwareFoundation/foundation/blob/main/project_charters/dpel_charter.pdf
           - item:
-            name: Digital Substations SIG
-            homepage_url: https://lf-energy.atlassian.net/wiki/spaces/DSS/overview
-            logo: digital_substations_sig.svg
-            description: |
-              LF Energy Special Interest Group (SIG) focused on substation digitalization and virtualization
-            second_path:
-              - Project Group / LF Energy (LFE)
-              - Technology Sector / Cross-Technology
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2024-04-02'
-              annotations:
-                slug: dsas-working-group
-              dev_stats_url: https://insights.linuxfoundation.org/project/dsas-working-group
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/dsas-working-group
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfpCA15JFR1zaCoga4
-          - item:
             name: Disaggregated Network Operating System (DANOS)
             homepage_url: https://www.danosproject.org/
             logo: disaggregated_network_operating_system_danos.svg
@@ -6861,6 +6840,29 @@ landscape:
               - repo_url: https://github.com/fastify/demo
               - repo_url: https://github.com/fastify/fastify-cli
               - repo_url: https://github.com/fastify/point-of-view
+          - item:
+            name: fastlane
+            homepage_url: https://fastlane.tools/
+            logo: fastlane.svg
+            description: fastlane is a tool for iOS and Android developers to automate tedious tasks like generating screenshots, dealing with provisioning profiles, and releasing your application.
+            second_path:
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/fastlane/fastlane
+            license: MIT
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2023-10-13'
+              annotations:
+                slug: fastlane
+                project_org: https://github.com/fastlane
+              dev_stats_url: https://insights.linuxfoundation.org/project/fastlane
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/fastlane
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfirdGgmkBU64qQfh1
+            additional_repos:
+              - repo_url: https://github.com/fastlane/docs
           - item:
             name: FATE Project
             homepage_url: https://fate.fedai.org/
@@ -12800,6 +12802,33 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkTlxQAF
           - item:
+            name: Mainframe Software Hub for Linux
+            homepage_url: https://mainframesoftwarehubforz.org/
+            logo: mainframe_software_hub_for_linux.svg
+            description: The mission of the Project is to provide open source packages not available in distribution repositories or community-provided packages for easy consumption.
+            second_path:
+              - Project Group / Open Mainframe Project (OMP)
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/linuxonzapps/docs
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-07-02'
+              annotations:
+                slug: mainframe-software-hub-for-linux
+                project_org: https://github.com/linuxonzapps
+              dev_stats_url: https://insights.linuxfoundation.org/project/mainframe-software-hub-for-linux
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/mainframe-software-hub-for-linux
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfkyr5mI8CLvcFy2G8
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/mainframe-software-hub-for-linux/mainframe-software-hub-for-linux_Charter.pdf?v=1752085373667
+            additional_repos:
+              - repo_url: https://github.com/linuxonzapps/tsc
+              - repo_url: https://github.com/linuxonzapps/zlinux-artifacts-builder
+          - item:
             name: ManaTEE
             homepage_url: https://github.com/tiktok-privacy-innovation/PrivacyGo-DataCleanRoom
             logo: manatee.svg
@@ -14863,6 +14892,30 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openchami
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf26Cw20JPztM3b9XP
+          - item:
+            name: OpenChoreo
+            homepage_url: https://openchoreo.dev/
+            logo: openchoreo.svg
+            description: create a Kubernetes-native developer platform with application abstractions, CI/CD, GitOps, observability, and an integrated developer portal
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+              - Technology Sector / DevOps, CI:CD & Site Reliability
+            repo_url: https://github.com/openchoreo/openchoreo
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-01-12'
+              annotations:
+                slug: openchoreo
+                project_org: https://github.com/openchoreo
+              dev_stats_url: https://insights.linuxfoundation.org/project/openchoreo
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openchoreo
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf3t29JQZSdthJtbKO
+            additional_repos: []
           - item:
             name: Open Cluster Management
             homepage_url: https://open-cluster-management.io/
@@ -25705,7 +25758,7 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/airbnb
           - item:
             name: Airbyte (member)
-            homepage_url: https://airbyte.io/
+            homepage_url: https://airbyte.com/
             logo: airbyte.svg
             description: Airbyte is an open-source data integration platform to build ELT pipelines. Consolidate your data in your data warehouses, lakes and databases.
             second_path:
@@ -26665,6 +26718,7 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / SONiC Fund
+              - Project Membership / SONiC Fund
               - Project Membership / Ultra Ethernet Consortium Fund
             crunchbase: https://www.crunchbase.com/organization/arista-networks
             twitter: https://twitter.com/AristaNetworks
@@ -27067,26 +27121,6 @@ landscape:
               linkedin: https://www.linkedin.com/company/autovia-gmbh
             extra:
               linkedin_url: https://www.linkedin.com/company/autovia-gmbh
-          - item:
-            name: Avanade Inc. (member)
-            homepage_url: https://avanade.com/
-            logo: avanade_inc.svg
-            description: |-
-              Avanade is the leading provider of innovative digital, cloud and advisory services, industry solutions and design-led experiences across the Microsoft ecosystem. Every day, our 60,000 professionals in 26 countries make a genuine human impact for our clients, their employees and their customers.​
-
-              ​We have been recognized, together with our parent Accenture, as Microsoft’s Global SI Partner of the Year more than any other company. With the most Microsoft certifications (60,000+) and 18 (out of 18) Gold-level Microsoft competencies, we are uniquely positioned to help businesses grow and solve their toughest challenges.​
-
-              ​We are a people first company, committed to providing an inclusive workplace where employees feel comfortable being their authentic selves. As a responsible business, we are building a sustainable world and helping young people from underrepresented communities fulfill their potential.​
-
-              ​Majority owned by Accenture, Avanade was founded in 2000 by Accenture LLP and Microsoft Corporation. Learn more at www.avanade.com.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / TODO Group
-              - Project Membership / Linux Foundation Europe
-            crunchbase: https://www.crunchbase.com/organization/avanade
-            twitter: https://twitter.com/Avanade
-            extra:
-              linkedin_url: https://www.linkedin.com/company/avanade
           - item:
             name: AVAP (member)
             homepage_url: https://avapframework.com/
@@ -34851,19 +34885,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/lockheed-martin
           - item:
-            name: Loft Labs, Inc. (member)
-            homepage_url: https://www.loft.com/
-            logo: loft_labs_inc.svg
-            description: 'LOFT creates optimistic, feminine, and versatile clothing for a wide range of women with one common style goal: to look and feel confident. From all day, any day must-haves to fashion with a wink, LOFT consistently serves up head-to-toe outfits and perfect pieces at an incredible value which makes getting dressed feel effortless. Launching in 1998, today LOFT has over 500 stores and outlets across the US and offers 24/7 shopping at Loft.com.'
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-              - Project Membership / FinOps Foundation
-            crunchbase: https://www.crunchbase.com/organization/ann-inc
-            twitter: https://twitter.com/LOFT
-            extra:
-              linkedin_url: https://www.linkedin.com/company/clothes-loft
-          - item:
             name: Logitech Europe SA (member)
             homepage_url: https://logitech.com/
             logo: logitech_europe_sa.svg
@@ -36236,6 +36257,16 @@ landscape:
               linkedin: https://www.linkedin.com/company/nosana
             extra:
               linkedin_url: https://www.linkedin.com/company/nosana
+          - item:
+            name: Nota Inc. (member)
+            homepage_url: https://nota.ai/
+            logo: nota_inc.svg
+            description: Nota AI offers a proprietary platform for hardware-aware AI optimization that automates the development of lightweight AI models, enhancing edge AI performance while minimizing memory usage and computational demands.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / PyTorch Foundation
+            organization:
+              name: Nota Inc.
           - item:
             name: Notarize, Inc. d/b/a Proof.com (member)
             homepage_url: https://proof.com/
@@ -39174,6 +39205,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/serviceware
           - item:
+            name: Several Clouds Ltd (member)
+            homepage_url: https://severalclouds.com/
+            logo: several_clouds_ltd.svg
+            description: Several Clouds provide Cloud and DevOps professional services and staff augmentation. We specialize in building secure and compliant cloud environments.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Several Clouds Ltd
+          - item:
             name: SGDL Innovation SA (member)
             homepage_url: https://sgdl.ai/
             logo: sgdl_innovation_sa.svg
@@ -40739,20 +40779,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/tacsecurity
           - item:
-            name: taikun.cloud a.s. (member)
-            homepage_url: https://taikun.cloud/
-            logo: taikun_cloud_a_s.svg
-            description: We specialize in Kubernetes deployment service solutions for public and private clouds.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            twitter: https://twitter.com/taikun_cloud
-            organization:
-              name: taikun.cloud a.s.
-              linkedin: https://www.linkedin.com/company/itera-io
-            extra:
-              linkedin_url: https://www.linkedin.com/company/itera-io
-          - item:
             name: Tailscale Inc (member)
             homepage_url: https://tailscale.com/
             logo: tailscale_inc.svg
@@ -42136,6 +42162,19 @@ landscape:
             organization:
               name: vbrick
           - item:
+            name: vCluster Labs (member)
+            homepage_url: https://www.loft.com/
+            logo: vcluster_labs.svg
+            description: 'LOFT creates optimistic, feminine, and versatile clothing for a wide range of women with one common style goal: to look and feel confident. From all day, any day must-haves to fashion with a wink, LOFT consistently serves up head-to-toe outfits and perfect pieces at an incredible value which makes getting dressed feel effortless. Launching in 1998, today LOFT has over 500 stores and outlets across the US and offers 24/7 shopping at Loft.com.'
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+              - Project Membership / FinOps Foundation
+            crunchbase: https://www.crunchbase.com/organization/ann-inc
+            twitter: https://twitter.com/LOFT
+            extra:
+              linkedin_url: https://www.linkedin.com/company/clothes-loft
+          - item:
             name: VDURA (member)
             homepage_url: https://vdura.com/
             logo: vdura.svg
@@ -43099,6 +43138,15 @@ landscape:
             twitter: https://twitter.com/wiz_io
             extra:
               linkedin_url: https://www.linkedin.com/company/wizconnected
+          - item:
+            name: Workato (member)
+            homepage_url: https://workato.com/
+            logo: workato.svg
+            description: Workato is the Enterprise Automation Platform that enables seamless integration and automation of workflows for both business and IT teams, utilizing AI-powered technology for efficient outcomes.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Workato
           - item:
             name: Workday, Inc. (member)
             homepage_url: https://workday.com/
@@ -44261,6 +44309,16 @@ landscape:
             twitter: https://twitter.com/BME_hu
             extra:
               linkedin_url: https://www.linkedin.com/company/budapest-university-of-technology-and-economics
+          - item:
+            name: Bureau of Transportation Statistics (member)
+            homepage_url: https://bts.gov/
+            logo: bureau_of_transportation_statistics.svg
+            description: Bureau of Transportation Statistics (BTS) provides essential data on commercial aviation, freight activity, and transportation economics to inform decision-makers and the public.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Overture Maps Foundation Fund
+            organization:
+              name: Bureau of Transportation Statistics
           - item:
             name: Call for Code (member)
             homepage_url: https://callforcode.org/
@@ -47244,6 +47302,7 @@ landscape:
             logo: lpi_japan.svg
             description: LPI-Japanはオープンテクノロジーの技術者認定を中立公正な立場で行う特定非営利活動法人(NPO)として、Linux、OSS-DB(PostgreSQL)、HTML5、OpenStack等の技術者育成と関連分野のビジネスの促進に寄与する活動を展開しています。  LinuC：https://t.co/ym1IGnKx6u
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/lpi-japan
             twitter: https://twitter.com/lpi_japan
@@ -49813,6 +49872,7 @@ landscape:
             description: Tennessee Tech University, a nationally ranked and locally loved institution located in Cookeville, TN, offers over 40 bachelor's and 20 graduate degree programs across various academic divisions. With a focus on developing leaders and lifelong learner...
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / Ultra Ethernet Consortium Fund
             organization:
               name: Tennessee Technological University
           - item:
