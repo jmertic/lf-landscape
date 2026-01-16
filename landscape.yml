@@ -469,18 +469,21 @@ landscape:
               - Project Group / The Linux Foundation
               - PMO Managed / All
               - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/aaif/aaif-landscape
             license: TBD / NA
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-12-09'
               annotations:
                 slug: agentic-ai-foundation
+                project_org: https://github.com/aaif
               dev_stats_url: https://insights.linuxfoundation.org/project/agentic-ai-foundation
               other_links:
                 - name: Calendar
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/agentic-ai-foundation
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfZA9uadMdkwBqqHsj
+            additional_repos: []
           - item:
             name: AGENTS.md
             homepage_url: https://agents.md/
@@ -655,6 +658,34 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ai-governance-framework
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfrawQxPd7Ldk8gNDE
+          - item:
+            name: AINETUS
+            homepage_url: https://ai4realnet.eu/
+            logo: ainetus.svg
+            description: |-
+              AI algorithms mainly composed by supervised and reinforcement learning. Unifying the benefits of existing heuristics, physical modelling of these complex systems and learning methods, as well as a set of complementary techniques to enhance transparency, safety, explainability and human acceptance. 
+              Human-in-the-loop decision making for co-learning between AI and humans. Considering integration of model uncertainty, human cognitive load and trust.
+              Autonomous AI systems relying on human supervision.
+              Embedded with human domain knowledge and Safety rules.
+            second_path:
+              - Project Group / Linux Foundation Europe
+              - Technology Sector / AI, ML, Data & Analytics
+              - Technology Sector / Safety-Critical Systems
+            repo_url: https://ai4realnet.github.io/
+            license: MIT
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-01-06'
+              annotations:
+                slug: ainetus
+              dev_stats_url: https://insights.linuxfoundation.org/project/ainetus
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ainetus
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfeNXPuYxVK2CRNwbZ
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/ainetus/ainetus_Charter.pdf?v=1768513274785
           - item:
             name: AI Readiness
             homepage_url: https://github.com/finos/ai-readiness
@@ -31700,6 +31731,7 @@ landscape:
               Go further than you ever imagined in a new Ford vehicle, built just for you. See our full lineup.
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / TODO Group
               - Project Membership / Xen Project
             crunchbase: https://www.crunchbase.com/organization/ford
             twitter: https://twitter.com/Ford
@@ -32925,6 +32957,15 @@ landscape:
               linkedin: https://www.linkedin.com/company/hushmesh
             extra:
               linkedin_url: https://www.linkedin.com/company/hushmesh
+          - item:
+            name: Hush Security (member)
+            homepage_url: https://hush.security/
+            logo: hush_security.svg
+            description: The first secretless access management platform. Hush replaces vaults with policy-driven, real-time controls to secure machine-to-machine communication.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/hush-security
           - item:
             name: Hydrolix (member)
             homepage_url: https://hydrolix.io/
@@ -35270,17 +35311,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/mediconcen
           - item:
-            name: MegazoneCloud (member)
-            homepage_url: https://megazone.com/
-            logo: megazonecloud.svg
-            description: MEGAZONECLOUD, headquartered in Seoul, South Korea is established in 2018 as spun out the cloud business of Megazone Corporation that was founded in 1998 with U$45M Series-A investment.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/megazone-cloud
-            extra:
-              linkedin_url: https://www.linkedin.com/company/megazonecloud
-          - item:
             name: Meinberg Funkuhren GmbH & Co KG (member)
             homepage_url: https://meinberg.de/
             logo: meinberg_funkuhren_gmbh_co_kg.svg
@@ -37333,7 +37363,7 @@ landscape:
             name: Platform Engineering Labs (member)
             homepage_url: https://platform.engineering/
             logo: platform_engineering_labs.svg
-            description: We give Platform Engineers the tools they deserve.
+            description: "Crafting tools that remove the toil from infrastructure work. We build an escape pod that takes you out of your current infrastructure tooling misery. For too long, we've witnessed a critical problem in the broader infrastructure space: stifled innovat..."
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -39694,6 +39724,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/softbankgroup
           - item:
+            name: Software Mansion (member)
+            homepage_url: https://swmansion.com/
+            logo: software_mansion.svg
+            description: Software Mansion is a developer experience company based in Krakow, specializing in React Native, Expo, and multimedia solutions. We excel in building complex multimedia solutions, turning ideas into well-constructed products, and actively contributing...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Software Mansion
+          - item:
             name: Software Mind (member)
             homepage_url: https://softwaremind.com/
             logo: software_mind.svg
@@ -41376,6 +41415,16 @@ landscape:
             organization:
               name: Thread AI
           - item:
+            name: TI724 (member)
+            homepage_url: https://ti724.com/
+            logo: ti724.svg
+            description: TI724 is a company dedicated to designing, implementing, supporting, consulting, and managing technological infrastructure platforms, specializing in virtualization and storage solutions. They offer IT services and consulting in public, private, and hy...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / FinOps Foundation
+            organization:
+              name: TI724
+          - item:
             name: Tianjin Aojin Network Technology Co., Ltd. (member)
             homepage_url: https://oschina.net/
             logo: tianjin_aojin_network_technology_co_ltd.svg
@@ -42009,6 +42058,15 @@ landscape:
             twitter: https://twitter.com/ToruMiyagi1
             extra:
               linkedin_url: https://www.linkedin.com/company/upsidergroup
+          - item:
+            name: Upwind Security, Inc. (member)
+            homepage_url: https://upwind.io/
+            logo: upwind_security_inc.svg
+            description: At Upwind, we’re on a mission to empower our customers to run cloud environments securely and efficiently, accelerating their businesses and focusing on what’s next. Founded by the team behind Spot.io, we bring unmatched expertise in cloud infrastructure to the forefront of cybersecurity.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/upwind-security
           - item:
             name: U.S. Bank (member)
             homepage_url: https://usbank.com/
