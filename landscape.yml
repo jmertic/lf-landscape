@@ -5149,7 +5149,7 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / AI, ML, Data & Analytics
               - Technology Sector / Storage
-            repo_url: https://github.com/sodafoundation/ai
+            repo_url: https://github.com/sodafoundation/contexture
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-03-30'
@@ -5163,11 +5163,11 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWh0zQAD
             additional_repos:
+              - repo_url: https://github.com/sodafoundation/contexture-ui
               - repo_url: https://github.com/sodafoundation/soda
+              - repo_url: https://github.com/sodafoundation/kahu
               - repo_url: https://github.com/sodafoundation/strato
               - repo_url: https://github.com/sodafoundation/delfin
-              - repo_url: https://github.com/sodafoundation/crystal
-              - repo_url: https://github.com/sodafoundation/kahu
           - item:
             name: Delta Lake Project
             homepage_url: https://delta.io/
@@ -15834,10 +15834,10 @@ landscape:
                   url: https://github.com/openjs-foundation/cross-project-council/blob/master/CPC-CHARTER.md
             additional_repos:
               - repo_url: https://github.com/openjs-foundation/security-collab-space
-              - repo_url: https://github.com/openjs-foundation/openvis-collab-space
-              - repo_url: https://github.com/openjs-foundation/summit
               - repo_url: https://github.com/openjs-foundation/standards
-              - repo_url: https://github.com/openjs-foundation/project-status
+              - repo_url: https://github.com/openjs-foundation/ai-collab-space
+              - repo_url: https://github.com/openjs-foundation/open-visualization
+              - repo_url: https://github.com/openjs-foundation/artwork
           - item:
             name: Open Key Chain Manager (openKCM)
             homepage_url: https://github.com/openkcm
@@ -20590,7 +20590,7 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / AI, ML, Data & Analytics
               - Technology Sector / Storage
-            repo_url: https://github.com/sodafoundation/ai
+            repo_url: https://github.com/sodafoundation/contexture
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-06-29'
@@ -20604,11 +20604,11 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JVT8jQAH
             additional_repos:
+              - repo_url: https://github.com/sodafoundation/contexture-ui
               - repo_url: https://github.com/sodafoundation/soda
+              - repo_url: https://github.com/sodafoundation/kahu
               - repo_url: https://github.com/sodafoundation/strato
               - repo_url: https://github.com/sodafoundation/delfin
-              - repo_url: https://github.com/sodafoundation/crystal
-              - repo_url: https://github.com/sodafoundation/kahu
           - item:
             name: SODA Multicloud
             homepage_url: https://sodafoundation.io/
@@ -20682,7 +20682,7 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / AI, ML, Data & Analytics
               - Technology Sector / Storage
-            repo_url: https://github.com/sodafoundation/ai
+            repo_url: https://github.com/sodafoundation/contexture
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-03-30'
@@ -20696,11 +20696,11 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWfCUQA1
             additional_repos:
+              - repo_url: https://github.com/sodafoundation/contexture-ui
               - repo_url: https://github.com/sodafoundation/soda
+              - repo_url: https://github.com/sodafoundation/kahu
               - repo_url: https://github.com/sodafoundation/strato
               - repo_url: https://github.com/sodafoundation/delfin
-              - repo_url: https://github.com/sodafoundation/crystal
-              - repo_url: https://github.com/sodafoundation/kahu
           - item:
             name: SODA QA
             homepage_url: https://sodafoundation.io/
@@ -29739,6 +29739,15 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cto2b
             extra:
               linkedin_url: https://www.linkedin.com/company/cto2b
+          - item:
+            name: CUE Labs (member)
+            homepage_url: https://cue.dev/
+            logo: cue_labs.svg
+            description: .
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/cue-labs-c550
           - item:
             name: Cuemby Inc. (member)
             homepage_url: https://cuemby.com/
@@ -44651,8 +44660,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-            organization:
-              name: Cloud Native Texas
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-texas
           - item:
             name: CMKL University (member)
             homepage_url: https://cmkl.ac.th/
