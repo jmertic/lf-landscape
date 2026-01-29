@@ -3512,6 +3512,30 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWfD3QAL
             additional_repos: []
           - item:
+            name: CoHDI
+            homepage_url: https://github.com/CoHDI
+            logo: cohdi.svg
+            description: enable data center operators to realize the benefits of cost efficiency, high availability, and sustainability through a disaggregated computing system that assembles the compute, memory, and storage needed for a Kubernetes workload from a pool of physically and logically separate resources
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / AI, ML, Data & Analytics
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/CoHDI/composable-resource-operator
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-01-12'
+              annotations:
+                slug: cohdi
+                project_org: https://github.com/CoHDI
+              dev_stats_url: https://insights.linuxfoundation.org/project/cohdi
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cohdi
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfEYpopjdspXtLKfws
+            additional_repos: []
+          - item:
             name: Common CA Database (CCADB)
             homepage_url: https://ccadb.org/
             logo: common_ca_database_ccadb.svg
