@@ -3512,6 +3512,30 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWfD3QAL
             additional_repos: []
           - item:
+            name: CoHDI
+            homepage_url: https://github.com/CoHDI
+            logo: cohdi.svg
+            description: enable data center operators to realize the benefits of cost efficiency, high availability, and sustainability through a disaggregated computing system that assembles the compute, memory, and storage needed for a Kubernetes workload from a pool of physically and logically separate resources
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / AI, ML, Data & Analytics
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/CoHDI/composable-resource-operator
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-01-12'
+              annotations:
+                slug: cohdi
+                project_org: https://github.com/CoHDI
+              dev_stats_url: https://insights.linuxfoundation.org/project/cohdi
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cohdi
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfEYpopjdspXtLKfws
+            additional_repos: []
+          - item:
             name: Common CA Database (CCADB)
             homepage_url: https://ccadb.org/
             logo: common_ca_database_ccadb.svg
@@ -24843,9 +24867,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/firethorn
           - item:
-            name: Red Hat, Inc. (member)
+            name: Red Hat LLC (member)
             homepage_url: https://redhat.com/
-            logo: red_hat_inc.svg
+            logo: red_hat_llc.svg
             description: Red Hat was established in 1993 and is headquartered in Raleigh, North Carolina. Red Hat is the provider of open source software solutions, using a community-powered approach to provide reliable and high-performing cloud, Linux, middleware, storage, and virtualization technologies. Red Hat also offers support, training, and consulting services. As the connective hub in a global network of enterprises, partners, and open source communities, Red Hat helps create relevant, innovative technologies that liberate resources for growth and prepare customers for the future of IT.
             second_path:
               - Project Membership / OpenJS Foundation
