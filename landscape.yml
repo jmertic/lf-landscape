@@ -437,7 +437,12 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfu8hIyXbmWJ9g5XcU
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/agent2agent/agent2agent_Charter.pdf?v=1750697329076
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/a2aproject/a2a-python
+              - repo_url: https://github.com/a2aproject/a2a-js
+              - repo_url: https://github.com/a2aproject/a2a-java
+              - repo_url: https://github.com/a2aproject/a2a-go
+              - repo_url: https://github.com/a2aproject/a2a-dotnet
           - item:
             name: agentgateway
             homepage_url: https://www.agentgateway.dev/
@@ -4659,7 +4664,7 @@ landscape:
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/Horizont-Europe-Interstore/Data-Space-Connector-Fiware-Data-App
+            repo_url: https://github.com/Horizont-Europe-Interstore/Data-Space-Connector
             license: MIT
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -14066,6 +14071,31 @@ landscape:
                 - name: Charter
                   url: https://www.opnfv.org/wp-content/uploads/sites/12/2018/04/OPNFV-Project-a-Series-of-LF-Projects-LLC-Technical-Charter-4-10-2018.pdf
           - item:
+            name: NNTrainer
+            homepage_url: https://github.com/nntrainer
+            logo: nntrainer.svg
+            description: develop a Software Framework to train neural network models on embedded devices which have relatively limited resources, which fine tunes the neural network model on device with user data for the personalization
+            second_path:
+              - Project Group / LF AI & Data
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/nntrainer/nntrainer
+            license: MIT
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-01-12'
+              annotations:
+                slug: nntrainer
+                project_org: https://github.com/nntrainer
+              dev_stats_url: https://insights.linuxfoundation.org/project/nntrainer
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/nntrainer
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfOLgLorsHYlfjekXt
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/nntrainer/nntrainer_Charter.pdf?v=1768496545095
+            additional_repos: []
+          - item:
             name: NODE Collective
             homepage_url: https://www.nodecollective.org/
             logo: node_collective.svg
@@ -18261,10 +18291,7 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/pqca
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NWnfNQAT
-            additional_repos:
-              - repo_url: https://github.com/PQCA/documentation
-              - repo_url: https://github.com/PQCA/governance
-              - repo_url: https://github.com/PQCA/wiki
+            additional_repos: []
           - item:
             name: Power Grid Model
             homepage_url: https://github.com/PowerGridModel
@@ -24590,7 +24617,7 @@ landscape:
               - Project Group / Open Mainframe Project (OMP)
               - Industry / Cross-Industry
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/zowe/community
+            repo_url: https://github.com/zowe/zowe-explorer-vscode
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-08-03'
@@ -24605,7 +24632,8 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4KHQA1
                 - name: Charter
                   url: https://github.com/openmainframeproject/foundation/raw/main/project_charters/zowe_charter.pdf
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/zowe/community
           - item:
             name: z/VM Community Tools
             homepage_url: https://www.zvmcommunitytools.org/
@@ -27678,17 +27706,6 @@ landscape:
               linkedin: https://www.linkedin.com/company/blecon
             extra:
               linkedin_url: https://www.linkedin.com/company/blecon
-          - item:
-            name: Blockchain Game Partners Inc.(“Gala”) (member)
-            homepage_url: https://gala.com/
-            logo: blockchain_game_partners_inc.svg
-            description: Gala is a pioneering entertainment company in the Web3 space, empowering creators and fans across Games, Music, Film, and VOX. Founded by industry veterans Eric Schiermeyer and Michael McCarthy, Gala collaborates with global talent to innovate and deli...
-            second_path:
-              - Project Membership / LF Decentralized Trust
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/gala-games
-            extra:
-              linkedin_url: https://www.linkedin.com/company/gogala
           - item:
             name: Block, Inc. (member)
             homepage_url: https://block.xyz/
@@ -41039,7 +41056,7 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/tailscale
           - item:
             name: Taiwan AI Cloud Corporation (member)
-            homepage_url: https://asuscloud.com/
+            homepage_url: https://twcloud.ai/
             logo: taiwan_ai_cloud_corporation.svg
             description: Welcome to the ASUS Cloud fan page! Visit http://www.asuscloud.com/
             second_path:
@@ -41390,18 +41407,6 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/terramate
-          - item:
-            name: TestifySec (member)
-            homepage_url: https://testifysec.com/
-            logo: testifysec.svg
-            description: TestifySec is a company that provides a platform to automate the collection, distribution, trust, and evaluation of artifact evidence for secure systems from source to production.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/testifysec
-            twitter: https://twitter.com/testifysec
-            extra:
-              linkedin_url: https://www.linkedin.com/company/testifysec
           - item:
             name: Testkube (member)
             homepage_url: https://testkube.io/
@@ -45469,6 +45474,15 @@ landscape:
             organization:
               name: DLT Research Foundation
           - item:
+            name: DMTF (member)
+            homepage_url: https://dmtf.org/
+            logo: dmtf.svg
+            description: DMTF creates open manageability standards for diverse IT infrastructures, enabling integrated and cost-effective management through interoperable solutions.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: DMTF
+          - item:
             name: Drave Développement (member)
             homepage_url: https://drave.quebec/
             logo: drave_developpement.svg
@@ -45884,6 +45898,16 @@ landscape:
             twitter: https://twitter.com/Epitech
             extra:
               linkedin_url: https://www.linkedin.com/company/epitech
+          - item:
+            name: ERC-3643 Association (member)
+            homepage_url: https://erc3643.org/
+            logo: erc_3643_association.svg
+            description: The ERC3643 Association is a non-profit organization dedicated to promoting the ERC-3643 standard for tokenizing real-world assets (RWAs) with built-in, on-chain compliance. Founded by industry leaders including Tokeny, Apex Group, and Archax, it ensures regulatory compliance for security tokens via identity verification (KYC/AML).
+            second_path:
+              - Project Membership / LF Decentralized Trust
+              - Project Membership / The Linux Foundation
+            organization:
+              name: ERC-3643 Association
           - item:
             name: Erlang Ecosystem Foundation (member)
             homepage_url: https://erlef.org/
