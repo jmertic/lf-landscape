@@ -868,6 +868,7 @@ landscape:
               - Project Group / Alliance for OpenUSD Fund (AOUSDF)
               - PMO Managed / All
               - Technology Sector / Cross-Technology
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/allianceopenusd
             extra:
@@ -3944,6 +3945,7 @@ landscape:
             logo: connected_data_specification_customer_data_working_group_cds_wg3.svg
             description: Secure, standardized access and sharing of customer energy data, including metering, billing, authorization and consent
             second_path:
+              - Project Group / LF Energy Standards and Specifications (LFESS)
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/lfe-cds/CDS-Customer-Data
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
@@ -3964,6 +3966,7 @@ landscape:
             description: |
               Secure, standardized access and sharing of power systems data, including delivery capacities and constraints, generation mix, carbon emissions, imports and exports, and market data
             second_path:
+              - Project Group / LF Energy Standards and Specifications (LFESS)
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/lfe-cds/CDS-Power-Systems-Data
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
@@ -3983,6 +3986,7 @@ landscape:
             logo: connected_data_specification_registration_working_group_cds_wg1.svg
             description: Standardizes and simplifies secure discovery and connectivity between energy data holders and data users
             second_path:
+              - Project Group / LF Energy Standards and Specifications (LFESS)
               - Technology Sector / Safety-Critical Systems
             repo_url: https://github.com/lfe-cds/CDS-Registration
             license: Other
@@ -4407,27 +4411,6 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfCa6T7LZuwZhtN8pb
                 - name: Charter
                   url: https://github.com/cosmosgl/graph/blob/main/CHARTER.md
-          - item:
-            name: COVID Credentials Initiative
-            homepage_url: https://www.covidcreds.org/
-            logo: covid_credentials_initiative.svg
-            description: |-
-              The COVID Credentials Initiative (“CCI”) is an open global community collaborating to enable the interoperable use of open-standard-based privacy-preserving credentials and other related technologies for public health purposes.
-              ‍
-            second_path:
-              - Project Group / LF Public Health (LFPH)
-              - Technology Sector / Privacy & Security
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2021-05-04'
-              annotations:
-                slug: covid-credentials
-              dev_stats_url: https://insights.linuxfoundation.org/project/covid-credentials
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/covid-credentials
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWpbdQAD
           - item:
             name: COVID Green
             homepage_url: https://github.com/covidgreen/covid-green-app
@@ -12619,7 +12602,8 @@ landscape:
             second_path:
               - Technology Sector / Web & Application Development
               - Technology Sector / Visual Effects
-            repo_url: https://github.com/lottie-animation-community/docs
+            repo_url: https://github.com/lottie/lottie-spec
+            license: MIT
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-06-21'
@@ -17698,6 +17682,7 @@ landscape:
               - Project Group / Overture Maps Foundation Fund
               - PMO Managed / All
               - Technology Sector / AI, ML, Data & Analytics
+            license: MIT
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-10-13'
@@ -18291,7 +18276,10 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/pqca
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NWnfNQAT
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/PQCA/documentation
+              - repo_url: https://github.com/PQCA/governance
+              - repo_url: https://github.com/PQCA/wiki
           - item:
             name: Power Grid Model
             homepage_url: https://github.com/PowerGridModel
@@ -22129,6 +22117,7 @@ landscape:
             logo: tazama_anti_financial_crime_working_group.svg
             description: The Working Group will define the rules and configuration required for fraud detection within the Tazama ecosystem.
             second_path:
+              - Project Group / Tazama Anti-Financial Crime Series
               - Technology Sector / Open Source & Compliance Best Practices
             repo_url: https://github.com/frmscoe/.github
             license: Apache-2.0
@@ -22834,6 +22823,7 @@ landscape:
             description: |
               Standardizes the exchange of transmission facility ratings and operating limits to enhance grid interoperability and comply with FERC Order 881
             second_path:
+              - Project Group / LF Energy Standards and Specifications (LFESS)
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/trolie/spec
             license: Apache-2.0
@@ -24617,7 +24607,7 @@ landscape:
               - Project Group / Open Mainframe Project (OMP)
               - Industry / Cross-Industry
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/zowe/zowe-explorer-vscode
+            repo_url: https://github.com/zowe/community
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-08-03'
@@ -24632,8 +24622,7 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4KHQA1
                 - name: Charter
                   url: https://github.com/openmainframeproject/foundation/raw/main/project_charters/zowe_charter.pdf
-            additional_repos:
-              - repo_url: https://github.com/zowe/community
+            additional_repos: []
           - item:
             name: z/VM Community Tools
             homepage_url: https://www.zvmcommunitytools.org/
@@ -26265,7 +26254,6 @@ landscape:
               - Project Membership / OpenJS Foundation
               - Project Membership / Open Container Initiative (OCI)
               - Project Membership / SPDX
-              - Project Membership / Automotive Grade Linux (AGL)
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / TODO Group
@@ -26849,6 +26837,7 @@ landscape:
               - Project Membership / OpenChain Project
               - Project Membership / OpenHPC Project
               - Project Membership / SPDX
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / TODO Group
               - Project Membership / Xen Project
@@ -27998,7 +27987,6 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / FINOS (The Fintech Open Source Foundation)
-              - Project Membership / Overture Maps Foundation Fund
             organization:
               name: BrightQuery
           - item:
@@ -29673,6 +29661,16 @@ landscape:
             twitter: https://twitter.com/controlplaneio
             extra:
               linkedin_url: https://www.linkedin.com/company/controlplane
+          - item:
+            name: ControlPlane Labs (member)
+            homepage_url: https://controlplane-labs.dev/
+            logo: controlplane_labs.svg
+            description: ControlPlane Labs develops control planes that provide guardrails, workflows, and visibility for infrastructure teams, enhancing operational efficiency and security across multiple cloud environments and service providers.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            organization:
+              name: ControlPlane Labs
           - item:
             name: ControlTheory (member)
             homepage_url: https://controltheory.com/
@@ -32635,7 +32633,7 @@ landscape:
             name: Hallo Welt! (member)
             homepage_url: https://hallowelt.com/
             logo: hallo_welt.svg
-            description: Hallo Welt! GmbH in Regensburg is a top provider of MediaWiki software solutions for businesses, specializing in collaborative knowledge bases and services for knowledge and quality management.
+            description: Hallo Welt! GmbH in Regensburg is the company behind BlueSpice, the open source enterprise wiki based on MediaWiki.
             second_path:
               - Project Membership / The Linux Foundation
             organization:
@@ -36051,7 +36049,6 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / LF AI & Data
-              - Project Membership / GraphQL Foundation
             crunchbase: https://www.crunchbase.com/organization/neo-technology
             twitter: https://twitter.com/neo4j
             extra:
@@ -38696,6 +38693,15 @@ landscape:
             twitter: https://twitter.com/ReversingLabs
             extra:
               linkedin_url: https://www.linkedin.com/company/reversinglabs
+          - item:
+            name: Rhythmflows Solutions Pvt Ltd (member)
+            homepage_url: https://rhythmflows.com/
+            logo: rhythmflows_solutions_pvt_ltd.svg
+            description: RhythmFlows is a company that aims to bridge the gap in the Health and Wellness ecosystem through digital platforms. They provide Enterprise Grade software solutions at affordable costs, focusing on long-term relationships with Small & Medium Businesse...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Rhythmflows Solutions Pvt Ltd
           - item:
             name: Ricoh Company, Ltd. (member)
             homepage_url: https://ricoh.com/
@@ -41534,19 +41540,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/foundryteam
           - item:
-            name: The Guild (member)
-            homepage_url: https://the-guild.dev/
-            logo: the_guild.svg
-            description: Large Scale Open Source done right
-            second_path:
-              - Project Membership / The Linux Foundation
-            twitter: https://twitter.com/TheGuildDev
-            organization:
-              name: The Guild
-              linkedin: https://www.linkedin.com/company/the-guild-software
-            extra:
-              linkedin_url: https://www.linkedin.com/company/the-guild-software
-          - item:
             name: The Mastermind Group (member)
             homepage_url: https://tmgitam.com/
             logo: the_mastermind_group.svg
@@ -42204,19 +42197,6 @@ landscape:
             twitter: https://twitter.com/union_ai
             extra:
               linkedin_url: https://www.linkedin.com/company/union-ai
-          - item:
-            name: Uniqconn (member)
-            homepage_url: https://uniqconn.com/
-            logo: uniqconn.svg
-            description: Uniqconn is a leading provider of innovative wireless high-speed data transfer solutions that revolutionize connectivity by replacing traditional cables and connectors. With a focus on creativity and signal integrity, Uniqconn offers 60GHz CMOS RF tran...
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Ultra Ethernet Consortium Fund
-            organization:
-              name: Uniqconn
-              linkedin: https://www.linkedin.com/company/uniqconn
-            extra:
-              linkedin_url: https://www.linkedin.com/company/uniqconn
           - item:
             name: Unravel (member)
             homepage_url: https://unraveldata.com/
@@ -49021,9 +49001,19 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/peng-cheng-laboratory
           - item:
-            name: Penn State (member)
+            name: Penn State Great Valley - The Pennsylvania State University (member)
+            homepage_url: https://greatvalley.psu.edu/
+            logo: penn_state_great_valley_the_pennsylvania_state_university.svg
+            description: The Pennsylvania State University is a public, land-grant, research university with campuses and facilities throughout Pennsylvania.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / LF AI & Data
+            crunchbase: https://www.crunchbase.com/organization/pennsylvania-state-university
+            twitter: https://twitter.com/penn_state
+          - item:
+            name: Penn State University (member)
             homepage_url: https://psu.edu/
-            logo: penn_state.svg
+            logo: penn_state_university.svg
             description: Penn State University is a multicampus state-related, land-grant, space-grant public research university with campuses and facilities throughout Pennsylvania.
             second_path:
               - Project Membership / The Linux Foundation
@@ -49034,15 +49024,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/penn-state-small-business-development-center
           - item:
-            name: Penn State Great Valley - The Pennsylvania State University (member)
-            homepage_url: https://greatvalley.psu.edu/
-            logo: penn_state_great_valley_the_pennsylvania_state_university.svg
-            description: The Pennsylvania State University is a public, land-grant, research university with campuses and facilities throughout Pennsylvania.
+            name: PICMG (member)
+            homepage_url: https://picmg.org/
+            logo: picmg.svg
+            description: PICMG focuses on the collaborative development of open standards for high-performance telecommunications and industrial computing applications, serving the embedded computing markets with specifications such as COM Express, COM HPC, and CompactPCI Serial.
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / LF AI & Data
-            crunchbase: https://www.crunchbase.com/organization/pennsylvania-state-university
-            twitter: https://twitter.com/penn_state
+            organization:
+              name: PICMG
           - item:
             name: PolicyEngine (member)
             homepage_url: https://policyengine.org/
@@ -50385,12 +50374,7 @@ landscape:
             name: The European Organization for Nuclear Research (member)
             homepage_url: https://cern.ch/
             logo: the_european_organization_for_nuclear_research.svg
-            description: |-
-              05278 The European Organization for Nuclear Research, known as CERN, is a European research organization that operates the largest particle physics laboratory in the world.
-
-              --- Merged Data:
-
-              CERN, the European Organization for Nuclear Research, is the world's largest particle physics lab, probing the fundamental structure of particles to understand the Universe using complex scientific instruments.
+            description: 05278 The European Organization for Nuclear Research, known as CERN, is a European research organization that operates the largest particle physics laboratory in the world.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Ceph Foundation
