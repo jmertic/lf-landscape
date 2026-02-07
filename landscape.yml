@@ -18291,7 +18291,10 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/pqca
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NWnfNQAT
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/PQCA/documentation
+              - repo_url: https://github.com/PQCA/governance
+              - repo_url: https://github.com/PQCA/wiki
           - item:
             name: Power Grid Model
             homepage_url: https://github.com/PowerGridModel
@@ -24617,7 +24620,7 @@ landscape:
               - Project Group / Open Mainframe Project (OMP)
               - Industry / Cross-Industry
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/zowe/zowe-explorer-vscode
+            repo_url: https://github.com/zowe/community
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-08-03'
@@ -24632,8 +24635,7 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4KHQA1
                 - name: Charter
                   url: https://github.com/openmainframeproject/foundation/raw/main/project_charters/zowe_charter.pdf
-            additional_repos:
-              - repo_url: https://github.com/zowe/community
+            additional_repos: []
           - item:
             name: z/VM Community Tools
             homepage_url: https://www.zvmcommunitytools.org/
@@ -26265,7 +26267,6 @@ landscape:
               - Project Membership / OpenJS Foundation
               - Project Membership / Open Container Initiative (OCI)
               - Project Membership / SPDX
-              - Project Membership / Automotive Grade Linux (AGL)
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / TODO Group
@@ -26849,6 +26850,7 @@ landscape:
               - Project Membership / OpenChain Project
               - Project Membership / OpenHPC Project
               - Project Membership / SPDX
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / TODO Group
               - Project Membership / Xen Project
@@ -27998,7 +28000,6 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / FINOS (The Fintech Open Source Foundation)
-              - Project Membership / Overture Maps Foundation Fund
             organization:
               name: BrightQuery
           - item:
@@ -32635,7 +32636,7 @@ landscape:
             name: Hallo Welt! (member)
             homepage_url: https://hallowelt.com/
             logo: hallo_welt.svg
-            description: Hallo Welt! GmbH in Regensburg is a top provider of MediaWiki software solutions for businesses, specializing in collaborative knowledge bases and services for knowledge and quality management.
+            description: Hallo Welt! GmbH in Regensburg is the company behind BlueSpice, the open source enterprise wiki based on MediaWiki.
             second_path:
               - Project Membership / The Linux Foundation
             organization:
@@ -36051,7 +36052,6 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / LF AI & Data
-              - Project Membership / GraphQL Foundation
             crunchbase: https://www.crunchbase.com/organization/neo-technology
             twitter: https://twitter.com/neo4j
             extra:
@@ -42204,19 +42204,6 @@ landscape:
             twitter: https://twitter.com/union_ai
             extra:
               linkedin_url: https://www.linkedin.com/company/union-ai
-          - item:
-            name: Uniqconn (member)
-            homepage_url: https://uniqconn.com/
-            logo: uniqconn.svg
-            description: Uniqconn is a leading provider of innovative wireless high-speed data transfer solutions that revolutionize connectivity by replacing traditional cables and connectors. With a focus on creativity and signal integrity, Uniqconn offers 60GHz CMOS RF tran...
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Ultra Ethernet Consortium Fund
-            organization:
-              name: Uniqconn
-              linkedin: https://www.linkedin.com/company/uniqconn
-            extra:
-              linkedin_url: https://www.linkedin.com/company/uniqconn
           - item:
             name: Unravel (member)
             homepage_url: https://unraveldata.com/
@@ -49043,6 +49030,15 @@ landscape:
               - Project Membership / LF AI & Data
             crunchbase: https://www.crunchbase.com/organization/pennsylvania-state-university
             twitter: https://twitter.com/penn_state
+          - item:
+            name: PICMG (member)
+            homepage_url: https://picmg.org/
+            logo: picmg.svg
+            description: PICMG focuses on the collaborative development of open standards for high-performance telecommunications and industrial computing applications, serving the embedded computing markets with specifications such as COM Express, COM HPC, and CompactPCI Serial.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: PICMG
           - item:
             name: PolicyEngine (member)
             homepage_url: https://policyengine.org/
