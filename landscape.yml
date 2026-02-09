@@ -4781,7 +4781,7 @@ landscape:
               - PMO Managed / All
               - Industry / Cross-Industry
               - Technology Sector / Storage
-            repo_url: https://github.com/daos-stack/hdf5-vol-daos
+            repo_url: https://github.com/daos-stack/daos
             license: Other
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/nil
@@ -4797,11 +4797,11 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWh1TQAT
             additional_repos:
+              - repo_url: https://github.com/daos-stack/hdf5-vol-daos
               - repo_url: https://github.com/daos-stack/segy-daos
               - repo_url: https://github.com/daos-stack/google-cloud-daos
               - repo_url: https://github.com/daos-stack/mpich
               - repo_url: https://github.com/daos-stack/tensorflow-io-daos
-              - repo_url: https://github.com/daos-stack/daos
           - item:
             name: Dapr
             homepage_url: https://dapr.io/
