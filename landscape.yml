@@ -4781,7 +4781,7 @@ landscape:
               - PMO Managed / All
               - Industry / Cross-Industry
               - Technology Sector / Storage
-            repo_url: https://github.com/daos-stack/daos
+            repo_url: https://github.com/daos-stack/hdf5-vol-daos
             license: Other
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/nil
@@ -4797,11 +4797,11 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWh1TQAT
             additional_repos:
-              - repo_url: https://github.com/daos-stack/hdf5-vol-daos
               - repo_url: https://github.com/daos-stack/segy-daos
               - repo_url: https://github.com/daos-stack/google-cloud-daos
               - repo_url: https://github.com/daos-stack/mpich
               - repo_url: https://github.com/daos-stack/tensorflow-io-daos
+              - repo_url: https://github.com/daos-stack/daos
           - item:
             name: Dapr
             homepage_url: https://dapr.io/
@@ -5743,6 +5743,26 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfrViYCbiegngDNba1
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/DocLing%20Technical%20Charter%20Final%203-14-2025.docx.pdf
+          - item:
+            name: Docling Graph
+            homepage_url: https://github.com/IBM/docling-graph
+            logo: docling_graph.svg
+            description: enable conversion of documents into a directed, validated knowledge graphs using Vision-Language Models (VLMs) and Large Language Models (LLMs) for structured extraction
+            second_path:
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/IBM/docling-graph
+            license: MIT
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-02-09'
+              annotations:
+                slug: docling-graph
+              dev_stats_url: https://insights.linuxfoundation.org/project/docling-graph
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/docling-graph
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfGsonURwuGzOixeny
           - item:
             name: DocumentDB
             homepage_url: https://documentdb.io/
@@ -10446,11 +10466,11 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfZlFiEgr8fqrlfU7G
             additional_repos:
+              - repo_url: https://github.com/kairos-io/hadron
+              - repo_url: https://github.com/kairos-io/kairos-agent
               - repo_url: https://github.com/kairos-io/provider-kairos
-              - repo_url: https://github.com/kairos-io/osbuilder
-              - repo_url: https://github.com/kairos-io/entangle
-              - repo_url: https://github.com/kairos-io/kcrypt
               - repo_url: https://github.com/kairos-io/AuroraBoot
+              - repo_url: https://github.com/kairos-io/kairos-init
           - item:
             name: Kanister
             homepage_url: https://github.com/kanisterio/kanister
@@ -46466,7 +46486,6 @@ landscape:
             description: The HSE provides public health and social care services to everyone living in Ireland. HSE.ie describes and gives contact details for all Health Services, is home to the Health A-Z database of medical conditions and treatments, and give details of HSE ...
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / LF Public Health (LFPH)
             crunchbase: https://www.crunchbase.com/organization/microsoft
             twitter: https://twitter.com/HSELive
             extra:
