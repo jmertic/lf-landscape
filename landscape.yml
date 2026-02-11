@@ -2179,30 +2179,6 @@ landscape:
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/carbyne-stack/carbyne-stack_Charter.pdf?v=1746547408055
             additional_repos: []
           - item:
-            name: Cardea
-            homepage_url: https://cardea.app/
-            logo: cardea.svg
-            description: Cardea provides a complete ecosystem for creating, transmitting, and storing verifiable digital credentials. Its interoperable infrastructure enables blockchain-rooted, peer-to-peer interactions.
-            second_path:
-              - Project Group / LF Public Health (LFPH)
-              - Technology Sector / Cross-Technology
-            repo_url: https://github.com/thecardeaproject/governance
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2021-05-20'
-              annotations:
-                slug: cardea
-                project_org: https://github.com/thecardeaproject
-              dev_stats_url: https://insights.linuxfoundation.org/project/cardea
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cardea
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWrUsQAL
-                - name: Charter
-                  url: https://github.com/lfph/foundation/blob/main/technical%20project%20charters/Cardea-Technical-Charter.pdf
-            additional_repos: []
-          - item:
             name: Carina
             homepage_url: http://opencarina.com/
             logo: carina.svg
@@ -4411,60 +4387,6 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfCa6T7LZuwZhtN8pb
                 - name: Charter
                   url: https://github.com/cosmosgl/graph/blob/main/CHARTER.md
-          - item:
-            name: COVID Green
-            homepage_url: https://github.com/covidgreen/covid-green-app
-            logo: covid_green.svg
-            description: COVID Green was developed by a team at NearForm as part of the Irish Government’s response to the pandemic.
-            second_path:
-              - Project Group / LF Public Health (LFPH)
-              - Industry / Health Care
-              - Technology Sector / Cross-Technology
-            repo_url: https://github.com/covidgreen/covid-green-app
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            twitter: https://twitter.com/COVIDGreenApp
-            extra:
-              accepted: '2021-01-26'
-              annotations:
-                slug: covid-green
-                project_org: https://github.com/covidgreen
-              dev_stats_url: https://insights.linuxfoundation.org/project/covid-green
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/covid-green
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkV3zQAF
-                - name: Charter
-                  url: https://github.com/lfph/foundation/blob/main/technical%20project%20charters/LF_Public_Health_-_COVID_Green_-_Technical_Charter.pdf
-            additional_repos:
-              - repo_url: https://github.com/covidgreen/covid-green-backend-api
-          - item:
-            name: COVID Shield
-            homepage_url: https://www.covidshield.app/
-            logo: covid_shield.svg
-            description: COVID Shield is a private, secure, and easy-to-use tool to help governments launch their own exposure notification systems. It is based on the exposure notification technology provided by Apple and Google, the most privacy-preserving approach currently available.
-            second_path:
-              - Project Group / LF Public Health (LFPH)
-              - Industry / Health Care
-              - Technology Sector / Web & Application Development
-            repo_url: https://github.com/CovidShield/rationale
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            twitter: https://twitter.com/COVIDShieldApp
-            extra:
-              accepted: '2021-02-22'
-              annotations:
-                slug: covid-shield
-                project_org: https://github.com/CovidShield
-              dev_stats_url: https://insights.linuxfoundation.org/project/covid-shield
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/covid-shield
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkV44QAF
-            additional_repos:
-              - repo_url: https://github.com/CovidShield/mobile
-              - repo_url: https://github.com/CovidShield/server
-              - repo_url: https://github.com/CovidShield/portal
           - item:
             name: covXtreme
             homepage_url: https://lfenergy.org/projects/covxtreme/
@@ -7887,27 +7809,6 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4G0QAL
           - item:
-            name: Global Synchronizer Foundation
-            homepage_url: https://sync.global/
-            logo: global_synchronizer_foundation.svg
-            description: The GSF's mission is to foster the development and growth of the Global Synchronizer in the Canton Network, and facilitate its governance.
-            second_path:
-              - Project Group / The Linux Foundation
-              - PMO Managed / All
-              - Technology Sector / Blockchain
-            license: TBD / NA
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2024-06-24'
-              annotations:
-                slug: global-synchronizer-foundation
-              dev_stats_url: https://insights.linuxfoundation.org/project/global-synchronizer-foundation
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/global-synchronizer-foundation
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfaDg89QRydtPrYJvE
-          - item:
             name: Golang Toolset for VPP (GoVPP)
             homepage_url: https://wiki.fd.io/view/GoVPP
             logo: golang_toolset_for_vpp_govpp.svg
@@ -8543,35 +8444,6 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV44JQAT
             additional_repos: []
-          - item:
-            name: Herald
-            homepage_url: https://www.lfph.io/
-            logo: herald.svg
-            description: Herald helps healthcare app developers to create applications that pass proximity and message data reliably, accurately, and securely to improve human health outcomes. Part of the LF Public Health Umbrella.
-            second_path:
-              - Project Group / LF Public Health (LFPH)
-              - Industry / Health Care
-              - Technology Sector / IoT & Embedded
-              - Technology Sector / Web & Application Development
-            repo_url: https://github.com/theheraldproject/herald-for-android
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2021-02-17'
-              annotations:
-                slug: herald
-                project_org: https://github.com/theheraldproject
-              dev_stats_url: https://insights.linuxfoundation.org/project/herald
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/herald
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWea4QAD
-            additional_repos:
-              - repo_url: https://github.com/theheraldproject/herald-for-ios
-              - repo_url: https://github.com/theheraldproject/herald-for-cpp
-              - repo_url: https://github.com/theheraldproject/herald-hardware
-              - repo_url: https://github.com/theheraldproject/theheraldproject.github.io
-              - repo_url: https://github.com/theheraldproject/herald-analysis
           - item:
             name: Hexa
             homepage_url: https://hexaorchestration.org/
@@ -12206,31 +12078,6 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/lfprojects
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkOVVQA3
-            additional_repos: []
-          - item:
-            name: LF Public Health (LFPH)
-            homepage_url: https://www.lfph.io/
-            logo: lf_public_health_lfph.svg
-            description: Linux Foundation Public Health (LFPH) builds, secures, and sustains open source software to help public health authorities (PHAs) combat COVID-19 and future epidemics.
-            second_path:
-              - Project Group / The Linux Foundation
-              - Industry / Health Care
-              - Technology Sector / Web & Application Development
-              - Technology Sector / AI, ML, Data & Analytics
-              - Technology Sector / Safety-Critical Systems
-            repo_url: https://github.com/lfph/sig-design
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2020-07-20'
-              annotations:
-                slug: lfph
-                project_org: https://github.com/lfph
-              dev_stats_url: https://insights.linuxfoundation.org/project/lfph
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/lfph
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001Iw5W8QAJ
             additional_repos: []
           - item:
             name: Lifecycle SIG
@@ -22536,8 +22383,8 @@ landscape:
               - repo_url: https://github.com/tinkerbell/playground
               - repo_url: https://github.com/tinkerbell/tinkerbell
               - repo_url: https://github.com/tinkerbell/cluster-api-provider-tinkerbell
-              - repo_url: https://github.com/tinkerbell/hook
               - repo_url: https://github.com/tinkerbell/actions
+              - repo_url: https://github.com/tinkerbell/captain
           - item:
             name: Tizen Project
             homepage_url: https://www.tizen.org/
@@ -32863,6 +32710,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/heeddata
           - item:
+            name: Helmet Security (member)
+            homepage_url: https://helmetsecurity.com/
+            logo: helmet_security.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Helmet Security
+          - item:
             name: Helvethink (member)
             homepage_url: https://helvethink.ch/
             logo: helvethink.svg
@@ -35604,6 +35459,36 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/metoro
           - item:
+            name: MetroStar Systems (member)
+            homepage_url: https://metrostar.com/
+            logo: metrostar_systems.svg
+            description: |-
+              Overview
+              MetroStar Systems is an information technology services and management consulting company specializing in emerging technologies within the public sector. MetroStar Systems has set itself apart for having hybrid methodologies that blend the best agile product development and iterative consulting techniques in the industry.
+
+              Our unique culture has garnered numerous awards including 2018 Computerworld's Best Places to Work in IT and 2018 Best Place to Work by Washington Post. 
+
+              Our motto: Innovation doesn't take a break and neither do we. 
+
+              We are ripe and fearless developers, designers, architects, and human factors engineers that work together to develop innovative solutions for our clients. 
+
+              Website https://www.metrostarsystems.com/
+              Industry Information Technology & Services
+              Company size 201-500 employees 
+              228 on LinkedIn 
+              Includes members with current employer listed as MetroStar Systems, including part-time roles.
+              Headquarters Reston, Virginia
+              Type Privately Held 
+              Founded 1999
+              Specialties Enterprise IT, Cyber Security, Digital, Government Contractor, Cloud, Digital, UI/UX, Managed Services, Modernization, Data Visualization, and Mobile Development
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / FinOps Foundation
+            crunchbase: https://www.crunchbase.com/organization/metrostar-systems
+            twitter: https://twitter.com/MetroStarSystem
+            extra:
+              linkedin_url: https://www.linkedin.com/company/metrostar-systems
+          - item:
             name: Mezmo (member)
             homepage_url: https://mezmo.com/
             logo: mezmo.svg
@@ -36337,6 +36222,7 @@ landscape:
             description: Nicus Software empowers organizations to realize their full potential by providing IT Financial Management solutions that include Planning, Cost Modeling, Bill of IT, Application TCO, Cloud and Project Financials. Their software enables IT cost transpa...
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / FinOps Foundation
             organization:
               name: Nicus Software
           - item:
@@ -44600,18 +44486,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/boavizta
           - item:
-            name: Boston Public Health Commission (member)
-            homepage_url: https://bphc.org/
-            logo: boston_public_health_commission.svg
-            description: The Boston Public Health Commission, the oldest health department in the United States, is an independent public agency providing a wide range of health services and programs.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / LF Public Health (LFPH)
-            crunchbase: https://www.crunchbase.com/organization/boston-public-health-commission
-            twitter: https://twitter.com/HealthyBoston
-            extra:
-              linkedin_url: https://www.linkedin.com/company/city-of-boston
-          - item:
             name: Brigham Young University (member)
             homepage_url: https://byu.edu/
             logo: brigham_young_university.svg
@@ -44880,7 +44754,6 @@ landscape:
               - Project Membership / Trust Over IP Project (ToIP)
               - Project Membership / Open 3D Foundation
               - Project Membership / Open Source Security Foundation (OpenSSF)
-              - Project Membership / LF Public Health (LFPH)
               - Project Membership / Linux Foundation Europe
               - Project Membership / OpenWallet Foundation
               - Project Membership / Ultra Ethernet Consortium Fund
@@ -44892,7 +44765,6 @@ landscape:
             description: We are Canada’s primary national forum for the country’s most forward-thinking CIOs to focus on collectively transforming, shaping and influencing the digital ecosystem.
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / LF Public Health (LFPH)
             crunchbase: https://www.crunchbase.com/organization/cio-strategy-council-87aa
             twitter: https://twitter.com/CIOStrategyC
             extra:
@@ -45006,18 +44878,6 @@ landscape:
               linkedin: https://www.linkedin.com/company/koodia-suomesta-ry
             extra:
               linkedin_url: https://www.linkedin.com/company/koodia-suomesta-ry
-          - item:
-            name: Colorado Department of Public Health and Environment (member)
-            homepage_url: https://colorado.gov/cdphe
-            logo: colorado_department_of_public_health_and_environment.svg
-            description: The Colorado Department of Revenue is a state agency in Colorado.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / LF Public Health (LFPH)
-            crunchbase: https://www.crunchbase.com/organization/colorado-department-of-public-health-environment
-            twitter: https://twitter.com/coloradogov
-            extra:
-              linkedin_url: https://www.linkedin.com/company/state-of-colorado
           - item:
             name: Columbia University (member)
             homepage_url: https://columbia.edu/
@@ -45139,17 +44999,6 @@ landscape:
               linkedin: https://www.linkedin.com/company/cdeliveryfdn
             extra:
               linkedin_url: https://www.linkedin.com/company/cdeliveryfdn
-          - item:
-            name: Council of State and Territorial Epidemiologists (member)
-            homepage_url: https://cste.org/
-            logo: council_of_state_and_territorial_epidemiologists.svg
-            description: Council of State and Territorial Epidemiologists
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / LF Public Health (LFPH)
-            crunchbase: https://www.crunchbase.com/organization/cste
-            extra:
-              linkedin_url: https://www.linkedin.com/company/council-of-state-and-territorial-epidemiologists
           - item:
             name: CPQD (member)
             homepage_url: https://cpqd.com.br/
@@ -45299,18 +45148,6 @@ landscape:
             twitter: https://twitter.com/data_foundation
             extra:
               linkedin_url: https://www.linkedin.com/company/datafoundation
-          - item:
-            name: DataKind (member)
-            homepage_url: https://datakind.org/
-            logo: datakind.svg
-            description: Harnessing the power of data science + AI in the service of humanity
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / LF Public Health (LFPH)
-            crunchbase: https://www.crunchbase.com/organization/datakind
-            twitter: https://twitter.com/DataKind
-            extra:
-              linkedin_url: https://www.linkedin.com/company/datakind
           - item:
             name: DeCurret DCP Inc (member)
             homepage_url: https://www.decurret-dcp.com/en/
@@ -46044,18 +45881,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ewha-womans-university
           - item:
-            name: Fachhochschule Kiel (member)
-            homepage_url: https://fh-kiel.de/
-            logo: fachhochschule_kiel.svg
-            description: Kiel University of Applied Sciences
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / LF Public Health (LFPH)
-            crunchbase: https://www.crunchbase.com/organization/university-of-applied-sciences-kiel
-            twitter: https://twitter.com/fh_kiel
-            extra:
-              linkedin_url: https://www.linkedin.com/company/fachhochschule-kiel
-          - item:
             name: Farm Foundation (member)
             homepage_url: https://farmfoundation.org/
             logo: farm_foundation.svg
@@ -46476,20 +46301,8 @@ landscape:
             description: We aggregate Hispanic Health Data into a vendor agnostic, research friendly, Big Data environment for ethical, equitable, and transparent...
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / LF Public Health (LFPH)
             organization:
               name: HealthDataForGood.org
-          - item:
-            name: Health Service Executive Ireland (member)
-            homepage_url: https://hse.ie/eng
-            logo: health_service_executive_ireland.svg
-            description: The HSE provides public health and social care services to everyone living in Ireland. HSE.ie describes and gives contact details for all Health Services, is home to the Health A-Z database of medical conditions and treatments, and give details of HSE ...
-            second_path:
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/microsoft
-            twitter: https://twitter.com/HSELive
-            extra:
-              linkedin_url: https://www.linkedin.com/company/health-service-executive
           - item:
             name: Her Majesty's Government (member)
             homepage_url: https://gov.uk/
@@ -46862,22 +46675,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/innersourcecommons
           - item:
-            name: Institute for Exceptional Care (member)
-            homepage_url: https://ie-care.org/
-            logo: institute_for_exceptional_care.svg
-            description: |-
-              Transforming healthcare for people with intellectual & developmental 
-                disabilities.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / LF Public Health (LFPH)
-            twitter: https://twitter.com/IEC_IDD
-            organization:
-              name: Institute for Exceptional Care
-              linkedin: https://www.linkedin.com/company/institute-for-exceptional-care
-            extra:
-              linkedin_url: https://www.linkedin.com/company/institute-for-exceptional-care
-          - item:
             name: INSTITUTE FOR INFORMATION INDUSTRY (member)
             homepage_url: https://iii.org.tw/
             logo: institute_for_information_industry.svg
@@ -47109,18 +46906,6 @@ landscape:
             organization:
               name: InternLM
           - item:
-            name: Interoperability Institute (member)
-            homepage_url: https://interoperabilityinstitute.org/
-            logo: interoperability_institute.svg
-            description: The Interoperability Institute develops solutions and the next generation workforce to enable organizations to harness the benefits of interoperability at scale
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / LF Public Health (LFPH)
-            crunchbase: https://www.crunchbase.com/organization/interoperability-institute
-            twitter: https://twitter.com/TheInteropInst
-            extra:
-              linkedin_url: https://www.linkedin.com/company/interoperability-institute
-          - item:
             name: InterWork Alliance, Inc. (member)
             homepage_url: https://interwork.org/
             logo: interwork_alliance_inc.svg
@@ -47166,7 +46951,6 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Trust Over IP Project (ToIP)
-              - Project Membership / LF Public Health (LFPH)
             twitter: https://twitter.com/iRespond
             organization:
               name: iRespond Global
@@ -47576,15 +47360,6 @@ landscape:
               linkedin: https://www.linkedin.com/company/leaders-for-climate-action
             extra:
               linkedin_url: https://www.linkedin.com/company/leaders-for-climate-action
-          - item:
-            name: Libra Social Research Foundation (member)
-            homepage_url: https://librasocial.org/
-            logo: libra_social_research_foundation.svg
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / LF Public Health (LFPH)
-            organization:
-              name: Libra Social Research Foundation
           - item:
             name: Linnaeus University (member)
             homepage_url: https://lnu.se/
@@ -48170,23 +47945,6 @@ landscape:
             organization:
               name: Networks For Humanity
           - item:
-            name: New Jersey Office of Innovation (member)
-            homepage_url: https://innovation.nj.gov/
-            logo: new_jersey_office_of_innovation.svg
-            description: |-
-              The Office of Innovation works collaboratively with government, academic, non-profit, and private sector institutions to drive innovation in the Garden State's economy and improve the design and delivery of policies and services to the state's residents, businesses, and institutions.
-
-              --- Merged Data:
-
-              State of New Jersey, New Jersey, Government, State, Employment, ABout NJ, NJ Business, Transportation
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / LF Public Health (LFPH)
-            crunchbase: https://www.crunchbase.com/organization/state-of-new-jersey
-            twitter: https://twitter.com/NJGov
-            extra:
-              linkedin_url: https://www.linkedin.com/company/state-of-new-jersey
-          - item:
             name: New Mexico Consortium (member)
             homepage_url: https://newmexicoconsortium.org/
             logo: new_mexico_consortium.svg
@@ -48304,18 +48062,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/norges-bank
             extra:
               linkedin_url: https://www.linkedin.com/company/norges-bank
-          - item:
-            name: North Carolina Department of Health and Human Services (member)
-            homepage_url: https://ncdhhs.gov/
-            logo: north_carolina_department_of_health_and_human_services.svg
-            description: The North Carolina Department of Health and Human Services is a large state government agency in the US state of North Carolina, somewhat analogous to the United States Department of Health and Human Services.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / LF Public Health (LFPH)
-            crunchbase: https://www.crunchbase.com/organization/nc-department-of-health-and-human-services
-            twitter: https://twitter.com/ncdhhs
-            extra:
-              linkedin_url: https://www.linkedin.com/company/ncdhhs
           - item:
             name: North Dakota State University (member)
             homepage_url: https://ndsu.edu/
@@ -48474,7 +48220,6 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / LF AI & Data
-              - Project Membership / LF Public Health (LFPH)
               - Project Membership / PyTorch Foundation
               - Project Membership / Unified Acceleration Foundation Fund
             twitter: https://twitter.com/onefact_org
@@ -48483,32 +48228,6 @@ landscape:
               linkedin: https://www.linkedin.com/company/onefact
             extra:
               linkedin_url: https://www.linkedin.com/company/onefact
-          - item:
-            name: Onom Foundation (member)
-            homepage_url: https://onomfoundation.org/
-            logo: onom_foundation.svg
-            description: Official Twitter Handle of the Onom Foundation
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / LF Public Health (LFPH)
-            twitter: https://twitter.com/Onom_Foundation
-            organization:
-              name: Onom Foundation
-              linkedin: https://www.linkedin.com/company/onom-foundation
-            extra:
-              linkedin_url: https://www.linkedin.com/company/onom-foundation
-          - item:
-            name: Ontario Brain Institute (member)
-            homepage_url: https://braininstitute.ca/
-            logo: ontario_brain_institute.svg
-            description: The Ontario Brain Institute works to establish Ontario as a world leader in brain research, commercialization and care.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / LF Public Health (LFPH)
-            crunchbase: https://www.crunchbase.com/organization/ontario-brain-institute
-            twitter: https://twitter.com/OntarioBrain
-            extra:
-              linkedin_url: https://www.linkedin.com/company/ontario-brain-institute
           - item:
             name: OpenADR Alliance (member)
             homepage_url: https://openadr.org/
@@ -48945,7 +48664,6 @@ landscape:
               - Project Membership / RISC-V International
               - Project Membership / FINOS (The Fintech Open Source Foundation)
               - Project Membership / Open Source Security Foundation (OpenSSF)
-              - Project Membership / LF Public Health (LFPH)
               - Project Membership / Green Software Foundation Fund
               - Project Membership / Linux Foundation Europe
             crunchbase: https://www.crunchbase.com/organization/openuk
@@ -49366,18 +49084,6 @@ landscape:
             twitter: https://twitter.com/RISEsweden
             extra:
               linkedin_url: https://www.linkedin.com/company/rise-research-institutes-of-sweden
-          - item:
-            name: Resolve to Save Lives (member)
-            homepage_url: https://resolvetosavelives.org/
-            logo: resolve_to_save_lives.svg
-            description: Resolve to Save Lives
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / LF Public Health (LFPH)
-            crunchbase: https://www.crunchbase.com/organization/resolve-to-save-lives
-            twitter: https://twitter.com/ResolveTSL
-            extra:
-              linkedin_url: https://www.linkedin.com/company/resolve-to-save-lives
           - item:
             name: RESOURCE ADVANCEMENT FOR INQUISITIVE KIDS INTERNATIONAL RAFIKI (member)
             homepage_url: https://extremegeo.net/
@@ -49873,6 +49579,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/segueosidi
           - item:
+            name: Siksha 'O' Anusandhan (member)
+            homepage_url: https://soa.ac.in/
+            logo: siksha_o_anusandhan.svg
+            description: Siksha 'O' Anusandhan (SOA) Deemed to be University, located in Bhubaneswar, Odisha, is a prestigious institution accredited with an 'A++' grade by NAAC. Recognized internationally by QS and THE World University Rankings 2023, SOA offers a wide range o...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / PyTorch Foundation
+            organization:
+              name: Siksha 'O' Anusandhan
+          - item:
             name: Silicon Austria Labs GmbH (member)
             homepage_url: https://silicon-austria-labs.com/
             logo: silicon_austria_labs_gmbh.svg
@@ -49961,20 +49677,6 @@ landscape:
             twitter: https://twitter.com/SollersEdu
             extra:
               linkedin_url: https://www.linkedin.com/company/clinical-research-academy-of-america
-          - item:
-            name: SORMAS Foundation gGmbH (member)
-            homepage_url: https://sormas.org/
-            logo: sormas_foundation_ggmbh.svg
-            description: The system uses surveillance and management processes via mobile and web-based application to support the communication between health officers and stakeholders
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / LF Public Health (LFPH)
-            twitter: https://twitter.com/SORMAS_open
-            organization:
-              name: SORMAS Foundation gGmbH
-              linkedin: https://www.linkedin.com/company/sormas
-            extra:
-              linkedin_url: https://www.linkedin.com/company/sormas
           - item:
             name: Soujava (member)
             homepage_url: https://soujava.org.br/
@@ -50696,18 +50398,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/boston-university
           - item:
-            name: UC Davis Health (member)
-            homepage_url: https://health.ucdavis.edu/
-            logo: uc_davis_health.svg
-            description: The University of California, Davis is a public land-grant research university near Davis, California.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / LF Public Health (LFPH)
-            crunchbase: https://www.crunchbase.com/organization/university-of-california-davis
-            twitter: https://twitter.com/ucdavis
-            extra:
-              linkedin_url: https://www.linkedin.com/company/uc-davis
-          - item:
             name: UCLA Trustworthy AI Lab (member)
             homepage_url: https://faculty.stat.ucla.edu/
             logo: ucla_trustworthy_ai_lab.svg
@@ -50963,7 +50653,6 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / RISC-V International
-              - Project Membership / LF Public Health (LFPH)
               - Project Membership / Green Software Foundation Fund
             crunchbase: https://www.crunchbase.com/organization/university-college-london-u-of-london
             twitter: https://twitter.com/uclnews
@@ -51282,18 +50971,6 @@ landscape:
             organization:
               name: University of Richmond
           - item:
-            name: University of Rochester Medical Center (member)
-            homepage_url: https://urmc.rochester.edu/
-            logo: university_of_rochester_medical_center.svg
-            description: The University of Rochester is a private research university in Rochester, New York.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / LF Public Health (LFPH)
-            crunchbase: https://www.crunchbase.com/organization/university-of-rochester-2
-            twitter: https://twitter.com/UofR
-            extra:
-              linkedin_url: https://www.linkedin.com/company/university-of-rochester
-          - item:
             name: University of Rome Tor Vergata (member)
             homepage_url: https://uniroma2.it/
             logo: university_of_rome_tor_vergata.svg
@@ -51427,7 +51104,6 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / The Linux Foundation
               - Project Membership / Trust Over IP Project (ToIP)
-              - Project Membership / LF Public Health (LFPH)
               - Project Membership / Post-Quantum Cryptography Alliance
             crunchbase: https://www.crunchbase.com/organization/university-of-waterloo
             twitter: https://twitter.com/UWaterloo
@@ -51500,18 +51176,6 @@ landscape:
             twitter: https://twitter.com/ucdavis
             extra:
               linkedin_url: https://www.linkedin.com/company/uc-davis
-          - item:
-            name: U.S. Digital Response (member)
-            homepage_url: https://usdigitalresponse.org/
-            logo: u_s.svg
-            description: USDR puts experienced, pro bono technology teams to work in support of public servants responding to the COVID-19 crisis.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / LF Public Health (LFPH)
-            crunchbase: https://www.crunchbase.com/organization/u-s-digital-response
-            twitter: https://twitter.com/USDResponse
-            extra:
-              linkedin_url: https://www.linkedin.com/company/usdr
           - item:
             name: US General Services Administration (member)
             homepage_url: https://gsa.gov/
@@ -51638,18 +51302,6 @@ landscape:
             twitter: https://twitter.com/WallStreetBTC
             extra:
               linkedin_url: https://www.linkedin.com/company/wallstreetblockchainalliance
-          - item:
-            name: Washington State Department of Health (member)
-            homepage_url: https://dshs.wa.gov/
-            logo: washington_state_department_of_health.svg
-            description: Washington (/ˈwɒʃɪŋtən/), officially the State of Washington, is a state in the Pacific Northwest region of the United States.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / LF Public Health (LFPH)
-            crunchbase: https://www.crunchbase.com/organization/washington-state-department-of-health
-            twitter: https://twitter.com/SecureAccessWA
-            extra:
-              linkedin_url: https://www.linkedin.com/company/state-of-washington
           - item:
             name: Washington State University (member)
             homepage_url: https://wsu.edu/
