@@ -6900,6 +6900,26 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkUayQAF
           - item:
+            name: Financial Services Open Source AI Fund
+            homepage_url: https://enrollment.lfx.linuxfoundation.org/?project=financial-services-open-source-ai-fund
+            logo: financial_services_open_source_ai_fund.svg
+            description: The Financial Services Open Source AI Fund would be pooling resources amongst FINSO members to accelerate pre-competitive Open Source AI development in financial services by funding individuals, researchers and companies to develop open source tools, benchmarks, models, and share open data sets.
+            second_path:
+              - Project Group / FINOS (The Fintech Open Source Foundation)
+              - PMO Managed / All
+              - Technology Sector / AI, ML, Data & Analytics
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-06-01'
+              dev_stats_url: https://insights.linuxfoundation.org/project/financial-services-open-source-ai-fund
+              lfx_slug: financial-services-open-source-ai-fund
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/financial-services-open-source-ai-fund
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfF1CVzYlkK7Hiu0Lb
+          - item:
             name: FinOps FOCUS
             homepage_url: https://focus.finops.org/
             logo: finops_focus.svg
@@ -23721,32 +23741,6 @@ landscape:
                 project_org: https://github.com/zopencommunity
             additional_repos: []
           - item:
-            name: Zorse
-            homepage_url: https://zorse.ai/
-            logo: zorse.svg
-            description: |-
-              The mission of the Project is to curate a dataset of production COBOL and associated mainframe languages (JCL, REXX, PL/I) on which Large Language
-              Models (LLMs) can be fine-tuned and develop an evaluation suite to measure LLMs' ability to comprehend, explain, and write code in the associated language.
-            second_path:
-              - Project Group / Open Mainframe Project (OMP)
-              - Technology Sector / AI, ML, Data & Analytics
-              - Technology Sector / Web & Application Development
-            repo_url: https://github.com/zorse-project/COBOLEval
-            license: Apache-2.0
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2024-07-16'
-              dev_stats_url: https://insights.linuxfoundation.org/project/zorse
-              lfx_slug: zorse
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/zorse
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfdtDySeARCxRkGkfK
-              annotations:
-                project_org: https://github.com/zorse-project
-            additional_repos: []
-          - item:
             name: zot
             homepage_url: https://zotregistry.io/
             logo: zot.svg
@@ -25940,18 +25934,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/arcontech-group
             extra:
               linkedin_url: https://www.linkedin.com/company/arcontech
-          - item:
-            name: Arctera (member)
-            homepage_url: https://arctera.io/
-            logo: arctera.svg
-            description: Arctera is a new company separated from Veritas Technologies, dedicated to helping organizations trust, access, and illuminate their data across its full lifecycle. With a mission to deliver market-leading solutions, Arctera serves over 75,000 customer...
-            second_path:
-              - Project Membership / The Linux Foundation
-            organization:
-              name: Arctera
-              linkedin: https://www.linkedin.com/company/arctera-io
-            extra:
-              linkedin_url: https://www.linkedin.com/company/arctera-io
           - item:
             name: Arduino (member)
             homepage_url: https://arduino.cc/
@@ -36111,6 +36093,7 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / LF Edge
               - Project Membership / Confidential Computing Consortium (CCC)
+              - Project Membership / Confidential Computing Consortium (CCC)
               - Project Membership / Linux Foundation Europe
               - Project Membership / Sylva Fund
             crunchbase: https://www.crunchbase.com/organization/opennebula
@@ -39711,7 +39694,7 @@ landscape:
             name: Stacklok (member)
             homepage_url: https://stacklok.com/
             logo: stacklok.svg
-            description: Stacklok is a company dedicated to bringing software supply chain security to developers. They build open source software that developers love, making the world a safer place. Their products include Trusty, a service providing scoring and metrics on pa...
+            description: Stacklok's customers use the Model Context Protocol (MCP) to multiply the impact of their AI agents by securely connecting them to data and systems behind their corporate firewall. Stacklok's MCP Platform allows enterprises to curate a registry of trusted MCP servers, operate a secure gateway, scale MCP with Kubernetes and more. Stacklok's team helps maintain the official MCP registry and builds the popular, open source ToolHive MCP Platform with a growing community of contributors.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -40784,6 +40767,18 @@ landscape:
               - Project Membership / Confidential Computing Consortium (CCC)
             organization:
               name: The SIMI Group
+          - item:
+            name: The Toronto-Dominion Bank (member)
+            homepage_url: https://td.com/
+            logo: the_toronto_dominion_bank.svg
+            description: Headquartered in Toronto, Canada, The Toronto-Dominion Bank and its subsidiaries are collectively known as TD Bank Financial Group (TDBFG). TD Bank Financial Group offers a full range of financial products and services to approximately 18 million customers.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / FINOS (The Fintech Open Source Foundation)
+            crunchbase: https://www.crunchbase.com/organization/toronto-dominion-bank-group
+            twitter: https://twitter.com/TDBank_US
+            extra:
+              linkedin_url: https://www.linkedin.com/company/td
           - item:
             name: The Walt Disney Studios (member)
             homepage_url: https://disney.com/
