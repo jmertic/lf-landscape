@@ -13344,6 +13344,7 @@ landscape:
             second_path:
               - Project Group / The Linux Foundation
               - Technology Sector / Linux Kernel
+              - Technology Sector / Networking & Edge
             license: TBD / NA
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -15631,7 +15632,7 @@ landscape:
             second_path:
               - Project Group / Academy Software Foundation (ASWF)
               - Technology Sector / Visual Effects
-            repo_url: https://github.com/RenderKit/openpgl
+            repo_url: https://github.com/OpenPathGuidingLibrary/openpgl
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -15645,6 +15646,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfYjuePa6OtmW5KjGs
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/openpgl/openpgl_Charter.pdf?v=1762986909995
+              annotations:
+                project_org: https://github.com/OpenPathGuidingLibrary
+            additional_repos: []
           - item:
             name: Open Policy Agent
             homepage_url: https://www.openpolicyagent.org/
@@ -22687,30 +22691,6 @@ landscape:
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/veer/veer_Charter.pdf?v=1751305981355
           - item:
-            name: Veracruz
-            homepage_url: https://veracruz-project.github.io/
-            logo: veracruz.svg
-            description: The mission of the Project is to provide an open platform for exploring privacy-preserving compute, and use-cases thereof, using hardware- and software-based isolation mechanisms.
-            second_path:
-              - Project Group / Confidential Computing Consortium (CCC)
-              - Technology Sector / Cloud, Containers & Virtualization
-              - Technology Sector / Privacy & Security
-            repo_url: https://github.com/veracruz-project/veracruz
-            license: MIT
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            twitter: https://twitter.com/nil
-            extra:
-              accepted: '2021-03-08'
-              dev_stats_url: https://insights.linuxfoundation.org/project/veracruz
-              lfx_slug: veracruz
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/veracruz
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWj7bQAD
-                - name: Charter
-                  url: https://github.com/confidential-computing/governance/blob/master/project-charters/Veracruz_Project_Technical_Charter_03-08-2021.pdf
-          - item:
             name: Veraison
             homepage_url: https://github.com/veraison
             logo: veraison.svg
@@ -24869,6 +24849,7 @@ landscape:
             name: AG2 (member)
             homepage_url: https://ag2.ai/
             logo: ag2.svg
+            description: Multi-agent intelligence, production-ready. Build, orchestrate, and scale AI agent systems with AG2—from the creators of AutoGen.
             second_path:
               - Project Membership / The Linux Foundation
             organization:
@@ -47340,20 +47321,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/next-gen-networks-institute
           - item:
-            name: NgKore (member)
-            homepage_url: https://ngkore.org/
-            logo: ngkore.svg
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / LF Networking (LFN)
-            organization:
-              name: NgKore
-          - item:
             name: NGKORE FOUNDATION (member)
             homepage_url: https://ngkorefoundation.org/
             logo: ngkore_foundation.svg
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / LF Networking (LFN)
               - Project Membership / Post-Quantum Cryptography Alliance
             organization:
               name: NGKORE FOUNDATION
