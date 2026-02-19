@@ -2506,9 +2506,11 @@ landscape:
               annotations:
                 project_org: https://github.com/chapel-lang
             additional_repos:
+              - repo_url: https://github.com/chapel-lang/chapel-vscode
               - repo_url: https://github.com/chapel-lang/chapel-www
               - repo_url: https://github.com/chapel-lang/chapel-blog
               - repo_url: https://github.com/chapel-lang/governance
+              - repo_url: https://github.com/chapel-lang/TSC
           - item:
             name: Charliecloud
             homepage_url: https://hpc.github.io/charliecloud/
@@ -10628,7 +10630,7 @@ landscape:
             name: kpt
             homepage_url: https://github.com/kptdev
             logo: kpt.svg
-            description: kpt is a package-centric toolchain that enables a WYSIWYG configuration authoring, automation, and delivery experience, which simplifies managing Kubernetes platforms and KRM-driven infrastructure at scale by manipulating declarative Configuration as Data.
+            description: The mission of the project is to automate Kubernetes configuration editing.
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
@@ -30928,7 +30930,7 @@ landscape:
             name: FinOpsly Inc. (member)
             homepage_url: https://finopsly.com/
             logo: finopsly_inc.svg
-            description: Maximize your cloud ROI with FinOpsly. Our AI-driven platform empowers organizations with smart cost management, fostering collaboration across teams for over 32% in savings. Simplify your cloud strategy with FinOpsly.
+            description: Map cloud, data, and AI spend to business value - then automatically act to control waste and overruns. Multi-cloud cost optimization for AWS, Azure, GCP, Snowflake, and Databricks.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / FinOps Foundation
@@ -31027,7 +31029,7 @@ landscape:
             name: Fortified (member)
             homepage_url: https://fortified.com/
             logo: fortified.svg
-            description: Fortified Data is a global leader in managed services and database maintenance, offering efficient IT solutions through automation and data analytics.
+            description: Tie workload database performance, capacity, and cost together, so every technical decision has clear business impact.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / FinOps Foundation
@@ -33421,15 +33423,6 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/kedify
-          - item:
-            name: Keep Alerting LTD (member)
-            homepage_url: https://keephq.dev/
-            logo: keep_alerting_ltd.svg
-            description: Keep is an open-source alert management platform that reduces noise, automates workflows, and helps teams focus on critical alerts for faster issue resolution and improved productivity.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/keep-2303
           - item:
             name: Kestrel AI (member)
             homepage_url: https://usekestrel.ai/
@@ -37047,9 +37040,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/previder
           - item:
-            name: Print2Block (member)
+            name: Print2Block Inc. (member)
             homepage_url: https://docchain.io/
-            logo: print2block.svg
+            logo: print2block_inc.svg
             description: DocChain.io by Print2Block is a Blockchain secured Document Issuing System that has secured 58 Million+ documents for Enterprises and Governments, providing instant document authenticity verification through Blockchain QR codes.
             second_path:
               - Project Membership / LF Decentralized Trust
@@ -37094,23 +37087,6 @@ landscape:
             twitter: https://twitter.com/ProfiSea
             extra:
               linkedin_url: https://www.linkedin.com/company/profisea
-          - item:
-            name: ProSiebenSat.1 Tech & Services GmbH (member)
-            homepage_url: https://prosiebensat1.com/
-            logo: prosiebensat.svg
-            description: |-
-              1 Media SE is a European mass media company, based in Germany.
-
-              --- Merged Data:
-
-              1 Media SE is a European mass media company, based in Germany.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/prosiebensat1
-            twitter: https://twitter.com/P7S1Group
-            extra:
-              linkedin_url: https://www.linkedin.com/company/prosiebensat1-media-se
           - item:
             name: ProsperOps (member)
             homepage_url: https://prosperops.com/
@@ -40984,9 +40960,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/tokenovate
           - item:
-            name: TomTom International B.V. (member)
+            name: TomTom international BV (member)
             homepage_url: https://tomtom.com/
-            logo: tomtom_international_b_v.svg
+            logo: tomtom_international_bv.svg
             description: TomTom NV is a Dutch multinational developer and creator of location technology and consumer electronics.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
