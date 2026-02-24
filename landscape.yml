@@ -12993,7 +12993,7 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfl0MmZSFw7MUXaleS
           - item:
             name: Modules
-            homepage_url: https://github.com/envmodules/modules
+            homepage_url: https://www.envmodules.io/
             logo: modules.svg
             description: The mission of the Project is to enable dynamic shell environment management by users with the goal of simplifying access and use of software stacks and environment configurations.
             second_path:
@@ -23767,6 +23767,26 @@ landscape:
                 project_org: https://github.com/zowe
             additional_repos: []
           - item:
+            name: ZTRUST Working Group
+            homepage_url: https://github.com/openmainframeproject/wg-ztrust
+            logo: ztrust_working_group.svg
+            description: The ZTRUST working group exists to educate and inform members of the Z (mainframe) community about cryptographic trust issues, starting with code signing.
+            second_path:
+              - Project Group / Open Mainframe Project (OMP)
+              - Technology Sector / Privacy & Security
+            repo_url: https://github.com/openmainframeproject/wg-ztrust
+            license: Other
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-12-10'
+              dev_stats_url: https://insights.linuxfoundation.org/project/omp-ztrust-wg
+              lfx_slug: omp-ztrust-wg
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/omp-ztrust-wg
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfdubMtvXB2Cw9Ea2j
+          - item:
             name: z/VM Community Tools
             homepage_url: https://www.zvmcommunitytools.org/
             logo: z_vm_community_tools.svg
@@ -24070,6 +24090,7 @@ landscape:
               - Project Membership / KernelCI Foundation
               - Project Membership / ELISA Fund
               - Project Membership / LF Edge
+              - Project Membership / Confidential Computing Consortium (CCC)
               - Project Membership / Open 3D Foundation
               - Project Membership / FINOS (The Fintech Open Source Foundation)
               - Project Membership / Open Source Security Foundation (OpenSSF)
@@ -24089,7 +24110,6 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / TODO Group
               - Project Membership / Academy Software Foundation (ASWF)
-              - Project Membership / Ceph Foundation
               - Project Membership / Confidential Computing Consortium (CCC)
               - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
               - Project Membership / Linux Foundation Europe
@@ -30715,17 +30735,6 @@ landscape:
             organization:
               name: Eve Security
           - item:
-            name: Evonem LLC (member)
-            homepage_url: https://evonem.com/
-            logo: evonem_llc.svg
-            description: Evonem is a company that provides cloud and DevOps services to help businesses optimize their IT infrastructure and operations.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/evonem
-            extra:
-              linkedin_url: https://www.linkedin.com/company/evonem
-          - item:
             name: Excellion Sdn Bhd (member)
             homepage_url: https://excellion.my/
             logo: excellion_sdn_bhd.svg
@@ -37081,6 +37090,23 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/profisea
           - item:
+            name: ProSiebenSat.1 Tech & Services GmbH (member)
+            homepage_url: https://prosiebensat1.com/
+            logo: prosiebensat.svg
+            description: |-
+              1 Media SE is a European mass media company, based in Germany.
+
+              --- Merged Data:
+
+              1 Media SE is a European mass media company, based in Germany.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/prosiebensat1
+            twitter: https://twitter.com/P7S1Group
+            extra:
+              linkedin_url: https://www.linkedin.com/company/prosiebensat1-media-se
+          - item:
             name: ProsperOps (member)
             homepage_url: https://prosperops.com/
             logo: prosperops.svg
@@ -40859,6 +40885,7 @@ landscape:
             name: Thread AI (member)
             homepage_url: https://threadai.com/
             logo: thread_ai.svg
+            description: Thread AI is an AI infrastructure company founded by AI product and engineering leaders from Palantir Technologies. Its AI workflow orchestration infrastructure, Lemma, enables regulated enterprises to build production-ready AI workflows and agents for their critical operations. It empowers enterprises to implement governed, reliable, and controlled AI-powered workflows without replacing their existing tech stack, providing the infrastructure for agents to reason, plan, and act within observable guardrails, at scale.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Open Source Security Foundation (OpenSSF)
