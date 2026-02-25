@@ -22562,6 +22562,29 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWfb0QAD
           - item:
+            name: Utility Rate Plan Exchange
+            homepage_url: https://urpx.org/
+            logo: utility_rate_plan_exchange.svg
+            description: Utility Rate Plan Exchange (URPX) aims to develop a comprehensive, standardized method for representing and exchanging utility rate plan data in machine-accessible format. URPX will provide a solid yet versatile foundation that governments, utilities, vendors, and technology companies can leverage to improve transparency in energy pricing and clean energy procurement. The project builds upon an existing collaboration between NREL and Flux Tailor and aims to address the fragmented approach currently used by vendors who handle rate plan calculations in silos using custom logic and rules-based systems.
+            second_path:
+              - Project Group / LF Energy Standards and Specifications (LFESS)
+              - Technology Sector / IoT & Embedded
+            repo_url: https://github.com/urpx-org/urpx-wg
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-11-05'
+              dev_stats_url: https://insights.linuxfoundation.org/project/utility-rate-plan-exchange
+              lfx_slug: utility-rate-plan-exchange
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/utility-rate-plan-exchange
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfISx1cI6KYboQfjad
+              annotations:
+                project_org: https://github.com/urpx-org
+            additional_repos: []
+          - item:
             name: Valkey
             homepage_url: https://valki.io/
             logo: valkey.svg
@@ -29857,18 +29880,6 @@ landscape:
             organization:
               name: DMetaSoul
           - item:
-            name: DNEG (member)
-            homepage_url: https://dneg.com/
-            logo: dneg.svg
-            description: We are DNEG, one of the world's leading visual effects, animation and stereo conversion companies for feature film and television, with studios in London, Vancouver, Mumbai, Los Angeles, Chennai, Montréal, Chandigarh, Hyderabad and Goa.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Academy Software Foundation (ASWF)
-            crunchbase: https://www.crunchbase.com/organization/double-negative
-            twitter: https://twitter.com/dneg
-            extra:
-              linkedin_url: https://www.linkedin.com/company/dnegvfx
-          - item:
             name: Docker, Inc. (member)
             homepage_url: https://docker.com/
             logo: docker_inc.svg
@@ -29929,6 +29940,18 @@ landscape:
             twitter: https://twitter.com/doradosoftware
             extra:
               linkedin_url: https://www.linkedin.com/companies/dorado-software
+          - item:
+            name: Double Negative Limited (member)
+            homepage_url: https://dneg.com/
+            logo: double_negative_limited.svg
+            description: We are DNEG, one of the world's leading visual effects, animation and stereo conversion companies for feature film and television, with studios in London, Vancouver, Mumbai, Los Angeles, Chennai, Montréal, Chandigarh, Hyderabad and Goa.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Academy Software Foundation (ASWF)
+            crunchbase: https://www.crunchbase.com/organization/double-negative
+            twitter: https://twitter.com/dneg
+            extra:
+              linkedin_url: https://www.linkedin.com/company/dnegvfx
           - item:
             name: Doubleword (member)
             homepage_url: https://doubleword.ai/
@@ -32636,6 +32659,17 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/infisical
           - item:
+            name: Infobip d.o.o (member)
+            homepage_url: https://infobip.com/
+            logo: infobip_d_o.svg
+            description: Infobip is an international IT and telecommunications company.
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/infobip
+            twitter: https://twitter.com/Infobip
+            extra:
+              linkedin_url: https://www.linkedin.com/company/infobip
+          - item:
             name: Infoblox Inc. (member)
             homepage_url: https://infoblox.com/
             logo: infoblox_inc.svg
@@ -34213,17 +34247,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/lmax-group
           - item:
-            name: lnfobip d.o.o (member)
-            homepage_url: https://infobip.com/
-            logo: lnfobip_d_o.svg
-            description: Infobip is an international IT and telecommunications company.
-            second_path:
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/infobip
-            twitter: https://twitter.com/Infobip
-            extra:
-              linkedin_url: https://www.linkedin.com/company/infobip
-          - item:
             name: Lockheed Martin (member)
             homepage_url: https://lmco.com/
             logo: lockheed_martin.svg
@@ -34519,17 +34542,6 @@ landscape:
               - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/matter-labs
-          - item:
-            name: MavenSolutions (member)
-            homepage_url: https://mavensolutions.tech/
-            logo: mavensolutions.svg
-            description: Maven Solutions offers Full Cycle Product Development Services for medium and large businesses worldwide, combining critical business thinking, proven development processes, and deep technology expertise to deliver more than just code.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/maven-solutions-f7b1
-            extra:
-              linkedin_url: https://www.linkedin.com/company/mavengroupcompany
           - item:
             name: Maxon Computer GmbH (member)
             homepage_url: https://maxon.net/
@@ -37443,6 +37455,7 @@ landscape:
             name: Quantrexion – Governance & Risk Intelligence (member)
             homepage_url: https://quantrexion.com/
             logo: quantrexion_governance_risk_intelligence.svg
+            description: .
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Open Source Security Foundation (OpenSSF)
