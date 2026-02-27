@@ -479,7 +479,10 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfZA9uadMdkwBqqHsj
               annotations:
                 project_org: https://github.com/aaif
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/aaif/technical-committee
+              - repo_url: https://github.com/aaif/foundation
+              - repo_url: https://github.com/aaif/.github
           - item:
             name: AGENTS.md
             homepage_url: https://agents.md/
@@ -27497,22 +27500,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/canonical-ltd-
           - item:
-            name: Capgemini (member)
-            homepage_url: https://capgemini.com/
-            logo: capgemini.svg
-            description: |-
-              Founded in 1967, Capgemini provides consulting, technology, and outsourcing services. The company works with its clients to create and provide technology and business solutions that are perfectly adapted to their needs and that help to achieve the desired results. Capgemini is a managed services provider (MSP).
-
-              --- Merged Data:
-
-              Capgemini Polska Sp. z o.o.
-            second_path:
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/cap-gemini
-            twitter: https://twitter.com/Capgemini
-            extra:
-              linkedin_url: https://www.linkedin.com/company/capgemini
-          - item:
             name: Capital One Services LLC (member)
             homepage_url: https://capitalone.com/
             logo: capital_one_services_llc.svg
@@ -32593,7 +32580,6 @@ landscape:
             description: Imagination Technologies Group plc is a global semiconductor and software design company, owned by the Chinese Canyon Bridge Capital Partners.
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / RISC-V International
               - Project Membership / Linux Foundation Europe
               - Project Membership / Unified Acceleration Foundation Fund
             crunchbase: https://www.crunchbase.com/organization/imagination-technologies
@@ -32920,7 +32906,6 @@ landscape:
               - Project Membership / LF Edge
               - Project Membership / CHIPS Alliance Fund
               - Project Membership / Confidential Computing Consortium (CCC)
-              - Project Membership / FINOS (The Fintech Open Source Foundation)
               - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
               - Project Membership / eBPF Foundation
               - Project Membership / Linux Foundation Europe
@@ -33656,19 +33641,6 @@ landscape:
             twitter: https://twitter.com/Komodor_com
             extra:
               linkedin_url: https://www.linkedin.com/company/komodor-ltd
-          - item:
-            name: Kondux (member)
-            homepage_url: https://kondux.io/
-            logo: kondux.svg
-            description: |-
-              Kondux is solving the fundamental problem of 3D asset security, open source interoperability, and ownership rights in an increasingly digital-first creative economy.
-
-              Our platform is built on the idea that 3D assets, AI-driven tools, tokenization pipelines and immersive environments should be lightweight, and accessible to all across multiple tools, platforms, and industries.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Alliance for OpenUSD Fund (AOUSDF)
-            organization:
-              name: Kondux
           - item:
             name: Kong Inc. (member)
             homepage_url: https://konghq.com/
