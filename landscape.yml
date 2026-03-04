@@ -1143,6 +1143,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/hpcng
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkAGQQA3
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/hpcng/hpcng_Charter.pdf?v=1772595550410
           - item:
             name: Architect
             homepage_url: https://arc.codes/
@@ -1636,6 +1638,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/best-practices-badge
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf9LePIW1VHdzG9lFb
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/best-practices-badge/best-practices-badge_Charter.pdf?v=1772596320378
           - item:
             name: Besu
             homepage_url: https://www.hyperledger.org/projects/besu
@@ -1658,7 +1662,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IfR7uQAF
                 - name: Charter
-                  url: https://www.hyperledger.org/about/charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/besu/besu_Charter.pdf?v=1772578417381
           - item:
             name: BFE
             homepage_url: https://www.bfe-networks.net/en_us/
@@ -1758,6 +1762,7 @@ landscape:
               - Technology Sector / Web & Application Development
               - Technology Sector / AI, ML, Data & Analytics
             repo_url: https://github.com/reactor/BlockHound
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-04-19'
@@ -1768,6 +1773,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/blockhound
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWio5QAD
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/blockhound/blockhound_Charter.pdf?v=1772576184067
           - item:
             name: bomctl
             homepage_url: https://github.com/bomctl/bomctl
@@ -2533,6 +2540,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/charliecloud
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfPYo2dmSJzlx9aIR6
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/charliecloud/charliecloud_Charter.pdf?v=1772579278687
           - item:
             name: CHIPS Alliance Fund
             homepage_url: https://chipsalliance.org/
@@ -5939,6 +5948,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ehr-wallet
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfza6zO9ScakgMfOj5
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/ehr-wallet/ehr-wallet_Charter.pdf?v=1772578975727
           - item:
             name: eKuiper
             homepage_url: https://github.com/lf-edge/ekuiper
@@ -7286,6 +7297,7 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/Call-for-Code-for-Racial-Justice/Call-for-Code-for-Racial-Justice
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-02-17'
@@ -7296,6 +7308,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/racial-justice
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWh8FQAT
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/racial-justice/racial-justice_Charter.pdf?v=1772579827400
               annotations:
                 project_org: https://github.com/Call-for-Code-for-Racial-Justice
             additional_repos:
@@ -12911,6 +12925,7 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / Web & Application Development
             repo_url: https://github.com/MobileNativeFoundation/Store
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-10-15'
@@ -12921,6 +12936,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/mobile-native
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkXgFQAV
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/mobile-native/mobile-native_Charter.pdf?v=1772579322421
               annotations:
                 project_org: https://github.com/MobileNativeFoundation
             additional_repos: []
@@ -13291,8 +13308,10 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/neonephos-foundation
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfGnr1MCq2lbKUf6f7
+              youtube_url: https://www.youtube.com/channel/UCqTJlPfPRAynwpcNI0O7xkw
               annotations:
                 project_org: https://github.com/neonephos
+              linkedin_url: https://www.linkedin.com/company/neonephos-foundation/
             additional_repos: []
           - item:
             name: Nephio Project
@@ -23915,6 +23934,7 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / Zephyr Project
+              - Project Membership / LF Energy (LFE)
               - Project Membership / KernelCI Foundation
               - Project Membership / CHIPS Alliance Fund
               - Project Membership / Confidential Computing Consortium (CCC)
@@ -25266,6 +25286,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/alibaba-group
           - item:
+            name: Alice (member)
+            homepage_url: https://alice.io/
+            logo: alice.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Alice
+          - item:
             name: Alif Semiconductor (member)
             homepage_url: https://alifsemi.com/
             logo: alif_semiconductor.svg
@@ -25857,19 +25885,6 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/a37
           - item:
-            name: Applied Blockchain (member)
-            homepage_url: https://appliedblockchain.com/
-            logo: applied_blockchain.svg
-            description: We Develop Applications with Enhanced Trust and Privacy
-            second_path:
-              - Project Membership / LF Decentralized Trust
-              - Project Membership / The Linux Foundation
-              - Project Membership / Confidential Computing Consortium (CCC)
-            crunchbase: https://www.crunchbase.com/organization/applied-blockchain
-            twitter: https://twitter.com/AppBlockchain
-            extra:
-              linkedin_url: https://www.linkedin.com/company/applied-blockchain
-          - item:
             name: Applied Materials (member)
             homepage_url: https://appliedmaterials.com/
             logo: applied_materials.svg
@@ -26193,6 +26208,15 @@ landscape:
               - Project Membership / The Linux Foundation
             organization:
               name: ASAPP
+          - item:
+            name: Ascendra Networks (member)
+            homepage_url: https://ascendranetworks.com/
+            logo: ascendra_networks.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / FinOps Foundation
+            organization:
+              name: Ascendra Networks
           - item:
             name: Ascensio System SIA (member)
             homepage_url: https://onlyoffice.com/
@@ -35319,7 +35343,12 @@ landscape:
             name: Mpiric Software (member)
             homepage_url: https://mpiricsoftware.com/
             logo: mpiric_software.svg
-            description: Mpiric Software is a respected web design & app development company offering custom solutions globally, specializing in web design, development, SEO, and custom software at affordable prices.
+            description: |-
+              Mpiric specializes in providing professional Linux and Unix development services that help businesses build robust, secure, and scalable software solutions using open-source technologies. Their Linux offerings are designed to support a variety of environments, from enterprise backend systems to embedded devices and cloud infrastructure.
+
+              Key aspects of their Linux development expertise include custom Linux software development, where they build high-performance, stable applications optimized for Linux platforms and tailored to specific business requirements. They also offer embedded Linux development, creating compact and efficient firmware and software solutions for IoT devices, industrial systems, and hardware with limited resources. In addition, Mpiric provides Linux consulting and training services, assessing existing systems and delivering strategic guidance on Linux architecture, open-source strategies, and in-house team training.
+
+              Their services further cover kernel-level customization, system integration, performance optimization, security hardening, and long-term support to ensure that Linux-based solutions remain reliable, secure, and maintainable over time.
             second_path:
               - Project Membership / The Linux Foundation
             organization:
@@ -39798,18 +39827,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/spitzkop
           - item:
-            name: Splunk Inc. (member)
-            homepage_url: https://splunkdlt.com/
-            logo: splunk_inc.svg
-            description: Splunk is helping to accelerate the adoption of Distributed Ledger Technologies (DLT) by helping organizations avoid downtime, secure their infrastructure, and make the data generated by blockchains accessible to anyone.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/splunk
-            twitter: https://twitter.com/splunk
-            extra:
-              linkedin_url: https://www.linkedin.com/company/splunk
-          - item:
             name: Spotify AB (member)
             homepage_url: https://spotify.com/
             logo: spotify_ab.svg
@@ -43925,7 +43942,6 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Zephyr Project
-              - Project Membership / RISC-V International
             crunchbase: https://www.crunchbase.com/organization/beagleboard
             twitter: https://twitter.com/beagleboardorg
             extra:
@@ -44366,7 +44382,6 @@ landscape:
               The Cloud Native Computing Foundation is a Linux Foundation project that was founded in 2015 to help advance container technology and align the tech industry around its evolution.
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / RISC-V International
               - Project Membership / FinOps Foundation
               - Project Membership / Inclusive Naming Initiative Fund (INI)
             twitter: https://twitter.com/CloudNativeFdn
@@ -44933,7 +44948,6 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / Zephyr Project
               - Project Membership / LF Edge
-              - Project Membership / RISC-V International
               - Project Membership / Open Source Security Foundation (OpenSSF)
             crunchbase: https://www.crunchbase.com/organization/eclipse-foundation
             twitter: https://twitter.com/EclipseFdn
@@ -45537,7 +45551,6 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / OpenPOWER Foundation
-              - Project Membership / RISC-V International
             crunchbase: https://www.crunchbase.com/organization/forschungszentrum-julich
             twitter: https://twitter.com/fz_juelich
             extra:
@@ -46417,7 +46430,6 @@ landscape:
             logo: international_journal_of_law_ethics_and_technology.svg
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / RISC-V International
             organization:
               name: International Journal of Law, Ethics, and Technology
               linkedin: https://www.linkedin.com/company/ijlet
@@ -47883,7 +47895,6 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / Zephyr Project
               - Project Membership / LF AI & Data
-              - Project Membership / RISC-V International
               - Project Membership / Linux Foundation Europe
             organization:
               name: OpenAtom openEuler
@@ -48253,7 +48264,6 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / LF AI & Data
               - Project Membership / LF Energy (LFE)
-              - Project Membership / RISC-V International
               - Project Membership / FINOS (The Fintech Open Source Foundation)
               - Project Membership / Open Source Security Foundation (OpenSSF)
               - Project Membership / Green Software Foundation Fund
@@ -48582,7 +48592,6 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / The Linux Foundation
-              - Project Membership / RISC-V International
             crunchbase: https://www.crunchbase.com/organization/qazaq-open-source-initiative
           - item:
             name: Quantum Village (member)
@@ -48972,6 +48981,17 @@ landscape:
             twitter: https://twitter.com/SandiaLabs
             extra:
               linkedin_url: https://www.linkedin.com/company/sandia-national-laboratories
+          - item:
+            name: San Jose State University (member)
+            homepage_url: https://sjsu.edu/
+            logo: san_jose_state_university.svg
+            description: San Jose State University is a comprehensive public university located in San Jose, California. It is the founding school of the 23 campus California State University System, and holds the distinction of being the oldest public institution of higher education on the West coast of the United States.
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/san-jose-state-university-3
+            twitter: https://twitter.com/SJSU
+            extra:
+              linkedin_url: https://www.linkedin.com/company/san-jose-state-university
           - item:
             name: SARAO (South African Radio Astronomy Observatory) (member)
             homepage_url: https://ska.ac.za/
@@ -49741,7 +49761,6 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / OpenPOWER Foundation
-              - Project Membership / RISC-V International
             crunchbase: https://www.crunchbase.com/organization/the-freebsd-foundation
             twitter: https://twitter.com/freebsdfndation
             extra:
@@ -49922,6 +49941,7 @@ landscape:
                 Society Library program.
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
             twitter: https://twitter.com/SocietyLibrary
             organization:
               name: The Society Library
