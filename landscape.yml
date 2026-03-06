@@ -2722,6 +2722,7 @@ landscape:
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
+            repo_url: https://github.com/citylearn-project/CityLearn
             license: MIT
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -2735,6 +2736,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfp8rrlK6FDsO9wk2q
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/citylearn/citylearn_Charter.pdf?v=1764754270554
+              annotations:
+                project_org: https://github.com/citylearn-project
+            additional_repos: []
           - item:
             name: Civil Infrastructure Platform (CIP)
             homepage_url: https://www.cip-project.org/
@@ -8444,6 +8448,28 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/hpc-toolkit
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfsp4HMcd5XsR73MVm
+          - item:
+            name: HPX
+            homepage_url: https://www.hpx.dev/
+            logo: hpx.svg
+            description: The mission of the Project is to provide a versatile and portable C++ runtime system designed to support parallel and distributed applications.
+            second_path:
+              - Project Group / High Performance Software Foundation (HPSF)
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/STEllAR-GROUP/hpx
+            license: Other
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-02'
+              dev_stats_url: https://insights.linuxfoundation.org/project/hpx
+              lfx_slug: hpx
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/hpx
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfjBfh0ps7bY2lSZJK
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/hpx/hpx_Charter.pdf?v=1772584760670
           - item:
             name: Hubble.gl
             homepage_url: https://hubble.gl/
@@ -15363,7 +15389,7 @@ landscape:
               annotations:
                 project_org: https://github.com/openjs-foundation
             additional_repos:
-              - repo_url: https://github.com/openjs-foundation/security-collab-space
+              - repo_url: https://github.com/openjs-foundation/security-wg
               - repo_url: https://github.com/openjs-foundation/standards
               - repo_url: https://github.com/openjs-foundation/ai-collab-space
               - repo_url: https://github.com/openjs-foundation/open-visualization
@@ -25505,7 +25531,7 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/amazee.io
           - item:
             name: Amazon Web Services, Inc. (member)
-            homepage_url: https://amazon.com/
+            homepage_url: https://aws.amazon.com/
             logo: amazon_web_services_inc.svg
             description: Amazon.com, Inc. is an online retailer, offering new, refurbished and used products including books, DVDs, CDs, MP3 downloads, software, video games, electronics, furniture, apparel, jewelry, and toys. The company also manufactures consumer electronics (notably the Amazon Kindle and the Kindle Fire) and provides cloud computing services. Amazon is a publicly owned company and is based out of Seattle, WA.
             second_path:
@@ -35385,6 +35411,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/napatech
           - item:
+            name: Natoma (member)
+            homepage_url: https://natoma.ai/
+            logo: natoma.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Natoma
+          - item:
             name: NatWest (member)
             homepage_url: https://natwest.com/
             logo: natwest.svg
@@ -38163,6 +38197,15 @@ landscape:
             organization:
               name: Revefi Inc
           - item:
+            name: Revenium (member)
+            homepage_url: https://revenium.ai/
+            logo: revenium.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / FinOps Foundation
+            organization:
+              name: Revenium
+          - item:
             name: ReversingLabs (member)
             homepage_url: https://reversinglabs.com/
             logo: reversinglabs.svg
@@ -38174,15 +38217,6 @@ landscape:
             twitter: https://twitter.com/ReversingLabs
             extra:
               linkedin_url: https://www.linkedin.com/company/reversinglabs
-          - item:
-            name: Rhythmflows Solutions Pvt Ltd (member)
-            homepage_url: https://rhythmflows.com/
-            logo: rhythmflows_solutions_pvt_ltd.svg
-            description: RhythmFlows is a company that aims to bridge the gap in the Health and Wellness ecosystem through digital platforms. They provide Enterprise Grade software solutions at affordable costs, focusing on long-term relationships with Small & Medium Businesse...
-            second_path:
-              - Project Membership / The Linux Foundation
-            organization:
-              name: Rhythmflows Solutions Pvt Ltd
           - item:
             name: Ricoh Company, Ltd. (member)
             homepage_url: https://ricoh.com/
@@ -41379,6 +41413,15 @@ landscape:
               - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
             organization:
               name: TripleID Solutions
+          - item:
+            name: Tron Tech Limited (member)
+            homepage_url: https://trondao.org/
+            logo: tron_tech_limited.svg
+            description: TRON DAO is a decentralized autonomous organization empowering developers to create decentralized apps and leading innovations in blockchain technology.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Tron Tech Limited
           - item:
             name: TrueFoundry (member)
             homepage_url: https://truefoundry.com/
