@@ -1037,6 +1037,28 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkTuOQAV
           - item:
+            name: Apostille
+            homepage_url: https://github.com/openwallet-foundation-labs/apostille
+            logo: apostille.svg
+            description: Apostille is a comprehensive open-source platform for issuing, managing, and verifying digital credentials built on open standards.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/openwallet-foundation-labs/apostille
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-06'
+              dev_stats_url: https://insights.linuxfoundation.org/project/apostille
+              lfx_slug: apostille
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/apostille
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfW3zFWz5qCOEuamKU
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/apostille/apostille_Charter.pdf?v=1772827090012
+          - item:
             name: App Defense Alliance Fund
             homepage_url: https://appdefensealliance.dev/
             logo: app_defense_alliance_fund.svg
@@ -18904,31 +18926,6 @@ landscape:
               - repo_url: https://github.com/rook/operator-kit
               - repo_url: https://github.com/rook/artwork
           - item:
-            name: RosaeNLG Project
-            homepage_url: https://github.com/RosaeNLG/
-            logo: rosaenlg_project.svg
-            description: An open source natural generation library.
-            second_path:
-              - Project Group / LF AI & Data
-              - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/RosaeNLG/rosaenlg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2021-04-14'
-              dev_stats_url: https://insights.linuxfoundation.org/project/rosaenlg
-              lfx_slug: rosaenlg
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/rosaenlg
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWl7wQAD
-                - name: Charter
-                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/rosaenlg%20technical%20charter_04.14.21.pdf
-              annotations:
-                project_org: https://github.com/RosaeNLG
-            additional_repos:
-              - repo_url: https://github.com/RosaeNLG/rosaenlg-java
-          - item:
             name: RSocket
             homepage_url: https://rsocket.io/
             logo: rsocket.svg
@@ -27603,6 +27600,7 @@ landscape:
               - Project Membership / Open Mainframe Project (OMP)
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+              - Project Membership / Zephyr Project
               - Project Membership / LF Networking (LFN)
               - Project Membership / Academy Software Foundation (ASWF)
               - Project Membership / Ceph Foundation
@@ -42048,6 +42046,22 @@ landscape:
               linkedin: https://www.linkedin.com/company/vercel
             extra:
               linkedin_url: https://www.linkedin.com/company/vercel
+          - item:
+            name: VeriSign, Inc. (member)
+            homepage_url: https://verisign.com/
+            logo: verisign_inc.svg
+            description: |-
+              Founded in 1995, Verisign is a global leader in domain names and internet security, enables internet navigation for many of the world's most recognized domain names and provides protection for websites and enterprises around the world. Verisign ensures the security, stability, and resiliency of key internet infrastructure and services, including the .com and .net domains and two of the internet's root servers, as well as performs the root zone maintainer function for the core of the internet's Domain Name System (DNS). Verisign's Security Services include intelligence-driven Distributed Denial of Service Protection, iDefense Security Intelligence, and Managed DNS.
+
+              --- Merged Data:
+
+              Verisign enables the security, stability and resiliency of key internet infrastructure and services, including the .com and .net domains. The domains that define the internet are Powered by Verisign.
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/verisign
+            twitter: https://twitter.com/VERISIGN
+            extra:
+              linkedin_url: https://www.linkedin.com/company/verisign
           - item:
             name: VeriSilicon, Inc. (member)
             homepage_url: https://verisilicon.com/
