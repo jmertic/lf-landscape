@@ -7030,7 +7030,7 @@ landscape:
               - PMO Managed / All
               - Industry / Financials
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/finos/FDC3
+            repo_url: https://github.com/finos/legend
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-06-30'
@@ -7044,8 +7044,8 @@ landscape:
               annotations:
                 project_org: https://github.com/finos
             additional_repos:
+              - repo_url: https://github.com/finos/FDC3
               - repo_url: https://github.com/finos/compliant-financial-infrastructure
-              - repo_url: https://github.com/finos/legend
               - repo_url: https://github.com/finos/waltz
               - repo_url: https://github.com/finos/morphir
           - item:
@@ -20485,7 +20485,7 @@ landscape:
               - Technology Sector / Web & Application Development
               - Technology Sector / Open Source & Compliance Best Practices
               - Technology Sector / Privacy & Security
-            repo_url: https://github.com/spdx/spdx-3-model
+            repo_url: https://github.com/spdx/license-list-data
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/nil
             extra:
@@ -20500,6 +20500,7 @@ landscape:
               annotations:
                 project_org: https://github.com/spdx
             additional_repos:
+              - repo_url: https://github.com/spdx/spdx-3-model
               - repo_url: https://github.com/spdx/spdx-spec
               - repo_url: https://github.com/spdx/tools-python
               - repo_url: https://github.com/spdx/license-list-XML
@@ -24642,18 +24643,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/acc-ict
           - item:
-            name: Accuknox (member)
-            homepage_url: https://accuknox.com/
-            logo: accuknox.svg
-            description: Accuknox.com
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/accuknox
-            twitter: https://twitter.com/AccuKnox
-            extra:
-              linkedin_url: https://www.linkedin.com/company/accuknox
-          - item:
             name: ACKSTORM (member)
             homepage_url: https://ackstorm.com/
             logo: ackstorm.svg
@@ -27284,6 +27273,15 @@ landscape:
               linkedin: https://www.linkedin.com/company/brbpo
             extra:
               linkedin_url: https://www.linkedin.com/company/brbpo
+          - item:
+            name: Brevis (member)
+            homepage_url: https://brevis.network/
+            logo: brevis.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
+            organization:
+              name: Brevis
           - item:
             name: Bright Machines, Inc. (member)
             homepage_url: https://brightmachines.com/
@@ -32167,7 +32165,6 @@ landscape:
             logo: hcl_technologies_ltd.svg
             description: HCL Technologies is an Indian multinational information technology services & consulting company that offers services in IT and business services, engineering and R&D services, and products and platforms.
             second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / FinOps Foundation
               - Project Membership / Alliance for OpenUSD Fund (AOUSDF)
@@ -32485,7 +32482,7 @@ landscape:
             name: Hush Security (member)
             homepage_url: https://hush.security/
             logo: hush_security.svg
-            description: The first secretless access management platform. Hush replaces vaults with policy-driven, real-time controls to secure machine-to-machine communication.
+            description: Hush Security is the first unified access management platform for agentic AI and non-human identities, extending identity-based access, runtime visibility, and centralized governance across any environment.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -33461,19 +33458,6 @@ landscape:
             twitter: https://twitter.com/JetstackHQ
             extra:
               linkedin_url: https://www.linkedin.com/company/jetstack
-          - item:
-            name: JFrog, Inc (member)
-            homepage_url: https://jfrog.com/
-            logo: jfrog_inc.svg
-            description: Founded in 2008, JFrog Ltd develops and provides a binary repository management solution for software distribution to software developers. The company offers Bintray, a community SaaS social platform for developers to distribute, store, download, and share software packages. The company is headquartered in Sunnyvale, California.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-              - Project Membership / Open Source Security Foundation (OpenSSF)
-            crunchbase: https://www.crunchbase.com/organization/jfrog-ltd
-            twitter: https://twitter.com/jfrog
-            extra:
-              linkedin_url: https://www.linkedin.com/company/jfrog-ltd
           - item:
             name: Jiangsu Bocloud Technology Co., Ltd. (BoCloud) (member)
             homepage_url: https://beyondcent.com/
@@ -35234,6 +35218,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+              - Project Membership / Open Source Security Foundation (OpenSSF)
             crunchbase: https://www.crunchbase.com/organization/minimus-077e
           - item:
             name: MIPS Tech LLC. (member)
@@ -39828,7 +39813,7 @@ landscape:
             name: SPARE Consulting (member)
             homepage_url: https://spare-consulting.com/
             logo: spare_consulting.svg
-            description: Cabinet de conseil FinOps certifié et spécialisé dans l'optimisation des coûts et licences Cloud. Expertise en stratégie Cloud, FinOps, Software Asset Management, GreenOps et formations certifiantes FinOps.
+            description: Cabinet de conseil FinOps certifié en Suisse. Experts en optimisation des coûts Cloud AWS, Azure, GCP, Snowflake, Databricks. Gouvernance FinOps, SAM, GreenOps et formations certifiantes. Lausanne, Genève, Zurich.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / FinOps Foundation
