@@ -538,6 +538,29 @@ landscape:
               - repo_url: https://github.com/agntcy/identity
               - repo_url: https://github.com/agntcy/oasf
           - item:
+            name: Agones
+            homepage_url: https://agones.dev/site/
+            logo: agones.svg
+            description: enable dedicated game server hosting and scaling on Kubernetes using standard Kubernetes APIs and tooling
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/agones-dev/agones
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-11'
+              dev_stats_url: https://insights.linuxfoundation.org/project/agones
+              lfx_slug: agones
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/agones
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfkwDJ41kZoKK6jq3A
+              annotations:
+                project_org: https://github.com/agones-dev
+            additional_repos: []
+          - item:
             name: AgStack
             homepage_url: https://agstack.org/
             logo: agstack.svg
@@ -4142,6 +4165,7 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / Cloud, Containers & Virtualization
             repo_url: https://github.com/coredns/coredns
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2017-02-27'
@@ -7030,7 +7054,7 @@ landscape:
               - PMO Managed / All
               - Industry / Financials
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/finos/legend
+            repo_url: https://github.com/finos/FDC3
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-06-30'
@@ -7044,8 +7068,8 @@ landscape:
               annotations:
                 project_org: https://github.com/finos
             additional_repos:
-              - repo_url: https://github.com/finos/FDC3
               - repo_url: https://github.com/finos/compliant-financial-infrastructure
+              - repo_url: https://github.com/finos/legend
               - repo_url: https://github.com/finos/waltz
               - repo_url: https://github.com/finos/morphir
           - item:
@@ -10585,6 +10609,7 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
             repo_url: https://github.com/ko-build/ko
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-12-13'
@@ -10693,7 +10718,7 @@ landscape:
             additional_repos: []
           - item:
             name: kpt
-            homepage_url: https://github.com/kptdev
+            homepage_url: https://kpt.dev/
             logo: kpt.svg
             description: The mission of the project is to automate Kubernetes configuration editing.
             second_path:
@@ -15440,7 +15465,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf6RrWwbl31D92u3Jc
                 - name: Charter
-                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/open-key-chain-manager/open-key-chain-manager_Charter.pdf?v=1764684098991
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/open-key-chain-manager/open-key-chain-manager_Charter.pdf?v=1773332568720
               annotations:
                 project_org: https://github.com/openkcm
             additional_repos: []
@@ -20485,7 +20510,7 @@ landscape:
               - Technology Sector / Web & Application Development
               - Technology Sector / Open Source & Compliance Best Practices
               - Technology Sector / Privacy & Security
-            repo_url: https://github.com/spdx/license-list-data
+            repo_url: https://github.com/spdx/spdx-3-model
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/nil
             extra:
@@ -20500,7 +20525,6 @@ landscape:
               annotations:
                 project_org: https://github.com/spdx
             additional_repos:
-              - repo_url: https://github.com/spdx/spdx-3-model
               - repo_url: https://github.com/spdx/spdx-spec
               - repo_url: https://github.com/spdx/tools-python
               - repo_url: https://github.com/spdx/license-list-XML
@@ -24228,7 +24252,6 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / TODO Group
-              - Project Membership / Ultra Ethernet Consortium Fund
             crunchbase: https://www.crunchbase.com/organization/baidu
             twitter: https://twitter.com/Baidu_Inc
             extra:
@@ -26098,7 +26121,6 @@ landscape:
             description: ARM Ltd. is a British semiconductor and software design company. The company develops microprocessors based on reduced instruction set computing that is licensed by more than 250 computer chip manufacturers. They serve a wide range of industries including automotive, healthcare, infrastructure, IoT, mobile, smart homes, and wearables. ARM has sold 1,379 licenses to more than 450 partners. The company was founded in 1990 and is headquartered in the UK
             second_path:
               - Project Membership / OpenChain Project
-              - Project Membership / OpenHPC Project
               - Project Membership / SPDX
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
