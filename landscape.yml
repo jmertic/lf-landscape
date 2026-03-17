@@ -13201,6 +13201,28 @@ landscape:
                 project_org: https://github.com/moon
             additional_repos: []
           - item:
+            name: MoonRay
+            homepage_url: https://www.openmoonray.org/
+            logo: moonray.svg
+            description: develop a state-of-the-art production MCRT renderer
+            second_path:
+              - Project Group / Academy Software Foundation (ASWF)
+              - Technology Sector / Visual Effects
+            repo_url: https://github.com/dreamworksanimation/openmoonray
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-10'
+              dev_stats_url: https://insights.linuxfoundation.org/project/moonray
+              lfx_slug: moonray
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/moonray
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfaDrcxHo8MzJFIMzN
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/moonray/moonray_Charter.pdf?v=1773345969627
+          - item:
             name: Moonwalk SIG
             homepage_url: https://github.com/OAI/sig-moonwalk
             logo: moonwalk_sig.svg
@@ -26003,7 +26025,7 @@ landscape:
             name: Arcade (member)
             homepage_url: https://arcade.dev/
             logo: arcade.svg
-            description: Arcade is an AI Tool-calling Platform. For the first time, AI can securely act on behalf of users through Arcade's authenticated integrations, or 'tools' in AI lingo.
+            description: Arcade is the MCP runtime for secure agent authorization, reliable tools, and governance. Ship multi-user AI agents faster and scale with control.
             second_path:
               - Project Membership / The Linux Foundation
             organization:
@@ -26291,17 +26313,6 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/asml
-          - item:
-            name: ASRock Rack Incorporation (member)
-            homepage_url: https://asrockrack.com/
-            logo: asrock_rack_incorporation.svg
-            description: ASRock Inc. is established in 2002, specialized in the field of motherboards. ASRock strives to build up its own brand. With the 3C design concept, “Creativity, Consideration, Cost-effectiveness”, the company explores the limit of motherboards manufacturing while paying attention on the eco issue at the same time, developing products with the consideration of eco-friendly concept.
-            second_path:
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/asrock-rack
-            twitter: https://twitter.com/ASROCKRACK
-            extra:
-              linkedin_url: https://www.linkedin.com/company/asrock-rack
           - item:
             name: Assa Abloy Group (member)
             homepage_url: https://www.assaabloy.com/group/en
@@ -32234,19 +32245,6 @@ landscape:
             twitter: https://twitter.com/githedgehog
             extra:
               linkedin_url: https://www.linkedin.com/company/githedgehog
-          - item:
-            name: Heeddata (member)
-            homepage_url: https://heeddata.com/
-            logo: heeddata.svg
-            description: Heeddata specializes in providing a unified platform that offers real-time visibility and insights into cloud resource utilization, enabling enterprises to optimize their cloud spending and potentially reduce costs by 30%.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / FinOps Foundation
-            organization:
-              name: Heeddata
-              linkedin: https://www.linkedin.com/company/heeddata
-            extra:
-              linkedin_url: https://www.linkedin.com/company/heeddata
           - item:
             name: Helmet Security (member)
             homepage_url: https://helmetsecurity.com/
@@ -40106,6 +40104,7 @@ landscape:
             name: StackQL Studios (member)
             homepage_url: https://stackql.ai/
             logo: stackql_studios.svg
+            description: StackQL is an open-source infrastructure-as-code tool and the substrate for AI agents to communicate with cloud control planes and data planes using SQL.
             second_path:
               - Project Membership / The Linux Foundation
             organization:
@@ -45482,9 +45481,7 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Open Source Security Foundation (OpenSSF)
-            organization:
-              name: Erlang Ecosystem Foundation
-              linkedin: https://www.linkedin.com/company/erlef
+            crunchbase: https://www.crunchbase.com/organization/erlang-ecosystem-foundation
             extra:
               linkedin_url: https://www.linkedin.com/company/erlef
           - item:
