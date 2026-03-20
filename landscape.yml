@@ -14710,11 +14710,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-06-03'
-              dev_stats_url: https://insights.linuxfoundation.org/project/open-managed-control-planes
-              lfx_slug: open-managed-control-planes
+              dev_stats_url: https://insights.linuxfoundation.org/project/opencp
+              lfx_slug: opencp
               other_links:
                 - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/open-managed-control-planes
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/opencp
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf0aotN8oncp0sZXSx
                 - name: Charter
@@ -21581,7 +21581,7 @@ landscape:
             logo: tekton.svg
             description: Tekton is a powerful yet flexible Kubernetes-native open-source framework for creating continuous integration and delivery (CI/CD) systems. It lets you build, test, and deploy across multiple cloud providers or on-premises systems by abstracting away the underlying implementation details.
             second_path:
-              - Project Group / Continuous Delivery Foundation (CDF)
+              - Project Group / Cloud Native Computing Foundation (CNCF)
               - Industry / Cross-Industry
               - Technology Sector / DevOps, CI:CD & Site Reliability
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
@@ -25039,7 +25039,7 @@ landscape:
             name: AG2 (member)
             homepage_url: https://ag2.ai/
             logo: ag2.svg
-            description: Multi-agent intelligence, production-ready. Build, orchestrate, and scale AI agent systems with AG2—from the creators of AutoGen.
+            description: AG2 is the open-source Python framework for building, orchestrating, and scaling multi-agent AI systems. Production-ready agent orchestration from the creators of AutoGen.
             second_path:
               - Project Membership / The Linux Foundation
             organization:
@@ -35071,14 +35071,6 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/metalbear
           - item:
-            name: Metoro (member)
-            homepage_url: https://metoro.io/
-            logo: metoro.svg
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/metoro
-          - item:
             name: MetroStar Systems (member)
             homepage_url: https://metrostar.com/
             logo: metrostar_systems.svg
@@ -36481,7 +36473,6 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / LF Edge
-              - Project Membership / Confidential Computing Consortium (CCC)
               - Project Membership / Confidential Computing Consortium (CCC)
               - Project Membership / Linux Foundation Europe
               - Project Membership / Sylva Fund
@@ -40199,41 +40190,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/steamhaus
           - item:
-            name: Stellar Development Foundation (member)
-            homepage_url: https://stellar.org/
-            logo: stellar_development_foundation.svg
-            description: |-
-              About us
-
-              Our mission is open source financial access for all. 
-
-              The Stellar Development Foundation is a nonprofit organization based in San Francisco. We��_��_re building a common financial platform, designed to be open and accessible to everyone.
-
-              Just as the internet allowed anyone to send an email or create a blog, Stellar now allows people to easily send, save, and receive money, without large fees or hassle.
-
-              Recent updateSee all See all recent updates
-              Stellar
-              stellar.org
-              1 Like 7d
-              Company details
-              Website
-              https://www.stellar.org/
-              Year founded
-              2014
-
-              Company type
-              Nonprofit
-
-              Company size
-            second_path:
-              - Project Membership / LF Decentralized Trust
-              - Project Membership / The Linux Foundation
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/stellar
-            twitter: https://twitter.com/StellarOrg
-            extra:
-              linkedin_url: https://www.linkedin.com/company/stellar-development-foundation
-          - item:
             name: StepSecurity (member)
             homepage_url: https://stepsecurity.io/
             logo: stepsecurity.svg
@@ -42061,6 +42017,20 @@ landscape:
               linkedin: https://www.linkedin.com/company/maxar-technologies-ltd
             extra:
               linkedin_url: https://www.linkedin.com/company/maxar-technologies-ltd
+          - item:
+            name: Vates (member)
+            homepage_url: https://vates.fr/
+            logo: vates.svg
+            description: VATES S.A. es una empresa dedicada al desarrollo de software, certificación de aplicaciones (testing) y calidad. Fundada en el año 1991, cuenta a la fecha con una amplia experiencia en el mercado, dedicada a brindar soluciones, productos y servicios
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Xen Project
+            twitter: https://twitter.com/vatesfr
+            organization:
+              name: Vates
+              linkedin: https://www.linkedin.com/company/vates-sas
+            extra:
+              linkedin_url: https://www.linkedin.com/company/vates-sas
           - item:
             name: Vaxowave (member)
             homepage_url: https://vaxowave.com/
@@ -45686,7 +45656,6 @@ landscape:
               - Project Membership / OpenAPI Initiative
               - Project Membership / OpenHPC Project
               - Project Membership / The Linux Foundation
-              - Project Membership / The Linux Foundation
             twitter: https://twitter.com/FeynmanPUF
             organization:
               name: Feynman Foundation
@@ -47734,7 +47703,6 @@ landscape:
               https://www.freedm.ncsu.edu/about/
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/north-carolina-state-university
             twitter: https://twitter.com/NCState
             extra:
@@ -48094,7 +48062,6 @@ landscape:
             second_path:
               - Project Membership / OpenHPC Project
               - Project Membership / SPDX
-              - Project Membership / The Linux Foundation
               - Project Membership / The Linux Foundation
               - Project Membership / Zephyr Project
               - Project Membership / LF AI & Data
@@ -48794,7 +48761,6 @@ landscape:
               - Project Membership / SPDX
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-              - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/qazaq-open-source-initiative
           - item:
             name: Quantum Village (member)
@@ -48866,8 +48832,6 @@ landscape:
             logo: rensselaer_polytechnic_institute.svg
             description: Rensselaer Polytechnic Institute is a private research university located in Troy, New York. The university is one among a small group of polytechnic universities in the United States which tend to be primarily devoted to the instruction of technical arts and applied sciences.
             second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / The Linux Foundation
               - Project Membership / The Linux Foundation
               - Project Membership / LF AI & Data
               - Project Membership / OpenPOWER Foundation
@@ -49634,7 +49598,6 @@ landscape:
               Company size
             second_path:
               - Project Membership / LF Decentralized Trust
-              - Project Membership / The Linux Foundation
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/stellar
             twitter: https://twitter.com/StellarOrg
@@ -51009,7 +50972,6 @@ landscape:
             logo: university_of_waterloo.svg
             description: The University of Waterloo is a public research university with a main campus located in Waterloo, Ontario, Canada. The university offers academic programs administered by six faculties and ten faculty-based schools. The university also operates four satellite campuses and four affiliated university colleges.
             second_path:
-              - Project Membership / The Linux Foundation
               - Project Membership / The Linux Foundation
               - Project Membership / Trust Over IP Project (ToIP)
               - Project Membership / Post-Quantum Cryptography Alliance
