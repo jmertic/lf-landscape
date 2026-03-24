@@ -10146,6 +10146,30 @@ landscape:
               - repo_url: https://github.com/kairos-io/AuroraBoot
               - repo_url: https://github.com/kairos-io/kairos-init
           - item:
+            name: KAI Scheduler
+            homepage_url: https://github.com/kai-scheduler/
+            logo: kai_scheduler.svg
+            description: develop a robust, efficient, and scalable Kubernetes scheduler that optimizes GPU resource allocation for AI workloads in large-scale clusters.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/kai-scheduler/KAI-Scheduler
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-02-03'
+              dev_stats_url: https://insights.linuxfoundation.org/project/kai-scheduler
+              lfx_slug: kai-scheduler
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kai-scheduler
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfgQeowZy09ygxMG62
+              annotations:
+                project_org: https://github.com/kai-scheduler
+            additional_repos: []
+          - item:
             name: Kanister
             homepage_url: https://github.com/kanisterio/kanister
             logo: kanister.svg
@@ -26163,7 +26187,7 @@ landscape:
             name: Aria Networks, Inc. (member)
             homepage_url: https://arianetworks.com/
             logo: aria_networks_inc.svg
-            description: Networking for the AI era
+            description: Networking for the AI era.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / SONiC Fund
@@ -27530,7 +27554,7 @@ landscape:
             name: Cable Television Laboratories Inc. (member)
             homepage_url: https://cablelabs.com/
             logo: cable_television_laboratories_inc.svg
-            description: Founded in 1988, CableLabs is a non-profit research and development consortium that serves to define interoperable solutions among cable operator members and their technology vendors in order to reduce costs, create competition in the supply chain, and drive scale.  CableLabs is dedicated to creating innovative ideas that significantly impact their cable operator members' business. The company is headquartered in Louisville, Colorado.
+            description: As the leading innovation and R&D lab for the cable industry, CableLabs is a nonprofit organization that creates global impact through its member companies around the world and its subsidiaries, Kyrio and SCTE. With a state-of-the-art research and innovation facility and collaborative ecosystem with thousands of vendors, CableLabs delivers impactful network technologies for the entire industry.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
