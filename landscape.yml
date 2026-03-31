@@ -8248,6 +8248,28 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MtBxfQAF
           - item:
+            name: Helion
+            homepage_url: https://helionlang.com/
+            logo: helion.svg
+            description: https://github.com/pytorch-fdn/foundation-hosted/issues/10
+            second_path:
+              - Project Group / PyTorch Foundation
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/pytorch/helion
+            license: BSD-3-Clause
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-25'
+              dev_stats_url: https://insights.linuxfoundation.org/project/helion
+              lfx_slug: helion
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/helion
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfAKSNSGpXACtfEp3j
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/helion/helion_Charter.pdf?v=1774913423846
+          - item:
             name: Helm
             homepage_url: https://helm.sh/
             logo: helm.svg
@@ -26017,6 +26039,23 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/a37
           - item:
+            name: Applied Materials (member)
+            homepage_url: https://appliedmaterials.com/
+            logo: applied_materials.svg
+            description: |-
+              Applied Materials, Inc. is the global leader in Nanomanufacturing Technology solutions with a broad portfolio of innovative equipment, service and software products for the fabrication of semiconductor chips, flat panel displays, solar photovoltaic cells, flexible electronics and energy efficient glass. At Applied Materials, Nanomanufacturing Technology is applied to improve the way people live. They also provide services such as consulting, semiconductor services, display services, solar services, and nanochip fab solutions. Applied Materials was founded in 1967 and now has more than 10,000 patents. They are headquartered in Santa Clara, CA.
+
+              --- Merged Data:
+
+              Applied Materials, Inc. is a leading American corporation that provides a wide range of equipment, services, and software for the manufacturing of semiconductor chips, flat panel displays, and solar products. With a significant presence in Silicon Vall...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Ultra Ethernet Consortium Fund
+            crunchbase: https://www.crunchbase.com/organization/applied-materials
+            twitter: https://twitter.com/Applied4Tech
+            extra:
+              linkedin_url: https://www.linkedin.com/company/applied-materials
+          - item:
             name: Aptum (member)
             homepage_url: https://aptum.com/
             logo: aptum.svg
@@ -36375,9 +36414,9 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/omnistrate
           - item:
             name: OmniTrust Security LLC (member)
-            homepage_url: https://ghsiss.com/
+            homepage_url: https://omnitrust.com/
             logo: omnitrust_security_llc.svg
-            description: INTEGRITY Security Services (ISS) is a top provider of end-to-end embedded security solutions for a secure Internet of Things, offering expert services in key protection, certificate management, and secure OTA delivery to prevent cyber attacks and ensu...
+            description: OmniTrust Security LLC is a top provider of end-to-end embedded security solutions for a secure Internet of Things, key management, certificate management, and secure OTA provisioning
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / RISC-V International
@@ -36632,12 +36671,9 @@ landscape:
             homepage_url: https://orange.com/
             logo: orange_sa.svg
             description: |-
-              Orange is one of the world’s leading telecommunications operators with revenues of 39.7 billion euros in 2023 and 128,000 employees worldwide at 30 June 2024, including 72,000 employees in France. The Group has a total customer base of 285 million customers worldwide at 30 June 2024, including 246 million mobile customers and 21 million fixed broadband customers. These figures have been restated to account for the deconsolidation of certain activities in Spain following the creation of MASORANGE. The Group is present in 26 countries (including non-consolidated countries).
-              Orange is also a leading provider of global IT and telecommunication services to multinational companies under the brand Orange Business. In February 2023, the Group presented its strategic plan 'Lead the Future', built on a new business model and guided by responsibility and efficiency. 'Lead the Future' capitalizes on network excellence to reinforce Orange's leadership in service quality.
-              Orange is listed on Euronext Paris (symbol ORA) and on the New York Stock Exchange (symbol ORAN).
-              For more information on the internet and on your mobile: www.orange.com, www.orange-business.com and the Orange News app or to follow us on X: @presseorange.
-
-              Orange and any other Orange product or service names included in this material are trademarks of Orange or Orange Brand Services Limited.
+              Orange is one of the world’s leading telecommunications operators. The Group aims to be the trusted partner for everyday digital life by providing individuals, businesses and communities with reliable connectivity and innovative services. As of the end of 2025, Orange connects 340 million customers (including MasOrange) across 26 countries and generated 40.4 billion euros in revenues.
+              As a trusted player, Orange leverages the excellence of its very high-speed broadband networks to deploy digital infrastructure in Europe, Africa and the Middle East. The Group is a European leader in fiber, with 100 million connectable households, and convergent offers. In France, Orange connects 34 million customers and was ranked No. 1 by the regulator Arcep for the quality of its mobile network for the 15th consecutive year. In Africa and the Middle East, the Group’s growth engine, Orange serves nearly 180 million customers and promotes digital and financial inclusion through its connected solutions.
+              Under the Orange Business brand, the Group supports companies in transforming their networks as well as in AI, trusted cloud and cybersecurity. Orange is also a major player in the wholesale market, where it has a leading global telecom infrastructure and significant capabilities for deploying and operating submarine cables. A committed innovator, Orange relies on 700 researchers and holds a portfolio of 11,000 patents.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / LF Networking (LFN)
@@ -37725,17 +37761,6 @@ landscape:
             twitter: https://twitter.com/qaware
             extra:
               linkedin_url: https://www.linkedin.com/company/qaware-gmbh
-          - item:
-            name: QBO (member)
-            homepage_url: https://qbo.io/
-            logo: qbo.svg
-            description: QBO offers a cloud computing platform that utilizes pure container technology to enhance efficiency and scalability, providing bare metal performance for deploying and managing compute instances and Kubernetes clusters across various environments.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/qbo-cloud
-            extra:
-              linkedin_url: https://www.linkedin.com/company/qbo-cloud
           - item:
             name: Qiming Information Technology Co., Ltd. (member)
             homepage_url: https://qm.cn/
@@ -42324,16 +42349,7 @@ landscape:
             name: Vodafone Group Plc. (member)
             homepage_url: https://vodafone.com/
             logo: vodafone_group_plc.svg
-            description: |-
-              Vodafone is one of the worlds largest telecommunications companies and provides a range of services including voice, messaging, data and fixed communications. Vodafone has mobile operations in 26 countries, partners with mobile networks in 51 more, and fixed broadband operations in 17 markets. As of June 2016, Vodafone had 465 million mobile customers and 13.7 million fixed broadband customers.
-
-              --- Merged Data:
-
-              Idea Cellular Limited was an Indian mobile network operator based at Mumbai, Maharashtra.
-
-              --- Merged Data:
-
-              Vodafone Group plc /ˈvoʊdəfoʊn/ is a British multinational telecommunications company.
+            description: Vodafone is one of the worlds largest telecommunications companies and provides a range of services including voice, messaging, data and fixed communications. Vodafone has mobile operations in 26 countries, partners with mobile networks in 51 more, and fixed broadband operations in 17 markets. As of June 2016, Vodafone had 465 million mobile customers and 13.7 million fixed broadband customers. Vodafone Group plc /ˈvoʊdəfoʊn/ is a British multinational telecommunications company.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / LF Edge
