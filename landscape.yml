@@ -6196,6 +6196,32 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf81ZWv1s4240rN89T
           - item:
+            name: ' EnerGNN'
+            homepage_url: https://github.com/energnn
+            logo: energnn.svg
+            description: A Graph Neural Network library for real-life and full-scale energy networks.
+            second_path:
+              - Project Group / LF Energy (LFE)
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/energnn/energnn
+            license: MPL-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-30'
+              dev_stats_url: https://insights.linuxfoundation.org/project/energnn
+              lfx_slug: energnn
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/energnn
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf5aEYe6coFhjFY7X4
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/energnn/energnn_Charter.pdf?v=1774890498324
+              annotations:
+                project_org: https://github.com/energnn
+            additional_repos:
+              - repo_url: https://github.com/energnn/pypowsybl-to-energnn
+          - item:
             name: ent
             homepage_url: https://entgo.io/
             logo: ent.svg
@@ -11361,9 +11387,6 @@ landscape:
               annotations:
                 project_org: https://github.com/kubewarden
             additional_repos:
-              - repo_url: https://github.com/kubewarden/kwctl
-              - repo_url: https://github.com/kubewarden/rust-policy-template
-              - repo_url: https://github.com/kubewarden/go-policy-template
               - repo_url: https://github.com/kubewarden/sbomscanner
               - repo_url: https://github.com/kubewarden/policies
           - item:
@@ -24438,7 +24461,6 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-              - Project Membership / SODA Foundation
             crunchbase: https://www.crunchbase.com/organization/ly-corporation
             twitter: https://twitter.com/lycorp_jp
             extra:
@@ -24810,6 +24832,32 @@ landscape:
               - Project Membership / Confidential Computing Consortium (CCC)
             organization:
               name: Acompany Co., Ltd.
+          - item:
+            name: ActiveState Software, Inc. (member)
+            homepage_url: https://activestate.com/
+            logo: activestate_software_inc.svg
+            description: |-
+              ActiveState empowers innovation from code to cloud smarter, safer, and faster. ActiveState��_��_s cutting-edge solutions give developers and enterprises the power and flexibility to develop in Java, Ruby, Python, Perl, Node.js, PHP, Tcl, and more. Stackato is ActiveState��_��_s groundbreaking cloud platform for creating a private platform as a service (PaaS), and is the cost-effective, secure, and portable way to develop and deploy apps to the cloud. ActiveState is proven for the enterprise: More than two million developers and 97% of Fortune-1000 companies use ActiveState��_��_s end-to-end solutions to develop, distribute, and manage their software applications. Global customers like Cisco, CA, HP, Bank of America, Siemens, and Lockheed Martin look to ActiveState to save time, save money, minimize risk, ensure compliance, and reduce time to market.
+
+
+
+              From Wikipedia: 
+
+              ActiveState is a Canadian software company headquartered in Vancouver, British Columbia. It develops, sells, and supports cross-platform development tools for dynamic languages such as Perl, PHP, Python, Ruby, and Tcl, as well as language distributions and enterprise services.
+
+              The newest offering from ActiveState is Stackato, a cloud application platform for creating a private, secure, flexible Platform as a Service (PaaS) using any language on any stack on any cloud. Stackato easily allows customers to develop, deploy, migrate, scale, manage, and monitor applications on any cloud. Developers can simulate a production environment on a local machine, code, test, and then launch an application to any cloud. It also helps enterprise IT to achieve new levels of data security, reduce time to market, save money, ensure compliance, and gain greater control over the cloud.
+
+              Other products from ActiveState include ActiveState Komodo, an integrated development environment (IDE) for dynamic languages; the Perl Dev Kit (PDK), productivity and deployment tools for Perl programmers; and the Tcl Dev Kit (TDK), productivity and deployment tools for Tcl programmers. Language distributions include Perl (ActivePerl and PerlScript), Python (ActivePython and PythonScript), and Tcl (ActiveTcl and TclScript) for AIX, HP-UX, Linux, Mac OS X, Solaris, and Windows.
+
+              In October 2006, ActiveState (then a subsidiary Sophos) was named one of Canada's Top 100 Employers, as published in Maclean's magazine, one of only a handful of software developers to receive this honour.[1]
+
+              ActiveState is owned by its employees and Pender Financial Group, an investment company focused on technology and healthcare sectors in British Columbia[2] after briefly being a member of the Sophos group.
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/activestate
+            twitter: https://twitter.com/ActiveState
+            extra:
+              linkedin_url: https://www.linkedin.com/company/activestate
           - item:
             name: Ada Logics (member)
             homepage_url: https://adalogics.com/
@@ -26681,6 +26729,35 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/avassa-systems
           - item:
+            name: Avaya LLC (member)
+            homepage_url: https://avaya.com/
+            logo: avaya_llc.svg
+            description: |-
+              Avaya Inc.
+
+              Type	Private
+              Industry	Telecommunications
+              Founded	2000
+              Headquarters	Basking Ridge, New Jersey, United States
+              Area served	Worldwide
+              Key people	Kevin J. Kennedy CEO
+              Products	Business Telecommunications Equipment
+              Revenue	$5.060 billion USD (FY2010)[1]
+              Net income	-$874 million USD (FY2010)[1]
+              Total assets	$9.261 billion USD (FY2010)[1]
+              Owner(s)	TPG Capital and Silver Lake Partners
+              Employees	21,000
+              Website	USA [1]
+              Koreaͫ���_ [2]
+              UK [3]
+              Israel [4]
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/avaya
+            twitter: https://twitter.com/Avaya
+            extra:
+              linkedin_url: https://www.linkedin.com/company/avaya
+          - item:
             name: AVEVA Group (member)
             homepage_url: https://aveva.com/
             logo: aveva_group.svg
@@ -27419,6 +27496,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/brbpo
           - item:
+            name: Breqwatr (member)
+            homepage_url: https://breqwatr.com/
+            logo: breqwatr.svg
+            description: Breqwatr provides hyper-converged cloud appliances on OpenStack, simplifying private cloud deployment with public cloud benefits.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Breqwatr
+          - item:
             name: Brevis (member)
             homepage_url: https://brevis.network/
             logo: brevis.svg
@@ -27786,6 +27872,17 @@ landscape:
             twitter: https://twitter.com/Canonical
             extra:
               linkedin_url: https://www.linkedin.com/company/canonical-ltd-
+          - item:
+            name: Canva (member)
+            homepage_url: https://canva.com/
+            logo: canva.svg
+            description: Canva is a graphic design platform that simplifies the design process for users of all skill levels. With a drag-and-drop tool and a vast library of stock photographs, graphic elements, and fonts, Canva empowers users to create professional designs eff...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
+            crunchbase: https://www.crunchbase.com/organization/canva
+            extra:
+              linkedin_url: https://www.linkedin.com/company/canva
           - item:
             name: Capgemini (member)
             homepage_url: https://capgemini.com/
@@ -29500,6 +29597,18 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/daekyo-cns
           - item:
+            name: Danal Co. Ltd (member)
+            homepage_url: https://danal.co.kr/
+            logo: danal_co.svg
+            description: |-
+              DANAL Co., Ltd. is a pioneering payment and IT service company driving innovation from mobile payments to blockchain platforms, offering a diverse range of services globally.
+
+              The number of Consolidated Employee (150 to 400+)
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Danal Co. Ltd
+          - item:
             name: DaoCloud Network Technology Co., Ltd. (member)
             homepage_url: https://daocloud.io/
             logo: daocloud_network_technology_co_ltd.svg
@@ -29676,6 +29785,14 @@ landscape:
               - Project Membership / The Linux Foundation
             organization:
               name: Decentralization Research Center
+          - item:
+            name: Decimal (member)
+            homepage_url: https://decimal.app/
+            logo: decimal.svg
+            description: Decimal is an AI support agent that reads your code and logs, pinpoints the issue, and drafts the customer reply before you even open the ticket.
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/decimalai
           - item:
             name: Dedge Security SL (member)
             homepage_url: https://dedgesecurity.com/
@@ -30376,6 +30493,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/dynatrace
           - item:
+            name: EAGLYS (member)
+            homepage_url: https://eaglys.co.jp/
+            logo: eaglys.svg
+            description: EAGLYS Co., Ltd. (EAGLYS) is dedicated to realizing its vision of connecting dormant data in the world, updating society through collective intelligence. The company offers services based on AI technology with a focus on secure computing and data secur...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: EAGLYS
+          - item:
             name: EasyStack Inc. (member)
             homepage_url: https://easystack.cn/
             logo: easystack_inc.svg
@@ -31035,6 +31161,15 @@ landscape:
             organization:
               name: Espresso AI
           - item:
+            name: Espresso Systems (member)
+            homepage_url: https://espressosys.com/
+            logo: espresso_systems.svg
+            description: Espresso Systems is a company dedicated to providing tools for building a private and scalable crypto future. They offer the Espresso Sequencer, powered by the HotShot consensus protocol, to enable high throughput and fast pre-confirmations for rollups...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Espresso Systems
+          - item:
             name: Etherealize (member)
             homepage_url: https://etherealize.com/
             logo: etherealize.svg
@@ -31069,6 +31204,49 @@ landscape:
               linkedin: https://www.linkedin.com/company/everestdx-inc
             extra:
               linkedin_url: https://www.linkedin.com/company/everestdx-inc
+          - item:
+            name: Everpure (member)
+            homepage_url: https://purestorage.com/
+            logo: everpure.svg
+            description: |-
+              About us
+              Pure Storage (NYSE:PSTG) helps innovators build a better world with data. Pure's data solutions enable SaaS companies, cloud service providers, and enterprise and public sector customers to deliver real-time, secure data to power their mission-critical production, DevOps, and modern analytics environments in a multi-cloud environment. One of the fastest growing enterprise IT companies in history, Pure Storage enables customers to quickly adopt next-generation technologies, including artificial intelligence and machine learning, to help maximize the value of their data for competitive advantage. And with a Satmetrix-certified NPS customer satisfaction score in the top one percent of B2B companies, Pure's ever-expanding list of customers are among the happiest in the world.
+
+              Recent updateSee all See all recent updates
+              Image accompanying recent update
+              Are You GDPR Compliant? - Pure Storage Blog
+
+              blog.purestorage.com
+
+              3 Likes 14h
+              Company details
+              Website
+              http://www.purestorage.com
+              Headquarters
+              Mountain View, CA
+
+              Year founded
+              2009
+
+              Company type
+              Public Company
+
+              Company size
+              1,001-5,000 employees
+              Specialties
+              Enterprise Storage, Data Center, Server virtualization, Desktop virtualization, Oracle database, Cloud computing, Solid State Disk, and Flash memory
+
+              --- Merged Data:
+
+              Pure Storage is an American publicly traded technology company headquartered in Mountain View, California, United States.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+              - Project Membership / Ultra Ethernet Consortium Fund
+            crunchbase: https://www.crunchbase.com/organization/pure-storage
+            twitter: https://twitter.com/PureStorage
+            extra:
+              linkedin_url: https://www.linkedin.com/company/pure-storage
           - item:
             name: Eve Security (member)
             homepage_url: https://eve.security/
@@ -31504,6 +31682,15 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/framework-52d4
+          - item:
+            name: Frontegg (member)
+            homepage_url: https://frontegg.com/
+            logo: frontegg.svg
+            description: Frontegg is a powerful user management platform for B2B SaaS, offering industry-leading security, easy integration, and a wide range of user management capabilities to support app builders at different growth stages.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Frontegg
           - item:
             name: Frontier (member)
             homepage_url: https://frontierhq.com/
@@ -34776,7 +34963,6 @@ landscape:
             description: MagicOrange helps you to understand your profitability and costs, enables you to utilize assets efficiently, shows accurate profit margins and reduce manual effort.
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / FinOps Foundation
             twitter: https://twitter.com/MagicOrangeIT
             organization:
               name: MagicOrange Group Limited
@@ -35336,6 +35522,14 @@ landscape:
               - Project Membership / Open Source Security Foundation (OpenSSF)
             crunchbase: https://www.crunchbase.com/organization/minimus-077e
           - item:
+            name: MintMCP (member)
+            homepage_url: https://mintmcp.com/
+            logo: mintmcp.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: MintMCP
+          - item:
             name: MIPS Tech LLC. (member)
             homepage_url: https://mips.com/
             logo: mips_tech_llc.svg
@@ -35856,6 +36050,15 @@ landscape:
             organization:
               name: Nexthop AI
           - item:
+            name: Nfinite (member)
+            homepage_url: https://nfinite.ai/
+            logo: nfinite.svg
+            description: Nfinite builds a modular data engine and infrastructure stack designed to create, simulate, and deploy real-world AI applications, enabling the transformation of product catalogs into structured digital twins and providing on-demand visual content for ...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Nfinite
+          - item:
             name: NGINX International Limited (member)
             homepage_url: https://nginx.com/
             logo: nginx_international_limited.svg
@@ -35925,6 +36128,13 @@ landscape:
             twitter: https://twitter.com/NikonUSA
             extra:
               linkedin_url: https://www.linkedin.com/company/nikon
+          - item:
+            name: Nimtech (member)
+            homepage_url: https://nimtech.no/
+            logo: nimtech.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/nimtech
           - item:
             name: NinjaTech AI Inc (member)
             homepage_url: https://ninjatech.ai/
@@ -36855,6 +37065,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/pantheon-systems-inc
           - item:
+            name: Parallel Wireless (member)
+            homepage_url: https://parallelwireless.com/
+            logo: parallel_wireless.svg
+            description: Parallel Wireless leads the OpenRAN movement with innovative cloud-native architecture, enabling cost-effective cellular network deployment globally.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Parallel Wireless
+          - item:
             name: Parseable, Inc (member)
             homepage_url: https://parseable.com/
             logo: parseable_inc.svg
@@ -36959,17 +37178,6 @@ landscape:
               - Project Membership / Yocto Project Fund
             organization:
               name: Peridio
-          - item:
-            name: Permify (member)
-            homepage_url: https://permify.co/
-            logo: permify.svg
-            description: Permify is an authorizations service that helps engineering teams to build scalable, fast and secure user permission and authorization systems for applications and services.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/permify
-            extra:
-              linkedin_url: https://www.linkedin.com/company/permifyco
           - item:
             name: Permit.io (member)
             homepage_url: https://permit.io/
@@ -37658,49 +37866,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/pulumi
           - item:
-            name: Pure Storage (member)
-            homepage_url: https://purestorage.com/
-            logo: pure_storage.svg
-            description: |-
-              About us
-              Pure Storage (NYSE:PSTG) helps innovators build a better world with data. Pure's data solutions enable SaaS companies, cloud service providers, and enterprise and public sector customers to deliver real-time, secure data to power their mission-critical production, DevOps, and modern analytics environments in a multi-cloud environment. One of the fastest growing enterprise IT companies in history, Pure Storage enables customers to quickly adopt next-generation technologies, including artificial intelligence and machine learning, to help maximize the value of their data for competitive advantage. And with a Satmetrix-certified NPS customer satisfaction score in the top one percent of B2B companies, Pure's ever-expanding list of customers are among the happiest in the world.
-
-              Recent updateSee all See all recent updates
-              Image accompanying recent update
-              Are You GDPR Compliant? - Pure Storage Blog
-
-              blog.purestorage.com
-
-              3 Likes 14h
-              Company details
-              Website
-              http://www.purestorage.com
-              Headquarters
-              Mountain View, CA
-
-              Year founded
-              2009
-
-              Company type
-              Public Company
-
-              Company size
-              1,001-5,000 employees
-              Specialties
-              Enterprise Storage, Data Center, Server virtualization, Desktop virtualization, Oracle database, Cloud computing, Solid State Disk, and Flash memory
-
-              --- Merged Data:
-
-              Pure Storage is an American publicly traded technology company headquartered in Mountain View, California, United States.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-              - Project Membership / Ultra Ethernet Consortium Fund
-            crunchbase: https://www.crunchbase.com/organization/pure-storage
-            twitter: https://twitter.com/PureStorage
-            extra:
-              linkedin_url: https://www.linkedin.com/company/pure-storage
-          - item:
             name: Puzzle ITC GmbH (member)
             homepage_url: https://puzzle.ch/
             logo: puzzle_itc_gmbh.svg
@@ -37779,6 +37944,14 @@ landscape:
               - Project Membership / Ultra Ethernet Consortium Fund
             organization:
               name: Qinghong Electronic (Suzhou) Co., Ltd.
+          - item:
+            name: Qinvicta (member)
+            homepage_url: https://qinvicta.com/
+            logo: qinvicta.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Qinvicta
           - item:
             name: QLAD (member)
             homepage_url: https://qlad.com/
@@ -38291,6 +38464,19 @@ landscape:
             twitter: https://twitter.com/renaultgroup
             extra:
               linkedin_url: https://www.linkedin.com/company/renault
+          - item:
+            name: Render Services, Inc. DBA Render (member)
+            homepage_url: https://render.com/
+            logo: render_services_inc.svg
+            description: The easiest cloud to host all your apps and websites. Get started at https://t.co/mp5eLoPS27. System status over at @renderstatus.
+            second_path:
+              - Project Membership / The Linux Foundation
+            twitter: https://twitter.com/render
+            organization:
+              name: Render Services, Inc. DBA Render
+              linkedin: https://www.linkedin.com/company/renderco
+            extra:
+              linkedin_url: https://www.linkedin.com/company/renderco
           - item:
             name: reo.dev (member)
             homepage_url: https://reo.dev/
@@ -38967,6 +39153,18 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/seal-software
+          - item:
+            name: Searce (member)
+            homepage_url: https://searce.com/
+            logo: searce.svg
+            description: Searce
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/searce
+            twitter: https://twitter.com/searce
+            extra:
+              linkedin_url: https://www.linkedin.com/company/searceinc
           - item:
             name: Secondfront (member)
             homepage_url: https://secondfront.com/
@@ -39730,6 +39928,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/sokube
           - item:
+            name: Solanica (member)
+            homepage_url: https://solanica.io/
+            logo: solanica.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/solanica
+          - item:
             name: Sol Duara, Inc (member)
             homepage_url: https://solduara.com/
             logo: sol_duara_inc.svg
@@ -39769,6 +39974,15 @@ landscape:
             twitter: https://twitter.com/soloio_inc
             extra:
               linkedin_url: https://www.linkedin.com/company/solo.io
+          - item:
+            name: Solvd (member)
+            homepage_url: https://solvd.com/
+            logo: solvd.svg
+            description: Software Development Outsourcing Company | Solvd Solvd is a highly experienced software development services company working for finance, healthcare, hi tech, retail and transportation industries. Official global page of Solvd, Inc. QA & Custom Softwar...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Solvd
           - item:
             name: Sonatus, Inc. (member)
             homepage_url: https://sonatus.com/
@@ -41304,6 +41518,15 @@ landscape:
             organization:
               name: TI724
           - item:
+            name: Tiami Networks (member)
+            homepage_url: https://tiaminetworks.com/
+            logo: tiami_networks.svg
+            description: Tiami Networks is a pioneering company founded by veterans of the telecommunications industry, dedicated to bringing sensing intelligence to every wireless device and node. They empower wireless devices with Tiny Machine Learning for power efficiency, ...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Tiami Networks
+          - item:
             name: Tianjin Aojin Network Technology Co., Ltd. (member)
             homepage_url: https://oschina.net/
             logo: tianjin_aojin_network_technology_co_ltd.svg
@@ -41475,6 +41698,13 @@ landscape:
             twitter: https://twitter.com/travelping
             extra:
               linkedin_url: https://www.linkedin.com/company/travelping-gmbh
+          - item:
+            name: Traversal (member)
+            homepage_url: https://traversal.com/
+            logo: traversal.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/traversal
           - item:
             name: Trend Micro Incorporated (member)
             homepage_url: https://trendmicro.com/
@@ -41952,6 +42182,15 @@ landscape:
             organization:
               name: USI
           - item:
+            name: UST Global, Inc. (member)
+            homepage_url: https://www.ust.com/
+            logo: ust_global_inc.svg
+            description: UST specializes in providing digital transformation solutions that enable leading organizations to realize their vision through innovative strategies and disruptive technologies.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: UST Global, Inc.
+          - item:
             name: USU GMBH (member)
             homepage_url: https://usu.com/
             logo: usu_gmbh.svg
@@ -42213,6 +42452,15 @@ landscape:
             twitter: https://twitter.com/Verizon
             extra:
               linkedin_url: https://www.linkedin.com/company/verizon
+          - item:
+            name: Very Good Ventures (member)
+            homepage_url: https://verygood.ventures/
+            logo: very_good_ventures.svg
+            description: Very Good Ventures is a leading company specializing in Flutter app development services. They work with global brands to design, build, and scale successful Flutter apps. With a talented team, they excel in converting legacy codebases into a single co...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Very Good Ventures
           - item:
             name: VES LLC (member)
             homepage_url: https://ves.solutions/
@@ -43251,6 +43499,15 @@ landscape:
             organization:
               name: Xfusion International PTE. LTD.
           - item:
+            name: XGRIDS (member)
+            homepage_url: https://xgrids.com/
+            logo: xgrids.svg
+            description: XGRIDS is a company that specializes in innovative solutions for indoor mapping and reconstruction. They offer the Lixel L1 handheld laser scanner for real-time 3D reconstruction, as well as services for indoor scanning, SLAM, and high-precision 3D mod...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: XGRIDS
+          - item:
             name: Xi'an Tieke Jingwei Information Technology Co.,Ltd. (CARS) (member)
             homepage_url: https://rails.cn/
             logo: xi_an_tieke_jingwei_information_technology_co_ltd.svg
@@ -43346,6 +43603,15 @@ landscape:
               - Project Membership / PyTorch Foundation
             organization:
               name: Yasp.ai
+          - item:
+            name: Yasu (member)
+            homepage_url: https://yasu.cloud/
+            logo: yasu.svg
+            description: Yasu offers an AI-driven platform that provides real-time cost intelligence dashboards to help enterprises track and optimize their cloud spending across all stages of development, integrating seamlessly with existing development and cloud infrastructu...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Yasu
           - item:
             name: Ybor.AI (member)
             homepage_url: https://ybor.ai/
