@@ -10259,6 +10259,28 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkBBCQA3
           - item:
+            name: Katalis
+            homepage_url: https://github.com/telekom/NeoNephos-Katalis
+            logo: katalis.svg
+            description: develop solutions to bridge Telco and Cloud Provider APIs utilizing Kubernetes to drive orchestration and federation principles
+            second_path:
+              - Project Group / NeoNephos Foundation
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/telekom/NeoNephos-Katalis
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-30'
+              dev_stats_url: https://insights.linuxfoundation.org/project/katalis
+              lfx_slug: katalis
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/katalis
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfT8I2Rgyq7mrXO2QU
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/katalis/katalis_Charter.pdf?v=1774985434219
+          - item:
             name: KCL
             homepage_url: https://github.com/kcl-lang/kcl
             logo: kcl.svg
@@ -12154,6 +12176,27 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/loaders
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkCMzQAN
+          - item:
+            name: Lockness
+            homepage_url: http://www.hyperledger.org/
+            logo: lockness.svg
+            description: The mission of the Project is to establish an ecosystem for key management protocols including key generation algorithms, digital signatures and data storage environments for any type of cryptography.
+            second_path:
+              - Project Group / LF Decentralized Trust
+              - Technology Sector / Blockchain
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-12-11'
+              dev_stats_url: https://insights.linuxfoundation.org/project/lockness
+              lfx_slug: lockness
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/lockness
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfVkK7GzaafFamcEgk
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/lockness/lockness_Charter.pdf?v=1775055020489
           - item:
             name: Lodash
             homepage_url: https://lodash.com/
@@ -15152,6 +15195,33 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs5eQAD
                 - name: Charter
                   url: https://github.com/openenclave/openenclave/blob/2554287d88aba93f41a1518b29c57c386c1ecb4b/docs/Community/sig-release/charter.md
+          - item:
+            name: OpenEverest
+            homepage_url: https://openeverest.io/
+            logo: openeverest.svg
+            description: develop a Kubernetes-based database platform that helps teams run, manage, and scale different types of data workloads in one place
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / AI, ML, Data & Analytics
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/openeverest/openeverest
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-16'
+              dev_stats_url: https://insights.linuxfoundation.org/project/openeverest
+              lfx_slug: openeverest
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openeverest
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfTMFbCRt6rhveqKp2
+              annotations:
+                project_org: https://github.com/openeverest
+            additional_repos:
+              - repo_url: https://github.com/openeverest/everest-doc
+              - repo_url: https://github.com/openeverest/openeverest.github.io
+              - repo_url: https://github.com/openeverest/governance
           - item:
             name: OpenEXR
             homepage_url: https://www.openexr.com/
@@ -24505,10 +24575,10 @@ landscape:
             logo: renesas_electronics_corporation.svg
             description: Renesas Electronics Corporation delivers trusted embedded design innovation with complete semiconductor solutions that enable billions of connected, intelligent devices to enhance the way people work and livesecurely and safely. The number one global supplier of microcontrollers, and a leader in Analog & Power and SoC products, Renesas provides the expertise, quality, and comprehensive solutions for a broad range of Automotive, Industrial, Home Electronics (HE), Office Automation (OA) and Information Communication Technology (ICT) applications to help shape a limitless future.
             second_path:
+              - Project Membership / OpenChain Project
               - Project Membership / Automotive Grade Linux (AGL)
               - Project Membership / Civil Infrastructure Platform (CIP)
               - Project Membership / The Linux Foundation
-              - Project Membership / Xen Project
               - Project Membership / Yocto Project Fund
               - Project Membership / Zephyr Project
               - Project Membership / RISC-V International
@@ -24854,6 +24924,7 @@ landscape:
               ActiveState is owned by its employees and Pender Financial Group, an investment company focused on technology and healthcare sectors in British Columbia[2] after briefly being a member of the Sophos group.
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / Open Source Security Foundation (OpenSSF)
             crunchbase: https://www.crunchbase.com/organization/activestate
             twitter: https://twitter.com/ActiveState
             extra:
@@ -24977,6 +25048,7 @@ landscape:
               - Project Membership / PyTorch Foundation
               - Project Membership / Sylva Fund
               - Project Membership / Ultra Ethernet Consortium Fund
+              - Project Membership / Alliance for OpenUSD Fund (AOUSDF)
               - Project Membership / P4 Fund
             crunchbase: https://www.crunchbase.com/organization/amd
             twitter: https://twitter.com/AMD
@@ -26087,23 +26159,6 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/a37
           - item:
-            name: Applied Materials (member)
-            homepage_url: https://appliedmaterials.com/
-            logo: applied_materials.svg
-            description: |-
-              Applied Materials, Inc. is the global leader in Nanomanufacturing Technology solutions with a broad portfolio of innovative equipment, service and software products for the fabrication of semiconductor chips, flat panel displays, solar photovoltaic cells, flexible electronics and energy efficient glass. At Applied Materials, Nanomanufacturing Technology is applied to improve the way people live. They also provide services such as consulting, semiconductor services, display services, solar services, and nanochip fab solutions. Applied Materials was founded in 1967 and now has more than 10,000 patents. They are headquartered in Santa Clara, CA.
-
-              --- Merged Data:
-
-              Applied Materials, Inc. is a leading American corporation that provides a wide range of equipment, services, and software for the manufacturing of semiconductor chips, flat panel displays, and solar products. With a significant presence in Silicon Vall...
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Ultra Ethernet Consortium Fund
-            crunchbase: https://www.crunchbase.com/organization/applied-materials
-            twitter: https://twitter.com/Applied4Tech
-            extra:
-              linkedin_url: https://www.linkedin.com/company/applied-materials
-          - item:
             name: Aptum (member)
             homepage_url: https://aptum.com/
             logo: aptum.svg
@@ -26517,6 +26572,15 @@ landscape:
             organization:
               name: Astrape
           - item:
+            name: A-Team Systems LLC (member)
+            homepage_url: https://ateamsystems.com/
+            logo: a_team_systems_llc.svg
+            description: A-Team Systems specializes in providing expert systems administration and monitoring services for cloud, container, and server environments, ensuring reliable and secure infrastructure management for clients ranging from small servers to high-volume we...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: A-Team Systems LLC
+          - item:
             name: Aternos GmbH (member)
             homepage_url: https://aternos.gmbh/
             logo: aternos_gmbh.svg
@@ -26569,6 +26633,7 @@ landscape:
             description: Founded in 1983 and headquartered in Dallas, TX, AT&T Corp. is a business services communications provider, offering a variety of global communications services to customers, including large domestic and multinational businesses, small and medium-sized businesses and government agencies. The Company operates a telecommunications networks in the United States and, through the Global Network Services, provides an array of services, and customized solutions.
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / Camara Fund
             crunchbase: https://www.crunchbase.com/organization/at-t
             twitter: https://twitter.com/ATT
             extra:
@@ -27372,6 +27437,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+              - Project Membership / Xen Project
               - Project Membership / ELISA Fund
               - Project Membership / Open Source Security Foundation (OpenSSF)
             crunchbase: https://www.crunchbase.com/organization/boeing-7321
@@ -27501,9 +27567,9 @@ landscape:
             logo: breqwatr.svg
             description: Breqwatr provides hyper-converged cloud appliances on OpenStack, simplifying private cloud deployment with public cloud benefits.
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-            organization:
-              name: Breqwatr
+            crunchbase: https://www.crunchbase.com/organization/breqwatr
           - item:
             name: Brevis (member)
             homepage_url: https://brevis.network/
@@ -28864,6 +28930,15 @@ landscape:
             organization:
               name: Cloudpi
           - item:
+            name: cloudscale.ch AG (member)
+            homepage_url: https://cloudscale.ch/
+            logo: cloudscale.svg
+            description: cloudscale.ch provides Swiss-based cloud servers and object storage with high security, availability, and performance, along with integrations for DevOps tools.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/cloudscale-ch
+          - item:
             name: Cloudsmith Ltd (member)
             homepage_url: https://cloudsmith.com/
             logo: cloudsmith_ltd.svg
@@ -29791,6 +29866,7 @@ landscape:
             logo: decimal.svg
             description: Decimal is an AI support agent that reads your code and logs, pinpoints the issue, and drafts the customer reply before you even open the ticket.
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/decimalai
           - item:
@@ -30499,6 +30575,7 @@ landscape:
             description: EAGLYS Co., Ltd. (EAGLYS) is dedicated to realizing its vision of connecting dormant data in the world, updating society through collective intelligence. The company offers services based on AI technology with a focus on secure computing and data secur...
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / Confidential Computing Consortium (CCC)
             organization:
               name: EAGLYS
           - item:
@@ -31166,6 +31243,7 @@ landscape:
             logo: espresso_systems.svg
             description: Espresso Systems is a company dedicated to providing tools for building a private and scalable crypto future. They offer the Espresso Sequencer, powered by the HotShot consensus protocol, to enable high throughput and fast pre-confirmations for rollups...
             second_path:
+              - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
             organization:
               name: Espresso Systems
@@ -32603,6 +32681,7 @@ landscape:
               - Project Membership / TODO Group
               - Project Membership / Confidential Computing Consortium (CCC)
               - Project Membership / Ultra Ethernet Consortium Fund
+              - Project Membership / Post-Quantum Cryptography Alliance
               - Project Membership / DAOS Foundation
               - Project Membership / P4 Fund
             crunchbase: https://www.crunchbase.com/organization/hewlett-packard-enterprise
@@ -33262,18 +33341,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/inframappa
           - item:
-            name: initializ™ (member)
-            homepage_url: https://initializ.io/
-            logo: initializtm.svg
-            description: initializ™
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/initializ
-            twitter: https://twitter.com/initializ
-            extra:
-              linkedin_url: https://www.linkedin.com/company/initializ
-          - item:
             name: Innogrid (member)
             homepage_url: https://innogrid.com/
             logo: innogrid.svg
@@ -33400,7 +33467,6 @@ landscape:
             second_path:
               - Project Membership / Real-Time Linux (RTL)
               - Project Membership / SPDX
-              - Project Membership / Automotive Grade Linux (AGL)
               - Project Membership / The Linux Foundation
               - Project Membership / TODO Group
               - Project Membership / Yocto Project Fund
@@ -33967,6 +34033,19 @@ landscape:
             twitter: https://twitter.com/JVCKENWOOD_SR
             extra:
               linkedin_url: https://www.linkedin.com/company/jvckenwood-technologies-singapore-pte-ltd-
+          - item:
+            name: Kakaopay inc., (member)
+            homepage_url: https://kakaopay.com/
+            logo: kakaopay_inc.svg
+            description: 카카오페이는 금융의 수고로움을 줄이고 이로움을 키워 마음 놓고 금융할 수 있는 생활금융 플랫폼입니다.
+            second_path:
+              - Project Membership / The Linux Foundation
+            twitter: https://twitter.com/kakaopaycorp
+            organization:
+              name: Kakaopay inc.,
+              linkedin: https://www.linkedin.com/company/kakaopay
+            extra:
+              linkedin_url: https://www.linkedin.com/company/kakaopay
           - item:
             name: Kaleido (member)
             homepage_url: https://kaleido.io/
@@ -34963,6 +35042,7 @@ landscape:
             description: MagicOrange helps you to understand your profitability and costs, enables you to utilize assets efficiently, shows accurate profit margins and reduce manual effort.
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / FinOps Foundation
             twitter: https://twitter.com/MagicOrangeIT
             organization:
               name: MagicOrange Group Limited
@@ -35276,6 +35356,15 @@ landscape:
             twitter: https://twitter.com/mercedesbenz_ti
             extra:
               linkedin_url: https://www.linkedin.com/company/mercedes-benz-tech-innovation
+          - item:
+            name: Merit Systems (member)
+            homepage_url: https://merit.systems/
+            logo: merit_systems.svg
+            description: Merit Systems provides a financial platform that facilitates instant global payments using stablecoins to GitHub users, while also measuring contributor impact and managing the associated paperwork, thereby enabling projects to attract top open source ...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Merit Systems
           - item:
             name: Merly Inc (member)
             homepage_url: https://merly.ai/
@@ -36056,6 +36145,7 @@ landscape:
             description: Nfinite builds a modular data engine and infrastructure stack designed to create, simulate, and deploy real-world AI applications, enabling the transformation of product catalogs into structured digital twins and providing on-demand visual content for ...
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / Alliance for OpenUSD Fund (AOUSDF)
             organization:
               name: Nfinite
           - item:
@@ -36133,6 +36223,7 @@ landscape:
             homepage_url: https://nimtech.no/
             logo: nimtech.svg
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/nimtech
           - item:
@@ -36154,6 +36245,7 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / LF AI & Data
               - Project Membership / Open 3D Foundation
+              - Project Membership / PyTorch Foundation
             crunchbase: https://www.crunchbase.com/organization/national-it-industry-promotion-agency
             twitter: https://twitter.com/NIPAkr
           - item:
@@ -36549,19 +36641,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/keyval
             extra:
               linkedin_url: https://www.linkedin.com/company/odigos-global-ventures-pvt-ltd
-          - item:
-            name: OdineLabs (member)
-            homepage_url: https://odinelabs.com/
-            logo: odinelabs.svg
-            description: OdineLabs specializes in developing AI-based automation and orchestration solutions for global telecom operators and enterprises, leveraging machine learning and generative AI to enhance network capabilities and drive innovation in the telecommunicatio...
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / LF Networking (LFN)
-            organization:
-              name: OdineLabs
-              linkedin: https://www.linkedin.com/company/telecomoman
-            extra:
-              linkedin_url: https://www.linkedin.com/company/telecomoman
           - item:
             name: Okahu Inc (member)
             homepage_url: https://okahu.ai/
@@ -37073,17 +37152,6 @@ landscape:
               - Project Membership / The Linux Foundation
             organization:
               name: Parallel Wireless
-          - item:
-            name: Parseable, Inc (member)
-            homepage_url: https://parseable.com/
-            logo: parseable_inc.svg
-            description: Parseable provides high-performance log analytics for cloud, server, and application logs in cloud native environments, offering efficient log storage and management solutions for software development.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/parseable
-            extra:
-              linkedin_url: https://www.linkedin.com/company/parseable
           - item:
             name: Parsimo Inc. (member)
             homepage_url: https://parsimo.ai/
@@ -37950,6 +38018,7 @@ landscape:
             logo: qinvicta.svg
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / CHIPS Alliance Fund
             organization:
               name: Qinvicta
           - item:
@@ -39932,6 +40001,7 @@ landscape:
             homepage_url: https://solanica.io/
             logo: solanica.svg
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/solanica
           - item:
@@ -40571,6 +40641,17 @@ landscape:
             twitter: https://twitter.com/Strava
             extra:
               linkedin_url: https://www.linkedin.com/company/strava-inc.
+          - item:
+            name: Stripe, LLC (member)
+            homepage_url: https://stripe.com/
+            logo: stripe_llc.svg
+            description: Online payment processing for internet businesses. Stripe is a suite of payment APIs that powers commerce for online businesses of all sizes, including fraud prevention, and subscription management. Use Stripe’s payment platform to accept and process p...
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/stripe
+            twitter: https://twitter.com/stripe
+            extra:
+              linkedin_url: https://www.linkedin.com/company/stripe
           - item:
             name: Succinct (member)
             homepage_url: https://succinct.xyz/
@@ -41703,6 +41784,7 @@ landscape:
             homepage_url: https://traversal.com/
             logo: traversal.svg
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/traversal
           - item:
@@ -42188,6 +42270,7 @@ landscape:
             description: UST specializes in providing digital transformation solutions that enable leading organizations to realize their vision through innovative strategies and disruptive technologies.
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / FinOps Foundation
             organization:
               name: UST Global, Inc.
           - item:
@@ -42286,19 +42369,6 @@ landscape:
               linkedin: https://www.linkedin.com/company/vantage-sh
             extra:
               linkedin_url: https://www.linkedin.com/company/vantage-sh
-          - item:
-            name: Vantor (member)
-            homepage_url: https://vantor.com/
-            logo: vantor.svg
-            description: Vantor.com is a company that specializes in web development and domain registration. They offer assistance in finding the perfect domain for your project and provide development opportunities for customers. If you already have a web development team, t...
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Overture Maps Foundation Fund
-            organization:
-              name: Vantor
-              linkedin: https://www.linkedin.com/company/maxar-technologies-ltd
-            extra:
-              linkedin_url: https://www.linkedin.com/company/maxar-technologies-ltd
           - item:
             name: Vates (member)
             homepage_url: https://vates.fr/
@@ -42458,6 +42528,7 @@ landscape:
             logo: very_good_ventures.svg
             description: Very Good Ventures is a leading company specializing in Flutter app development services. They work with global brands to design, build, and scale successful Flutter apps. With a talented team, they excel in converting legacy codebases into a single co...
             second_path:
+              - Project Membership / Automotive Grade Linux (AGL)
               - Project Membership / The Linux Foundation
             organization:
               name: Very Good Ventures
@@ -42600,7 +42671,6 @@ landscape:
             description: Vodafone is one of the worlds largest telecommunications companies and provides a range of services including voice, messaging, data and fixed communications. Vodafone has mobile operations in 26 countries, partners with mobile networks in 51 more, and fixed broadband operations in 17 markets. As of June 2016, Vodafone had 465 million mobile customers and 13.7 million fixed broadband customers. Vodafone Group plc /ˈvoʊdəfoʊn/ is a British multinational telecommunications company.
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / LF Edge
               - Project Membership / Linux Foundation Europe
               - Project Membership / Sylva Fund
               - Project Membership / Camara Fund
@@ -43505,6 +43575,7 @@ landscape:
             description: XGRIDS is a company that specializes in innovative solutions for indoor mapping and reconstruction. They offer the Lixel L1 handheld laser scanner for real-time 3D reconstruction, as well as services for indoor scanning, SLAM, and high-precision 3D mod...
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / Alliance for OpenUSD Fund (AOUSDF)
             organization:
               name: XGRIDS
           - item:
@@ -43610,6 +43681,7 @@ landscape:
             description: Yasu offers an AI-driven platform that provides real-time cost intelligence dashboards to help enterprises track and optimize their cloud spending across all stages of development, integrating seamlessly with existing development and cloud infrastructu...
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / FinOps Foundation
             organization:
               name: Yasu
           - item:
@@ -45360,6 +45432,16 @@ landscape:
             organization:
               name: Drave Développement
           - item:
+            name: Drexel University (member)
+            homepage_url: https://drexel.edu/
+            logo: drexel_university.svg
+            description: Drexel University in Philadelphia offers a globally engaged urban research university experience with a premier co-operative education program, providing students with valuable, rigorous, and technology-infused education opportunities worldwide.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / CHIPS Alliance Fund
+            organization:
+              name: Drexel University
+          - item:
             name: DSNA (member)
             homepage_url: https://ecologie.gouv.fr/
             logo: dsna.svg
@@ -45780,6 +45862,7 @@ landscape:
             logo: erlang_ecosystem_foundation.svg
             description: Erlang Ecosystem Foundation supports and grows a diverse community and technology based on the BEAM, fostering collaboration and advancing Erlang, Elixir, LFE, and other BEAM-based technologies.
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / Open Source Security Foundation (OpenSSF)
             crunchbase: https://www.crunchbase.com/organization/erlang-ecosystem-foundation
@@ -45949,6 +46032,16 @@ landscape:
               linkedin: https://www.linkedin.com/company/feynman-foundation
             extra:
               linkedin_url: https://www.linkedin.com/company/feynman-foundation
+          - item:
+            name: First Person Cooperative (member)
+            homepage_url: https://firstperson.network/
+            logo: first_person_cooperative.svg
+            description: the FIRST PERSON NETWORK provides a decentralized global infrastructure for social verification, enabling members to connect directly and privately without intermediaries, surveillance, or advertising.
+            second_path:
+              - Project Membership / LF Decentralized Trust
+              - Project Membership / The Linux Foundation
+            organization:
+              name: First Person Cooperative
           - item:
             name: FIWARE Foundation e. V. (member)
             homepage_url: https://fiware.org/
@@ -47322,6 +47415,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/kutztown-university
           - item:
+            name: Kyungpook National University (member)
+            homepage_url: https://knu.ac.kr/
+            logo: kyungpook_national_university.svg
+            description: Kyungpook National University (KNU) is a prestigious higher education institution in Korea, established in 1946. With a diverse student body of over 28,000 students, including international students, KNU offers a wide range of undergraduate and graduat...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Kyungpook National University
+          - item:
             name: Laboratory for Innovation Science at Harvard (member)
             homepage_url: https://lish.harvard.edu/
             logo: laboratory_for_innovation_science_at_harvard.svg
@@ -47625,6 +47727,17 @@ landscape:
               linkedin: https://www.linkedin.com/company/metpoliceuk
             extra:
               linkedin_url: https://www.linkedin.com/company/metpoliceuk
+          - item:
+            name: Michigan State University (member)
+            homepage_url: https://msu.edu/
+            logo: michigan_state_university.svg
+            description: Michigan State University
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/michigan-state-university-2
+            twitter: https://twitter.com/michiganstateu
+            extra:
+              linkedin_url: https://www.linkedin.com/company/michigan-state-university
           - item:
             name: MicroElectronics Research Lab (member)
             homepage_url: https://uit.edu/merluit
@@ -47995,6 +48108,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/north-carolina-state-university
           - item:
+            name: NCUK (member)
+            homepage_url: https://ncuk.ac.uk/
+            logo: ncuk.svg
+            description: NCUK is a consortium of UK universities offering preparatory programs for international students seeking to pursue undergraduate and postgraduate degrees in the UK. Since 1987, NCUK has assisted tens of thousands of international students in accessing ...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: NCUK
+          - item:
             name: Networks For Humanity (member)
             homepage_url: https://networksforhumanity.org/
             logo: networks_for_humanity.svg
@@ -48146,6 +48268,15 @@ landscape:
               - Project Membership / The Linux Foundation
             organization:
               name: Northern Illinois University
+          - item:
+            name: nsysu (member)
+            homepage_url: https://nsysu.edu.tw/
+            logo: nsysu.svg
+            description: National Sun Yat sen University (NSYSU) is located in Kaohsiung, Taiwan, overlooking the Taiwan Strait. The university fosters a spirit of oceanic inspiration, nurturing a culture of truth and justice, democracy, and freedom among its students.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: nsysu
           - item:
             name: (NUST) National University of Science & Technology (member)
             homepage_url: https://nust.ac.zw/
@@ -48335,6 +48466,7 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / LF Networking (LFN)
+              - Project Membership / Open Programmable Infrastructure Fund
             twitter: https://twitter.com/osalliance5g
             organization:
               name: OpenAirInterface Software Alliance (OSA)
@@ -48681,6 +48813,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/openteamcommunity
           - item:
+            name: Open Technologies Alliance - GFOSS (member)
+            homepage_url: https://gross.eu/
+            logo: open_technologies_alliance_gfoss.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Open Technologies Alliance - GFOSS
+          - item:
             name: OpenTravel Alliance (member)
             homepage_url: https://opentravel.org/
             logo: opentravel_alliance.svg
@@ -49002,6 +49142,7 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / OpenPOWER Foundation
+              - Project Membership / RISC-V International
             crunchbase: https://www.crunchbase.com/organization/psg-college-of-technology
             twitter: https://twitter.com/psgtech
             extra:
@@ -49715,6 +49856,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/incoban
           - item:
+            name: SLAC National Accelerator Lab (member)
+            homepage_url: https://slac.stanford.edu/
+            logo: slac_national_accelerator_lab.svg
+            description: Stanford University is one of the world's leading research and teaching institutions, dedicated to catalyzing discovery, accelerating solutions, and preparing students for active citizenship. With a focus on sustainability, innovation, and societal imp...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Ceph Foundation
+            organization:
+              name: SLAC National Accelerator Lab
+          - item:
             name: SMIF Vidyapeeth (member)
             homepage_url: https://smif.co.in/
             logo: smif_vidyapeeth.svg
@@ -49758,6 +49909,15 @@ landscape:
               linkedin: https://www.linkedin.com/company/software-in-the-public-interest-inc
             extra:
               linkedin_url: https://www.linkedin.com/company/software-in-the-public-interest-inc
+          - item:
+            name: Solana Foundation (member)
+            homepage_url: https://solana.org/
+            logo: solana_foundation.svg
+            description: The Solana Foundation is a non-profit organization based in Zug, Switzerland, focused on decentralization, growth, and security of the Solana network. They aim to make the Solana protocol the most censorship-resistant network globally, contributing to ...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Solana Foundation
           - item:
             name: Sollers College (member)
             homepage_url: https://sollers.edu/
@@ -49937,6 +50097,15 @@ landscape:
             organization:
               name: Sustainable Digital Infrastructure Alliance (SDIA)
           - item:
+            name: SUTD Singapore University of Technology & Design (member)
+            homepage_url: https://sutd.edu.sg/
+            logo: sutd_singapore_university_of_technology_design.svg
+            description: Singapore University of Technology and Design focuses on advancing knowledge and nurturing leaders and innovators through a multidisciplinary education in engineering and architecture, emphasizing cutting-edge research and the integration of design and...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: SUTD Singapore University of Technology & Design
+          - item:
             name: Swathanthra Malayalam Computing (member)
             homepage_url: https://smc.org.in/
             logo: swathanthra_malayalam_computing.svg
@@ -50009,6 +50178,21 @@ landscape:
             twitter: https://twitter.com/DTUtweet
             extra:
               linkedin_url: https://www.linkedin.com/company/technical-university-of-denmark
+          - item:
+            name: Technical University of Munich (member)
+            homepage_url: https://tum.de/
+            logo: technical_university_of_munich.svg
+            description: The Technical University of Munich is a research university with campuses in Munich, Garching, Freising-Weihenstephan, Heilbronn and Dover, Singapore.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / OpenPOWER Foundation
+              - Project Membership / RISC-V International
+            twitter: https://twitter.com/TU_Muenchen
+            organization:
+              name: Technical University of Munich
+              linkedin: https://www.linkedin.com/company/technische-universitat-munchen
+            extra:
+              linkedin_url: https://www.linkedin.com/company/technische-universitat-munchen
           - item:
             name: Technische Universität Wien (member)
             homepage_url: https://tuwien.at/
@@ -50156,6 +50340,14 @@ landscape:
             organization:
               name: The Board of Trustees of The University of Alabama
           - item:
+            name: The Center for Rural AI (member)
+            homepage_url: https://ruralai.org/
+            logo: the_center_for_rural_ai.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: The Center for Rural AI
+          - item:
             name: The DevLand Foundation (member)
             homepage_url: https://thedevlandfoundation.org/
             logo: the_devland_foundation.svg
@@ -50229,6 +50421,7 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / OpenPOWER Foundation
+              - Project Membership / Open Source Security Foundation (OpenSSF)
             crunchbase: https://www.crunchbase.com/organization/the-freebsd-foundation
             twitter: https://twitter.com/freebsdfndation
             extra:
@@ -50363,6 +50556,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/morgan-state-university
           - item:
+            name: The Netherlands Cancer Institute (member)
+            homepage_url: https://nki.nl/
+            logo: the_netherlands_cancer_institute.svg
+            description: The Netherlands Cancer Institute operates a renowned research institute and cancer clinic, focusing on advancing cancer treatment and care through the integration of innovative research and clinical applications.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: The Netherlands Cancer Institute
+          - item:
             name: The Pennsylvania State University (member)
             homepage_url: https://psu.edu/
             logo: the_pennsylvania_state_university.svg
@@ -50445,6 +50647,7 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / Trust Over IP Project (ToIP)
               - Project Membership / Linux Foundation Europe
+              - Project Membership / Camara Fund
             crunchbase: https://www.crunchbase.com/organization/tno
             twitter: https://twitter.com/TNO_nieuws
             extra:
@@ -51101,6 +51304,18 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/university-of-oregon
           - item:
+            name: University of Oulu (member)
+            homepage_url: https://oulu.fi/
+            logo: university_of_oulu.svg
+            description: University of Oulu is a multidisciplinary research university focusing on sustainability, intelligence, and humanity. They offer diverse education programs and aim to positively impact the future through international collaboration.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: University of Oulu
+              linkedin: https://www.linkedin.com/company/oulu-business-school
+            extra:
+              linkedin_url: https://www.linkedin.com/company/oulu-business-school
+          - item:
             name: University of Richmond (member)
             homepage_url: https://richmond.edu/
             logo: university_of_richmond.svg
@@ -51430,6 +51645,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/virginia.gov
           - item:
+            name: Virginia Tech Applied Research Corporation (VT-ARC) (member)
+            homepage_url: https://vt-arc.org/
+            logo: virginia_tech_applied_research_corporation_vt_arc.svg
+            description: Virginia Tech Applied Research specializes in developing innovative technical and operational solutions aimed at enhancing national security and promoting global welfare.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Virginia Tech Applied Research Corporation (VT-ARC)
+          - item:
             name: Virginia Tech Research Contracting Services, LLC (VTRCS) (member)
             homepage_url: https://vt.edu/
             logo: virginia_tech_research_contracting_services_llc_vtrcs.svg
@@ -51623,6 +51847,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/winguamericalatina
           - item:
+            name: WirelessResearchNC (member)
+            homepage_url: https://wrc-nc.org/
+            logo: wirelessresearchnc.svg
+            description: WirelessResearchNC provides applied research, engineering, and certified testing services in the fields of antenna, RF, and wireless technologies, operating as a global ISO 17025 accredited testing and calibration lab.
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: WirelessResearchNC
+          - item:
             name: Women in AI & Robotics (member)
             homepage_url: https://womeninairobotics.de/
             logo: women_in_ai_robotics.svg
@@ -51686,6 +51919,25 @@ landscape:
             twitter: https://twitter.com/xprize
             extra:
               linkedin_url: https://www.linkedin.com/company/x-prize-foundation
+          - item:
+            name: Yeshiva University (member)
+            homepage_url: https://yu.edu/
+            logo: yeshiva_university.svg
+            description: Yeshiva University, located in the vibrant city of New York, offers a unique dual curriculum combining Jewish studies with liberal arts and sciences. With a century-long legacy, YU provides top-ranked research opportunities while preserving the traditi...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / FINOS (The Fintech Open Source Foundation)
+            organization:
+              name: Yeshiva University
+          - item:
+            name: Yonsei University (member)
+            homepage_url: https://yonsei.ac.kr/
+            logo: yonsei_university.svg
+            description: Yonsei University operates as a prestigious private university in Korea, offering a comprehensive educational experience that emphasizes globalization through unique programs like the East Asia International College, while consistently achieving high r...
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Yonsei University
           - item:
             name: Young Amateurs Radio Club (member)
             homepage_url: https://yarc.world/
