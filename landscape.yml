@@ -17211,7 +17211,7 @@ landscape:
               - Project Group / Continuous Delivery Foundation (CDF)
               - Industry / Cross-Industry
               - Technology Sector / DevOps, CI:CD & Site Reliability
-            repo_url: https://github.com/ortelius/ortelius
+            repo_url: https://github.com/ortelius/pdvd-backend
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-12-08'
@@ -23728,6 +23728,31 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/wpvd
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkU1jQAF
+          - item:
+            name: x402
+            homepage_url: https://www.github.com/x402-foundation/
+            logo: x402.svg
+            description: The x402 protocol project seeks to develop an open, HTTP-native payment protocol designed to enable frictionless payments.
+            second_path:
+              - Technology Sector / Blockchain
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/x402-foundation/x402
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-31'
+              dev_stats_url: https://insights.linuxfoundation.org/project/x402-protocol
+              lfx_slug: x402-protocol
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/x402-protocol
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lflwn5pn9dM7e5slp9
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/x402-protocol/x402-protocol_Charter.pdf?v=1775057199842
+              annotations:
+                project_org: https://github.com/x402-foundation
+            additional_repos: []
           - item:
             name: XAPI
             homepage_url: https://xenproject.org/developers/teams/xen-api/
@@ -31241,12 +31266,11 @@ landscape:
             name: Espresso Systems (member)
             homepage_url: https://espressosys.com/
             logo: espresso_systems.svg
-            description: Espresso Systems is a company dedicated to providing tools for building a private and scalable crypto future. They offer the Espresso Sequencer, powered by the HotShot consensus protocol, to enable high throughput and fast pre-confirmations for rollups...
+            description: Espresso Systems is a company dedicated to providing tools for building a private and scalable crypto future. They offer the Espresso Sequencer, powered by the HotShot consensus protocol, to enable high throughput and fast pre-confirmations for rollups.
             second_path:
               - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
-            organization:
-              name: Espresso Systems
+            crunchbase: https://www.crunchbase.com/organization/espresso-systems
           - item:
             name: Etherealize (member)
             homepage_url: https://etherealize.com/
@@ -33463,7 +33487,7 @@ landscape:
             name: Intel Corporation (member)
             homepage_url: https://intel.com/
             logo: intel_corporation.svg
-            description: Intel Corporation designs, manufactures, and sells computer, networking, and communications platforms worldwide. The company offers microprocessors, chipsets, and input, display, and storage devices, such as keyboard, mouse, monitor, hard drive or solid-state drive, and optical disc drives; and system-on-chip and multichip packaging products. In addition, the company develops computer vision and machine learning-based sensing products, mapping and driving policy technology solutions for advanced driver assistance systems, and autonomous driving technologies. It serves original equipment manufacturers, original design manufacturers, cloud and communications service providers, and industrial, communications, and automotive equipment manufacturers. The company was founded in 1968 and is based in Santa Clara, California.
+            description: Intel Corporation designs, manufactures, and sells computer, networking, and communications platforms worldwide. The company offers microprocessors, chipsets, and input, display, and storage devices such as keyboards, mice, monitors, hard drives or solid-state drives, and optical disc drives; as well as system-on-chip and multichip packaging products. Additionally, the company develops computer vision and machine learning-based sensing products, mapping and driving policy technology solutions for advanced driver assistance systems, and autonomous driving technologies. It serves original equipment manufacturers, original design manufacturers, cloud and communications service providers, and industrial, communications, and automotive equipment manufacturers. Founded in 1968 and based in Santa Clara, California, Intel underpins everyday life. We design and manufacture technology that helps us all connect, create, and achieve great things—together. We deliver AI experiences that power businesses with industry-leading platforms. With 50 years of unmatched innovation and global scale, you get the reliability and resilience needed to launch into a future full of creativity and ingenuity.
             second_path:
               - Project Membership / Real-Time Linux (RTL)
               - Project Membership / SPDX
@@ -42668,7 +42692,7 @@ landscape:
             name: Vodafone Group Plc. (member)
             homepage_url: https://vodafone.com/
             logo: vodafone_group_plc.svg
-            description: Vodafone is one of the worlds largest telecommunications companies and provides a range of services including voice, messaging, data and fixed communications. Vodafone has mobile operations in 26 countries, partners with mobile networks in 51 more, and fixed broadband operations in 17 markets. As of June 2016, Vodafone had 465 million mobile customers and 13.7 million fixed broadband customers. Vodafone Group plc /ˈvoʊdəfoʊn/ is a British multinational telecommunications company.
+            description: Vodafone Group Plc is a leading British multinational telecommunications company providing mobile, fixed-line, satellite, and IoT services to over 330 million customers across Europe and Africa. Headquartered in Newbury, UK, it specializes in 5G, consumer, and business solutions, alongside M-PESA financial services.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Linux Foundation Europe
@@ -48818,6 +48842,7 @@ landscape:
             logo: open_technologies_alliance_gfoss.svg
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / Green Software Foundation Fund
             organization:
               name: Open Technologies Alliance - GFOSS
           - item:
