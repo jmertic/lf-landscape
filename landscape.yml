@@ -23204,11 +23204,11 @@ landscape:
               annotations:
                 project_org: https://github.com/vllm-project
             additional_repos:
-              - repo_url: https://github.com/vllm-project/llm-compressor
+              - repo_url: https://github.com/vllm-project/vllm-omni
               - repo_url: https://github.com/vllm-project/recipes
+              - repo_url: https://github.com/vllm-project/llm-compressor
               - repo_url: https://github.com/vllm-project/speculators
               - repo_url: https://github.com/vllm-project/semantic-router
-              - repo_url: https://github.com/vllm-project/vllm-omni
           - item:
             name: VNF Requirements
             homepage_url: https://wiki.onap.org/x/eZlk
@@ -29135,6 +29135,17 @@ landscape:
               - Project Membership / The Linux Foundation
             organization:
               name: Cohere Technologies
+          - item:
+            name: Coinbase Inc. (member)
+            homepage_url: https://coinbase.com/
+            logo: coinbase_inc.svg
+            description: Founded in June of 2012, Coinbase is the easiest place to buy and sell digital currency like bitcoin and ethereum.
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/coinbase
+            twitter: https://twitter.com/coinbase
+            extra:
+              linkedin_url: https://www.linkedin.com/company/coinbase
           - item:
             name: Collabora Ltd. (member)
             homepage_url: https://collabora.com/
