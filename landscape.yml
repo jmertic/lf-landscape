@@ -18228,7 +18228,10 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV48aQAD
               annotations:
                 project_org: https://github.com/PX4
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/PX4/PX4-Bootloader
+              - repo_url: https://github.com/PX4/px4_msgs
+              - repo_url: https://github.com/PX4/PX4-gazebo-models
           - item:
             name: Pyro
             homepage_url: https://pyro.ai/
@@ -26182,15 +26185,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/apollo-graphql
           - item:
-            name: applied37 (member)
-            homepage_url: https://a37.ai/
-            logo: applied37.svg
-            description: The R&P lab reimagining DevOps
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/a37
-          - item:
             name: Applied Materials (member)
             homepage_url: https://appliedmaterials.com/
             logo: applied_materials.svg
@@ -30785,6 +30779,14 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/eidp
           - item:
+            name: Eigen Foundation (member)
+            homepage_url: https://eigenfoundation.org/
+            logo: eigen_foundation.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+            organization:
+              name: Eigen Foundation
+          - item:
             name: EigenQ (member)
             homepage_url: https://eigenq.com/
             logo: eigenq.svg
@@ -32192,18 +32194,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/globaldmtech
           - item:
-            name: Globant LLC (member)
-            homepage_url: https://globant.com/
-            logo: globant_llc.svg
-            description: Globant is a digitally native technology services company. We dream and build digital journeys that matter to millions of users. Globant is the place where engineering, design, and innovation meet scale.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Green Software Foundation Fund
-            crunchbase: https://www.crunchbase.com/organization/globant
-            twitter: https://twitter.com/Globant
-            extra:
-              linkedin_url: https://www.linkedin.com/company/globant
-          - item:
             name: Goldman Sachs & Co. LLC (member)
             homepage_url: https://goldmansachs.com/
             logo: goldman_sachs_co.svg
@@ -32233,14 +32223,6 @@ landscape:
             twitter: https://twitter.com/go_ledger
             extra:
               linkedin_url: https://www.linkedin.com/company/goledger
-          - item:
-            name: Golem Cloud (member)
-            homepage_url: https://golem.cloud/
-            logo: golem_cloud.svg
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/golem-cloud
           - item:
             name: Golf (member)
             homepage_url: https://golf.dev/
@@ -32890,17 +32872,6 @@ landscape:
             twitter: https://twitter.com/HP
             extra:
               linkedin_url: https://www.linkedin.com/company/hewlett-packard
-          - item:
-            name: HSBC (member)
-            homepage_url: https://hsbc.com/
-            logo: hsbc.svg
-            description: Founded in 1865, HSBC provides commercial and investment banking services globally. Some of the services they offer include portfolio and wealth management, trade financing, liquidity management, and more. HSBC is headquartered in London, United Kingdom.
-            second_path:
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/hsbc
-            twitter: https://twitter.com/HSBC
-            extra:
-              linkedin_url: https://www.linkedin.com/company/hsbc
           - item:
             name: Hubble Network (member)
             homepage_url: https://hubblenetwork.com/
