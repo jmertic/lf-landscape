@@ -90,6 +90,28 @@ landscape:
                 project_org: https://github.com/5G-Super-Blue-Print
             additional_repos: []
           - item:
+            name: 5 Spot Machine Scheduler
+            homepage_url: https://github.com/finos/5-spot
+            logo: 5_spot_machine_scheduler.svg
+            description: develop a Kubernetes-native, time-based scheduler for physical and virtual infrastructure that automates resource lifecycle management to optimize costs, enhance energy efficiency, and enable proactive scaling for financial services and enterprise workloads
+            second_path:
+              - Project Group / FINOS (The Fintech Open Source Foundation)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/finos/5-spot
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-04-09'
+              dev_stats_url: https://insights.linuxfoundation.org/project/five-spot-machine-scheduler
+              lfx_slug: five-spot-machine-scheduler
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/five-spot-machine-scheduler
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lffeWStyNoBjV0XMMQ
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/five-spot-machine-scheduler/five-spot-machine-scheduler_Charter.pdf?v=1776103383696
+          - item:
             name: AAA
             homepage_url: https://wiki.opendaylight.org/display/ODL/AAA
             logo: aaa.svg
@@ -6518,6 +6540,25 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/evolution-wg
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWhABQA1
+          - item:
+            name: ExecuTorch
+            homepage_url: https://github.com/pytorch/executorch
+            logo: executorch.svg
+            description: develop a unified solution for deploying AI models on-device—from smartphones to microcontrollers—built for privacy, performance, and portability
+            second_path:
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/pytorch/executorch
+            license: BSD-3-Clause
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-04-06'
+              dev_stats_url: https://insights.linuxfoundation.org/project/executorch
+              lfx_slug: executorch
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/executorch
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfO7YgU5RRhfCMrFjv
           - item:
             name: Express
             homepage_url: https://expressjs.com/
@@ -20017,6 +20058,7 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
             repo_url: https://github.com/slimtoolkit/slim
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-05-17'
@@ -22718,7 +22760,6 @@ landscape:
               - Project Group / Academy Software Foundation (ASWF)
               - Industry / Motion Pictures
               - Technology Sector / Web & Application Development
-            repo_url: https://github.com/AcademySoftwareFoundation/wg-usd
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-03-04'
@@ -24412,9 +24453,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/oracle
           - item:
-            name: Qualcomm, Inc. (member)
+            name: Qualcomm Technologies, Inc. (member)
             homepage_url: https://qualcomm.com/
-            logo: qualcomm_inc.svg
+            logo: qualcomm_technologies_inc.svg
             description: |-
               Founded in 1985, QUALCOMM is a global semiconductor company, known for designing, manufacturing, and marketing digital wireless communications equipment and services. The company generates the majority of its sales through the development and marketing of semiconductor chips and system software based on code-division multiple access (CDMA) and other technologies. They are headquartered in San Diego, California.
 
@@ -32375,6 +32416,20 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/hawkstack-technologies
+          - item:
+            name: HAYO TELECOM (member)
+            homepage_url: https://hayo.net/
+            logo: hayo_telecom.svg
+            description: |-
+              Hayo is a global digital service provider that combines networking, 
+                technologies and digital solutions to deliver on-the-ground innovation. IoT 
+                & AI, Voice & Messaging, CPaaS & CCaaS, Security, National Mobile 
+                Registries and Digital Convergenc...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Camara Fund
+            organization:
+              name: HAYO TELECOM
           - item:
             name: HCL Technologies Ltd. (member)
             homepage_url: https://hcltech.com/
