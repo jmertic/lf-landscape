@@ -1820,6 +1820,30 @@ landscape:
                 project_org: https://github.com/binderhub-ci-repos
             additional_repos: []
           - item:
+            name: Bitol
+            homepage_url: https://bitol.io/
+            logo: bitol.svg
+            description: |-
+              Within the BITOL project, the primary objective is to tackle multiple challenges, such as data normalization, ensuring the relevance of documentation, establishing service-level expectations, simplifying data and tool integration, and promoting a data product-oriented approach. These efforts offer several advantages, including stimulating innovation and streamlining integration processes.
+              BITOL is a sandbox-stage project of the LF AI & Data Foundation.
+              Contributed by: AIDA User Group in September 2023
+            second_path:
+              - Project Group / LF AI & Data
+              - Technology Sector / AI, ML, Data & Analytics
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2023-11-30'
+              dev_stats_url: https://insights.linuxfoundation.org/project/bitol
+              lfx_slug: bitol
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/bitol
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfSO5wG5Bz3cuH23xA
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/Bitol%20Technical%20Charter%20Draft%2011-30-2023.docx.pdf
+          - item:
             name: Blockhound
             homepage_url: https://github.com/reactor/BlockHound
             logo: blockhound.svg
@@ -14903,7 +14927,7 @@ landscape:
 
               *** Note - please create under LF Europe
             second_path:
-              - Project Group / NeoNephos Foundation
+              - Project Group / Linux Foundation Europe
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/open-crypto-broker/crypto-broker-documentation
             license: Apache-2.0
@@ -15561,11 +15585,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-04-12'
-              dev_stats_url: https://insights.linuxfoundation.org/project/OpenIDL
-              lfx_slug: OpenIDL
+              dev_stats_url: https://insights.linuxfoundation.org/project/openidl
+              lfx_slug: openidl
               other_links:
                 - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/OpenIDL
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openidl
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkN2LQAV
           - item:
@@ -23766,6 +23790,28 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/werf
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NWElhQAH
+          - item:
+            name: Wi4MPI
+            homepage_url: https://wi4mpi.readthedocs.io/
+            logo: wi4mpi.svg
+            description: WI4MPI is a Message Passing Interface (MPI) wrapper and interoperability library that enables seamless runtime conversions between various MPI implementations.
+            second_path:
+              - Project Group / High Performance Software Foundation (HPSF)
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/wi4mpi/wi4mpi
+            license: BSD-3-Clause
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-27'
+              dev_stats_url: https://insights.linuxfoundation.org/project/wi4mpi
+              lfx_slug: wi4mpi
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/wi4mpi
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfOJA0Q4dl5ryMUr2T
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/wi4mpi/wi4mpi_Charter.pdf?v=1774636078323
           - item:
             name: Windows PV Drivers
             homepage_url: https://xenproject.org/developers/teams/windows-pv-drivers/
@@ -32822,25 +32868,6 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/hidora
           - item:
-            name: Highlight (member)
-            homepage_url: https://highlight.io/
-            logo: highlight.svg
-            description: Highlight is an open source monitoring platform that provides visibility into the errors, session replay, logs, and more of your full stack web application.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / FinOps Foundation
-            crunchbase: https://www.crunchbase.com/organization/highlight-9498
-          - item:
-            name: Homestyler (Shanghai) Techonology Co., Ltd (member)
-            homepage_url: https://homestyler.com/
-            logo: homestyler_shanghai_techonology_co.svg
-            description: Homestyler is a top-notch online home design platform that provides a free 3D home design software, floor planner, interior decoration 3D rendering, design projects, and DIY home design video tutorials. It offers an online 3D design software for experi...
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Alliance for OpenUSD Fund (AOUSDF)
-            organization:
-              name: Homestyler (Shanghai) Techonology Co., Ltd
-          - item:
             name: Hon Hai Precision Industry Co., Ltd. (member)
             homepage_url: https://foxconn.com/
             logo: hon_hai_precision_industry_co_ltd.svg
@@ -36654,6 +36681,7 @@ landscape:
               - Project Membership / Academy Software Foundation (ASWF)
               - Project Membership / ELISA Fund
               - Project Membership / CHIPS Alliance Fund
+              - Project Membership / The Presto Foundation
               - Project Membership / Confidential Computing Consortium (CCC)
               - Project Membership / RISC-V International
               - Project Membership / FINOS (The Fintech Open Source Foundation)
@@ -48781,6 +48809,7 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Linux Foundation Europe
+              - Project Membership / OpenWallet Foundation
               - Project Membership / Camara Fund
             crunchbase: https://www.crunchbase.com/organization/openid-foundation
             twitter: https://twitter.com/openid
