@@ -592,7 +592,7 @@ landscape:
               - PMO Managed / All
               - Industry / Materials
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/agstack/weather-server
+            repo_url: https://github.com/agstack/OpenAgri-WeatherService
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-05-05'
@@ -8110,13 +8110,13 @@ landscape:
               - repo_url: https://github.com/OSGP/Config
           - item:
             name: GridFM
-            homepage_url: https://lfenergy.org/projects/gridfm/
+            homepage_url: https://gridfm.energy/
             logo: gridfm.svg
-            description: |
-              An open source framework dedicated to enabling the development and application of "foundation models" (large AI models pre-trained on vast datasets) specifically for power grids, aiming to accelerate computations and improve grid operations, planning, and control in the face of increasing complexity
+            description: An open source framework dedicated to enabling the development and application of "foundation models" (large AI models pre-trained on vast datasets) specifically for power grids, aiming to accelerate computations and improve grid operations, planning, and control in the face of increasing complexity
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
+            repo_url: https://github.com/gridfm/gridfm-datakit
             license: Other
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -8128,6 +8128,9 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/gridfm
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfGFeSdSUJqLdBHTBZ
+              annotations:
+                project_org: https://github.com/gridfm
+            additional_repos: []
           - item:
             name: Grid Simulation and Modeling SIG
             homepage_url: https://lf-energy.atlassian.net/wiki/spaces/GSMS/overview
@@ -23078,6 +23081,7 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/velero-io/velero
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -23089,6 +23093,9 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/velero
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfpdCDzBbgNRCLpey8
+              annotations:
+                project_org: https://github.com/velero-io
+            additional_repos: []
           - item:
             name: Veraison
             homepage_url: https://github.com/veraison
@@ -30566,12 +30573,7 @@ landscape:
             name: DoiT International (member)
             homepage_url: https://doit-intl.com/
             logo: doit_international.svg
-            description: |-
-              DoiT International works with fast growing, digital native companies globally, to help solve essential and complex cloud challenges. Combining intelligent software that simplifies and automates cloud use with expert consultancy and unlimited technical support, DoiT delivers the true promise of the cloud at peak efficiency - with ease, not cost. DoiT’s technology is backed by deep multicloud expertise in the analytics, optimization and governance of cloud architecture, as well as specializations in Kubernetes, artificial intelligence and more. An award-winning strategic partner of Google Cloud and AWS, DoiT works alongside more than 3,000 customers to save them time and money.
-
-              --- Merged Data:
-
-              DoiT International simplifies and automates cloud use, offering multicloud expertise in analytics, optimization, and governance. They help companies optimize costs, agility, and BigQuery usage, maximize AWS Spot savings, and autonomously identify cost ...
+            description: DoiT International works with fast growing, digital native companies globally, to help solve essential and complex cloud challenges. Combining intelligent software that simplifies and automates cloud use with expert consultancy and unlimited technical support, DoiT delivers the true promise of the cloud at peak efficiency - with ease, not cost. DoiT’s technology is backed by deep multicloud expertise in the analytics, optimization and governance of cloud architecture, as well as specializations in Kubernetes, artificial intelligence and more. An award-winning strategic partner of Google Cloud and AWS, DoiT works alongside more than 3,000 customers to save them time and money.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -34534,7 +34536,11 @@ landscape:
             name: krick.com GmbH + Co. KG (member)
             homepage_url: https://krick.com/
             logo: krick_com_gmbh_co.svg
-            description: Der Robert Krick Verlag verlegt seit über 65 Jahren Verzeichnismedien wie Das Telefonbuch und Das Örtliche, und bietet lokale Informationsdienste für Print, Online und Mobil. Die iWelt AG bietet maßgeschneiderte Serviceleistungen in den Bereichen Provi...
+            description: |-
+              We bring customers to our clients.
+              To do this, we connect people and businesses—across all channels!
+              The Krick family of companies combines marketing, sales, and IT expertise. We develop high-performance websites, provide secure and flexible IT solutions, and support you on your path to greater visibility with over 150 online marketing experts.
+              We have continuously evolved from a traditional publishing house, recognized the opportunities of digitalization early on, and today combine technical know-how with measurable marketing success.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Overture Maps Foundation Fund
