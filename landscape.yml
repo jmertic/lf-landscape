@@ -1955,6 +1955,31 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfuKFWsGLKP35uH9eu
           - item:
+            name: Briolette
+            homepage_url: https://github.com/Briolette
+            logo: briolette.svg
+            description: Briolette is a framework for researching offline digital currency designs.
+            second_path:
+              - Project Group / LF Decentralized Trust
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/Briolette/governance
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-04-20'
+              dev_stats_url: https://insights.linuxfoundation.org/project/briolette
+              lfx_slug: briolette
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/briolette
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfqHqHCC38MfHwzTKL
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/briolette/briolette_Charter.pdf?v=1776986367102
+              annotations:
+                project_org: https://github.com/Briolette
+            additional_repos: []
+          - item:
             name: Broadband Fund
             homepage_url: https://lfbroadband.org/
             logo: broadband_fund.svg
