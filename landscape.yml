@@ -21244,6 +21244,33 @@ landscape:
                 - name: Charter
                   url: https://www.opnfv.org/wp-content/uploads/sites/12/2018/04/OPNFV-Project-a-Series-of-LF-Projects-LLC-Technical-Charter-4-10-2018.pdf
           - item:
+            name: StratoWeave
+            homepage_url: https://www.github.com/stratoweave
+            logo: stratoweave.svg
+            description: The mission of the Project is to develop a robust, model-driven, and declarative closed-loop orchestration platform for networks and services complete with a library of automation code for common operator services and device integrations.
+            second_path:
+              - Project Group / LF Networking (LFN)
+              - Technology Sector / Networking & Edge
+            repo_url: https://github.com/stratoweave/stratoweave
+            license: BSD-3-Clause
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-03'
+              dev_stats_url: https://insights.linuxfoundation.org/project/stratoweave
+              lfx_slug: stratoweave
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/stratoweave
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfauIAkrCyRyPszbLG
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/stratoweave/stratoweave_Charter.pdf?v=1772574235908
+              annotations:
+                project_org: https://github.com/stratoweave
+            additional_repos:
+              - repo_url: https://github.com/stratoweave/sorespo
+              - repo_url: https://github.com/stratoweave/netclics
+          - item:
             name: Strimzi
             homepage_url: https://strimzi.io/
             logo: strimzi.svg
@@ -28802,17 +28829,6 @@ landscape:
             twitter: https://twitter.com/Cloudification_
             extra:
               linkedin_url: https://www.linkedin.com/company/cloudification
-          - item:
-            name: CloudLinux (member)
-            homepage_url: https://cloudlinux.com/
-            logo: cloudlinux.svg
-            description: Making Linux secure, stable, and profitable for thousands of hosting providers and data centers worldwide.
-            second_path:
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/cloud-linux-inc
-            twitter: https://twitter.com/CloudLinuxOS
-            extra:
-              linkedin_url: https://www.linkedin.com/company/cloudlinux
           - item:
             name: CloudNuro Corp (member)
             homepage_url: https://cloudnuro.ai/
@@ -40997,6 +41013,17 @@ landscape:
             twitter: https://twitter.com/TurkTelekom
             extra:
               linkedin_url: https://www.linkedin.com/company/turktelekom
+          - item:
+            name: TuxCare, Inc. (member)
+            homepage_url: https://tuxcare.com/
+            logo: tuxcare_inc.svg
+            description: Making Linux secure, stable, and profitable for thousands of hosting providers and data centers worldwide.
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/cloud-linux-inc
+            twitter: https://twitter.com/CloudLinuxOS
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cloudlinux
           - item:
             name: Tuxera Inc. (member)
             homepage_url: https://tuxera.com/
