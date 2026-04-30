@@ -711,6 +711,7 @@ landscape:
               - Project Group / LF Energy (LFE)
               - Technology Sector / AI, ML, Data & Analytics
               - Technology Sector / Safety-Critical Systems
+            repo_url: https://github.com/ainetus/soft_label_gnn
             license: MIT
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -724,6 +725,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfeNXPuYxVK2CRNwbZ
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/ainetus/ainetus_Charter.pdf?v=1768513274785
+              annotations:
+                project_org: https://github.com/ainetus
+            additional_repos: []
           - item:
             name: AI Readiness
             homepage_url: https://github.com/finos/ai-readiness
@@ -11501,7 +11505,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/kubewarden/kubewarden-controller
+            repo_url: https://github.com/kubewarden/adm-controller
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -16661,6 +16665,29 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/opentf
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfIngnAcA4zYXO6h5Z
+          - item:
+            name: Open Tokenized Asset Standard
+            homepage_url: https://github.com/OpenTokenizedAssetStandard
+            logo: open_tokenized_asset_standard.svg
+            description: 'Note/question to formation team: This project will be a standards + code project. Do they need a project charter from us or is the CSL enough?'
+            second_path:
+              - Project Group / LF Decentralized Trust
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/OpenTokenizedAssetStandard/otas-template
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-04-21'
+              dev_stats_url: https://insights.linuxfoundation.org/project/open-tokenized-asset-standard
+              lfx_slug: open-tokenized-asset-standard
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/open-tokenized-asset-standard
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfQl2uDB17iPcEzqWC
+              annotations:
+                project_org: https://github.com/OpenTokenizedAssetStandard
+            additional_repos: []
           - item:
             name: OpenVDB
             homepage_url: https://www.openvdb.org/
@@ -43175,7 +43202,6 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / CHIPS Alliance Fund
-              - Project Membership / RISC-V International
             crunchbase: https://www.crunchbase.com/organization/nebrija-universidad
             extra:
               linkedin_url: https://www.linkedin.com/company/fundacion-nebrija
@@ -43409,7 +43435,6 @@ landscape:
               - Project Membership / Zephyr Project
               - Project Membership / LF Networking (LFN)
               - Project Membership / LF Edge
-              - Project Membership / RISC-V International
             crunchbase: https://www.crunchbase.com/organization/beijing-university-of-posts-and-telecommunications
             extra:
               linkedin_url: https://www.linkedin.com/company/beijing-university-of-posts-and-telecommunications
@@ -43833,7 +43858,6 @@ landscape:
               - Project Membership / LF AI & Data
               - Project Membership / LF Edge
               - Project Membership / CHIPS Alliance Fund
-              - Project Membership / RISC-V International
               - Project Membership / FINOS (The Fintech Open Source Foundation)
               - Project Membership / PyTorch Foundation
             crunchbase: https://www.crunchbase.com/organization/columbia-university
@@ -44977,7 +45001,6 @@ landscape:
             description: The Georgia Institute of Technology, commonly referred to as Georgia Tech or, in the state of Georgia, as Tech, is a public research university and institute of technology in Atlanta, Georgia.
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / RISC-V International
             twitter: https://twitter.com/GeorgiaTech
             extra:
               linkedin_url: https://www.linkedin.com/company/georgia-institute-of-technology
@@ -45043,7 +45066,6 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-              - Project Membership / RISC-V International
             crunchbase: https://www.crunchbase.com/organization/golden-gate-university-san-francisco
             twitter: https://twitter.com/GGU
             extra:
@@ -48368,7 +48390,6 @@ landscape:
             description: Silicon Valley-based SRI International, a nonprofit research and development organization, performs sponsored R&D for governments, businesses, and foundations. SRI brings its innovations to the marketplace through technology licensing, new products, and spin-off ventures. SRI is known for innovations in computing, health and pharmaceuticals, chemistry and materials, sensing, energy, education, national defense, and more.
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / RISC-V International
             crunchbase: https://www.crunchbase.com/organization/sri-international
             twitter: https://twitter.com/SRI_Intl
             extra:
