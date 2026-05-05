@@ -7192,6 +7192,7 @@ landscape:
               - repo_url: https://github.com/finos/legend
               - repo_url: https://github.com/finos/waltz
               - repo_url: https://github.com/finos/morphir
+              - repo_url: https://github.com/finos/architecture-as-code
           - item:
             name: Flatcar
             homepage_url: https://github.com/flatcar
@@ -11166,6 +11167,26 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kubeedge
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IfTjOQAV
+          - item:
+            name: KubeElasti
+            homepage_url: https://kubeelasti.dev/
+            logo: kubeelasti.svg
+            description: KubeElasti (Sometimes referred to as just "Elasti") is a Kubernetes-native solution that offers scale-to-zero functionality when there is no traffic and automatically scales up from 0 when traffic arrives. Most Kubernetes autoscaling solutions can scale from 1 to n replicas based on cpu utilization or memory usage. However, these solutions do not offer a way to scale to 0 when there is no traffic.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/KubeElasti/KubeElasti
+            license: MIT
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-01-12'
+              dev_stats_url: https://insights.linuxfoundation.org/project/kubeelasti
+              lfx_slug: kubeelasti
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kubeelasti
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf8QDM70QtxFjXQf3g
           - item:
             name: KubeFleet
             homepage_url: https://github.com/kubefleet-dev/
@@ -24533,6 +24554,7 @@ landscape:
               - Project Membership / ELISA Fund
               - Project Membership / LF Edge
               - Project Membership / Confidential Computing Consortium (CCC)
+              - Project Membership / RISC-V International
               - Project Membership / Open Source Security Foundation (OpenSSF)
               - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
               - Project Membership / Linux Foundation Europe
@@ -25175,9 +25197,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/activestate
           - item:
-            name: actualyze.ai (member)
+            name: Actualyze AI (member)
             homepage_url: https://actualyze.ai/
-            logo: actualyze.svg
+            logo: actualyze_ai.svg
             description: Enterprise AI is about to change.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
@@ -28227,9 +28249,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/certizen-limited
           - item:
-            name: Chainguard (member)
+            name: Chainguard, Inc. (member)
             homepage_url: https://chainguard.dev/
-            logo: chainguard.svg
+            logo: chainguard_inc.svg
             description: Making the software supply chain secure by default.
             second_path:
               - Project Membership / Open Container Initiative (OCI)
@@ -38082,7 +38104,10 @@ landscape:
             name: Realtek Semiconductor Corporation (member)
             homepage_url: https://realtek.com/
             logo: realtek_semiconductor_corporation.svg
-            description: Realtek Semiconductor Corp. is principally engaged in the research, development, production and distribution of integrated circuits (ICs). The Company’s products portfolio consists of communications network ICs, including Ethernet controllers, gateway ...
+            description: |-
+              Realtek Semiconductor Corp., located in the Hsinchu Science-based Industrial Park — Taiwan's "Silicon Valley" — began with a small group of young, devoted engineers in 1987. Over three decades, these young founding engineers built Realtek into one of the world's largest and most successful IC design houses.
+
+              Realtek's efforts to provide the ultimate in pioneering IC technology — along with its firm commitment to creating unique and innovative designs for a broad range of high-tech applications — have won the company a worldwide reputation and made possible a favorable and consistent growth rate in the years since its establishment. We attribute this achievement to Realtek's tradition of excellence.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Zephyr Project
@@ -38947,13 +38972,6 @@ landscape:
             twitter: https://twitter.com/Reply_UK
             extra:
               linkedin_url: https://www.linkedin.com/company/reply
-          - item:
-            name: Sent, Inc. (member)
-            homepage_url: https://sent.dm/
-            logo: sent_inc.svg
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Camara Fund
           - item:
             name: Sentry Software (member)
             homepage_url: https://sentrysoftware.com/
@@ -40241,6 +40259,14 @@ landscape:
             twitter: https://twitter.com/superorbital_io
             extra:
               linkedin_url: https://www.linkedin.com/company/superorbital
+          - item:
+            name: SuperPlane (member)
+            homepage_url: https://superplane.com/
+            logo: superplane.svg
+            description: SuperPlane provides an open-source DevOps control plane that enables users to manage operational workflows across existing tools, facilitating control over releases, incident responses, infrastructure provisioning, and disaster recovery processes.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
           - item:
             name: Super Protocol (member)
             homepage_url: https://superprotocol.com/
@@ -46602,6 +46628,7 @@ landscape:
             second_path:
               - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/linea-586e
           - item:
             name: Linnaeus University (member)
             homepage_url: https://lnu.se/
