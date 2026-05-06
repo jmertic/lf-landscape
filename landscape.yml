@@ -205,6 +205,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/owf-aca-py
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf0DmMTjlf1WtxauK7
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/owf-aca-py/owf-aca-py_Charter.pdf?v=1778005263672
           - item:
             name: Accessibility Theme Builder
             homepage_url: https://github.com/finos/a11y-theme-builder
@@ -233,7 +235,7 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / Blockchain
               - Technology Sector / Open Source & Compliance Best Practices
-            repo_url: https://github.com/accordproject/template-archive
+            repo_url: https://github.com/accordproject/apap
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2019-05-14'
@@ -249,11 +251,11 @@ landscape:
               annotations:
                 project_org: https://github.com/accordproject
             additional_repos:
+              - repo_url: https://github.com/accordproject/template-archive
               - repo_url: https://github.com/accordproject/concerto
               - repo_url: https://github.com/accordproject/web-components
-              - repo_url: https://github.com/accordproject/cicero-template-library
-              - repo_url: https://github.com/accordproject/models
-              - repo_url: https://github.com/accordproject/markdown-transform
+              - repo_url: https://github.com/accordproject/template-playground
+              - repo_url: https://github.com/accordproject/template-engine
           - item:
             name: ACRN Project
             homepage_url: https://projectacrn.org/
@@ -1106,7 +1108,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfW3zFWz5qCOEuamKU
                 - name: Charter
-                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/apostille/apostille_Charter.pdf?v=1772827090012
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/apostille/apostille_Charter.pdf?v=1778005409304
           - item:
             name: App Defense Alliance Fund
             homepage_url: https://appdefensealliance.dev/
@@ -4445,6 +4447,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/credo
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfgDQVxG6aTebOZJav
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/credo/credo_Charter.pdf?v=1778005473241
           - item:
             name: Cregit
             homepage_url: https://cregit.linuxsources.org/
@@ -5349,6 +5353,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/owf-didcomm-mediator-service
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfJNysYDPtFsnyplp7
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/owf-didcomm-mediator-service/owf-didcomm-mediator-service_Charter.pdf?v=1778005505955
           - item:
             name: DID Communication Working Group
             homepage_url: https://identity.foundation/
@@ -6748,6 +6754,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/farmworker-wallet-os
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfwSQGSdSs0LvlCSFy
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/farmworker-wallet-os/farmworker-wallet-os_Charter.pdf?v=1778005656875
           - item:
             name: FastDataStacks (FDS)
             homepage_url: https://wiki.anuket.io/x/BAkB
@@ -13526,6 +13534,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/multi-format-vc-for-ios
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfdDpLJWXdO5kJMWz2
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/multi-format-vc-for-ios/multi-format-vc-for-ios_Charter.pdf?v=1778005611931
           - item:
             name: Multipaz
             homepage_url: https://github.com/openwallet-foundation/multipaz
@@ -13546,6 +13556,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/mdoc
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MtdL1QAJ
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/mdoc/mdoc_Charter.pdf?v=1778005715909
           - item:
             name: Multi-site State Coordination Service (MUSIC)
             homepage_url: https://wiki.onap.org/x/IQElAQ
@@ -14973,11 +14985,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-06-03'
-              dev_stats_url: https://insights.linuxfoundation.org/project/opencp
-              lfx_slug: opencp
+              dev_stats_url: https://insights.linuxfoundation.org/project/opencontrolplane
+              lfx_slug: opencontrolplane
               other_links:
                 - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/opencp
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/opencontrolplane
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf0aotN8oncp0sZXSx
                 - name: Charter
@@ -19677,6 +19689,30 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/sd-jwt-javascript
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf1y9k3cIl5PqDygcc
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/sd-jwt-javascript/sd-jwt-javascript_Charter.pdf?v=1778005769721
+          - item:
+            name: SD-JWT .NET Reference Implementation
+            homepage_url: https://tac.openwallet.foundation/projects/sd-jwt-dotnet/
+            logo: sd_jwt.svg
+            description: The mission of the Project is to develop a .NET reference implementation of SD-JWT.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/openwallet-foundation-labs/sd-jwt-dotnet
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2024-08-15'
+              dev_stats_url: https://insights.linuxfoundation.org/project/sd-jwt-net
+              lfx_slug: sd-jwt-net
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/sd-jwt-net
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf8Xa7J4BRsjI9Linx
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/sd-jwt-net/sd-jwt-net_Charter.pdf?v=1778006008346
           - item:
             name: SD-JWT Rust Reference Implementation
             homepage_url: https://tac.openwallet.foundation/projects/sd-jwt-rust/
@@ -23169,6 +23205,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/vc-api
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfZ3CuN7sFILTEEHvc
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/vc-api/vc-api_Charter.pdf?v=1778006133435
           - item:
             name: VCX
             homepage_url: https://github.com/openwallet-foundation/vcx
@@ -23746,6 +23784,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/wallet-framework-net
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfb0QURfYl41IBrMJw
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/wallet-framework-net/wallet-framework-net_Charter.pdf?v=1778006246835
           - item:
             name: Waltz
             homepage_url: https://waltz.finos.org/
@@ -27897,6 +27937,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/cadence-design-systems
           - item:
+            name: Calero Software Ltd (member)
+            homepage_url: https://calero.com/
+            logo: calero_software_ltd.svg
+            description: Calero Software provides a managed technology platform that enables organizations to visualize and optimize their sourcing, service, usage, and spending across SaaS, mobility, and telecom services, while also overseeing the entire lifecycle of enterpri...
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Caligra (member)
             homepage_url: https://caligra.com/
             logo: caligra.svg
@@ -28257,6 +28304,7 @@ landscape:
               - Project Membership / Open Container Initiative (OCI)
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+              - Project Membership / FINOS (The Fintech Open Source Foundation)
               - Project Membership / Open Source Security Foundation (OpenSSF)
             crunchbase: https://www.crunchbase.com/organization/chainguard
             twitter: https://twitter.com/chainguard_dev
@@ -40683,16 +40731,6 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/teciem
           - item:
-            name: Tektronix Inc (member)
-            homepage_url: https://tek.com/
-            logo: tektronix_inc.svg
-            description: Tektronix is a leading supplier of test instrumentation for engineers focused on electronic design, manufacturing, and advanced technology development. With over 75 years of experience, Tektronix provides industry-leading test and measurement tools to ...
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Ultra Ethernet Consortium Fund
-            extra:
-              linkedin_url: https://www.linkedin.com/company/tektronix
-          - item:
             name: Telechips, Inc. (member)
             homepage_url: https://telechips.com/
             logo: telechips_inc.svg
@@ -41873,6 +41911,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/valve-corporation
           - item:
+            name: Vana Inc (member)
+            homepage_url: https://vana.org/
+            logo: vana_inc.svg
+            description: The Open Network For User Owned Data
+            second_path:
+              - Project Membership / LF Decentralized Trust
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/toca-4c9d
+          - item:
             name: Vantage (member)
             homepage_url: https://vantage.sh/
             logo: vantage.svg
@@ -43022,6 +43069,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/x-cellent-technologies-gmbh
           - item:
+            name: Xero Limited (member)
+            homepage_url: https://xero.com/
+            logo: xero_limited.svg
+            description: Xero is a global online accounting and payroll system that offers cloud accounting software and services for professionals and small businesses, with features like cash flow management and secure cloud accounting.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Green Software Foundation Fund
+            extra:
+              linkedin_url: https://www.linkedin.com/company/xero
+          - item:
             name: xFlow Research.com (member)
             homepage_url: https://xflowresearch.com/
             logo: xflow_research.svg
@@ -43578,6 +43635,13 @@ landscape:
               - Project Membership / The Linux Foundation
             extra:
               linkedin_url: https://www.linkedin.com/company/alephzero
+          - item:
+            name: Alin Li (member)
+            homepage_url: https://alinli.com/
+            logo: alin_li.svg
+            second_path:
+              - Project Membership / SPDX
+              - Project Membership / The Linux Foundation
           - item:
             name: AlmaLinux (member)
             homepage_url: https://almalinux.org/
@@ -47391,6 +47455,7 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / OpenPOWER Foundation
+              - Project Membership / Ultra Ethernet Consortium Fund
             crunchbase: https://www.crunchbase.com/organization/oak-ridge-national-laboratory
             twitter: https://twitter.com/ORNL
             extra:
