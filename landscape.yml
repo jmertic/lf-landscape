@@ -13940,6 +13940,27 @@ landscape:
                 - name: Charter
                   url: https://www.opnfv.org/wp-content/uploads/sites/12/2018/04/OPNFV-Project-a-Series-of-LF-Projects-LLC-Technical-Charter-4-10-2018.pdf
           - item:
+            name: NMstate
+            homepage_url: https://github.com/nmstate/nmstate
+            logo: nmstate.svg
+            description: develop a library with an accompanying command line tool that manages host networking settings in a declarative manner
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+              - Technology Sector / Networking & Edge
+            repo_url: https://github.com/nmstate/nmstate
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-16'
+              dev_stats_url: https://insights.linuxfoundation.org/project/nmstate
+              lfx_slug: nmstate
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/nmstate
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfNT13O1xT5Oh6iuRC
+          - item:
             name: NNTrainer
             homepage_url: https://github.com/nntrainer
             logo: nntrainer.svg
@@ -31607,6 +31628,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/fongcon-co-ltd
           - item:
             name: Ford Motor Company (member)
             homepage_url: https://ford.com/
@@ -46689,6 +46711,7 @@ landscape:
             name: Linea Consortium (member)
             homepage_url: https://consortium.linea.build/
             logo: linea_consortium.svg
+            description: The Linea Consortium (LC) represents the voice of Ethereum in the form of a council of key Ethereum stewards guiding the Linea Protocol and maintaining its foundational commitment to Ethereum-first alignment.
             second_path:
               - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
