@@ -22184,6 +22184,24 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkU1KQAV
           - item:
+            name: The ITAM Forum
+            homepage_url: https://www.itamf.org/
+            logo: the_itam_forum.svg
+            description: The purpose of the ITAM Forum (the “Directed Fund”) is to raise, budget and spend funds in support of various open source, open data and/or open standards projects relating to IT asset management as a professional body for the advancement of the IT Asset Management industry,  including infrastructure and support initiatives related thereto (each such project, a “Technical Project”).  The governance of each Technical Project is as set forth in the applicable charter for each Technical Project.
+            second_path:
+              - Project Group / The Linux Foundation
+              - Technology Sector / Cross-Technology
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-01'
+              dev_stats_url: https://insights.linuxfoundation.org/project/the-itam-forum
+              lfx_slug: the-itam-forum
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/the-itam-forum
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfUfLIQg841cZfHMWL
+          - item:
             name: The Linux Kernel Organization
             homepage_url: https://www.kernel.org/
             logo: the_linux_kernel_organization.svg
@@ -24074,6 +24092,7 @@ landscape:
             logo: x402.svg
             description: The x402 protocol project seeks to develop an open, HTTP-native payment protocol designed to enable frictionless payments.
             second_path:
+              - Project Group / x402 Foundation
               - Technology Sector / Blockchain
               - Technology Sector / AI, ML, Data & Analytics
             repo_url: https://github.com/x402-foundation/x402
@@ -24093,6 +24112,26 @@ landscape:
               annotations:
                 project_org: https://github.com/x402-foundation
             additional_repos: []
+          - item:
+            name: x402 Foundation
+            homepage_url: https://www.linuxfoundation.org/
+            logo: x402_foundation.svg
+            description: The x402 Foundation supports the x402 open payment protocol project.
+            second_path:
+              - Project Group / The Linux Foundation
+              - Technology Sector / AI, ML, Data & Analytics
+              - Technology Sector / Blockchain
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-04-02'
+              dev_stats_url: https://insights.linuxfoundation.org/project/x402-foundation
+              lfx_slug: x402-foundation
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/x402-foundation
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfXoAq207KdyoiL9B9
           - item:
             name: XAPI
             homepage_url: https://xenproject.org/developers/teams/xen-api/
@@ -24642,6 +24681,7 @@ landscape:
               - Project Membership / Confidential Computing Consortium (CCC)
               - Project Membership / RISC-V International
               - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
+              - Project Membership / eBPF Foundation
               - Project Membership / PyTorch Foundation
               - Project Membership / Ultra Ethernet Consortium Fund
               - Project Membership / Overture Maps Foundation Fund
@@ -28147,18 +28187,6 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
           - item:
-            name: Carbonated (member)
-            homepage_url: https://carbonated.com/
-            logo: carbonated.svg
-            description: LIVE OPPONENTS. REAL COMPETITION.   True real-time racing at your fingertips. Racing Rivals lets you challenge or be challenged by live opponents in game lobbies with feature race replays and live chat.    HIGH STAKES BETTING   Back your bets with skil...
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Open 3D Foundation
-            crunchbase: https://www.crunchbase.com/organization/carbonated
-            twitter: https://twitter.com/CarbGames
-            extra:
-              linkedin_url: https://www.linkedin.com/company/carbonated-inc.
-          - item:
             name: CardinalHQ (member)
             homepage_url: https://cardinalhq.io/
             logo: cardinalhq.svg
@@ -28671,6 +28699,23 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/claion
+          - item:
+            name: CleanStart (member)
+            homepage_url: https://cleanstart.com/
+            logo: cleanstart.svg
+            description: |-
+              Triamsecurity is a leading provider of comprehensive security solutions for businesses. We offer a wide range of products and services to help protect your company from various threats. Our team of experts specializes in risk assessment, security consu...
+
+              --- Merged Data:
+
+              Triamsecurity is a leading provider of comprehensive security solutions for businesses. We offer a wide range of products and services to help protect your company from various threats. Our team of experts specializes in risk assessment, security consu...
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+              - Project Membership / Open Source Security Foundation (OpenSSF)
+            crunchbase: https://www.crunchbase.com/organization/triam-security
+            extra:
+              linkedin_url: https://www.linkedin.com/company/triam-security
           - item:
             name: Cleura (member)
             homepage_url: https://cleura.com/
@@ -41393,23 +41438,6 @@ landscape:
             twitter: https://twitter.com/TrendMicro
             extra:
               linkedin_url: https://www.linkedin.com/company/trend-micro
-          - item:
-            name: Triam Security (member)
-            homepage_url: https://cleanstart.com/
-            logo: triam_security.svg
-            description: |-
-              Triamsecurity is a leading provider of comprehensive security solutions for businesses. We offer a wide range of products and services to help protect your company from various threats. Our team of experts specializes in risk assessment, security consu...
-
-              --- Merged Data:
-
-              Triamsecurity is a leading provider of comprehensive security solutions for businesses. We offer a wide range of products and services to help protect your company from various threats. Our team of experts specializes in risk assessment, security consu...
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-              - Project Membership / Open Source Security Foundation (OpenSSF)
-            crunchbase: https://www.crunchbase.com/organization/triam-security
-            extra:
-              linkedin_url: https://www.linkedin.com/company/triam-security
           - item:
             name: Trimble Inc. (member)
             homepage_url: https://trimble.com/
