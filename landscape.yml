@@ -186,28 +186,6 @@ landscape:
               - repo_url: https://github.com/AcademySoftwareFoundation/aswf-sample-project
               - repo_url: https://github.com/AcademySoftwareFoundation/aswf-sample-wg
           - item:
-            name: ACA-Py
-            homepage_url: https://github.com/orgs/openwallet-foundation
-            logo: aca_py.svg
-            description: ACA-Py (Aries Cloud Agent Python) is an open-source framework designed to facilitate the creation, management, and utilization of decentralized digital identities. ACA-Py enables secure, interoperable communication between entities using decentralized identifiers (DIDs) and verifiable credentials, adhering to standards such as DIDComm, OpenID4VCs and the W3C Verifiable Credentials.
-            second_path:
-              - Project Group / OpenWallet Foundation
-              - Technology Sector / Cross-Technology
-            repo_url: https://github.com/orgs/openwallet-foundation
-            license: Apache-2.0
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2025-08-27'
-              dev_stats_url: https://insights.linuxfoundation.org/project/owf-aca-py
-              lfx_slug: owf-aca-py
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/owf-aca-py
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf0DmMTjlf1WtxauK7
-                - name: Charter
-                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/owf-aca-py/owf-aca-py_Charter.pdf?v=1778005263672
-          - item:
             name: Accessibility Theme Builder
             homepage_url: https://github.com/finos/a11y-theme-builder
             logo: accessibility_theme_builder.svg
@@ -303,6 +281,28 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs6bQAD
                 - name: Charter
                   url: https://www.linuxfoundation.org/wp-content/uploads/2018/01/LF-Networking-Fund-Charter-January-2018.pdf
+          - item:
+            name: Adaptive Cloud Agent - Python (ACA-Py)
+            homepage_url: https://github.com/orgs/openwallet-foundation
+            logo: adaptive_cloud_agent_python_aca_py.svg
+            description: Adaptive Cloud Agent - Python (ACA-Py) (Aries Cloud Agent Python) is an open-source framework designed to facilitate the creation, management, and utilization of decentralized digital identities. Adaptive Cloud Agent - Python (ACA-Py) enables secure, interoperable communication between entities using decentralized identifiers (DIDs) and verifiable credentials, adhering to standards such as DIDComm, OpenID4VCs and the W3C Verifiable Credentials.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/orgs/openwallet-foundation
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-08-27'
+              dev_stats_url: https://insights.linuxfoundation.org/project/owf-aca-py
+              lfx_slug: owf-aca-py
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/owf-aca-py
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf0DmMTjlf1WtxauK7
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/owf-aca-py/owf-aca-py_Charter.pdf?v=1778535214838
           - item:
             name: Adlik
             homepage_url: https://adlik.ai/
@@ -3362,7 +3362,7 @@ landscape:
             second_path:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/cobaltcore-dev/gardenlinux
+            repo_url: https://github.com/cobaltcore-dev/cortex
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -3379,9 +3379,11 @@ landscape:
               annotations:
                 project_org: https://github.com/cobaltcore-dev
             additional_repos:
-              - repo_url: https://github.com/cobaltcore-dev/cortex
-              - repo_url: https://github.com/cobaltcore-dev/steering
               - repo_url: https://github.com/cobaltcore-dev/aurora-dashboard
+              - repo_url: https://github.com/cobaltcore-dev/openstack-nix
+              - repo_url: https://github.com/cobaltcore-dev/kvm-node-agent
+              - repo_url: https://github.com/cobaltcore-dev/openstack-hypervisor-operator
+              - repo_url: https://github.com/cobaltcore-dev/docs
           - item:
             name: COBOL Check
             homepage_url: https://github.com/openmainframeproject/cobol-check
@@ -29975,7 +29977,12 @@ landscape:
             name: Decimal (member)
             homepage_url: https://decimal.app/
             logo: decimal.svg
-            description: Decimal is an AI support agent that reads your code and logs, pinpoints the issue, and drafts the customer reply before you even open the ticket.
+            description: |-
+              Decimal is an AI support agent that reads your code and logs, pinpoints the issue, and drafts the customer reply before you even open the ticket.
+
+              --- Merged Data:
+
+              Decimal AI provides an online test preparation platform that offers high-quality practice tests and personalized learning plans to help students excel in their exams.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -31967,9 +31974,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/general-dynamics-information-technology
           - item:
-            name: GEICO (member)
+            name: GEICO, Inc. (member)
             homepage_url: https://geico.com/
-            logo: geico.svg
+            logo: geico_inc.svg
             description: GEICO is an insurance company that provides coverage for cars, motorcycles, ATVs, travel trailers, motorhomes, boats, homes, and apartments. As a member of the Berkshire Hathaway group of companies, GEICO is rated A++ for financial strength by A.M. Bes...
             second_path:
               - Project Membership / The Linux Foundation
