@@ -609,34 +609,6 @@ landscape:
                 project_org: https://github.com/agstack
             additional_repos: []
           - item:
-            name: AI Dataset Health for z/OS
-            homepage_url: https://github.com/marbatis/ai-dataset-health-zos
-            logo: ai_dataset_health_for_z_os.svg
-            description: |-
-              ai-dataset-health-zos is a small, open-source Python tool that:
-
-              - Lists repository files (future: z/OS datasets via z/OSMF Jobs & Files APIs).
-              - Computes a simple dataset health score (initial rule: zero-byte file detection).
-              - Exposes a CLI (list_files.py --health) with human-readable output.
-              - Ships with modern CI gates: Ruff (lint), Black (format), MyPy (types), Pytest (coverage).
-            second_path:
-              - Project Group / Open Mainframe Project (OMP)
-              - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/marbatis/ai-dataset-health-zos
-            license: Apache-2.0
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2025-09-16'
-              dev_stats_url: https://insights.linuxfoundation.org/project/ai-dataset-health-for-z-os
-              lfx_slug: ai-dataset-health-for-z-os
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ai-dataset-health-for-z-os
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfRGB5iwba4UzNRLWb
-                - name: Charter
-                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/ai-dataset-health-for-z-os/ai-dataset-health-for-z-os_Charter.pdf?v=1758202244545
-          - item:
             name: AI Explainability 360
             homepage_url: https://ai-explainability-360.org/
             logo: ai_explainability_360.svg
@@ -25433,6 +25405,7 @@ landscape:
             logo: adyen_n.svg
             description: We provide a single payments platform globally to accept payments and grow revenue online, on mobile, and at the point of sale.
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/adyen
             twitter: https://twitter.com/Adyen
@@ -26027,6 +26000,13 @@ landscape:
             homepage_url: https://altlayer.io/
             logo: altlayer.svg
             description: AltLayer is a decentralized protocol that enables the creation and deployment of native and restaked rollups using both optimistic and zk rollup technologies, providing a no-code solution for scaling Web3 applications.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
+            name: Always Further, Inc (member)
+            homepage_url: https://alwaysfurther.ai/
+            logo: always_further_inc.svg
+            description: Always Further specializes in providing operating system level isolation and cryptographic provenance for AI agents, ensuring that unauthorized operations are structurally impossible through advanced sandboxing techniques and kernel-enforced security m...
             second_path:
               - Project Membership / The Linux Foundation
           - item:
@@ -26878,17 +26858,6 @@ landscape:
             twitter: https://twitter.com/Atlassian
             extra:
               linkedin_url: https://www.linkedin.com/company/atlassian
-          - item:
-            name: Atolio, Inc. (member)
-            homepage_url: https://atolio.com/
-            logo: atolio_inc.svg
-            description: Atolio provides a search platform that centralizes public and permissioned content to offer a private enterprise-wide generative AI chat experience. Their solution helps teams quickly find answers and connect all apps, services, and assets across the b...
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/atolio
-            extra:
-              linkedin_url: https://www.linkedin.com/company/atolio
           - item:
             name: AT&T Services, Inc. (member)
             homepage_url: https://att.com/
@@ -35763,6 +35732,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/moxa
           - item:
+            name: MOXFIVE (member)
+            homepage_url: https://moxfive.com/
+            logo: moxfive.svg
+            description: MOXFIVE is a specialized Technical Advisory firm that helps organizations respond to cyber attacks and minimize their impact. They optimize incident response processes and provide tailored solutions through their technical experts and proprietary platf...
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Mpiric Software (member)
             homepage_url: https://mpiricsoftware.com/
             logo: mpiric_software.svg
@@ -36636,6 +36612,7 @@ landscape:
             description: OmniTrust Security LLC is a top provider of end-to-end embedded security solutions for a secure Internet of Things, key management, certificate management, and secure OTA provisioning
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / Confidential Computing Consortium (CCC)
               - Project Membership / RISC-V International
               - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
             extra:
@@ -39392,6 +39369,13 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / FinOps Foundation
+          - item:
+            name: SKALE (member)
+            homepage_url: https://skale.space/
+            logo: skale.svg
+            description: SKALE is a modular blockchain network with zero gas fees, optimized for Web3 gaming and dApps, offering fast transactions and advanced features like on-chain file storage and NFT minting.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Skydance Animation, LLC (member)
             homepage_url: https://skydance.com/
