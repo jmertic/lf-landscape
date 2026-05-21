@@ -10355,13 +10355,13 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkBBCQA3
           - item:
             name: Katalis
-            homepage_url: https://github.com/telekom/NeoNephos-Katalis
+            homepage_url: https://katalis-project.org/
             logo: katalis.svg
             description: develop solutions to bridge Telco and Cloud Provider APIs utilizing Kubernetes to drive orchestration and federation principles
             second_path:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/telekom/NeoNephos-Katalis
+            repo_url: https://github.com/neonephos-katalis/opg-ewbi-operator
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -10375,6 +10375,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfT8I2Rgyq7mrXO2QU
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/katalis/katalis_Charter.pdf?v=1774985434219
+              annotations:
+                project_org: https://github.com/neonephos-katalis
+            additional_repos: []
           - item:
             name: KCL
             homepage_url: https://github.com/kcl-lang/kcl
@@ -30265,18 +30268,6 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/dominion-hosting-holding
           - item:
-            name: Dhiway Networks Private Limited (member)
-            homepage_url: https://dhiway.com/
-            logo: dhiway_networks_private_limited.svg
-            description: A verifiable data exchange platform delivering authenticity across institutional boundaries.
-            second_path:
-              - Project Membership / LF Decentralized Trust
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/dhiway
-            twitter: https://twitter.com/dhiwaynetworks
-            extra:
-              linkedin_url: https://www.linkedin.com/company/dhiway
-          - item:
             name: Diagrid (member)
             homepage_url: https://diagrid.io/
             logo: diagrid.svg
@@ -43158,7 +43149,7 @@ landscape:
             name: x-ion GmbH (member)
             homepage_url: https://x-ion.de/
             logo: x_ion_gmbh.svg
-            description: XION makes it insanely easy for small retailers to create an ecommerce store. Small retailers simply create a store on our marketplace website and add products from our database.
+            description: 'x-ion provides cloud infrastructure as a service. This includes OpenStack, Ceph, Kubernetes as well as other offerings. We are building a public cloud in Germany: https://xcloud.eu/'
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
