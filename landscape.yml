@@ -465,6 +465,7 @@ landscape:
             logo: agentgateway.svg
             description: The agentgateway project is focused on creating a secure, scalable, and standardized foundation for AI agents to discover, communicate with, and leverage external tools and services—enabling seamless cooperation between agents, models, and APIs across organizations and ecosystems.
             second_path:
+              - Project Group / Agentic AI Foundation (AAIF)
               - Technology Sector / AI, ML, Data & Analytics
             repo_url: https://github.com/agentgateway/agentgateway
             license: Apache-2.0
@@ -19099,6 +19100,27 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/odl-releng-builder
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWecFQAT
+          - item:
+            name: ReLife
+            homepage_url: https://github.com/relife-energy
+            logo: relife.svg
+            description: ReLife is an open source Python library that implements survival analysis methods, renewal theory, and socioeconomic evaluation aimed at optimizing network asset renewal policies.
+            second_path:
+              - Project Group / LF Energy (LFE)
+              - Technology Sector / AI, ML, Data & Analytics
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-05-08'
+              dev_stats_url: https://insights.linuxfoundation.org/project/relife
+              lfx_slug: relife
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/relife
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfa41EPKWxFl60ZGdB
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/relife/relife_Charter.pdf?v=1778275208631
           - item:
             name: Rend-o-matic
             homepage_url: https://rend-o-matic.github.io/
