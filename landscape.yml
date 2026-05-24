@@ -139,6 +139,7 @@ landscape:
             second_path:
               - Project Group / Academy Software Foundation (ASWF)
               - Technology Sector / Visual Effects
+            repo_url: https://github.com/aces-aswf/aces-core
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -152,6 +153,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfXJcd7sytTjCn40g9
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/aces/aces_Charter.pdf?v=1763476981785
+              annotations:
+                project_org: https://github.com/aces-aswf
+            additional_repos: []
           - item:
             name: Academy Software Foundation (ASWF)
             homepage_url: https://www.aswf.io/
@@ -5990,6 +5994,7 @@ landscape:
               - Project Group / LF Edge
               - Industry / Cross-Industry
               - Technology Sector / Networking & Edge
+            repo_url: https://github.com/edgexfoundry/edgex-go
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2019-05-01'
@@ -6002,6 +6007,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000005osNnAAI
                 - name: Charter
                   url: https://wiki.lfedge.org/download/attachments/65596/EdgeX%20Foundry%20-%20LF%20Projects%2C%20LLC%205-22-2020%20clean.pdf?version=2&modificationDate=1591460733865&api=v2
+              annotations:
+                project_org: https://github.com/edgexfoundry
+            additional_repos: []
           - item:
             name: Egeria
             homepage_url: http://egeria.ai/
@@ -16825,6 +16833,7 @@ landscape:
               - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
               - Technology Sector / Web & Application Development
+            repo_url: https://github.com/Open-Voice-Trustmark/docs
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -16838,6 +16847,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfVuFfrRVwzlnrZ8wF
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/The%20Open%20Voice%20Network%20Trustmark%20Initiative%20Technical%20Charter%2012-11-2023%20(1).docx.pdf
+              annotations:
+                project_org: https://github.com/Open-Voice-Trustmark
+            additional_repos: []
           - item:
             name: Open vSwitch (OVS)
             homepage_url: https://www.openvswitch.org/
