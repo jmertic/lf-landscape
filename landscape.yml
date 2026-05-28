@@ -2507,6 +2507,28 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkVBPQA3
           - item:
+            name: Chantico
+            homepage_url: https://github.com/chantico-project/chantico
+            logo: chantico.svg
+            description: The mission of the Project is to develop a cloud-native approach to monitor and attribute the energy consumption of data center IT equipment, such as PDUs and bare metal servers, but also virtual machines running on hypervisors and pods in clusters.
+            second_path:
+              - Project Group / NeoNephos Foundation
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/chantico-project/chantico
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-05-21'
+              dev_stats_url: https://insights.linuxfoundation.org/project/chantico
+              lfx_slug: chantico
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/chantico
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfLTQQY7vubKTQlgVU
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/chantico/chantico_Charter.pdf?v=1779377899875
+          - item:
             name: ChaosBlade
             homepage_url: https://github.com/chaosblade-io/chaosblade
             logo: chaosblade.svg
@@ -29510,7 +29532,7 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/core-247
           - item:
-            name: Coredge.io (member)
+            name: COREDGE (member)
             homepage_url: https://coredge.io/
             logo: coredge.svg
             description: Coredge.io
@@ -31816,7 +31838,7 @@ landscape:
             name: Frontegg (member)
             homepage_url: https://agen.co/
             logo: frontegg.svg
-            description: Connect your apps to AI agents with Agen. Intelligent security, seamless integrations, and enterprise-grade infrastructure built to bridge the app-to-agent gap.
+            description: Agen.co allows internal teams to securely connect agents to the apps they love, and allows external agents to connect to SaaS applications via an enterprise MCP.
             second_path:
               - Project Membership / The Linux Foundation
           - item:
@@ -40370,16 +40392,6 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-          - item:
-            name: Super Protocol (member)
-            homepage_url: https://superprotocol.com/
-            logo: super_protocol.svg
-            description: Super Protocol is a leading provider of confidential Web3 cloud services, offering a universal decentralized protocol for secure computing without third parties.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Confidential Computing Consortium (CCC)
-            extra:
-              linkedin_url: https://www.linkedin.com/company/superprotocol
           - item:
             name: SurrealDB (member)
             homepage_url: https://surrealdb.com/
