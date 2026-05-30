@@ -14965,6 +14965,34 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkOXfQAN
           - item:
+            name: Open Component Model
+            homepage_url: https://ocm.software/
+            logo: open_component_model.svg
+            description: OCM is an open standard for describing software artifacts and lifecycle metadata. It is a technology-agnostic and machine-readable format and focuses on software artifacts that need to be delivered securely across boundaries. At the same time, it maintains integrity and provenance along the complete supply chain. With the unique identifier of OCM components acting as correlation ID, it enables the alignment of different, possibly asynchronous processes and tools across all stages of the software lifecycle.
+            second_path:
+              - Project Group / NeoNephos Foundation
+              - Technology Sector / Open Source & Compliance Best Practices
+            repo_url: https://github.com/open-component-model/open-component-model
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-08-29'
+              dev_stats_url: https://insights.linuxfoundation.org/project/open-component-model
+              lfx_slug: open-component-model
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/open-component-model
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfDxshpdqN9H9Uumud
+                - name: Charter
+                  url: https://github.com/open-component-model/open-component-model/blob/main/docs/steering/CHARTER.md
+              annotations:
+                project_org: https://github.com/open-component-model
+            additional_repos:
+              - repo_url: https://github.com/open-component-model/ocm-spec
+              - repo_url: https://github.com/open-component-model/open-delivery-gear
+              - repo_url: https://github.com/open-component-model/community
+          - item:
             name: Open Container Initiative (OCI)
             homepage_url: https://www.opencontainers.org/
             logo: open_container_initiative_oci.svg
@@ -28476,9 +28504,9 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / Zephyr Project
           - item:
-            name: China Mobile Communication Company Ltd (member)
+            name: China Mobile Communication Company., Ltd (member)
             homepage_url: https://chinamobileltd.com/
-            logo: china_mobile_communication_company_ltd.svg
+            logo: china_mobile_communication_company.svg
             description: China Mobile serves about 488 million subscribers, more than two thirds of the nation's total, making it China's and the world's leading wireless operator by subscribers. In addition to local, domestic, and international phone service, China Mobile offers short message services (SMS) and various mobile content features. It primarily uses the Global System for Mobile Communications (GSM) standard. State-controlled China Mobile Communications Corporation (CMCC) indirectly holds a majority stake (about 75%) in China Mobile.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
@@ -33642,7 +33670,7 @@ landscape:
             name: iProov (member)
             homepage_url: https://iproov.com/
             logo: iproov.svg
-            description: Award-winning provider of online biometric authentication, identity verification, digital onboarding services, and Genuine Presence Assurance technology.
+            description: Award-winning provider of online biometric authentication, identity verification, digital onboarding services, and Genuine Presence Assurance technology
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
@@ -39824,7 +39852,7 @@ landscape:
             name: Soundpatrol Inc. (member)
             homepage_url: https://soundpatrol.com/
             logo: soundpatrol_inc.svg
-            description: Building Large Music Models to create value and champion ownership.
+            description: SoundPatrol builds AI infrastructure for the entertainment industry. Our neural fingerprinting technology protects creative integrity across video, audio, and generative media at scale.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
@@ -40935,7 +40963,7 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/tensor9
           - item:
-            name: TensorMesh, Inc. (member)
+            name: Tensormesh, Inc. (member)
             homepage_url: https://tensormesh.ai/
             logo: tensormesh_inc.svg
             description: Slash AI inference costs and latency by up to 10x with enterprise-grade caching for large language models.
@@ -47845,6 +47873,7 @@ landscape:
             name: Open Solutions For Government (member)
             homepage_url: https://ogov.org/
             logo: open_solutions_for_government.svg
+            description: OGOV is a nonprofit that helps public sector organizations create sharable solutions by modernizing procurement policy and practice.
             second_path:
               - Project Membership / The Linux Foundation
           - item:
