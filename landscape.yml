@@ -3255,6 +3255,28 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkRy9QAF
           - item:
+            name: ClusterShell
+            homepage_url: https://clustershell.readthedocs.io/en/latest/
+            logo: clustershell.svg
+            description: ClusterShell is an event-driven open source Python library, designed to run local or distant commands in parallel on server farms or on large Linux clusters.
+            second_path:
+              - Project Group / High Performance Software Foundation (HPSF)
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/cea-hpc/clustershell
+            license: Other
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-05-15'
+              dev_stats_url: https://insights.linuxfoundation.org/project/clustershell
+              lfx_slug: clustershell
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/clustershell
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf5nhuACgMcNy9SrYc
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/clustershell/clustershell_Charter.pdf?v=1778881472119
+          - item:
             name: CNCF Binary Project
             homepage_url: https://www.cncf.io/
             logo: cncf_binary_project.svg
@@ -5578,6 +5600,27 @@ landscape:
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/DLRover%20Technical%20Charter%20Final%2011-14-2024.pdf
           - item:
+            name: DNS-AID
+            homepage_url: https://dns-aid.org/
+            logo: dns_aid.svg
+            description: DNS-AID enables AI agents to discover each other via DNS, using the internet's existing naming infrastructure instead of centralized registries or hardcoded URLs.
+            second_path:
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/dns-aid/dns-aid-core
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-05-26'
+              dev_stats_url: https://insights.linuxfoundation.org/project/dns-aid
+              lfx_slug: dns-aid
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/dns-aid
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf254UfQduBrYW5Yd6
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/dns-aid/dns-aid_Charter.pdf?v=1780420505133
+          - item:
             name: DocArray
             homepage_url: https://github.com/docarray
             logo: docarray.svg
@@ -7374,6 +7417,36 @@ landscape:
               - repo_url: https://github.com/fluxcd/flux2-multi-tenancy
               - repo_url: https://github.com/fluxcd/agent-skills
               - repo_url: https://github.com/fluxcd/community
+          - item:
+            name: Flux Framework
+            homepage_url: https://flux-framework.org/
+            logo: flux_framework.svg
+            description: A modern, hierarchical resource management framework for managing HPC workloads.
+            second_path:
+              - Project Group / High Performance Software Foundation (HPSF)
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/flux-framework/flux-core
+            license: Other
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-05-29'
+              dev_stats_url: https://insights.linuxfoundation.org/project/flux-framework
+              lfx_slug: flux-framework
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/flux-framework
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfJgWWI8zyIEKRxdZj
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/flux-framework/flux-framework_Charter.pdf?v=1780436833284
+              annotations:
+                project_org: https://github.com/flux-framework
+            additional_repos:
+              - repo_url: https://github.com/flux-framework/flux-sched
+              - repo_url: https://github.com/flux-framework/flux-docs
+              - repo_url: https://github.com/flux-framework/rfc
+              - repo_url: https://github.com/flux-framework/flux-accounting
+              - repo_url: https://github.com/flux-framework/flux-security
           - item:
             name: Flyte
             homepage_url: https://flyte.org/
@@ -12120,6 +12193,31 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/lima
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L1HYBQA3
+          - item:
+            name: Lineth
+            homepage_url: https://github.com/LFDT-Lineth
+            logo: lineth.svg
+            description: The mission of the Project is to develop and maintain the Lineth Stack — a complete, open-source, EVM-equivalent ZK rollup protocol stack — enabling scalable, low-cost, and cryptographically secure Layer 2 transactions on Ethereum and EVM-compatible networks.
+            second_path:
+              - Project Group / LF Decentralized Trust
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/LFDT-Lineth/zkc
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-05-04'
+              dev_stats_url: https://insights.linuxfoundation.org/project/lineth
+              lfx_slug: lineth
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/lineth
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfa3tWOO5iaQxIOIvC
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/lineth/lineth_Charter.pdf?v=1778511515680
+              annotations:
+                project_org: https://github.com/LFDT-Lineth
+            additional_repos: []
           - item:
             name: Linkerd
             homepage_url: https://linkerd.io/
@@ -20335,6 +20433,28 @@ landscape:
                 project_org: https://github.com/slsa-framework
             additional_repos: []
           - item:
+            name: Smart HEMS Benchmark
+            homepage_url: https://github.com/ecoflow-ai/hems-benchmark
+            logo: smart_hems_benchmark.svg
+            description: This project aims to address the critical gap of standardized benchmarking scenarios in the rapid growth of residential Distributed Energy Resources (DERs). Through establishing a comprehensive open-source benchmarking platform, we provide an evaluation framework for the entire residential DER lifecycle.
+            second_path:
+              - Project Group / LF Energy (LFE)
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/ecoflow-ai/hems-benchmark
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-05-14'
+              dev_stats_url: https://insights.linuxfoundation.org/project/smart-hems-benchmark
+              lfx_slug: smart-hems-benchmark
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/smart-hems-benchmark
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfmCFnNe5hmZCBSF2C
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/smart-hems-benchmark/smart-hems-benchmark_Charter.pdf?v=1778864145915
+          - item:
             name: Smoot
             homepage_url: https://github.com/LFDT-Smoot
             logo: smoot.svg
@@ -26303,6 +26423,15 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / Ultra Ethernet Consortium Fund
           - item:
+            name: amutable (member)
+            homepage_url: https://amutable.com/
+            logo: amutable.svg
+            description: amutable is a company that aims to end NFT theft. They provide innovative solutions to protect and secure non-fungible tokens, ensuring that creators and owners can confidently showcase and trade their digital assets without the risk of theft or unauth...
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/amutable-ltd
+          - item:
             name: Anaconda, Inc (member)
             homepage_url: https://anaconda.com/
             logo: anaconda_inc.svg
@@ -29678,6 +29807,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/cpmc-llc
           - item:
+            name: Crafty Penguins (member)
+            homepage_url: https://craftypenguins.net/
+            logo: crafty_penguins.svg
+            description: Crafty Penguins provides expert Linux consulting, support, and managed services for software development teams and IT professionals, focusing on DevOps, SRE, and security audits.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / FINOS (The Fintech Open Source Foundation)
+          - item:
             name: credativ® (member)
             homepage_url: https://credativ.de/
             logo: credativ_r.svg
@@ -29844,6 +29981,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+              - Project Membership / Linux Foundation Europe
             crunchbase: https://www.crunchbase.com/organization/cyso
             twitter: https://twitter.com/cyso
             extra:
@@ -30045,6 +30183,17 @@ landscape:
             logo: datastrato.svg
             second_path:
               - Project Membership / The Linux Foundation
+          - item:
+            name: Datavant Inc (member)
+            homepage_url: https://datavant.com/
+            logo: datavant_inc.svg
+            description: Datavant provides solutions to help institutions protect, match and share health data
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/datavant
+            twitter: https://twitter.com/DatavantHQ
+            extra:
+              linkedin_url: https://www.linkedin.com/company/datavant
           - item:
             name: DB Systel GmbH (member)
             homepage_url: https://dbsystel.de/
@@ -31909,7 +32058,7 @@ landscape:
             name: Frontegg (member)
             homepage_url: https://agen.co/
             logo: frontegg.svg
-            description: Agen.co allows internal teams to securely connect agents to the apps they love, and allows external agents to connect to SaaS applications via an enterprise MCP.
+            description: Agen.co is the AI agent governance platform. Secure, audit, and control how AI agents access your enterprise tools and data — across every MCP server, every workforce identity.
             second_path:
               - Project Membership / The Linux Foundation
           - item:
@@ -32161,6 +32310,13 @@ landscape:
               - Project Membership / The Linux Foundation
             extra:
               linkedin_url: https://www.linkedin.com/company/gientech
+          - item:
+            name: Gierd Inc (member)
+            homepage_url: https://gierd.com/
+            logo: gierd_inc.svg
+            description: Gierd provides an intelligent unified marketplace commerce platform that consolidates sales, pricing, refunds, and supply data into structured, audit-ready financial information, enabling businesses to achieve comprehensive profitability visibility and...
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: GitCode (member)
             homepage_url: https://gitcode.csdn.net/
@@ -37840,35 +37996,7 @@ landscape:
             name: PTC Inc. (member)
             homepage_url: https://ptc.com/
             logo: ptc_inc.svg
-            description: |-
-              About us
-              PTC (NASDAQ: PTC) is a global provider of technology platforms and solutions that transform how companies create, operate, and service the "things"​ in the Internet of Things (IoT). The company's next-generation ThingWorx® technology platform gives developers the tools they need to capture, analyze, and capitalize on the vast amounts of data being generated by smart, connected products and systems. The company's field-proven solutions are deployed in more than 26,000 businesses worldwide to generate a product or service advantage. PTC's award-winning CEO, considered an industry thought leader, co-authored the definitive guides to the impact of the IoT on business in the Harvard Business Review.
-               
-              All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status
-
-              Recent updateSee all See all recent updates
-              Image accompanying recent update
-              PTC Launches Cybersecurity Initiative
-
-              ptc.com
-
-              18 Likes
-              Company details
-              Website
-              http://ptc.co/LqfS30dDmFc
-              Headquarters
-              Needham, Ma
-
-              Year founded
-              1985
-
-              Company type
-              Public Company
-
-              Company size
-              5,001-10,000 employees
-              Specialties
-              Product Development Solutions, PLM - Product Lifecycle Management, Quality Management, Regulatory Compliance, CAD- Computer Aided Design, Internet of Things, Application Lifecycle Management, Service Lifecycle Management, Supply Chain Management, and Augmented Reality
+            description: PTC is a global software company that enables industrial and manufacturing companies to digitally transform how they engineer, manufacture, and service the physical products that the world relies on. Headquartered in Boston, Massachusetts, PTC employs over 7,000 people and supports more than 30,000 customers globally. For more information, please visit www.ptc.com.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Alliance for OpenUSD Fund (AOUSDF)
