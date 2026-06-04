@@ -8137,7 +8137,8 @@ landscape:
               - repo_url: https://github.com/cloudoperators/greenhouse-extensions
               - repo_url: https://github.com/cloudoperators/juno
               - repo_url: https://github.com/cloudoperators/heureka
-              - repo_url: https://github.com/cloudoperators/steering
+              - repo_url: https://github.com/cloudoperators/shoot-grafter
+              - repo_url: https://github.com/cloudoperators/repo-guard
           - item:
             name: Green Software Foundation Fund
             homepage_url: https://greensoftware.foundation/
@@ -9712,6 +9713,7 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / Cloud, Containers & Virtualization
             repo_url: https://github.com/jaegertracing/jaeger
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2017-09-13'
@@ -15082,8 +15084,6 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/open-component-model
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfDxshpdqN9H9Uumud
-                - name: Charter
-                  url: https://github.com/open-component-model/open-component-model/blob/main/docs/steering/CHARTER.md
               annotations:
                 project_org: https://github.com/open-component-model
             additional_repos:
@@ -21407,6 +21407,31 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkUbCQAV
           - item:
+            name: SQLMesh
+            homepage_url: https://github.com/SQLMesh
+            logo: sqlmesh.svg
+            description: SQLMesh is a next-generation data transformation framework designed to ship data quickly, efficiently, and without error. Data teams can run and deploy data transformations written in SQL or Python with visibility and control at any size.
+            second_path:
+              - Project Group / LF AI & Data
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/SQLMesh/sqlmesh
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-04'
+              dev_stats_url: https://insights.linuxfoundation.org/project/sqlmesh
+              lfx_slug: sqlmesh
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/sqlmesh
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf8xTqXm1LnW4izTlF
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/sqlmesh/sqlmesh_Charter.pdf?v=1773095501211
+              annotations:
+                project_org: https://github.com/SQLMesh
+            additional_repos: []
+          - item:
             name: stacker
             homepage_url: https://stackerbuild.io/
             logo: stacker.svg
@@ -25907,6 +25932,7 @@ landscape:
             logo: airbnb.svg
             description: Airbnb, Inc. operates an online community marketplace for people to list, discover, and book accommodations worldwide online or from a mobile phone. The company allows people to rent out their extra space and showcase it to audience. Airbnb, Inc. was formerly known as AirBed & Breakfast, Inc. The company was founded in 2008 and is based in San Francisco, California.
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / GraphQL Foundation
             crunchbase: https://www.crunchbase.com/organization/airbnb
@@ -26158,12 +26184,6 @@ landscape:
             twitter: https://twitter.com/AlphausCloud
             extra:
               linkedin_url: https://www.linkedin.com/company/mobingi
-          - item:
-            name: alphawave semi (member)
-            homepage_url: https://alphawavesemi.com/
-            logo: alphawave_semi.svg
-            second_path:
-              - Project Membership / The Linux Foundation
           - item:
             name: Alpic (member)
             homepage_url: https://alpic.ai/
@@ -31094,7 +31114,10 @@ landscape:
             name: Electrifex (member)
             homepage_url: https://electrifex.com/
             logo: electrifex.svg
-            description: Electrifex specializes in developing embedded electronic and software products, leveraging the extensive industrial experience of its team of dedicated engineers and product managers.
+            description: |-
+              We design advanced embedded platform software for automotive ECUs, with expertise in Linux and Android BSPs, hypervisors, audio DSP, security, and AI. Our teams work at the core of vehicle software platforms to enable reliable, scalable, and future-ready systems.
+
+              We also build cloud-based CI/CD solutions tailored for automotive development, supporting complex multi-company programs while meeting strict quality, safety, and security standards. Trusted by leading OEMs and Tier-1 suppliers, our solutions help drive the future of software-defined mobility.
             second_path:
               - Project Membership / The Linux Foundation
           - item:
@@ -31106,7 +31129,6 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / TODO Group
               - Project Membership / LF Edge
-              - Project Membership / CHIPS Alliance Fund
               - Project Membership / RISC-V International
             crunchbase: https://www.crunchbase.com/organization/etri
             extra:
@@ -36080,12 +36102,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/napatech
           - item:
-            name: Natoma (member)
-            homepage_url: https://natoma.ai/
-            logo: natoma.svg
-            second_path:
-              - Project Membership / The Linux Foundation
-          - item:
             name: NatWest (member)
             homepage_url: https://natwest.com/
             logo: natwest.svg
@@ -36963,7 +36979,7 @@ landscape:
             name: OpenAI Inc (member)
             homepage_url: https://openai.com/
             logo: openai_inc.svg
-            description: OpenAI is an AI research company focused on safe and beneficial artificial intelligence for all, prioritizing human values and diversity in technology.
+            description: OpenAI specializes in developing advanced artificial intelligence technologies, particularly focusing on creating video content from text inputs, while also prioritizing the alignment of AI with human values and safety practices.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
@@ -44648,6 +44664,14 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / Green Software Foundation Fund
           - item:
+            name: Cloud Community Labs (member)
+            homepage_url: https://cloudcommunitylabs.io/
+            logo: cloud_community_labs.svg
+            description: Cloud Community Labs provides fiscal sponsorship and operational support for cloud-native community events, enabling organizers to focus on creating impactful experiences by managing the complexities of legal, financial, and logistical aspects of tech ...
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+          - item:
             name: CloudGraph by AutoCloud (member)
             homepage_url: https://cloudgraph.dev/
             logo: cloudgraph_by_autocloud.svg
@@ -50413,6 +50437,13 @@ landscape:
             twitter: https://twitter.com/UDelaware
             extra:
               linkedin_url: https://www.linkedin.com/company/university-of-delaware
+          - item:
+            name: University of Dubai (member)
+            homepage_url: https://ud.ac.ae/
+            logo: university_of_dubai.svg
+            description: University of Dubai is a leading educational institution in Dubai, UAE, offering accredited programs in Business Administration, Information System Security, and Electrical Engineering. With international accreditations from AACSB and ABET, UD provides...
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: University of Guam (member)
             homepage_url: https://uog.edu/
