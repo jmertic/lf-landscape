@@ -12203,7 +12203,7 @@ landscape:
             second_path:
               - Project Group / LF Decentralized Trust
               - Technology Sector / Blockchain
-            repo_url: https://github.com/LFDT-Lineth/zkc
+            repo_url: https://github.com/LFDT-Lineth/lineth-monorepo
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -12219,7 +12219,8 @@ landscape:
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/lineth/lineth_Charter.pdf?v=1778511515680
               annotations:
                 project_org: https://github.com/LFDT-Lineth
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/LFDT-Lineth/zkc
           - item:
             name: Linkerd
             homepage_url: https://linkerd.io/
