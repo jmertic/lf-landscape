@@ -13129,35 +13129,6 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkUalQAF
           - item:
-            name: metal3-io
-            homepage_url: https://metal3.io/
-            logo: metal3_io.svg
-            description: There are a number of great open source tools for bare metal host provisioning, including Ironic. Metal3.io aims to build on these technologies to provide a Kubernetes native API for managing bare metal hosts via a provisioning stack that is also running on Kubernetes
-            second_path:
-              - Project Group / Cloud Native Computing Foundation (CNCF)
-              - Industry / Cross-Industry
-              - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/metal3-io/metal3-docs
-            license: Apache-2.0
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2020-09-08'
-              dev_stats_url: https://insights.linuxfoundation.org/project/metal3
-              lfx_slug: metal3
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/metal3
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkYIlQAN
-              annotations:
-                project_org: https://github.com/metal3-io
-            additional_repos:
-              - repo_url: https://github.com/metal3-io/metal3-dev-env
-              - repo_url: https://github.com/metal3-io/baremetal-operator
-              - repo_url: https://github.com/metal3-io/cluster-api-provider-metal3
-              - repo_url: https://github.com/metal3-io/ironic-image
-              - repo_url: https://github.com/metal3-io/project-infra
-          - item:
             name: MetalLB
             homepage_url: https://github.com/metallb/metallb
             logo: metallb.svg
@@ -24869,7 +24840,12 @@ landscape:
             name: Meta Platforms, Inc. (member)
             homepage_url: https://meta.com/
             logo: meta_platforms_inc.svg
-            description: Founded in 2004 and headquartered in Menlo Park, California, Facebook is an American online social media and social networking service company that provides various products to connect and share.
+            description: |-
+              Founded in 2004 and headquartered in Menlo Park, California, Facebook is an American online social media and social networking service company that provides various products to connect and share.
+
+              --- Merged Data:
+
+              Workplace, a product by Meta, is revolutionizing the way people work by bringing the power of community to the workplace. With a focus on enhancing collaboration, communication, and culture, Workplace is at the forefront of shaping the future of work i...
             second_path:
               - Project Membership / OpenJS Foundation
               - Project Membership / OpenChain Project
@@ -24984,6 +24960,7 @@ landscape:
               - Project Membership / Zephyr Project
               - Project Membership / LF Networking (LFN)
               - Project Membership / KernelCI Foundation
+              - Project Membership / CHIPS Alliance Fund
               - Project Membership / Confidential Computing Consortium (CCC)
               - Project Membership / RISC-V International
               - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
@@ -26731,6 +26708,14 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / FinOps Foundation
           - item:
+            name: Aranya (member)
+            homepage_url: https://aranya.tech/
+            logo: aranya.svg
+            description: Aranya specializes in creating customized Kubernetes clusters tailored to meet the specific needs of its clients, enhancing their cloud infrastructure and application deployment capabilities.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+          - item:
             name: Aras Corporation (member)
             homepage_url: https://aras.com/
             logo: aras_corporation.svg
@@ -26995,6 +26980,7 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / FinOps Foundation
+            crunchbase: https://www.crunchbase.com/organization/ascendra-networks
           - item:
             name: Ascensio System SIA (member)
             homepage_url: https://onlyoffice.com/
@@ -27066,6 +27052,7 @@ landscape:
             description: A-Team Systems specializes in providing expert systems administration and monitoring services for cloud, container, and server environments, ensuring reliable and secure infrastructure management for clients ranging from small servers to high-volume we...
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / Open Source Security Foundation (OpenSSF)
           - item:
             name: Aternos GmbH (member)
             homepage_url: https://aternos.gmbh/
@@ -27997,6 +27984,13 @@ landscape:
               - Project Membership / The Linux Foundation
             extra:
               linkedin_url: https://www.linkedin.com/company/brbpo
+          - item:
+            name: Bread Financial Payments, Inc. (member)
+            homepage_url: https://breadfinancial.com/
+            logo: bread_financial_payments_inc.svg
+            description: Bread Financial offers a range of financial services, including credit cards, loans, and savings solutions, designed to meet the personal and business needs of customers through simple and personalized payment options.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Breqwatr (member)
             homepage_url: https://breqwatr.com/
@@ -29589,6 +29583,14 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / Confidential Computing Consortium (CCC)
           - item:
+            name: Confidential Core.AI (member)
+            homepage_url: https://confidentialcore.ai/
+            logo: confidential_core.svg
+            description: Confidential Core.AI specializes in providing secure simulation and digital twin applications powered by generative AI on a sovereign private cloud, focusing on enabling enterprises to safely run AI on their most sensitive data while ensuring trust and...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Confidential Computing Consortium (CCC)
+          - item:
             name: ConfidentialMind (member)
             homepage_url: https://confidentialmind.com/
             logo: confidentialmind.svg
@@ -29899,6 +29901,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/crusoe-energy-systems
           - item:
             name: CTO2B (member)
             homepage_url: https://cto2b.io/
@@ -37230,6 +37233,13 @@ landscape:
             twitter: https://twitter.com/orange
             extra:
               linkedin_url: https://www.linkedin.com/company/orange-services
+          - item:
+            name: Orthogonal (member)
+            homepage_url: https://orthogonal.com/
+            logo: orthogonal.svg
+            description: Orthogonal Technology Home accelerates innovation through technology, offering solutions to navigate the evolving tech landscape.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Osaka NDS Co., Ltd. (member)
             homepage_url: https://nds-osk.co.jp/
