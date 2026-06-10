@@ -2512,7 +2512,7 @@ landscape:
             logo: chantico.svg
             description: The mission of the Project is to develop a cloud-native approach to monitor and attribute the energy consumption of data center IT equipment, such as PDUs and bare metal servers, but also virtual machines running on hypervisors and pods in clusters.
             second_path:
-              - Project Group / NeoNephos Foundation
+              - Project Group / Linux Foundation Europe
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/chantico-project/chantico
             license: Apache-2.0
@@ -5645,6 +5645,26 @@ landscape:
               annotations:
                 project_org: https://github.com/docarray
             additional_repos: []
+          - item:
+            name: DocLang Specification
+            homepage_url: https://doclang.ai/
+            logo: doclang_specification.svg
+            description: The purpose of the Project is to standardize, develop and evolve techniques for unified representation of unstructured data.
+            second_path:
+              - Project Group / LF AI & Data
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/doclang-project/doclang-standard
+            license: TBD / NA
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-02-12'
+              dev_stats_url: https://insights.linuxfoundation.org/project/doclang-specification
+              lfx_slug: doclang-specification
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/doclang-specification
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfO3VqaPCRxKIAa7Dm
           - item:
             name: Docling
             homepage_url: https://www.docling.ai/
@@ -28852,7 +28872,6 @@ landscape:
             logo: cisco_systems_inc.svg
             description: "Cisco (NASDAQ: CSCO) is the worldwide technology leader that has been making the Internet work since 1984. Their people, products, and partners help society securely connect and seize tomorrow's digital opportunity today. Cisco and the Cisco logo are trademarks or registered trademarks of Cisco and/or its affiliates in the U.S. and other countries."
             second_path:
-              - Project Membership / Open Container Initiative (OCI)
               - Project Membership / OpenChain Project
               - Project Membership / SPDX
               - Project Membership / Cloud Native Computing Foundation (CNCF)
@@ -30975,6 +30994,7 @@ landscape:
             name: EcoPhi (member)
             homepage_url: https://ecophi.com/
             logo: ecophi.svg
+            description: EcoPhi empowers the digital power grid with smart hardware and AI-driven software for real-time monitoring, predictive insights, and grid optimization.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / LF Energy (LFE)
@@ -37340,7 +37360,7 @@ landscape:
             name: Owncloud GmbH (member)
             homepage_url: https://owncloud.com/
             logo: owncloud_gmbh.svg
-            description: Based on the popular ownCloud open source file sync and share community project, ownCloud Inc. was founded in 2011 to give corporate IT greater control of their data and files -- combining greater flexibility, openness and extensibility with on premise servers and storage. Company headquarters are in Lexington, MA, with European headquarters in Nuremberg, Germany.
+            description: ownCloud is the original open source EFSS, maintained by Kiteworks through its Open Source Program Office. Self-hosted file sync, share and collaboration since 2010.
             second_path:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/owncloud
