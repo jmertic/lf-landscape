@@ -7731,6 +7731,31 @@ landscape:
               - repo_url: https://github.com/gardener/dashboard
               - repo_url: https://github.com/gardener/autoscaler
           - item:
+            name: Garden Linux
+            homepage_url: https://gardenlinux.io/
+            logo: garden_linux.svg
+            description: The mission of the project is to develop a minimal, immutable, API-driven operating system layer for automated, Kubernetes-centric platforms.
+            second_path:
+              - Project Group / NeoNephos Foundation
+              - Technology Sector / Linux Kernel
+            repo_url: https://github.com/gardenlinux/gardenlinux
+            license: Other
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-06-11'
+              dev_stats_url: https://insights.linuxfoundation.org/project/garden-linux
+              lfx_slug: garden-linux
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/garden-linux
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfDtsr7KZKJFEBMYuO
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/garden-linux/garden-linux_Charter.pdf?v=1781194173065
+              annotations:
+                project_org: https://github.com/gardenlinux
+            additional_repos: []
+          - item:
             name: Gemara
             homepage_url: https://github.com/revanite-io/gemara
             logo: gemara.svg
@@ -8261,29 +8286,6 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/OSGP/open-smart-grid-platform
               - repo_url: https://github.com/OSGP/Config
-          - item:
-            name: GridFM
-            homepage_url: https://gridfm.energy/
-            logo: gridfm.svg
-            description: An open source framework dedicated to enabling the development and application of "foundation models" (large AI models pre-trained on vast datasets) specifically for power grids, aiming to accelerate computations and improve grid operations, planning, and control in the face of increasing complexity
-            second_path:
-              - Project Group / LF Energy (LFE)
-              - Technology Sector / Cross-Technology
-            repo_url: https://github.com/gridfm/gridfm-datakit
-            license: Other
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2024-11-11'
-              dev_stats_url: https://insights.linuxfoundation.org/project/gridfm
-              lfx_slug: gridfm
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/gridfm
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfGFeSdSUJqLdBHTBZ
-              annotations:
-                project_org: https://github.com/gridfm
-            additional_repos: []
           - item:
             name: Grid Simulation and Modeling SIG
             homepage_url: https://lf-energy.atlassian.net/wiki/spaces/GSMS/overview
@@ -15752,6 +15754,27 @@ landscape:
                 - name: Charter
                   url: https://www.lfedge.org/wp-content/uploads/2020/01/LF-Edge-Foundation-Charter-APPROVED-January-2020.pdf
           - item:
+            name: OpenGridFM
+            homepage_url: https://opengridfm.energy/
+            logo: opengridfm.svg
+            description: An open source framework dedicated to enabling the development and application of "foundation models" (large AI models pre-trained on vast datasets) specifically for power grids, aiming to accelerate computations and improve grid operations, planning, and control in the face of increasing complexity
+            second_path:
+              - Project Group / LF Energy (LFE)
+              - Technology Sector / Cross-Technology
+            license: Other
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2024-11-11'
+              dev_stats_url: https://insights.linuxfoundation.org/project/gridfm
+              lfx_slug: gridfm
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/gridfm
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfGFeSdSUJqLdBHTBZ
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/gridfm/gridfm_Charter.pdf?v=1781190510434
+          - item:
             name: OpenHarvest
             homepage_url: https://openharvest.net/
             logo: openharvest.svg
@@ -18053,6 +18076,7 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
             repo_url: https://github.com/pipe-cd/pipecd
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-05-17'
@@ -24852,6 +24876,7 @@ landscape:
               - Project Membership / PyTorch Foundation
               - Project Membership / OpenWallet Foundation
               - Project Membership / Ultra Ethernet Consortium Fund
+              - Project Membership / Alliance for OpenUSD Fund (AOUSDF)
             crunchbase: https://www.crunchbase.com/organization/huawei
             twitter: https://twitter.com/Huawei
             extra:
@@ -26730,6 +26755,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/aranya-0cfb
           - item:
             name: Aras Corporation (member)
             homepage_url: https://aras.com/
@@ -35804,7 +35830,6 @@ landscape:
             description: Design performant, secure, reliable and future-proof electronic products thanks to MicroEJ, the "tiny sibling of Android" for home appliances, industrial gateways, wearables, smart printers, medical devices, smart city and more.
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / Zephyr Project
             crunchbase: https://www.crunchbase.com/organization/microej
             twitter: https://twitter.com/microej
             extra:
@@ -43742,7 +43767,7 @@ landscape:
             name: Zeeve Inc (member)
             homepage_url: https://zeeve.io/
             logo: zeeve_inc.svg
-            description: Most Secure Decentralized Infrastructure Protocol.  Bringing next generation TEE based secure and privacy driven P2P infrastructure.
+            description: Zeeve is the leading provider for enterprise-grade Blockchain infrastructure for Banks, Fintechs, and Enterprises, spanning from fully managed custom Blockchains, Tokenization Platform, Enterprise Privacy and 24x7 Blockchain operations.
             second_path:
               - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
@@ -50232,14 +50257,6 @@ landscape:
             twitter: https://twitter.com/BU_Tweets
             extra:
               linkedin_url: https://www.linkedin.com/company/boston-university
-          - item:
-            name: UCLA Trustworthy AI Lab (member)
-            homepage_url: https://faculty.stat.ucla.edu/
-            logo: ucla_trustworthy_ai_lab.svg
-            description: UCLA is a public research university that fosters innovation and education, addressing societal needs while promoting a diverse environment where individuals can thrive and contribute to global progress.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Confidential Computing Consortium (CCC)
           - item:
             name: UC San Diego (member)
             homepage_url: https://ucsd.edu/
