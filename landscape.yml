@@ -7981,6 +7981,7 @@ landscape:
             logo: graphiql.svg
             description: GraphiQL is the GraphQL integrated development environment (IDE).
             second_path:
+              - Project Group / GraphQL Specification
               - Industry / Cross-Industry
               - Technology Sector / Web & Application Development
               - Technology Sector / AI, ML, Data & Analytics
@@ -8046,6 +8047,7 @@ landscape:
               5. an example of how to use this ecosystem with GraphiQL.
               6. examples of how to implement or extend GraphiQL.
             second_path:
+              - Project Group / GraphQL Specification
               - Industry / Cross-Industry
               - Technology Sector / Web & Application Development
               - Technology Sector / AI, ML, Data & Analytics
@@ -8066,6 +8068,7 @@ landscape:
             logo: graphql.svg
             description: An open and neutral home for the GraphQL community dedicated to promoting widespread adoption and accelerating development of the surrounding ecosystem.
             second_path:
+              - Project Group / GraphQL Specification
               - Industry / Cross-Industry
               - Technology Sector / Web & Application Development
               - Technology Sector / AI, ML, Data & Analytics
@@ -8087,6 +8090,7 @@ landscape:
             logo: graphql_over_http.svg
             description: HTTP is the most common choice for client-server protocol when using GraphQL because of its ubiquity
             second_path:
+              - Project Group / GraphQL Specification
               - Industry / Cross-Industry
               - Technology Sector / Web & Application Development
               - Technology Sector / AI, ML, Data & Analytics
@@ -8132,6 +8136,7 @@ landscape:
             logo: graphql_working_group.svg
             description: GraphQL WG (Working Group) is a monthly virtual meeting of maintainers of commonly used GraphQL libraries and tools and significant contributors to the GraphQL community, operated by the GraphQL Foundation.
             second_path:
+              - Project Group / GraphQL Specification
               - Industry / Cross-Industry
               - Technology Sector / Web & Application Development
               - Technology Sector / AI, ML, Data & Analytics
@@ -8534,30 +8539,6 @@ landscape:
               annotations:
                 project_org: https://github.com/helm
             additional_repos: []
-          - item:
-            name: Hexa
-            homepage_url: https://hexaorchestration.org/
-            logo: hexa.svg
-            description: Hexa Policy Orchestration seeks to make managing distributed identity and access across multiple clouds and across the stack consistent, secure and scalable. Hexa Policy Orchestration is open-source software that manages access policy for applications and data running on multiple clouds and across your tech stack. Hexa translates and orchestrates Identity Query Language (IDQL) policies into the native policies for your application, platform, data, and network systems to unify access policy management.
-            second_path:
-              - Project Group / Cloud Native Computing Foundation (CNCF)
-              - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/hexa-org/policy-orchestrator
-            license: Apache-2.0
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2022-07-26'
-              dev_stats_url: https://insights.linuxfoundation.org/project/hexa
-              lfx_slug: hexa
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/hexa
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L18vmQAB
-              annotations:
-                project_org: https://github.com/hexa-org
-            additional_repos:
-              - repo_url: https://github.com/hexa-org/policy
           - item:
             name: Hiero
             homepage_url: https://github.com/LFDT-Hiero
@@ -21109,6 +21090,26 @@ landscape:
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/sparklyr%20Project%20Technical%20Charter%2001-09-19.pdf
           - item:
+            name: SPDK
+            homepage_url: https://spdk.io/
+            logo: spdk.svg
+            description: The Storage Performance Development Kit (SPDK) provides a set of tools and libraries for writing high performance, scalable, user-mode storage applications.
+            second_path:
+              - Technology Sector / Storage
+            license: BSD-3-Clause
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-04-17'
+              dev_stats_url: https://insights.linuxfoundation.org/project/spdk
+              lfx_slug: spdk
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/spdk
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf7yviexfRznRcfcQE
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/spdk/spdk_Charter.pdf?v=1757438658063
+          - item:
             name: SPDM-RS
             homepage_url: https://github.com/ccc-spdm-tools/spdm-rs
             logo: spdm_rs.svg
@@ -21305,6 +21306,7 @@ landscape:
             logo: spif_patent_identification_format_working_group.svg
             description: SPIF Patent Identification Format uniquely defines patent assets so that they can be used in patent analytics, M&A, patent information transfers between firms and buying and selling patents.SPIF uses common, current, human readable patent identification formats and industry standard tools.
             second_path:
+              - Project Group / SPIF Patent Identification Format
               - Industry / Cross-Industry
               - Technology Sector / AI, ML, Data & Analytics
             repo_url: https://github.com/erikoliver/spiffy
