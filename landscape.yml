@@ -1122,6 +1122,46 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWhALQA1
           - item:
+            name: Appia Foundation
+            homepage_url: https://appiafoundation.org/
+            logo: appia_foundation.svg
+            description: The mission of the project is to develop and maintain a practical, scalable, internationally aligned framework of AI conformity specifications grounded in international standards.
+            second_path:
+              - Project Group / Appia Fund
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/organizations/appia-project
+            license: TBD / NA
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-31'
+              dev_stats_url: https://insights.linuxfoundation.org/project/appia
+              lfx_slug: appia
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/appia
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfhJzOKafRzT8M1D6I
+              linkedin_url: https://www.linkedin.com/company/appia-foundation/
+          - item:
+            name: Appia Fund
+            homepage_url: https://appiafoundation.org/
+            logo: appia_fund.svg
+            description: Directed Fund to support the work of the APPIA Series
+            second_path:
+              - Project Group / The Linux Foundation
+              - Technology Sector / AI, ML, Data & Analytics
+            license: TBD / NA
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-31'
+              dev_stats_url: https://insights.linuxfoundation.org/project/appia-fund
+              lfx_slug: appia-fund
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/appia-fund
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfTfWnQCpMXePhK8yN
+          - item:
             name: Appium
             homepage_url: https://appium.io/
             logo: appium.svg
@@ -4647,11 +4687,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-07-02'
-              dev_stats_url: https://insights.linuxfoundation.org/project/dailies-transcription-notes-taking-tool
-              lfx_slug: dailies-transcription-notes-taking-tool
+              dev_stats_url: https://insights.linuxfoundation.org/project/dailies-notes-assistant
+              lfx_slug: dailies-notes-assistant
               other_links:
                 - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/dailies-transcription-notes-taking-tool
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/dailies-notes-assistant
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfggVZllmLaTYZFChi
                 - name: Charter
@@ -9854,13 +9894,14 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWr87QAD
           - item:
             name: Jenkins X
-            homepage_url: https://jenkins-x.io/
+            homepage_url: https://jayex.io/
             logo: jenkins_x.svg
             description: Jenkins X provides pipeline automation, built-in GitOps, and preview environments to help teams collaborate and accelerate their software delivery at any scale.
             second_path:
               - Project Group / Continuous Delivery Foundation (CDF)
               - Industry / Cross-Industry
               - Technology Sector / DevOps, CI:CD & Site Reliability
+            repo_url: https://github.com/jenkins-x/jx
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -15202,7 +15243,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV3znQAD
                 - name: Charter
-                  url: https://github.com/AcademySoftwareFoundation/foundation/blob/master/project_charters/opencue-charter.md
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/opencue/opencue_Charter.pdf?v=1781649669261
           - item:
             name: Open Data Product Specification
             homepage_url: https://opendataproducts.org/
@@ -15746,11 +15787,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-11-11'
-              dev_stats_url: https://insights.linuxfoundation.org/project/gridfm
-              lfx_slug: gridfm
+              dev_stats_url: https://insights.linuxfoundation.org/project/opengridfm
+              lfx_slug: opengridfm
               other_links:
                 - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/gridfm
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/opengridfm
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfGFeSdSUJqLdBHTBZ
                 - name: Charter
@@ -15885,7 +15926,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MtJNPQA3
                 - name: Charter
-                  url: https://github.com/AcademySoftwareFoundation/foundation/blob/main/project_charters/open-image-io_charter.pdf
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/openimageio/openimageio_Charter.pdf?v=1781649853005
           - item:
             name: OpenInfra Foundation (OIF)
             homepage_url: https://openinfra.org/
@@ -26900,6 +26941,13 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
           - item:
+            name: Armilla AI (member)
+            homepage_url: https://armilla.ai/
+            logo: armilla_ai.svg
+            description: Armilla AI is a Quality Assurance platform that offers AI verification, warranties, and auditing services. They help vendors sell AI models with confidence and provide buyers with peace of mind through their automated AI verification technology. Additi...
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Arm Limited (member)
             homepage_url: https://arm.com/
             logo: arm_limited.svg
@@ -27127,7 +27175,12 @@ landscape:
             name: Atlassian US, Inc (member)
             homepage_url: https://atlassian.com/
             logo: atlassian_us_inc.svg
-            description: G’day, we’re Atlassian. We make tools like Jira and Trello that are used by thousands of teams worldwide. And we’re serious about creating amazing products, practices, and open work for all teams.
+            description: |-
+              G’day, we’re Atlassian. We make tools like Jira and Trello that are used by thousands of teams worldwide. And we’re serious about creating amazing products, practices, and open work for all teams.
+
+              --- Merged Data:
+
+              Atlassian is a leading provider of collaboration software for teams, offering a suite of products like JIRA, Confluence, Bitbucket, and Trello. They help teams of all sizes build better products and services by managing every aspect of a product's life...
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -27779,7 +27832,6 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / TODO Group
-              - Project Membership / CHIPS Alliance Fund
               - Project Membership / Open Source Security Foundation (OpenSSF)
             crunchbase: https://www.crunchbase.com/organization/square
             twitter: https://twitter.com/blocks
@@ -31028,6 +31080,8 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / LF Energy (LFE)
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ecophi-ab
           - item:
             name: Edera, Inc. (member)
             homepage_url: https://edera.dev/
@@ -34034,9 +34088,52 @@ landscape:
             name: iTmethods (member)
             homepage_url: https://itmethods.com/
             logo: itmethods.svg
-            description: iTMethods specializes in providing cloud-native consultancy services, focusing on accelerating software delivery and reducing costs through its iTmethodsONE platform, DevOps solutions, and expert-led services, while leveraging AWS best practices for di...
+            description: |-
+              iTmethods is a critical infrastructure operator and the company behind Reign, the control and assurance layer for enterprise AI. 
+
+              Founded in 2005 and headquartered in Toronto, iTmethods is privately held, founder-led, and has operated profitably for more than two decades. The company delivers mission-critical technology environments for regulated institutions across banking, capital markets, insurance, healthcare and life sciences, defence, energy, and the public sector.
+
+              iTmethods builds and operates the layer that enables regulated enterprises to adopt artificial intelligence safely, sovereignly, and in a way that can be continuously proven. As organizations delegate real business work to AI models and autonomous agents, the central challenge shifts from infrastructure security to whether autonomous actions remain within approved business intent, authority, and risk tolerance, and whether that can be demonstrated to regulators, auditors, and boards.
+
+              Reign: Continuous operational assurance for enterprise AI
+
+              Reign is iTmethods' platform for continuous operational assurance of enterprise AI. It functions as both a control plane and an assurance layer. Before an AI agent takes a consequential action, Reign authorizes it against policy and risk appetite. After the action, Reign validates the outcome, scores residual risk, and creates a tamper-evident, audit-grade record of what occurred, under what policy, on what data, and what changed.
+
+              When a decision is high-risk or ambiguous, Reign holds the action and escalates to a human, capturing that authorization as part of the permanent record. The platform is model-agnostic and vendor-neutral by design. It enables institutions to run any model from any provider behind a control point they own, substitute models under commercial or regulatory pressure without losing workflow continuity or audit history, and govern runtime behavior while producing evidence on demand.
+
+              Reign supports a range of deployment topologies to meet different sovereignty requirements, including multi-tenant SaaS, single-tenant dedicated environments, customer cloud, and fully air-gapped deployments with customer-owned keys and data residency.
+
+              Forge: Managed runtime for enterprise AI workloads
+
+              Forge is iTmethods' managed runtime for the foundational layer beneath enterprise AI. It encompasses DevOps and software delivery tooling, agent runtime operations, governed foundation model access, a vendor-neutral tool and protocol fabric for autonomous workflows, and sovereign control of compute, data, and models. Forge brings more than twenty years of experience operating regulated technology environments into a managed offering, allowing institutions to run modern AI and engineering workloads inside their trust boundary.
+
+              Forge also includes Forge Secure AI, a structured practice to assess, harden, and sustain production-grade autonomous operations.
+
+              Open standards and open source commitment
+
+              iTmethods is a Silver Member of the Linux Foundation. The company believes the control and assurance layer of the AI stack should be built on open standards and designed for portability and substitutability, so that no enterprise becomes locked into a single model, cloud, or vendor.
+
+              iTmethods participates in the Linux Foundation's Agentic AI Foundation and supports open agentic AI standards, including the Model Context Protocol (MCP). It also engages with the open-source-in-finance community, including work aligned with FINOS, the Fintech Open Source Foundation and another Linux Foundation project, and offers Managed Fluxnova, a managed service for the FINOS-aligned Fluxnova process orchestration project.
+
+              The company maps its platform to major public and industry AI governance frameworks rather than to any single proprietary standard. This includes alignment with OSFI Guideline E-23, U.S. Federal Reserve model risk guidance, the EU AI Act, DORA, the NIST AI Risk Management Framework, ISO/IEC 42001, the FINOS AI Governance Framework, and relevant FDA requirements.
+
+              Credentials and partnerships
+
+              iTmethods is an AWS Advanced Tier Partner and a Validated AWS Managed Service Provider, maintains a SOC 2 Type II audit posture, is a member of the NVIDIA Inception program, and is a Services Partner in the Claude Partner Network.
+
+              Industries and regulatory focus
+
+              iTmethods serves regulated and critical infrastructure sectors where AI governance requirements are highest. Its platform is designed to support the model risk management, operational resilience, and evidence expectations that apply in banking and capital markets, insurance, healthcare and life sciences, defence, and energy.
+
+              Leadership and operating heritage
+
+              iTmethods was founded in 2005 and is led by founder and CEO Paul Goldman. The company has maintained independent, profitable operations for more than twenty years while building deep expertise in regulated, mission-critical environments. This operator heritage informs the design of Reign and Forge.
+
+              Learn more: itmethods.com
+              Enterprise AI. Governed.
             second_path:
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/itmethods
           - item:
             name: ITQ Consultancy B.V. (member)
             homepage_url: https://itq.eu/
@@ -44200,7 +44297,12 @@ landscape:
             name: Amity University (member)
             homepage_url: https://amity.edu/
             logo: amity_university.svg
-            description: Amity University, Noida is a private research university located in Noida, Uttar Pradesh, India.
+            description: |-
+              Amity University, Noida is a private research university located in Noida, Uttar Pradesh, India.
+
+              --- Merged Data:
+
+              Amity University is a top-ranked non-profit private university in India, offering career-focused programs in diverse disciplines with a strong emphasis on practical, industry-focused education and ethical leadership.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / OpenPOWER Foundation
