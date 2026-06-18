@@ -4348,7 +4348,6 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / Open Source & Compliance Best Practices
               - Technology Sector / Privacy & Security
-            repo_url: https://github.com/coreinfrastructure/best-practices-badge
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2014-04-24'
@@ -4359,9 +4358,6 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cii
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wBzAAAU
-              annotations:
-                project_org: https://github.com/coreinfrastructure
-            additional_repos: []
           - item:
             name: Core Toolchain Infrastructure (CTI)
             homepage_url: https://openssf.org/
@@ -8619,6 +8615,33 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfXhSPFDHpOwtQdsXF
           - item:
+            name: Higress
+            homepage_url: https://higress.cn/en/
+            logo: higress.svg
+            description: unify the traffic gateway (Ingress), the microservice gateway, and the AI gateway (LLM/MCP/Inference gateway) into a single control plane, reducing operational complexity
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+              - Technology Sector / Networking & Edge
+            repo_url: https://github.com/higress-group/higress
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-16'
+              dev_stats_url: https://insights.linuxfoundation.org/project/higress
+              lfx_slug: higress
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/higress
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfUlLLRvFTfUs6izuM
+              annotations:
+                project_org: https://github.com/higress-group
+            additional_repos:
+              - repo_url: https://github.com/higress-group/himarket
+              - repo_url: https://github.com/higress-group/higress-console
+              - repo_url: https://github.com/higress-group/wasm-go
+          - item:
             name: Holmes
             homepage_url: https://wiki.onap.org/x/gZlk
             logo: holmes.svg
@@ -9836,6 +9859,29 @@ landscape:
                 - name: Charter
                   url: https://fd.io/docs/tsc/FD.IO-Project-a-Series-of-LF-Projects-LLC-Technical-Charter-12-13-2017-FINAL.pdf
           - item:
+            name: JayeX
+            homepage_url: https://jayex.io/
+            logo: jayex.svg
+            description: JayeX provides pipeline automation, built-in GitOps, and preview environments to help teams collaborate and accelerate their software delivery at any scale.
+            second_path:
+              - Project Group / Continuous Delivery Foundation (CDF)
+              - Industry / Cross-Industry
+              - Technology Sector / DevOps, CI:CD & Site Reliability
+            repo_url: https://github.com/jenkins-x/jx
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2019-03-12'
+              dev_stats_url: https://insights.linuxfoundation.org/project/cdf-jenkins-x
+              lfx_slug: cdf-jenkins-x
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cdf-jenkins-x
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs5nQAD
+                - name: Charter
+                  url: https://github.com/jenkins-x/steering
+          - item:
             name: JDF International
             homepage_url: https://www.jointdevelopment.org/
             logo: jdf_international.svg
@@ -9892,29 +9938,6 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/jenkins
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWr87QAD
-          - item:
-            name: Jenkins X
-            homepage_url: https://jayex.io/
-            logo: jenkins_x.svg
-            description: Jenkins X provides pipeline automation, built-in GitOps, and preview environments to help teams collaborate and accelerate their software delivery at any scale.
-            second_path:
-              - Project Group / Continuous Delivery Foundation (CDF)
-              - Industry / Cross-Industry
-              - Technology Sector / DevOps, CI:CD & Site Reliability
-            repo_url: https://github.com/jenkins-x/jx
-            license: Apache-2.0
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2019-03-12'
-              dev_stats_url: https://insights.linuxfoundation.org/project/cdf-jenkins-x
-              lfx_slug: cdf-jenkins-x
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cdf-jenkins-x
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs5nQAD
-                - name: Charter
-                  url: https://github.com/jenkins-x/steering
           - item:
             name: JerryScript
             homepage_url: https://jerryscript.net/
@@ -12483,7 +12506,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfVkK7GzaafFamcEgk
                 - name: Charter
-                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/lockness/lockness_Charter.pdf?v=1775055020489
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/lockness/lockness_Charter.pdf?v=1781714177591
           - item:
             name: Lodash
             homepage_url: https://lodash.com/
@@ -41048,7 +41071,6 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / Zephyr Project
               - Project Membership / CHIPS Alliance Fund
-              - Project Membership / RISC-V International
               - Project Membership / Ultra Ethernet Consortium Fund
               - Project Membership / Alliance for OpenUSD Fund (AOUSDF)
             crunchbase: https://www.crunchbase.com/organization/synopsys
@@ -46371,7 +46393,16 @@ landscape:
             name: Hanyang University (member)
             homepage_url: https://beyond-g.hanyang.ac.kr/
             logo: hanyang_university.svg
-            description: Hanyang University is a prestigious private university in South Korea, renowned for its School of Engineering and notable alumni in top companies like Hyundai, Samsung, and LG. With campuses in Seoul and Ansan, the university emphasizes Love in Truth i...
+            description: |-
+              Hanyang University is a prestigious private university in South Korea, renowned for its School of Engineering and notable alumni in top companies like Hyundai, Samsung, and LG. With campuses in Seoul and Ansan, the university emphasizes Love in Truth i...
+
+              --- Merged Data:
+
+              Hanyang University is a prestigious private university in South Korea, renowned for its School of Engineering and notable alumni in top companies like Hyundai, Samsung, and LG. With campuses in Seoul and Ansan, the university emphasizes Love in Truth i...
+
+              --- Merged Data:
+
+              Hanyang University is a prestigious private university in South Korea, renowned for its School of Engineering and notable alumni in top companies like Hyundai, Samsung, and LG. With campuses in Seoul and Ansan, the university emphasizes Love in Truth i...
             second_path:
               - Project Membership / The Linux Foundation
           - item:
