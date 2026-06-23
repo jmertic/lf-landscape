@@ -2767,6 +2767,28 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfEiSdeUldpRPtqBlH
           - item:
+            name: CICD-Cybersecurity
+            homepage_url: https://github.com/cdfoundation/CICD-Cybersecurity
+            logo: cicd_cybersecurity.svg
+            description: The mission of the Project is to advance security practices within CI/CD pipelines by developing a guide that identifies open source DevSecOps tools aligned with established secure software development frameworks in order to help DevOps engineers integrate appropriate security tooling into existing pipelines, improving software supply chain security without disrupting delivery workflows.
+            second_path:
+              - Project Group / Continuous Delivery Foundation (CDF)
+              - Technology Sector / Open Source & Compliance Best Practices
+            repo_url: https://github.com/cdfoundation/CICD-Cybersecurity
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-06-18'
+              dev_stats_url: https://insights.linuxfoundation.org/project/cicd-cybersecurity
+              lfx_slug: cicd-cybersecurity
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cicd-cybersecurity
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfPIu0Ig41nudtLP2F
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/cicd-cybersecurity/cicd-cybersecurity_Charter.pdf?v=1782150225665
+          - item:
             name: Cicero
             homepage_url: https://www.accordproject.org/
             logo: cicero.svg
@@ -9849,11 +9871,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2019-03-12'
-              dev_stats_url: https://insights.linuxfoundation.org/project/cdf-jenkins-x
-              lfx_slug: cdf-jenkins-x
+              dev_stats_url: https://insights.linuxfoundation.org/project/jayex
+              lfx_slug: jayex
               other_links:
                 - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cdf-jenkins-x
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/jayex
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs5nQAD
                 - name: Charter
@@ -17918,6 +17940,31 @@ landscape:
               - repo_url: https://github.com/paketo-buildpacks/nodejs
               - repo_url: https://github.com/paketo-buildpacks/go
               - repo_url: https://github.com/paketo-buildpacks/php
+          - item:
+            name: Panurus
+            homepage_url: https://github.com/LFDT-Panurus
+            logo: panurus.svg
+            description: develop a transaction model to streamline development for token-based distributed applications
+            second_path:
+              - Project Group / LF Decentralized Trust
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/LFDT-Panurus/TSC
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-06-18'
+              dev_stats_url: https://insights.linuxfoundation.org/project/panurus
+              lfx_slug: panurus
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/panurus
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf0BvNqU2zOhUitMWf
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/panurus/panurus_Charter.pdf?v=1782142760086
+              annotations:
+                project_org: https://github.com/LFDT-Panurus
+            additional_repos: []
           - item:
             name: Paralus
             homepage_url: https://paralus.io/
@@ -50274,6 +50321,17 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
             twitter: https://twitter.com/SocietyLibrary
+          - item:
+            name: The University of Texas at Dallas (member)
+            homepage_url: https://utdallas.edu/
+            logo: the_university_of_texas_at_dallas.svg
+            description: The University of Texas at Dallas is a public research university with its main campus in Richardson, Texas.
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/the-university-of-texas-at-dallas
+            twitter: https://twitter.com/UT_Dallas
+            extra:
+              linkedin_url: https://www.linkedin.com/company/university-of-texas-at-dallas
           - item:
             name: The University of Tokyo (member)
             homepage_url: https://u-tokyo.ac.jp/
