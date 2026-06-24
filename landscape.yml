@@ -1061,6 +1061,28 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkTuOQAV
           - item:
+            name: Apalache
+            homepage_url: https://apalache-mc.org/
+            logo: apalache.svg
+            description: The mission of the Project is to develop a symbolic model checker for TLA+.
+            second_path:
+              - Project Group / TLA+ Foundation
+              - Technology Sector / Open Source & Compliance Best Practices
+            repo_url: https://github.com/apalache-mc/apalache
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-06-05'
+              dev_stats_url: https://insights.linuxfoundation.org/project/apalache
+              lfx_slug: apalache
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/apalache
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfqY2EsTi4Uwfj8bn9
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/apalache/apalache_Charter.pdf?v=1781188855690
+          - item:
             name: Apostille
             homepage_url: https://github.com/openwallet-foundation-labs/apostille
             logo: apostille.svg
@@ -15997,7 +16019,7 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/openjs-foundation/security-wg
               - repo_url: https://github.com/openjs-foundation/standards
-              - repo_url: https://github.com/openjs-foundation/ai-collab-space
+              - repo_url: https://github.com/openjs-foundation/ai-working-group
               - repo_url: https://github.com/openjs-foundation/open-visualization
               - repo_url: https://github.com/openjs-foundation/artwork
           - item:
