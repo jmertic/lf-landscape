@@ -14846,6 +14846,32 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4K2QAL
           - item:
+            name: OpenAN
+            homepage_url: https://github.com/project-openan
+            logo: openan.svg
+            description: OpenAN is an open source, vendor-neutral multi-agent collaboration framework for autonomous networks, providing the A2A-T SDK, registry, and orchestration components that enable telecom operators and vendors to deploy and coordinate AI agents across service and network layers.
+            second_path:
+              - Project Group / LF Networking (LFN)
+              - Technology Sector / Networking & Edge
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/project-openan/a2a-t-sdk-python
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-06-22'
+              dev_stats_url: https://insights.linuxfoundation.org/project/openan
+              lfx_slug: openan
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openan
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfJwGJ2qOHfzUIbRaf
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/openan/openan_Charter.pdf?v=1782250751860
+              annotations:
+                project_org: https://github.com/project-openan
+            additional_repos: []
+          - item:
             name: OpenAPI Initiative
             homepage_url: https://www.openapis.org/
             logo: openapi_initiative.svg
