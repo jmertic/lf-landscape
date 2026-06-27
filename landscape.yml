@@ -2003,7 +2003,7 @@ landscape:
             second_path:
               - Project Group / LF Decentralized Trust
               - Technology Sector / Blockchain
-            repo_url: https://github.com/Briolette/governance
+            repo_url: https://github.com/Briolette/briolette
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -20018,6 +20018,28 @@ landscape:
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/sd-jwt-net/sd-jwt-net_Charter.pdf?v=1778006008346
           - item:
+            name: SD-JWT Python Reference Implementation
+            homepage_url: https://github.com/openwallet-foundation-labs/sd-jwt-python
+            logo: sd_jwt_python_reference_implementation.svg
+            description: The mission of the Project is to develop a Python reference implementation of SD-JWT.
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/openwallet-foundation-labs/sd-jwt-python
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2024-08-15'
+              dev_stats_url: https://insights.linuxfoundation.org/project/sd-jwt-python-reference-implementation
+              lfx_slug: sd-jwt-python-reference-implementation
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/sd-jwt-python-reference-implementation
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MtBQBQA3
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/sd-jwt-python-reference-implementation/sd-jwt-python-reference-implementation_Charter.pdf?v=1778005866343
+          - item:
             name: SD-JWT Rust Reference Implementation
             homepage_url: https://tac.openwallet.foundation/projects/sd-jwt-rust/
             logo: sd_jwt_rust_reference_implementation.svg
@@ -24165,6 +24187,7 @@ landscape:
               - Project Group / OpenWallet Foundation
               - Technology Sector / Privacy & Security
               - Technology Sector / Web & Application Development
+            repo_url: https://github.com/openwallet-foundation-labs/wallet-framework-dotnet
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -28353,16 +28376,6 @@ landscape:
             twitter: https://twitter.com/CableLabs
             extra:
               linkedin_url: https://www.linkedin.com/company/cablelabs
-          - item:
-            name: Cachengo (member)
-            homepage_url: https://cachengo.com/
-            logo: cachengo.svg
-            description: Storage that does what you want it to do...
-            second_path:
-              - Project Membership / The Linux Foundation
-            twitter: https://twitter.com/cachengo
-            extra:
-              linkedin_url: https://www.linkedin.com/company/cachengo
           - item:
             name: Cadence Design Systems, Inc. (member)
             homepage_url: https://cadence.com/
