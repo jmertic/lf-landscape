@@ -490,7 +490,7 @@ landscape:
               - Project Group / The Linux Foundation
               - PMO Managed / All
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/aaif/aaif-landscape
+            repo_url: https://github.com/aaif/technical-committee
             license: TBD / NA
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -505,9 +505,9 @@ landscape:
               annotations:
                 project_org: https://github.com/aaif
             additional_repos:
-              - repo_url: https://github.com/aaif/technical-committee
               - repo_url: https://github.com/aaif/foundation
-              - repo_url: https://github.com/aaif/.github
+              - repo_url: https://github.com/aaif/project-proposals
+              - repo_url: https://github.com/aaif/meetups
           - item:
             name: AGENTS.md
             homepage_url: https://agents.md/
@@ -687,7 +687,7 @@ landscape:
               - Technology Sector / AI, ML, Data & Analytics
               - Technology Sector / Safety-Critical Systems
             repo_url: https://github.com/ainetus/soft_label_gnn
-            license: MIT
+            license: MPL-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2026-01-06'
@@ -6697,7 +6697,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkEVlQAN
                 - name: Charter
-                  url: https://github.com/lf-energy/foundation/blob/main/project_charters/everest_charter.pdf
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/everest/everest_Charter.pdf?v=1782771544902
           - item:
             name: Evolution Working Group
             homepage_url: https://chaoss.community/
@@ -7728,6 +7728,26 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/fuzz-introspector
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfDpwIQHuYPGOhXbzw
+          - item:
+            name: fVDB
+            homepage_url: https://fvdb-core.readthedocs.io/
+            logo: fvdb.svg
+            description: fVDB is a Python library of data structures and algorithms for building high-performance and large-domain spatial applications using NanoVDB on the GPU in PyTorch. Applications of fVDB include 3D deep learning, computer graphics/vision, robotics, and scientific computing.
+            second_path:
+              - Technology Sector / Visual Effects
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/openvdb/fvdb-core
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-06-29'
+              dev_stats_url: https://insights.linuxfoundation.org/project/fvdb
+              lfx_slug: fvdb
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/fvdb
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfZZM92hzPqTlMshmh
           - item:
             name: Galasa
             homepage_url: https://galasa.dev/
@@ -13762,6 +13782,25 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs7XQAT
           - item:
+            name: NanoVDB
+            homepage_url: https://github.com/AcademySoftwareFoundation/openvdb/tree/master/nanovdb/nanovdb
+            logo: nanovdb.svg
+            description: A lightweight GPU friendly version of OpenVDB initially targeting rendering applications.
+            second_path:
+              - Technology Sector / Visual Effects
+            repo_url: https://github.com/AcademySoftwareFoundation/openvdb
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-06-29'
+              dev_stats_url: https://insights.linuxfoundation.org/project/nanovdb
+              lfx_slug: nanovdb
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/nanovdb
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfDkoCAR5aspTwhSRh
+          - item:
             name: NativeScript
             homepage_url: https://nativescript.org/
             logo: nativescript.svg
@@ -17996,7 +18035,7 @@ landscape:
             second_path:
               - Project Group / LF Decentralized Trust
               - Technology Sector / Blockchain
-            repo_url: https://github.com/LFDT-Panurus/TSC
+            repo_url: https://github.com/LFDT-Panurus/panurus
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -36773,6 +36812,7 @@ landscape:
             name: Nimtech (member)
             homepage_url: https://nimtech.no/
             logo: nimtech.svg
+            description: Vi leverer cloud-native løsninger for Enterprise selskaper i Norge. Nimtech er det ledende miljø på automasjon og utvikling av skyløsninger. Bli med på reisen!
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
