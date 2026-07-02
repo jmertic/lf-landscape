@@ -15209,6 +15209,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/open-component-model
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfDxshpdqN9H9Uumud
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/open-component-model/open-component-model_Charter.pdf?v=1782927525629
               annotations:
                 project_org: https://github.com/open-component-model
             additional_repos:
@@ -16626,6 +16628,32 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfFn5GZ7ccsXkcmxHC
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/openqmc/openqmc_Charter.pdf?v=1755109437753
+          - item:
+            name: Open Resource Discovery
+            homepage_url: https://open-resource-discovery.org/
+            logo: open_resource_discovery.svg
+            description: The mission of the Project is to provide an open standard for decentralized publishing and discovery of application / service metadata.
+            second_path:
+              - Project Group / NeoNephos Foundation
+              - Technology Sector / Open Source & Compliance Best Practices
+            repo_url: https://github.com/open-resource-discovery/specification
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-06-16'
+              dev_stats_url: https://insights.linuxfoundation.org/project/open-resource-discovery
+              lfx_slug: open-resource-discovery
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/open-resource-discovery
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfdjcrVKxK6SV3a6p3
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/open-resource-discovery/open-resource-discovery_Charter.pdf?v=1782924071086
+              annotations:
+                project_org: https://github.com/open-resource-discovery
+            additional_repos:
+              - repo_url: https://github.com/open-resource-discovery/provider-server
           - item:
             name: Open Review Initiative
             homepage_url: https://openreviewinitiative.org/
@@ -28231,15 +28259,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/booz-allen-hamilton
           - item:
-            name: Border0 (member)
-            homepage_url: https://border0.com/
-            logo: border0.svg
-            description: Border0 offers secure access to SSH, Database, and Web servers using Single Sign-On credentials, ensuring frictionless and compliant infrastructure management.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/border0-inc
-          - item:
             name: Bosch (member)
             homepage_url: https://bosch.com/
             logo: bosch.svg
@@ -30626,7 +30645,6 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Trust Over IP Project (ToIP)
-              - Project Membership / FinOps Foundation
               - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
             crunchbase: https://www.crunchbase.com/organization/deloitte
             twitter: https://twitter.com/DeloitteUS
@@ -33817,6 +33835,13 @@ landscape:
             twitter: https://twitter.com/Infineon
             extra:
               linkedin_url: https://www.linkedin.com/company/infineon-technologies
+          - item:
+            name: Infino AI (member)
+            homepage_url: https://infino.ai/
+            logo: infino_ai.svg
+            description: Full-text search, vectors, and SQL — directly on Parquet. One copy of your data, on object storage.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Infisical (member)
             homepage_url: https://infisical.com/
@@ -41666,6 +41691,15 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/tensor9
           - item:
+            name: Tensormesh, Inc. (member)
+            homepage_url: https://tensormesh.ai/
+            logo: tensormesh_inc.svg
+            description: Tensormesh helps AI teams cut inference costs by caching and reusing repeated context. Run faster, lower-cost workloads with serverless and on-demand deployment.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/tensormesh
+          - item:
             name: TensorOpera AI (member)
             homepage_url: https://tensoropera.ai/
             logo: tensoropera_ai.svg
@@ -44492,9 +44526,9 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / LF Networking (LFN)
           - item:
-            name: AlmaLinux (member)
+            name: AlmaLinux OS Foundation (member)
             homepage_url: https://almalinux.org/
-            logo: almalinux.svg
+            logo: almalinux_os_foundation.svg
             description: |-
               AlmaLinux OS is an enterprise Linux (EL) operating system used across the globe by people and organizations that need a stable operating system in the EL ecosystem that's free and doesn't require a commercial license agreement. This includes everything from non-profit organizations to Fortune 500 companies, from hobbyists managing their home automation to professionals managing supercomputers that are expanding our understanding of the universe - and everything in between. 
 
@@ -46980,14 +47014,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/information-network-security-agency
           - item:
-            name: Information-technology Promotion Agency,  Japan (IPA) (member)
-            homepage_url: https://www.ipa.go.jp/en/
-            logo: information_technology_promotion_agency_japan_ipa.svg
-            description: IPA is an independent administrative institution driving the digital era with a focus on information security, digital talent development, and societal transformation. They provide IT services and consulting to create a safe and convenient IT environme...
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / TODO Group
-          - item:
             name: Infotics Institute Of Technology (member)
             homepage_url: https://infotics.edu.pk/
             logo: infotics_institute_of_technology.svg
@@ -47019,6 +47045,14 @@ landscape:
             twitter: https://twitter.com/InnerSourceOrg
             extra:
               linkedin_url: https://www.linkedin.com/company/innersourcecommons
+          - item:
+            name: Innovation Platform Agency, Japan (IPA) (member)
+            homepage_url: https://www.ipa.go.jp/en/
+            logo: innovation_platform_agency_japan_ipa.svg
+            description: IPA is an independent administrative institution driving the digital era with a focus on information security, digital talent development, and societal transformation. They provide IT services and consulting to create a safe and convenient IT environme...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / TODO Group
           - item:
             name: INSTITUTE FOR INFORMATION INDUSTRY (member)
             homepage_url: https://iii.org.tw/
