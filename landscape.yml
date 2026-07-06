@@ -20223,26 +20223,6 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkDo3QAF
           - item:
-            name: Security Reference Data
-            homepage_url: https://github.com/finos/secref-data
-            logo: security_reference_data.svg
-            description: Security Reference Data project
-            second_path:
-              - Project Group / FINOS (The Fintech Open Source Foundation)
-              - Industry / Financials
-              - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/finos/secref-data
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2020-06-30'
-              dev_stats_url: https://insights.linuxfoundation.org/project/security-reference-data
-              lfx_slug: security-reference-data
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/security-reference-data
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkUbBQAV
-          - item:
             name: Security Working Group (WG)
             homepage_url: https://wiki.linuxfoundation.org/civilinfrastructureplatform/cip-sw-updates
             logo: security_working_group_wg.svg
@@ -27673,6 +27653,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/axa
           - item:
+            name: Axel Egger Advisory GmbH (member)
+            homepage_url: https://egger-advisory.ch/
+            logo: axel_egger_advisory_gmbh.svg
+            description: Axel Egger Advisory provides consulting, software, and AI-driven solutions for businesses to ensure the secure processing of sensitive data, emphasizing the necessity of data security in today's digital landscape.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Axis Communications (member)
             homepage_url: https://axis.com/
             logo: axis_communications.svg
@@ -32702,6 +32689,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+              - Project Membership / Linux Foundation Europe
             crunchbase: https://www.crunchbase.com/organization/giant-swarm
             twitter: https://twitter.com/giantswarm
             extra:
@@ -44121,7 +44109,23 @@ landscape:
             name: Zafin Labs Americas Inc. (member)
             homepage_url: https://zafin.com/
             logo: zafin_labs_americas_inc.svg
-            description: Zafins mission is to make banking better for both the customer and the bank. Their platform, miRevenue, helps banks deepen customer relationships by uniting common customer, product, pricing and billing functions in one integrated solution. Today, financial institutions of all sizes use miRevenue to increase revenue, enhance operational efficiency, streamline regulatory compliance and enable a connected digital banking ecosystem. Each year, trust clients trust miRevenue to process billions of transactions for hundreds of millions of their customers across retail banking, cash management, wealth management and custody services.
+            description: |-
+              Zafin is an AI platform company for regulated institutions. Built from more than 20 years of operating in demanding regulated technology environments, Zafin brings structure, intelligence and accountability to how critical work, systems and decisions are created, governed and improved. 
+              Zafin's portfolio includes three platforms: 
+
+              •	Zafin AIOS is an end-to-end agent orchestration platform and control plane for governed agentic work. It helps regulated institutions orchestrate work performed by internal and approved third-party agents from intent to governed outcome, with human authority, cost controls and proof of work built into the work path. 
+
+              •	Zafin Banking Platform is the AI powered banking execution platform for product, pricing, offers, billing, loyalty, relationship and deal logic across retail and corporate banking. It externalizes critical banking logic from legacy environments so banks can launch propositions faster, personalize offers, manage complex relationships and govern how banking value is structured and executed.
+
+              •	Zafin IO is the integration platform for regulated institutions. Proven first in banking, it connects data, events, services, workflows and applications across enterprise environments so institutions can connect legacy and modern systems and modernize progressively without disrupting critical operations.
+
+              Together, they reflect Zafin's core discipline: helping institutions move faster while preserving governance, evidence, control and accountability.
+
+              Headquartered in Toronto, Canada, Zafin serves institutions across North America, EMEA, and Asia-Pacific. 
+
+              To learn more, visit www.zafin.com, and connect with us on LinkedIn. Additional insights and expert discussions are available on the Zafin blog and  YouTube channel.
+
+              "Zafin" is a trademark of Zafin. Other product or service names mentioned herein may be trademarks of their respective companies.
             second_path:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/zafin
