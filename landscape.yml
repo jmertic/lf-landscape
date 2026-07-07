@@ -5187,55 +5187,6 @@ landscape:
               youtube_url: https://www.youtube.com/c/deltalake
               linkedin_url: https://www.linkedin.com/company/deltalake/
           - item:
-            name: DENT Fund
-            homepage_url: https://dent.dev/
-            logo: dent_fund.svg
-            description: DENT will utilize the Linux Kernel, Switchdev, and other Linux based projects as the basis for building a new standardized network operating system without abstractions or overhead. All underlying infrastructure — including ASIC and Silicon for networking and datapath — will be treated equally; while existing abstractions, APIs, drivers, low-level overhead, and other open software will be simplified. DENT will unite silicon vendors, ODMs, SIs, OEMs, and end users across all verticals and enable the transition to disaggregated networks.
-            second_path:
-              - Project Group / The Linux Foundation
-              - PMO Managed / All
-              - Industry / Cross-Industry
-              - Technology Sector / Networking & Edge
-            repo_url: https://github.com/dentproject/dentOS
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2019-12-13'
-              dev_stats_url: https://insights.linuxfoundation.org/project/dent
-              lfx_slug: dent
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/dent
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IbJGwQAN
-              annotations:
-                project_org: https://github.com/dentproject
-            additional_repos:
-              - repo_url: https://github.com/dentproject/poed
-          - item:
-            name: DENT Project
-            homepage_url: https://dent.dev/
-            logo: dent_project.svg
-            description: DENT project enables the creation of Network OS for Disaggregated Network Switches in campus and remote enterprise locations.
-            second_path:
-              - Project Group / DENT Fund
-              - Industry / Cross-Industry
-              - Technology Sector / Networking & Edge
-            repo_url: https://github.com/dentproject/dentOS
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2020-01-30'
-              dev_stats_url: https://insights.linuxfoundation.org/project/dent-project
-              lfx_slug: dent-project
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/dent-project
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkUL0QAN
-              annotations:
-                project_org: https://github.com/dentproject
-            additional_repos:
-              - repo_url: https://github.com/dentproject/poed
-          - item:
             name: Developer Relations Foundation
             homepage_url: https://dev-rel.org/
             logo: developer_relations_foundation.svg
@@ -31360,6 +31311,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/effodio
           - item:
             name: EIDP (member)
             homepage_url: https://eidp.com/
