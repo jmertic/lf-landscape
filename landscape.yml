@@ -12462,6 +12462,33 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkOXeQAN
           - item:
+            name: llm-d
+            homepage_url: https://llm-d.ai/
+            logo: llm_d.svg
+            description: develop a Kubernetes-native distributed inference framework that enables developers and organizations to serve large language models at scale with high performance across different hardware and cloud environments
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / AI, ML, Data & Analytics
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/llm-d/llm-d
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-04-01'
+              dev_stats_url: https://insights.linuxfoundation.org/project/llm-d
+              lfx_slug: llm-d
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/llm-d
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfCA53QCYbXNks8D0Y
+              annotations:
+                project_org: https://github.com/llm-d
+            additional_repos:
+              - repo_url: https://github.com/llm-d/llm-d-router
+              - repo_url: https://github.com/llm-d/llm-d-kv-cache
+              - repo_url: https://github.com/llm-d/llm-d-benchmark
+          - item:
             name: Loaders.gl
             homepage_url: https://loaders.gl/
             logo: loaders.svg
@@ -16051,6 +16078,7 @@ landscape:
               ** Note - create under LF Europe
             second_path:
               - Project Group / NeoNephos Foundation
+              - PMO Managed / All
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/openkcm/orbital
             license: Apache-2.0
@@ -33220,6 +33248,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/githedgehog
           - item:
+            name: Helin (member)
+            homepage_url: https://helindata.com/
+            logo: helin.svg
+            description: Helin revolutionizes industrial efficiency and safety in maritime and energy sectors with an Edge Intelligence platform, offering seamless edge control, AI applications, and advanced analytics for remote operations.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / LF Edge
+          - item:
             name: Helmet Security (member)
             homepage_url: https://helmetsecurity.com/
             logo: helmet_security.svg
@@ -35223,6 +35259,14 @@ landscape:
             twitter: https://twitter.com/LegitSecurity1
             extra:
               linkedin_url: https://www.linkedin.com/company/legitsecurity
+          - item:
+            name: Legora (member)
+            homepage_url: https://legora.com/
+            logo: legora.svg
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/legora
           - item:
             name: Leica Camera (member)
             homepage_url: https://leica-camera.com/
@@ -39934,7 +39978,6 @@ landscape:
               - Project Membership / SPDX
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-              - Project Membership / Open Source Security Foundation (OpenSSF)
             crunchbase: https://www.crunchbase.com/organization/she-bash-llc
             twitter: https://twitter.com/SHEBASHIO
             extra:
@@ -41959,19 +42002,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/thornstein-groep-b.v.
           - item:
-            name: ThoughtWorks, Inc (member)
-            homepage_url: https://thoughtworks.com/
-            logo: thoughtworks_inc.svg
-            description: ThoughtWorks is a global IT consultancy with an exclusive focus on end-to-end global software development and delivery. The company's pioneering approach, which includes industry acclaimed agile best practices, helps CIOs maximize investment performance across their portfolio of complex, business critical applications, while reducing time and risk. ThoughtWorks operates 40 offices in Africa, Australia, Brazil, Canada, China, Germany, India, Singapore, the United Kingdom and the United States. The company is headquartered in Chicago, Illinois.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Trust Over IP Project (ToIP)
-              - Project Membership / FINOS (The Fintech Open Source Foundation)
-            crunchbase: https://www.crunchbase.com/organization/thoughtworks
-            twitter: https://twitter.com/thoughtworks
-            extra:
-              linkedin_url: https://www.linkedin.com/company/thoughtworks
-          - item:
             name: Thread AI (member)
             homepage_url: https://threadai.com/
             logo: thread_ai.svg
@@ -42121,7 +42151,10 @@ landscape:
             name: Traefik Labs SAS (member)
             homepage_url: https://traefik.io/
             logo: traefik_labs_sas.svg
-            description: Containous is the leading cloud-native networking company behind the open source reverse proxy Traefik and the simpler service mesh, Maesh.
+            description: |-
+              Traefik Labs helps enterprises migrate, modernize, and transform any workload, across any environment. The Traefik Runtime Platform unifies operations for VMs, containers, and AI workloads across legacy, hybrid, multi-cloud, and sovereign environments. Despite being a single, lightweight binary, Traefik covers six core dimensions, including routing, security, observability, API management, AI governance, and MCP governance. All six dimensions share the same declarative config model, governance as a first-class primitive, unified control plane, and composability—you can add capabilities seamlessly as needed. No rewrites necessary.
+
+              Founded in 2016 and headquartered in both the US and France, Traefik now has over 3.5 billion downloads, has been independently selected as the default ingress controller by more than 5 major Kubernetes providers, and is trusted by leading Fortune 500 companies worldwide.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
