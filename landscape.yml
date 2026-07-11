@@ -2574,7 +2574,7 @@ landscape:
             logo: chantico.svg
             description: The mission of the Project is to develop a cloud-native approach to monitor and attribute the energy consumption of data center IT equipment, such as PDUs and bare metal servers, but also virtual machines running on hypervisors and pods in clusters.
             second_path:
-              - Project Group / Linux Foundation Europe
+              - Project Group / NeoNephos Foundation
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/chantico-project/chantico
             license: Apache-2.0
@@ -11661,7 +11661,7 @@ landscape:
               - repo_url: https://github.com/kubevirt/api-reference
               - repo_url: https://github.com/kubevirt/project-infra
           - item:
-            name: kubewarden
+            name: Kubewarden
             homepage_url: https://kubewarden.io/
             logo: kubewarden.svg
             description: |-
@@ -13086,28 +13086,6 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/mavsdk
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWhB9QAL
-          - item:
-            name: mDL Implementation in JavaScript
-            homepage_url: https://github.com/openwallet-foundation-labs/mdl-js
-            logo: mdl_implementation_in_javascript.svg
-            description: The mission of the Project is to develop an implementation of the ISO 18013-5:2021 (mDL) specification in Javascript.
-            second_path:
-              - Project Group / OpenWallet Foundation
-              - Technology Sector / Blockchain
-            repo_url: https://github.com/openwallet-foundation-labs/mdl-js
-            license: Apache-2.0
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2024-09-10'
-              dev_stats_url: https://insights.linuxfoundation.org/project/mdl-javascript
-              lfx_slug: mdl-javascript
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/mdl-javascript
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfKZRogVDFkm2OVskz
-                - name: Charter
-                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/mdl-javascript/mdl-javascript_Charter.pdf?v=1778684318486
           - item:
             name: MD-SAL
             homepage_url: https://wiki.opendaylight.org/display/ODL/MD-SAL
@@ -23786,30 +23764,6 @@ landscape:
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/veraison/veraison_Charter.pdf?v=1765227760746
           - item:
-            name: Vineyard
-            homepage_url: https://v6d.io/
-            logo: vineyard.svg
-            description: Vineyard is an in-memory immutable data manager that provides out-of-the-box high-level abstraction and zero-copy in-memory sharing for distributed data in big data tasks, such as graph analytics, numerical computing, and machine learning.
-            second_path:
-              - Project Group / Cloud Native Computing Foundation (CNCF)
-              - Technology Sector / Cloud, Containers & Virtualization
-              - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/v6d-io/v6d
-            license: Apache-2.0
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2021-04-27'
-              dev_stats_url: https://insights.linuxfoundation.org/project/vineyard
-              lfx_slug: vineyard
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/vineyard
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWpngQAD
-              annotations:
-                project_org: https://github.com/v6d-io
-            additional_repos: []
-          - item:
             name: Virtual Function Controller (VFC)
             homepage_url: https://wiki.onap.org/x/Pplk
             logo: virtual_function_controller_vfc.svg
@@ -29019,15 +28973,6 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/chislitel-lab
           - item:
-            name: Chkk Inc (member)
-            homepage_url: https://chkk.io/
-            logo: chkk_inc.svg
-            description: Chkk is a company that provides uptime assurance for Kubernetes using collective learning. They help reduce risk, avoid incidents, and upgrade safely with confidence.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/chkk
-          - item:
             name: Chronosphere, Inc. (member)
             homepage_url: https://chronosphere.io/
             logo: chronosphere_inc.svg
@@ -32820,18 +32765,6 @@ landscape:
             twitter: https://twitter.com/GrabSG
             extra:
               linkedin_url: https://www.linkedin.com/company/grabapp
-          - item:
-            name: GramLabs, Inc. (d/b/a StormForge) (member)
-            homepage_url: https://stormforge.io/
-            logo: gramlabs_inc_d_b_a_stormforge.svg
-            description: StormForge brings together world-class data scientists and software engineers to enable businesses to drive breakthrough IT and operations efficiency. The StormForge Platform is set apart by its unwavering focus on building AI-powered software products that are designed to help people, not replace them. The StormForge Platform uses enterprise grade performance testing coupled with machine learning to drive major application performance gains and cost reductions in complex environments. In February 2020, StormForge announced funding from Insight Partners to accelerate the growth of its Platform. StormForge was founded in 2015 and is based in Boston and Washington, DC.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/stormforge
-            twitter: https://twitter.com/StormForgeIO
-            extra:
-              linkedin_url: https://www.linkedin.com/company/stormforge
           - item:
             name: Graphcore (member)
             homepage_url: https://graphcore.ai/
@@ -43003,6 +42936,15 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/vijil
           - item:
+            name: VillageSQL (member)
+            homepage_url: https://villagesql.com/
+            logo: villagesql.svg
+            description: VillageSQL is the innovation platform for MySQL and is a drop-in replacement for MySQL with extensions for the agentic AI era.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/villagesql
+          - item:
             name: Virtasant (member)
             homepage_url: https://virtasant.com/
             logo: virtasant.svg
@@ -44800,6 +44742,13 @@ landscape:
             logo: barre_open_systems_institute.svg
             second_path:
               - Project Membership / Open Mainframe Project (OMP)
+              - Project Membership / The Linux Foundation
+          - item:
+            name: Battelle Memorial Institute (member)
+            homepage_url: https://www.battelle.org/
+            logo: battelle_memorial_institute.svg
+            description: Battelle is a global research and development organization that focuses on advancing scientific discovery and innovation across various fields, including national security, health, energy, and environmental sciences, while also committing to community ...
+            second_path:
               - Project Membership / The Linux Foundation
           - item:
             name: BBC (member)
@@ -50955,6 +50904,7 @@ landscape:
             description: Università degli Studi dell'Aquila is an educational institution that offers a wide range of academic programs and research opportunities across various disciplines, including engineering, medicine, and the humanities, while also maintaining significan...
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / RISC-V International
               - Project Membership / Green Software Foundation Fund
             extra:
               linkedin_url: https://www.linkedin.com/company/university-of-l%27aquila
