@@ -4005,6 +4005,28 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWeiIQAT
           - item:
+            name: Configurator File Type Project
+            homepage_url: https://github.com/configurator-file-type
+            logo: configurator_file_type_project.svg
+            description: The mission of the project is to develop and maintain open, royalty-free, machine-readable specifications for digital file formats used in configure-to-order modular building products, including the .CTO format for product configurations and assemblies and the .CIS format for connection interface standards, along with reference implementations and validation tooling.
+            second_path:
+              - Technology Sector / Storage
+            repo_url: https://github.com/configurator-file-type/configurator-file-type-spec
+            license: TBD / NA
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-06-25'
+              dev_stats_url: https://insights.linuxfoundation.org/project/configurator-file-type-project
+              lfx_slug: configurator-file-type-project
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/configurator-file-type-project
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf43S7338x5T3niXXt
+              annotations:
+                project_org: https://github.com/configurator-file-type
+            additional_repos: []
+          - item:
             name: Connected Data Specification - Customer Data Working Group (CDS WG3)
             homepage_url: https://cds-customerdata.lfenergy.org/
             logo: connected_data_specification_customer_data_working_group_cds_wg3.svg
@@ -26558,7 +26580,6 @@ landscape:
               - Project Membership / Xen Project
               - Project Membership / Yocto Project Fund
               - Project Membership / Academy Software Foundation (ASWF)
-              - Project Membership / Open 3D Foundation
               - Project Membership / FINOS (The Fintech Open Source Foundation)
               - Project Membership / FinOps Foundation
               - Project Membership / Open Source Security Foundation (OpenSSF)
@@ -28622,7 +28643,7 @@ landscape:
             name: Capital One Services LLC (member)
             homepage_url: https://capitalone.com/
             logo: capital_one_services_llc.svg
-            description: Capital One-Europe is a subsidiary of the Capital One Financial Corporation and is based out of Nottingham England. They aim to provide a broad spectrum of financial products and services to consumers, small businesses and commercial clients all over Europe.
+            description: Capital One is a financial services company that provides banking, credit card, auto loan, savings, and commercial banking services.
             second_path:
               - Project Membership / OpenJS Foundation
               - Project Membership / Cloud Native Computing Foundation (CNCF)
@@ -30897,17 +30918,6 @@ landscape:
             twitter: https://twitter.com/Damldriven
             extra:
               linkedin_url: https://www.linkedin.com/company/digitalassetcom
-          - item:
-            name: Digital Challengers (member)
-            homepage_url: https://digitalchallengers.com.mx/
-            logo: digital_challengers.svg
-            description: Digital Challengers is a company with over 10 years of experience dedicated to driving innovation projects for clients to maximize their value. They focus on proposing business cases to demonstrate the benefits of the latest technologies in qualitative...
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/digital-challengers
-            extra:
-              linkedin_url: https://www.linkedin.com/company/digital-challengers-it
           - item:
             name: Digital China Data Cloud Technology Co.,Ltd. (member)
             homepage_url: https://navimentum.com/
@@ -39909,19 +39919,6 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/zstack
-          - item:
-            name: SHE BASH (member)
-            homepage_url: https://shebash.io/
-            logo: she_bash.svg
-            description: 'Bringing much needed capacity to #DoD #DevSecOps.'
-            second_path:
-              - Project Membership / SPDX
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/she-bash-llc
-            twitter: https://twitter.com/SHEBASHIO
-            extra:
-              linkedin_url: https://www.linkedin.com/company/shebash
           - item:
             name: Shenzhen Jaguar Microsystems Co., Ltd. (member)
             homepage_url: https://jaguarmicro.com/
