@@ -817,6 +817,26 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkBB2QAN
           - item:
+            name: Akrites
+            homepage_url: https://www.linuxfoundation.org/
+            logo: akrites.svg
+            description: Akrites provides a secure, unified environment for the confidential remediation, and responsible disclosure of severe open-source vulnerabilities.
+            second_path:
+              - Project Group / The Linux Foundation
+              - Technology Sector / Privacy & Security
+              - Technology Sector / Open Source & Compliance Best Practices
+            license: TBD / NA
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-07-09'
+              dev_stats_url: https://insights.linuxfoundation.org/project/akrites
+              lfx_slug: akrites
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/akrites
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfhfN4iboJYhDwlbDg
+          - item:
             name: Alliance for Open Media (AOM)
             homepage_url: https://aomedia.org/
             logo: alliance_for_open_media_aom.svg
@@ -9025,6 +9045,27 @@ landscape:
                 - name: Charter
                   url: https://www.hyperledger.org/about/charter
           - item:
+            name: Hyperledger Firefly
+            homepage_url: https://github.com/hyperledger-firefly/firefly
+            logo: hyperledger_firefly.svg
+            description: 'The mission of the Project is to build an open source Supernode: a complete stack for enterprises to build and scale secure Web3 applications.'
+            second_path:
+              - Project Group / LF Decentralized Trust
+              - Technology Sector / Blockchain
+              - Technology Sector / Web & Application Development
+            repo_url: https://github.com/hyperledger-firefly/firefly
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2021-09-23'
+              dev_stats_url: https://insights.linuxfoundation.org/project/firefly
+              lfx_slug: firefly
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/firefly
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkDDqQAN
+          - item:
             name: Hyperledger Identus
             homepage_url: https://www.hyperledger.org/projects/identus
             logo: hyperledger_identus.svg
@@ -16657,6 +16698,28 @@ landscape:
                 - name: Charter
                   url: https://github.com/AcademySoftwareFoundation/foundation/blob/main/project_charters/open-review-initiative_charter.pdf
           - item:
+            name: Open RV
+            homepage_url: https://github.com/AcademySoftwareFoundation/OpenRV
+            logo: open_rv.svg
+            description: Open RV is an image and sequence viewer for VFX and animation artists. Open RV is high-performant, hardware accelerated, and pipeline-friendly.
+            second_path:
+              - Project Group / Academy Software Foundation (ASWF)
+              - Technology Sector / Visual Effects
+            repo_url: https://github.com/AcademySoftwareFoundation/OpenRV
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-07-14'
+              dev_stats_url: https://insights.linuxfoundation.org/project/openrv
+              lfx_slug: openrv
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openrv
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfbkTM2SDFcVI6Okq1
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/openrv/openrv_Charter.pdf?v=1784058223790
+          - item:
             name: OpenSearch Software Foundation
             homepage_url: https://www.opensearch.org/
             logo: opensearch_software_foundation.svg
@@ -18034,6 +18097,29 @@ landscape:
               - repo_url: https://github.com/paketo-buildpacks/nodejs
               - repo_url: https://github.com/paketo-buildpacks/go
               - repo_url: https://github.com/paketo-buildpacks/php
+          - item:
+            name: Paladin
+            homepage_url: https://www.paladinprivacy.org/
+            logo: paladin.svg
+            description: Paladin is a modular runtime for programmable privacy on EVM. It provides the common wallet/vault functions that are needed to interact with all forms of privacy preserving smart contracts. It also provides a model for atomic programmability across these privacy preserving smart contracts, harnessing the power of the underlying EVM shared ledger.
+            second_path:
+              - Project Group / LF Decentralized Trust
+              - Technology Sector / Privacy & Security
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/LF-Decentralized-Trust-labs/paladin
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-11-24'
+              dev_stats_url: https://insights.linuxfoundation.org/project/paladin
+              lfx_slug: paladin
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/paladin
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfZJ4OprPpxw8UzGiu
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/paladin/paladin_Charter.pdf?v=1764785713001
           - item:
             name: Panurus
             homepage_url: https://github.com/LFDT-Panurus
@@ -20299,7 +20385,7 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Industry / Cross-Industry
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/serverlessworkflow/specification
+            repo_url: https://github.com/serverlessworkflow/sdk-typescript
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -20314,9 +20400,6 @@ landscape:
               annotations:
                 project_org: https://github.com/serverlessworkflow
             additional_repos:
-              - repo_url: https://github.com/serverlessworkflow/sdk-go
-              - repo_url: https://github.com/serverlessworkflow/sdk-java
-              - repo_url: https://github.com/serverlessworkflow/sdk-typescript
               - repo_url: https://github.com/serverlessworkflow/sdk-net
           - item:
             name: Service Design & Creation (SDC)
@@ -24648,6 +24731,28 @@ landscape:
               annotations:
                 project_org: https://github.com/xregistry
             additional_repos: []
+          - item:
+            name: xStudio
+            homepage_url: https://github.com/AcademySoftwareFoundation/xstudio
+            logo: xstudio.svg
+            description: xSTUDIO is a media playback and review application designed for professionals working in the film and TV post production industries, particularly the Visual Effects and Feature Animation sectors. xSTUDIO is focused on providing an intuitive, easy to use interface with a high performance playback engine at its core and C++ and Python APIs for pipeline integration and customisation for total flexibility.
+            second_path:
+              - Project Group / Academy Software Foundation (ASWF)
+              - Technology Sector / Visual Effects
+            repo_url: https://github.com/AcademySoftwareFoundation/xstudio
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-07-09'
+              dev_stats_url: https://insights.linuxfoundation.org/project/xstudio
+              lfx_slug: xstudio
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/xstudio
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfwQ4NyydjBcDCKMwn
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/xstudio/xstudio_Charter.pdf?v=1784051302888
           - item:
             name: YANG Tools
             homepage_url: https://wiki.opendaylight.org/display/ODL/YANG+Tools
@@ -33167,6 +33272,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/hcl-technologies
           - item:
+            name: Hecto Financial Co. (member)
+            homepage_url: https://hectofinancial.co.kr/
+            logo: hecto_financial_co.svg
+            description: Hecto Financial Co. is a top AI payment and data convergence company in South Korea, offering cash payment, virtual accounts, and PG services to streamline payment processes and support businesses.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Hedera Hashgraph LLC (member)
             homepage_url: https://hedera.com/
             logo: hedera_hashgraph_llc.svg
@@ -37700,7 +37812,6 @@ landscape:
             description: ownCloud is the original open source EFSS, maintained by Kiteworks through its Open Source Program Office. Self-hosted file sync, share and collaboration since 2010.
             second_path:
               - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/owncloud
             twitter: https://twitter.com/ownCloud
             extra:
               linkedin_url: https://www.linkedin.com/company/owncloud
@@ -40340,6 +40451,7 @@ landscape:
               Primary
               1-9-1, Higashi-Shimbashi, Minato-ku, Tokyo 105-7303, JP
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / LF Networking (LFN)
             crunchbase: https://www.crunchbase.com/organization/softbank-corp
@@ -41054,6 +41166,14 @@ landscape:
             twitter: https://twitter.com/stripe
             extra:
               linkedin_url: https://www.linkedin.com/company/stripe
+          - item:
+            name: Strong Compute Services Corporation (member)
+            homepage_url: https://strongcompute.com/
+            logo: strong_compute_services_corporation.svg
+            description: Strong Compute offers fast and efficient AI compute solutions with training speeds up to 1000x faster, ensuring zero configuration and no bill shock for end users.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / FinOps Foundation
           - item:
             name: Succinct (member)
             homepage_url: https://succinct.xyz/
@@ -49623,6 +49743,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/safecode-org
           - item:
+            name: Sage Bionetworks (member)
+            homepage_url: https://sagebionetworks.org/
+            logo: sage_bionetworks.svg
+            description: Sage Bionetworks is a nonprofit organization that facilitates data sharing and reuse to accelerate biomedical discoveries and enhance the translation of scientific research into medical applications, primarily through its Synapse Python Client, which a...
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Sahyadri College of Engineering & Management (member)
             homepage_url: https://sahyadri.edu.in/
             logo: sahyadri_college_of_engineering_management.svg
@@ -50833,6 +50960,13 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Camara Fund
+          - item:
+            name: UnGovr (member)
+            homepage_url: https://ungovr.org/
+            logo: ungovr.svg
+            description: UnGovr is a nonprofit initiative focused on creating tools that enhance public access to government records, facilitate understanding of governmental decisions, and encourage meaningful civic participation.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: UNH Interoperability Labs (member)
             homepage_url: https://iol.unh.edu/
