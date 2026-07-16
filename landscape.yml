@@ -9046,7 +9046,7 @@ landscape:
                   url: https://www.hyperledger.org/about/charter
           - item:
             name: Hyperledger Firefly
-            homepage_url: https://github.com/hyperledger-firefly/firefly
+            homepage_url: https://github.com/hyperledger-firefly
             logo: hyperledger_firefly.svg
             description: 'The mission of the Project is to build an open source Supernode: a complete stack for enterprises to build and scale secure Web3 applications.'
             second_path:
@@ -9065,6 +9065,9 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/firefly
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkDDqQAN
+              annotations:
+                project_org: https://github.com/hyperledger-firefly
+            additional_repos: []
           - item:
             name: Hyperledger Identus
             homepage_url: https://www.hyperledger.org/projects/identus
@@ -10600,6 +10603,25 @@ landscape:
               annotations:
                 project_org: https://github.com/neonephos-katalis
             additional_repos: []
+          - item:
+            name: kbind
+            homepage_url: https://kbind.dev/
+            logo: kbind.svg
+            description: enable Kubernetes clusters to securely share and consume services across cluster and organizational boundaries using standard Kubernetes APIs
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-05-14'
+              dev_stats_url: https://insights.linuxfoundation.org/project/kube-bind
+              lfx_slug: kube-bind
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kube-bind
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfpwXzZpMPkgnaeKco
           - item:
             name: KCL
             homepage_url: https://github.com/kcl-lang/kcl
@@ -18106,7 +18128,7 @@ landscape:
               - Project Group / LF Decentralized Trust
               - Technology Sector / Privacy & Security
               - Technology Sector / Blockchain
-            repo_url: https://github.com/LF-Decentralized-Trust-labs/paladin
+            repo_url: https://github.com/LFDT-Paladin/paladin
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -18120,6 +18142,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfZJ4OprPpxw8UzGiu
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/paladin/paladin_Charter.pdf?v=1764785713001
+              annotations:
+                project_org: https://github.com/LFDT-Paladin
+            additional_repos: []
           - item:
             name: Panurus
             homepage_url: https://github.com/LFDT-Panurus
@@ -20385,7 +20410,7 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Industry / Cross-Industry
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/serverlessworkflow/sdk-typescript
+            repo_url: https://github.com/serverlessworkflow/sdk-net
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -20399,8 +20424,7 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkOXlQAN
               annotations:
                 project_org: https://github.com/serverlessworkflow
-            additional_repos:
-              - repo_url: https://github.com/serverlessworkflow/sdk-net
+            additional_repos: []
           - item:
             name: Service Design & Creation (SDC)
             homepage_url: https://wiki.onap.org/x/T5lk
@@ -27217,6 +27241,13 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
           - item:
+            name: Arkham (member)
+            homepage_url: https://arkm.com/
+            logo: arkham.svg
+            description: Arkham Exchange provides a secure platform for trading cryptocurrencies, offering features such as live price tracking, real-time market data, and advanced trading tools to enhance the trading experience.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Armilla AI (member)
             homepage_url: https://armilla.ai/
             logo: armilla_ai.svg
@@ -27548,6 +27579,12 @@ landscape:
             twitter: https://twitter.com/AuriStor
             extra:
               linkedin_url: https://www.linkedin.com/company/auristor-inc
+          - item:
+            name: AuthPlane (member)
+            homepage_url: https://authplane.ai/
+            logo: authplane.svg
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Authzed (member)
             homepage_url: https://authzed.com/
@@ -30298,19 +30335,6 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/cue-labs-c550
           - item:
-            name: Cuemby Inc. (member)
-            homepage_url: https://cuemby.com/
-            logo: cuemby_inc.svg
-            description: Cuemby is a leading digital transformation consultancy that empowers organizations to thrive in the digital age. We offer a comprehensive suite of services and AI-powered products to guide businesses of all sizes through every stage of their digital journey, from strategy and implementation to ongoing optimization.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-              - Project Membership / TODO Group
-            crunchbase: https://www.crunchbase.com/organization/cuemby
-            twitter: https://twitter.com/cuemby
-            extra:
-              linkedin_url: https://www.linkedin.com/company/cuemby
-          - item:
             name: CVS Health (member)
             homepage_url: https://cvshealth.com/
             logo: cvs_health.svg
@@ -32179,15 +32203,6 @@ landscape:
             twitter: https://twitter.com/fairwindsops
             extra:
               linkedin_url: https://www.linkedin.com/company/fairwinds
-          - item:
-            name: Far-Galaxy Networks, Inh. Sebastian Fohler (member)
-            homepage_url: https://far-galaxy.de/
-            logo: far_galaxy_networks_inh.svg
-            description: Far Galaxy Networks is an IT consulting and services company that provides open source cloud automation, DevOps, software defined networking, consulting, implementation, monitoring, security, and support.
-            second_path:
-              - Project Membership / The Linux Foundation
-            extra:
-              linkedin_url: https://www.linkedin.com/company/far-galaxy-networks
           - item:
             name: Fastly, Inc. (member)
             homepage_url: https://fastly.com/
@@ -37331,6 +37346,7 @@ landscape:
               - Project Membership / Linux Foundation Europe
               - Project Membership / PyTorch Foundation
               - Project Membership / SONiC Fund
+              - Project Membership / TLA+ Foundation
               - Project Membership / Alliance for OpenUSD Fund (AOUSDF)
             crunchbase: https://www.crunchbase.com/organization/nvidia
             twitter: https://twitter.com/nvidia
@@ -40775,6 +40791,13 @@ landscape:
               - Project Membership / Alliance for OpenUSD Fund (AOUSDF)
             extra:
               linkedin_url: https://www.linkedin.com/company/spatialinc
+          - item:
+            name: Speakeasy (member)
+            homepage_url: https://speakeasy.com/
+            logo: speakeasy.svg
+            description: 'Speakeasy: E-learning provider offering diverse online courses for skill enhancement.'
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Spectro Cloud, Inc. (member)
             homepage_url: https://spectrocloud.com/
@@ -49463,6 +49486,13 @@ landscape:
             twitter: https://twitter.com/quantUniversity
             extra:
               linkedin_url: https://www.linkedin.com/company/quantuniversity
+          - item:
+            name: Queen Arwa University (member)
+            homepage_url: https://qau.edu.ye/
+            logo: queen_arwa_university.svg
+            description: Queen Arwa University provides distinguished education, produces innovative research serving the community, contributes to knowledge economy building, fosters a stimulating learning and intellectual creativity environment, optimally utilizes technology...
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Ramanujan College (member)
             homepage_url: https://ramanujancollege.ac.in/
