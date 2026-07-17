@@ -1103,6 +1103,26 @@ landscape:
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/apalache/apalache_Charter.pdf?v=1781188855690
           - item:
+            name: Apicurio Registry
+            homepage_url: https://www.apicur.io/registry/
+            logo: apicurio_registry.svg
+            description: develop a reliable and open registry for managing, sharing, and evolving event schemas and API definitions
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/Apicurio/apicurio-registry
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-06-03'
+              dev_stats_url: https://insights.linuxfoundation.org/project/apicurio-registry
+              lfx_slug: apicurio-registry
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/apicurio-registry
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfyjt9I2ajlZOhywJt
+          - item:
             name: Apostille
             homepage_url: https://github.com/openwallet-foundation-labs/apostille
             logo: apostille.svg
@@ -5989,7 +6009,7 @@ landscape:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/dynawo/dynawo
-            license: Other
+            license: MPL-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-11-30'
@@ -7364,8 +7384,7 @@ landscape:
             name: FledgePower
             homepage_url: https://www.lfenergy.org/projects/fledgepower/
             logo: fledgepower.svg
-            description: |
-              Open source, multi-protocol translation gateway for power systems built upon the industrial IoT LF Edge Fledge project, designed to enable seamless communication between diverse legacy and modern grid equipment at the edge
+            description: Open source, multi-protocol translation gateway for power systems built upon the industrial IoT LF Edge Fledge project, designed to enable seamless communication between diverse legacy and modern grid equipment at the edge
             second_path:
               - Project Group / LF Energy (LFE)
               - Industry / Energy & Climate
@@ -7389,13 +7408,12 @@ landscape:
             name: FlexMeasures
             homepage_url: https://flexmeasures.io/
             logo: flexmeasures.svg
-            description: |
-              An intelligent EMS (energy management system) to optimize behind-the-meter energy flexibility
+            description: An intelligent EMS (energy management system) to optimize behind-the-meter energy flexibility
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/SeitaBV/flexmeasures
+            repo_url: https://github.com/FlexMeasures/flexmeasures
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -7409,6 +7427,12 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkH4sQAF
                 - name: Charter
                   url: https://github.com/lf-energy/foundation/raw/main/project_charters/flexmeasures_charter.pdf
+              annotations:
+                project_org: https://github.com/FlexMeasures
+            additional_repos:
+              - repo_url: https://github.com/FlexMeasures/flexmeasures-plugin-template
+              - repo_url: https://github.com/FlexMeasures/flexmeasures-client
+              - repo_url: https://github.com/FlexMeasures/tsc
           - item:
             name: Fluentd
             homepage_url: https://www.fluentd.org/
@@ -8289,7 +8313,7 @@ landscape:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/Grid2op/grid2op
-            license: Other
+            license: MPL-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-12-17'
@@ -10611,17 +10635,21 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/kbind-dev/kbind
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2026-05-14'
-              dev_stats_url: https://insights.linuxfoundation.org/project/kube-bind
-              lfx_slug: kube-bind
+              dev_stats_url: https://insights.linuxfoundation.org/project/kbind
+              lfx_slug: kbind
               other_links:
                 - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kube-bind
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kbind
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfpwXzZpMPkgnaeKco
+              annotations:
+                project_org: https://github.com/kbind-dev
+            additional_repos: []
           - item:
             name: KCL
             homepage_url: https://github.com/kcl-lang/kcl
@@ -18591,7 +18619,7 @@ landscape:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/PowerGridModel/power-grid-model
-            license: Other
+            license: MPL-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/nil
             extra:
@@ -18644,7 +18672,7 @@ landscape:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/powsybl/powsybl-core
-            license: Apache-2.0
+            license: MPL-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-05-14'
@@ -19293,7 +19321,7 @@ landscape:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/rtdip/core
-            license: Other
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-06-04'
@@ -19304,6 +19332,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/rtdip
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L1HmxQAF
+                - name: Charter
+                  url: https://github.com/lf-energy/foundation/blob/main/project_charters/rtdip_charter.pdf
               annotations:
                 project_org: https://github.com/rtdip
             additional_repos: []
@@ -26595,13 +26625,6 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
           - item:
-            name: Always Further, Inc (member)
-            homepage_url: https://alwaysfurther.ai/
-            logo: always_further_inc.svg
-            description: Always Further specializes in providing operating system level isolation and cryptographic provenance for AI agents, ensuring that unauthorized operations are structurally impossible through advanced sandboxing techniques and kernel-enforced security m...
-            second_path:
-              - Project Membership / The Linux Foundation
-          - item:
             name: Amadeus SAS (member)
             homepage_url: https://amadeus.com/
             logo: amadeus_sas.svg
@@ -30484,6 +30507,7 @@ landscape:
             description: Founded in 2013 and headquartered in an Francisco, California, Databricks offers a unified platform for massive-scale data engineering, collaborative data science, full-lifecycle machine learning and business analytics.
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / LF AI & Data
             crunchbase: https://www.crunchbase.com/organization/databricks
             twitter: https://twitter.com/databricks
             extra:
@@ -35163,18 +35187,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/kubeshop
           - item:
-            name: Kubiya Inc (member)
-            homepage_url: https://kubiya.ai/
-            logo: kubiya_inc.svg
-            description: Kubiya is the next generation Internal Developer Platform. Conversational AI meets developers where they are and allows all teams to reap the full benefits Platform Engineering has to offer - all with a simple chat. DevOps teams configure resources with guardrails and developers simply ask Kubi for what they need.  Kubiya relieves DevOps toil, enables developers to self-serve resources, automates compliance with guardrails,  increases visibility, while reducing context switching and employing best practices.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/kubiya-ai
-            twitter: https://twitter.com/KubiyaDevOps
-            extra:
-              linkedin_url: https://www.linkedin.com/company/kubiya
-          - item:
             name: Kublr (member)
             homepage_url: https://kublr.com/
             logo: kublr.svg
@@ -37113,6 +37125,13 @@ landscape:
             twitter: https://twitter.com/nokia
             extra:
               linkedin_url: https://www.linkedin.com/company/nokianet
+          - item:
+            name: nolabs, Inc (member)
+            homepage_url: https://alwaysfurther.ai/
+            logo: nolabs_inc.svg
+            description: Always Further specializes in providing operating system level isolation and cryptographic provenance for AI agents, ensuring that unauthorized operations are structurally impossible through advanced sandboxing techniques and kernel-enforced security m...
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Nology (member)
             homepage_url: https://nology.com.br/
@@ -51122,7 +51141,7 @@ landscape:
             name: Università degli Studi dell'Aquila (member)
             homepage_url: https://univaq.it/
             logo: universita_degli_studi_dell_aquila.svg
-            description: Università degli Studi dell'Aquila is an educational institution that offers a wide range of academic programs and research opportunities across various disciplines, including engineering, medicine, and the humanities, while also maintaining significan...
+            description: University of L'Aquila is a public teaching and research institution, established in 1952 and located in L'Aquila, administrative centre of the Abruzzo Region (Italy). It offers a full range of academic programmes including biotechnologies, sciences, economics, engineering, education, humanities, medicine, psychology, and sport sciences. With 7 departments, the University of L'Aquila offers its over 19,000 enrolled students 69 degree courses (divided between first and second level degrees), 9 research doctorate programmes, specialisation schools, specializing-master courses and vocational courses. Many members of its distinguished faculty of about 600 professors and researchers have received international recognition and are considered leaders in their fields of research.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / RISC-V International
