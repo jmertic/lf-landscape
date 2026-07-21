@@ -4737,6 +4737,30 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkQXMQA3
           - item:
+            name: Curvine
+            homepage_url: https://curvineio.github.io/
+            logo: curvine.svg
+            description: create a low-latency, high-throughput, horizontally scalable distributed cache system to accelerate data access for AI, big-data, and analytics workloads
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+              - Technology Sector / Storage
+            repo_url: https://github.com/CurvineIO/curvine
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-01-14'
+              dev_stats_url: https://insights.linuxfoundation.org/project/curvine
+              lfx_slug: curvine
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/curvine
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfS3RtgPR2aX1YOih1
+              annotations:
+                project_org: https://github.com/CurvineIO
+            additional_repos: []
+          - item:
             name: Cyber Domain Ontology Project
             homepage_url: https://github.com/casework/CASE
             logo: cyber_domain_ontology_project.svg
@@ -16048,32 +16072,12 @@ landscape:
                 project_org: https://github.com/openhpc
             additional_repos: []
           - item:
-            name: openIDL
-            homepage_url: https://openidl.org/
-            logo: openidl.svg
-            description: openIDL (open Insurance Data Link) is a permissioned blockchain network that streamlines regulatory reporting and provides new insights for insurers, while enhancing timeliness, accuracy, and value for regulators. This is one of our pending governance network projects. While the regulatory solution is a near-term driver, longer term there are many applications for the openIDL solution.
-            second_path:
-              - Project Group / The Linux Foundation
-              - PMO Managed / All
-              - Industry / Financials
-              - Technology Sector / Blockchain
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2021-04-12'
-              dev_stats_url: https://insights.linuxfoundation.org/project/openidl
-              lfx_slug: openidl
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openidl
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkN2LQAV
-          - item:
             name: openIDL Project
             homepage_url: https://openidl.org/
             logo: openidl_project.svg
             description: openIDL (open Insurance Data Link) is a permissioned blockchain network that streamlines regulatory reporting and provides new insights for insurers, while enhancing timeliness, accuracy, and value for regulators. This is one of our pending governance network projects. While the regulatory solution is a near-term driver, longer term there are many applications for the openIDL solution.
             second_path:
-              - Project Group / openIDL
+              - Project Group / Open Insurance Data Standard Foundation (OPENIDS)
               - Industry / Financials
               - Technology Sector / Blockchain
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
@@ -16128,6 +16132,26 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openinfra-foundation
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfYIQscdhzdNpkjebn
+          - item:
+            name: Open Insurance Data Standard Foundation (OPENIDS)
+            homepage_url: https://openids.io/
+            logo: open_insurance_data_standard_foundation_openids.svg
+            description: The mission is to raise, budget and spend funds in support of projects enabling the development of open insurance data standards, specifications, software and related technologies, including Open Insurance Data Standard a Series of LF Projects, LLC (the “Technical Project”), an open standard project.
+            second_path:
+              - Project Group / The Linux Foundation
+              - PMO Managed / All
+              - Industry / Financials
+              - Technology Sector / Blockchain
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2021-04-12'
+              dev_stats_url: https://insights.linuxfoundation.org/project/openidl
+              lfx_slug: openidl
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openidl
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkN2LQAV
           - item:
             name: OpenJS Foundation
             homepage_url: https://openjsf.org/
@@ -27320,17 +27344,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/armosec
           - item:
-            name: ARONETICS (member)
-            homepage_url: https://aronetics.com/
-            logo: aronetics.svg
-            description: Computer consultancy in the field of infrastructure security and analytics; Technical support, pure defensive infosec convergence with Thor across computers
-            second_path:
-              - Project Membership / Civil Infrastructure Platform (CIP)
-              - Project Membership / The Linux Foundation
-            twitter: https://twitter.com/Aronetics
-            extra:
-              linkedin_url: https://www.linkedin.com/company/aronetics
-          - item:
             name: Arpio Inc (member)
             homepage_url: https://arpio.io/
             logo: arpio_inc.svg
@@ -32421,7 +32434,7 @@ landscape:
             name: Fortified (member)
             homepage_url: https://fortified.com/
             logo: fortified.svg
-            description: Tie workload database performance, capacity, and cost together, so every technical decision has clear business impact.
+            description: Find your most expensive SQL Server queries, see the fix, and prove the dollar savings. Agentless, read-only, 30-day free trial.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / FinOps Foundation
@@ -37858,6 +37871,7 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / P4 Fund
+            crunchbase: https://www.crunchbase.com/organization/oxide
             extra:
               linkedin_url: https://www.linkedin.com/company/oxidecomputer
           - item:
@@ -40489,7 +40503,7 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / LF Networking (LFN)
-            crunchbase: https://www.crunchbase.com/organization/softbank-corp
+            crunchbase: https://www.crunchbase.com/organization/softbank
             twitter: https://twitter.com/SoftBank
             extra:
               linkedin_url: https://www.linkedin.com/company/softbankgroup
