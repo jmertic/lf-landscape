@@ -724,6 +724,32 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfwMFyceUXltuceeNq
           - item:
+            name: AIRSEAI
+            homepage_url: https://airs.cuhk.edu.cn/en/airship
+            logo: airseai.svg
+            description: develop an open-source embodied AI framework that runs on affordable edge computing systems
+            second_path:
+              - Project Group / LF AI & Data
+              - Technology Sector / AI, ML, Data & Analytics
+              - Technology Sector / Networking & Edge
+            repo_url: https://github.com/AIRSEAI/AIRSEAI-1.0
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-07-10'
+              dev_stats_url: https://insights.linuxfoundation.org/project/airseai
+              lfx_slug: airseai
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/airseai
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfevXvBYK3MMGwvEpO
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/airseai/airseai_Charter.pdf?v=1784053360389
+              annotations:
+                project_org: https://github.com/AIRSEAI
+            additional_repos: []
+          - item:
             name: Airship Installer
             homepage_url: https://wiki.anuket.io/x/9AcB
             logo: airship_installer.svg
@@ -17168,7 +17194,7 @@ landscape:
             second_path:
               - Project Group / LF Decentralized Trust
               - Technology Sector / Blockchain
-            repo_url: https://github.com/OpenTokenizedAssetStandard/.github
+            repo_url: https://github.com/OpenTokenizedAssetStandard/whitepaper
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -29808,7 +29834,7 @@ landscape:
             description: Cloverleaf Analytics is the leader in insurance intelligence solutions, providing advanced Machine Learning & AI Tools for P&C Insurance. Their products enable customers to drive growth, enhance customer retention, and make informed decisions in the in...
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / openIDL
+              - Project Membership / Open Insurance Data Standard Foundation (OPENIDS)
             extra:
               linkedin_url: https://www.linkedin.com/company/cloverleaf-analytics
           - item:
@@ -32658,6 +32684,7 @@ landscape:
             description: Galaxia Moneytree is a leading fintech company in the comprehensive financial platform service market. They offer various types of payment businesses and fintech services, including electronic payments and mobile commerce. The company provides essentia...
             second_path:
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/galaxia-money-tree
           - item:
             name: Garmin International, Inc. (member)
             homepage_url: https://garmin.com/
@@ -38035,7 +38062,7 @@ landscape:
             description: Perr&Knight delivers integrated actuarial, compliance, and technology services to insurance companies globally, driving insurance forward with cost-effective solutions and competitive advantages.
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / openIDL
+              - Project Membership / Open Insurance Data Standard Foundation (OPENIDS)
           - item:
             name: Persona Identities, Inc. (member)
             homepage_url: https://withpersona.com/
@@ -39292,7 +39319,7 @@ landscape:
             description: reThought Flood - Flood Insurance Done Right specializes in providing expert flood insurance solutions by utilizing advanced data analytics to enable agents and brokers to offer precise, risk-based coverage tailored to their clients' needs.
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / openIDL
+              - Project Membership / Open Insurance Data Standard Foundation (OPENIDS)
             extra:
               linkedin_url: https://www.linkedin.com/company/rethought-insurance-corporation
           - item:
@@ -42874,6 +42901,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/vantage-sh
           - item:
+            name: Vantor (member)
+            homepage_url: https://vantor.com/
+            logo: vantor.svg
+            description: Vantor.com is a company that specializes in web development and domain registration. They offer assistance in finding the perfect domain for your project and provide development opportunities for customers. If you already have a web development team, t...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Overture Maps Foundation Fund
+            extra:
+              linkedin_url: https://www.linkedin.com/company/maxar-technologies-ltd
+          - item:
             name: Vates (member)
             homepage_url: https://vates.fr/
             logo: vates.svg
@@ -44539,7 +44576,7 @@ landscape:
             second_path:
               - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
-              - Project Membership / openIDL
+              - Project Membership / Open Insurance Data Standard Foundation (OPENIDS)
             twitter: https://twitter.com/AAISConnect
             extra:
               linkedin_url: https://www.linkedin.com/company/aais-american-association-of-insurance-services
@@ -45691,7 +45728,7 @@ landscape:
             description: This list of companies and startups in Connecticut in the insurance space provides data on their funding history, investment activities, and acquisition trends.
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / openIDL
+              - Project Membership / Open Insurance Data Standard Foundation (OPENIDS)
             crunchbase: https://www.crunchbase.com/organization/connecticut-dept-of-economic-development
             extra:
               linkedin_url: https://www.linkedin.com/company/connecticut-department-of-transportation
@@ -48015,7 +48052,7 @@ landscape:
             description: Maine.gov - Official site includes links to services available online, Governor, state agencies, Legislature, US Congressional delegation, state parks, and tax information.
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / openIDL
+              - Project Membership / Open Insurance Data Standard Foundation (OPENIDS)
             crunchbase: https://www.crunchbase.com/organization/state-of-maine
             twitter: https://twitter.com/mainegov_news
             extra:
@@ -48156,7 +48193,7 @@ landscape:
             description: ms.gov is the official website for the State of Mississippi.  Visit us at http://www.ms.gov/
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / openIDL
+              - Project Membership / Open Insurance Data Standard Foundation (OPENIDS)
             twitter: https://twitter.com/msdotgov
           - item:
             name: Mississippi State University (member)
@@ -48213,7 +48250,7 @@ landscape:
             second_path:
               - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
-              - Project Membership / openIDL
+              - Project Membership / Open Insurance Data Standard Foundation (OPENIDS)
             crunchbase: https://www.crunchbase.com/organization/mobi-c10d
             twitter: https://twitter.com/dltMOBI
           - item:
@@ -51875,7 +51912,7 @@ landscape:
             description: Official account for https://t.co/iBlnqdUES9, Commonwealth of Virginia
             second_path:
               - Project Membership / The Linux Foundation
-              - Project Membership / openIDL
+              - Project Membership / Open Insurance Data Standard Foundation (OPENIDS)
             crunchbase: https://www.crunchbase.com/organization/governor-of-virginia
             twitter: https://twitter.com/Virginiadotgov
             extra:
