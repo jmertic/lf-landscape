@@ -28933,7 +28933,7 @@ landscape:
             name: Causely (member)
             homepage_url: https://causely.ai/
             logo: causely.svg
-            description: Causely offers a Causal Reasoning Platform that continuously analyzes anomalies in cloud-native environments to automatically identify root causes and initiate immediate remediation actions, enhancing the reliability of applications for users.
+            description: 'Causely is a causal reasoning system for teams applying AI to production operations. Engineering teams everywhere are building agents to automate incident response and build proactive reliability workflows, and they all hit the same wall: agents that guess, burning time and tokens piecing together information from multiple sources of observability data. Causely solves that problem. In a published benchmark, agents grounded with Causely act 63% faster at 57% lower cost, with zero hallucinations.'
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -29260,7 +29260,12 @@ landscape:
             name: CIQ (member)
             homepage_url: https://ciq.com/
             logo: ciq.svg
-            description: CIQ reimagines software infrastructure with Rocky Linux, offering solutions for security, HPC computing, and cluster management. They empower people to do great things with support, certified hardware, and open source software.
+            description: |-
+              CIQ reimagines software infrastructure with Rocky Linux, offering solutions for security, HPC computing, and cluster management. They empower people to do great things with support, certified hardware, and open source software.
+
+              --- Merged Data:
+
+              CIQ is reimagining software infrastructure with Rocky Linux as its foundation stone. Apptainer, Warewulf, and Fuzzball aid in security, HPC computing, and cluster management.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Academy Software Foundation (ASWF)
@@ -30019,17 +30024,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/commonwealthbank
           - item:
-            name: ComplianceCow (member)
-            homepage_url: https://compliancecow.com/
-            logo: compliancecow.svg
-            description: ComplianceCow is a platform that provides an API-first, minimalistic security GRC and assurance platform that makes it easy for security, assurance, and trust teams to automate and orchestrate security controls and collaborate natively on Slack and Mic...
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/compliancecow
-            extra:
-              linkedin_url: https://www.linkedin.com/company/compliancecow
-          - item:
             name: Concord (member)
             homepage_url: https://concordusa.com/
             logo: concord.svg
@@ -30689,7 +30683,7 @@ landscape:
             name: Datavant Inc (member)
             homepage_url: https://datavant.com/
             logo: datavant_inc.svg
-            description: Datavant provides solutions to help institutions protect, match and share health data
+            description: Datavant is the data collaboration platform trusted for healthcare. With a mission to make the world’s health data secure, accessible, and actionable, Datavant works with payers, providers, life sciences, legal and insurance clients globally to accelerate insights. Datavant enables more than 60 million healthcare records to move between thousands of organizations across the healthcare ecosystem, more than 80,000 hospitals and clinics, 75% of the 100 largest health systems, and 350+ real-world data partners. Datavant has office locations in Boston, Dallas, New York and San Diego, with international offices in Barcelona and Galway. To learn more about Datavant, visit www.datavant.com and follow us on LinkedIn.
             second_path:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/datavant
@@ -42966,18 +42960,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/vdura
           - item:
-            name: Veea Inc. (member)
-            homepage_url: https://veea.com/
-            logo: veea_inc.svg
-            description: Veea is a Platform-as-a-Service (PaaS) company with a suite of innovative products and services for Smart applications.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / LF Edge
-            crunchbase: https://www.crunchbase.com/organization/veea-inc
-            twitter: https://twitter.com/VeeaHQ
-            extra:
-              linkedin_url: https://www.linkedin.com/company/veea
-          - item:
             name: Velocity (member)
             homepage_url: https://velocity.tech/
             logo: velocity.svg
@@ -44304,6 +44286,7 @@ landscape:
             logo: zafin_labs_americas_inc.svg
             description: |-
               Zafin is an AI platform company for regulated institutions. Built from more than 20 years of operating in demanding regulated technology environments, Zafin brings structure, intelligence and accountability to how critical work, systems and decisions are created, governed and improved. 
+
               Zafin's portfolio includes three platforms: 
 
               •	Zafin AIOS is an end-to-end agent orchestration platform and control plane for governed agentic work. It helps regulated institutions orchestrate work performed by internal and approved third-party agents from intent to governed outcome, with human authority, cost controls and proof of work built into the work path. 
