@@ -16049,6 +16049,26 @@ landscape:
                 - name: Charter
                   url: https://github.com/Call-for-Code/OpenHarvest/blob/master/OpenHarvest%20Technical%20Charter.pdf
           - item:
+            name: Open Health Stack Software Foundation
+            homepage_url: https://ohs.foundation/
+            logo: open_health_stack_software_foundation.svg
+            description: The Open Health Stack Software Foundation provides a neutral, community-owned home for the open-source building blocks of global digital health. We maintain standards-based libraries and tools that make it easy to build on HL7 FHIR and we host a model-agnostic AI Commons for the safe and verifiable use of AI in health. We turn these foundations into care and expanding access across the global south with the help of developers and the local communities.
+            second_path:
+              - Project Group / The Linux Foundation
+              - PMO Managed / All
+              - Technology Sector / Web & Application Development
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-07-07'
+              dev_stats_url: https://insights.linuxfoundation.org/project/open-health-stack-foundation
+              lfx_slug: open-health-stack-foundation
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/open-health-stack-foundation
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfLl8vNGOYMYHiykwh
+          - item:
             name: Open Horizon
             homepage_url: https://www.lfedge.org/projects/openhorizon/
             logo: open_horizon.svg
@@ -17361,6 +17381,30 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openwalletfoundation
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L18DzQAJ
+          - item:
+            name: Open Workflow Specification
+            homepage_url: https://serverlessworkflow.io/
+            logo: open_workflow_specification.svg
+            description: CNCF Serverless Workflow defines a vendor-neutral, open-source, and fully community-driven ecosystem for defining and running DSL-based workflows that target the Serverless technology domain.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Industry / Cross-Industry
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/serverlessworkflow/sdk-net
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2020-07-14'
+              dev_stats_url: https://insights.linuxfoundation.org/project/serverlessworkflow
+              lfx_slug: serverlessworkflow
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/serverlessworkflow
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkOXlQAN
+              annotations:
+                project_org: https://github.com/serverlessworkflow
+            additional_repos: []
           - item:
             name: OpenYurt
             homepage_url: https://openyurt.io/
@@ -20481,30 +20525,6 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/serverlessdevs
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L1HY5QAN
-          - item:
-            name: Serverless Workflow Specification
-            homepage_url: https://serverlessworkflow.io/
-            logo: serverless_workflow_specification.svg
-            description: CNCF Serverless Workflow defines a vendor-neutral, open-source, and fully community-driven ecosystem for defining and running DSL-based workflows that target the Serverless technology domain.
-            second_path:
-              - Project Group / Cloud Native Computing Foundation (CNCF)
-              - Industry / Cross-Industry
-              - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/serverlessworkflow/sdk-net
-            license: Apache-2.0
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2020-07-14'
-              dev_stats_url: https://insights.linuxfoundation.org/project/serverlessworkflow
-              lfx_slug: serverlessworkflow
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/serverlessworkflow
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkOXlQAN
-              annotations:
-                project_org: https://github.com/serverlessworkflow
-            additional_repos: []
           - item:
             name: Service Design & Creation (SDC)
             homepage_url: https://wiki.onap.org/x/T5lk
@@ -25933,7 +25953,7 @@ landscape:
             name: Actualyze AI (member)
             homepage_url: https://actualyze.ai/
             logo: actualyze_ai.svg
-            description: Enterprise AI is about to change.
+            description: Actualyze sits between your applications and your inference. Built to govern, secure, operate, and optimize every call, enforced automatically and invisible to your code.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -28150,16 +28170,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/blue-medora
             extra:
               linkedin_url: https://www.linkedin.com/company/observiq
-          - item:
-            name: BISDN (member)
-            homepage_url: https://bisdn.de/
-            logo: bisdn.svg
-            description: BISDN Deutschland, SDN Deutschland, NFV Deutschland, SDN Germany, NFV Germany, SDN Europe, NFV Europe, telco, networks, P4, edge, open source, SD WAN,Router, Gateway, IPSec, BNG, vBNG, BISDN, SDN, NFV, OF, OpenFlow, ONF, embedded systems, whitebox, CPE...
-            second_path:
-              - Project Membership / The Linux Foundation
-            twitter: https://twitter.com/BISDN_GmbH
-            extra:
-              linkedin_url: https://www.linkedin.com/company/bisdn-gmbh
           - item:
             name: BlackRock, Inc. (member)
             homepage_url: https://blackrock.com/
@@ -38598,17 +38608,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/provectus-it-inc
           - item:
-            name: ProximaOps LLC (member)
-            homepage_url: https://proximaops.io/
-            logo: proximaops_llc.svg
-            description: ProximaOps LLC
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/proxima-ad80
-            extra:
-              linkedin_url: https://www.linkedin.com/company/proximaops
-          - item:
             name: '"PS Internet Company" LLP (member)'
             homepage_url: https://ps.kz/
             logo: ps_internet_company_llp.svg
@@ -43059,17 +43058,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ves-llc
           - item:
-            name: VESSL AI Inc (member)
-            homepage_url: https://vessl.ai/
-            logo: vessl_ai_inc.svg
-            description: VESSL AI provides an end-to-end MLOps platform that enables high-performance machine learning teams to build, train, and deploy models rapidly at scale, utilizing fully managed AI infrastructure, tools, and workflows.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/vessl-ai
-            extra:
-              linkedin_url: https://www.linkedin.com/company/vesslai
-          - item:
             name: VEXXHOST, Inc. (member)
             homepage_url: https://vexxhost.com/
             logo: vexxhost_inc.svg
@@ -47241,16 +47229,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/information-network-security-agency
             extra:
               linkedin_url: https://www.linkedin.com/company/information-network-security-agency
-          - item:
-            name: Infotics Institute Of Technology (member)
-            homepage_url: https://infotics.edu.pk/
-            logo: infotics_institute_of_technology.svg
-            description: INFOTICS offers a range of IT training for academics, professionals and corporate sectors covering general IT skills and business needs of IT industry. You can book a course, learn online or onsite for you and your team.
-            second_path:
-              - Project Membership / The Linux Foundation
-            twitter: https://twitter.com/InfoticsInst
-            extra:
-              linkedin_url: https://www.linkedin.com/company/infoticsofficial
           - item:
             name: Infrastructure Masons (member)
             homepage_url: https://imasons.org/
