@@ -16191,11 +16191,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-04-12'
-              dev_stats_url: https://insights.linuxfoundation.org/project/openidl
-              lfx_slug: openidl
+              dev_stats_url: https://insights.linuxfoundation.org/project/openids-foundation
+              lfx_slug: openids-foundation
               other_links:
                 - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openidl
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openids-foundation
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkN2LQAV
           - item:
@@ -33106,9 +33106,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/g-research
           - item:
-            name: groundcover Ltd. (member)
+            name: groundcover Inc. (member)
             homepage_url: https://groundcover.com/
-            logo: groundcover_ltd.svg
+            logo: groundcover_inc.svg
             description: Get a clear picture of your production. Instantly pinpoint bleeding issues and troubleshoot quickly. All with zero code changes.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
@@ -33166,7 +33166,10 @@ landscape:
             name: Guild AI (member)
             homepage_url: https://guild.ai/
             logo: guild_ai.svg
-            description: Guild AI is an open source experiment tracking toolkit that accelerates model development and optimization for data scientists and engineers.
+            description: |-
+              Guild is the neutral control plane for AI agents—an independent infrastructure layer that empowers enterprise leaders to see and control all their agents in production. 
+
+              Resolve runaway token costs, reduce risk, and tackle the impact of agent sprawl with Guild.
             second_path:
               - Project Membership / The Linux Foundation
           - item:
@@ -44819,6 +44822,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/stpiindia
           - item:
+            name: Applied Technology Lab (member)
+            homepage_url: https://seas.harvard.edu/
+            logo: applied_technology_lab.svg
+            description: Harvard University is an Ivy League research university that provides a comprehensive higher education experience, focusing on excellence in teaching, learning, and research while developing leaders across various disciplines who aim to make a global i...
+            second_path:
+              - Project Membership / LF Decentralized Trust
+              - Project Membership / The Linux Foundation
+          - item:
             name: A.P.S.P (member)
             homepage_url: https://apsp.com/
             logo: a_p_s.svg
@@ -47907,7 +47918,7 @@ landscape:
             name: LightSeek Foundation (member)
             homepage_url: https://lightseek.org/
             logo: lightseek_foundation.svg
-            description: Example Next.js Notion Starter Kit Site
+            description: LightSeek Foundation is a nonprofit organization advancing open research and open-source innovation for next-generation AI systems.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / PyTorch Foundation
