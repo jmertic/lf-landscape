@@ -1849,6 +1849,7 @@ landscape:
               - Technology Sector / DevOps, CI:CD & Site Reliability
               - Technology Sector / System Administration
             repo_url: https://github.com/bfenetworks/bfe
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-06-23'
@@ -2538,6 +2539,30 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cdk8s
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkVBKQA3
+          - item:
+            name: Cedar
+            homepage_url: https://www.cedarpolicy.com/
+            logo: cedar.svg
+            description: provide an open source authorization policy language that enables developers to express fine-grained permissions as easy-to-understand policies enforced in their applications, and decouple access control from application logic
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+              - Technology Sector / Privacy & Security
+            repo_url: https://github.com/cedar-policy/cedar
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-10-30'
+              dev_stats_url: https://insights.linuxfoundation.org/project/cedar-policy
+              lfx_slug: cedar-policy
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cedar-policy
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfdAAjGSf6Po4358Kj
+              annotations:
+                project_org: https://github.com/cedar-policy
+            additional_repos: []
           - item:
             name: Centaurus Infrastructure Project
             homepage_url: https://centauruscloud.io/
@@ -12169,7 +12194,7 @@ landscape:
               - Project Group / LF Decentralized Trust
               - Technology Sector / Blockchain
             repo_url: https://github.com/LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io
-            license: TBD / NA
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2018-01-16'
@@ -12180,6 +12205,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/lf-decentralized-trust-labs
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkG7WQAV
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/lf-decentralized-trust-labs/lf-decentralized-trust-labs_Charter.pdf?v=1785255116058
               annotations:
                 project_org: https://github.com/LF-Decentralized-Trust-labs
             additional_repos: []
@@ -16188,6 +16215,7 @@ landscape:
               - PMO Managed / All
               - Industry / Financials
               - Technology Sector / Blockchain
+            license: TBD / NA
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-04-12'
@@ -17052,7 +17080,7 @@ landscape:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/OpenSTEF/openstef
-            license: Other
+            license: MPL-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-02-28'
@@ -17383,14 +17411,14 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L18DzQAJ
           - item:
             name: Open Workflow Specification
-            homepage_url: https://serverlessworkflow.io/
+            homepage_url: https://open-workflow-specification.org/
             logo: open_workflow_specification.svg
             description: CNCF Serverless Workflow defines a vendor-neutral, open-source, and fully community-driven ecosystem for defining and running DSL-based workflows that target the Serverless technology domain.
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Industry / Cross-Industry
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/serverlessworkflow/sdk-net
+            repo_url: https://github.com/open-workflow-specification/specification
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -17403,8 +17431,11 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkOXlQAN
               annotations:
-                project_org: https://github.com/serverlessworkflow
-            additional_repos: []
+                project_org: https://github.com/open-workflow-specification
+            additional_repos:
+              - repo_url: https://github.com/open-workflow-specification/sdk-go
+              - repo_url: https://github.com/open-workflow-specification/sdk-java
+              - repo_url: https://github.com/open-workflow-specification/editor
           - item:
             name: OpenYurt
             homepage_url: https://openyurt.io/
@@ -22636,6 +22667,8 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Industry / Cross-Industry
               - Technology Sector / DevOps, CI:CD & Site Reliability
+            repo_url: https://github.com/tektoncd/community
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2019-03-12'
@@ -22648,6 +22681,14 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001Ibn2zQAB
                 - name: Charter
                   url: https://github.com/tektoncd/community/blob/master/governance.md
+              annotations:
+                project_org: https://github.com/tektoncd
+            additional_repos:
+              - repo_url: https://github.com/tektoncd/pipeline
+              - repo_url: https://github.com/tektoncd/dashboard
+              - repo_url: https://github.com/tektoncd/operator
+              - repo_url: https://github.com/tektoncd/cli
+              - repo_url: https://github.com/tektoncd/pipelines-as-code
           - item:
             name: Telepresence
             homepage_url: https://www.telepresence.io/
@@ -32184,11 +32225,10 @@ landscape:
             name: Exponential Science (member)
             homepage_url: https://exp.science/
             logo: exponential_science.svg
-            description: Exponential Science is a foundation led by visionary founders Dr. Paolo Tasca and Nikhil Vadgama, who have advanced emerging technologies through education, research, and innovation. Recognising the power of the convergence of technologies such as blockchain, AI, and IoT to tackle complex multidisciplinary challenges, they founded the ExponentialScience as a natural evolution of their long-standing work, aiming to strive towards a more inclusive and innovative future for all.
+            description: Exponential Science is a not-for-profit foundation that accelerates the safe and widespread adoption of emerging digital technologies such as blockchain (DLT), artificial intelligence (AI) and other emerging technologies. The foundation consists of researchers who turn fundamental science into new ventures and discoveries and facilitate collaboration across academia, industry, and governments.
             second_path:
               - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/exponential-science
           - item:
             name: Extreme Networks, Inc. (member)
             homepage_url: https://extremenetworks.com/
@@ -47333,9 +47373,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/inter-american-development-bank
           - item:
-            name: Interchain Foundation (member)
+            name: Interchain Siftung (member)
             homepage_url: https://interchain.io/
-            logo: interchain_foundation.svg
+            logo: interchain_siftung.svg
             description: The Interchain Foundation is a key player in the blockchain space, focusing on building and stewarding the Cosmos ecosystem. They fund and advance the creation of an interoperable, sustainable, and community-owned decentralized ecosystem. Their core te...
             second_path:
               - Project Membership / The Linux Foundation
