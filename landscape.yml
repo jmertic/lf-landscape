@@ -11015,35 +11015,6 @@ landscape:
               - repo_url: https://github.com/keylime/keylime.github.io
               - repo_url: https://github.com/keylime/keylime-docs
           - item:
-            name: Keystone
-            homepage_url: https://keystone-enclave.org/
-            logo: keystone.svg
-            description: Keystone provides a secure, highly customizable, and trustworthy open-source secure enclave for RISC-V, accessible to everyone in industry and academia.
-            second_path:
-              - Project Group / Confidential Computing Consortium (CCC)
-              - Industry / Cross-Industry
-              - Technology Sector / Privacy & Security
-            repo_url: https://github.com/keystone-enclave/keystone
-            license: Apache-2.0
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            twitter: https://twitter.com/keystoneenclave
-            extra:
-              accepted: '2021-03-08'
-              dev_stats_url: https://insights.linuxfoundation.org/project/keystone
-              lfx_slug: keystone
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/keystone
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWj7WQAT
-                - name: Charter
-                  url: https://github.com/confidential-computing/governance/blob/master/project-charters/Keystone_Technical_Charter_03-05-2021.pdf
-              youtube_url: https://www.youtube.com/channel/UC2a5fSBSlfS9oB-7daKs5IQ
-              annotations:
-                project_org: https://github.com/keystone-enclave
-            additional_repos:
-              - repo_url: https://github.com/keystone-enclave/keystone-demo
-          - item:
             name: kgateway
             homepage_url: https://kgateway.dev/
             logo: kgateway.svg
@@ -14523,33 +14494,6 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/oauth2-proxy/manifests
           - item:
-            name: Occlum
-            homepage_url: https://occlum.io/
-            logo: occlum.svg
-            description: The mission of the Occlum project is to protect the confidentiality and integrity of user workloads transparently with TEE (SGX).
-            second_path:
-              - Project Group / Confidential Computing Consortium (CCC)
-              - Technology Sector / Cloud, Containers & Virtualization
-              - Technology Sector / Privacy & Security
-            repo_url: https://github.com/occlum/occlum
-            license: BSD-3-Clause
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            twitter: https://twitter.com/nil
-            extra:
-              accepted: '2021-03-29'
-              dev_stats_url: https://insights.linuxfoundation.org/project/occlum
-              lfx_slug: occlum
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/occlum
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWj7gQAD
-                - name: Charter
-                  url: https://github.com/confidential-computing/governance/blob/master/project-charters/Occlum_Technical_Charter_3-29-2021.pdf
-              annotations:
-                project_org: https://github.com/occlum
-            additional_repos: []
-          - item:
             name: OCUDU Ecosystem Foundation
             homepage_url: https://www.ocudu.org/
             logo: ocudu_ecosystem_foundation.svg
@@ -16796,7 +16740,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfFn5GZ7ccsXkcmxHC
                 - name: Charter
-                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/openqmc/openqmc_Charter.pdf?v=1755109437753
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/openqmc/openqmc_Charter.pdf?v=1785336825352
           - item:
             name: Open Resource Discovery
             homepage_url: https://open-resource-discovery.org/
@@ -17334,6 +17278,7 @@ landscape:
               - repo_url: https://github.com/open-voice-interoperability/assistants
               - repo_url: https://github.com/open-voice-interoperability/background
               - repo_url: https://github.com/open-voice-interoperability/openfloor-js
+              - repo_url: https://github.com/open-voice-interoperability/openfloor-docs
           - item:
             name: Open Voice Network Trustmark Initiative
             homepage_url: https://openvoicenetwork.org/trustmark-initiative/
@@ -37679,14 +37624,6 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/zincsearch
           - item:
-            name: Openpaya (member)
-            homepage_url: https://openpaya.com/
-            logo: openpaya.svg
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/openpaya
-          - item:
             name: Open Source Automation Development Lab (OSADL) eG (member)
             homepage_url: https://osadl.org/
             logo: open_source_automation_development_lab_osadl_eg.svg
@@ -38022,17 +37959,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/partior
             extra:
               linkedin_url: https://www.linkedin.com/company/partior
-          - item:
-            name: PBG Consulting (member)
-            homepage_url: https://pbgconsult.com/
-            logo: pbg_consulting.svg
-            description: We create premium Wordpress Themes and Website Templates that sell on Themeforest.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / FinOps Foundation
-            twitter: https://twitter.com/PBGConsult
-            extra:
-              linkedin_url: https://www.linkedin.com/company/pbg-consulting
           - item:
             name: Pelotech (member)
             homepage_url: https://pelo.tech/
@@ -42912,7 +42838,7 @@ landscape:
             name: Vana Inc (member)
             homepage_url: https://vana.org/
             logo: vana_inc.svg
-            description: The Open Network For User Owned Data
+            description: Vana is open data infrastructure for human-grounded AI. Own the data you create and port it between apps and AI systems, without a platform intermediary.
             second_path:
               - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
