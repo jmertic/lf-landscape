@@ -20657,34 +20657,6 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/shapeshifter/shapeshifter-specification
           - item:
-            name: Shipwright
-            homepage_url: https://shipwright.io/
-            logo: shipwright.svg
-            description: 'Shipwright: A framework for building container images on Kubernetes'
-            second_path:
-              - Project Group / Cloud Native Computing Foundation (CNCF)
-              - Technology Sector / Cloud, Containers & Virtualization
-              - Technology Sector / DevOps, CI:CD & Site Reliability
-            repo_url: https://github.com/shipwright-io/build
-            license: Apache-2.0
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2021-08-03'
-              dev_stats_url: https://insights.linuxfoundation.org/project/shipwright
-              lfx_slug: shipwright
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/shipwright
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KX0gaQAD
-              annotations:
-                project_org: https://github.com/shipwright-io
-            additional_repos:
-              - repo_url: https://github.com/shipwright-io/cli
-              - repo_url: https://github.com/shipwright-io/operator
-              - repo_url: https://github.com/shipwright-io/community
-              - repo_url: https://github.com/shipwright-io/website
-          - item:
             name: Sidetree Development & Operating Group
             homepage_url: https://identity.foundation/
             logo: sidetree_development_operating_group.svg
@@ -24482,11 +24454,10 @@ landscape:
               annotations:
                 project_org: https://github.com/wasmCloud
             additional_repos:
-              - repo_url: https://github.com/wasmCloud/wadm
               - repo_url: https://github.com/wasmCloud/wasmcloud.com
-              - repo_url: https://github.com/wasmCloud/wadm-operator
               - repo_url: https://github.com/wasmCloud/typescript
               - repo_url: https://github.com/wasmCloud/go
+              - repo_url: https://github.com/wasmCloud/awesome-wasmcloud
           - item:
             name: WasmEdge Runtime
             homepage_url: https://wasmedge.org/
@@ -38315,7 +38286,6 @@ landscape:
             second_path:
               - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
-              - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
             crunchbase: https://www.crunchbase.com/organization/polygontechnology
           - item:
             name: Porch Financial (member)
