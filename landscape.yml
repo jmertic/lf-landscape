@@ -13355,6 +13355,35 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkUalQAF
           - item:
+            name: Metal³
+            homepage_url: https://metal3.io/
+            logo: metal3.svg
+            description: There are a number of great open source tools for bare metal host provisioning, including Ironic. Metal3.io aims to build on these technologies to provide a Kubernetes native API for managing bare metal hosts via a provisioning stack that is also running on Kubernetes
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Industry / Cross-Industry
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/metal3-io/metal3-docs
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2020-09-08'
+              dev_stats_url: https://insights.linuxfoundation.org/project/metal3
+              lfx_slug: metal3
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/metal3
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkYIlQAN
+              annotations:
+                project_org: https://github.com/metal3-io
+            additional_repos:
+              - repo_url: https://github.com/metal3-io/metal3-dev-env
+              - repo_url: https://github.com/metal3-io/baremetal-operator
+              - repo_url: https://github.com/metal3-io/cluster-api-provider-metal3
+              - repo_url: https://github.com/metal3-io/ironic-image
+              - repo_url: https://github.com/metal3-io/project-infra
+          - item:
             name: MetalLB
             homepage_url: https://github.com/metallb/metallb
             logo: metallb.svg
@@ -20657,6 +20686,34 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/shapeshifter/shapeshifter-specification
           - item:
+            name: Shipwright
+            homepage_url: https://shipwright.io/
+            logo: shipwright.svg
+            description: 'Shipwright: A framework for building container images on Kubernetes'
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+              - Technology Sector / DevOps, CI:CD & Site Reliability
+            repo_url: https://github.com/shipwright-io/build
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2021-08-03'
+              dev_stats_url: https://insights.linuxfoundation.org/project/shipwright
+              lfx_slug: shipwright
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/shipwright
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KX0gaQAD
+              annotations:
+                project_org: https://github.com/shipwright-io
+            additional_repos:
+              - repo_url: https://github.com/shipwright-io/cli
+              - repo_url: https://github.com/shipwright-io/operator
+              - repo_url: https://github.com/shipwright-io/community
+              - repo_url: https://github.com/shipwright-io/website
+          - item:
             name: Sidetree Development & Operating Group
             homepage_url: https://identity.foundation/
             logo: sidetree_development_operating_group.svg
@@ -21107,6 +21164,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/soda
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWfCUQA1
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/soda/soda_Charter.pdf?v=1785517330205
               annotations:
                 project_org: https://github.com/sodafoundation
             additional_repos:
@@ -26323,6 +26382,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/aia
           - item:
+            name: AI Craft Works (member)
+            homepage_url: https://aicraftworks.ai/
+            logo: ai_craft_works.svg
+            description: Transform your business with intelligent AI Agents. Custom automation, analytics, and AI solutions for small, medium, and enterprise organizations. Unlock efficiency and innovation.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: AIERA Inc (member)
             homepage_url: https://aiera.com/
             logo: aiera_inc.svg
@@ -30255,6 +30321,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/cosmonic-corp
           - item:
+            name: Cosmos Labs US Inc. (member)
+            homepage_url: https://cosmos.network/
+            logo: cosmos_labs_us_inc.svg
+            description: 'Cosmos: The Internet of Blockchains develops an expansive ecosystem of interoperable and sovereign blockchain applications and services designed to facilitate a decentralized future through the concept of the Interchain.'
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/cosmos-network
+          - item:
             name: CPMC (member)
             homepage_url: https://cpmccorp.com/
             logo: cpmc.svg
@@ -30387,6 +30461,13 @@ landscape:
             twitter: https://twitter.com/cybozu
             extra:
               linkedin_url: https://www.linkedin.com/company/cybozu
+          - item:
+            name: Cyclops (member)
+            homepage_url: https://cyclops.io/
+            logo: cyclops.svg
+            description: Cyclops (cyclops.io) offers 1-click video conferencing and productivity tools that require no download or login, providing a seamless and efficient communication experience for users.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Cyient Limited (member)
             homepage_url: https://cyient.com/
@@ -32003,6 +32084,13 @@ landscape:
             logo: etherealize.svg
             second_path:
               - Project Membership / LF Decentralized Trust
+              - Project Membership / The Linux Foundation
+          - item:
+            name: ETHGas (member)
+            homepage_url: https://ethgas.com/
+            logo: ethgas.svg
+            description: ETHGas offers a comprehensive real-time exploration tool specifically designed for the gas industry, enabling users to analyze and visualize gas data effectively.
+            second_path:
               - Project Membership / The Linux Foundation
           - item:
             name: Evenkeel Inc. d/b/a Kubex (member)
@@ -35331,6 +35419,45 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/leaseweb
           - item:
+            name: Ledger (member)
+            homepage_url: https://ledger.fr/
+            logo: ledger.svg
+            description: |-
+              89 employees on LinkedIn
+              About us
+              Founded in 2014, Ledger is a leader in security and infrastructure solutions for cryptocurrencies and blockchain applications. 
+
+              Headquartered in Paris, Vierzon and San Francisco, Ledger has a team of 82 professionals developing a variety of products and services to safeguard cryptocurrency assets for individuals and companies – including the Ledger hardware wallets line already sold in 165 countries.
+
+              For more information visit www.ledger.fr, or follow @LedgerHQ on Twitter.
+
+              Recent updateSee all See all recent updates
+              Image accompanying recent update
+              Ledger is proud to announce that
+
+              100 Likes 5 Comments 3w
+              Company details
+              Website
+              https://www.ledger.fr
+              Headquarters
+              Paris, Ile-de-France
+
+              Year founded
+              2014
+
+              Company type
+              Partnership
+
+              Company size
+              51-200 employees
+              Specialties
+              hardware, smartcard, security, blockchain, bitcoin, cryptocurrency, Ethereum, ripple, and cybersecurity
+            second_path:
+              - Project Membership / The Linux Foundation
+            twitter: https://twitter.com/Ledger
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ledgerhq
+          - item:
             name: Legit Security (member)
             homepage_url: https://legitsecurity.com/
             logo: legit_security.svg
@@ -35913,6 +36040,16 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/mariadb-corporation
           - item:
+            name: Markany (member)
+            homepage_url: https://en.markany.com/
+            logo: markany.svg
+            description: MarkAny is a leading information security company in South Korea, specializing in digital security, authentication, and copyright protection. With over 20 years of experience, MarkAny provides tailored integrated security systems to protect valuable bu...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
+            extra:
+              linkedin_url: https://www.linkedin.com/company/markany
+          - item:
             name: Marvell Technology, Inc. (member)
             homepage_url: https://marvell.com/
             logo: marvell_technology_inc.svg
@@ -35960,6 +36097,19 @@ landscape:
             twitter: https://twitter.com/Mastercard
             extra:
               linkedin_url: https://www.linkedin.com/company/mastercard
+          - item:
+            name: MathWorks, Inc. (member)
+            homepage_url: https://mathworks.com/
+            logo: mathworks_inc.svg
+            description: MathWorks is the leading developer of mathematical computing software. MATLAB, the language of technical computing, is a programming environment for algorithm development, data analysis, visualization, and numeric computation. Simulink is a graphical environment for simulation and Model-Based Design of multidomain dynamic and embedded systems. Engineers and scientists worldwide rely on these product families to accelerate the pace of discovery, innovation, and development in automotive, aerospace, electronics, financial services, biotech-pharmaceutical, and other industries. MathWorks products are also fundamental teaching and research tools in the world's universities and learning institutions. MathWorks is in 15 countries with headquarters in Natick, Massachusetts.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+              - Project Membership / TODO Group
+            crunchbase: https://www.crunchbase.com/organization/mathworks
+            twitter: https://twitter.com/MATLAB
+            extra:
+              linkedin_url: https://www.linkedin.com/company/the-mathworks_2
           - item:
             name: MATRIXX Software (member)
             homepage_url: https://matrixx.com/
@@ -37168,6 +37318,37 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / FinOps Foundation
+          - item:
+            name: Northern.tech, AS (member)
+            homepage_url: https://mender.io/
+            logo: northern.svg
+            description: |-
+              Automate over-the-air software updates for embedded devices
+              Prevent software vulnerabilities and bugs from exposing your devices to compromise, data breach and downtime.
+
+              Mender (www.mender.io) is an open source over-the-air (OTA) software updater for connected Linux devices (Internet of Things). Safely and securely update your fleet of devices with Mender's client/server solution while managing all the security nuances required for the update process. 
+
+              Built by the team behind the battle-hardened configuration management framework that currently manages over 10 million Linux-based systems, Mender provides an OTA software updates product to fix software bugs, mend security vulnerabilities, and deliver new features to Linux devices.
+
+              Specialties
+              IoT security, Software updates, and Connected devices
+
+              Company Size
+              11-50 employees
+               
+              Website
+              https://www.mender.io
+              Industry
+              Computer Software
+               
+              Founded
+              2015
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/mender-io
+            twitter: https://twitter.com/mender_io
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mender
           - item:
             name: Northflank Ltd (member)
             homepage_url: https://northflank.com/
@@ -42018,6 +42199,13 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / FinOps Foundation
           - item:
+            name: The Northern Trust Company (member)
+            homepage_url: https://northerntrust.com/
+            logo: the_northern_trust_company.svg
+            description: Northern Trust is a global financial services leader offering investment management, asset administration, and banking solutions to corporations, institutions, and individuals with a focus on service, expertise, and integrity.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: The Scale Factory Limited (member)
             homepage_url: https://scalefactory.com/
             logo: the_scale_factory_limited.svg
@@ -42357,6 +42545,13 @@ landscape:
               - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
             extra:
               linkedin_url: https://www.linkedin.com/company/trustasia
+          - item:
+            name: Trustless Labs (member)
+            homepage_url: https://trustlesslabs.ai/
+            logo: trustless_labs.svg
+            description: Trustless Labs specializes in developing privacy-preserving architecture, focusing on creating highly secure artificial intelligence solutions that prioritize user confidentiality.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Trustwise (member)
             homepage_url: https://trustwise.ai/
@@ -42768,6 +42963,14 @@ landscape:
             description: UTMStack | Open Source SIEM, XDR and Compliance Solution OSS SIEM + XDR Powered by Threat intelligence and real time correlation. Built for 24x7 Security Operations with Automated Threat Detection and Response. Check out our demo and features. The Open...
             second_path:
               - Project Membership / The Linux Foundation
+          - item:
+            name: Valarian Technologies Ltd (member)
+            homepage_url: https://valarian.com/
+            logo: valarian_technologies_ltd.svg
+            description: Valarian is a company focused on building cutting-edge solutions that empower borderless collaboration in the new era of digital sovereignty. They provide software that enables enterprises to ensure compliance with data protection and privacy regulatio...
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/valarian-technologies
           - item:
             name: VA Linux Systems Japan K.K. (member)
             homepage_url: https://valinux.co.jp/
@@ -43213,6 +43416,12 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/wand-cloud
           - item:
+            name: warblecloud (member)
+            homepage_url: https://warblecloud.ai/
+            logo: warblecloud.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Wargaming.net Limited (member)
             homepage_url: https://wargaming.net/
             logo: wargaming.svg
@@ -43413,6 +43622,13 @@ landscape:
             twitter: https://twitter.com/wavecon
             extra:
               linkedin_url: https://www.linkedin.com/company/wavecon-gmbh
+          - item:
+            name: WebPros International GmbH (member)
+            homepage_url: https://webpros.com/
+            logo: webpros_international_gmbh.svg
+            description: A Digital Presence For Everyone | WebPros WebPros delivers the most innovative technologies to enable businesses to build, operate, and grow online. WebPros supports your success online. Trusted by +72k Organizations We understand that a strong online ...
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Wellington Management Company, LLP (member)
             homepage_url: https://wellington.com/
@@ -44424,6 +44640,13 @@ landscape:
               - Project Membership / FinOps Foundation
             extra:
               linkedin_url: https://www.linkedin.com/company/zyloapp
+          - item:
+            name: 寒武纪 (Cambrian) (member)
+            homepage_url: https://cambricon.com/
+            logo: han_wu_ji_cambrian.svg
+            description: Cambricon pioneers in global intelligent chip technology, specializing in AI processor chip development to enhance machine understanding and service to humanity. Their products offer advanced AI performance for diverse industry applications, promoting ...
+            second_path:
+              - Project Membership / The Linux Foundation
       - subcategory:
         name: Associate
         items:
