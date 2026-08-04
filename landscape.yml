@@ -3578,7 +3578,7 @@ landscape:
               - repo_url: https://github.com/cobaltcore-dev/docs
           - item:
             name: COBOL Programming Course
-            homepage_url: https://www.openmainframeproject.org/projects/cobolprogrammingcourse
+            homepage_url: https://openmainframeproject.org/projects/cobol-programming-course/
             logo: cobol_programming_course.svg
             description: The COBOL Programming Course is an open source initiative under the Open Mainframe Project that offers introductory-level educational COBOL materials with modern tooling.
             second_path:
@@ -3602,7 +3602,7 @@ landscape:
                   url: https://github.com/openmainframeproject/foundation/raw/main/project_charters/cobol-programming-course_charter.pdf
           - item:
             name: COBOL Working Group
-            homepage_url: https://www.openmainframeproject.org/projects/cobol-working-group
+            homepage_url: https://openmainframeproject.org/our-projects/working-groups/cobol-working-group/
             logo: cobol_working_group.svg
             description: The COBOL Working Group aims to promote the language by changing its perception and making materials more accessible to help more developers and students learn it on their mainframe journey.
             second_path:
@@ -8430,7 +8430,10 @@ landscape:
                   url: https://github.com/lf-energy/foundation/blob/main/project_charters/geisa_charter.pdf
               annotations:
                 project_org: https://github.com/geisa
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/geisa/community
+              - repo_url: https://github.com/geisa/conformance
+              - repo_url: https://github.com/geisa/schemas
           - item:
             name: Grid eXchange Fabric (GXF)
             homepage_url: https://www.lfenergy.org/projects/gxf/
@@ -16927,6 +16930,30 @@ landscape:
                 - name: Charter
                   url: https://github.com/AcademySoftwareFoundation/foundation/blob/main/project_charters/open-shading-language_charter.md
           - item:
+            name: OpenSharing
+            homepage_url: https://github.com/opensharing-io
+            logo: opensharing.svg
+            description: develop an open protocol for sharing AI assets, enabling organizations to exchange Agent Skills and AI models across platforms.
+            second_path:
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/OpenSharing-IO/OpenSharing
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-06-09'
+              dev_stats_url: https://insights.linuxfoundation.org/project/opensharing
+              lfx_slug: opensharing
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/opensharing
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfYeNX34swN3LNDwXe
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/opensharing/opensharing_Charter.pdf?v=1782150602120
+              annotations:
+                project_org: https://github.com/OpenSharing-IO
+            additional_repos: []
+          - item:
             name: Open Source Readiness Special Interest Group
             homepage_url: https://osr.finos.org/
             logo: open_source_readiness_special_interest_group.svg
@@ -17114,6 +17141,28 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfKqhzuw4MXzjV5tBN
                 - name: Charter
                   url: https://github.com/lf-energy/foundation/blob/main/project_charters/opensynth_charter.pdf
+          - item:
+            name: OpenTeleEval
+            homepage_url: https://github.com/OpenTeleEval/OpenTeleEval
+            logo: openteleeval.svg
+            description: VertiEval-Tele is a open-source benchmark designed to evaluate the LLM capabilities in telecommunication networks. Grounded in real operational agent trajectories and validated through closed-loop deployment in live networks, it’s the first benchmark to align LLM evaluation with industrial deployment readiness.
+            second_path:
+              - Project Group / LF AI & Data
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/OpenTeleEval/OpenTeleEval
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-06-16'
+              dev_stats_url: https://insights.linuxfoundation.org/project/vertieval-tele
+              lfx_slug: vertieval-tele
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/vertieval-tele
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfgl4pvj2vLAUIil6R
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/vertieval-tele/vertieval-tele_Charter.pdf?v=1782147094363
           - item:
             name: OpenTelemetry
             homepage_url: https://opentelemetry.io/
@@ -31570,12 +31619,7 @@ landscape:
             name: Elasticsearch, Inc. (member)
             homepage_url: https://elastic.co/
             logo: elasticsearch_inc.svg
-            description: |-
-              Elastic provides a platform of open source projects and commercial products that are designed to search, analyze, and visualize data allowing users to get actionable insight in real time. It offers Elasticsearch, a distributed open source search and analytics engine; Kibana, an open source data visualization platform; Shield that brings enterprise-grade security to Elasticsearch; and Marvel, a tool that provides user with transparency into the status of Elasticsearch deployment. The company also provides Logstash to process log, event, and unstructured data sources for distribution into a various outputs, including Elasticsearch. In addition, it offers Elasticsearch for Apache Hadoop, a two-way connector that allows reading and writing data to Elasticsearch and querying it in real time; language clients for Elasticsearch; and learning solutions from Webinars, blogs, tutorials, community events, and others. The company was founded in 2012 and is based in Amsterdam, the Netherlands. It has offices worldwide.
-
-              --- Merged Data:
-
-              We're the creators of the Elastic (ELK) Stack -- Elasticsearch, Kibana, Beats, and Logstash. Securely and reliably search, analyze, and visualize your data in the cloud or on-prem.
+            description: Elastic provides a platform of open source projects and commercial products that are designed to search, analyze, and visualize data allowing users to get actionable insight in real time. It offers Elasticsearch, a distributed open source search and analytics engine; Kibana, an open source data visualization platform; Shield that brings enterprise-grade security to Elasticsearch; and Marvel, a tool that provides user with transparency into the status of Elasticsearch deployment. The company also provides Logstash to process log, event, and unstructured data sources for distribution into a various outputs, including Elasticsearch. In addition, it offers Elasticsearch for Apache Hadoop, a two-way connector that allows reading and writing data to Elasticsearch and querying it in real time; language clients for Elasticsearch; and learning solutions from Webinars, blogs, tutorials, community events, and others. The company was founded in 2012 and is based in Amsterdam, the Netherlands. It has offices worldwide.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
