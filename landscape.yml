@@ -436,6 +436,7 @@ landscape:
             logo: agent2agent.svg
             description: help AI agents across different ecosystems communicate with each other
             second_path:
+              - Project Group / Agentic AI Foundation (AAIF)
               - Technology Sector / AI, ML, Data & Analytics
             repo_url: https://github.com/a2aproject/A2A
             license: Apache-2.0
@@ -11542,9 +11543,9 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/kubeflow/trainer
               - repo_url: https://github.com/kubeflow/sdk
-              - repo_url: https://github.com/kubeflow/katib
               - repo_url: https://github.com/kubeflow/community
               - repo_url: https://github.com/kubeflow/spark-operator
+              - repo_url: https://github.com/kubeflow/notebooks
           - item:
             name: Kube-OVN
             homepage_url: https://github.com/alauda/kube-ovn
@@ -11721,26 +11722,6 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kubeslice
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf4kc7eLY6OQ33cMAj
-          - item:
-            name: KubeStellar
-            homepage_url: https://github.com/kubestellar/kubestellar
-            logo: kubestellar.svg
-            description: mutlicluster configuration management for edge, multi-cloud, and hybrid cloud.
-            second_path:
-              - Project Group / Cloud Native Computing Foundation (CNCF)
-              - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/kubestellar/kubestellar
-            license: Apache-2.0
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2023-12-19'
-              dev_stats_url: https://insights.linuxfoundation.org/project/kubestellar
-              lfx_slug: kubestellar
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kubestellar
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf9NgQsO9YjRAaolTI
           - item:
             name: KubeVela
             homepage_url: https://kubevela.io/
@@ -13479,9 +13460,9 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/milvus-io/bootcamp
               - repo_url: https://github.com/milvus-io/pymilvus
-              - repo_url: https://github.com/milvus-io/milvus-sdk-java
               - repo_url: https://github.com/milvus-io/milvus-lite
-              - repo_url: https://github.com/milvus-io/milvus-sdk-node
+              - repo_url: https://github.com/milvus-io/talon
+              - repo_url: https://github.com/milvus-io/milvus-sdk-java
           - item:
             name: Minicoredumper
             homepage_url: https://diamon.org/
@@ -16120,25 +16101,6 @@ landscape:
               annotations:
                 project_org: https://github.com/openhpc
             additional_repos: []
-          - item:
-            name: openIDL Project
-            homepage_url: https://openidl.org/
-            logo: openidl_project.svg
-            description: openIDL (open Insurance Data Link) is a permissioned blockchain network that streamlines regulatory reporting and provides new insights for insurers, while enhancing timeliness, accuracy, and value for regulators. This is one of our pending governance network projects. While the regulatory solution is a near-term driver, longer term there are many applications for the openIDL solution.
-            second_path:
-              - Project Group / Open Insurance Data Standard Foundation (OPENIDS)
-              - Industry / Financials
-              - Technology Sector / Blockchain
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2021-02-22'
-              dev_stats_url: https://insights.linuxfoundation.org/project/openidl-project
-              lfx_slug: openidl-project
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openidl-project
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWioKQAT
           - item:
             name: OpenImageIO
             homepage_url: https://openimageio.org/
@@ -23267,32 +23229,6 @@ landscape:
               - repo_url: https://github.com/tremor-rs/tremor-language-server
               - repo_url: https://github.com/tremor-rs/tremor-bot
           - item:
-            name: TrestleGRC
-            homepage_url: https://oscal-compass.github.io/compliance-trestle/
-            logo: trestlegrc.svg
-            description: Trestle is designed to operate as a CI/CD pipeline running on top of compliance artifacts in git, to provide transparency for the state of compliance across multiple stakeholders in an environment friendly to developers.
-            second_path:
-              - Project Group / Cloud Native Computing Foundation (CNCF)
-              - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/oscal-compass/compliance-trestle
-            license: Apache-2.0
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2024-06-19'
-              dev_stats_url: https://insights.linuxfoundation.org/project/trestlegrc
-              lfx_slug: trestlegrc
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/trestlegrc
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lftELemcLarzlofplg
-              annotations:
-                project_org: https://github.com/oscal-compass
-            additional_repos:
-              - repo_url: https://github.com/oscal-compass/compliance-to-policy
-              - repo_url: https://github.com/oscal-compass/compliance-trestle-agile-authoring
-              - repo_url: https://github.com/oscal-compass/community
-          - item:
             name: Trickster
             homepage_url: https://github.com/tricksterproxy/trickster
             logo: trickster.svg
@@ -30012,6 +29948,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/codethink-limited
           - item:
+            name: CodeVisionary (member)
+            homepage_url: https://codevisionary.ai/
+            logo: codevisionary.svg
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+          - item:
             name: Cognitive Network Solutions Inc (member)
             homepage_url: https://cnscellular.com/
             logo: cognitive_network_solutions_inc.svg
@@ -31296,6 +31239,7 @@ landscape:
               - Project Membership / Open Container Initiative (OCI)
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+              - Project Membership / FINOS (The Fintech Open Source Foundation)
               - Project Membership / Open Source Security Foundation (OpenSSF)
             crunchbase: https://www.crunchbase.com/organization/docker
             twitter: https://twitter.com/Docker
@@ -36765,6 +36709,20 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/morgan-stanley
           - item:
+            name: Morse Micro Pty. Ltd (member)
+            homepage_url: https://morsemicro.com/
+            logo: morse_micro_pty.svg
+            description: |-
+              Morse Micro's first Wi-Fi HaLow chip on the 802.11ah Wi-Fi protocol. Low 
+                power, long range Wi-Fi for IoT.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Zephyr Project
+            crunchbase: https://www.crunchbase.com/organization/morse-micro
+            twitter: https://twitter.com/MorseMicro
+            extra:
+              linkedin_url: https://www.linkedin.com/company/morse-micro
+          - item:
             name: MotherDuck (member)
             homepage_url: https://motherduck.com/
             logo: motherduck.svg
@@ -38148,6 +38106,14 @@ landscape:
             description: Parallel Wireless leads the OpenRAN movement with innovative cloud-native architecture, enabling cost-effective cellular network deployment globally.
             second_path:
               - Project Membership / The Linux Foundation
+          - item:
+            name: Paramount Skydance Corporation (member)
+            homepage_url: https://paramount.com/
+            logo: paramount_skydance_corporation.svg
+            description: Paramount is a prominent producer of premium entertainment content, offering a diverse range of feature films, television shows, and streaming services that engage audiences globally.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Academy Software Foundation (ASWF)
           - item:
             name: Parsimo Inc. (member)
             homepage_url: https://parsimo.ai/
@@ -51131,6 +51097,13 @@ landscape:
             twitter: https://twitter.com/UTokyo_News
             extra:
               linkedin_url: https://www.linkedin.com/company/university-of-tokyo
+          - item:
+            name: The VettID Project (member)
+            homepage_url: https://vettid.org/
+            logo: the_vettid_project.svg
+            description: The VettID Project offers an open-source Personal Security Service that enables individuals to own and control their online data, secrets, and identity, thereby ensuring secure, private, and trusted digital experiences.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Thinkerland (member)
             homepage_url: https://thinkerland.org/
