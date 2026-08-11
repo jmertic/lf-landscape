@@ -74,7 +74,6 @@ landscape:
               - Project Group / LF Networking (LFN)
               - PMO Managed / All
               - Technology Sector / Networking & Edge
-            repo_url: https://github.com/5G-Super-Blue-Print/5G-Super-Blueprint-Reference-Architecture-Seattle-2022
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -86,9 +85,6 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/super-blueprint
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfKEkAx8XxIyjB3k73
-              annotations:
-                project_org: https://github.com/5G-Super-Blue-Print
-            additional_repos: []
           - item:
             name: 5 Spot Machine Scheduler
             homepage_url: https://github.com/finos/5-spot
@@ -4813,6 +4809,28 @@ landscape:
                 project_org: https://github.com/CurvineIO
             additional_repos: []
           - item:
+            name: CVE Binary Tool
+            homepage_url: https://github.com/ossf/cve-bin-tool
+            logo: cve_binary_tool.svg
+            description: enable the finding of known vulnerabilities in software using data from the National Vulnerability Database (NVD) list of Common Vulnerabilities and Exposures (CVEs), as well as known vulnerability data from Redhat, Open Source Vulnerability Database (OSV), Gitlab Advisory Database (GAD), and Curl
+            second_path:
+              - Project Group / Open Source Security Foundation (OpenSSF)
+              - Technology Sector / Privacy & Security
+            repo_url: https://github.com/ossf/cve-bin-tool
+            license: Other
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-07-09'
+              dev_stats_url: https://insights.linuxfoundation.org/project/cve-binary-tool
+              lfx_slug: cve-binary-tool
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cve-binary-tool
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfCcl7WO8fCEqeENwU
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/cve-binary-tool/cve-binary-tool_Charter.pdf?v=1784051591981
+          - item:
             name: Cyber Domain Ontology Project
             homepage_url: https://github.com/casework/CASE
             logo: cyber_domain_ontology_project.svg
@@ -5767,31 +5785,6 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf254UfQduBrYW5Yd6
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/dns-aid/dns-aid_Charter.pdf?v=1780420505133
-          - item:
-            name: DocArray
-            homepage_url: https://github.com/docarray
-            logo: docarray.svg
-            description: The mission of the DocArray project is to develop a library for nested, unstructured, multimodal data in transit, including text, image, audio, video, 3D mesh.
-            second_path:
-              - Project Group / LF AI & Data
-              - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/docarray/docarray
-            license: Apache-2.0
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2022-11-17'
-              dev_stats_url: https://insights.linuxfoundation.org/project/docarray
-              lfx_slug: docarray
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/docarray
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NVX9oQAH
-                - name: Charter
-                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/DocArray%20Technical%20Charter%2011-17-2022.docx.pdf
-              annotations:
-                project_org: https://github.com/docarray
-            additional_repos: []
           - item:
             name: DocLang Specification
             homepage_url: https://doclang.ai/
@@ -7660,28 +7653,6 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openprint-foomatic
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs8XQAT
-          - item:
-            name: ForestFlow
-            homepage_url: https://forestflow.ai/
-            logo: forestflow.svg
-            description: ForestFlow is a scalable policy-based cloud-native machine learning model server. ForestFlow strives to strike a balance between the flexibility it offers data scientists and the adoption of standards while reducing friction between Data Science, Engineering and Operations teams.
-            second_path:
-              - Project Group / LF AI & Data
-              - Industry / Cross-Industry
-              - Technology Sector / AI, ML, Data & Analytics
-            license: Apache-2.0
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2020-04-14'
-              dev_stats_url: https://insights.linuxfoundation.org/project/ForestFlow
-              lfx_slug: ForestFlow
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ForestFlow
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkOXNQA3
-                - name: Charter
-                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/forestflow%20technical%20charter_04.14.20.pdf
           - item:
             name: Formats SIG
             homepage_url: https://github.com/OAI/sig-formats
@@ -11722,6 +11693,26 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kubeslice
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf4kc7eLY6OQ33cMAj
+          - item:
+            name: KubeStellar
+            homepage_url: https://kubestellar.io/
+            logo: kubestellar.svg
+            description: mutlicluster configuration management for edge, multi-cloud, and hybrid cloud.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/kubestellar/kubestellar
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2023-12-19'
+              dev_stats_url: https://insights.linuxfoundation.org/project/kubestellar
+              lfx_slug: kubestellar
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kubestellar
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf9NgQsO9YjRAaolTI
           - item:
             name: KubeVela
             homepage_url: https://kubevela.io/
@@ -17940,6 +17931,34 @@ landscape:
                 project_org: https://github.com/ortelius
             additional_repos: []
           - item:
+            name: OSCAL Compass
+            homepage_url: https://oscal-compass.dev/
+            logo: oscal_compass.svg
+            description: Trestle is designed to operate as a CI/CD pipeline running on top of compliance artifacts in git, to provide transparency for the state of compliance across multiple stakeholders in an environment friendly to developers.
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+            repo_url: https://github.com/oscal-compass/compliance-trestle
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2024-06-19'
+              dev_stats_url: https://insights.linuxfoundation.org/project/trestlegrc
+              lfx_slug: trestlegrc
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/trestlegrc
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lftELemcLarzlofplg
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/trestlegrc/trestlegrc_Charter.pdf?v=1785962491064
+              annotations:
+                project_org: https://github.com/oscal-compass
+            additional_repos:
+              - repo_url: https://github.com/oscal-compass/compliance-to-policy
+              - repo_url: https://github.com/oscal-compass/compliance-trestle-agile-authoring
+              - repo_url: https://github.com/oscal-compass/community
+          - item:
             name: OS-Climate
             homepage_url: https://www.os-climate.org/
             logo: os_climate.svg
@@ -18590,7 +18609,7 @@ landscape:
             second_path:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/platform-mesh/kubernetes-graphql-gateway
+            repo_url: https://github.com/platform-mesh/platform-mesh
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -31795,6 +31814,14 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / PyTorch Foundation
           - item:
+            name: Emphere (member)
+            homepage_url: https://emphere.com/
+            logo: emphere.svg
+            description: Emphere automates cloud security remediation by generating infrastructure as code fixes for vulnerabilities in AWS, Azure, and GCP, significantly reducing mean time to recovery from weeks to minutes while ensuring secure deployment back to the cloud.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Open Source Security Foundation (OpenSSF)
+          - item:
             name: Endor Labs (member)
             homepage_url: https://endor.ai/
             logo: endor_labs.svg
@@ -32285,7 +32312,6 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-              - Project Membership / FinOps Foundation
             crunchbase: https://www.crunchbase.com/organization/fairwinds
             twitter: https://twitter.com/fairwindsops
             extra:
@@ -35332,6 +35358,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+              - Project Membership / PyTorch Foundation
             crunchbase: https://www.crunchbase.com/organization/lablup
             extra:
               linkedin_url: https://www.linkedin.com/company/lablup-inc
@@ -47547,9 +47574,10 @@ landscape:
             name: Interchain Siftung (member)
             homepage_url: https://interchain.io/
             logo: interchain_siftung.svg
-            description: The Interchain Foundation is a key player in the blockchain space, focusing on building and stewarding the Cosmos ecosystem. They fund and advance the creation of an interoperable, sustainable, and community-owned decentralized ecosystem. Their core te...
+            description: The Interchain Foundation is a key player in the blockchain space, focusing on building and stewarding the Cosmos ecosystem. They fund and advance the creation of an interoperable, sustainable, and community-owned decentralized ecosystem.
             second_path:
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/interchain-foundation
           - item:
             name: Interfima (member)
             homepage_url: https://interfima.org/
@@ -49747,9 +49775,10 @@ landscape:
             name: Queen Arwa University (member)
             homepage_url: https://qau.edu.ye/
             logo: queen_arwa_university.svg
-            description: Queen Arwa University provides distinguished education, produces innovative research serving the community, contributes to knowledge economy building, fosters a stimulating learning and intellectual creativity environment, optimally utilizes technology...
+            description: Queen Arwa University provides distinguished education, produces innovative research serving the community, contributes to knowledge economy building, fosters a stimulating learning and intellectual creativity environment, optimally utilizes technology.
             second_path:
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/queen-arwa-university
           - item:
             name: Ramanujan College (member)
             homepage_url: https://ramanujancollege.ac.in/
@@ -51774,13 +51803,6 @@ landscape:
             twitter: https://twitter.com/UNSW
             extra:
               linkedin_url: https://www.linkedin.com/company/university-of-new-south-wales
-          - item:
-            name: University of North Carolina at Pembroke (member)
-            homepage_url: https://uncp.edu/
-            logo: university_of_north_carolina_at_pembroke.svg
-            description: The University of North Carolina at Pembroke is a renowned institution committed to academic excellence, offering a wide range of bachelor's and master's degrees. With a focus on diversity and inclusion, UNC Pembroke provides affordable, high-quality e...
-            second_path:
-              - Project Membership / The Linux Foundation
           - item:
             name: University of Notre Dame (member)
             homepage_url: https://nd.edu/
