@@ -8354,8 +8354,7 @@ landscape:
             name: Grid2Op
             homepage_url: https://grid2op.energy/
             logo: grid2op.svg
-            description: |
-              An open source Python framework designed for modeling and simulating sequential decision-making processes in power systems, primarily used for developing and evaluating intelligent control agents (e.g., using reinforcement learning) to manage and optimize grid operations
+            description: An open source Python framework designed for modeling and simulating sequential decision-making processes in power systems, primarily used for developing and evaluating intelligent control agents (e.g., using reinforcement learning) to manage and optimize grid operations
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
@@ -13066,6 +13065,25 @@ landscape:
               - repo_url: https://github.com/linuxonzapps/tsc
               - repo_url: https://github.com/linuxonzapps/zlinux-artifacts-builder
           - item:
+            name: Malloy
+            homepage_url: https://www.malloydata.dev/
+            logo: malloy.svg
+            description: The mission of the Project is to develop an open source language for analyzing, transforming, and modeling data against SQL databases.
+            second_path:
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/malloydata/malloy
+            license: MIT
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2024-05-22'
+              dev_stats_url: https://insights.linuxfoundation.org/project/malloy
+              lfx_slug: malloy
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/malloy
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfiF2WA2SelTFnKT0j
+          - item:
             name: ManaTEE
             homepage_url: https://github.com/tiktok-privacy-innovation/PrivacyGo-DataCleanRoom
             logo: manatee.svg
@@ -15591,28 +15609,6 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/open-developer-platform
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkUb3QAF
-          - item:
-            name: OpenDS4All
-            homepage_url: https://lfaidata.foundation/projects/opends4all/
-            logo: opends4all.svg
-            description: OpenDS4All is a project created to accelerate the creation of data science curricula at academic institutions. While a great deal of online material is available for data science, including online courses, we recognize that the best way for many students to learn (and for many institutions to deliver) content is through a combination of lectures, recitation or flipped classroom activities, and hands-on assignments.
-            second_path:
-              - Project Group / LF AI & Data
-              - Industry / Cross-Industry
-              - Technology Sector / AI, ML, Data & Analytics
-            license: Apache-2.0
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2020-10-27'
-              dev_stats_url: https://insights.linuxfoundation.org/project/odpi-opends4all
-              lfx_slug: odpi-opends4all
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/odpi-opends4all
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs6xQAD
-                - name: Charter
-                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/opends4all%20technical%20charter_10.02.20.pdf
           - item:
             name: OpenDSM
             homepage_url: https://lfenergy.org/projects/opendsm/
@@ -26374,18 +26370,6 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/cloudmate-1d80
           - item:
-            name: AIA Shared Services (Hong Kong) Limited (member)
-            homepage_url: https://aia.com/
-            logo: aia_shared_services_hong_kong_limited.svg
-            description: AIA Group Limited, known as AIA, is an American-founded Hong Kong multinational insurance and finance corporation.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / FinOps Foundation
-            crunchbase: https://www.crunchbase.com/organization/aia-group
-            twitter: https://twitter.com/AIAGroup_Press
-            extra:
-              linkedin_url: https://www.linkedin.com/company/aia
-          - item:
             name: AI Craft Works (member)
             homepage_url: https://aicraftworks.ai/
             logo: ai_craft_works.svg
@@ -28704,13 +28688,6 @@ landscape:
             twitter: https://twitter.com/Cadence
             extra:
               linkedin_url: https://www.linkedin.com/company/cadence-design-systems
-          - item:
-            name: Calero Software Ltd (member)
-            homepage_url: https://calero.com/
-            logo: calero_software_ltd.svg
-            description: Calero Software provides a managed technology platform that enables organizations to visualize and optimize their sourcing, service, usage, and spending across SaaS, mobility, and telecom services, while also overseeing the entire lifecycle of enterpri...
-            second_path:
-              - Project Membership / The Linux Foundation
           - item:
             name: Caligra (member)
             homepage_url: https://caligra.com/
@@ -34670,18 +34647,6 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/jetify
-          - item:
-            name: Jetstack Ltd (member)
-            homepage_url: https://jetstack.io/
-            logo: jetstack_ltd.svg
-            description: We are a fast-growing Kubernetes professional services company that prides itself on helping startups and enterprises alike in their path to modern cloud-native infrastructure
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/venafi
-            twitter: https://twitter.com/JetstackHQ
-            extra:
-              linkedin_url: https://www.linkedin.com/company/jetstack
           - item:
             name: Jiangsu Bocloud Technology Co., Ltd. (BoCloud) (member)
             homepage_url: https://beyondcent.com/
@@ -41933,6 +41898,13 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/telenor-norway
           - item:
+            name: Telesoft, LLC dba Calero (member)
+            homepage_url: https://calero.com/
+            logo: telesoft_llc_dba_calero.svg
+            description: Calero Software provides a managed technology platform that enables organizations to visualize and optimize their sourcing, service, usage, and spending across SaaS, mobility, and telecom services, while also overseeing the entire lifecycle of enterpri...
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: TELUS Corporation (member)
             homepage_url: https://telus.com/
             logo: telus_corporation.svg
@@ -47576,6 +47548,7 @@ landscape:
             logo: interchain_siftung.svg
             description: The Interchain Foundation is a key player in the blockchain space, focusing on building and stewarding the Cosmos ecosystem. They fund and advance the creation of an interoperable, sustainable, and community-owned decentralized ecosystem.
             second_path:
+              - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/interchain-foundation
           - item:
@@ -48547,6 +48520,7 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / CHIPS Alliance Fund
+              - Project Membership / Green Software Foundation Fund
             crunchbase: https://www.crunchbase.com/organization/munich-university-of-applied-sciences
             twitter: https://twitter.com/hmmuenchen
           - item:
