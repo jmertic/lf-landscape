@@ -463,18 +463,21 @@ landscape:
             description: The mission of the project is to develop and host conformance vectors, verifier adapters and reproducible run reports for agent identity, delegated authority, signed decision receipts, attribution and provenance.
             second_path:
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/aeoess/agent-passport-system
+            repo_url: https://github.com/Agent-Authority-Conformance/aps-conformance-suite
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2026-08-13'
-              dev_stats_url: https://insights.linuxfoundation.org/project/agent-passport
-              lfx_slug: agent-passport
+              dev_stats_url: https://insights.linuxfoundation.org/project/agent-authority-conformance
+              lfx_slug: agent-authority-conformance
               other_links:
                 - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/agent-passport
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/agent-authority-conformance
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf8VeFfiINHk2tmID9
+              annotations:
+                project_org: https://github.com/Agent-Authority-Conformance
+            additional_repos: []
           - item:
             name: agentgateway
             homepage_url: https://www.agentgateway.dev/
@@ -31168,6 +31171,7 @@ landscape:
               Internet Security, SSL Certificates, Extended Validation SSL, Internet of Things, EV SSL Certificates, Website Security, Managed PKI, Certificate Management, Device Certificates, Mobile Certificates, Encryption Technology, and Identity Assurance
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / Confidential Computing Consortium (CCC)
               - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
             crunchbase: https://www.crunchbase.com/organization/digicert
             twitter: https://twitter.com/digicert
@@ -36264,6 +36268,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/mckinsey-&-company
           - item:
+            name: MCPJam (member)
+            homepage_url: https://mcpjam.com/
+            logo: mcpjam.svg
+            description: MCPJam Inspector provides an open-source developer tool designed for testing and debugging Model Context Protocol servers, enabling connections through STDIO, SSE, or HTTP while facilitating real LLM interactions and offering advanced features for erro...
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: MediaTek USA Inc. (member)
             homepage_url: https://mediatek.com/
             logo: mediatek_usa_inc.svg
@@ -37025,7 +37036,7 @@ landscape:
             name: NETSIA Inc. (member)
             homepage_url: https://netsia.com/
             logo: netsia_inc.svg
-            description: Netsia focuses on Software Defined Networks, virtualization and network slicing. We contribute to the open source community and take part in open forums.
+            description: Netsia focuses on Software Defined Networks, virtualization and network automation. We contribute to the open source community and take part in open forums.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Broadband Fund
@@ -38081,6 +38092,7 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / Ceph Foundation
+              - Project Membership / Linux Foundation Europe
             crunchbase: https://www.crunchbase.com/organization/ovh-us
             twitter: https://twitter.com/OVHcloud
             extra:
@@ -39158,6 +39170,14 @@ landscape:
             twitter: https://twitter.com/Rackspace
             extra:
               linkedin_url: https://www.linkedin.com/company/rackspace-hosting
+          - item:
+            name: Radar (member)
+            homepage_url: https://radarhq.io/
+            logo: radar.svg
+            description: Radar provides a hosted control plane for Kubernetes visibility, enabling centralized access to multiple connected clusters, cross-cluster search capabilities, and collaborative tools for event timelines and topology management, all built on an open-so...
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
           - item:
             name: Radisys Corporation (member)
             homepage_url: https://radisys.com/
@@ -45308,17 +45328,6 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / LF AI & Data
           - item:
-            name: Bill & Melinda Gates Foundation (member)
-            homepage_url: https://gatesfoundation.org/
-            logo: bill_melinda_gates_foundation.svg
-            description: The Bill & Melinda Gates Foundation works to help all people lead healthy, productive lives. In developing countries, it focuses on improving people's health and giving them the chance to lift themselves out of hunger and extreme poverty. In the United States, it seeks to ensure that all people, especially those with the fewest resources, have access to the opportunities they need to succeed in school and life. Based in Seattle, Washington, the foundation is led by CEO Jeff Raikes and Co-chair William H. Gates Sr., under the direction of Bill and Melinda Gates and Warren Buffett.
-            second_path:
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/bill-melinda-gates-foundation
-            twitter: https://twitter.com/gatesfoundation
-            extra:
-              linkedin_url: https://www.linkedin.com/company/bill-&-melinda-gates-foundation
-          - item:
             name: Blender Foundation (member)
             homepage_url: https://blender.org/
             logo: blender_foundation.svg
@@ -45657,6 +45666,13 @@ landscape:
               - Project Membership / OpenWallet Foundation
               - Project Membership / Ultra Ethernet Consortium Fund
             crunchbase: https://www.crunchbase.com/organization/china-academy-of-information-and-communication-technology
+          - item:
+            name: chnondir association (member)
+            homepage_url: https://chnondir.org/
+            logo: chnondir_association.svg
+            description: Chnondir focuses on empowering Morocco's youth, particularly girls and underserved communities, by providing AI and cybersecurity education in public schools for students aged 8 to 18, fostering the next generation of technological leaders.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: CIO Strategy Council (member)
             homepage_url: https://ciostrategycouncil.com/
@@ -46966,6 +46982,17 @@ landscape:
             twitter: https://twitter.com/iicgalgotiasuni
             extra:
               linkedin_url: https://www.linkedin.com/company/galgotiasuniversity
+          - item:
+            name: Gates Foundation (member)
+            homepage_url: https://gatesfoundation.org/
+            logo: gates_foundation.svg
+            description: The Bill & Melinda Gates Foundation works to help all people lead healthy, productive lives. In developing countries, it focuses on improving people's health and giving them the chance to lift themselves out of hunger and extreme poverty. In the United States, it seeks to ensure that all people, especially those with the fewest resources, have access to the opportunities they need to succeed in school and life. Based in Seattle, Washington, the foundation is led by CEO Jeff Raikes and Co-chair William H. Gates Sr., under the direction of Bill and Melinda Gates and Warren Buffett.
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/bill-melinda-gates-foundation
+            twitter: https://twitter.com/gatesfoundation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/bill-&-melinda-gates-foundation
           - item:
             name: GÉANT Association (member)
             homepage_url: https://geant.org/
