@@ -12930,7 +12930,8 @@ landscape:
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/luigi/luigi_Charter.pdf?v=1764684321725
               annotations:
                 project_org: https://github.com/luigi-project
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/luigi-project/samples
           - item:
             name: Luma.gl
             homepage_url: https://luma.gl/
@@ -20351,28 +20352,6 @@ landscape:
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/sd-jwt-javascript/sd-jwt-javascript_Charter.pdf?v=1778005769721
           - item:
-            name: SD-JWT Kotlin Reference Implementation
-            homepage_url: https://github.com/openwallet-foundation-labs/sd-jwt-kotlin
-            logo: sd_jwt_kotlin_reference_implementation.svg
-            description: The mission of the Project is to develop a Kotlin reference implementation of SD-JWT.
-            second_path:
-              - Project Group / OpenWallet Foundation
-              - Technology Sector / Blockchain
-            repo_url: https://github.com/openwallet-foundation-labs/sd-jwt-kotlin
-            license: Apache-2.0
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2024-08-02'
-              dev_stats_url: https://insights.linuxfoundation.org/project/sd-jwt-kotlin
-              lfx_slug: sd-jwt-kotlin
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/sd-jwt-kotlin
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MtBQ6QAN
-                - name: Charter
-                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/sd-jwt-kotlin/sd-jwt-kotlin_Charter.pdf?v=1778005816747
-          - item:
             name: SD-JWT .NET Reference Implementation
             homepage_url: https://tac.openwallet.foundation/projects/sd-jwt-dotnet/
             logo: sd_jwt.svg
@@ -25868,18 +25847,6 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / Zephyr Project
           - item:
-            name: 8gears (member)
-            homepage_url: https://container-registry.com/
-            logo: 8gears.svg
-            description: |-
-              8gears Container Registry is a 
-              Harbor-based container registry as a service 
-              offered and operated by the project's maintainer and contributors
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/8gears-container-registry
-          - item:
             name: A10 Networks (member)
             homepage_url: https://a10networks.com/
             logo: a10_networks.svg
@@ -29737,17 +29704,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/cloudflare-inc-
           - item:
-            name: CloudGeometry Inc. (member)
-            homepage_url: https://cloudgeometry.io/
-            logo: cloudgeometry_inc.svg
-            description: CloudGeometry. Because cloud arithmetic is not enough.We build, launch & optimize the software that drives your SaaS business success. Recognized by AWS as a SaaS Competency & Advanced Consulting Partner for our deep specialization and expertise in des...
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/cloudgeometry
-            extra:
-              linkedin_url: https://www.linkedin.com/company/cloudgeometry
-          - item:
             name: Cloud&Heat Technologies GmbH (member)
             homepage_url: https://cloudandheat.com/
             logo: cloud_heat_technologies_gmbh.svg
@@ -30081,16 +30037,6 @@ landscape:
             twitter: https://twitter.com/Xfinity
             extra:
               linkedin_url: https://www.linkedin.com/company/comcast
-          - item:
-            name: CoMira Solutions Inc (member)
-            homepage_url: https://comira-inc.com/
-            logo: comira_solutions_inc.svg
-            description: CoMira Solutions specializes in developing integrated hardware and software solutions tailored for market makers, providing essential silicon, systems, and support services to enhance operational efficiency in the financial industry.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Ultra Ethernet Consortium Fund
-            extra:
-              linkedin_url: https://www.linkedin.com/company/comira-solutions-inc.
           - item:
             name: Common Tools (member)
             homepage_url: https://common.tools/
@@ -32428,7 +32374,7 @@ landscape:
             name: FinOpsly Inc. (member)
             homepage_url: https://finopsly.com/
             logo: finopsly_inc.svg
-            description: Map cloud, data, and AI spend to business value - then automatically act to control waste and overruns. Multi-cloud cost optimization for AWS, Azure, GCP, Snowflake, and Databricks.
+            description: FinOpsly helps enterprises understand and control what they spend on AI. Govern costs across AI tools, models, cloud, compute and data.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / FinOps Foundation
