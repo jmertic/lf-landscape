@@ -4665,8 +4665,10 @@ landscape:
             logo: cregit.svg
             description: The goal of cregit is to provide token-level blame for a software system whose history has been recorded using git.
             second_path:
+              - Project Group / ELISA Fund
               - Industry / Cross-Industry
               - Technology Sector / AI, ML, Data & Analytics
+            license: GPL-3.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2017-09-13'
@@ -4677,6 +4679,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cregit
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV47XQAT
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/cregit/cregit_Charter.pdf?v=1787163841339
           - item:
             name: CRI-O
             homepage_url: https://cri-o.io/
@@ -8427,36 +8431,6 @@ landscape:
               - repo_url: https://github.com/geisa/community
               - repo_url: https://github.com/geisa/conformance
               - repo_url: https://github.com/geisa/schemas
-          - item:
-            name: Grid eXchange Fabric (GXF)
-            homepage_url: https://www.lfenergy.org/projects/gxf/
-            logo: grid_exchange_fabric_gxf.svg
-            description: |-
-              Open source, scalable, and technology-agnostic industrial Internet of Things (IoT) platform that enables grid operators to securely collect data, monitor, control, and manage smart devices across the power grid
-              GXF is open, independent, and driven by its community, developed using open source best practices and designed to use open standards. This enables third parties to develop new and innovative solutions. The trade-off is flexibility and freedom. Unlike closed proprietary software, open source software can be altered and extended by any developer familiar with the source code. This grants organizations freedom from “vendor lock-in,” assures long-term viability, and creates industry opportunities for support, consulting, and training.
-            second_path:
-              - Project Group / LF Energy (LFE)
-              - Industry / Energy & Climate
-              - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/OSGP/Documentation
-            license: Apache-2.0
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2020-02-04'
-              dev_stats_url: https://insights.linuxfoundation.org/project/grid-exchange-fabric
-              lfx_slug: grid-exchange-fabric
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/grid-exchange-fabric
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs7KQAT
-                - name: Charter
-                  url: https://github.com/lf-energy/foundation/blob/main/project_charters/grid-exchange-frabric_charter.pdf
-              annotations:
-                project_org: https://github.com/OSGP
-            additional_repos:
-              - repo_url: https://github.com/OSGP/open-smart-grid-platform
-              - repo_url: https://github.com/OSGP/Config
           - item:
             name: Grid Simulation and Modeling SIG
             homepage_url: https://lf-energy.atlassian.net/wiki/spaces/GSMS/overview
@@ -21357,7 +21331,7 @@ landscape:
               - Industry / Energy & Climate
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/sogno-platform/dpsim
-            license: Other
+            license: MPL-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-03-11'
@@ -21369,7 +21343,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkV6jQAF
                 - name: Charter
-                  url: https://github.com/lf-energy/foundation/blob/main/project_charters/sogno-charter.pdf
+                  url: https://github.com/lf-energy/foundation/blob/main/project_charters/sogno_charter.pdf
               annotations:
                 project_org: https://github.com/sogno-platform
             additional_repos:
@@ -24028,6 +24002,25 @@ landscape:
                 project_org: https://github.com/velero-io
             additional_repos: []
           - item:
+            name: VeltoraCore
+            homepage_url: https://github.com/LF-Decentralized-Trust-labs/veltoracore
+            logo: veltoracore.svg
+            description: The mission of the project is to develop a system-agnostic, multi-pair optimization architecture that jointly optimizes execution and liquidity participation within a unified feasibility framework.
+            second_path:
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/LF-Decentralized-Trust-labs/veltoracore
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-08-19'
+              dev_stats_url: https://insights.linuxfoundation.org/project/veltoracore
+              lfx_slug: veltoracore
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/veltoracore
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfxL2anfvc92x6efhM
+          - item:
             name: Veraison
             homepage_url: https://github.com/veraison
             logo: veraison.svg
@@ -25223,6 +25216,31 @@ landscape:
       - subcategory:
         name: Platinum
         items:
+          - item:
+            name: Amazon Web Services, Inc. (member)
+            homepage_url: https://aws.amazon.com/
+            logo: amazon_web_services_inc.svg
+            description: Amazon.com, Inc. is an online retailer, offering new, refurbished and used products including books, DVDs, CDs, MP3 downloads, software, video games, electronics, furniture, apparel, jewelry, and toys. The company also manufactures consumer electronics (notably the Amazon Kindle and the Kindle Fire) and provides cloud computing services. Amazon is a publicly owned company and is based out of Seattle, WA.
+            second_path:
+              - Project Membership / OpenJS Foundation
+              - Project Membership / Open Container Initiative (OCI)
+              - Project Membership / SPDX
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+              - Project Membership / TODO Group
+              - Project Membership / Xen Project
+              - Project Membership / Yocto Project Fund
+              - Project Membership / Academy Software Foundation (ASWF)
+              - Project Membership / FINOS (The Fintech Open Source Foundation)
+              - Project Membership / FinOps Foundation
+              - Project Membership / Open Source Security Foundation (OpenSSF)
+              - Project Membership / PyTorch Foundation
+              - Project Membership / Overture Maps Foundation Fund
+              - Project Membership / Post-Quantum Cryptography Alliance
+            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
+            twitter: https://twitter.com/amazon
+            extra:
+              linkedin_url: https://www.linkedin.com/company/amazon
           - item:
             name: Ericsson (member)
             homepage_url: https://ericsson.com/
@@ -26826,31 +26844,6 @@ landscape:
             twitter: https://twitter.com/amazeeio
             extra:
               linkedin_url: https://www.linkedin.com/company/amazee.io
-          - item:
-            name: Amazon Web Services, Inc. (member)
-            homepage_url: https://aws.amazon.com/
-            logo: amazon_web_services_inc.svg
-            description: Amazon.com, Inc. is an online retailer, offering new, refurbished and used products including books, DVDs, CDs, MP3 downloads, software, video games, electronics, furniture, apparel, jewelry, and toys. The company also manufactures consumer electronics (notably the Amazon Kindle and the Kindle Fire) and provides cloud computing services. Amazon is a publicly owned company and is based out of Seattle, WA.
-            second_path:
-              - Project Membership / OpenJS Foundation
-              - Project Membership / Open Container Initiative (OCI)
-              - Project Membership / SPDX
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-              - Project Membership / TODO Group
-              - Project Membership / Xen Project
-              - Project Membership / Yocto Project Fund
-              - Project Membership / Academy Software Foundation (ASWF)
-              - Project Membership / FINOS (The Fintech Open Source Foundation)
-              - Project Membership / FinOps Foundation
-              - Project Membership / Open Source Security Foundation (OpenSSF)
-              - Project Membership / PyTorch Foundation
-              - Project Membership / Overture Maps Foundation Fund
-              - Project Membership / Post-Quantum Cryptography Alliance
-            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
-            twitter: https://twitter.com/amazon
-            extra:
-              linkedin_url: https://www.linkedin.com/company/amazon
           - item:
             name: Amberflo.io (member)
             homepage_url: https://amberflo.io/
@@ -32889,13 +32882,6 @@ landscape:
               - Project Membership / The Linux Foundation
             extra:
               linkedin_url: https://www.linkedin.com/company/gientech
-          - item:
-            name: Gierd Inc (member)
-            homepage_url: https://gierd.com/
-            logo: gierd_inc.svg
-            description: Gierd provides an intelligent unified marketplace commerce platform that consolidates sales, pricing, refunds, and supply data into structured, audit-ready financial information, enabling businesses to achieve comprehensive profitability visibility and...
-            second_path:
-              - Project Membership / The Linux Foundation
           - item:
             name: GigaDevice Semiconductor Inc. (member)
             homepage_url: https://gigadevice.com.cn/
@@ -44790,7 +44776,6 @@ landscape:
               Specialties
               P/C insurance policy forms, loss cost rating information, manual rules, statistical reporting, product compliance, and data analysis
             second_path:
-              - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
               - Project Membership / Open Insurance Data Standard Foundation (OPENIDS)
             twitter: https://twitter.com/AAISConnect
@@ -46122,7 +46107,6 @@ landscape:
             logo: digital_identity_laboratory_of_canada.svg
             description: Pour que la confiance règne en identité numérique
             second_path:
-              - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
             twitter: https://twitter.com/idlaborg
             extra:
@@ -46694,7 +46678,6 @@ landscape:
               Primary
               636 6th Ave, New York, US
             second_path:
-              - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/etc-cooperative
             twitter: https://twitter.com/ETCCooperative
@@ -47656,7 +47639,6 @@ landscape:
             logo: inter_american_development_bank_dba_lacchain.svg
             description: The IDB is the main source of multilateral financing for economic, social and institutional development projects and trade and regional integration programs in Latin America and the Caribbean. It is the oldest and largest regional development bank.
             second_path:
-              - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
               - Project Membership / Trust Over IP Project (ToIP)
             crunchbase: https://www.crunchbase.com/organization/inter-american-development-bank
