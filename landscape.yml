@@ -2603,6 +2603,28 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkTu4QAF
           - item:
+            name: Ceph
+            homepage_url: https://www.github.com/ceph/ceph/
+            logo: ceph.svg
+            description: develop a highly scalable, open-source storage platform designed to provide unified storage for block, object, and file systems under one platform
+            second_path:
+              - Project Group / Ceph Foundation
+              - Technology Sector / Storage
+            repo_url: https://github.com/ceph/ceph
+            license: Other
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-02-12'
+              dev_stats_url: https://insights.linuxfoundation.org/project/ceph
+              lfx_slug: ceph
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ceph
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfptJwa7wx5xZc6zd4
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/ceph/ceph_Charter.pdf?v=1773346378525
+          - item:
             name: Ceph Foundation
             homepage_url: https://ceph.io/
             logo: ceph_foundation.svg
@@ -4744,6 +4766,27 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/crossplane
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkOXJQA3
+          - item:
+            name: Cruise Control for Kafka
+            homepage_url: https://github.com/cruise-control-for-kafka/cruise-control
+            logo: cruise_control_for_kafka.svg
+            description: The mission of the Project is to develop a workload and deployment manager for Apache Kafka clusters.
+            second_path:
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/cruise-control-for-kafka/cruise-control
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-07-27'
+              dev_stats_url: https://insights.linuxfoundation.org/project/cruise-control-for-kafka
+              lfx_slug: cruise-control-for-kafka
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/cruise-control-for-kafka
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfVybDzfo0qqv2UV71
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/cruise-control-for-kafka/cruise-control-for-kafka_Charter.pdf?v=1785788326080
           - item:
             name: CubeFS
             homepage_url: https://chubao.io/
@@ -29967,9 +30010,11 @@ landscape:
             name: CodeVisionary (member)
             homepage_url: https://codevisionary.ai/
             logo: codevisionary.svg
+            description: .
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/codevisionary-ai
           - item:
             name: Cognitive Network Solutions Inc (member)
             homepage_url: https://cnscellular.com/
@@ -31813,7 +31858,7 @@ landscape:
             name: Emphere (member)
             homepage_url: https://emphere.com/
             logo: emphere.svg
-            description: Emphere automates cloud security remediation by generating infrastructure as code fixes for vulnerabilities in AWS, Azure, and GCP, significantly reducing mean time to recovery from weeks to minutes while ensuring secure deployment back to the cloud.
+            description: Emphere automates cloud security remediation by generating infrastructure as code fixes for vulnerabilities in AWS, Azure, and GCP, significantly reducing mean time to recovery from weeks to minutes while ensuring secure deployment back to the cloud
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -39127,7 +39172,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/skyhook-io
+            crunchbase: https://www.crunchbase.com/organization/radarhq
           - item:
             name: Radisys Corporation (member)
             homepage_url: https://radisys.com/
