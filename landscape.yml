@@ -21914,7 +21914,6 @@ landscape:
             logo: sqlmesh.svg
             description: SQLMesh is a next-generation data transformation framework designed to ship data quickly, efficiently, and without error. Data teams can run and deploy data transformations written in SQL or Python with visibility and control at any size.
             second_path:
-              - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
             repo_url: https://github.com/SQLMesh/sqlmesh
             license: Apache-2.0
@@ -23188,6 +23187,25 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/trac
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MaGlwQAF
+          - item:
+            name: TRACE Specification
+            homepage_url: https://github.com/agentrust-io/trace-spec
+            logo: trace_specification.svg
+            description: The project will develop and maintain an open attestation standard designed to enable verifiable governance, security, and compliance for agentic AI systems.
+            second_path:
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/agentrust-io/trace-spec
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-08-12'
+              dev_stats_url: https://insights.linuxfoundation.org/project/trace-spec
+              lfx_slug: trace-spec
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/trace-spec
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf4Ui2U68z7RXNHfSa
           - item:
             name: TraderX
             homepage_url: https://github.com/finos-labs/traderX
@@ -43082,7 +43100,7 @@ landscape:
             name: Valarian Technologies Ltd (member)
             homepage_url: https://valarian.com/
             logo: valarian_technologies_ltd.svg
-            description: Valarian is a company focused on building cutting-edge solutions that empower borderless collaboration in the new era of digital sovereignty. They provide software that enables enterprises to ensure compliance with data protection and privacy regulatio...
+            description: Valarian is a company focused on building cutting-edge solutions that empower borderless collaboration in the new era of digital sovereignty. They provide software that enables enterprises to ensure compliance with data protection and privacy regulation.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
