@@ -11184,6 +11184,28 @@ landscape:
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/kompute%20project%20technical%20charter_07.27.21.pdf
           - item:
+            name: Konspekt
+            homepage_url: https://github.com/finos-labs/konspekt
+            logo: konspekt.svg
+            description: An open standard — and reference implementation — for a portable, human-readable record of a project's evolving state across generative-AI conversations and platforms.
+            second_path:
+              - Project Group / FINOS (The Fintech Open Source Foundation)
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/finos-labs/konspekt
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-08-14'
+              dev_stats_url: https://insights.linuxfoundation.org/project/konspekt
+              lfx_slug: konspekt
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/konspekt
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfCutrKo3plhbHlkMe
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/konspekt/konspekt_Charter.pdf?v=1787002049248
+          - item:
             name: Konveyor
             homepage_url: https://www.konveyor.io/
             logo: konveyor.svg
@@ -28335,17 +28357,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/square--
           - item:
-            name: Bloombase, Inc. (member)
-            homepage_url: https://bloombase.com/
-            logo: bloombase_inc.svg
-            description: Bloombase is an intelligent storage firewall company providing AI-powered threat detection and response (TDR), continuous sensitive data discovery and protection, and application-transparent post-quantum cryptography (PQC) encryption security for high-speed, low-latency storage systems and services from edge computing, physical and virtual data centers, through hyperconverged infrastructure (HCI) and composable disaggregated infrastructure (CDI), to hyperscalers and the cloud.
-            second_path:
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/bloombase
-            twitter: https://twitter.com/Bloombase
-            extra:
-              linkedin_url: https://www.linkedin.com/company/bloombase
-          - item:
             name: Bloomberg Finance L.P. (member)
             homepage_url: https://techatbloomberg.com/
             logo: bloomberg_finance_l_p.svg
@@ -31794,14 +31805,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/embeint
           - item:
-            name: embraceable Technology (member)
-            homepage_url: https://embraceable.ai/
-            logo: embraceable_technology.svg
-            description: embraceableAI offers intelligent digital assistants that outperform standard RAG frameworks and AI co-pilots, setting new benchmarks in result quality, compliance, and reliability.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Open Source Security Foundation (OpenSSF)
-          - item:
             name: Embrace Mobile Inc (member)
             homepage_url: https://embrace.io/
             logo: embrace_mobile_inc.svg
@@ -31914,13 +31917,6 @@ landscape:
               - Project Membership / The Linux Foundation
             extra:
               linkedin_url: https://www.linkedin.com/company/engflow
-          - item:
-            name: Ensignia (member)
-            homepage_url: https://ensignia.co/
-            logo: ensignia.svg
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Open Source Security Foundation (OpenSSF)
           - item:
             name: Enterprise DB Corporation (member)
             homepage_url: https://enterprisedb.com/
@@ -44264,6 +44260,7 @@ landscape:
             description: WorkOS offers developer APIs and SDKs for enterprise-ready features like SSO, Directory Sync, and Audit Trail, enabling quick integration for selling to enterprise customers.
             second_path:
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/workos
           - item:
             name: World Liberty Financial Inc (member)
             homepage_url: https://worldlibertyfinancial.com/
