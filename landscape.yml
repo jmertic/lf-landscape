@@ -629,6 +629,28 @@ landscape:
                 project_org: https://github.com/agstack
             additional_repos: []
           - item:
+            name: AI Evaluation Framework
+            homepage_url: https://github.com/finos-labs/ai-evals-framework
+            logo: ai_evaluation_framework.svg
+            description: develop a common, open, and transparent evaluation suite for Generative AI in financial services that bridges the AI trust gap by transitioning from model-level scoring to continuous, system-level AgentOps evaluations, mapping real-world financial use cases directly to material risks, regulatory requirements, and measurable metrics
+            second_path:
+              - Project Group / FINOS (The Fintech Open Source Foundation)
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/finos-labs/ai-evals-framework
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-08-26'
+              dev_stats_url: https://insights.linuxfoundation.org/project/ai-evaluation-framework
+              lfx_slug: ai-evaluation-framework
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ai-evaluation-framework
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfgbCoF16mXUQLTKyb
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/ai-evaluation-framework/ai-evaluation-framework_Charter.pdf?v=1787951062243
+          - item:
             name: AI Explainability 360
             homepage_url: https://ai-explainability-360.org/
             logo: ai_explainability_360.svg
@@ -12085,30 +12107,6 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkUb1QAF
           - item:
-            name: Let's Encrypt
-            homepage_url: https://letsencrypt.org/
-            logo: let_s_encrypt.svg
-            description: To enable HTTPS on your website, you need to get a certificate (a type of file) from a Certificate Authority (CA). Let’s Encrypt is a CA. In order to get a certificate for your website’s domain from Let’s Encrypt, you have to demonstrate control over the domain. With Let’s Encrypt, you do this using software that uses the ACME protocol which typically runs on your web host.
-            second_path:
-              - Project Group / Internet Security Research Group (ISRG)
-              - PMO Managed / All
-              - Industry / Cross-Industry
-              - Technology Sector / Privacy & Security
-            repo_url: https://github.com/letsencrypt/boulder
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2013-05-24'
-              dev_stats_url: https://insights.linuxfoundation.org/project/lets-encrypt
-              lfx_slug: lets-encrypt
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/lets-encrypt
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4I6QAL
-              annotations:
-                project_org: https://github.com/letsencrypt
-            additional_repos: []
-          - item:
             name: LF AI & Data
             homepage_url: https://lfaidata.foundation/
             logo: lf_ai_data.svg
@@ -18925,26 +18923,6 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWedNQAT
               linkedin_url: https://www.linkedin.com/company/presto-foundation/
           - item:
-            name: Prio
-            homepage_url: https://www.abetterinternet.org/prio/
-            logo: prio.svg
-            description: Prio is a privacy-respecting system for the collection of aggregate statistics such as application metrics.Applications such as web browsers, mobile applications, or websites generate data. Normally they would just send all of the data back to the application developer, but Prio applications split the data into two anonymized and encrypted shares and upload each share to different data share processors that do not share data with each other. This way only minimal information about the original data is revealed to either processor. Each processor then aggregates its data shares into a partial sum. The partial sums can then be combined into a final aggregation, permitting useful statistics over the whole body of data while revealing minimal information about individual participants.
-            second_path:
-              - Project Group / Internet Security Research Group (ISRG)
-              - Industry / Cross-Industry
-              - Technology Sector / Privacy & Security
-            repo_url: https://github.com/abetterinternet/prio-server
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2020-11-18'
-              dev_stats_url: https://insights.linuxfoundation.org/project/prio
-              lfx_slug: prio
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/prio
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkUQjQAN
-          - item:
             name: Product Control Common Template
             homepage_url: https://gitlab.com/finosfoundation/legend/financial-objects/product-control-common-template
             logo: product_control_common_template.svg
@@ -19945,6 +19923,29 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NW8mNQAT
               linkedin_url: https://www.linkedin.com/company/risc-v-software-ecosystem-rise/
+          - item:
+            name: Risk Navigator
+            homepage_url: https://risknav.osera.finos.org/
+            logo: risk_navigator.svg
+            description: Risk Navigator turns vulnerability intelligence and dependency inventory into an interactive decision surface for remediation planning, backpatch candidates, amplifier upgrades, and OpenRewrite-ready upgrade bundles.
+            second_path:
+              - Project Group / OSERA
+              - Technology Sector / Privacy & Security
+              - Technology Sector / Open Source & Compliance Best Practices
+            repo_url: https://github.com/finos-osera/risk-navigator
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-08-26'
+              dev_stats_url: https://insights.linuxfoundation.org/project/risk-navigator
+              lfx_slug: risk-navigator
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/risk-navigator
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf0RvprJ5yoSL21tMi
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/risk-navigator/risk-navigator_Charter.pdf?v=1787950663197
           - item:
             name: Risk Working Group
             homepage_url: https://chaoss.community/
@@ -33584,10 +33585,10 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/herodevs/
           - item:
-            name: Hewlett Packard Enterprise Development LP (member)
+            name: Hewlett Packard Enterprise (member)
             homepage_url: https://hpe.com/
-            logo: hewlett_packard_enterprise_development_lp.svg
-            description: Hewlett Packard Enterprise Development LP provides information technology solutions. The company is based in Houston, Texas.
+            logo: hewlett_packard_enterprise.svg
+            description: Hewlett Packard Enterprise provides information technology solutions. The company is based in Houston, Texas.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -38122,7 +38123,6 @@ landscape:
 
               OVH, Innovation for Freedom.
             second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / Ceph Foundation
               - Project Membership / Linux Foundation Europe
