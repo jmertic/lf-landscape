@@ -16940,10 +16940,11 @@ landscape:
                   url: https://github.com/AcademySoftwareFoundation/foundation/blob/main/project_charters/open-shading-language_charter.md
           - item:
             name: OpenSharing
-            homepage_url: https://github.com/opensharing-io
+            homepage_url: https://opensharing.io/
             logo: opensharing.svg
             description: develop an open protocol for sharing AI assets, enabling organizations to exchange Agent Skills and AI models across platforms.
             second_path:
+              - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
             repo_url: https://github.com/OpenSharing-IO/OpenSharing
             license: Apache-2.0
@@ -18486,6 +18487,25 @@ landscape:
               - repo_url: https://github.com/binpash/dish
               - repo_url: https://github.com/binpash/shasta
               - repo_url: https://github.com/binpash/annotations
+          - item:
+            name: PDP-Connect
+            homepage_url: https://github.com/PDP-Connect/pdpp
+            logo: pdp_connect.svg
+            description: The mission of the project is to build an open standard and reference implementation for personal data portability.
+            second_path:
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/PDP-Connect/pdpp
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-08-20'
+              dev_stats_url: https://insights.linuxfoundation.org/project/pdp-connect
+              lfx_slug: pdp-connect
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/pdp-connect
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfnqZbRlifraioWLjp
           - item:
             name: Perses
             homepage_url: https://perses.dev/
@@ -24152,6 +24172,25 @@ landscape:
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/veraison/veraison_Charter.pdf?v=1765227760746
           - item:
+            name: Verii
+            homepage_url: https://github.com/velocitycareerlabs/velocitycore
+            logo: verii.svg
+            description: develop a decentralized software stack supporting the creation, issuance, and verification of verifiable credentials in open ecosystems
+            second_path:
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/velocitycareerlabs/velocitycore
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-08-31'
+              dev_stats_url: https://insights.linuxfoundation.org/project/verii
+              lfx_slug: verii
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/verii
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfODO3JpOqrrAImj7M
+          - item:
             name: Virtual Function Controller (VFC)
             homepage_url: https://wiki.onap.org/x/Pplk
             logo: virtual_function_controller_vfc.svg
@@ -24785,9 +24824,9 @@ landscape:
               annotations:
                 project_org: https://github.com/webpack
             additional_repos:
+              - repo_url: https://github.com/webpack/webpack-cli
               - repo_url: https://github.com/webpack/webpack-dev-server
               - repo_url: https://github.com/webpack/webpack.js.org
-              - repo_url: https://github.com/webpack/webpack-cli
           - item:
             name: werf
             homepage_url: https://werf.io/
@@ -26496,6 +26535,13 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/agent-field
           - item:
+            name: Agentic Data Intelligence SA (member)
+            homepage_url: https://agentic-data.com/
+            logo: agentic_data_intelligence_sa.svg
+            description: Agentic Data Intelligence specializes in providing AI agents that streamline the process of building data pipelines and analytics solutions, enabling teams to efficiently prototype and implement data engineering projects without the necessity of a larg...
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: AgileBits Inc. dba 1Password (member)
             homepage_url: https://1password.com/
             logo: agilebits_inc.svg
@@ -26769,6 +26815,13 @@ landscape:
             twitter: https://twitter.com/alifsemi
             extra:
               linkedin_url: https://www.linkedin.com/company/alif-semiconductor
+          - item:
+            name: Allbesmart (member)
+            homepage_url: https://allbesmart.pt/
+            logo: allbesmart.svg
+            description: Allbesmart is an engineering company that specializes in wireless connectivity, IoT, and 5G R&D services for various industries.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: AlloIA (member)
             homepage_url: https://alloia.ai/
@@ -27251,16 +27304,6 @@ landscape:
               - Project Membership / Linux Foundation Europe
             extra:
               linkedin_url: https://www.linkedin.com/company/ape-factory-gmbh
-          - item:
-            name: Apideck (member)
-            homepage_url: https://apideck.com/
-            logo: apideck.svg
-            description: Apideck redefines API integration, enabling developers to build integrations 100 times faster through a single API.
-            second_path:
-              - Project Membership / OpenAPI Initiative
-              - Project Membership / The Linux Foundation
-            extra:
-              linkedin_url: https://www.linkedin.com/company/apideck
           - item:
             name: Apify (member)
             homepage_url: https://apify.com/
@@ -27819,6 +27862,7 @@ landscape:
             logo: authplane.svg
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / FinOps Foundation
           - item:
             name: Authzed (member)
             homepage_url: https://authzed.com/
@@ -29146,6 +29190,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/celestica
           - item:
+            name: centron (member)
+            homepage_url: https://centron.de/
+            logo: centron.svg
+            description: 'centron: Leading provider of secure & scalable cloud solutions in Germany, offering GDPR-compliant managed hosting, servers, and cloud services for future-oriented businesses.'
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/centron-3fff
+          - item:
             name: Cequence (member)
             homepage_url: https://cequence.ai/
             logo: cequence.svg
@@ -29899,6 +29952,15 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / FinOps Foundation
           - item:
+            name: cloudpunks GmbH (member)
+            homepage_url: https://cloudpunks.de/
+            logo: cloudpunks_gmbh.svg
+            description: Cloudpunks provides Public Cloud, Container Orchestration, and Kubernetes solutions with services like Cloud Roadmap, Architecture, and CI/CD Pipelines for seamless digital transformation.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/cloudpunks
+          - item:
             name: cloudscale.ch AG (member)
             homepage_url: https://cloudscale.ch/
             logo: cloudscale.svg
@@ -30043,6 +30105,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+              - Project Membership / FinOps Foundation
             crunchbase: https://www.crunchbase.com/organization/coder
             twitter: https://twitter.com/coderhq
             extra:
@@ -30505,6 +30568,13 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/crusoe-energy-systems
+          - item:
+            name: Crystil (member)
+            homepage_url: https://crystil.com/
+            logo: crystil.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / FinOps Foundation
           - item:
             name: CTO2B (member)
             homepage_url: https://cto2b.io/
@@ -31490,6 +31560,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/duckbillgroup
           - item:
+            name: Dynamia AI (member)
+            homepage_url: https://dynamia.ai/
+            logo: dynamia_ai.svg
+            description: Dynamia AI offers an enterprise-grade GPU virtualization and resource management platform designed to seamlessly accelerate AI, high-performance computing (HPC), and edge workloads.
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+          - item:
             name: Dynatrace LLC (member)
             homepage_url: https://dynatrace.com/
             logo: dynatrace_llc.svg
@@ -32100,6 +32178,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/equinix
           - item:
+            name: Eridan (member)
+            homepage_url: https://eridan.io/
+            logo: eridan.svg
+            description: Eridan Communications, founded in 2013 by three engineering PhDs, is a rapidly growing startup that builds software-defined radios for 5G and beyond. Their revolutionary gallium nitride architecture, particularly the MIRACLE module, provides increased ...
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Eridu AI (member)
             homepage_url: https://eridu.ai/
             logo: eridu_ai.svg
@@ -32432,6 +32517,13 @@ landscape:
             twitter: https://twitter.com/Fidelity
             extra:
               linkedin_url: https://www.linkedin.com/company/fidelity-charitable
+          - item:
+            name: Figma Inc (member)
+            homepage_url: https://figma.com/
+            logo: figma_inc.svg
+            description: Figma provides a collaborative web application for interface design that enables users to seamlessly design, prototype, and gather feedback in real time, while also offering additional offline capabilities through desktop applications for macOS and Win...
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Finomix (member)
             homepage_url: https://finomics.ai/
@@ -33260,6 +33352,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/oppo
           - item:
+            name: Guickly (member)
+            homepage_url: https://guickly.com/
+            logo: guickly.svg
+            description: Guickly is the AI measurement layer for enterprises. See every AI tool, user and dollar in one dashboard, then govern and optimize AI spend. Book a demo.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / FinOps Foundation
+          - item:
             name: Guida (member)
             homepage_url: https://guida.nl/
             logo: guida.svg
@@ -33594,6 +33694,7 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / TODO Group
               - Project Membership / Confidential Computing Consortium (CCC)
+              - Project Membership / FinOps Foundation
               - Project Membership / SONiC Fund
               - Project Membership / Ultra Ethernet Consortium Fund
               - Project Membership / Post-Quantum Cryptography Alliance
@@ -34035,6 +34136,15 @@ landscape:
             twitter: https://twitter.com/iitsconsulting
             extra:
               linkedin_url: https://www.linkedin.com/company/iitsconsulting
+          - item:
+            name: ilert GmbH (member)
+            homepage_url: https://ilert.com/
+            logo: ilert_gmbh.svg
+            description: ilert is a SaaS company specializing in DevOps alerting, incident response, on-call management, and uptime monitoring. Their platform offers a seamless integration with various tools and is trusted by global B2C and B2B companies like Bertelsmann, Team...
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/ilert-f979
           - item:
             name: ILKI FRANCE (member)
             homepage_url: https://ilki.fr/
@@ -35275,6 +35385,7 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / FINOS (The Fintech Open Source Foundation)
               - Project Membership / FinOps Foundation
+              - Project Membership / App Defense Alliance Fund
             crunchbase: https://www.crunchbase.com/organization/kpmg
             twitter: https://twitter.com/KPMG
             extra:
@@ -35434,6 +35545,14 @@ landscape:
             description: https://lancedb.com/ provides a multimodal vector database designed to support rapid development of retrieval-augmented generation (RAG), agents, and hybrid search engines, enabling efficient management of diverse AI data and workloads.
             second_path:
               - Project Membership / The Linux Foundation
+          - item:
+            name: Landis+Gyr (member)
+            homepage_url: https://landisgyr.com/
+            logo: landis_gyr.svg
+            description: Landis+Gyr is the premier global provider of smart metering solutions, empowering utilities and consumers with data to improve energy efficiency and sustainability.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / LF Energy (LFE)
           - item:
             name: Langdock (member)
             homepage_url: https://langdock.com/
@@ -35718,6 +35837,14 @@ landscape:
             twitter: https://twitter.com/Reply_UK
             extra:
               linkedin_url: https://www.linkedin.com/company/reply
+          - item:
+            name: LLC Ante Mediam (member)
+            homepage_url: https://datapark.ua/
+            logo: llc_ante_mediam.svg
+            description: 'Datapark: Leading commercial datacenter in Ukraine with TIER III certification, providing secure and efficient server hosting and cloud services.'
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
           - item:
             name: Lloyds Banking Group (member)
             homepage_url: https://lloydsbankinggroup.com/
@@ -36874,6 +37001,14 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
           - item:
+            name: mydecisive.ai (member)
+            homepage_url: https://mydecisive.ai/
+            logo: mydecisive.svg
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/mydecisive
+          - item:
             name: MyFitnessPal LLC (member)
             homepage_url: https://myfitnesspal.com/
             logo: myfitnesspal_llc.svg
@@ -36899,6 +37034,12 @@ landscape:
             homepage_url: https://naaia.ai/
             logo: naaia.svg
             description: naaia is the leading AIMS® solution in Europe, providing governance and management of AI systems with a strong focus on ethics and compliance. Their platform ensures that AI systems are organized, purposeful, and optimized for business performance, add...
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
+            name: Naftiko (member)
+            homepage_url: https://naftiko.io/
+            logo: naftiko.svg
             second_path:
               - Project Membership / The Linux Foundation
           - item:
@@ -36931,6 +37072,13 @@ landscape:
             twitter: https://twitter.com/NatWest_Help
             extra:
               linkedin_url: https://www.linkedin.com/company/natwest
+          - item:
+            name: Nawi (member)
+            homepage_url: https://nawi.ke/
+            logo: nawi.svg
+            description: Nawi develops digital solutions that empower governments and partners to leverage data and technology for enhancing public health and broader public sector systems, emphasizing accountability and purpose-driven initiatives.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: NEAR (member)
             homepage_url: https://near.ai/
@@ -38123,6 +38271,7 @@ landscape:
 
               OVH, Innovation for Freedom.
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / Ceph Foundation
               - Project Membership / Linux Foundation Europe
@@ -38213,6 +38362,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/pantheon-systems-inc
           - item:
+            name: Paper Compute Co (member)
+            homepage_url: https://papercompute.com/
+            logo: paper_compute_co.svg
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/paper-compute-company
+          - item:
             name: Parallel Wireless (member)
             homepage_url: https://parallelwireless.com/
             logo: parallel_wireless.svg
@@ -38245,6 +38402,14 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/partior
             extra:
               linkedin_url: https://www.linkedin.com/company/partior
+          - item:
+            name: PatapscoAI (member)
+            homepage_url: https://patapsco.ai/
+            logo: patapscoai.svg
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/patapsco-ai
           - item:
             name: Pelotech (member)
             homepage_url: https://pelo.tech/
@@ -38509,7 +38674,7 @@ landscape:
             name: Platform Engineering Labs (member)
             homepage_url: https://platform.engineering/
             logo: platform_engineering_labs.svg
-            description: Full IaC. No drift. Minimal blast radius. AI at any scale. All in code. Full control.
+            description: 'Platform Engineering Labs is rebooting the software delivery stack for humans and agents: formae for infrastructure, Orbital for packaging, the Hangar for the registry, and AppShuttle for delivery.'
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -39285,6 +39450,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+              - Project Membership / FINOS (The Fintech Open Source Foundation)
             crunchbase: https://www.crunchbase.com/organization/rapidfort
             twitter: https://twitter.com/RapidFortInc
             extra:
@@ -39499,14 +39665,6 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
           - item:
-            name: Relvy AI Labs, Inc. (member)
-            homepage_url: https://relvy.ai/
-            logo: relvy_ai_labs_inc.svg
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/relvy-ai
-          - item:
             name: Renault (member)
             homepage_url: https://renault.com/
             logo: renault.svg
@@ -39687,6 +39845,7 @@ landscape:
             name: rocketride.ai (member)
             homepage_url: https://rocketride.ai/
             logo: rocketride.svg
+            description: The AI runtime for pro developers who care about craftsmanship. The only AI meta-harness built on a C++ runtime designed for pro developers to build, run, and scale AI apps with zero infrastructure to manage.
             second_path:
               - Project Membership / The Linux Foundation
           - item:
@@ -39738,19 +39897,6 @@ landscape:
             twitter: https://twitter.com/rootlyhq
             extra:
               linkedin_url: https://www.linkedin.com/company/rootlyhq
-          - item:
-            name: RSM Collective (member)
-            homepage_url: https://rsmc.ai/
-            logo: rsm_collective.svg
-            description: |-
-              RSM Collective is a community of consultants, technology vendors, and system integrators committed to transforming the employee, patient, civic and client experience.
-
-              Rooted in diverse backgrounds, perspectives, and lived experiences, we bring a unique ability to create what others might not even imagine.
-
-              We are looking to democratize the use of AI and enterprise software with open source code and consulting.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / FinOps Foundation
           - item:
             name: RTE (Reseau de Transport dElectricite) (member)
             homepage_url: https://rte-france.com/
@@ -41623,15 +41769,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/sva-system-vertrieb-alexander-gmbh
           - item:
-            name: Sweet Security (member)
-            homepage_url: https://sweet.security/
-            logo: sweet_security.svg
-            description: Sweet is a cloud runtime security suite that focuses on critical cloud risks and provides pivotal insights to enhance operations.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/sweet-security
-          - item:
             name: Swisscom (member)
             homepage_url: https://swisscom.com/
             logo: swisscom.svg
@@ -42095,15 +42232,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/tennet-tso-bv
           - item:
-            name: Tensor9 (member)
-            homepage_url: https://tensor9.com/
-            logo: tensor9.svg
-            description: Tensor9 enables servers to use sensitive data without seeing it, eliminating the need to secure servers against data leaks. It works with health data, financial data, identities, location history, credentials, and more. The company ensures fast SOC2, I...
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/tensor9
-          - item:
             name: Tensormesh, Inc. (member)
             homepage_url: https://tensormesh.ai/
             logo: tensormesh_inc.svg
@@ -42314,6 +42442,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+              - Project Membership / FinOps Foundation
               - Project Membership / Ultra Ethernet Consortium Fund
             crunchbase: https://www.crunchbase.com/organization/vultr-holdings-llc
             twitter: https://twitter.com/Vultr
@@ -42519,6 +42648,13 @@ landscape:
             twitter: https://twitter.com/TomTom
             extra:
               linkedin_url: https://www.linkedin.com/company/tomtom
+          - item:
+            name: Toradex AG (member)
+            homepage_url: https://torzon.io/
+            logo: toradex_ag.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Yocto Project Fund
           - item:
             name: Trace3 (member)
             homepage_url: https://trace3.com/
@@ -43318,6 +43454,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/verizon
           - item:
+            name: Vertebrae (member)
+            homepage_url: https://vertebrae.ai/
+            logo: vertebrae.svg
+            description: Vertebrae offers a privacy-focused AI notetaking solution for meetings and phone calls, providing end-to-end encryption and on-device transcription to ensure that all participants receive accurate notes while maintaining confidentiality.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Confidential Computing Consortium (CCC)
+          - item:
             name: Very Good Ventures (member)
             homepage_url: https://verygood.ventures/
             logo: very_good_ventures.svg
@@ -44109,6 +44253,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/wherobots
           - item:
+            name: White Point (member)
+            homepage_url: https://whitepoint.co.jp/
+            logo: white_point.svg
+            description: White Point specializes in providing advanced data storage solutions, including software and cloud services for data recovery, data erasure, and data preservation, aimed at protecting personal and corporate data while contributing to society through di...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Confidential Computing Consortium (CCC)
+          - item:
             name: Whitestack LLC (member)
             homepage_url: https://whitestack.com/
             logo: whitestack_llc.svg
@@ -44176,6 +44328,50 @@ landscape:
             twitter: https://twitter.com/Wipro
             extra:
               linkedin_url: https://www.linkedin.com/company/appirio
+          - item:
+            name: Witekio Holding (member)
+            homepage_url: https://witekio.com/
+            logo: witekio_holding.svg
+            description: |-
+              Engineering Offices
+               	  
+              Lyon - France
+              Headquarters
+              2 chemin du Ruisseau - 69134 Ecully
+              Office. +33 4 26 49 25 39
+              Fax.+33 4 82 53 18 55
+              sales.emea@adeneo-embedded.com
+               
+              Paris - France
+              Subsidiary
+              3 rue Galvani - 91300 Massy
+              Office. +33 1 73 54 10 10
+              sales.emea@adeneo-embedded.com
+               
+              Seattle, WA - USA
+              Subsidiary
+              3150 Richards Road, Suite 210 - Bellevue, WA 98005
+              Office. +1 425 749-4335
+              Fax. +1 425 818-1911
+              sales.amer@adeneo-embedded.com
+               
+               	  	  
+              Administrative Info
+              EMEA
+              Val��_rie Cote, Executive Assistant
+              Phone: +33 4 26 49 25 39
+              Language: French, English
+
+              AMER / APAC
+              Kathleen Wright, Office Manager
+              Phone: +1 425 749-4335
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Zephyr Project
+            crunchbase: https://www.crunchbase.com/organization/witekio
+            twitter: https://twitter.com/Witekio_int
+            extra:
+              linkedin_url: https://www.linkedin.com/company/witekio
           - item:
             name: Wiv.ai (member)
             homepage_url: https://wiv.ai/
@@ -44273,6 +44469,7 @@ landscape:
             logo: workos.svg
             description: WorkOS offers developer APIs and SDKs for enterprise-ready features like SSO, Directory Sync, and Audit Trail, enabling quick integration for selling to enterprise customers.
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/workos
           - item:
@@ -44689,6 +44886,7 @@ landscape:
             logo: zhanwang.svg
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / SONiC Fund
               - Project Membership / Ultra Ethernet Consortium Fund
           - item:
             name: Ziax (member)
@@ -45129,6 +45327,12 @@ landscape:
             homepage_url: https://apsp.com/
             logo: a_p_s.svg
             description: The Italian Association of Payment Service Providers was born with the aim of promoting the development, information and knowledge of electronic money and more generally of all payment service providers, promoting the cultural activity connected to them. through round tables, conventions and conferences.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
+            name: ArchBits (member)
+            homepage_url: https://archbits.org/
+            logo: archbits.svg
             second_path:
               - Project Membership / The Linux Foundation
           - item:
@@ -46854,6 +47058,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/universidade-federal-de-campina-grande
           - item:
+            name: Federated Telecoms Hub (FTH) University of Cambridge (member)
+            homepage_url: https://federated-telecoms-hubs.com/
+            logo: federated_telecoms_hub_fth_university_of_cambridge.svg
+            description: FTH serves as a university-led nationwide hub that catalyzes telecoms innovation by developing a seamless, open, and fully integrated 'network of networks' to facilitate connections between terrestrial and non-terrestrial networks, while also providing...
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Feynman Foundation (member)
             homepage_url: https://feynmanfoundation.org/
             logo: feynman_foundation.svg
@@ -48392,6 +48603,14 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
           - item:
+            name: Magic Newton Foundation (member)
+            homepage_url: https://newt.foundation/
+            logo: magic_newton_foundation.svg
+            description: Decentralized policy protocol for programmable compliance and the agentic economy
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / FINOS (The Fintech Open Source Foundation)
+          - item:
             name: Maine bureau of Insurance (member)
             homepage_url: https://maine.gov/
             logo: maine_bureau_of_insurance.svg
@@ -48492,6 +48711,13 @@ landscape:
             twitter: https://twitter.com/MEF_Forum
             extra:
               linkedin_url: https://www.linkedin.com/company/mef-forum
+          - item:
+            name: Merchant Advisory Group (member)
+            homepage_url: https://merchantadvisorygroup.org/
+            logo: merchant_advisory_group.svg
+            description: Merchant Advisory Group focuses on serving merchants by providing collaboration, education, and advocacy to help them navigate the complexities of payment systems and ensure they are well-informed about their payment options.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Messiah University (member)
             homepage_url: https://messiah.edu/
@@ -48912,6 +49138,7 @@ landscape:
               - Project Membership / Automotive Grade Linux (AGL)
               - Project Membership / The Linux Foundation
               - Project Membership / LF AI & Data
+              - Project Membership / FinOps Foundation
             crunchbase: https://www.crunchbase.com/organization/new-york-university
             twitter: https://twitter.com/nyuniversity
             extra:
@@ -50767,6 +50994,17 @@ landscape:
               - Project Membership / The Linux Foundation
             extra:
               linkedin_url: https://www.linkedin.com/company/swathanthra-malayalam-computing
+          - item:
+            name: Swedish Public Employment Service (member)
+            homepage_url: https://arbetsformedlingen.se/
+            logo: swedish_public_employment_service.svg
+            description: "Arbetsförmedlingen.se: Sweden's largest job mediator, connecting job seekers with employers efficiently and free of charge. Over 10,000 employees work to support job seekers and employers nationwide."
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/arbetsfrmedlingen
+            extra:
+              linkedin_url: https://www.linkedin.com/company/arbetsformedlingen
           - item:
             name: SWITCH (member)
             homepage_url: https://switch.ch/
