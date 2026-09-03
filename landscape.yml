@@ -1060,28 +1060,6 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfgf6f6fGv9taEm2zp
           - item:
-            name: Amundsen
-            homepage_url: https://www.amundsen.io/
-            logo: amundsen.svg
-            description: Amundsen is a data discovery and metadata engine for improving the productivity of data analysts, data scientists and engineers when interacting with data. Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
-            second_path:
-              - Project Group / LF AI & Data
-              - Industry / Cross-Industry
-              - Technology Sector / AI, ML, Data & Analytics
-            license: Apache-2.0
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2020-08-10'
-              dev_stats_url: https://insights.linuxfoundation.org/project/Amundsen
-              lfx_slug: Amundsen
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/Amundsen
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkNE7QAN
-                - name: Charter
-                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/amundsen%20technical%20charter_08.10.20.pdf
-          - item:
             name: Angel
             homepage_url: https://angelml.ai/
             logo: angel.svg
@@ -8900,32 +8878,6 @@ landscape:
                 - name: Charter
                   url: https://fd.io/docs/tsc/FD.IO-Project-a-Series-of-LF-Projects-LLC-Technical-Charter-12-13-2017-FINAL.pdf
           - item:
-            name: Horovod
-            homepage_url: https://horovod.ai/
-            logo: horovod.svg
-            description: Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
-            second_path:
-              - Project Group / LF AI & Data
-              - Industry / Cross-Industry
-              - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/horovod/horovod
-            license: Apache-2.0
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2018-12-21'
-              dev_stats_url: https://insights.linuxfoundation.org/project/horovod
-              lfx_slug: horovod
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/horovod
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4IaQAL
-                - name: Charter
-                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/horovod%20technical%20charter_12.22.18.pdf
-              annotations:
-                project_org: https://github.com/horovod
-            additional_repos: []
-          - item:
             name: HospitalRun
             homepage_url: https://hospitalrun.io/
             logo: hospitalrun.svg
@@ -13013,27 +12965,6 @@ landscape:
               annotations:
                 project_org: https://github.com/luraproject
             additional_repos: []
-          - item:
-            name: Machine Learning eXchange (MLX)
-            homepage_url: https://ml-exchange.org/
-            logo: machine_learning_exchange_mlx.svg
-            description: The mission of the Project is to design and implement an open source Data and AI Assets Catalog and Execution Engine that allows the uploading, registration, execution, and deployment of AI pipelines and pipeline components, models, datasets and notebooks.
-            second_path:
-              - Project Group / LF AI & Data
-              - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/machine-learning-exchange/mlx
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2021-06-23'
-              dev_stats_url: https://insights.linuxfoundation.org/project/mlx
-              lfx_slug: mlx
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/mlx
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWrcMQAT
-                - name: Charter
-                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/machine%20learning%20exchange%20project%20technical%20charter_06.23.21.pdf
           - item:
             name: Magma
             homepage_url: https://magmacore.dev/
@@ -19311,6 +19242,28 @@ landscape:
               - repo_url: https://github.com/radius-project/community
               - repo_url: https://github.com/radius-project/samples
               - repo_url: https://github.com/radius-project/recipes
+          - item:
+            name: Ramble
+            homepage_url: https://ramble.readthedocs.io/en/latest/
+            logo: ramble.svg
+            description: Ramble stands for "Reproducible And Measurable Benchmarks in a Layered Environment". Ramble is an experimentation framework written in python, focused on the capture of provenance information and increasing an experiment's reproducibility. It allows users to rapidly create, execute, analyze, and manage a large set of computational experiments. Ramble's functionality can be used to construct test suites, parameter studies, performance tuning explorations, and acceptance suites.
+            second_path:
+              - Project Group / High Performance Software Foundation (HPSF)
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/Ramble-Project/ramble
+            license: Other
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-08-19'
+              dev_stats_url: https://insights.linuxfoundation.org/project/ramble
+              lfx_slug: ramble
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ramble
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfWG8GZ4g0nejF55Mo
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/ramble/ramble_Charter.pdf?v=1787250743234
           - item:
             name: RareCamp Foundation
             homepage_url: https://rarecamp.org/
@@ -26216,6 +26169,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/addresscloud
           - item:
+            name: Adelean (member)
+            homepage_url: https://adelean.com/
+            logo: adelean.svg
+            description: Adelean is a leading technology company specializing in search, nosql, and big data integration. They deliver innovative solutions for various industries with a focus on effective enterprise systems.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Ad-ID (member)
             homepage_url: https://ad-id.org/
             logo: ad_id.svg
@@ -27078,6 +27038,14 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/amoniac-ou
+          - item:
+            name: amotivv, inc. (member)
+            homepage_url: https://amotivv.com/
+            logo: amotivv_inc.svg
+            description: amotivv, inc. is a public benefit FinTech company that offers financial products and solutions to facilitate transparent and accessible philanthropy. Their innovative approach integrates giving into every transaction, empowering everyday philanthropist...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Confidential Computing Consortium (CCC)
           - item:
             name: Ampere Computing (member)
             homepage_url: https://amperecomputing.com/
@@ -37039,6 +37007,14 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
           - item:
+            name: NADDOD (member)
+            homepage_url: https://naddod.com/
+            logo: naddod.svg
+            description: NADDOD specializes in providing innovative optical networking solutions tailored for high-performance computing, data centers, telecommunications, and artificial intelligence applications, while also being recognized as an NVIDIA Elite Partner in netwo...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / SONiC Fund
+          - item:
             name: Naftiko (member)
             homepage_url: https://naftiko.io/
             logo: naftiko.svg
@@ -40810,6 +40786,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/smartdv-technologies
           - item:
+            name: Smart Energy Water (member)
+            homepage_url: https://sew.ai/
+            logo: smart_energy_water.svg
+            description: Smart Energy Water (SEW) is a top provider of cloud-based solutions for energy, water, and gas providers, focusing on Digital Customer Experience, Workforce Engagement, and AI/ML/IoT Analytics to empower users to save energy and water.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Smarty (member)
             homepage_url: https://smarty.com/
             logo: smarty.svg
@@ -44329,50 +44312,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/appirio
           - item:
-            name: Witekio Holding (member)
-            homepage_url: https://witekio.com/
-            logo: witekio_holding.svg
-            description: |-
-              Engineering Offices
-               	  
-              Lyon - France
-              Headquarters
-              2 chemin du Ruisseau - 69134 Ecully
-              Office. +33 4 26 49 25 39
-              Fax.+33 4 82 53 18 55
-              sales.emea@adeneo-embedded.com
-               
-              Paris - France
-              Subsidiary
-              3 rue Galvani - 91300 Massy
-              Office. +33 1 73 54 10 10
-              sales.emea@adeneo-embedded.com
-               
-              Seattle, WA - USA
-              Subsidiary
-              3150 Richards Road, Suite 210 - Bellevue, WA 98005
-              Office. +1 425 749-4335
-              Fax. +1 425 818-1911
-              sales.amer@adeneo-embedded.com
-               
-               	  	  
-              Administrative Info
-              EMEA
-              Val��_rie Cote, Executive Assistant
-              Phone: +33 4 26 49 25 39
-              Language: French, English
-
-              AMER / APAC
-              Kathleen Wright, Office Manager
-              Phone: +1 425 749-4335
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Zephyr Project
-            crunchbase: https://www.crunchbase.com/organization/witekio
-            twitter: https://twitter.com/Witekio_int
-            extra:
-              linkedin_url: https://www.linkedin.com/company/witekio
-          - item:
             name: Wiv.ai (member)
             homepage_url: https://wiv.ai/
             logo: wiv.svg
@@ -45367,6 +45306,13 @@ landscape:
             twitter: https://twitter.com/ASU
             extra:
               linkedin_url: https://www.linkedin.com/company/arizona-state-university
+          - item:
+            name: Asia Pacific College (member)
+            homepage_url: https://apc.edu.ph/
+            logo: asia_pacific_college.svg
+            description: Asia Pacific College is dedicated to providing a world-class education with a strong foundation in information technology and various fields such as commerce, engineering, and multimedia arts, emphasizing immersive learning experiences through industry...
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Asociación Colombiana de Informática Sistemas y Tecnologías Afines (member)
             homepage_url: https://acis.org.co/
