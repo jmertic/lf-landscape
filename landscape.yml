@@ -1957,6 +1957,7 @@ landscape:
             second_path:
               - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/bitol-io/open-data-contract-standard
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -1970,6 +1971,11 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfSO5wG5Bz3cuH23xA
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/Bitol%20Technical%20Charter%20Draft%2011-30-2023.docx.pdf
+              annotations:
+                project_org: https://github.com/bitol-io
+              linkedin_url: https://www.linkedin.com/company/bitol-io/
+            additional_repos:
+              - repo_url: https://github.com/bitol-io/open-data-product-standard
           - item:
             name: Blockhound
             homepage_url: https://github.com/reactor/BlockHound
@@ -5182,6 +5188,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWjR9QAL
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/master/technical%20project%20charters/datashim%20technical%20charter_03.08.21.pdf
+              annotations:
+                project_org: https://github.com/datashim-io
+            additional_repos: []
           - item:
             name: DCache
             homepage_url: https://tarscloud.org/
@@ -5277,6 +5286,7 @@ landscape:
             second_path:
               - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/deepcausality-rs/deep_causality
             license: MIT
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -5290,6 +5300,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf8hRlLMO0Sqh2V746
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/DeepCausality%20Technical%20Charter%208-29-2023.pdf
+              annotations:
+                project_org: https://github.com/deepcausality-rs
+            additional_repos: []
           - item:
             name: DeepRec
             homepage_url: https://github.com/DeepRec-AI
@@ -5398,6 +5411,7 @@ landscape:
               - PMO Managed / All
               - Industry / Cross-Industry
               - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/delta-io/delta
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/DeltaLakeOSS
@@ -5413,7 +5427,10 @@ landscape:
                 - name: Charter
                   url: https://delta.io/pdfs/delta-charter.pdf
               youtube_url: https://www.youtube.com/c/deltalake
+              annotations:
+                project_org: https://github.com/delta-io
               linkedin_url: https://www.linkedin.com/company/deltalake/
+            additional_repos: []
           - item:
             name: Developer Relations Foundation
             homepage_url: https://dev-rel.org/
@@ -5822,6 +5839,7 @@ landscape:
             second_path:
               - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/intelligent-machine-learning/dlrover
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -5898,6 +5916,13 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfrViYCbiegngDNba1
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/DocLing%20Technical%20Charter%20Final%203-14-2025.docx.pdf
+              annotations:
+                project_org: https://github.com/docling-project
+            additional_repos:
+              - repo_url: https://github.com/docling-project/docling-serve
+              - repo_url: https://github.com/docling-project/docling-core
+              - repo_url: https://github.com/docling-project/community
+              - repo_url: https://github.com/docling-project/docling-workshops
           - item:
             name: Docling Graph
             homepage_url: https://github.com/IBM/docling-graph
@@ -6454,6 +6479,33 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/elisa-project
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWedEQAT
+          - item:
+            name: Elyra
+            homepage_url: https://elyra.readthedocs.io/
+            logo: elyra.svg
+            description: The mission of the Project is to create and maintain an open-source development workspace that simplifies the creation and orchestration of the AI model development lifecycle tasks.
+            second_path:
+              - Project Group / LF AI & Data
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/elyra-ai/elyra
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2022-11-02'
+              dev_stats_url: https://insights.linuxfoundation.org/project/elyra
+              lfx_slug: elyra
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/elyra
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L1HmsQAF
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/elyra/elyra_Charter.pdf?v=1747670634838
+              annotations:
+                project_org: https://github.com/elyra-ai
+            additional_repos:
+              - repo_url: https://github.com/elyra-ai/examples
+              - repo_url: https://github.com/elyra-ai/community
           - item:
             name: Embedded and Automotive PV Drivers
             homepage_url: https://xenproject.org/developers/teams/embedded-and-automotive/
@@ -7101,7 +7153,7 @@ landscape:
               - repo_url: https://github.com/fastlane/docs
           - item:
             name: FATE Project
-            homepage_url: https://fate.fedai.org/
+            homepage_url: https://fate.readthedocs.io/en/latest/
             logo: fate_project.svg
             description: FATE is an open-source project initiated by Webankâ€™s AI Department to provide a secure computing framework to support the federated AI ecosystem.
             second_path:
@@ -7123,6 +7175,14 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWqP7QAL
                 - name: Charter
                   url: https://github.com/FederatedAI/FATE-Community/blob/master/FATE_Project_Technical_Charter.pdf
+              annotations:
+                project_org: https://github.com/FederatedAI
+            additional_repos:
+              - repo_url: https://github.com/FederatedAI/FATE-LLM
+              - repo_url: https://github.com/FederatedAI/FATE-Flow
+              - repo_url: https://github.com/FederatedAI/FATE-Serving
+              - repo_url: https://github.com/FederatedAI/KubeFATE
+              - repo_url: https://github.com/FederatedAI/FATE-Community
           - item:
             name: FDC3
             homepage_url: https://fdc3.finos.org/
@@ -7230,6 +7290,14 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkTmZQAV
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/feast%20technical%20charter_10.05.20.pdf
+              annotations:
+                project_org: https://github.com/feast-dev
+            additional_repos:
+              - repo_url: https://github.com/feast-dev/feast-workshop
+              - repo_url: https://github.com/feast-dev/feast-aws-credit-scoring-tutorial
+              - repo_url: https://github.com/feast-dev/feast-gcp-driver-ranking-tutorial
+              - repo_url: https://github.com/feast-dev/feast-gcp-fraud-tutorial
+              - repo_url: https://github.com/feast-dev/feast-ci-repo-example
           - item:
             name: Feathr
             homepage_url: https://github.com/feathr-ai
@@ -7473,6 +7541,27 @@ landscape:
               - repo_url: https://github.com/finos/waltz
               - repo_url: https://github.com/finos/morphir
               - repo_url: https://github.com/finos/architecture-as-code
+          - item:
+            name: FlagAI
+            homepage_url: https://github.com/BAAI-Open
+            logo: flagai.svg
+            description: The mission of the Project is to develop a fast, easy-to-use and extensible toolkit for large-scale AI modeling, with the goal of supporting training, fine-tuning, and deployment of large-scale models on various downstream tasks with multi-modality.
+            second_path:
+              - Project Group / LF AI & Data
+              - Technology Sector / AI, ML, Data & Analytics
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2023-01-11'
+              dev_stats_url: https://insights.linuxfoundation.org/project/flagai
+              lfx_slug: flagai
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/flagai
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001Mq3v8QAB
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/FlagAI%20Contribution%20Agreement%2011-15-2022.docx.pdf
           - item:
             name: Flatcar
             homepage_url: https://github.com/flatcar
@@ -9677,7 +9766,6 @@ landscape:
             description: The IO Visor Project is an open source project and a community of developers to accelerate the innovation, development, and sharing of virtualized in-kernel IO services for tracing, analytics, monitoring, security and networking functions. It builds on the Linux community to bring open, flexible, distributed, secure and easy to operate technologies that enable any stack to run efficiently on any physical infrastructure.
             second_path:
               - Project Group / The Linux Foundation
-              - PMO Managed / All
               - Industry / Cross-Industry
               - Technology Sector / Networking & Edge
               - Technology Sector / System Engineering
@@ -9810,6 +9898,11 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfDgEQ8E2qHqSMZdI0
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/IREE%20Technical%20Charter%20Final%205-14-2024.docx.pdf
+              annotations:
+                project_org: https://github.com/iree-org
+            additional_repos:
+              - repo_url: https://github.com/iree-org/iree-turbine
+              - repo_url: https://github.com/iree-org/iree-test-suites
           - item:
             name: IronCore
             homepage_url: https://ironcore-dev.github.io/ironcore/
@@ -9984,7 +10077,10 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wBybAAE
                 - name: Charter
                   url: https://github.com/JanusGraph/legal/blob/master/JanusGraph_Project_Charter.pdf
+              annotations:
+                project_org: https://github.com/JanusGraph
               linkedin_url: https://www.linkedin.com/company/janusgraph
+            additional_repos: []
           - item:
             name: Java APIs for VPP (JVPP)
             homepage_url: https://wiki.fd.io/view/JVPP
@@ -11159,6 +11255,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KX0buQAD
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/kompute%20project%20technical%20charter_07.27.21.pdf
+              annotations:
+                project_org: https://github.com/KomputeProject
+            additional_repos: []
           - item:
             name: Konspekt
             homepage_url: https://github.com/finos-labs/konspekt
@@ -12879,6 +12978,7 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / AI, ML, Data & Analytics
             repo_url: https://github.com/ludwig-ai/ludwig
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2020-06-15'
@@ -12891,6 +12991,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkZVlQAN
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/ludwig%20technical%20charter_06.15.20.pdf
+              annotations:
+                project_org: https://github.com/ludwig-ai
+            additional_repos: []
           - item:
             name: Luigi
             homepage_url: https://luigi-project.io/
@@ -13146,8 +13249,10 @@ landscape:
               - Project Group / LF AI & Data
               - Industry / Cross-Industry
               - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/MarquezProject/marquez
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            twitter: https://twitter.com/MarquezProject
             extra:
               accepted: '2020-05-20'
               dev_stats_url: https://insights.linuxfoundation.org/project/Marquez
@@ -13159,6 +13264,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWrBqQAL
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/marquez%20technical%20charter_05.21.20.pdf
+              annotations:
+                project_org: https://github.com/MarquezProject
+            additional_repos: []
           - item:
             name: MaterialX
             homepage_url: https://www.materialx.org/
@@ -13446,6 +13554,7 @@ landscape:
             repo_url: https://github.com/milvus-io/milvus
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            twitter: https://twitter.com/milvusio
             extra:
               accepted: '2020-03-19'
               dev_stats_url: https://insights.linuxfoundation.org/project/lfai-milvus
@@ -13725,7 +13834,7 @@ landscape:
               - repo_url: https://github.com/moment/moment
           - item:
             name: monocle
-            homepage_url: https://www.okahu.ai/
+            homepage_url: http://monocle2ai.org/
             logo: monocle.svg
             description: The mission of the Project is to develop a domain specific tracing framework for monitoring code used to build Generative AI applications.
             second_path:
@@ -13745,6 +13854,11 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfJqI8yd8srENhw2SC
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/Monocle%20Technical%20Charter%20Final%208-5-2024.docx.pdf
+              annotations:
+                project_org: https://github.com/monocle2ai
+            additional_repos:
+              - repo_url: https://github.com/monocle2ai/monocle-typescript
+              - repo_url: https://github.com/monocle2ai/examples
           - item:
             name: Moon
             homepage_url: https://wiki.anuket.io/x/9QgB
@@ -14152,6 +14266,7 @@ landscape:
               - Technology Sector / AI, ML, Data & Analytics
             license: Other
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            twitter: https://twitter.com/NnStreamer
             extra:
               accepted: '2020-04-01'
               dev_stats_url: https://insights.linuxfoundation.org/project/NNstreamer
@@ -14894,8 +15009,10 @@ landscape:
               - Project Group / LF AI & Data
               - Industry / Cross-Industry
               - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/onnx/tutorials
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            twitter: https://twitter.com/onnxai
             extra:
               accepted: '2020-04-03'
               dev_stats_url: https://insights.linuxfoundation.org/project/lfai-onnx
@@ -14907,6 +15024,32 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs71QAD
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/onnx%20technical%20charter_04.02.20.pdf
+              annotations:
+                project_org: https://github.com/onnx
+            additional_repos:
+              - repo_url: https://github.com/onnx/onnx
+              - repo_url: https://github.com/onnx/ir-py
+          - item:
+            name: OPEA
+            homepage_url: https://opea.dev/
+            logo: opea.svg
+            description: The mission of the Project is to develop an ecosystem orchestration framework to efficiently integrate performant GenAI technologies and workflows leading to quicker GenAI adoption and business value.
+            second_path:
+              - Project Group / LF AI & Data
+              - Technology Sector / AI, ML, Data & Analytics
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2024-04-12'
+              dev_stats_url: https://insights.linuxfoundation.org/project/opea
+              lfx_slug: opea
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/opea
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfFEzMD7MRvgLVkoqV
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/OPEA%20Technical%20Charter%20Final%204-12-2024.pdf
           - item:
             name: Open 3D Engine Project (O3DE)
             homepage_url: http://o3de.org/
@@ -15826,6 +15969,31 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L1HYFQA3
           - item:
+            name: OpenFL
+            homepage_url: https://openfl.readthedocs.io/
+            logo: openfl.svg
+            description: The mission of the OpenFL projet is to build a flexible, secure, scalable and easily learnable Federated Learning tool for data scientists and data owners.
+            second_path:
+              - Project Group / LF AI & Data
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/securefederatedai/openfederatedlearning
+            license: MIT
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2023-03-29'
+              dev_stats_url: https://insights.linuxfoundation.org/project/openfl
+              lfx_slug: openfl
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openfl
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NXmRYQA1
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/OpenFL%20Governance.pdf
+              annotations:
+                project_org: https://github.com/securefederatedai
+            additional_repos: []
+          - item:
             name: OpenFlow Plugin
             homepage_url: https://wiki.opendaylight.org/display/ODL/OpenFlow+Plugin
             logo: openflow_plugin.svg
@@ -16264,6 +16432,7 @@ landscape:
             repo_url: https://github.com/OpenLineage/OpenLineage
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            twitter: https://twitter.com/OpenLineage
             extra:
               accepted: '2021-07-07'
               dev_stats_url: https://insights.linuxfoundation.org/project/open-lineage
@@ -16450,6 +16619,31 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/openmobilehub/omh-storage
               - repo_url: https://github.com/openmobilehub/omh-core
+          - item:
+            name: Open Model Initiative
+            homepage_url: https://github.com/Open-Model-Initiative
+            logo: open_model_initiative.svg
+            description: The mission of the Project is to support open community development of openly licensed baseline AI models for image, video and audio generation that individuals and organizations can use and augment in their own solutions.
+            second_path:
+              - Project Group / LF AI & Data
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/Open-Model-Initiative/OMI-Data-Pipeline
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2024-07-23'
+              dev_stats_url: https://insights.linuxfoundation.org/project/open-model-initiative
+              lfx_slug: open-model-initiative
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/open-model-initiative
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfFgbIOrni9hZDgZBN
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/OpenModelInitiative_Technical%20Charter%2007-2024.pdf
+              annotations:
+                project_org: https://github.com/Open-Model-Initiative
+            additional_repos: []
           - item:
             name: Open Path Guiding Library (OpenPGL)
             homepage_url: http://www.openpgl.org/
@@ -16806,6 +17000,30 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfVJp5XOZ87Z3oaMdW
           - item:
+            name: Open Secure AI Alliance
+            homepage_url: https://secureaialliance.org/
+            logo: open_secure_ai_alliance.svg
+            description: A working group of Linux Foundation members focused on AI and model cybersecurity.
+            second_path:
+              - Project Group / The Linux Foundation
+              - Technology Sector / AI, ML, Data & Analytics
+              - Technology Sector / Privacy & Security
+            repo_url: https://github.com/OpenSecureAIAlliance/RFCs
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-09-01'
+              dev_stats_url: https://insights.linuxfoundation.org/project/osaia
+              lfx_slug: osaia
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/osaia
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfoXec2jOkrcJYE0DI
+              annotations:
+                project_org: https://github.com/OpenSecureAIAlliance
+            additional_repos: []
+          - item:
             name: Open Security Controller Project (OSC)
             homepage_url: https://www.opensecuritycontroller.org/
             logo: open_security_controller_project_osc.svg
@@ -17086,7 +17304,7 @@ landscape:
                   url: https://github.com/lf-energy/foundation/blob/main/project_charters/opensynth_charter.pdf
           - item:
             name: OpenTeleEval
-            homepage_url: https://github.com/OpenTeleEval/OpenTeleEval
+            homepage_url: https://github.com/OpenTeleEval
             logo: openteleeval.svg
             description: VertiEval-Tele is a open-source benchmark designed to evaluate the LLM capabilities in telecommunication networks. Grounded in real operational agent trajectories and validated through closed-loop deployment in live networks, it’s the first benchmark to align LLM evaluation with industrial deployment readiness.
             second_path:
@@ -17106,6 +17324,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfgl4pvj2vLAUIil6R
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/vertieval-tele/vertieval-tele_Charter.pdf?v=1782147094363
+              annotations:
+                project_org: https://github.com/OpenTeleEval
+            additional_repos: []
           - item:
             name: OpenTelemetry
             homepage_url: https://opentelemetry.io/
@@ -17955,7 +18176,6 @@ landscape:
             description: Focused on enabling the curation and analysis of climate data for financial services firms and asset managers.
             second_path:
               - Project Group / FINOS (The Fintech Open Source Foundation)
-              - PMO Managed / All
               - Industry / Financials
               - Technology Sector / AI, ML, Data & Analytics
             license: TBD / NA
@@ -19521,6 +19741,31 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wByzAAE
           - item:
+            name: Recommenders
+            homepage_url: https://github.com/recommenders-team
+            logo: recommenders.svg
+            description: The mission of the Project is to develop examples and best practices for building recommendation systems, provided as Jupyter notebooks.
+            second_path:
+              - Project Group / LF AI & Data
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/recommenders-team/recommenders
+            license: MIT
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2023-08-02'
+              dev_stats_url: https://insights.linuxfoundation.org/project/recommenders
+              lfx_slug: recommenders
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/recommenders
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MtIaVQAV
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/Recommenders%20Technical%20Charter%20FINAL%208-2-2023.docx.pdf
+              annotations:
+                project_org: https://github.com/recommenders-team
+            additional_repos: []
+          - item:
             name: Reference Architecture for Containerized Environments (RA2)
             homepage_url: https://wiki.anuket.io/x/_QgB
             logo: reference_architecture_for_containerized_environments_ra2.svg
@@ -20177,8 +20422,34 @@ landscape:
               - repo_url: https://github.com/r-hub/actions
               - repo_url: https://github.com/r-hub/containers
           - item:
+            name: RWKV
+            homepage_url: https://www.rwkv.com/
+            logo: rwkv.svg
+            description: The mission of the Project is to develop a recurrent neural net language model with GPT-level LLM performance, which can also be directly trained like a GPT transformer.
+            second_path:
+              - Project Group / LF AI & Data
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/RWKV/rwkv.cpp
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            twitter: https://twitter.com/RWKV_AI
+            extra:
+              accepted: '2023-09-14'
+              dev_stats_url: https://insights.linuxfoundation.org/project/rwkv
+              lfx_slug: rwkv
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/rwkv
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf89Meu2VufagqgMIu
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/Complete_with_DocuSign_RWKV-signed-pg4JPG_.pdf
+              annotations:
+                project_org: https://github.com/RWKV
+            additional_repos: []
+          - item:
             name: Ryoma
-            homepage_url: https://www.project-aita.com/
+            homepage_url: https://github.com/project-ryoma
             logo: ryoma.svg
             description: The mission of the Project is to build a general LLM agentic framework designed for data analysis.
             second_path:
@@ -20198,6 +20469,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfvXeqDJKReq39q8zj
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/Ryoma%20Technical%20Charter%20Final%208-12-2024.docx.pdf
+              annotations:
+                project_org: https://github.com/project-ryoma
+            additional_repos: []
           - item:
             name: Salus
             homepage_url: https://project-salus.org/
@@ -20237,6 +20511,31 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs84QAD
                 - name: Charter
                   url: https://www.opnfv.org/wp-content/uploads/sites/12/2018/04/OPNFV-Project-a-Series-of-LF-Projects-LLC-Technical-Charter-4-10-2018.pdf
+          - item:
+            name: SapientML
+            homepage_url: https://github.com/sapientml
+            logo: sapientml.svg
+            description: The mission of the Project is to help data scientists rapidly create and amend AI models.
+            second_path:
+              - Project Group / LF AI & Data
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/sapientml/sapientml
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2023-08-29'
+              dev_stats_url: https://insights.linuxfoundation.org/project/sapientml
+              lfx_slug: sapientml
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/sapientml
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfLFtU7DetMSFQBilP
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/SapientML%20Technical%20Charter%208-29-2023.pdf
+              annotations:
+                project_org: https://github.com/sapientml
+            additional_repos: []
           - item:
             name: SBOMit
             homepage_url: https://sbomit.dev/
@@ -20965,7 +21264,10 @@ landscape:
               - Project Group / LF AI & Data
               - Industry / Cross-Industry
               - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/soajs/soajs
+            license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            twitter: https://twitter.com/soajsorg
             extra:
               accepted: '2020-12-14'
               dev_stats_url: https://insights.linuxfoundation.org/project/soajs
@@ -20976,7 +21278,10 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkZVqQAN
                 - name: Charter
-                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/soajs%20technical%20charter_12_15_20.pdf
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/soajs/soajs_Charter.pdf?v=1788478482990
+              annotations:
+                project_org: https://github.com/soajs
+            additional_repos: []
           - item:
             name: SODA Anomaly Detection
             homepage_url: https://sodafoundation.io/
@@ -21571,6 +21876,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWrC0QAL
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/sparklyr%20Project%20Technical%20Charter%2001-09-19.pdf
+              annotations:
+                project_org: https://github.com/sparklyr
+            additional_repos: []
           - item:
             name: SPDK
             homepage_url: https://spdk.io/
@@ -23713,7 +24021,7 @@ landscape:
                   url: https://www.opendaylight.org/wp-content/uploads/sites/14/2018/01/ODL-Technical-Charter-LF-Projects-LLC-FINAL.pdf
           - item:
             name: Unity Catalog
-            homepage_url: https://www.databricks.com/product/unity-catalog
+            homepage_url: https://www.unitycatalog.io/
             logo: unity_catalog.svg
             description: The mission of the Project is to provide an interoperability layer across all major cloud platforms, compute engines, data and AI platforms, as well as data catalog and governance solutions.
             second_path:
@@ -23733,6 +24041,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfpfKIj4exw7WkM89X
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/Unity%20Catalog%20Technical%20Charter%203-4-2025%20%5BFinal%5D.pdf
+              annotations:
+                project_org: https://github.com/unitycatalog
+            additional_repos: []
           - item:
             name: Universal Deep Packet Inspection Project (UDPI)
             homepage_url: https://wiki.fd.io/view/UDPI
@@ -24438,7 +24749,7 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkOXpQAN
           - item:
             name: Vortex
-            homepage_url: https://github.com/vortex-data
+            homepage_url: https://vortex.dev/
             logo: vortex.svg
             description: The mission of the Project is to develop a performant columnar file format and associated tools for database and data lake storage.
             second_path:
@@ -26550,7 +26861,12 @@ landscape:
             name: Aikido Security (member)
             homepage_url: https://aikido.dev/
             logo: aikido_security.svg
-            description: Aikido Security provides a comprehensive security platform that centralizes the protection of code, cloud, and runtime environments by automatically identifying and resolving vulnerabilities while offering a clear overview of security issues.
+            description: |-
+              Aikido Security provides a comprehensive security platform that centralizes the protection of code, cloud, and runtime environments by automatically identifying and resolving vulnerabilities while offering a clear overview of security issues.
+
+              --- Merged Data:
+
+              Aikido Security provides a comprehensive security platform that centralizes the protection of code, cloud, and runtime environments by automatically identifying and resolving vulnerabilities while offering a clear overview of security issues.
             second_path:
               - Project Membership / OpenJS Foundation
               - Project Membership / Cloud Native Computing Foundation (CNCF)
@@ -30679,6 +30995,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+              - Project Membership / Open Source Security Foundation (OpenSSF)
               - Project Membership / Linux Foundation Europe
             crunchbase: https://www.crunchbase.com/organization/dachs-it
             twitter: https://twitter.com/cuegeeit
@@ -30872,6 +31189,13 @@ landscape:
             twitter: https://twitter.com/DatavantHQ
             extra:
               linkedin_url: https://www.linkedin.com/company/datavant
+          - item:
+            name: Datawiza (member)
+            homepage_url: https://datawiza.com/
+            logo: datawiza.svg
+            description: Datawiza is a No Code platform for implementing authentication and authorization for applications and APIs. It provides Access Management as a Service (AMaaS) for your applications and APIs, and works with all identity providers, like Azure AD and Okta...
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: DB Systel GmbH (member)
             homepage_url: https://dbsystel.de/
@@ -31537,6 +31861,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/migua-intelligence
           - item:
             name: Dynatrace LLC (member)
             homepage_url: https://dynatrace.com/
@@ -39876,6 +40201,19 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/rootlyhq
           - item:
+            name: RSM Collective (member)
+            homepage_url: https://rsmc.ai/
+            logo: rsm_collective.svg
+            description: |-
+              RSM Collective is a community of consultants, technology vendors, and system integrators committed to transforming the employee, patient, civic and client experience.
+
+              Rooted in diverse backgrounds, perspectives, and lived experiences, we bring a unique ability to create what others might not even imagine.
+
+              We are looking to democratize the use of AI and enterprise software with open source code and consulting.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / FinOps Foundation
+          - item:
             name: RTE (Reseau de Transport dElectricite) (member)
             homepage_url: https://rte-france.com/
             logo: rte_reseau_de_transport_delectricite.svg
@@ -40969,9 +41307,9 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / Continuous Delivery Foundation (CDF)
           - item:
-            name: Solidigm (member)
+            name: Solidigm Inc. (member)
             homepage_url: https://solidigm.com/
-            logo: solidigm.svg
+            logo: solidigm_inc.svg
             description: Solidigm specializes in innovative NAND flash memory solutions, providing advanced SSD data storage products designed to enhance performance for demanding workloads and support AI data pipelines.
             second_path:
               - Project Membership / The Linux Foundation
@@ -41523,6 +41861,7 @@ landscape:
               Further information can be found at www.st.com
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / Dronecode Project, Inc.
               - Project Membership / Yocto Project Fund
               - Project Membership / Zephyr Project
               - Project Membership / RISC-V International
@@ -43230,6 +43569,12 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/valarian-technologies
+          - item:
+            name: Valency (member)
+            homepage_url: https://valency.io/
+            logo: valency.svg
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: VA Linux Systems Japan K.K. (member)
             homepage_url: https://valinux.co.jp/
@@ -50108,6 +50453,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ramanujan-college
           - item:
+            name: RECAINSA (member)
+            homepage_url: https://recainsa.org/
+            logo: recainsa.svg
+            description: RECAINSA is a Central American Health Informatics Network formed in 2013 by healthcare and IT professionals to support national digital health strategies and facilitate knowledge exchange in the region.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Regen Foundation (member)
             homepage_url: https://regen.foundation/
             logo: regen_foundation.svg
@@ -51339,6 +51691,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/the-io-foundation
           - item:
+            name: THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC (member)
+            homepage_url: https://jhuapl.edu/
+            logo: the_johns_hopkins_university_applied_physics_laboratory_llc.svg
+            description: JHU Applied Physics Laboratory is a nonprofit university-affiliated research center that specializes in engineering, research, and development to address national security challenges through systems engineering, technology research, and analysis, while...
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: The Khronos Group Inc (member)
             homepage_url: https://khronos.org/
             logo: the_khronos_group_inc.svg
@@ -51685,6 +52044,13 @@ landscape:
               - Project Membership / P4 Fund
               - Project Membership / Aether Fund
               - Project Membership / Broadband Fund
+          - item:
+            name: Universidad de Zamboanga (member)
+            homepage_url: https://uz.edu.ph/
+            logo: universidad_de_zamboanga.svg
+            description: Universidad de Zamboanga (UZ) is a leading educational institution in Western Mindanao, offering a wide range of programs including secondary and tertiary education, technical education, and graduate studies. Established in 1948, UZ is a key player in ...
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Universidade Federal Rural do Semi-Árido - Ufersa (member)
             homepage_url: https://ufersa.edu.br/
