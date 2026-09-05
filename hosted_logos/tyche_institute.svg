@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.4" role="img" aria-label="Tyche Institute">
+  <title>Tyche Institute</title>
+  <style>
+    svg { stroke: #1a1a1a; }
+    @media (prefers-color-scheme: dark) { svg { stroke: #fafafa; } }
+    @media (prefers-reduced-motion: reduce) {
+      .orbit { transform: none !important; }
+    }
+  </style>
+  <g class="orbit">
+    <animateTransform attributeName="transform" type="rotate"
+                      from="0 32 32" to="360 32 32"
+                      dur="24s" repeatCount="indefinite"/>
+    <ellipse cx="32" cy="32" rx="27" ry="18" transform="rotate(-20 32 32)"/>
+  </g>
+  <path d="M 19 27 C 23 22, 29 22, 32 27 C 35 32, 41 32, 45 27" stroke-width="2.2"/>
+  <line x1="32" y1="27" x2="32" y2="45" stroke-width="2.2"/>
+</svg>

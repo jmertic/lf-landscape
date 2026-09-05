@@ -15037,6 +15037,7 @@ landscape:
             second_path:
               - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/opea-project/GenAIExamples
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -15050,6 +15051,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfFEzMD7MRvgLVkoqV
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/OPEA%20Technical%20Charter%20Final%204-12-2024.pdf
+              annotations:
+                project_org: https://github.com/opea-project
+            additional_repos: []
           - item:
             name: Open 3D Engine Project (O3DE)
             homepage_url: http://o3de.org/
@@ -19271,6 +19275,14 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4IfQAL
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/pyro%20technical%20charter_01.07.20.pdf
+              annotations:
+                project_org: https://github.com/pyro-ppl
+            additional_repos:
+              - repo_url: https://github.com/pyro-ppl/numpyro
+              - repo_url: https://github.com/pyro-ppl/funsor
+              - repo_url: https://github.com/pyro-ppl/pyroed
+              - repo_url: https://github.com/pyro-ppl/Pyro-M5-Starter-Kit
+              - repo_url: https://github.com/pyro-ppl/brmp
           - item:
             name: Pyrrha
             homepage_url: https://pyrrha-platform.org/
@@ -28958,6 +28970,14 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
           - item:
+            name: Brickken (member)
+            homepage_url: https://brickken.com/
+            logo: brickken.svg
+            description: Brickken simplifies digital asset tokenization, enabling companies to create, sell, and manage tokens easily, democratizing access to the token economy.
+            second_path:
+              - Project Membership / LF Decentralized Trust
+              - Project Membership / The Linux Foundation
+          - item:
             name: Bright Machines, Inc. (member)
             homepage_url: https://brightmachines.com/
             logo: bright_machines_inc.svg
@@ -29419,6 +29439,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/causely-ai
           - item:
+            name: Caution SEZC (member)
+            homepage_url: https://caution.co/
+            logo: caution_sezc.svg
+            description: Caution offers an open-source platform designed for encrypted data recovery and escrow, developed by experienced security engineers with a background in notable tech firms.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Confidential Computing Consortium (CCC)
+          - item:
             name: CData Software (member)
             homepage_url: https://cdata.com/
             logo: cdata_software.svg
@@ -29504,6 +29532,14 @@ landscape:
               - Project Membership / FinOps Foundation
             extra:
               linkedin_url: https://www.linkedin.com/company/certero
+          - item:
+            name: CertiK (member)
+            homepage_url: https://certik.com/
+            logo: certik.svg
+            description: CertiK is a leading blockchain security company offering smart contract audits, KYC, monitoring, and penetration testing services. Founded in 2018, they secure the web3 world, working with top projects like Aave and Binance Smart Chain.
+            second_path:
+              - Project Membership / LF Decentralized Trust
+              - Project Membership / The Linux Foundation
           - item:
             name: Certizen Limited (member)
             homepage_url: https://certizen.com/
@@ -30473,7 +30509,6 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / TODO Group
               - Project Membership / Yocto Project Fund
-              - Project Membership / Open Source Security Foundation (OpenSSF)
               - Project Membership / Cloud Foundry Foundation (CFF)
             crunchbase: https://www.crunchbase.com/organization/comcast
             twitter: https://twitter.com/Xfinity
@@ -39548,14 +39583,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/quantnetwork
           - item:
-            name: Quantrexion – Governance & Risk Intelligence (member)
-            homepage_url: https://quantrexion.com/
-            logo: quantrexion_governance_risk_intelligence.svg
-            description: .
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Open Source Security Foundation (OpenSSF)
-          - item:
             name: QuantStack (member)
             homepage_url: https://quantstack.net/
             logo: quantstack.svg
@@ -39867,6 +39894,13 @@ landscape:
             name: Reboot Technologies Inc. (member)
             homepage_url: https://reboot.dev/
             logo: reboot_technologies_inc.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
+            name: Recruitics, LLC. (member)
+            homepage_url: https://recruitics.com/
+            logo: recruitics_llc.svg
+            description: Recruitics offers a data-driven recruitment marketing platform that utilizes advanced analytics and automation to help organizations attract, convert, and hire top talent through optimized PPC campaigns and programmatic advertising.
             second_path:
               - Project Membership / The Linux Foundation
           - item:
@@ -41130,6 +41164,13 @@ landscape:
             description: Smart Energy Water (SEW) is a top provider of cloud-based solutions for energy, water, and gas providers, focusing on Digital Customer Experience, Workforce Engagement, and AI/ML/IoT Analytics to empower users to save energy and water.
             second_path:
               - Project Membership / The Linux Foundation
+          - item:
+            name: SmartSpend AI, Inc (member)
+            homepage_url: https://smartspendai.com/
+            logo: smartspend_ai_inc.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / FinOps Foundation
           - item:
             name: Smarty (member)
             homepage_url: https://smarty.com/
@@ -46401,6 +46442,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/concordia-university
           - item:
+            name: Concordium (member)
+            homepage_url: https://concordium.com/
+            logo: concordium.svg
+            description: Concordium provides a secure blockchain ecosystem that facilitates private transactions and the development of regulation-compliant decentralized applications through its innovative use of zero-knowledge identity and token solutions.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Consumer Reports, Inc. (member)
             homepage_url: https://consumerreports.org/
             logo: consumer_reports_inc.svg
@@ -48791,6 +48839,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/leaders-for-climate-action
           - item:
+            name: libp2p (member)
+            homepage_url: https://libp2p.io/
+            logo: libp2p.svg
+            description: libp2p is an open-source project that offers a modular and extensible networking stack, enabling network applications to operate independently of their location and runtime services. It solves various challenges of peer-to-peer applications by supporti...
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: LightSeek Foundation (member)
             homepage_url: https://lightseek.org/
             logo: lightseek_foundation.svg
@@ -49830,6 +49885,12 @@ landscape:
             twitter: https://twitter.com/OpenForumEurope
             extra:
               linkedin_url: https://www.linkedin.com/company/openforum-europe
+          - item:
+            name: Open Healthcare Network Foundation (member)
+            homepage_url: https://ohcnf.org/
+            logo: open_healthcare_network_foundation.svg
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: OpenI (member)
             homepage_url: https://openi.pcl.ac.cn/
@@ -51490,6 +51551,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/tietofficial
           - item:
+            name: The Agentic State (member)
+            homepage_url: https://agenticstate.org/
+            logo: the_agentic_state.svg
+            description: The Agentic State is a global action platform that assists public leaders in leveraging agentic AI to enhance government services, accelerate decision-making, and promote accountability within institutions, all while prioritizing the public good.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: The Alan Turing Institute (member)
             homepage_url: https://turing.ac.uk/
             logo: the_alan_turing_institute.svg
@@ -51827,6 +51895,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/university-of-tokyo
           - item:
+            name: The UOR Foundation (member)
+            homepage_url: https://uor.foundation/
+            logo: the_uor_foundation.svg
+            description: The UOR Foundation develops open standards that provide a permanent and verifiable address for every piece of data, ensuring that it is discoverable, provable, and trusted across various platforms while also offering a unified framework for agentic AI ...
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: The VettID Project (member)
             homepage_url: https://vettid.org/
             logo: the_vettid_project.svg
@@ -51928,6 +52003,14 @@ landscape:
             twitter: https://twitter.com/BU_Tweets
             extra:
               linkedin_url: https://www.linkedin.com/company/boston-university
+          - item:
+            name: Tyche Institute (member)
+            homepage_url: https://tyche.institute/
+            logo: tyche_institute.svg
+            description: Tyche Institute is an independent research initiative focused on developing public specifications, reference verifiers, and case studies aimed at creating verifiable evidence for artificial intelligence, while exploring the interplay of AI agents, data...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Trust Over IP Project (ToIP)
           - item:
             name: UC San Diego (member)
             homepage_url: https://ucsd.edu/
