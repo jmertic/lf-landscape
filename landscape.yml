@@ -330,6 +330,7 @@ landscape:
               - Project Group / LF AI & Data
               - Industry / Cross-Industry
               - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/Trusted-AI/adversarial-robustness-toolbox
             license: MIT
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -659,6 +660,7 @@ landscape:
               - Project Group / LF AI & Data
               - Industry / Cross-Industry
               - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/Trusted-AI/AIF360
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -681,6 +683,7 @@ landscape:
               - Project Group / LF AI & Data
               - Industry / Cross-Industry
               - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/Trusted-AI/AIF360
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -4254,13 +4257,13 @@ landscape:
               - repo_url: https://github.com/connectrpc/connect-dart
           - item:
             name: container2wasm
-            homepage_url: https://github.com/ktock/container2wasm
+            homepage_url: https://github.com/container2wasm/container2wasm
             logo: container2wasm.svg
             description: The mission of the project is to provide a tool to run containers on Wasm-enabled environments.
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/ktock/container2wasm
+            repo_url: https://github.com/container2wasm/container2wasm
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -14264,7 +14267,8 @@ landscape:
               - Project Group / LF AI & Data
               - Industry / Cross-Industry
               - Technology Sector / AI, ML, Data & Analytics
-            license: Other
+            repo_url: https://github.com/nnstreamer/nnstreamer
+            license: LGPL-2.1
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/NnStreamer
             extra:
@@ -14278,6 +14282,13 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWr7ZQAT
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/nnstreamer%20technical%20charter_04.01.20.pdf
+              annotations:
+                project_org: https://github.com/nnstreamer
+            additional_repos:
+              - repo_url: https://github.com/nnstreamer/TAOS-CI
+              - repo_url: https://github.com/nnstreamer/api
+              - repo_url: https://github.com/nnstreamer/nnstreamer-example
+              - repo_url: https://github.com/nnstreamer/nnstreamer-edge
           - item:
             name: Neutron Northbound
             homepage_url: https://wiki.opendaylight.org/display/ODL/Neutron+Northbound
@@ -19989,12 +20000,13 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWecFQAT
           - item:
             name: ReLife
-            homepage_url: https://github.com/relife-energy
+            homepage_url: https://github.com/assetlife-project
             logo: relife.svg
             description: ReLife is an open source Python library that implements survival analysis methods, renewal theory, and socioeconomic evaluation aimed at optimizing network asset renewal policies.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/assetlife-project/assetlife
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -20008,6 +20020,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfa41EPKWxFl60ZGdB
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/relife/relife_Charter.pdf?v=1778275208631
+              annotations:
+                project_org: https://github.com/assetlife-project
+            additional_repos: []
           - item:
             name: Rend-o-matic
             homepage_url: https://rend-o-matic.github.io/
@@ -28977,6 +28992,7 @@ landscape:
             second_path:
               - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/brickken
           - item:
             name: Bright Machines, Inc. (member)
             homepage_url: https://brightmachines.com/
@@ -29540,6 +29556,7 @@ landscape:
             second_path:
               - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/certik
           - item:
             name: Certizen Limited (member)
             homepage_url: https://certizen.com/
@@ -32221,6 +32238,14 @@ landscape:
               - Project Membership / Linux Foundation Europe
             extra:
               linkedin_url: https://www.linkedin.com/company/embear
+          - item:
+            name: Embedder (member)
+            homepage_url: https://embedder.dev/
+            logo: embedder.svg
+            description: Embedder provides an AI-powered coding agent designed for embedded software engineers, enabling them to build firmware across various platforms and environments while eliminating vendor lock-in and enhancing cross-platform development through deep proj...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Zephyr Project
           - item:
             name: embedd.it (member)
             homepage_url: https://embedd.it/
@@ -47276,6 +47301,15 @@ landscape:
             twitter: https://twitter.com/ethereum
             extra:
               linkedin_url: https://www.linkedin.com/company/ethereum
+          - item:
+            name: Ethereum Institutional (member)
+            homepage_url: https://ethereuminstitutional.org/
+            logo: ethereum_institutional.svg
+            description: Ethereum Institutional is an independent non-profit organization focused on promoting and facilitating the institutional adoption of Ethereum and its layer 2 solutions, applications, and overall ecosystem.
+            second_path:
+              - Project Membership / LF Decentralized Trust
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/ethereum-institutional
           - item:
             name: ETH Zurich (member)
             homepage_url: https://ethz.ch/
