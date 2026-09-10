@@ -1490,6 +1490,31 @@ landscape:
                 project_org: https://github.com/artigraph
             additional_repos: []
           - item:
+            name: AssetLife
+            homepage_url: https://github.com/assetlife-project
+            logo: assetlife.svg
+            description: ReLife is an open source Python library that implements survival analysis methods, renewal theory, and socioeconomic evaluation aimed at optimizing network asset renewal policies.
+            second_path:
+              - Project Group / LF Energy (LFE)
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/assetlife-project/assetlife
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-05-08'
+              dev_stats_url: https://insights.linuxfoundation.org/project/assetlife
+              lfx_slug: assetlife
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/assetlife
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfa41EPKWxFl60ZGdB
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/relife/relife_Charter.pdf?v=1788982011404
+              annotations:
+                project_org: https://github.com/assetlife-project
+            additional_repos: []
+          - item:
             name: AsyncAPI
             homepage_url: https://www.asyncapi.com/
             logo: asyncapi.svg
@@ -19999,31 +20024,6 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWecFQAT
           - item:
-            name: ReLife
-            homepage_url: https://github.com/assetlife-project
-            logo: relife.svg
-            description: ReLife is an open source Python library that implements survival analysis methods, renewal theory, and socioeconomic evaluation aimed at optimizing network asset renewal policies.
-            second_path:
-              - Project Group / LF Energy (LFE)
-              - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/assetlife-project/assetlife
-            license: Apache-2.0
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2026-05-08'
-              dev_stats_url: https://insights.linuxfoundation.org/project/relife
-              lfx_slug: relife
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/relife
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfa41EPKWxFl60ZGdB
-                - name: Charter
-                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/relife/relife_Charter.pdf?v=1778275208631
-              annotations:
-                project_org: https://github.com/assetlife-project
-            additional_repos: []
-          - item:
             name: Rend-o-matic
             homepage_url: https://rend-o-matic.github.io/
             logo: rend_o_matic.svg
@@ -32620,6 +32620,13 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
           - item:
+            name: EthSystems (member)
+            homepage_url: https://ethsystems.org/
+            logo: ethsystems.svg
+            second_path:
+              - Project Membership / LF Decentralized Trust
+              - Project Membership / The Linux Foundation
+          - item:
             name: Evenkeel Inc. d/b/a Kubex (member)
             homepage_url: https://kubex.ai/
             logo: evenkeel_inc_d_b_a_kubex.svg
@@ -42728,15 +42735,6 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/terramate
           - item:
-            name: Testkube (member)
-            homepage_url: https://testkube.io/
-            logo: testkube.svg
-            description: The Kubernetes-native testing framework made for Testers and Developers. Automate the executions of your existing testing tools inside your Kubernetes cluster.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Continuous Delivery Foundation (CDF)
-            twitter: https://twitter.com/Testkube_io
-          - item:
             name: Tetrate.io (member)
             homepage_url: https://tetrate.io/
             logo: tetrate.svg
@@ -45746,6 +45744,13 @@ landscape:
             name: Astron  SkillHub (member)
             homepage_url: https://astron-skillhub.org/
             logo: astron_skillhub.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
+            name: Ateneo de Zamboanga University (member)
+            homepage_url: https://adzu.edu.ph/
+            logo: ateneo_de_zamboanga_university.svg
+            description: 'Ateneo de Zamboanga University: Jesuit University in Western Mindanao, Philippines, fostering holistic development in a vibrant academic environment.'
             second_path:
               - Project Membership / The Linux Foundation
           - item:
