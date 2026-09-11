@@ -529,6 +529,28 @@ landscape:
               - repo_url: https://github.com/aaif/project-proposals
               - repo_url: https://github.com/aaif/community-events
           - item:
+            name: Agent Router
+            homepage_url: https://aigateway.envoyproxy.io/
+            logo: agent_router.svg
+            description: Agent Router is an open-source project that enables Envoy Gateway to handle request traffic from application clients to Generative AI (GenAI) services. Built on top of Envoy Proxy and Envoy Gateway, it provides a secure, scalable, and operationally excellent gateway for managing LLM and AI inference traffic at enterprise scale.
+            second_path:
+              - Project Group / Agentic AI Foundation (AAIF)
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/theagentrouter/agent-router
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-07-23'
+              dev_stats_url: https://insights.linuxfoundation.org/project/agent-router
+              lfx_slug: agent-router
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/agent-router
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfvb6yRbfWin2dVNe8
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/agent-router/agent-router_Charter.pdf?v=1785440085505
+          - item:
             name: AGENTS.md
             homepage_url: https://agents.md/
             logo: agents.svg
@@ -10769,6 +10791,26 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfepBgCnjYpeXw7Woz
           - item:
+            name: KapunSDK
+            homepage_url: https://github.com/KapunSDK/kapun-sdk
+            logo: kapunsdk.svg
+            description: develop an SDK with reusable modules used for digital identity wallets, issuers, and verifiers
+            second_path:
+              - Project Group / OpenWallet Foundation
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/KapunSDK/kapun-sdk
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-06-23'
+              dev_stats_url: https://insights.linuxfoundation.org/project/kapunsdk
+              lfx_slug: kapunsdk
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kapunsdk
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfXnKj2RjypXr55iFz
+          - item:
             name: karmada
             homepage_url: https://github.com/karmada-io/karmada
             logo: karmada.svg
@@ -17539,7 +17581,7 @@ landscape:
             second_path:
               - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/open-voice-interoperability/beaconforge
+            repo_url: https://github.com/open-voice-interoperability/openfloor-python
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -17556,11 +17598,11 @@ landscape:
               annotations:
                 project_org: https://github.com/open-voice-interoperability
             additional_repos:
-              - repo_url: https://github.com/open-voice-interoperability/openfloor-python
-              - repo_url: https://github.com/open-voice-interoperability/assistants
               - repo_url: https://github.com/open-voice-interoperability/background
               - repo_url: https://github.com/open-voice-interoperability/openfloor-js
               - repo_url: https://github.com/open-voice-interoperability/openfloor-docs
+              - repo_url: https://github.com/open-voice-interoperability/implementation-examples
+              - repo_url: https://github.com/open-voice-interoperability/floor-implementations
           - item:
             name: Open Voice Network Trustmark Initiative
             homepage_url: https://openvoicenetwork.org/trustmark-initiative/
@@ -29458,7 +29500,7 @@ landscape:
             name: Caution SEZC (member)
             homepage_url: https://caution.co/
             logo: caution_sezc.svg
-            description: Caution offers an open-source platform designed for encrypted data recovery and escrow, developed by experienced security engineers with a background in notable tech firms.
+            description: Caution is a hardware- and cloud-agnostic platform focused on making confidential compute easy to use and fully verifiable.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Confidential Computing Consortium (CCC)
@@ -32623,9 +32665,11 @@ landscape:
             name: EthSystems (member)
             homepage_url: https://ethsystems.org/
             logo: ethsystems.svg
+            description: EthSystems helps institutions move on-chain with privacy that's performant, secure, usable, and accessible, disclosing only what the rules require.
             second_path:
               - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/ethsystems
           - item:
             name: Evenkeel Inc. d/b/a Kubex (member)
             homepage_url: https://kubex.ai/
@@ -41650,6 +41694,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/spectro-cloud
           - item:
+            name: Spellguard (member)
+            homepage_url: https://spellguard.ai/
+            logo: spellguard.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: S&P Global Inc. (member)
             homepage_url: https://spglobal.com/
             logo: s_p_global_inc.svg
@@ -45346,6 +45396,13 @@ landscape:
             homepage_url: https://2i2c.org/
             logo: 2i2c.svg
             description: 2i2c is a non-profit organization that supports, customizes, and maintains open source infrastructure for interactive computing in research and education. They empower communities in research and education to be more collaborative, open, and productive...
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
+            name: 3 Percent Club (member)
+            homepage_url: https://3percentclub.org/
+            logo: 3_percent_club.svg
+            description: A New York nonprofit taking people from AI-curious to AI-builder through hands-on technical training and peer mentorship.
             second_path:
               - Project Membership / The Linux Foundation
           - item:
@@ -52735,6 +52792,7 @@ landscape:
             description: The University of Texas at San Antonio is a state research university in San Antonio, Texas, United States. UTSA offers a wide array of academic studies, with 133 undergraduate, 51 graduate and 24 doctoral programs. UTSA is a member of the Oak Ridge Associated Universities, a consortium of the nation's major doctorate-level universities dedicated to collaboration and scientific advancement. It is an institutional member of the Hispanic Association of Colleges and Universities, recognizing its influence and role as a Hispanic-serving institution. UTSA is also a member of the American Association of State Colleges and Universities, an organization of public institutions that seek to both offer educational excellence and opportunities to historically under-served populations.
             second_path:
               - Project Membership / The Linux Foundation
+              - Project Membership / Camara Fund
             crunchbase: https://www.crunchbase.com/organization/the-university-of-texas-at-san-antonio
             twitter: https://twitter.com/UTSA
             extra:
@@ -53288,3 +53346,10 @@ landscape:
             twitter: https://twitter.com/ZJU_China
             extra:
               linkedin_url: https://www.linkedin.com/company/zhejiang-university
+          - item:
+            name: 臺灣區塊鏈愛好者協會 (Taiwan Association for Blockchain Ecosystem Innovation, TABEI) (member)
+            homepage_url: https://chain.tw/
+            logo: tai_wan_qu_kuai_lian_ai_hao_zhe_xie_hui_taiwan_association_for_blockchain_ecosystem_innovation_tabei.svg
+            description: The 臺灣區塊鏈愛好者協會官網 (chain.tw) is a pioneering organization in Taiwan dedicated to promoting and advancing the blockchain industry. Since 2016, they have been organizing annual conferences to facilitate the exchange of trends and perspectives in blockchai...
+            second_path:
+              - Project Membership / The Linux Foundation
