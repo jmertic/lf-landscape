@@ -308,6 +308,7 @@ landscape:
               - Project Group / LF AI & Data
               - Industry / Cross-Industry
               - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/Adlik/Adlik
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -321,6 +322,10 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWr88QAD
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/adlik%20technical%20charter_11.19.19.pdf
+              annotations:
+                project_org: https://github.com/Adlik
+            additional_repos:
+              - repo_url: https://github.com/Adlik/model_optimizer
           - item:
             name: Adversarial Robustness Toolbox
             homepage_url: https://adversarial-robustness-toolbox.org/
@@ -29254,9 +29259,9 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
           - item:
-            name: Cambricon (member)
+            name: Cambricon Technologies Corporation Limited (member)
             homepage_url: https://cambricon.com/
-            logo: cambricon.svg
+            logo: cambricon_technologies_corporation_limited.svg
             description: Cambricon pioneers in global intelligent chip technology, specializing in AI processor chip development to enhance machine understanding and service to humanity. Their products offer advanced AI performance for diverse industry applications, promoting ...
             second_path:
               - Project Membership / The Linux Foundation
@@ -30896,6 +30901,13 @@ landscape:
             homepage_url: https://credativ.de/
             logo: credativ_r.svg
             description: credativ® is a vendor-independent consulting and service company specializing in Open Source Software, offering comprehensive services and technical support for enterprise use with a 24x7 Open Source Support.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
+            name: CredoAI (member)
+            homepage_url: https://credo.ai/
+            logo: credoai.svg
+            description: CredoAI specializes in AI governance, providing a platform that enables enterprises to effectively implement and automate oversight, risk management, and compliance for responsible AI adoption across various industries.
             second_path:
               - Project Membership / The Linux Foundation
           - item:
@@ -40457,6 +40469,7 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / TODO Group
+              - Project Membership / FinOps Foundation
               - Project Membership / Open Source Security Foundation (OpenSSF)
               - Project Membership / Cloud Foundry Foundation (CFF)
               - Project Membership / Linux Foundation Europe
@@ -47570,6 +47583,14 @@ landscape:
             twitter: https://twitter.com/Fraunhofer
             extra:
               linkedin_url: https://www.linkedin.com/company/fraunhofer-gesellschaft
+          - item:
+            name: free5GC (member)
+            homepage_url: https://free5gc.org/
+            logo: free5gc.svg
+            description: The free5GC is an open-source project for 5th generation (5G) mobile core networks. The ultimate goal of this project is to implement the 5G core network (5GC) defined in 3GPP Release 15 (R15) and beyond.
+            second_path:
+              - Project Membership / The Linux Foundation
+            twitter: https://twitter.com/free5GC_
           - item:
             name: Fresno County Department of Public Works & Planning (member)
             homepage_url: https://fresnocountyca.gov/
