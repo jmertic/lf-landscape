@@ -16274,7 +16274,6 @@ landscape:
             description: The Open Health Stack Software Foundation provides a neutral, community-owned home for the open-source building blocks of global digital health. We maintain standards-based libraries and tools that make it easy to build on HL7 FHIR and we host a model-agnostic AI Commons for the safe and verifiable use of AI in health. We turn these foundations into care and expanding access across the global south with the help of developers and the local communities.
             second_path:
               - Project Group / The Linux Foundation
-              - PMO Managed / All
               - Technology Sector / Web & Application Development
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
@@ -18316,26 +18315,6 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/osera
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfcK5vEVcgon9SNzAg
-          - item:
-            name: OSLC Handbook
-            homepage_url: https://github.com/finos/OSLC-handbook
-            logo: oslc_handbook.svg
-            description: A data store and handbook of practical information about complying with the most common open source licenses.
-            second_path:
-              - Project Group / FINOS (The Fintech Open Source Foundation)
-              - Industry / Financials
-              - Technology Sector / Cross-Technology
-            repo_url: https://github.com/finos/OSLC-handbook
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2020-06-30'
-              dev_stats_url: https://insights.linuxfoundation.org/project/oslc-handbook
-              lfx_slug: oslc-handbook
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/oslc-handbook
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkUb7QAF
           - item:
             name: osquery
             homepage_url: https://osquery.io/
@@ -28138,17 +28117,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/atlassian
           - item:
-            name: AtomGit (member)
-            homepage_url: https://gitcode.csdn.net/
-            logo: atomgit.svg
-            description: The "Chinese Software Developer Network" or "China Software Developer Network",, operated by Bailian Midami Digital Technology Co.,
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / LF AI & Data
-            crunchbase: https://www.crunchbase.com/organization/csdn
-            extra:
-              linkedin_url: https://www.linkedin.com/company/csdn
-          - item:
             name: AT&T Services, Inc. (member)
             homepage_url: https://att.com/
             logo: at_t_services_inc.svg
@@ -28328,30 +28296,6 @@ landscape:
             twitter: https://twitter.com/AVEVAGroup
             extra:
               linkedin_url: https://www.linkedin.com/company/osisoft
-          - item:
-            name: Aviatrix (member)
-            homepage_url: https://aviatrix.com/
-            logo: aviatrix.svg
-            description: |-
-              Aviatrix is a pioneer in cloud native networking, simplifying scaling in the cloud, enabling connectivity across a wide range of cloud architectures and delivering end-to-end network security. Our solution is built from the ground up for AWS, Azure, and Google based on a software-defined architecture that enables enterprises to realize the benefits of agility, scale, and mobility when deploying applications in the public, private, or hybrid cloud.
-              Specialties
-              Cloud Native Networking, Cloud VPN, Hybrid Cloud
-
-              Website
-              http://www.aviatrix.com
-              Industry
-              Computer Networking
-              Type
-              Privately Held
-              Headquarters
-              4555 Great America Pkwy Suite 101 Santa Clara, CA 95054 United States
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/aviatrix
-            twitter: https://twitter.com/aviatrixsys
-            extra:
-              linkedin_url: https://www.linkedin.com/company/aviatrix-inc
           - item:
             name: Avisi Solutions B.V. (member)
             homepage_url: https://avisi.nl/
@@ -31558,6 +31502,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/deustche-bank
           - item:
+            name: Deutsche Kreditbank AG (member)
+            homepage_url: https://dkb.de/
+            logo: deutsche_kreditbank_ag.svg
+            description: DKB is a leading sustainable direct bank in Germany, offering current accounts, investments, and financing with fair terms. With a strong focus on digital innovation and sustainability, DKB supports various projects including renewable energy initiativ...
+            second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
+              - Project Membership / The Linux Foundation
+          - item:
             name: Deutsche Telekom AG (member)
             homepage_url: https://telekom.com/
             logo: deutsche_telekom_ag.svg
@@ -34619,7 +34571,7 @@ landscape:
             name: Infineon Technologies AG (member)
             homepage_url: https://infineon.com/
             logo: infineon_technologies_ag.svg
-            description: Infineon Technologies AG is a German semiconductor manufacturer founded in 1999, when the semiconductor operations of the parent company Siemens AG were spun off.
+            description: Infineon Technologies AG is a global semiconductor leader in sensors, microcontrollers, connectivity, power semiconductors, and security solutions. Its technology enables smart, energy-efficient, and secure applications that drive digitalization, decarbonization, and clean mobility.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Zephyr Project
@@ -34764,15 +34716,6 @@ landscape:
             description: Injective is an open interoperable smart contracts layer one blockchain network optimized for decentralized finance applications. It allows users to build and use unmatched Web3 applications on the fastest PoS layer 1 blockchain, shaping the future of ...
             second_path:
               - Project Membership / The Linux Foundation
-          - item:
-            name: Innogrid (member)
-            homepage_url: https://innogrid.com/
-            logo: innogrid.svg
-            description: 이노그리드 회사 소개, 제품 소개 및 채용 정보 제공
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/innogrid
           - item:
             name: innogrit Corporation (member)
             homepage_url: https://innogritcorp.com/
@@ -40947,6 +40890,17 @@ landscape:
               - Project Membership / Ultra Ethernet Consortium Fund
             extra:
               linkedin_url: https://www.linkedin.com/company/jaguarmicro
+          - item:
+            name: Shenzhen Kaiyuan Gongchuang Technology Co., Ltd. (member)
+            homepage_url: https://gitcode.csdn.net/
+            logo: shenzhen_kaiyuan_gongchuang_technology_co_ltd.svg
+            description: The "Chinese Software Developer Network" or "China Software Developer Network",, operated by Bailian Midami Digital Technology Co.,
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / LF AI & Data
+            crunchbase: https://www.crunchbase.com/organization/csdn
+            extra:
+              linkedin_url: https://www.linkedin.com/company/csdn
           - item:
             name: Shenzhen Wise2C Technology Co.,Ltd (member)
             homepage_url: https://wise2c.com/
@@ -47496,10 +47450,11 @@ landscape:
             name: Fenasbac (member)
             homepage_url: https://fenasbac.io/
             logo: fenasbac.svg
-            description: Fenasbac focuses on fostering innovation and collaboration within the financial sector by organizing events and creating content that highlights projects and initiatives aimed at adapting to regulatory changes and promoting sustainable financial practi...
+            description: Fenasbac focuses on fostering innovation and collaboration within the financial sector by organizing events and creating content that highlights projects and initiatives aimed at adapting to regulatory changes and promoting sustainable financial practices.
             second_path:
               - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/fenasbac
           - item:
             name: Feynman Foundation (member)
             homepage_url: https://feynmanfoundation.org/
