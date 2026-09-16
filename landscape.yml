@@ -12919,6 +12919,28 @@ landscape:
               - repo_url: https://github.com/kube-logging/telemetry-controller
               - repo_url: https://github.com/kube-logging/kube-logging.github.io
           - item:
+            name: Longfellow
+            homepage_url: https://google.github.io/longfellow-zk/
+            logo: longfellow.svg
+            description: The Longfellow library enables the construction of zero-knowledge protocols concerning legacy identity verification standards such as the ISO MDOC standard, the JWT standard, and W3 Verifiable Credentials.
+            second_path:
+              - Project Group / Post-Quantum Cryptography Alliance
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/longfellow-zk/longfellow-zk
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-08-20'
+              dev_stats_url: https://insights.linuxfoundation.org/project/longfellow
+              lfx_slug: longfellow
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/longfellow
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfyKahsI6jb2Mxjk9F
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/longfellow/longfellow_Charter.pdf?v=1787249863028
+          - item:
             name: Longhorn
             homepage_url: https://longhorn.io/
             logo: longhorn.svg
@@ -26864,7 +26886,7 @@ landscape:
             name: Agentic Data Intelligence SA (member)
             homepage_url: https://agentic-data.com/
             logo: agentic_data_intelligence_sa.svg
-            description: Agentic Data Intelligence specializes in providing AI agents that streamline the process of building data pipelines and analytics solutions, enabling teams to efficiently prototype and implement data engineering projects without the necessity of a larg...
+            description: The control plane for AI data analytics
             second_path:
               - Project Membership / The Linux Foundation
           - item:
@@ -31509,6 +31531,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/deutsche-kreditbank
           - item:
             name: Deutsche Telekom AG (member)
             homepage_url: https://telekom.com/
@@ -32014,7 +32037,7 @@ landscape:
             name: Edgecore Network Corporation (member)
             homepage_url: https://edge-core.com/
             logo: edgecore_network_corporation.svg
-            description: Edgecore Networks, a leading provider of traditional and open network solutions, delivers wired and wireless networking products and solutions through channel partners and system integrators worldwide for data center, service provider, enterprise, and ...
+            description: Edgecore Networks, a leading provider of traditional and open network solutions, delivers wired and wireless networking products and solutions through channel partners and system integrators worldwide for data center, service provider, enterprise, and ..
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / SONiC Fund
@@ -34585,7 +34608,7 @@ landscape:
             name: Infino AI (member)
             homepage_url: https://infino.ai/
             logo: infino_ai.svg
-            description: Full-text search, vectors, and SQL, directly on Parquet. One copy of your data, on object storage.
+            description: 'Open-source search on Parquet: millisecond queries across petabytes of data, for 10× less. Full-text search, vectors, and SQL, natively in Apache Parquet on object storage.'
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -43059,8 +43082,9 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/tomtom
           - item:
             name: Toradex AG (member)
-            homepage_url: https://torzon.io/
+            homepage_url: https://torizon.io/
             logo: toradex_ag.svg
+            description: Torizon by Toradex offers an easy-to-use industrial Linux platform with seamless integration for accelerated product development and enhanced security and reliability.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Yocto Project Fund
