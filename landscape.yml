@@ -9737,6 +9737,28 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4GKQA1
           - item:
+            name: Interoperability Patterns for Regulated Asset Markets (IPRAM)
+            homepage_url: https://github.com/LFDT-IPRAM
+            logo: interoperability_patterns_for_regulated_asset_markets_ipram.svg
+            description: The mission of the project is to develop open implementation patterns for the interoperation of tokenized real-world regulated financial assets and the markets they participate in.
+            second_path:
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/LFDT-IPRAM/.github
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-09-17'
+              dev_stats_url: https://insights.linuxfoundation.org/project/ipram
+              lfx_slug: ipram
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ipram
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfWy9KGn4fwG4lY7tm
+              annotations:
+                project_org: https://github.com/LFDT-IPRAM
+            additional_repos: []
+          - item:
             name: InterUSS Platform
             homepage_url: https://www.interuss.org/
             logo: interuss_platform.svg
@@ -14602,8 +14624,8 @@ landscape:
                 project_org: https://github.com/nodejs
             additional_repos:
               - repo_url: https://github.com/nodejs/help
-              - repo_url: https://github.com/nodejs/Release
               - repo_url: https://github.com/nodejs/nodejs.org
+              - repo_url: https://github.com/nodejs/Release
               - repo_url: https://github.com/nodejs/node-addon-api
               - repo_url: https://github.com/nodejs/node-gyp
           - item:
@@ -22477,6 +22499,31 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/stratoweave/sorespo
               - repo_url: https://github.com/stratoweave/netclics
+          - item:
+            name: stress-ng
+            homepage_url: https://github.com/stress-ng
+            logo: stress_ng.svg
+            description: stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces.
+            second_path:
+              - Project Group / ELISA Fund
+              - Technology Sector / Linux Kernel
+            repo_url: https://github.com/stress-ng/stress-ng
+            license: Other
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-09-03'
+              dev_stats_url: https://insights.linuxfoundation.org/project/stress-ng
+              lfx_slug: stress-ng
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/stress-ng
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lflQhG32N4k8N92NEb
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/stress-ng/stress-ng_Charter.pdf?v=1788553103195
+              annotations:
+                project_org: https://github.com/stress-ng
+            additional_repos: []
           - item:
             name: Strimzi
             homepage_url: https://strimzi.io/
@@ -38347,7 +38394,7 @@ landscape:
             name: OmniTrust Security LLC (member)
             homepage_url: https://omnitrust.com/
             logo: omnitrust_security_llc.svg
-            description: OmniTrust Security LLC is a top provider of end-to-end embedded security solutions for a secure Internet of Things, key management, certificate management, and secure OTA provisioning
+            description: OmniTrust Security LLC provides hardware-rooted trust and lifecycle security for semiconductors, AI infrastructure, and connected systems. OmniTrust helps establish persistent device identity during secure manufacturing and carries that trust through assembly, deployment, operation, firmware and software change, certificate and key management, post-quantum transition, component replacement, and decommissioning. Working across silicon vendors, OEMs, contract manufacturers, and infrastructure operators, OmniTrust enables a consistent trust policy to follow devices from manufacturing through their full operational life.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Confidential Computing Consortium (CCC)
