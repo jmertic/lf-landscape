@@ -2032,6 +2032,28 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/bitol-io/open-data-product-standard
           - item:
+            name: Blockchain Decentralisation Index
+            homepage_url: https://github.com/Blockchain-Decentralisation-Index
+            logo: blockchain_decentralisation_index.svg
+            description: Open source tool kit for measuring the decentralisation of distributed ledgers, layer by layer — consensus, tokenomics, network, software, and beyond.
+            second_path:
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/Blockchain-Decentralisation-Index/governance
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-09-17'
+              dev_stats_url: https://insights.linuxfoundation.org/project/decentralisation-index
+              lfx_slug: decentralisation-index
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/decentralisation-index
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf0VjIvEp8pJLjVZ4g
+              annotations:
+                project_org: https://github.com/Blockchain-Decentralisation-Index
+            additional_repos: []
+          - item:
             name: Blockhound
             homepage_url: https://github.com/reactor/BlockHound
             logo: blockhound.svg
@@ -17088,6 +17110,24 @@ landscape:
                 - name: Charter
                   url: https://github.com/AcademySoftwareFoundation/foundation/blob/main/project_charters/open-review-initiative_charter.pdf
           - item:
+            name: Open Robust Compartmentalization Alliance (ORCA)
+            homepage_url: https://orca-lf.org/
+            logo: open_robust_compartmentalization_alliance_orca.svg
+            description: The mission of the Project is to convene and empower the open source and research communities to identify, define, develop, and champion open, interoperable specifications, reference architectures, open source software, and tooling that make robust memory isolation the default across many execution environments - enabling developers and organizations to build safer, more resilient software together.
+            second_path:
+              - Technology Sector / Cross-Technology
+            license: Other
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2025-11-11'
+              dev_stats_url: https://insights.linuxfoundation.org/project/isolation-alliance
+              lfx_slug: isolation-alliance
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/isolation-alliance
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfOdgMhyre4dBxwXRi
+          - item:
             name: Open RV
             homepage_url: https://github.com/AcademySoftwareFoundation/OpenRV
             logo: open_rv.svg
@@ -21793,6 +21833,7 @@ landscape:
               - repo_url: https://github.com/sogno-platform/cimgen
               - repo_url: https://github.com/sogno-platform/cimpy
               - repo_url: https://github.com/sogno-platform/libcimpp
+              - repo_url: https://github.com/sogno-platform/cim4j
           - item:
             name: SONiC Foundation
             homepage_url: https://sonicfoundation.dev/
