@@ -3486,6 +3486,28 @@ landscape:
               - repo_url: https://github.com/cloudnative-pg/cnpg-playground
               - repo_url: https://github.com/cloudnative-pg/postgres-extensions-containers
           - item:
+            name: CLPR
+            homepage_url: https://github.com/LFDT-CLPR
+            logo: clpr.svg
+            description: CLPR ("Clipper") is an extensible **C**ross **L**edger **PR**otocol that enables reliable, asynchronous, in-order message passing between independent ledger networks without bridges, pooled liquidity, or intermediary validator networks.
+            second_path:
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/LFDT-CLPR/clpr-spec
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-09-21'
+              dev_stats_url: https://insights.linuxfoundation.org/project/clpr
+              lfx_slug: clpr
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/clpr
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfAtJJs6cNa6xOGpdI
+              annotations:
+                project_org: https://github.com/LFDT-CLPR
+            additional_repos: []
+          - item:
             name: ClusterDuck Protocol
             homepage_url: https://clusterduckprotocol.org/
             logo: clusterduck_protocol.svg
@@ -8051,6 +8073,28 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfZZM92hzPqTlMshmh
           - item:
+            name: Gait
+            homepage_url: https://github.com/gait-extension
+            logo: gait.svg
+            description: The High-Level Assembly Interpreter Extension (HLASM) for VS Code (Patent Pending) is an educational tool designed to help developers new to the mainframe space learn and explore assembly code without the complexity of a traditional mainframe environment. By removing the need to connect to a mainframe, it lowers the barrier to entry and lets learners focus on what matters most — understanding the code. Step through instructions one at a time, monitor registers and memory in real time, and experiment with code snippets freely, all without ever leaving your editor. Whether you're building foundational knowledge or testing your understanding of a concept, it provides a safe, accessible space to learn at your own pace.
+            second_path:
+              - Project Group / Open Mainframe Project (OMP)
+              - Technology Sector / System Engineering
+              - Technology Sector / Web & Application Development
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-09-15'
+              dev_stats_url: https://insights.linuxfoundation.org/project/hlasm-for-vscode
+              lfx_slug: hlasm-for-vscode
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/hlasm-for-vscode
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfcH97f1lRKxLTEh9z
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/hlasm-for-vscode/hlasm-for-vscode_Charter.pdf?v=1790018446793
+          - item:
             name: Galasa
             homepage_url: https://galasa.dev/
             logo: galasa.svg
@@ -12075,6 +12119,8 @@ landscape:
                 project_org: https://github.com/kubewarden
             additional_repos:
               - repo_url: https://github.com/kubewarden/sbomscanner
+              - repo_url: https://github.com/kubewarden/runtime-enforcer
+              - repo_url: https://github.com/kubewarden/network-enforcer
               - repo_url: https://github.com/kubewarden/policies
           - item:
             name: KUDO
@@ -20716,6 +20762,30 @@ landscape:
                   url: https://github.com/lf-energy/foundation/blob/main/project_charters/sc-decarbonisation-hub_charter.pdf
               annotations:
                 project_org: https://github.com/sc-decarbonization-hub
+            additional_repos: []
+          - item:
+            name: Schema Driven Configuration
+            homepage_url: https://docs.sdcio.dev/
+            logo: schema_driven_configuration.svg
+            description: empower users to convert YANG and other schema-defined device APIs into Kubernetes-native CRDs, enabling declarative network configuration through a controller that translates resource changes into device-specific operations
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+              - Technology Sector / Networking & Edge
+            repo_url: https://github.com/sdcio/docs
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-03-16'
+              dev_stats_url: https://insights.linuxfoundation.org/project/schema-driven-configuration
+              lfx_slug: schema-driven-configuration
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/schema-driven-configuration
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfDoLSjZNFi2uqvd5L
+              annotations:
+                project_org: https://github.com/sdcio
             additional_repos: []
           - item:
             name: SchemaHero
