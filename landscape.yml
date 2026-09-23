@@ -1817,8 +1817,7 @@ landscape:
             name: Battery Data Alliance
             homepage_url: https://batterydataalliance.energy/
             logo: battery_data_alliance.svg
-            description: |
-              Sustainable open source software, best practices, and delivery standards for the battery industry
+            description: Sustainable open source software, best practices, and delivery standards for the battery industry
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Safety-Critical Systems
@@ -8085,11 +8084,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2026-09-15'
-              dev_stats_url: https://insights.linuxfoundation.org/project/hlasm-for-vscode
-              lfx_slug: hlasm-for-vscode
+              dev_stats_url: https://insights.linuxfoundation.org/project/gait
+              lfx_slug: gait
               other_links:
                 - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/hlasm-for-vscode
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/gait
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfcH97f1lRKxLTEh9z
                 - name: Charter
@@ -8997,7 +8996,9 @@ landscape:
               annotations:
                 project_org: https://github.com/higress-group
             additional_repos:
+              - repo_url: https://github.com/higress-group/HiRoute
               - repo_url: https://github.com/higress-group/himarket
+              - repo_url: https://github.com/higress-group/openapi-to-mcpserver
               - repo_url: https://github.com/higress-group/higress-console
               - repo_url: https://github.com/higress-group/wasm-go
           - item:
@@ -12415,7 +12416,6 @@ landscape:
             second_path:
               - Project Group / LF Decentralized Trust
               - Technology Sector / Blockchain
-            repo_url: https://github.com/LF-Decentralized-Trust-labs/LF-Decentralized-Trust-labs.github.io
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -12429,9 +12429,6 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkG7WQAV
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/lf-decentralized-trust-labs/lf-decentralized-trust-labs_Charter.pdf?v=1785255116058
-              annotations:
-                project_org: https://github.com/LF-Decentralized-Trust-labs
-            additional_repos: []
           - item:
             name: LF Edge
             homepage_url: https://www.lfedge.org/
@@ -24456,7 +24453,6 @@ landscape:
             second_path:
               - Project Group / LF Energy Standards and Specifications (LFESS)
               - Technology Sector / IoT & Embedded
-            repo_url: https://github.com/urpx-org/urpx-wg
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -24468,9 +24464,6 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/utility-rate-plan-exchange
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfISx1cI6KYboQfjad
-              annotations:
-                project_org: https://github.com/urpx-org
-            additional_repos: []
           - item:
             name: Valkey
             homepage_url: https://valki.io/
@@ -27147,18 +27140,6 @@ landscape:
             twitter: https://twitter.com/AirspanNetworks
             extra:
               linkedin_url: https://www.linkedin.com/company/airspan-networks
-          - item:
-            name: Airwayz (member)
-            homepage_url: https://airwayz.co/
-            logo: airwayz.svg
-            description: Autonomous Operation for Multi-Drone Fleets.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / InterUSS Platform Fund
-            crunchbase: https://www.crunchbase.com/organization/airwayz-drones
-            twitter: https://twitter.com/AirwayzDrones
-            extra:
-              linkedin_url: https://www.linkedin.com/company/airwayz
           - item:
             name: Aisin Corporation (member)
             homepage_url: https://aisin.com/en
