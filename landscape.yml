@@ -9535,6 +9535,31 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWgFPQA1
           - item:
+            name: Iguazu
+            homepage_url: https://github.com/LFDT-Iguazu
+            logo: iguazu.svg
+            description: develop a highly scalable smart contract network for the development of various decentralized applications (DApps)
+            second_path:
+              - Project Group / LF Decentralized Trust
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/LFDT-Iguazu/waterfall-one-click-setup-app
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-09-21'
+              dev_stats_url: https://insights.linuxfoundation.org/project/iguazu
+              lfx_slug: iguazu
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/iguazu
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfmjW4V9Nd1gi64mux
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/iguazu/iguazu_Charter.pdf?v=1790181370885
+              annotations:
+                project_org: https://github.com/LFDT-Iguazu
+            additional_repos: []
+          - item:
             name: image-spec
             homepage_url: https://opencontainers.org/
             logo: image_spec.svg
