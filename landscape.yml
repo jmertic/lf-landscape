@@ -843,7 +843,7 @@ landscape:
                   url: https://www.opnfv.org/wp-content/uploads/sites/12/2018/04/OPNFV-Project-a-Series-of-LF-Projects-LLC-Technical-Charter-4-10-2018.pdf
           - item:
             name: AI SIG
-            homepage_url: https://lfenergy.org/working-groups/lf-energy-artificial-intelligence-ai/
+            homepage_url: https://lfenergy.org/groups/artificial-intelligence-sig/
             logo: ai_sig.svg
             description: |
               LF Energy Special Interest Group (SIG) focused on Aritificial Intelligence (AI)
@@ -6365,7 +6365,7 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWfb1QAD
           - item:
             name: Edge Interoperability and Flexibility SIG
-            homepage_url: https://lf-energy.atlassian.net/wiki/spaces/ECS/overview
+            homepage_url: https://lfenergy.org/groups/edge-interoperability-flexibility-sig/
             logo: edge_interoperability_and_flexibility_sig.svg
             description: LF Energy Special Interest Group (SIG) focused on electric vehicle (EV) charging
             second_path:
@@ -20790,32 +20790,6 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/sbomit
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfYa3PTrXFT95dSQuj
-          - item:
-            name: SC Decarbonisation Hub
-            homepage_url: https://lfenergy.org/projects/sc-decarbonisation-hub/
-            logo: sc_decarbonisation_hub.svg
-            description: |
-              An open source platform that provides visibility into, and enables the management of, suppliers' Scope 3 greenhouse gas emissions to help companies develop strategies and take action towards net-zero targets
-            second_path:
-              - Project Group / LF Energy (LFE)
-              - Technology Sector / Cross-Technology
-            repo_url: https://github.com/sc-decarbonization-hub/SCDHApi
-            license: Apache-2.0
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2024-09-26'
-              dev_stats_url: https://insights.linuxfoundation.org/project/sc-decarbonisation-hub
-              lfx_slug: sc-decarbonisation-hub
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/sc-decarbonisation-hub
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfLxmTMlwn9Fj9aCbx
-                - name: Charter
-                  url: https://github.com/lf-energy/foundation/blob/main/project_charters/sc-decarbonisation-hub_charter.pdf
-              annotations:
-                project_org: https://github.com/sc-decarbonization-hub
-            additional_repos: []
           - item:
             name: Schema Driven Configuration
             homepage_url: https://docs.sdcio.dev/
@@ -35724,9 +35698,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/kiowy
           - item:
-            name: Kiratech SpA (member)
+            name: Kiratech 2 S.p.A. (member)
             homepage_url: https://kiratech.it/
-            logo: kiratech_spa.svg
+            logo: kiratech_2_s_p_a.svg
             description: 'DevOps, Hybrid Cloud, Security: Your Partner for the Digital Transformation'
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
@@ -37648,7 +37622,7 @@ landscape:
             name: NEAR (member)
             homepage_url: https://near.ai/
             logo: near.svg
-            description: AI agents for the work your team has been afraid to automate. Private by default, verifiable by design.
+            description: NEAR AI Cloud runs frontier open models inside hardware-secured TEEs. Every request is attested end to end — confidential by default, verifiable by anyone.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Confidential Computing Consortium (CCC)
@@ -38612,7 +38586,7 @@ landscape:
             name: OpenObserve (member)
             homepage_url: https://openobserve.ai/
             logo: openobserve.svg
-            description: OpenObserve is a platform that provides log search, infrastructure monitoring, and application performance management (APM) solutions. It simplifies observability setup and reduces storage costs by approximately 140x compared to other solutions.
+            description: OpenObserve provides a high-performance, open-source observability platform designed for the AI era, enabling users to achieve unified observability with significantly reduced storage costs while transforming alert noise into actionable signals through...
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -42298,6 +42272,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/superplane
           - item:
             name: SurrealDB (member)
             homepage_url: https://surrealdb.com/
@@ -43882,7 +43857,7 @@ landscape:
             name: Vana Inc (member)
             homepage_url: https://vana.org/
             logo: vana_inc.svg
-            description: Vana is open data infrastructure for human-grounded AI. Own the data you create and port it between apps and AI systems, without a platform intermediary.
+            description: Vana is open data infrastructure for human-grounded AI. Human data moves under the permission of the person it belongs to, with a record.
             second_path:
               - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
