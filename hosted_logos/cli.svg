@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">CLI cloud mark</title>
+  <desc id="desc">Silver CLI cloud symbol on a black circular background.</desc>
+  <defs>
+    <linearGradient id="silver" x1="0" y1="108" x2="0" y2="188" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#C9C9C9"/>
+      <stop offset="1" stop-color="#646464"/>
+    </linearGradient>
+  </defs>
+  <circle cx="128" cy="128" r="128" fill="#0A0A0A"/>
+  <path fill="url(#silver)" d="M70.8 107.5C78.4 83.1 100.8 66.5 126.5 66.5c18.7 0 35.5 8.8 46.2 24.2 1 1.4.6 3.1-.8 4L79.8 149.4l66.6-29.3c9.5-4 19.8-5.5 29.9-3.8 26.8 4.3 46.3 23.9 46.3 45.1 0 14.5-12 26.4-26.7 26.4H72.2c-21.8 0-39.3-17.8-39.3-39.7 0-20.3 16.1-37.2 37.9-40.6Z"/>
+</svg>
