@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1400" width="1500" height="1400">
+  <defs>
+    <style>
+      .bg{fill:#0a0b0d}
+      .ink{fill:#ffffff}
+      .accent{fill:#5b95ff}
+      .accent-stroke{fill:none;stroke:#5b95ff}
+      .cut{fill:#0a0b0d}
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect class="bg" width="1500" height="1400"/>
+
+  <!-- C -->
+  <path d="M 678 833 A 232 232 0 1 1 678 547" fill="none" stroke="#ffffff" stroke-width="115" stroke-linecap="butt"/>
+
+  <!-- keyhole inside the C -->
+  <circle class="accent" cx="495" cy="660" r="50"/>
+  <path class="accent" d="M 474 696 L 516 696 L 522 775 L 468 775 Z"/>
+
+  <!-- key shaft with pointed bit (sits behind the A's left leg) -->
+  <path class="accent" d="M 640 700 L 690 655 L 735 655 L 735 675 L 760 675 L 760 655 L 1100 655 L 1100 745 L 690 745 Z"/>
+
+  <!-- A -->
+  <path class="ink" d="M 845 365 L 972 365 L 1185 965 L 1060 965 L 915 555 L 800 965 L 680 965 Z"/>
+
+  <!-- black separation where the key crosses the A's right leg -->
+  <rect class="cut" x="960" y="635" width="200" height="130"/>
+  <circle class="cut" cx="1160" cy="700" r="152"/>
+
+  <!-- key shaft continuation and head -->
+  <rect class="accent" x="960" y="655" width="200" height="90"/>
+  <circle class="accent-stroke" cx="1160" cy="700" r="90" stroke-width="80"/>
+</svg>
