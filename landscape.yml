@@ -1323,10 +1323,10 @@ landscape:
                 project_org: https://github.com/appium
             additional_repos:
               - repo_url: https://github.com/appium/appium-xcuitest-driver
-              - repo_url: https://github.com/appium/appium-android-driver
-              - repo_url: https://github.com/appium/appium-uiautomator2-server
-              - repo_url: https://github.com/appium/python-client
               - repo_url: https://github.com/appium/java-client
+              - repo_url: https://github.com/appium/appium-ios
+              - repo_url: https://github.com/appium/appium-android
+              - repo_url: https://github.com/appium/appium-uiautomator2-driver
           - item:
             name: Application Authorization Framework (AAF)
             homepage_url: https://wiki.onap.org/x/E5B9
@@ -18733,7 +18733,7 @@ landscape:
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / DevOps, CI:CD & Site Reliability
               - Technology Sector / Web & Application Development
-            repo_url: https://github.com/paketo-buildpacks/spring-boot
+            repo_url: https://github.com/paketo-buildpacks/samples
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-04-21'
@@ -18747,7 +18747,6 @@ landscape:
               annotations:
                 project_org: https://github.com/paketo-buildpacks
             additional_repos:
-              - repo_url: https://github.com/paketo-buildpacks/samples
               - repo_url: https://github.com/paketo-buildpacks/java
               - repo_url: https://github.com/paketo-buildpacks/dotnet-core
               - repo_url: https://github.com/paketo-buildpacks/nodejs
@@ -26671,6 +26670,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/acc-ict
           - item:
+            name: Accr8 (member)
+            homepage_url: https://accr8.ai/
+            logo: accr8.svg
+            description: Accr8 is building a way for finance leaders to measure the realized return on AI spend. The goal is value tied to business outcomes, backed by evidence you can put in front of a board. Tokens, seats and usage show what AI consumed. We focus on what it delivered, so finance can decide what to scale and where the next dollar goes.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / FinOps Foundation
+          - item:
             name: ACKSTORM (member)
             homepage_url: https://ackstorm.com/
             logo: ackstorm.svg
@@ -26781,6 +26788,12 @@ landscape:
             twitter: https://twitter.com/WeAreAdaptive
             extra:
               linkedin_url: https://www.linkedin.com/company/adaptive-consulting-ltd
+          - item:
+            name: Adaptt AI (member)
+            homepage_url: https://adaptt.ai/
+            logo: adaptt_ai.svg
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Addresscloud (member)
             homepage_url: https://addresscloud.com/
@@ -28201,6 +28214,7 @@ landscape:
               - Project Membership / ELISA Fund
               - Project Membership / Confidential Computing Consortium (CCC)
               - Project Membership / Open Source Security Foundation (OpenSSF)
+              - Project Membership / Core Toolchain Infrastructure (CTI)
               - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
               - Project Membership / Linux Foundation Europe
               - Project Membership / PyTorch Foundation
@@ -28488,14 +28502,6 @@ landscape:
             twitter: https://twitter.com/AuriStor
             extra:
               linkedin_url: https://www.linkedin.com/company/auristor-inc
-          - item:
-            name: AuthPlane (member)
-            homepage_url: https://accr8.ai/
-            logo: authplane.svg
-            description: Accr8 is building a way for finance leaders to measure the realized return on AI spend. The goal is value tied to business outcomes, backed by evidence you can put in front of a board. Tokens, seats and usage show what AI consumed. We focus on what it delivered, so finance can decide what to scale and where the next dollar goes.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / FinOps Foundation
           - item:
             name: Authzed (member)
             homepage_url: https://authzed.com/
@@ -30357,6 +30363,7 @@ landscape:
 
               CIQ is reimagining software infrastructure with Rocky Linux as its foundation stone. Apptainer, Warewulf, and Fuzzball aid in security, HPC computing, and cluster management.
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / Academy Software Foundation (ASWF)
           - item:
@@ -31044,7 +31051,7 @@ landscape:
             name: Collabora Ltd. (member)
             homepage_url: https://collabora.com/
             logo: collabora_ltd.svg
-            description: Collabora is a global private company headquartered in Cambridge, United Kingdom, with offices in Cambridge and Montreal.
+            description: Collabora is a global private company headquartered in Cambridge, United Kingdom, with offices in Cambridge and Montreal (Canada).
             second_path:
               - Project Membership / Automotive Grade Linux (AGL)
               - Project Membership / The Linux Foundation
@@ -35647,30 +35654,6 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
           - item:
-            name: Integrated Computer Solutions, Inc. (member)
-            homepage_url: https://ics.com/
-            logo: integrated_computer_solutions_inc.svg
-            description: |-
-              Headquarters:
-              54 Middlesex Turnpike
-              Suite B
-              Bedford, MA 01730
-              Phone: 617.621.0060
-              Fax: 617.621.9555
-              Email: info@ics.com
-
-              Other ICS Locations
-                  Sunnyvale, CA
-                  Houston, TX
-                  Ottawa, ON
-            second_path:
-              - Project Membership / Automotive Grade Linux (AGL)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/ics-inc
-            twitter: https://twitter.com/icsonqt
-            extra:
-              linkedin_url: https://www.linkedin.com/company/integrated-computer-solutions-inc.
-          - item:
             name: Intel Corporation (member)
             homepage_url: https://intel.com/
             logo: intel_corporation.svg
@@ -36089,6 +36072,13 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/bocloud
+          - item:
+            name: Jizô AI (member)
+            homepage_url: https://jizo.ai/
+            logo: jizo_ai.svg
+            description: Jizô AI détecte, explique et sécurise vos réseaux IT et OT avec une analyse comportementale avancée.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: JMA Wireless (member)
             homepage_url: https://jmawireless.com/
@@ -39220,15 +39210,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/northflank-ltd
           - item:
-            name: Nosana (member)
-            homepage_url: https://nosana.io/
-            logo: nosana.svg
-            description: Nosana operates a marketplace that facilitates AI inference by providing users with on-demand access to decentralized computing power, allowing them to utilize idle hardware for supporting AI projects while generating revenue.
-            second_path:
-              - Project Membership / The Linux Foundation
-            extra:
-              linkedin_url: https://www.linkedin.com/company/nosana
-          - item:
             name: Nota Inc. (member)
             homepage_url: https://nota.ai/
             logo: nota_inc.svg
@@ -39443,6 +39424,13 @@ landscape:
             twitter: https://twitter.com/NXP
             extra:
               linkedin_url: https://www.linkedin.com/company/nxp-semiconductors
+          - item:
+            name: o9 Solutions, Inc. (member)
+            homepage_url: https://o9solutions.com/
+            logo: o9_solutions_inc.svg
+            description: o9 Solutions provides an AI-powered Integrated Planning Analytics platform for global companies, facilitating smarter and faster decision-making in Consumer Products, Retail, and Manufacturing sectors.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Obot AI, Inc. (member)
             homepage_url: https://obot.ai/
@@ -40315,7 +40303,7 @@ landscape:
             name: Platform Engineering Labs (member)
             homepage_url: https://platform.engineering/
             logo: platform_engineering_labs.svg
-            description: 'Platform Engineering Labs is rebooting the software delivery stack for humans and agents: formae for infrastructure, Orbital for packaging, the Hangar for the registry, and AppShuttle for delivery.'
+            description: 'Platform Engineering Labs is rebooting the software delivery stack for humans and agents: formae for infrastructure, Orbital for packaging, Hangar for the registry, and AppShuttle for delivery.'
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -45046,13 +45034,6 @@ landscape:
             twitter: https://twitter.com/usbank
             extra:
               linkedin_url: https://www.linkedin.com/company/us-bank
-          - item:
-            name: USI (member)
-            homepage_url: https://myunifyai.com/
-            logo: usi.svg
-            description: USI offers a comprehensive platform that integrates workforce development, compliance management, and training solutions, utilizing advanced AI technologies to streamline processes in industries such as construction and telecommunications.
-            second_path:
-              - Project Membership / The Linux Foundation
           - item:
             name: UST Global, Inc. (member)
             homepage_url: https://www.ust.com/
