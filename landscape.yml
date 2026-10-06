@@ -17363,17 +17363,22 @@ landscape:
             second_path:
               - PMO Managed / All
               - Technology Sector / IoT & Embedded
+            repo_url: https://github.com/openstx/public-specification
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-03-12'
+              dev_stats_url: https://insights.linuxfoundation.org/project/murmur-project
               lfx_slug: murmur-project
               other_links:
                 - name: Calendar
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/murmur-project
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfVo31h5MKJatrVMK7
+              annotations:
+                project_org: https://github.com/openstx
               linkedin_url: https://www.linkedin.com/company/openstx-foundation
+            additional_repos: []
           - item:
             name: OpenSynth
             homepage_url: https://github.com/OpenSynth-energy/OpenSynth
@@ -30096,6 +30101,7 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / Academy Software Foundation (ASWF)
+            crunchbase: https://www.crunchbase.com/organization/ciq-bec8
           - item:
             name: Circle Internet Contract Services LLC (member)
             homepage_url: https://circle.com/
@@ -33306,10 +33312,15 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/f5
           - item:
             name: Factory (member)
-            homepage_url: https://factory.com/
+            homepage_url: https://factory.ai/
             logo: factory.svg
+            description: Factory is an AI startup revolutionizing software engineering with autonomous Droids and coding agents.
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/factory-19d8
+            extra:
+              linkedin_url: https://www.linkedin.com/company/factory-hq
           - item:
             name: Fairsquarelab (member)
             homepage_url: https://fairsquarelab.com/
@@ -39813,6 +39824,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/permitio
           - item:
+            name: Perplexity AI (member)
+            homepage_url: https://perplexity.ai/
+            logo: perplexity_ai.svg
+            description: Perplexity AI is an answer engine that utilizes large language models to provide accurate answers to questions. The company focuses on advancing the way people discover and share information through its software development services.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Perr&Knight (member)
             homepage_url: https://perrknight.com/
             logo: perr_knight.svg
@@ -43402,6 +43420,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/synadia-communications
           - item:
+            name: SynapseLayer Inc (member)
+            homepage_url: https://synapselayer.ai/
+            logo: synapselayer_inc.svg
+            description: SynapseLayer develops automated ontology infrastructure that extracts deterministic business rules from documented processes, providing a reliable trust layer for AI agents in regulated industries such as healthcare, insurance, logistics, and capital m...
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Synax GmbH (member)
             homepage_url: https://synax.io/
             logo: synax_gmbh.svg
@@ -44099,6 +44124,12 @@ landscape:
             twitter: https://twitter.com/TDBank_US
             extra:
               linkedin_url: https://www.linkedin.com/company/td
+          - item:
+            name: The Waldrep Family LLC (member)
+            homepage_url: https://pipelab.org/
+            logo: the_waldrep_family_llc.svg
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: The Walt Disney Studios (member)
             homepage_url: https://disney.com/
@@ -46652,6 +46683,12 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
           - item:
+            name: 5G Security Test Bed (member)
+            homepage_url: https://5gsecuritytestbed.com/
+            logo: 5g_security_test_bed.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: AAIS (American Association of Insurance Services) (member)
             homepage_url: https://aaisonline.com/
             logo: aais_american_association_of_insurance_services.svg
@@ -47990,19 +48027,6 @@ landscape:
             logo: decentralized_storage_alliance_association.svg
             description: Empowering organizations to harness decentralized storage.
             second_path:
-              - Project Membership / The Linux Foundation
-          - item:
-            name: DeCurret DCP Inc (member)
-            homepage_url: https://www.decurret-dcp.com/en/
-            logo: decurret_dcp_inc.svg
-            description: |-
-              ディーカレットDCP is a company that aims to digitize all currencies and values, contributing to the creation of a prosperous society.
-
-              --- Merged Data:
-
-              Decurret DCP digitizes currencies and values for societal prosperity, focusing on DX platform development and industry events like FIN/SUM2024.
-            second_path:
-              - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
           - item:
             name: Delft University of Technology (member)
