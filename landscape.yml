@@ -4209,7 +4209,7 @@ landscape:
             description: The mission of the project is to develop and maintain open, royalty-free, machine-readable specifications for digital file formats used in configure-to-order modular building products, including the .CTO format for product configurations and assemblies and the .CIS format for connection interface standards, along with reference implementations and validation tooling.
             second_path:
               - Technology Sector / Storage
-            repo_url: https://github.com/configurator-file-type/configurator-file-type-spec
+            repo_url: https://github.com/configurator-file-type/cto-specification
             license: TBD / NA
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -36290,67 +36290,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/kosli-dev
           - item:
-            name: KPIT Technologies Limited (member)
-            homepage_url: https://kpit.com/
-            logo: kpit_technologies_limited.svg
-            description: |-
-              KPIT a trusted global IT consulting & product engineering partner focused on co-innovating domain intensive technology solutions.
-
-
-
-              KPIT Technologies Ltd. (BSE: 532400; NSE: KPIT), a trusted global IT Consulting and product engineering partner, is focused on co-innovating domain intensive technology solutions for Automotive, Manufacturing and Energy & Utilities corporations to help customers become efficient, integrated and innovative enterprises. It helps its customers globalize efficiently & bring complex technology products/ systems faster to their global markets. 
-
-
-
-              Provenance: in business since 1990 with global operations & partnerships 
-
-              People: 8300+ (as on March 31, 2014) 
-
-              Revenues: USD 444+ Mn. 
-
-              Innovation: 50 patents filed 
-
-              Presence: 11 countries 
-
-              Long standing relationships: 200+ active customers. 
-
-              Corporate Governance: Ranked among top 25 companies for 4 consecutive years by ICSI (Institute of Company Secretaries of India)see less
-
-              Specialties
-
-              Business technology services, IT services, Product Engineering, Embedded Systems Development, Enterprise Software Support, Manufacturing, Automotive & Transportation, Energy & Utilties, SAP, Oracle
-
-              Website
-
-              http://www.kpit.com
-
-              Industry
-
-              Information Technology and Services
-
-              Type
-
-              Public Company
-
-              Headquarters
-
-              35/36, Rajiv Gandhi Infotech Park, Phase I, MIDC, Hinjawadi, Pune, Maharashtra 411057 India
-
-              Company Size
-
-              5001-10,000 employees
-
-              Founded
-
-              1990
-            second_path:
-              - Project Membership / Automotive Grade Linux (AGL)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/kpit-cummins
-            twitter: https://twitter.com/KPIT
-            extra:
-              linkedin_url: https://www.linkedin.com/company/kpit
-          - item:
             name: KPMG LLP (member)
             homepage_url: https://kpmg.com/
             logo: kpmg_llp.svg
@@ -39971,6 +39910,13 @@ landscape:
             twitter: https://twitter.com/pipekitio
             extra:
               linkedin_url: https://www.linkedin.com/company/pipekit-io
+          - item:
+            name: PipeLab (member)
+            homepage_url: https://pipelab.org/
+            logo: pipelab.svg
+            description: PipeLab builds Pipelock, an open-source firewall for AI agents. Pipelock scans the HTTP, MCP, A2A and WebSocket traffic routed through it for credential leaks, prompt injection and SSRF, and signs a receipt for each action so anyone can check what an agent actually did. PipeLab also maintains Agent Egress Bench, an open corpus and runner for testing agent egress controls; Agent Evidence Level (AEL), an open standard for grading agent audit evidence by what an outside party can verify; and Pipelock Rules, the community detection rules for Pipelock.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Pipeshift (member)
             homepage_url: https://pipeshift.com/
@@ -44124,12 +44070,6 @@ landscape:
             twitter: https://twitter.com/TDBank_US
             extra:
               linkedin_url: https://www.linkedin.com/company/td
-          - item:
-            name: The Waldrep Family LLC (member)
-            homepage_url: https://pipelab.org/
-            logo: the_waldrep_family_llc.svg
-            second_path:
-              - Project Membership / The Linux Foundation
           - item:
             name: The Walt Disney Studios (member)
             homepage_url: https://disney.com/
