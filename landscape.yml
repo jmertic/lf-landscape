@@ -10886,7 +10886,8 @@ landscape:
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/katalis/katalis_Charter.pdf?v=1774985434219
               annotations:
                 project_org: https://github.com/neonephos-katalis
-            additional_repos: []
+            additional_repos:
+              - repo_url: https://github.com/neonephos-katalis/opg-ewbi-documentation
           - item:
             name: kbind
             homepage_url: https://kbind.dev/
@@ -25740,6 +25741,7 @@ landscape:
               - Project Membership / SONiC Fund
               - Project Membership / Ultra Ethernet Consortium Fund
               - Project Membership / Post-Quantum Cryptography Alliance
+              - Project Membership / Camara Fund
               - Project Membership / DAOS Foundation
               - Project Membership / App Defense Alliance Fund
               - Project Membership / Unified Acceleration Foundation Fund
@@ -30211,6 +30213,12 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/civocloud
           - item:
+            name: CIX Technology (member)
+            homepage_url: https://cixtech.com/
+            logo: cix_technology.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: claion (member)
             homepage_url: https://claion.co.kr/
             logo: claion.svg
@@ -33126,7 +33134,7 @@ landscape:
             name: Evenkeel Inc. d/b/a Kubex (member)
             homepage_url: https://kubex.ai/
             logo: evenkeel_inc_d_b_a_kubex.svg
-            description: Densify enables global organizations to scientifically balance infrastructure supply and application demand creating a demand-driven approach to infrastructure management that maximizes efficiency and cost-savings while reducing risk. The company serves a range of industries such as financial services, telecommunications, oil & gas, technology, and more. Densify holds offices in Richmond Hill, Ontario, Canada; New York, New York; and London, England, UK.
+            description: Kubex is a sophisticated AI-driven analytics solution designed to assist enterprises in optimizing their Kubernetes, AI and cloud infrastructure. This innovative platform focuses on reducing operational costs, enhancing efficiency, and ensuring stability within complex and dynamic environments. The company serves a range of industries such as financial services, telecommunications, oil & gas, technology, and more. Kubex HQ is in Richmond Hill, Ontario, Canada.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -33902,7 +33910,7 @@ landscape:
             name: Geniez (member)
             homepage_url: https://geniez.ai/
             logo: geniez.svg
-            description: The Geniez GenAI Framework enables Secure AI for IBM Z. Achieve seamless Mainframe LLM integration with real-time mainframe data. Generative AI for Mainframe starts here.
+            description: Bring Mainframe AI and Mainframe Agentic AI to z/OS with Geniez. Expert AI agents monitor, troubleshoot, secure and automate live mainframe systems.
             second_path:
               - Project Membership / The Linux Foundation
           - item:
@@ -39702,6 +39710,17 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/patapsco-ai
           - item:
+            name: PayPal Holdings, Inc. (member)
+            homepage_url: https://paypal.com/
+            logo: paypal_holdings_inc.svg
+            description: PayPal, founded in 1998, operates as a technology platform company that enables digital and mobile payments on behalf of consumers and merchants worldwide. It enables businesses of various sizes to accept payments from merchant Websites, mobile devices, and applications, as well as at offline retail locations through a range of payment solutions, including PayPal, PayPal Credit, Braintree, Venmo, Xoom, and Paydiant products. The company's platform allows consumers to shop by sending payments, withdraw funds to their bank accounts, and hold balances in their PayPal accounts in various currencies. In 2015, PayPal was available to more than 202 countries and processed 4.9 billion payments.
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/paypal
+            twitter: https://twitter.com/PayPal
+            extra:
+              linkedin_url: https://www.linkedin.com/company/paypal
+          - item:
             name: Pelotech (member)
             homepage_url: https://pelo.tech/
             logo: pelotech.svg
@@ -41202,7 +41221,7 @@ landscape:
             name: rocketride.ai (member)
             homepage_url: https://rocketride.ai/
             logo: rocketride.svg
-            description: The AI runtime for pro developers who care about craftsmanship. The only AI meta-harness built on a C++ runtime designed for pro developers to build, run, and scale AI apps with zero infrastructure to manage.
+            description: Build, run, and harness AI at rocket speed. From prototype to production. Fully managed, predictable costs, true portability.
             second_path:
               - Project Membership / The Linux Foundation
           - item:
