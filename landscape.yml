@@ -3459,7 +3459,7 @@ landscape:
             description: CLPR ("Clipper") is an extensible **C**ross **L**edger **PR**otocol that enables reliable, asynchronous, in-order message passing between independent ledger networks without bridges, pooled liquidity, or intermediary validator networks.
             second_path:
               - Technology Sector / Blockchain
-            repo_url: https://github.com/LFDT-CLPR/clpr-spec
+            repo_url: https://github.com/LFDT-CLPR/clpr-smart-contracts
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -21739,6 +21739,25 @@ landscape:
                 project_org: https://github.com/swhid
             additional_repos: []
           - item:
+            name: Software Supply Chain Security Project
+            homepage_url: https://uptane.github.io/
+            logo: software_supply_chain_security_project.svg
+            description: Uptane is an open and secure software update system design which protects software delivered over-the-air to the computerized units of automobiles.
+            second_path:
+              - PMO Managed / All
+              - Industry / Automotive
+              - Technology Sector / Web & Application Development
+              - Technology Sector / Privacy & Security
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2019-07-23'
+              lfx_slug: uptane
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/uptane
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JVs9YQAT
+          - item:
             name: Software Updates Working Group (WG)
             homepage_url: https://wiki.linuxfoundation.org/civilinfrastructureplatform/cip-sw-updates
             logo: software_updates_working_group_wg.svg
@@ -24171,25 +24190,6 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/aswf-usd-wg
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWjDUQA1
-          - item:
-            name: Uptane
-            homepage_url: https://uptane.github.io/
-            logo: uptane.svg
-            description: Uptane is an open and secure software update system design which protects software delivered over-the-air to the computerized units of automobiles.
-            second_path:
-              - PMO Managed / All
-              - Industry / Automotive
-              - Technology Sector / Web & Application Development
-              - Technology Sector / Privacy & Security
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2019-07-23'
-              lfx_slug: uptane
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/uptane
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JVs9YQAT
           - item:
             name: Urban Computing Foundation (UCF)
             homepage_url: https://uc.foundation/
@@ -29374,15 +29374,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/brobridge
           - item:
-            name: BTS Group (member)
-            homepage_url: https://btsgrp.com/
-            logo: bts_group.svg
-            description: BTS Group is a leading professional services company offering innovative IT solutions and consulting services. With a strong focus on digital transformation, AI, and automation, BTS Group designs cutting-edge platforms and collaborates with industry le...
-            second_path:
-              - Project Membership / The Linux Foundation
-            extra:
-              linkedin_url: https://www.linkedin.com/company/btsgroup
-          - item:
             name: Buf Technologies, Inc. (member)
             homepage_url: https://buf.build/
             logo: buf_technologies_inc.svg
@@ -30844,6 +30835,78 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
           - item:
+            name: Cohesity, Inc (member)
+            homepage_url: https://cohesity.com/
+            logo: cohesity_inc.svg
+            description: |-
+              Cohesity enables companies of all sizes to bring order to their data chaos by converging storage workloads, including file services, data protection, DevOps, and in-place analytics, onto an infinitely scalable, intelligent data platform. With Cohesity, customers can manage and protect data seamlessly, use it efficiently, and learn from it instantly. Cohesity is headquartered in the heart of Silicon Valley, California and delivers success for customers globally with a presence across the Americas, EMEA, and APAC.
+
+
+
+              Specialties
+
+              Storage, Backup, Recovery, Analytics, Test & Dev, DevOps
+
+
+
+              Website
+
+              http://www.cohesity.com
+
+              Industry
+
+              Information Technology and Services
+
+
+
+              Type
+
+              Privately Held
+
+
+
+              Headquarters
+
+              451 El Camino Real Santa Clara, California 95050 United States
+
+
+
+              Company Size
+
+              51-200 employees
+
+
+
+              Founded
+
+              2013
+
+
+
+              Leadership
+
+              Mohit Aron
+
+              Founder and CEO
+
+
+
+              Riccardo Di Blasio
+
+              COO and Head of Field Operations
+
+
+
+              Patrick Rogers
+
+              Head of Marketing & Product Management
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/cohesity
+            twitter: https://twitter.com/Cohesity
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cohesity
+          - item:
             name: Coinbase Inc. (member)
             homepage_url: https://coinbase.com/
             logo: coinbase_inc.svg
@@ -30987,9 +31050,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/conoa
           - item:
-            name: Consensys AG (member)
+            name: Consensys Incorporated (member)
             homepage_url: https://consensys.io/
-            logo: consensys_ag.svg
+            logo: consensys_incorporated.svg
             description: |-
               ConsenSys is a blockchain app production studio. We build decentralized applications for the emerging Ethereum ecosystem. We are working on projects in several niches of that space, some of which are decentralized applications (dApps) and some are utilities for the ecosystem.
               Specialties: Cryptocurrency, Blockchain, Web 3.0
@@ -31211,6 +31274,12 @@ landscape:
               - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/cosmos-network
+          - item:
+            name: CounterMove AI (member)
+            homepage_url: https://countermoveai.com/
+            logo: countermove_ai.svg
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: CPMC (member)
             homepage_url: https://cpmccorp.com/
@@ -33000,9 +33069,14 @@ landscape:
               - Project Membership / FinOps Foundation
           - item:
             name: ENVZERO (member)
-            homepage_url: https://env0.com/
+            homepage_url: https://envzero.com/
             logo: envzero.svg
-            description: Automate the provisioning of Terraform workflows and Infrastructure as Code with env0. Get visibility, predictability and governance on your cloud deployments.
+            description: |-
+              env zero is the company behind the autonomous cloud control plane for large enterprises running infrastructure at scale. Formed through the merger of env zero and CloudQuery in March 2026, the platform pairs CloudQuery's ability to continuously extract every cloud and infrastructure source into a single central data store with env zero's IaC governance, then layers a context engine on top, so the whole estate can be understood and operated deterministically by both people and AI.
+
+              The platform continuously discovers shadow resources and detects drift from desired state across configuration, security, compliance, cost, performance, and ownership, then closes the loop from detection to verified fix, without requiring engineers to stitch together a multitude of tools to answer one question.
+
+              Leading enterprises including PayPal, Broadcom, Paramount, MongoDB, Walmart, Fidelity, Visa, Western Union, Pismo, Adaptavist, Automation Anywhere, and Virgin Media O2 use the platform to standardize and govern infrastructure delivery across teams, clouds, and IaC frameworks.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -34046,6 +34120,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/giant-swarm
           - item:
+            name: Gidanc AI LLC (member)
+            homepage_url: https://gidanc.ai/
+            logo: gidanc_ai_llc.svg
+            description: Gidanc Ai LLC is a technology company that has been in the industry for over 40 years. They specialize in providing services and products that help individuals and companies make informed decisions and navigate the market towards positive outcomes. Wit...
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: GienTech (member)
             homepage_url: https://gientech.com/
             logo: gientech.svg
@@ -34820,6 +34901,12 @@ landscape:
               - Project Membership / Zephyr Project
             extra:
               linkedin_url: https://www.linkedin.com/company/hubblenetwork
+          - item:
+            name: Hudson River Trading LLC (member)
+            homepage_url: https://hudson-trading.com/
+            logo: hudson_river_trading_llc.svg
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Hugging Face Inc (member)
             homepage_url: https://huggingface.co/
@@ -38746,6 +38833,13 @@ landscape:
             name: Nexus Co.,Ltd (member)
             homepage_url: https://to.nexus/
             logo: nexus_co.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
+            name: nFOX (member)
+            homepage_url: https://nfoxlab.com/
+            logo: nfox.svg
+            description: nFOX provides a secure enterprise AI sandboxing platform that combines private AI infrastructure with advanced safety measures to enable organizations to run AI workloads safely while protecting their intellectual property.
             second_path:
               - Project Membership / The Linux Foundation
           - item:
@@ -42843,6 +42937,13 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/southworks
           - item:
+            name: Soveryn intelligence LLC (member)
+            homepage_url: https://soverynintelligence.com/
+            logo: soveryn_intelligence_llc.svg
+            description: SOVERYN Intelligence develops AI systems that prioritize memory, verification, and control, providing private artificial intelligence solutions for organizations seeking reliable and secure data management without the risks of inaccuracies or data leaks.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Space Cubics (member)
             homepage_url: https://spacecubics.com/
             logo: space_cubics.svg
@@ -42981,7 +43082,6 @@ landscape:
             logo: spitzkop.svg
             description: Spitzkop is a system and software engineering company with strong expertise in Cloud/DevOps/DevSecOps/DevNetOps. They provide tailor-made and off-the-shelf solutions for digital transformation, innovation, and skill building, using a value chain and re...
             second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/spitzkop
             extra:
@@ -43374,6 +43474,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/sumitomo-electric
           - item:
+            name: Sumitomo Mitsui Card Company,Limited (member)
+            homepage_url: https://smbc-card.com/
+            logo: sumitomo_mitsui_card_company_limited.svg
+            description: 三井住友カード is a top credit card provider in Japan, offering a variety of cards with benefits like ETC and points services. They focus on cashless transactions and provide standard and gold cards with convenient features for users.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / FINOS (The Fintech Open Source Foundation)
+          - item:
             name: Summit58 LLC (member)
             homepage_url: https://summit58.com/
             logo: summit58_llc.svg
@@ -43381,6 +43489,14 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / FINOS (The Fintech Open Source Foundation)
+          - item:
+            name: Superasystem (member)
+            homepage_url: https://superasystem.jp/
+            logo: superasystem.svg
+            description: Superasystem株式会社 develops a Runtime Immunity Platform that utilizes advanced technologies such as KeyLessDNA for memory encryption, MukenVault, and SecuOS to protect runtime data, aiming to establish new standards in cybersecurity that enhance trust an...
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Confidential Computing Consortium (CCC)
           - item:
             name: Super Micro Computer, Inc. (member)
             homepage_url: https://supermicro.com/
@@ -43940,6 +44056,7 @@ landscape:
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / LF Networking (LFN)
+              - Project Membership / Camara Fund
             crunchbase: https://www.crunchbase.com/organization/telus
             twitter: https://twitter.com/TELUS
             extra:
@@ -44388,6 +44505,13 @@ landscape:
             twitter: https://twitter.com/Tintri
             extra:
               linkedin_url: https://www.linkedin.com/company/tintri
+          - item:
+            name: TKOResearch (member)
+            homepage_url: https://tkoresearch.com/
+            logo: tkoresearch.svg
+            description: TKO Research specializes in providing advanced cybersecurity solutions and consulting services, including innovative tools like PolicyDrafter and ChattyLLM, to help modern enterprises protect their digital assets and stay ahead of emerging threats.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: Tokenovate (member)
             homepage_url: https://tokenovate.com/
@@ -45114,6 +45238,7 @@ landscape:
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/varnish-software
             extra:
               linkedin_url: https://www.linkedin.com/company/varnish-software
           - item:
@@ -46376,6 +46501,13 @@ landscape:
               - Project Membership / GraphQL Foundation
             extra:
               linkedin_url: https://www.linkedin.com/company/wundergraph
+          - item:
+            name: XBOW USA Inc. (member)
+            homepage_url: https://xbow.com/
+            logo: xbow_usa_inc.svg
+            description: XBOW offers an autonomous offensive security platform that utilizes AI to simulate real-world attacks, identifying and validating vulnerabilities in applications to enhance cybersecurity measures.
+            second_path:
+              - Project Membership / The Linux Foundation
           - item:
             name: x-cellent technologies GmbH (member)
             homepage_url: https://x-cellent.com/
