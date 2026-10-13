@@ -2072,6 +2072,28 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfAMm7zcQLL5ZjhvCI
           - item:
+            name: BOMHort
+            homepage_url: https://docs.bomhort.dev/
+            logo: bomhort.svg
+            description: 'BOMHort is a standalone, Kubernetes-native SBOM visualization and governance platform. BOMHort addresses an unfulfilled need in the supply chain security ecosystem: the ability to **consume, visualize, and govern** large volumes of SBOMs at scale. While tools exist to generate SBOMs (Syft, Trivy) and to verify their integrity (SBOMit), there is no open source platform focused on operationalizing SBOM consumption — making thousands of SBOMs searchable, surfacing actionable vulnerability and license compliance insights, and enabling VEX-driven suppression of false positives at enterprise scale.'
+            second_path:
+              - Project Group / Open Source Security Foundation (OpenSSF)
+              - Technology Sector / Privacy & Security
+            repo_url: https://github.com/seebom-labs/BOMHort
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-08-11'
+              dev_stats_url: https://insights.linuxfoundation.org/project/bomhort
+              lfx_slug: bomhort
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/bomhort
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf0xzwmGOpk90PuAA6
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/bomhort/bomhort_Charter.pdf?v=1787003782704
+          - item:
             name: bootc
             homepage_url: https://github.com/containers/bootc
             logo: bootc.svg
@@ -2759,9 +2781,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkVBPQA3
           - item:
             name: Chantico
-            homepage_url: https://github.com/chantico-project/chantico
+            homepage_url: https://chantico.io/
             logo: chantico.svg
-            description: The mission of the Project is to develop a cloud-native approach to monitor and attribute the energy consumption of data center IT equipment, such as PDUs and bare metal servers, but also virtual machines running on hypervisors and pods in clusters.
+            description: Chantico is a Kubernetes operator focused on bringing energy intelligence to modern, cloud-native data centers. Built as part of the Modular Integrated Sustainable Datacenters (MISD) project, Chantico provides a fully declarative way to discover, configure, and monitor physical energy measurement devices.
             second_path:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cross-Technology
@@ -2779,6 +2801,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfLTQQY7vubKTQlgVU
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/chantico/chantico_Charter.pdf?v=1779377899875
+              annotations:
+                project_org: https://github.com/chantico-project
+            additional_repos: []
           - item:
             name: ChaosBlade
             homepage_url: https://github.com/chaosblade-io/chaosblade
@@ -3662,9 +3687,9 @@ landscape:
             additional_repos: []
           - item:
             name: CobaltCore
-            homepage_url: https://github.com/cobaltcore-dev
+            homepage_url: https://cobaltcore.dev/
             logo: cobaltcore.svg
-            description: The mission of the Project is to provide a reimagined, opinionated, and Kubernetes enabled OpenStack distribution, fully embedded with other cloud components.
+            description: CobaltCore is an opinionated OpenStack distribution that builds upon IronCore's foundation to support non-cloud-native workloads, offering enhanced features like a micro-frontend self-service portal, advanced scheduling, and offering enhanced features and seamless integration with other components.
             second_path:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cloud, Containers & Virtualization
@@ -6005,6 +6030,27 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfGsonURwuGzOixeny
           - item:
+            name: Docsy
+            homepage_url: https://www.docsy.dev/
+            logo: docsy.svg
+            description: Docsy is a Hugo theme for technical documentation sets, providing simple navigation, site structure, and more.
+            second_path:
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/google/docsy
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-08-04'
+              dev_stats_url: https://insights.linuxfoundation.org/project/docsy
+              lfx_slug: docsy
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/docsy
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfR3VaAaFetYo6ujxh
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/docsy/docsy_Charter.pdf?v=1785961621996
+          - item:
             name: DocumentDB
             homepage_url: https://documentdb.io/
             logo: documentdb.svg
@@ -6884,7 +6930,7 @@ landscape:
               - repo_url: https://github.com/etcd-io/etcdlabs
           - item:
             name: EUDIPLO
-            homepage_url: https://github.com/openwallet-foundation-labs/eudiplo
+            homepage_url: https://github.com/EUDIPLO
             logo: eudiplo.svg
             description: |-
               Organizations joining the EUDI Wallet ecosystem face a tough choice: patch together protocol libraries that may not exist for their stack, or rely on proprietary solutions that risk vendor lock-in.
@@ -6895,9 +6941,9 @@ landscape:
 
               While still in early development, EUDIPLO is built for production: secure key management, scalable database support, and clean API boundaries.
             second_path:
-              - Project Group / OpenWallet Foundation
+              - Project Group / LF Decentralized Trust
               - Technology Sector / Blockchain
-            repo_url: https://github.com/openwallet-foundation-labs/eudiplo
+            repo_url: https://github.com/EUDIPLO/eudiplo
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -6910,7 +6956,10 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf7hzLh0zC67Zq0on0
                 - name: Charter
-                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/eudiplo/eudiplo_Charter.pdf?v=1755100727556
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/eudiplo/eudiplo_Charter.pdf?v=1791830382546
+              annotations:
+                project_org: https://github.com/EUDIPLO
+            additional_repos: []
           - item:
             name: EVE
             homepage_url: https://www.lfedge.org/projects/eve/
@@ -8069,7 +8118,7 @@ landscape:
             name: Gardener
             homepage_url: https://gardener.cloud/
             logo: gardener.svg
-            description: The mission of the Project is to provide homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.
+            description: A proven, scalable open-source system that simplifies Kubernetes cluster management across multiple infrastructures, allowing developers to focus more on innovation and less on cluster operations.
             second_path:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cloud, Containers & Virtualization
@@ -8097,9 +8146,9 @@ landscape:
               - repo_url: https://github.com/gardener/autoscaler
           - item:
             name: Garden Linux
-            homepage_url: https://gardenlinux.io/
+            homepage_url: https://gardenlinux.org/
             logo: garden_linux.svg
-            description: The mission of the project is to develop a minimal, immutable, API-driven operating system layer for automated, Kubernetes-centric platforms.
+            description: Garden Linux is a Debian GNU/Linux derivate that aims to provide small, auditable Linux images for most cloud providers (e.g. AWS, Azure, GCP etc.) and bare-metal machines.
             second_path:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Linux Kernel
@@ -8521,9 +8570,9 @@ landscape:
               - repo_url: https://github.com/graphql/foundation
           - item:
             name: Greenhouse
-            homepage_url: https://cloudoperators.github.io/greenhouse/
+            homepage_url: https://cloudoperators.dev/
             logo: greenhouse.svg
-            description: Greenhouse is a comprehensive platform designed to address the challenges of operating large-scale cloud infrastructures. It offers a holistic dashboard and API to manage various operational aspects efficiently and transparently. Moreover, it enables operations of a globally distributed cloud infrastructure in compliance with industry standards. The platform addresses common operational challenges such as the complexity of tools, fragmentation of configuration, visibility and permission management. Several plugins extend the core platform, providing cloud-native observability, security & compliance tooling and more. These plugins come with sane default configurations and include all necessary components for application-specific needs such as production-proven alerts, playbooks, metric visualization dashboards.
+            description: Greenhouse is a cloud operations platform designed to streamline and simplify the management of a large-scale, distributed infrastructure.
             second_path:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cloud, Containers & Virtualization
@@ -10012,9 +10061,9 @@ landscape:
               - repo_url: https://github.com/iree-org/iree-test-suites
           - item:
             name: IronCore
-            homepage_url: https://ironcore-dev.github.io/ironcore/
+            homepage_url: https://ironcore.dev/
             logo: ironcore.svg
-            description: IronCore provides the new reference for compounded software layers for inventorying, managing, and maintaining Baremetal using Kubernetes’ cloud-native principles. Kubernetes, originally designed to manage and orchestrate containerized applications and microservices, has significantly expanded its reach through its inherent API extensibility, allowing it to be adapted to a wide range of use cases entirely outside the realm of containers. IronCore takes a modern spin with Kubernetes, offering a single interface for managing resources orchestrated across regions, data centers, and availability zones. All assembled with the identical blueprint, thereby offering unmatched flexibility, scalability, and ease of use. Unlike traditional infrastructure solutions, IronCore delivers a much sought, fresh, next generation approach. As a default, Ceph is modularly provided as a cloud-natively automated, vendor-neutral storage backend for block, shared, and object storage. Furthermore, a disruptive network fabric based on CLOS Topology is included. The software defined network data plane materializes through routed layer 3 only, using an IPv6 overlay, and is grounded on the robust, standard experience of the established internet architecture and technology.
+            description: IronCore is a Kubernetes-based platform that modernizes bare-metal infrastructure management by providing a unified, cloud-native interface for orchestrating compute, storage, and networking resources across distributed environments.
             second_path:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cloud, Containers & Virtualization
@@ -10888,7 +10937,7 @@ landscape:
             name: Katalis
             homepage_url: https://katalis-project.org/
             logo: katalis.svg
-            description: develop solutions to bridge Telco and Cloud Provider APIs utilizing Kubernetes to drive orchestration and federation principles
+            description: Katalis bridges Telco and Cloud Provider APIs utilizing Kubernetes to drive orchestration and federation principles. Katalis establishes interoperability by translating Telco Federation APIs to IT Cloud resource provisioning and management.
             second_path:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cloud, Containers & Virtualization
@@ -13128,13 +13177,7 @@ landscape:
             name: Luigi
             homepage_url: https://luigi-project.io/
             logo: luigi.svg
-            description: |-
-              Luigi was first introduced as an open source project in 2018, together with kyma.
-              Key features include:
-              Modular architecture: Breaks down monolithic apps into smaller, manageable UI modules.
-              Extensibility: Easily integrates external UI components.
-              Scalability: Supports distributed development across multiple teams.
-              Technology agnostic: Works with any frontend technology, avoiding vendor lock-in.
+            description: Luigi is a micro frontend JavaScript framework for building modular, scalable, and technology‚Äëagnostic web applications with a unified user experience across distributed UI modules.
             second_path:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cloud, Containers & Virtualization
@@ -15557,7 +15600,7 @@ landscape:
             name: Open Component Model
             homepage_url: https://ocm.software/
             logo: open_component_model.svg
-            description: OCM is an open standard for describing software artifacts and lifecycle metadata. It is a technology-agnostic and machine-readable format and focuses on software artifacts that need to be delivered securely across boundaries. At the same time, it maintains integrity and provenance along the complete supply chain. With the unique identifier of OCM components acting as correlation ID, it enables the alignment of different, possibly asynchronous processes and tools across all stages of the software lifecycle.
+            description: The Open Component Model is a Software Bill of Delivery (SBoD) for packaging, signing, transporting and deploying your artifacts ‚Äì preserving end-to-end security, integrity and provenance.
             second_path:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Open Source & Compliance Best Practices
@@ -15615,9 +15658,9 @@ landscape:
               - repo_url: https://github.com/opencontainers/go-digest
           - item:
             name: OpenControlPlane
-            homepage_url: https://github.com/openmcp-project
+            homepage_url: https://open-control-plane.io/
             logo: opencontrolplane.svg
-            description: This open source platform provides everything a team needs to orchestrate software in an enterprise environment. Built on top of a secure, enterprise-grade Gardener Kubernetes stack, it connects seamlessly with essential enterprise tools like code repositories, artifactories, identity providers, and auditing systems. Designed for security, compliance, and scalability, the platform integrates Kubernetes-compliant operators and cloud providers while supporting reusable, organization-specific templates and enforceable policies. It empowers engineering teams to move fast without compromising on governance—turning cloud-native complexity into a manageable, traceable, and repeatable system.
+            description: The OpenControlPlane enables extensible Infrastructure- and Configuration-as-Data capabilities as a Service.
             second_path:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cloud, Containers & Virtualization
@@ -16453,12 +16496,9 @@ landscape:
               - repo_url: https://github.com/openjs-foundation/artwork
           - item:
             name: Open Key Chain Manager (openKCM)
-            homepage_url: https://github.com/openkcm
+            homepage_url: https://openkcm.io/
             logo: open_key_chain_manager_openkcm.svg
-            description: |-
-              Centralized key management solution to govern customer encryption keys (Level 1 keys), with BYOK (Bring Your Own Key) and HYOK (Hold Your Own Key) capabilities.
-
-              ** Note - create under LF Europe
+            description: OpenKCM is a data encryption key management solution, implementing a hierarchical key derivation system that wraps internal encryption keys with customer-managed root keys stored in external keystores , exposing key operations via KMIP protocol.
             second_path:
               - Project Group / NeoNephos Foundation
               - PMO Managed / All
@@ -16674,7 +16714,7 @@ landscape:
             name: Open Micro Frontend Platform
             homepage_url: https://openmfp.org/
             logo: open_micro_frontend_platform.svg
-            description: Open Micro Frontend Platform realizes the concepts of the Platform Mesh providing a platform foundation including Account Models, Security Services and a Kubernetes Control Plane consumable by API and a Micro Frontend based Portal experience.
+            description: Open Micro Frontend Platform extends the Platform Mesh with frontend development principles, enabling the dynamic integration of services into a unified interface experience.
             second_path:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cloud, Containers & Virtualization
@@ -17019,7 +17059,7 @@ landscape:
             name: Open Resource Discovery
             homepage_url: https://open-resource-discovery.org/
             logo: open_resource_discovery.svg
-            description: The mission of the Project is to provide an open standard for decentralized publishing and discovery of application / service metadata.
+            description: Open Resource Discovery (ORD) is a protocol that allows applications and services to self-describe their exposed resources and capabilities.
             second_path:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Open Source & Compliance Best Practices
@@ -17155,20 +17195,15 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / Privacy & Security
-            repo_url: https://github.com/opensecuritycontroller/osc-core
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2017-06-29'
-              dev_stats_url: https://insights.linuxfoundation.org/project/osecc
               lfx_slug: osecc
               other_links:
                 - name: Calendar
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/osecc
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a094100000I8WvmAAF
-              annotations:
-                project_org: https://github.com/opensecuritycontroller
-            additional_repos: []
           - item:
             name: Open Service Broker API PMC
             homepage_url: https://www.openservicebrokerapi.org/
@@ -18947,9 +18982,9 @@ landscape:
                   url: https://www.opendaylight.org/wp-content/uploads/sites/14/2018/01/ODL-Technical-Charter-LF-Projects-LLC-FINAL.pdf
           - item:
             name: Platform Mesh
-            homepage_url: https://documentation.apeirora.eu/platform-mesh
+            homepage_url: https://platform-mesh.io/
             logo: platform_mesh.svg
-            description: Platform Mesh establishes interoperability between multiple providers by building upon the Kubernetes API and resource model. It enables a standardized concept for Services coming from Managed Service Providers through the Kubernetes API thereby  allowing developers and admins to discover, access, and order services from various sources through their beloved kubectl.
+            description: Platform Mesh establishes interoperability between multiple providers by building upon the Kubernetes API and resource model. Developers and admins can discover, access, and order services from various sources through their beloved kubectl.
             second_path:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cloud, Containers & Virtualization
@@ -19296,6 +19331,28 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/prometheus/node_exporter
               - repo_url: https://github.com/prometheus/alertmanager
+          - item:
+            name: Proof-of-Control
+            homepage_url: https://github.com/LFDT-ProofOfControl
+            logo: proof_of_control.svg
+            description: 'The mission of the project is to develop Proof-of-Control: an open specification defining cryptographically verifiable evidence of AI agent behavior at runtime, verifiable by any party without re-running the system or trusting its operator.'
+            second_path:
+              - Technology Sector / Privacy & Security
+            repo_url: https://github.com/LFDT-ProofOfControl/ov-poc-standard
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-10-12'
+              dev_stats_url: https://insights.linuxfoundation.org/project/proof-of-control
+              lfx_slug: proof-of-control
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/proof-of-control
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfmUBshhXEXmHcKMcu
+              annotations:
+                project_org: https://github.com/LFDT-ProofOfControl
+            additional_repos: []
           - item:
             name: Protobom
             homepage_url: http://github.com/protobom
@@ -44492,7 +44549,6 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / Confidential Computing Consortium (CCC)
               - Project Membership / Coalition for Content Provenance and Authenticity Fund (C2PA)
-              - Project Membership / Overture Maps Foundation Fund
             crunchbase: https://www.crunchbase.com/organization/tiktok
             extra:
               linkedin_url: https://www.linkedin.com/company/tiktok
@@ -47334,12 +47390,6 @@ landscape:
             homepage_url: https://apsp.com/
             logo: a_p_s.svg
             description: The Italian Association of Payment Service Providers was born with the aim of promoting the development, information and knowledge of electronic money and more generally of all payment service providers, promoting the cultural activity connected to them. through round tables, conventions and conferences.
-            second_path:
-              - Project Membership / The Linux Foundation
-          - item:
-            name: ArchBits (member)
-            homepage_url: https://archbits.org/
-            logo: archbits.svg
             second_path:
               - Project Membership / The Linux Foundation
           - item:
