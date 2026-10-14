@@ -1801,7 +1801,7 @@ landscape:
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Safety-Critical Systems
-            repo_url: https://github.com/battery-data-alliance/pymacnet
+            repo_url: https://github.com/battery-data-alliance/battery-data-format
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -1818,6 +1818,7 @@ landscape:
               annotations:
                 project_org: https://github.com/battery-data-alliance
             additional_repos:
+              - repo_url: https://github.com/battery-data-alliance/pymacnet
               - repo_url: https://github.com/battery-data-alliance/pyctiarbin
               - repo_url: https://github.com/battery-data-alliance/battery-data-format-ontology
           - item:
@@ -3370,11 +3371,11 @@ landscape:
                 project_org: https://github.com/cloudfoundry
               linkedin_url: https://www.linkedin.com/company/cloud-foundry/
             additional_repos:
-              - repo_url: https://github.com/cloudfoundry/korifi
               - repo_url: https://github.com/cloudfoundry/cli
               - repo_url: https://github.com/cloudfoundry/cf-deployment
               - repo_url: https://github.com/cloudfoundry/cloud_controller_ng
               - repo_url: https://github.com/cloudfoundry/uaa
+              - repo_url: https://github.com/cloudfoundry/kind-deployment
           - item:
             name: Cloud Hypervisor
             homepage_url: https://cloudhypervisor.org/
@@ -10911,6 +10912,8 @@ landscape:
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kapunsdk
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfXnKj2RjypXr55iFz
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/kapunsdk/kapunsdk_Charter.pdf?v=1791931573091
           - item:
             name: karmada
             homepage_url: https://github.com/karmada-io/karmada
@@ -17195,15 +17198,20 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / Privacy & Security
+            repo_url: https://github.com/opensecuritycontroller/osc-core
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2017-06-29'
+              dev_stats_url: https://insights.linuxfoundation.org/project/osecc
               lfx_slug: osecc
               other_links:
                 - name: Calendar
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/osecc
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a094100000I8WvmAAF
+              annotations:
+                project_org: https://github.com/opensecuritycontroller
+            additional_repos: []
           - item:
             name: Open Service Broker API PMC
             homepage_url: https://www.openservicebrokerapi.org/
@@ -26996,15 +27004,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/1password
           - item:
-            name: AgileOps (member)
-            homepage_url: https://agileops.vn/
-            logo: agileops.svg
-            description: AgileOps là đội ngũ được chứng nhận chuyên cung cấp dịch vụ tư vấn và phát triển cho các hệ sinh thái công nghệ hiện đại như Atlassian, AWS và Kubernetes.
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/agileops
-          - item:
             name: AHEAD (member)
             homepage_url: https://ahead.com/
             logo: ahead.svg
@@ -33540,15 +33539,10 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/f5
           - item:
             name: Factory (member)
-            homepage_url: https://factory.ai/
+            homepage_url: https://factory.com/
             logo: factory.svg
-            description: Factory is an AI startup revolutionizing software engineering with autonomous Droids and coding agents.
             second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/factory-19d8
-            extra:
-              linkedin_url: https://www.linkedin.com/company/factory-hq
           - item:
             name: Fairsquarelab (member)
             homepage_url: https://fairsquarelab.com/
@@ -36481,9 +36475,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/kitware-inc-
           - item:
-            name: Kiwimoore (member)
+            name: Kiwimoore (Quzhou) Semiconductor Co., Ltd. (member)
             homepage_url: https://kiwimoore.com/
-            logo: kiwimoore.svg
+            logo: kiwimoore_quzhou_semiconductor_co_ltd.svg
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Ultra Ethernet Consortium Fund
@@ -41710,7 +41704,6 @@ landscape:
             logo: salesforce_com_inc.svg
             description: Salesforce.com is an enterprise cloud computing company that is leading the shift to the social enterprise. Social enterprises leverage social, mobile and open cloud technologies to maximize customer support. Based on Salesforce.com's real-time, multi-tenant architecture, the company's platform and application services allow customers to create employee and customer social networks, empower small business and extend a company's social enterprise with applications.
             second_path:
-              - Project Membership / OpenAPI Initiative
               - Project Membership / The Linux Foundation
               - Project Membership / TODO Group
               - Project Membership / Open Source Security Foundation (OpenSSF)
@@ -41829,14 +41822,6 @@ landscape:
             twitter: https://twitter.com/SFLinux
             extra:
               linkedin_url: https://www.linkedin.com/company/savoir-faire-linux
-          - item:
-            name: Sawmills (member)
-            homepage_url: https://sawmills.ai/
-            logo: sawmills.svg
-            second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/sawmills
           - item:
             name: Scala Computing (member)
             homepage_url: https://scalacomputing.com/
