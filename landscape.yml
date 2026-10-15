@@ -1801,7 +1801,7 @@ landscape:
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Safety-Critical Systems
-            repo_url: https://github.com/battery-data-alliance/battery-data-format
+            repo_url: https://github.com/battery-data-alliance/pymacnet
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -1818,7 +1818,6 @@ landscape:
               annotations:
                 project_org: https://github.com/battery-data-alliance
             additional_repos:
-              - repo_url: https://github.com/battery-data-alliance/pymacnet
               - repo_url: https://github.com/battery-data-alliance/pyctiarbin
               - repo_url: https://github.com/battery-data-alliance/battery-data-format-ontology
           - item:
@@ -16130,6 +16129,29 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L1HYFQA3
           - item:
+            name: Open Financial Trust Alliance
+            homepage_url: https://tazama.org/
+            logo: open_financial_trust_alliance.svg
+            description: Providing rules and configuration guidelines for the Tazama ecosystem. While the full rules developed are not intended to be publicly released, the rules are intended to enable open implementation of Tazama software.
+            second_path:
+              - Technology Sector / Open Source & Compliance Best Practices
+            repo_url: https://github.com/frmscoe/.github
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2024-03-11'
+              dev_stats_url: https://insights.linuxfoundation.org/project/tazama-anti-financial-crime-series
+              lfx_slug: tazama-anti-financial-crime-series
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/tazama-anti-financial-crime-series
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfqeTjcqntZhcLgZM0
+              annotations:
+                project_org: https://github.com/frmscoe
+            additional_repos:
+              - repo_url: https://github.com/frmscoe/workflows
+          - item:
             name: OpenFL
             homepage_url: https://openfl.readthedocs.io/
             logo: openfl.svg
@@ -17173,7 +17195,7 @@ landscape:
               - Project Group / The Linux Foundation
               - Technology Sector / AI, ML, Data & Analytics
               - Technology Sector / Privacy & Security
-            repo_url: https://github.com/OpenSecureAIAlliance/RFCs
+            repo_url: https://github.com/OpenSecureAIAlliance/wg-safe
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -17609,6 +17631,29 @@ landscape:
               annotations:
                 project_org: https://github.com/OpenTokenizedAssetStandard
             additional_repos: []
+          - item:
+            name: OpenTrackIO
+            homepage_url: https://www.opentrackio.org/
+            logo: opentrackio.svg
+            description: |-
+              OpenTrackIO provides open source implimentations of the SMPTE RIS for OSVP camera metadata model.
+
+              NOTE: This project will use a CLA.
+            second_path:
+              - Project Group / Academy Software Foundation (ASWF)
+              - Technology Sector / Visual Effects
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-10-08'
+              lfx_slug: opentrackio
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/opentrackio
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfrcZltlgj2BW5JfnZ
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/opentrackio/opentrackio_Charter.pdf?v=1791817045440
           - item:
             name: OpenVDB
             homepage_url: https://www.openvdb.org/
@@ -23108,35 +23153,12 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWu3rQAD
           - item:
-            name: Tazama Anti-Financial Crime Series
-            homepage_url: https://tazama.org/
-            logo: tazama_anti_financial_crime_series.svg
-            description: Providing rules and configuration guidelines for the Tazama ecosystem. While the full rules developed are not intended to be publicly released, the rules are intended to enable open implementation of Tazama software.
-            second_path:
-              - Technology Sector / Open Source & Compliance Best Practices
-            repo_url: https://github.com/frmscoe/.github
-            license: Apache-2.0
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            extra:
-              accepted: '2024-03-11'
-              dev_stats_url: https://insights.linuxfoundation.org/project/tazama-anti-financial-crime-series
-              lfx_slug: tazama-anti-financial-crime-series
-              other_links:
-                - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/tazama-anti-financial-crime-series
-                - name: iCal
-                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfqeTjcqntZhcLgZM0
-              annotations:
-                project_org: https://github.com/frmscoe
-            additional_repos:
-              - repo_url: https://github.com/frmscoe/workflows
-          - item:
             name: Tazama Anti-Financial Crime Working Group
             homepage_url: https://tazama.org/
             logo: tazama_anti_financial_crime_working_group.svg
             description: The Working Group will define the rules and configuration required for fraud detection within the Tazama ecosystem.
             second_path:
-              - Project Group / Tazama Anti-Financial Crime Series
+              - Project Group / Open Financial Trust Alliance
               - Technology Sector / Open Source & Compliance Best Practices
             repo_url: https://github.com/frmscoe/.github
             license: Apache-2.0
@@ -27741,6 +27763,13 @@ landscape:
               - Project Membership / The Linux Foundation
               - Project Membership / Confidential Computing Consortium (CCC)
           - item:
+            name: Anvilogic (member)
+            homepage_url: https://anvilogic.com/
+            logo: anvilogic.svg
+            description: Anvilogic is an AI-driven SOC platform that revolutionizes security operations by detecting threats, hunting where the enterprise SOC chooses, and automating incident response.
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: AnyLog (member)
             homepage_url: https://anylog.co/
             logo: anylog.svg
@@ -28642,6 +28671,15 @@ landscape:
             twitter: https://twitter.com/BMO
             extra:
               linkedin_url: https://www.linkedin.com/company/bank-of-montreal
+          - item:
+            name: Baseten (member)
+            homepage_url: https://baseten.co/
+            logo: baseten.svg
+            description: 'Baseten: Serverless backend for effortless AI model deployment, enabling fast and secure ML-powered applications.'
+            second_path:
+              - Project Membership / The Linux Foundation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/baseten
           - item:
             name: basysKom GmbH (member)
             homepage_url: https://basyskom.de/
@@ -33539,10 +33577,15 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/f5
           - item:
             name: Factory (member)
-            homepage_url: https://factory.com/
+            homepage_url: https://factory.ai/
             logo: factory.svg
+            description: Factory is an AI startup revolutionizing software engineering with autonomous Droids and coding agents.
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/factory-19d8
+            extra:
+              linkedin_url: https://www.linkedin.com/company/factory-hq
           - item:
             name: Fairsquarelab (member)
             homepage_url: https://fairsquarelab.com/
@@ -34458,9 +34501,9 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/groundcover-com
           - item:
-            name: Grovf LLC (member)
+            name: Grovf CJSC (member)
             homepage_url: https://grovf.com/
-            logo: grovf_llc.svg
+            logo: grovf_cjsc.svg
             description: Grovf develops cutting-edge hardware and software solutions to accelerate Big Data Analytics and address IIoT challenges, reducing costs and enhancing performance.
             second_path:
               - Project Membership / The Linux Foundation
@@ -34527,6 +34570,17 @@ landscape:
             description: Guru is the AI-powered enterprise search tool that unifies scattered information, creating a next-gen wiki and intranet for teams. It revolutionizes knowledge sharing by providing instant answers and verified insights from internal experts.
             second_path:
               - Project Membership / The Linux Foundation
+          - item:
+            name: HackerOne (member)
+            homepage_url: https://hackerone.com/
+            logo: hackerone.svg
+            description: HackerOne, Inc. provides a solution for security vulnerability disclosure. It offers HackerOne, a solution that helps organizations in creating vulnerability disclosure and response programs. The company was founded in 2012 and is based in San Francisco, California.
+            second_path:
+              - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/hackerone
+            twitter: https://twitter.com/Hacker0x01
+            extra:
+              linkedin_url: https://www.linkedin.com/company/hackerone
           - item:
             name: Hallo Welt! (member)
             homepage_url: https://hallowelt.com/
@@ -35304,6 +35358,20 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/iitsconsulting
           - item:
+            name: IKEA of Sweden AB (member)
+            homepage_url: https://inter.ikea.com/
+            logo: ikea_of_sweden_ab.svg
+            description: |-
+              IKEA is a global furniture and home accessories company that offers design ideas and inspiration for big dreams and small budgets. With a vision to create a better everyday life, IKEA provides well-designed, functional, and affordable high-quality home...
+
+              --- Merged Data:
+
+              IKEA is a Swedish-origin Dutch-headquartered multinational group that designs and sells ready-to-assemble furniture, kitchen appliances and home accessories, among other goods and home services.
+            second_path:
+              - Project Membership / The Linux Foundation
+              - Project Membership / Alliance for OpenUSD Fund (AOUSDF)
+            crunchbase: https://www.crunchbase.com/organization/ikea-systems
+          - item:
             name: ilert GmbH (member)
             homepage_url: https://ilert.com/
             logo: ilert_gmbh.svg
@@ -35725,20 +35793,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/intercept-df41
             extra:
               linkedin_url: https://www.linkedin.com/company/interceptbv
-          - item:
-            name: Inter IKEA Systems B.V. (member)
-            homepage_url: https://inter.ikea.com/
-            logo: inter_ikea_systems_b_v.svg
-            description: |-
-              IKEA is a global furniture and home accessories company that offers design ideas and inspiration for big dreams and small budgets. With a vision to create a better everyday life, IKEA provides well-designed, functional, and affordable high-quality home...
-
-              --- Merged Data:
-
-              IKEA is a Swedish-origin Dutch-headquartered multinational group that designs and sells ready-to-assemble furniture, kitchen appliances and home accessories, among other goods and home services.
-            second_path:
-              - Project Membership / The Linux Foundation
-              - Project Membership / Alliance for OpenUSD Fund (AOUSDF)
-            crunchbase: https://www.crunchbase.com/organization/ikea-systems
           - item:
             name: Internet Initiative Japan (member)
             homepage_url: https://iij.ad.jp/
@@ -37912,6 +37966,13 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/michelin-2
           - item:
+            name: Microamp Solutions (member)
+            homepage_url: https://microamp-solutions.com/
+            logo: microamp_solutions.svg
+            description: Microamp Solutions specializes in providing advanced 5G mmWave technology solutions designed to enhance productivity and facilitate the digital transformation of industrial environments, offering tailored private networks suitable for both indoor and o...
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: Microchip Technology Inc. (member)
             homepage_url: https://microchip.com/
             logo: microchip_technology_inc.svg
@@ -38101,6 +38162,12 @@ landscape:
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/mistral-ai
           - item:
+            name: Mixlayer (member)
+            homepage_url: https://mixlayer.com/
+            logo: mixlayer.svg
+            second_path:
+              - Project Membership / The Linux Foundation
+          - item:
             name: MOBILTECH (member)
             homepage_url: https://mobiltech.io/
             logo: mobiltech.svg
@@ -38130,7 +38197,7 @@ landscape:
             name: mogenius (member)
             homepage_url: https://mogenius.com/
             logo: mogenius.svg
-            description: mogenius is your all-in-one cloud to host and run any application, with managed Kubernetes, CI/CD, and CDN by Cloudflare
+            description: mogenius is your all-in-one cloud to host and run any application, with managed Kubernetes, CI/CD, and CDN by Cloudflare.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
@@ -49456,6 +49523,7 @@ landscape:
             logo: gradiant.svg
             description: Gradiant, Centro Tecnológico de Telecomunicaciones de Galicia. Innovación en TIC para mejorar la competitividad de las empresas de cara al mercado.
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
               - Project Membership / LF Networking (LFN)
               - Project Membership / LF Edge
