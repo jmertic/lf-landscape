@@ -19810,7 +19810,6 @@ landscape:
               annotations:
                 project_org: https://github.com/ray-project
             additional_repos:
-              - repo_url: https://github.com/ray-project/kuberay
               - repo_url: https://github.com/ray-project/enhancements
           - item:
             name: R Community
@@ -21345,6 +21344,29 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkAUXQA3
           - item:
+            name: Sigvelis
+            homepage_url: https://github.com/Sigvelis
+            logo: sigvelis.svg
+            description: The mission of the project is to develop a toolkit and open standard for extracting vulnerability signatures from audits, enabling fast detection and structured sharing across smart contract ecosystem
+            second_path:
+              - Technology Sector / Privacy & Security
+              - Technology Sector / Blockchain
+            repo_url: https://github.com/Sigvelis/sigvelis
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-10-19'
+              dev_stats_url: https://insights.linuxfoundation.org/project/sigvelis
+              lfx_slug: sigvelis
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/sigvelis
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfUqBPVhDPDic07G6A
+              annotations:
+                project_org: https://github.com/Sigvelis
+            additional_repos: []
+          - item:
             name: SlimFaaS
             homepage_url: https://github.com/AxaFrance/SlimFaas
             logo: slimfaas.svg
@@ -21861,10 +21883,10 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2019-07-23'
-              lfx_slug: uptane
+              lfx_slug: sscss
               other_links:
                 - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/uptane
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/sscss
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JVs9YQAT
           - item:
@@ -33577,10 +33599,15 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/f5
           - item:
             name: Factory (member)
-            homepage_url: https://factory.com/
+            homepage_url: https://factory.ai/
             logo: factory.svg
+            description: Factory is an AI startup revolutionizing software engineering with autonomous Droids and coding agents.
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/factory-19d8
+            extra:
+              linkedin_url: https://www.linkedin.com/company/factory-hq
           - item:
             name: Fairsquarelab (member)
             homepage_url: https://fairsquarelab.com/
@@ -46285,7 +46312,7 @@ landscape:
             second_path:
               - Project Membership / LF Decentralized Trust
               - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/wells-fargo-energy-capital
+            crunchbase: https://www.crunchbase.com/organization/wells-fargo-capital-finance
             twitter: https://twitter.com/WellsFargo
             extra:
               linkedin_url: https://www.linkedin.com/company/wellsfargo
