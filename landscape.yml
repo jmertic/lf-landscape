@@ -2849,11 +2849,11 @@ landscape:
               annotations:
                 project_org: https://github.com/chaos-mesh
             additional_repos:
-              - repo_url: https://github.com/chaos-mesh/chaosd
-              - repo_url: https://github.com/chaos-mesh/toda
-              - repo_url: https://github.com/chaos-mesh/chaos-tproxy
-              - repo_url: https://github.com/chaos-mesh/rfcs
               - repo_url: https://github.com/chaos-mesh/website
+              - repo_url: https://github.com/chaos-mesh/chaosd
+              - repo_url: https://github.com/chaos-mesh/chaos-tproxy
+              - repo_url: https://github.com/chaos-mesh/toda
+              - repo_url: https://github.com/chaos-mesh/rfcs
           - item:
             name: CHAOSS
             homepage_url: https://chaoss.community/
@@ -16140,11 +16140,11 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-03-11'
-              dev_stats_url: https://insights.linuxfoundation.org/project/tazama-anti-financial-crime-series
-              lfx_slug: tazama-anti-financial-crime-series
+              dev_stats_url: https://insights.linuxfoundation.org/project/ofta
+              lfx_slug: ofta
               other_links:
                 - name: Calendar
-                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/tazama-anti-financial-crime-series
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ofta
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfqeTjcqntZhcLgZM0
               annotations:
@@ -23526,7 +23526,7 @@ landscape:
             logo: thunderid.svg
             description: develop an open-source, modern Identity and Access Management stack that secures humans, AI agents, and machines across both traditional and decentralized identity ecosystems
             second_path:
-              - Project Group / OpenWallet Foundation
+              - Project Group / LF Decentralized Trust
               - Technology Sector / Blockchain
             repo_url: https://github.com/thunder-id/thunderid
             license: Apache-2.0
@@ -23541,7 +23541,7 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfrVUl1zCGXkn1dWIq
                 - name: Charter
-                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/thunderid/thunderid_Charter.pdf?v=1782249778937
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/thunderid/thunderid_Charter.pdf?v=1792538941176
               annotations:
                 project_org: https://github.com/thunder-id
             additional_repos: []
@@ -33599,15 +33599,10 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/f5
           - item:
             name: Factory (member)
-            homepage_url: https://factory.ai/
+            homepage_url: https://factory.com/
             logo: factory.svg
-            description: Factory is an AI startup revolutionizing software engineering with autonomous Droids and coding agents.
             second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/factory-19d8
-            extra:
-              linkedin_url: https://www.linkedin.com/company/factory-hq
           - item:
             name: Fairsquarelab (member)
             homepage_url: https://fairsquarelab.com/
@@ -39315,7 +39310,7 @@ landscape:
             name: NOUS RESEARCH (member)
             homepage_url: https://nousresearch.com/
             logo: nous_research.svg
-            description: Nous Research is a leader in the American open source AI movement, training world-class open source language models.
+            description: Nous Research is a pioneer in open AI training and research. We created Hermes Agent, the most widely used open source agent harness in the world. We are on a mission to create and proliferate open access to intelligence.
             second_path:
               - Project Membership / The Linux Foundation
           - item:
