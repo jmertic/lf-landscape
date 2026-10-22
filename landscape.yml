@@ -33599,10 +33599,15 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/f5
           - item:
             name: Factory (member)
-            homepage_url: https://factory.com/
+            homepage_url: https://factory.ai/
             logo: factory.svg
+            description: Factory is an AI startup revolutionizing software engineering with autonomous Droids and coding agents.
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/factory-19d8
+            extra:
+              linkedin_url: https://www.linkedin.com/company/factory-hq
           - item:
             name: Fairsquarelab (member)
             homepage_url: https://fairsquarelab.com/
@@ -53827,7 +53832,7 @@ landscape:
             name: The VettID Project (member)
             homepage_url: https://vettid.org/
             logo: the_vettid_project.svg
-            description: The VettID Project offers an open-source Personal Security Service that enables individuals to own and control their online data, secrets, and identity, thereby ensuring secure, private, and trusted digital experiences.
+            description: 'AI agents are being handed API keys, tokens, and wallets they can leak, misuse, or have stolen. The VettID Project (vettid.org) takes a different approach: agents never hold credentials at all. Every secret lives in the user’s own attested enclave, every sensitive action is approved from the user’s phone, and every action traces back to the person who authorized it. The project maintains LEASH, a vendor-neutral credential-delegation protocol for agents that complements MCP, with VettID as its open source reference implementation. VettID is member-governed, AGPL-licensed, and built so that you can’t lose what you never had.'
             second_path:
               - Project Membership / The Linux Foundation
           - item:
