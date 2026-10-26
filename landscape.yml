@@ -5426,12 +5426,10 @@ landscape:
             second_path:
               - Project Group / PyTorch Foundation
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/deepspeedai/DeepSpeed
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-11-22'
-              dev_stats_url: https://insights.linuxfoundation.org/project/deepspeed
               lfx_slug: deepspeed
               other_links:
                 - name: Calendar
@@ -5440,9 +5438,6 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf5vdSjQmIxrbw8gGQ
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/deepspeed/deepspeed_Charter.pdf?v=1745961414868
-              annotations:
-                project_org: https://github.com/deepspeedai
-            additional_repos: []
           - item:
             name: DEI Working Group
             homepage_url: https://github.com/ossf/wg-dei
@@ -6540,7 +6535,7 @@ landscape:
               - Technology Sector / Web & Application Development
               - Technology Sector / Safety-Critical Systems
               - Technology Sector / Open Source & Compliance Best Practices
-            repo_url: https://github.com/elisa-tech/BASIL
+            repo_url: https://github.com/elisa-tech/tsc
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/ProjectElisa
             extra:
@@ -11516,7 +11511,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/kptdev/kpt
+            repo_url: https://github.com/kptdev/porch
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -14939,7 +14934,7 @@ landscape:
               - Industry / Telecommunications
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / Networking & Edge
-            repo_url: https://github.com/onap/oom
+            repo_url: https://github.com/onap/archived-cli
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -15170,7 +15165,7 @@ landscape:
               - Project Group / LF AI & Data
               - Industry / Cross-Industry
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/onnx/tutorials
+            repo_url: https://github.com/onnx/onnx
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/onnxai
@@ -15188,8 +15183,11 @@ landscape:
               annotations:
                 project_org: https://github.com/onnx
             additional_repos:
-              - repo_url: https://github.com/onnx/onnx
+              - repo_url: https://github.com/onnx/working-groups
+              - repo_url: https://github.com/onnx/tutorials
               - repo_url: https://github.com/onnx/ir-py
+              - repo_url: https://github.com/onnx/onnx-mlir
+              - repo_url: https://github.com/onnx/onnx-shape-inference
           - item:
             name: OPEA
             homepage_url: https://opea.dev/
@@ -15304,7 +15302,7 @@ landscape:
               - Project Group / LF Networking (LFN)
               - Technology Sector / Networking & Edge
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/project-openan/a2a-t-sdk-python
+            repo_url: https://github.com/project-openan/orchestration-center
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -15666,7 +15664,7 @@ landscape:
             second_path:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/openmcp-project/metrics-operator
+            repo_url: https://github.com/openmcp-project/controller-utils
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -16799,7 +16797,7 @@ landscape:
             second_path:
               - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/Open-Model-Initiative/OMI-Data-Pipeline
+            repo_url: https://github.com/Open-Model-Initiative/OMI-Model-Standards
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -18585,21 +18583,16 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/oxia-db/oxia
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-10-09'
-              dev_stats_url: https://insights.linuxfoundation.org/project/oxia
               lfx_slug: oxia
               other_links:
                 - name: Calendar
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/oxia
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfB5KHiW9fKOwAXuyl
-              annotations:
-                project_org: https://github.com/oxia-db
-            additional_repos: []
           - item:
             name: P4 Fund
             homepage_url: https://p4.org/
@@ -32106,6 +32099,7 @@ landscape:
             name: depthfirst (member)
             homepage_url: https://depthfirst.com/
             logo: depthfirst.svg
+            description: depthfirst provides an AI-powered cybersecurity platform that continuously identifies, remediates, and prevents security risks across software code, dependencies, infrastructure, and production environments.
             second_path:
               - Project Membership / The Linux Foundation
           - item:
