@@ -133,7 +133,7 @@ landscape:
             second_path:
               - Project Group / Academy Software Foundation (ASWF)
               - Technology Sector / Visual Effects
-            repo_url: https://github.com/aces-aswf/aces-core
+            repo_url: https://github.com/aces-aswf/CTL
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -636,7 +636,7 @@ landscape:
               - PMO Managed / All
               - Industry / Materials
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/agstack/OpenAgri-WeatherService
+            repo_url: https://github.com/agstack/weather-server
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-05-05'
@@ -740,18 +740,14 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfrawQxPd7Ldk8gNDE
           - item:
             name: AINETUS
-            homepage_url: https://ainetus.energy/
+            homepage_url: https://lfenergy.org/projects/ainetus/
             logo: ainetus.svg
-            description: |-
-              AI algorithms mainly composed by supervised and reinforcement learning. Unifying the benefits of existing heuristics, physical modelling of these complex systems and learning methods, as well as a set of complementary techniques to enhance transparency, safety, explainability and human acceptance. 
-              Human-in-the-loop decision making for co-learning between AI and humans. Considering integration of model uncertainty, human cognitive load and trust.
-              Autonomous AI systems relying on human supervision.
-              Embedded with human domain knowledge and Safety rules.
+            description: Open source AI decision support stack that recommends remedial actions for grid congestion, explains them, and leaves the decision to the control room operator.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / AI, ML, Data & Analytics
               - Technology Sector / Safety-Critical Systems
-            repo_url: https://github.com/ainetus/ExpertOp4Grid
+            repo_url: https://github.com/ainetus/Expert_op4grid_recommender
             license: MPL-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -1501,9 +1497,9 @@ landscape:
             additional_repos: []
           - item:
             name: AssetLife
-            homepage_url: https://github.com/assetlife-project
+            homepage_url: https://lfenergy.org/projects/assetlife/
             logo: assetlife.svg
-            description: ReLife is an open source Python library that implements survival analysis methods, renewal theory, and socioeconomic evaluation aimed at optimizing network asset renewal policies.
+            description: Open source reliability library that helps grid and other infrastructure operators choose maintenance policies that minimize lifecycle cost and justify renewal investments.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / AI, ML, Data & Analytics
@@ -1795,13 +1791,13 @@ landscape:
                   url: https://www.opnfv.org/wp-content/uploads/sites/12/2018/04/OPNFV-Project-a-Series-of-LF-Projects-LLC-Technical-Charter-4-10-2018.pdf
           - item:
             name: Battery Data Alliance
-            homepage_url: https://batterydataalliance.energy/
+            homepage_url: https://lfenergy.org/projects/battery-data-alliance/
             logo: battery_data_alliance.svg
-            description: Sustainable open source software, best practices, and delivery standards for the battery industry
+            description: Open source battery data standard, with Python tools, that puts test data from many cycler brands into one machine-readable format so labs, equipment vendors, and modelers can share and reuse it.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Safety-Critical Systems
-            repo_url: https://github.com/battery-data-alliance/pymacnet
+            repo_url: https://github.com/battery-data-alliance/battery-data-format
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -1815,11 +1811,6 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfomTQpTLl3A7cDHjh
                 - name: Charter
                   url: https://github.com/lf-energy/foundation/blob/main/project_charters/battery-data-alliance_charter.pdf
-              annotations:
-                project_org: https://github.com/battery-data-alliance
-            additional_repos:
-              - repo_url: https://github.com/battery-data-alliance/pyctiarbin
-              - repo_url: https://github.com/battery-data-alliance/battery-data-format-ontology
           - item:
             name: BeeAI
             homepage_url: https://beeai.dev/
@@ -2967,7 +2958,7 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / IoT & Embedded
               - Technology Sector / Open Hardware
-            repo_url: https://github.com/chipsalliance/chisel
+            repo_url: https://github.com/chipsalliance/rocket-chip
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2018-12-21'
@@ -3103,14 +3094,13 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWeiDQAT
           - item:
             name: CitrineOS
-            homepage_url: https://citrineos.github.io/latest/
+            homepage_url: https://lfenergy.org/projects/citrineos/
             logo: citrineos.svg
-            description: |
-              Open source OCPP and NEVI compliant Charger Station Management System (CSMS)
+            description: Open source charging station management system (CSMS) that gives charge point operators and charging platform builders a shared, tested OCPP implementation instead of each building their own.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/citrineos/citrineos
+            repo_url: https://github.com/citrineos/citrineos-core
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -3126,9 +3116,9 @@ landscape:
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/citrineos/citrineos_Charter.pdf?v=1770075707079
           - item:
             name: CityLearn
-            homepage_url: https://www.citylearn.net/
+            homepage_url: https://lfenergy.org/projects/citylearn/
             logo: citylearn.svg
-            description: The mission of the Project is to enable the implementation and benchmarking of advanced controllers for demand side building energy coordination and demand
+            description: Open source simulation environment where researchers and developers test building and energy community control strategies on shared scenarios and metrics, so results are directly comparable.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
@@ -4033,9 +4023,7 @@ landscape:
             name: CoMPAS
             homepage_url: https://www.lfenergy.org/projects/compas/
             logo: compas.svg
-            description: |-
-              Open source profile configuration and management for IEC 61850 substation protection, automation, and control systems
-              CoMPAS (Configuration Modules for Power industry Automation Systems is being developed using several guiding principles, including the use of cross-platform Docker-based microservices along with a lightweight browser client, multiple language support for the user interface, scriptable controls, and the ability to integrate third-party tools.
+            description: Open source, browser-based toolset for IEC 61850 substation engineering, giving utilities one vendor-neutral place to specify and configure protection and control systems from multiple vendors.
             second_path:
               - Project Group / LF Energy (LFE)
               - Industry / Energy & Climate
@@ -4916,13 +4904,13 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWqP2QAL
           - item:
             name: CUPID (Controllable Unit Protocol Interface for DER)
-            homepage_url: https://github.com/cupid-project
+            homepage_url: https://lfenergy.org/projects/cupid/
             logo: cupid_controllable_unit_protocol_interface_for_der.svg
-            description: Open source project that promotes interoperability and standardization for distributed energy system communication, primarily through the implementation of the IEEE 2030.5 standard
+            description: Open source toolkit that carries IEEE 2030.5 messages over a publish/subscribe bus and links Modbus and MQTT devices, so aggregators and grid operators can monitor and control DERs from many vendors.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/cupid-project/Client-Server
+            repo_url: https://github.com/cupid-project/Legacy-Protocol-Converter
             license: MIT
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -4936,9 +4924,6 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfwN2bdbqmNgG2TtYc
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/cupid/cupid_Charter.pdf?v=1747610679443
-              annotations:
-                project_org: https://github.com/cupid-project
-            additional_repos: []
           - item:
             name: Currency Reference Data
             homepage_url: https://github.com/finos/curref-data
@@ -5426,10 +5411,12 @@ landscape:
             second_path:
               - Project Group / PyTorch Foundation
               - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/deepspeedai/DeepSpeed
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-11-22'
+              dev_stats_url: https://insights.linuxfoundation.org/project/deepspeed
               lfx_slug: deepspeed
               other_links:
                 - name: Calendar
@@ -5438,6 +5425,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf5vdSjQmIxrbw8gGQ
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/deepspeed/deepspeed_Charter.pdf?v=1745961414868
+              annotations:
+                project_org: https://github.com/deepspeedai
+            additional_repos: []
           - item:
             name: DEI Working Group
             homepage_url: https://github.com/ossf/wg-dei
@@ -6265,10 +6255,9 @@ landscape:
                   url: https://www.dpdk.org/charter/
           - item:
             name: Dynaωo
-            homepage_url: https://dynawo.github.io/
+            homepage_url: https://lfenergy.org/projects/dyna%CF%89o/
             logo: dynaoo.svg
-            description: |
-              Open source suite of simulation tools designed for transparent, flexible, and robust analysis of power systems, including steady-state, short-circuit, and various stability studies
+            description: Open source suite of dynamic simulation tools for grid stability and grid-code compliance studies, built on equipment models that grid operators and power producers can read and share.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
@@ -6535,7 +6524,7 @@ landscape:
               - Technology Sector / Web & Application Development
               - Technology Sector / Safety-Critical Systems
               - Technology Sector / Open Source & Compliance Best Practices
-            repo_url: https://github.com/elisa-tech/tsc
+            repo_url: https://github.com/elisa-tech/BASIL
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/ProjectElisa
             extra:
@@ -6697,9 +6686,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf81ZWv1s4240rN89T
           - item:
             name: EnerGNN
-            homepage_url: https://github.com/energnn
+            homepage_url: https://lfenergy.org/projects/energnn/
             logo: energnn.svg
-            description: A Graph Neural Network library for real-life and full-scale energy networks.
+            description: Open source graph neural network library for grid operators to train AI models that give approximate answers to grid studies faster than conventional solvers, on full-scale, changing grids.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / AI, ML, Data & Analytics
@@ -6981,8 +6970,7 @@ landscape:
             name: EVerest
             homepage_url: https://lfenergy.org/projects/everest/
             logo: everest.svg
-            description: |
-              Open source firmware stack for standards-compliant, interoperable, and secure EV charging
+            description: Open source firmware stack for EV charging stations, implementing the vehicle, back-office, and energy management protocols needed so any car can charge at any charger on any network.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / AI, ML, Data & Analytics
@@ -7463,10 +7451,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkZJkQAN
           - item:
             name: FIDOPower
-            homepage_url: https://fidopower.energy/
+            homepage_url: https://lfenergy.org/projects/fidopower/
             logo: fidopower.svg
-            description: |
-              An open framework for inter-organizational data exchange, data and model synthesis, and system performance analysis across multiple power systems tools
+            description: Open source collection of interactive power system analysis notebooks, covering optimal power flow and equipment sizing, that grid planners and researchers can rerun and share.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
@@ -7724,9 +7711,9 @@ landscape:
                   url: https://github.com/lf-energy/foundation/blob/master/project_charters/fledgepower_charter.pdf
           - item:
             name: FlexMeasures
-            homepage_url: https://flexmeasures.io/
+            homepage_url: https://lfenergy.org/projects/flexmeasures/
             logo: flexmeasures.svg
-            description: An intelligent EMS (energy management system) to optimize behind-the-meter energy flexibility
+            description: Open source optimization and forecasting engine that lets energy service companies and industrial sites run batteries, EVs, heat pumps, and processes at the lowest cost within grid limits.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cloud, Containers & Virtualization
@@ -8613,9 +8600,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWqXIQA1
           - item:
             name: Grid2Op
-            homepage_url: https://grid2op.energy/
+            homepage_url: https://lfenergy.org/projects/grid2op/
             logo: grid2op.svg
-            description: An open source Python framework designed for modeling and simulating sequential decision-making processes in power systems, primarily used for developing and evaluating intelligent control agents (e.g., using reinforcement learning) to manage and optimize grid operations
+            description: Open source simulation environment where researchers and grid operators train automated grid control strategies and compare them on identical scenarios of load, generation, and outages.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
@@ -8641,8 +8628,7 @@ landscape:
             name: Grid Edge Interoperability & Security Alliance (GEISA)
             homepage_url: https://lfenergy.org/projects/geisa/
             logo: grid_edge_interoperability_security_alliance_geisa.svg
-            description: |
-              The secure, interoperable ecosystem to streamline the cybersecurity, deployment, scaling and operation of next-generation grid edge computing and applications
+            description: Open specification that lets utilities run isolated applications from many vendors on a mixed fleet of smart meters and grid devices, all managed from a single system.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
@@ -9922,11 +9908,9 @@ landscape:
               - Technology Sector / Networking & Edge
               - Technology Sector / System Engineering
               - Technology Sector / Linux Kernel
-            repo_url: https://github.com/iovisor/bcc
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2015-08-17'
-              dev_stats_url: https://insights.linuxfoundation.org/project/iovisor
               lfx_slug: iovisor
               other_links:
                 - name: Calendar
@@ -9935,9 +9919,6 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wByZAAU
                 - name: Charter
                   url: https://www.iovisor.org/about/bylaws-policies
-              annotations:
-                project_org: https://github.com/iovisor
-            additional_repos: []
           - item:
             name: IPDK
             homepage_url: https://ipdk.io/
@@ -10663,7 +10644,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/k0sproject/k0s
+            repo_url: https://github.com/k0sproject/k0sctl
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -11511,7 +11492,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/kptdev/porch
+            repo_url: https://github.com/kptdev/kpt
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -12506,10 +12487,9 @@ landscape:
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/global-granular-certificate-registry/global-granular-certificate-registry_Charter.pdf?v=1766168958064
           - item:
             name: LF Energy Semantic Energy Framework (LFE-SEF)
-            homepage_url: https://lfe-sef.energy/
+            homepage_url: https://lfenergy.org/projects/semantic-energy-framework-sef/
             logo: lf_energy_semantic_energy_framework_lfe_sef.svg
-            description: |
-              Open source initiative dedicated to establishing and promoting semantic interoperability within the energy sector, enabling cross-domain data exchange and knowledge sharing through standardized ontologies
+            description: Open source semantic interoperability framework that lets grid operators and aggregators exchange data with energy management systems and devices through a shared ontology, not one-off integrations.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
@@ -13766,7 +13746,7 @@ landscape:
             second_path:
               - Project Group / LF Decentralized Trust
               - Technology Sector / Blockchain
-            repo_url: https://github.com/LFDT-Minokawa/compact
+            repo_url: https://github.com/LFDT-Minokawa/governance
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -13813,23 +13793,18 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/mlflow/mlflow
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/MLflow
             extra:
               accepted: '2020-06-02'
-              dev_stats_url: https://insights.linuxfoundation.org/project/MLF
               lfx_slug: MLF
               other_links:
                 - name: Calendar
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/MLF
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001Iw1NBQAZ
-              annotations:
-                project_org: https://github.com/mlflow
               linkedin_url: https://www.linkedin.com/company/mlflow-org/
-            additional_repos: []
           - item:
             name: Mobile Native Foundation
             homepage_url: https://mobilenativefoundation.org/
@@ -14627,12 +14602,10 @@ landscape:
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/NODE-Collective/specification
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-11-11'
-              dev_stats_url: https://insights.linuxfoundation.org/project/node-collective
               lfx_slug: node-collective
               other_links:
                 - name: Calendar
@@ -14641,9 +14614,6 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfteqdawq12KhVQ5JD
                 - name: Charter
                   url: https://github.com/lf-energy/foundation/blob/main/project_charters/node-collective_charter.pdf
-              annotations:
-                project_org: https://github.com/NODE-Collective
-            additional_repos: []
           - item:
             name: Node.js
             homepage_url: https://nodejs.org/en/
@@ -14934,7 +14904,7 @@ landscape:
               - Industry / Telecommunications
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / Networking & Edge
-            repo_url: https://github.com/onap/archived-cli
+            repo_url: https://github.com/onap/oom
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -15302,7 +15272,7 @@ landscape:
               - Project Group / LF Networking (LFN)
               - Technology Sector / Networking & Edge
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/project-openan/orchestration-center
+            repo_url: https://github.com/project-openan/a2a-t-sdk-python
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -15664,7 +15634,7 @@ landscape:
             second_path:
               - Project Group / NeoNephos Foundation
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/openmcp-project/controller-utils
+            repo_url: https://github.com/openmcp-project/metrics-operator
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -16320,16 +16290,18 @@ landscape:
                   url: https://www.lfedge.org/wp-content/uploads/2020/01/LF-Edge-Foundation-Charter-APPROVED-January-2020.pdf
           - item:
             name: OpenGridFM
-            homepage_url: https://opengridfm.energy/
+            homepage_url: https://lfenergy.org/projects/opengridfm/
             logo: opengridfm.svg
-            description: An open source framework dedicated to enabling the development and application of "foundation models" (large AI models pre-trained on vast datasets) specifically for power grids, aiming to accelerate computations and improve grid operations, planning, and control in the face of increasing complexity
+            description: Open source toolkit for utilities and researchers to build AI models that solve power flow and related grid studies faster than conventional solvers.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
+            repo_url: https://github.com/gridfm/gridfm-datakit
             license: Other
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-11-11'
+              dev_stats_url: https://insights.linuxfoundation.org/project/opengridfm
               lfx_slug: opengridfm
               other_links:
                 - name: Calendar
@@ -16797,7 +16769,7 @@ landscape:
             second_path:
               - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/Open-Model-Initiative/OMI-Model-Standards
+            repo_url: https://github.com/Open-Model-Initiative/OMI-Data-Pipeline
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -16997,7 +16969,7 @@ landscape:
             second_path:
               - Project Group / Open Programmable Infrastructure Fund
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/opiproject/opi
+            repo_url: https://github.com/opiproject/pydpu
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-06-09'
@@ -17281,12 +17253,10 @@ landscape:
             second_path:
               - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/OpenSharing-IO/OpenSharing
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2026-06-09'
-              dev_stats_url: https://insights.linuxfoundation.org/project/opensharing
               lfx_slug: opensharing
               other_links:
                 - name: Calendar
@@ -17295,9 +17265,6 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfYeNX34swN3LNDwXe
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/opensharing/opensharing_Charter.pdf?v=1782150602120
-              annotations:
-                project_org: https://github.com/OpenSharing-IO
-            additional_repos: []
           - item:
             name: Open Source Readiness Special Interest Group
             homepage_url: https://osr.finos.org/
@@ -17415,10 +17382,9 @@ landscape:
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/openstack/openstack_Charter.pdf?v=1748884887360
           - item:
             name: OpenSTEF
-            homepage_url: https://openstef.github.io/openstef/index.html
+            homepage_url: https://lfenergy.org/projects/openstef/
             logo: openstef.svg
-            description: |
-              Automated machine learning pipelines for accurate, self-correcting, and explainable short-term energy forecasting (up to 48 hours) of grid load, including consumption and renewable generation
+            description: Open source Python framework for probabilistic forecasts of energy load and generation, minutes to days ahead, for grid operation and energy production planning.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
@@ -17439,8 +17405,7 @@ landscape:
               annotations:
                 project_org: https://github.com/OpenSTEF
             additional_repos:
-              - repo_url: https://github.com/OpenSTEF/openstef-reference
-              - repo_url: https://github.com/OpenSTEF/openstef-offline-example
+              - repo_url: https://github.com/OpenSTEF/openstef-checkpoints
           - item:
             name: OpenSTX Foundation
             homepage_url: https://openstxfoundation.org/
@@ -18288,14 +18253,13 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfwaIWNogr14xuvjmY
           - item:
             name: ORES (Open Renewal Energy Systems)
-            homepage_url: https://ores.energy/
+            homepage_url: https://lfenergy.org/projects/ores-open-renewable-energy-systems/
             logo: ores_open_renewal_energy_systems.svg
-            description: |
-              Open standard architecture, APIs, and communication protocols for distributed renewable energy systems and microgrids, enabling plug-and-play integration of clean energy assets and guiding community-driven energy solutions
+            description: Open source architecture and API specification for home solar panels, batteries, and controllers from different manufacturers to work together, so households can build and grow systems in modules.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/open-renewable-energy-systems/ores
+            repo_url: https://github.com/open-renewable-energy-systems/gaifare-hyphae-apis-demo
             license: TBD / NA
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -18583,16 +18547,21 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/oxia-db/oxia
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2025-10-09'
+              dev_stats_url: https://insights.linuxfoundation.org/project/oxia
               lfx_slug: oxia
               other_links:
                 - name: Calendar
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/oxia
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfB5KHiW9fKOwAXuyl
+              annotations:
+                project_org: https://github.com/oxia-db
+            additional_repos: []
           - item:
             name: P4 Fund
             homepage_url: https://p4.org/
@@ -19169,16 +19138,15 @@ landscape:
               - repo_url: https://github.com/PQCA/wiki
           - item:
             name: Power Grid Model
-            homepage_url: https://github.com/PowerGridModel
+            homepage_url: https://lfenergy.org/projects/power-grid-model/
             logo: power_grid_model.svg
-            description: Open source C++/Python library that provides a high-performance calculation engine for real-time steady-state distribution power system analysis, including power flow, state estimation, and short-circuit studies
+            description: Open source, high-performance calculation library for distribution grid power flow, state estimation, and short circuit analysis, built to run large batches of scenarios for planning and operations.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
             repo_url: https://github.com/PowerGridModel/power-grid-model
             license: MPL-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
-            twitter: https://twitter.com/nil
             extra:
               accepted: '2023-09-21'
               dev_stats_url: https://insights.linuxfoundation.org/project/powergridmodel
@@ -19197,9 +19165,9 @@ landscape:
               - repo_url: https://github.com/PowerGridModel/power-grid-model-ds
           - item:
             name: Power Stability Wide Area Monitoring Protection (p-SWAMP)
-            homepage_url: https://pswamp.energy/
+            homepage_url: https://lfenergy.org/projects/p-swamp/
             logo: power_stability_wide_area_monitoring_protection_p_swamp.svg
-            description: The Power Stability Wide Area Monitoring Protection (p-SWAMP) project provides an open, extensible Research & Development environment for future WAMS innovation. By offering a modular, microservices-based architecture and advanced simulation capabilities, p-SWAMP serves as a testbench for developing, validating, and deploying new technologies for monitoring grid stability, voltage performance, oscillatory behavior, and real-time system operations.
+            description: Open source research platform where transmission operators and researchers build and test wide-area monitoring applications on streamed or recorded PMU data before they reach the control room.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
@@ -19222,9 +19190,9 @@ landscape:
             additional_repos: []
           - item:
             name: PowSyBL
-            homepage_url: https://powsybl.org/
+            homepage_url: https://lfenergy.org/projects/powsybl/
             logo: powsybl.svg
-            description: Open source, modular Java library with Python & Julia bindings designed for comprehensive electrical grid modeling, simulation, and visualization, enabling complex power flow, security, and dynamic analyses.
+            description: Modular, open source framework for grid modeling, analysis, and visualization, used to build and extend planning and operations tools.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
@@ -19899,10 +19867,9 @@ landscape:
             additional_repos: []
           - item:
             name: Real Time Data Ingestion Platform (RTDIP)
-            homepage_url: https://www.rtdip.io/
+            homepage_url: https://lfenergy.org/projects/real-time-data-ingestion-platform-rtdip/
             logo: real_time_data_ingestion_platform_rtdip.svg
-            description: |
-              An open source, scalable platform designed to provide easy and secure access to high-volume, historical, and real-time process data from diverse sources for analytics, engineering, and data science applications in the energy sector
+            description: Open source time-series data platform that brings sensor, market, and weather data from many energy sites into one data lake, where engineers and analytics tools can query it.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
@@ -20494,9 +20461,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs8xQAD
           - item:
             name: RTC-Tools
-            homepage_url: https://rtctools.energy/
+            homepage_url: https://lfenergy.org/projects/rtc-tools/
             logo: rtc_tools.svg
-            description: RTC-Tools is an open-source Python package designed to model, simulate, and optimize networks of assets such as reservoirs, generating units, pumps, renewables, and batteries. Models can be specified in Python or in the Modelica modelling language, making it generically applicable to a broad class of assets. It can be used for model-predictive control and operational decision-making for water and energy systems.
+            description: Open source optimization framework that helps hydropower operators and energy traders get the most from reservoirs, batteries, and other assets within physical limits and under uncertain forecasts.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
@@ -20636,13 +20603,11 @@ landscape:
             second_path:
               - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/RWKV/rwkv.cpp
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/RWKV_AI
             extra:
               accepted: '2023-09-14'
-              dev_stats_url: https://insights.linuxfoundation.org/project/rwkv
               lfx_slug: rwkv
               other_links:
                 - name: Calendar
@@ -20651,9 +20616,6 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf89Meu2VufagqgMIu
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/Complete_with_DocuSign_RWKV-signed-pg4JPG_.pdf
-              annotations:
-                project_org: https://github.com/RWKV
-            additional_repos: []
           - item:
             name: Ryoma
             homepage_url: https://github.com/project-ryoma
@@ -20936,14 +20898,13 @@ landscape:
             name: SEAPATH
             homepage_url: https://www.lfenergy.org/projects/seapath/
             logo: seapath.svg
-            description: |
-              High availability real-time hypervisor for hosting digital substation virtualized protection and control applications (vPAC)
+            description: Open source, real-time virtualization platform that runs protection, automation, and control applications from multiple vendors on shared substation servers.
             second_path:
               - Project Group / LF Energy (LFE)
               - Industry / Energy & Climate
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / System Engineering
-            repo_url: https://github.com/seapath/TSC
+            repo_url: https://github.com/seapath/ansible
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -20957,12 +20918,6 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkWmNQAV
                 - name: Charter
                   url: https://github.com/lf-energy/foundation/blob/master/project_charters/seapath_charter.pdf
-              annotations:
-                project_org: https://github.com/seapath
-            additional_repos:
-              - repo_url: https://github.com/seapath/ansible
-              - repo_url: https://github.com/seapath/build_debian_iso
-              - repo_url: https://github.com/seapath/yocto-bsp
           - item:
             name: Secure Data Storage Working Group
             homepage_url: https://identity.foundation/
@@ -21426,13 +21381,13 @@ landscape:
             additional_repos: []
           - item:
             name: Smart HEMS Benchmark
-            homepage_url: https://github.com/ecoflow-ai/hems-benchmark
+            homepage_url: https://lfenergy.org/projects/smart-hems-benchmark/
             logo: smart_hems_benchmark.svg
-            description: This project aims to address the critical gap of standardized benchmarking scenarios in the rapid growth of residential Distributed Energy Resources (DERs). Through establishing a comprehensive open-source benchmarking platform, we provide an evaluation framework for the entire residential DER lifecycle.
+            description: Open source benchmark that compares home energy management strategies and solar and battery sizing on shared scenarios and metrics, so vendors, researchers, and installers get comparable results.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/ecoflow-ai/hems-benchmark
+            repo_url: https://github.com/SMART-HEMS-Benchmark/smart-hems-benchmark
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -21848,21 +21803,16 @@ landscape:
             description: SWHIDs (from “SoftWare Hash IDentifiers”) are persistent, intrinsic identifiers for software source code artifacts such as source code files, source trees, commits, and other objects typically found in version control systems.
             second_path:
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/swhid/specification
             license: Other
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-11-27'
-              dev_stats_url: https://insights.linuxfoundation.org/project/software-hash-identifier-swhid
               lfx_slug: software-hash-identifier-swhid
               other_links:
                 - name: Calendar
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/software-hash-identifier-swhid
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfoVGH3duUkiIEo3rQ
-              annotations:
-                project_org: https://github.com/swhid
-            additional_repos: []
           - item:
             name: Software Supply Chain Security Project
             homepage_url: https://uptane.github.io/
@@ -21903,8 +21853,7 @@ landscape:
             name: SOGNO
             homepage_url: https://www.lfenergy.org/projects/sogno/
             logo: sogno.svg
-            description: |
-              Open source, modular, microservices-based platform designed to enable next-generation Distribution Management Systems (DMS) for flexible and scalable automation of distribution grids at the edge
+            description: Open source set of modular building blocks for distribution grid automation, giving DSOs real-time grid simulation, CIM grid data handling, forecasting, and state estimation.
             second_path:
               - Project Group / LF Energy (LFE)
               - Industry / Energy & Climate
@@ -23904,10 +23853,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfRV2GY64SBC7B72dA
           - item:
             name: TROLIE
-            homepage_url: https://trolie.energy/
+            homepage_url: https://lfenergy.org/projects/trolie/
             logo: trolie.svg
-            description: |
-              Standardizes the exchange of transmission facility ratings and operating limits to enhance grid interoperability and comply with FERC Order 881
+            description: Open specification for an API that lets transmission owners and ISOs exchange FERC Order 881 line ratings (real-time, forecast, and seasonal) and resulting limits between any vendors' systems.
             second_path:
               - Project Group / LF Energy Standards and Specifications (LFESS)
               - Technology Sector / Cross-Technology
@@ -24466,10 +24414,12 @@ landscape:
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
+            repo_url: https://github.com/varen-project/varen
             license: MPL-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2026-09-22'
+              dev_stats_url: https://insights.linuxfoundation.org/project/varen
               lfx_slug: varen
               other_links:
                 - name: Calendar
@@ -24478,6 +24428,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfxOWgR2bjELnOxqrk
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/varen/varen_Charter.pdf?v=1790279137031
+              annotations:
+                project_org: https://github.com/varen-project
+            additional_repos: []
           - item:
             name: VC API Implementation
             homepage_url: https://tac.openwallet.foundation/projects/vc-api/
@@ -24580,7 +24533,7 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/velero-io/velero
+            repo_url: https://github.com/velero-io/velero-plugin-for-aws
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -27064,13 +27017,6 @@ landscape:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
             crunchbase: https://www.crunchbase.com/organization/cloudmate-1d80
-          - item:
-            name: AI Craft Works (member)
-            homepage_url: https://aicraftworks.ai/
-            logo: ai_craft_works.svg
-            description: Transform your business with intelligent AI Agents. Custom automation, analytics, and AI solutions for small, medium, and enterprise organizations. Unlock efficiency and innovation.
-            second_path:
-              - Project Membership / The Linux Foundation
           - item:
             name: AIDEFEND Labs (member)
             homepage_url: https://aidefendlabs.com/
@@ -33572,10 +33518,15 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/f5
           - item:
             name: Factory (member)
-            homepage_url: https://factory.com/
+            homepage_url: https://factory.ai/
             logo: factory.svg
+            description: Factory is an AI startup revolutionizing software engineering with autonomous Droids and coding agents.
             second_path:
+              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/factory-19d8
+            extra:
+              linkedin_url: https://www.linkedin.com/company/factory-hq
           - item:
             name: Fairsquarelab (member)
             homepage_url: https://fairsquarelab.com/
@@ -43191,16 +43142,6 @@ landscape:
               - Project Membership / LF AI & Data
             extra:
               linkedin_url: https://www.linkedin.com/company/spiraldb
-          - item:
-            name: Spitzkop (member)
-            homepage_url: https://spitzkop.io/
-            logo: spitzkop.svg
-            description: Spitzkop is a system and software engineering company with strong expertise in Cloud/DevOps/DevSecOps/DevNetOps. They provide tailor-made and off-the-shelf solutions for digital transformation, innovation, and skill building, using a value chain and re...
-            second_path:
-              - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/spitzkop
-            extra:
-              linkedin_url: https://www.linkedin.com/company/spitzkop
           - item:
             name: Spotify AB (member)
             homepage_url: https://spotify.com/
