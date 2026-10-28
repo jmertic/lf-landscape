@@ -133,7 +133,7 @@ landscape:
             second_path:
               - Project Group / Academy Software Foundation (ASWF)
               - Technology Sector / Visual Effects
-            repo_url: https://github.com/aces-aswf/CTL
+            repo_url: https://github.com/aces-aswf/aces-core
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -636,7 +636,7 @@ landscape:
               - PMO Managed / All
               - Industry / Materials
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/agstack/weather-server
+            repo_url: https://github.com/agstack/OpenAgri-WeatherService
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2021-05-05'
@@ -747,7 +747,7 @@ landscape:
               - Project Group / LF Energy (LFE)
               - Technology Sector / AI, ML, Data & Analytics
               - Technology Sector / Safety-Critical Systems
-            repo_url: https://github.com/ainetus/Expert_op4grid_recommender
+            repo_url: https://github.com/ainetus/ExpertOp4Grid
             license: MPL-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -2958,7 +2958,7 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / IoT & Embedded
               - Technology Sector / Open Hardware
-            repo_url: https://github.com/chipsalliance/rocket-chip
+            repo_url: https://github.com/chipsalliance/chisel
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2018-12-21'
@@ -8284,6 +8284,36 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4G0QAL
           - item:
+            name: GNU Radio
+            homepage_url: https://www.gnuradio.org/
+            logo: gnu_radio.svg
+            description: GNU Radio is a free & open-source software development toolkit that provides signal processing blocks to implement software radios.
+            second_path:
+              - Project Group / OCUDU Ecosystem Foundation
+              - Technology Sector / Networking & Edge
+            repo_url: https://github.com/gnuradio/gnuradio
+            license: Other
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-10-27'
+              dev_stats_url: https://insights.linuxfoundation.org/project/gnu-radio
+              lfx_slug: gnu-radio
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/gnu-radio
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf7OQL685QhgkkpkDh
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/gnu-radio/gnu-radio_Charter.pdf?v=1790963406014
+              annotations:
+                project_org: https://github.com/gnuradio
+            additional_repos:
+              - repo_url: https://github.com/gnuradio/gnuradio4
+              - repo_url: https://github.com/gnuradio/volk
+              - repo_url: https://github.com/gnuradio/gr-governance
+              - repo_url: https://github.com/gnuradio/gnuradio4-library
+              - repo_url: https://github.com/gnuradio/gnuradio4-blocks
+          - item:
             name: Golang Toolset for VPP (GoVPP)
             homepage_url: https://wiki.fd.io/view/GoVPP
             logo: golang_toolset_for_vpp_govpp.svg
@@ -9908,9 +9938,11 @@ landscape:
               - Technology Sector / Networking & Edge
               - Technology Sector / System Engineering
               - Technology Sector / Linux Kernel
+            repo_url: https://github.com/iovisor/bcc
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2015-08-17'
+              dev_stats_url: https://insights.linuxfoundation.org/project/iovisor
               lfx_slug: iovisor
               other_links:
                 - name: Calendar
@@ -9919,6 +9951,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wByZAAU
                 - name: Charter
                   url: https://www.iovisor.org/about/bylaws-policies
+              annotations:
+                project_org: https://github.com/iovisor
+            additional_repos: []
           - item:
             name: IPDK
             homepage_url: https://ipdk.io/
@@ -10644,7 +10679,7 @@ landscape:
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
-            repo_url: https://github.com/k0sproject/k0sctl
+            repo_url: https://github.com/k0sproject/k0s
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -13746,7 +13781,7 @@ landscape:
             second_path:
               - Project Group / LF Decentralized Trust
               - Technology Sector / Blockchain
-            repo_url: https://github.com/LFDT-Minokawa/governance
+            repo_url: https://github.com/LFDT-Minokawa/compact
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -13793,18 +13828,23 @@ landscape:
               - Industry / Cross-Industry
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/mlflow/mlflow
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/MLflow
             extra:
               accepted: '2020-06-02'
+              dev_stats_url: https://insights.linuxfoundation.org/project/MLF
               lfx_slug: MLF
               other_links:
                 - name: Calendar
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/MLF
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001Iw1NBQAZ
+              annotations:
+                project_org: https://github.com/mlflow
               linkedin_url: https://www.linkedin.com/company/mlflow-org/
+            additional_repos: []
           - item:
             name: Mobile Native Foundation
             homepage_url: https://mobilenativefoundation.org/
@@ -14602,10 +14642,12 @@ landscape:
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
+            repo_url: https://github.com/NODE-Collective/specification
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2024-11-11'
+              dev_stats_url: https://insights.linuxfoundation.org/project/node-collective
               lfx_slug: node-collective
               other_links:
                 - name: Calendar
@@ -14614,6 +14656,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfteqdawq12KhVQ5JD
                 - name: Charter
                   url: https://github.com/lf-energy/foundation/blob/main/project_charters/node-collective_charter.pdf
+              annotations:
+                project_org: https://github.com/NODE-Collective
+            additional_repos: []
           - item:
             name: Node.js
             homepage_url: https://nodejs.org/en/
@@ -16969,7 +17014,7 @@ landscape:
             second_path:
               - Project Group / Open Programmable Infrastructure Fund
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/opiproject/pydpu
+            repo_url: https://github.com/opiproject/opi
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2022-06-09'
@@ -17253,10 +17298,12 @@ landscape:
             second_path:
               - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/OpenSharing-IO/OpenSharing
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2026-06-09'
+              dev_stats_url: https://insights.linuxfoundation.org/project/opensharing
               lfx_slug: opensharing
               other_links:
                 - name: Calendar
@@ -17265,6 +17312,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfYeNX34swN3LNDwXe
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/opensharing/opensharing_Charter.pdf?v=1782150602120
+              annotations:
+                project_org: https://github.com/OpenSharing-IO
+            additional_repos: []
           - item:
             name: Open Source Readiness Special Interest Group
             homepage_url: https://osr.finos.org/
@@ -18259,7 +18309,7 @@ landscape:
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
-            repo_url: https://github.com/open-renewable-energy-systems/gaifare-hyphae-apis-demo
+            repo_url: https://github.com/open-renewable-energy-systems/ores
             license: TBD / NA
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -19218,6 +19268,28 @@ landscape:
               - repo_url: https://github.com/powsybl/pypowsybl
               - repo_url: https://github.com/powsybl/powsybl-open-rao
               - repo_url: https://github.com/powsybl/powsybl-starter
+          - item:
+            name: Praxis
+            homepage_url: https://praxis.fast/
+            logo: praxis.svg
+            description: develop a composable, memory-safe proxy server framework in Rust that serves cloud native and AI-native traffic through a filter pipeline extensible at compile time
+            second_path:
+              - Project Group / Cloud Native Computing Foundation (CNCF)
+              - Technology Sector / Cloud, Containers & Virtualization
+              - Technology Sector / Networking & Edge
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/praxis-proxy/praxis
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-10-07'
+              dev_stats_url: https://insights.linuxfoundation.org/project/praxis
+              lfx_slug: praxis
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/praxis
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfSZSzBO57KxG3P733
           - item:
             name: Presto Project
             homepage_url: https://prestodb.io/
@@ -20603,11 +20675,13 @@ landscape:
             second_path:
               - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/RWKV/rwkv.cpp
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             twitter: https://twitter.com/RWKV_AI
             extra:
               accepted: '2023-09-14'
+              dev_stats_url: https://insights.linuxfoundation.org/project/rwkv
               lfx_slug: rwkv
               other_links:
                 - name: Calendar
@@ -20616,6 +20690,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf89Meu2VufagqgMIu
                 - name: Charter
                   url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/Complete_with_DocuSign_RWKV-signed-pg4JPG_.pdf
+              annotations:
+                project_org: https://github.com/RWKV
+            additional_repos: []
           - item:
             name: Ryoma
             homepage_url: https://github.com/project-ryoma
@@ -21803,16 +21880,21 @@ landscape:
             description: SWHIDs (from “SoftWare Hash IDentifiers”) are persistent, intrinsic identifiers for software source code artifacts such as source code files, source trees, commits, and other objects typically found in version control systems.
             second_path:
               - Technology Sector / Cross-Technology
+            repo_url: https://github.com/swhid/specification
             license: Other
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
               accepted: '2023-11-27'
+              dev_stats_url: https://insights.linuxfoundation.org/project/software-hash-identifier-swhid
               lfx_slug: software-hash-identifier-swhid
               other_links:
                 - name: Calendar
                   url: https://zoom-lfx.platform.linuxfoundation.org/meetings/software-hash-identifier-swhid
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfoVGH3duUkiIEo3rQ
+              annotations:
+                project_org: https://github.com/swhid
+            additional_repos: []
           - item:
             name: Software Supply Chain Security Project
             homepage_url: https://uptane.github.io/
@@ -23331,6 +23413,32 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfoDYTmOwggh5yTDO4
           - item:
+            name: Thalamus
+            homepage_url: https://cobaltcore-dev.github.io/thalamus/main/
+            logo: thalamus.svg
+            description: |-
+              Thalamus is a vendor-neutral, Kubernetes-native inference service for sovereign LLM deployments. Weights, prompts, and context are protected and stay in the deployment perimeter.
+
+              Thalamus is built on llm-d, vLLM, the Gateway API inference extension, and Cortex.
+              Supports Nvidia, AMD, and Intel infrastructure.
+            second_path:
+              - Project Group / NeoNephos Foundation
+              - Technology Sector / Cross-Technology
+            repo_url: https://github.com/thalamus-ai/thalamus
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-10-05'
+              dev_stats_url: https://insights.linuxfoundation.org/project/thalamus
+              lfx_slug: thalamus
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/thalamus
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfsJFlv2HQOL0afrih
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/thalamus/thalamus_Charter.pdf?v=1791229389200
+          - item:
             name: Thanos
             homepage_url: https://thanos.io/
             logo: thanos.svg
@@ -24533,7 +24641,7 @@ landscape:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
               - Technology Sector / AI, ML, Data & Analytics
-            repo_url: https://github.com/velero-io/velero-plugin-for-aws
+            repo_url: https://github.com/velero-io/velero
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -26578,7 +26686,7 @@ landscape:
             name: Actualyze AI (member)
             homepage_url: https://actualyze.ai/
             logo: actualyze_ai.svg
-            description: Actualyze sits between your applications and your inference. Built to govern, secure, operate, and optimize every call, enforced automatically and invisible to your code.
+            description: 'Actualyze is an enterprise AI governance platform and AI gateway: separate team access and budget authority, PII guardrails, and one audit trail.'
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
