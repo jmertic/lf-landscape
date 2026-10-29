@@ -5132,6 +5132,31 @@ landscape:
               - repo_url: https://github.com/dapr/quickstarts
               - repo_url: https://github.com/dapr/community
           - item:
+            name: Darnit
+            homepage_url: https://github.com/darnitdevorg/darnit
+            logo: darnit.svg
+            description: |-
+              Darnit is a framework for auditing software repositories against compliance and security baselines, collecting the project context those audits need, remediating gaps, and producing signed attestations of the result. Its reference module implements the [OpenSSF Baseline](https://baseline.openssf.org/); additional baselines and organization-specific postures are added as modules via Python entry points and TOML configuration.
+
+              Darnit intentionally integrates with existing tooling as much as possible rather than overlapping. It does not replace OpenSSF Scorecard, Allstar, Minder, SLSA, gittuf, or similar tools, it is the layer that knows how to drive them for a given project. Almost every real project is unique enough that "just install Scorecard" or "just enable SLSA tooling" requires non-trivial integration work (understanding the build, the governance, who has write access, where docs live). That integration tax is what darnit exists to absorb so the underlying ecosystem tooling actually gets adopted, and adopted correctly.
+            second_path:
+              - Project Group / Open Source Security Foundation (OpenSSF)
+              - Technology Sector / Privacy & Security
+            repo_url: https://github.com/darnitdevorg/darnit
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-07-29'
+              dev_stats_url: https://insights.linuxfoundation.org/project/darnit
+              lfx_slug: darnit
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/darnit
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfbDVBXDQqh795NUYo
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/darnit/darnit_Charter.pdf?v=1785424640781
+          - item:
             name: Data Collection, Analytics, and Events (DCAE)
             homepage_url: https://wiki.onap.org/x/f5lk
             logo: data_collection_analytics_and_events_dcae.svg
@@ -8290,6 +8315,7 @@ landscape:
             description: GNU Radio is a free & open-source software development toolkit that provides signal processing blocks to implement software radios.
             second_path:
               - Project Group / OCUDU Ecosystem Foundation
+              - PMO Managed / All
               - Technology Sector / Networking & Edge
             repo_url: https://github.com/gnuradio/gnuradio
             license: Other
@@ -11119,10 +11145,7 @@ landscape:
             name: Kepler
             homepage_url: https://sustainable-computing.io/
             logo: kepler.svg
-            description: |-
-              Kepler is a lightweight Pod level power consumption metrics exporter.
-
-              Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe CPU performance counters and Linux kernel tracepoints. These data and stats from cgroup and sysfs are fed into ML models to estimate power consumption by Pods. The power consumption stats are then presented as Prometheus metrics and telemetry that can be used for Pod scheduling or scaling, energy consumption reporting and visulization, or can be extended with carbon intensity metrics to report on carbon footprint of Cloud Native workload.
+            description: Kepler (Kubernetes-based Efficient Power Level Exporter) is a Prometheus exporter that measures energy consumption at the Pod and Node level by reading hardware sensors, attributing it to containers, and giving per-workload visibility into where energy goes. Let's make every watt matter.
             second_path:
               - Project Group / Cloud Native Computing Foundation (CNCF)
               - Technology Sector / Cloud, Containers & Virtualization
@@ -16037,6 +16060,28 @@ landscape:
                 - name: Charter
                   url: https://github.com/openenclave/openenclave/blob/2554287d88aba93f41a1518b29c57c386c1ecb4b/docs/Community/sig-release/charter.md
           - item:
+            name: OpenEnv
+            homepage_url: https://huggingface.co/docs/openenv/index
+            logo: openenv.svg
+            description: OpenEnv is an open framework for building, deploying, and running isolated environments for training and evaluating AI agents with reinforcement learning. It provides simple, Gymnasium-style APIs and uses MCP as the interface between model and environment. Environments are packaged as containers and published to the Hugging Face Hub, where any compatible trainer, harness, or evaluator can use them.
+            second_path:
+              - Project Group / Agentic AI Foundation (AAIF)
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/openenv/OpenEnv
+            license: BSD-3-Clause
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-10-22'
+              dev_stats_url: https://insights.linuxfoundation.org/project/openenv
+              lfx_slug: openenv
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/openenv
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfxdSAcEMusO01sMXb
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/openenv/openenv_Charter.pdf?v=1792687357912
+          - item:
             name: OpenEverest
             homepage_url: https://openeverest.io/
             logo: openeverest.svg
@@ -17122,6 +17167,28 @@ landscape:
             additional_repos:
               - repo_url: https://github.com/open-resource-discovery/provider-server
           - item:
+            name: Open Responses
+            homepage_url: https://www.openresponses.org/
+            logo: open_responses.svg
+            description: Open Responses is a vendor-neutral specification and conformance project for language-model APIs, derived from the OpenAI Responses API. It gives model providers, inference gateways, client libraries, and agent frameworks a common representation for requests, output items, multimodal content, tool calls, and streaming events. Implementers can preserve these semantics across providers while retaining clearly defined extension points.
+            second_path:
+              - Project Group / Agentic AI Foundation (AAIF)
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/openresponses/openresponses
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-10-21'
+              dev_stats_url: https://insights.linuxfoundation.org/project/open-responses
+              lfx_slug: open-responses
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/open-responses
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfc7GXg7eQ6xqqXyk5
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/open-responses/open-responses_Charter.pdf?v=1792629583408
+          - item:
             name: Open Review Initiative
             homepage_url: https://openreviewinitiative.org/
             logo: open_review_initiative.svg
@@ -17182,6 +17249,28 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfbkTM2SDFcVI6Okq1
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/openrv/openrv_Charter.pdf?v=1784058223790
+          - item:
+            name: OpenSandbox
+            homepage_url: https://open-sandbox.ai/
+            logo: opensandbox.svg
+            description: OpenSandbox is an open-source, general-purpose sandbox platform for AI applications. It provides multi-language SDKs, unified sandbox lifecycle and execution APIs, a CLI, an MCP server, and Docker/Kubernetes runtimes for safely running AI-generated code, coding agents, GUI/browser agents, agent evaluation workloads, and RL training workloads.
+            second_path:
+              - Project Group / Agentic AI Foundation (AAIF)
+              - Technology Sector / AI, ML, Data & Analytics
+            repo_url: https://github.com/opensandbox-group/OpenSandbox
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-10-20'
+              dev_stats_url: https://insights.linuxfoundation.org/project/opensandbox
+              lfx_slug: opensandbox
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/opensandbox
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfPqzcdMMqOTdnxtXf
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/opensandbox/opensandbox_Charter.pdf?v=1792628911562
           - item:
             name: OpenSearch Software Foundation
             homepage_url: https://www.opensearch.org/
@@ -17757,7 +17846,7 @@ landscape:
               - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
               - Technology Sector / Web & Application Development
-            repo_url: https://github.com/Open-Voice-Trustmark/docs
+            repo_url: https://github.com/Open-Voice-Trustmark/satool-frontend
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -19315,6 +19404,28 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWedNQAT
               linkedin_url: https://www.linkedin.com/company/presto-foundation/
+          - item:
+            name: Privateer
+            homepage_url: https://privateerproj.com/
+            logo: privateer.svg
+            description: Privateer is a plugin-based framework for security and compliance validation of deployed systems. Its CLI, `pvtr`, actively interacts with software resources to verify that systems behave as expected, testing from both normal user and attacker perspectives to identify security vulnerabilities and misconfigurations that static analysis might miss.
+            second_path:
+              - Project Group / Open Source Security Foundation (OpenSSF)
+              - Technology Sector / Privacy & Security
+            repo_url: https://github.com/privateerproj/privateer
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-09-22'
+              dev_stats_url: https://insights.linuxfoundation.org/project/privateer
+              lfx_slug: privateer
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/privateer
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfzBpznW09gTR4shzi
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/privateer/privateer_Charter.pdf?v=1790202105538
           - item:
             name: Product Control Common Template
             homepage_url: https://gitlab.com/finosfoundation/legend/financial-objects/product-control-common-template
@@ -20995,6 +21106,29 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkWmNQAV
                 - name: Charter
                   url: https://github.com/lf-energy/foundation/blob/master/project_charters/seapath_charter.pdf
+          - item:
+            name: Secure Agentic Framework
+            homepage_url: https://github.com/secure-agentic-framework
+            logo: secure_agentic_framework.svg
+            description: develop a comprehensive security framework for documenting and mitigating threats in the Model Context Protocol (MCP) ecosystem
+            second_path:
+              - Project Group / Open Source Security Foundation (OpenSSF)
+              - Technology Sector / Privacy & Security
+            repo_url: https://github.com/secure-agentic-framework/saf-mcp
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+            extra:
+              accepted: '2026-10-20'
+              dev_stats_url: https://insights.linuxfoundation.org/project/secure-agentic-framework
+              lfx_slug: secure-agentic-framework
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/secure-agentic-framework
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfAX2krGQkuJHh7N7G
+              annotations:
+                project_org: https://github.com/secure-agentic-framework
+            additional_repos: []
           - item:
             name: Secure Data Storage Working Group
             homepage_url: https://identity.foundation/
@@ -38720,7 +38854,7 @@ landscape:
             name: NEAR (member)
             homepage_url: https://near.ai/
             logo: near.svg
-            description: NEAR AI Cloud runs frontier open models inside hardware-secured TEEs. Every request is attested end to end — confidential by default, verifiable by anyone.
+            description: NEAR AI Cloud is a private AI inference platform built on confidential computing. Our TEE-hosted open-weight models return a hardware-signed proof with every response, at the same per-token price as ordinary inference.
             second_path:
               - Project Membership / The Linux Foundation
               - Project Membership / Confidential Computing Consortium (CCC)
@@ -44267,7 +44401,7 @@ landscape:
             name: Tensormesh, Inc. (member)
             homepage_url: https://tensormesh.ai/
             logo: tensormesh_inc.svg
-            description: Tensormesh helps AI teams cut inference costs by caching and reusing repeated context. Run faster, lower-cost workloads with serverless and on-demand deployment.
+            description: Cut LLM inference cost and latency. Tensormesh caches repeated context across GPU memory, host memory and storage so your GPUs stop recomputing it.
             second_path:
               - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
