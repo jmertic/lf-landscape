@@ -16187,9 +16187,9 @@ landscape:
                 - name: iCal
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L1HYFQA3
           - item:
-            name: Open Financial Trust Alliance
+            name: Open Financial Trust Alliance (OFTA)
             homepage_url: https://tazama.org/
-            logo: open_financial_trust_alliance.svg
+            logo: open_financial_trust_alliance_ofta.svg
             description: Providing rules and configuration guidelines for the Tazama ecosystem. While the full rules developed are not intended to be publicly released, the rules are intended to enable open implementation of Tazama software.
             second_path:
               - Technology Sector / Open Source & Compliance Best Practices
@@ -17846,7 +17846,7 @@ landscape:
               - Project Group / LF AI & Data
               - Technology Sector / AI, ML, Data & Analytics
               - Technology Sector / Web & Application Development
-            repo_url: https://github.com/Open-Voice-Trustmark/satool-frontend
+            repo_url: https://github.com/Open-Voice-Trustmark/docs
             license: Apache-2.0
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
             extra:
@@ -23338,7 +23338,7 @@ landscape:
             logo: tazama_anti_financial_crime_working_group.svg
             description: The Working Group will define the rules and configuration required for fraud detection within the Tazama ecosystem.
             second_path:
-              - Project Group / Open Financial Trust Alliance
+              - Project Group / Open Financial Trust Alliance (OFTA)
               - Technology Sector / Open Source & Compliance Best Practices
             repo_url: https://github.com/frmscoe/.github
             license: Apache-2.0
@@ -24650,9 +24650,9 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWhAGQA1
           - item:
             name: VAREN
-            homepage_url: https://github.com/varen-project
+            homepage_url: https://lfenergy.org/projects/varen/
             logo: varen.svg
-            description: VAREN is an open source library designed to extract actionable intelligence from LiDAR point clouds for the distribution networks.
+            description: Open source Python library that turns vehicle LiDAR scans of overhead distribution lines into asset and vegetation data, so utilities don't have to interpret the scans by hand.
             second_path:
               - Project Group / LF Energy (LFE)
               - Technology Sector / Cross-Technology
@@ -24670,9 +24670,6 @@ landscape:
                   url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfxOWgR2bjELnOxqrk
                 - name: Charter
                   url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/varen/varen_Charter.pdf?v=1790279137031
-              annotations:
-                project_org: https://github.com/varen-project
-            additional_repos: []
           - item:
             name: VC API Implementation
             homepage_url: https://tac.openwallet.foundation/projects/vc-api/
@@ -33760,15 +33757,10 @@ landscape:
               linkedin_url: https://www.linkedin.com/company/f5
           - item:
             name: Factory (member)
-            homepage_url: https://factory.ai/
+            homepage_url: https://factory.com/
             logo: factory.svg
-            description: Factory is an AI startup revolutionizing software engineering with autonomous Droids and coding agents.
             second_path:
-              - Project Membership / Cloud Native Computing Foundation (CNCF)
               - Project Membership / The Linux Foundation
-            crunchbase: https://www.crunchbase.com/organization/factory-19d8
-            extra:
-              linkedin_url: https://www.linkedin.com/company/factory-hq
           - item:
             name: Fairsquarelab (member)
             homepage_url: https://fairsquarelab.com/
@@ -35478,12 +35470,13 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/icubedsrl
           - item:
-            name: ID.me Inc (member)
+            name: IDMe (member)
             homepage_url: https://id.me/
-            logo: id.svg
-            description: ID.me is a digital identity network that simplifies online identity verification and authentication for individuals, government agencies, and retailers, ensuring secure and reliable access to benefits and services.
+            logo: idme.svg
+            description: IDMe is a digital identity wallet that lets people prove who they are once and reuse it everywhere. It helps government agencies, healthcare organizations, and enterprises verify identity securely, stop fraud, and give the right people fast, trusted access to benefits and services.
             second_path:
               - Project Membership / The Linux Foundation
+            crunchbase: https://www.crunchbase.com/organization/id-me
           - item:
             name: iExec Blockchain Tech (member)
             homepage_url: https://iex.ec/
@@ -39409,7 +39402,7 @@ landscape:
               Automate over-the-air software updates for embedded devices
               Prevent software vulnerabilities and bugs from exposing your devices to compromise, data breach and downtime.
 
-              Mender (www.mender.io) is an open source over-the-air (OTA) software updater for connected Linux devices (Internet of Things). Safely and securely update your fleet of devices with Mender's client/server solution while managing all the security nuances required for the update process. 
+              Mender (www.mender.io) is an open source over-the-air (OTA) software updater for connected Linux devices (Internet of Things). Safely and securely update your fleet of devices with Mender's client/server solution while managing all the security nuances required for the update process
 
               Built by the team behind the battle-hardened configuration management framework that currently manages over 10 million Linux-based systems, Mender provides an OTA software updates product to fix software bugs, mend security vulnerabilities, and deliver new features to Linux devices.
 
