@@ -1,3 +1,4 @@
+# DEPRECATED - new location https://github.com/linuxfoundation/lf-landscape
 # Linux Foundation Landscape
 
 ![LF Landscape Logo](https://landscape.linuxfoundation.org/images/left-logo.svg)
